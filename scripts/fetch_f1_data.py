@@ -60,18 +60,18 @@ def git_commit_and_push():
         print(f"Changes detected on branch '{branch}'. Committing and pushing...")
         
         # Add changes
-        subprocess.run(["git", "add", "data/*.json"], check=True)
+        subprocess.run(["git", "add", "."], check=True)
         
         # Commit
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         subprocess.run(["git", "commit", "-m", f"Auto-update F1 data: {timestamp}"], check=True)
 
-        # Pull latest changes to avoid conflicts (rebase on top of pulled changes)
+        # Pull latest changes to avoid conflicts (merge strategy)
         try:
             print("Pulling latest changes...")
-            subprocess.run(["git", "pull", "--rebase", GITHUB_REMOTE, branch], check=True)
+            subprocess.run(["git", "pull", "--no-rebase", GITHUB_REMOTE, branch], check=True)
         except subprocess.CalledProcessError:
-            print("Pull failed (maybe no remote branch yet?), continuing...")
+            print("Pull failed, trying to push anyway...")
         
         # Push
         subprocess.run(["git", "push", GITHUB_REMOTE, branch], check=True)
@@ -90,9 +90,54 @@ def job():
             success_count += 1
             
     if success_count > 0:
+        # Generate driver-team mapping (since standings might be empty pre-season)
+        fetch_driver_teams()
         git_commit_and_push()
     
     print("Job finished.")
+
+def fetch_driver_teams():
+    print("Fetching driver-team mappings...")
+    try:
+        # Get constructors first
+        url = ENDPOINTS["constructors"]
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        constructors_data = response.json()
+        constructors = constructors_data["MRData"]["ConstructorTable"]["Constructors"]
+        
+        driver_teams = []
+        
+        for constructor in constructors:
+            c_id = constructor["constructorId"]
+            # Fetch drivers for this constructor
+            d_url = f"http://api.jolpi.ca/ergast/f1/current/constructors/{c_id}/drivers.json"
+            print(f"  Fetching drivers for {c_id}...")
+            d_response = requests.get(d_url, timeout=10)
+            d_response.raise_for_status()
+            d_data = d_response.json()
+            drivers = d_data["MRData"]["DriverTable"]["Drivers"]
+            
+            for driver in drivers:
+                entry = {
+                    "driver": driver,
+                    "constructor": constructor
+                }
+                driver_teams.append(entry)
+            
+            # Be nice to the API
+            time.sleep(0.2)
+            
+        file_path = os.path.join(DATA_DIR, "driver_teams.json")
+        with open(file_path, "w") as f:
+            json.dump(driver_teams, f, indent=2)
+        print(f"Saved driver_teams.json with {len(driver_teams)} entries.")
+        return True
+
+    except Exception as e:
+        print(f"Error generating driver teams: {e}")
+        return False
+
 
 def main():
     print("F1 Data Fetcher started...")
