@@ -15,6 +15,7 @@ GITHUB_BRANCH = "main"
 ENDPOINTS = {
     "current_schedule": "http://api.jolpi.ca/ergast/f1/current.json",
     "last_results": "http://api.jolpi.ca/ergast/f1/current/last/results.json",
+    "current_results": "http://api.jolpi.ca/ergast/f1/current/results.json?limit=100",
     "next_race": "http://api.jolpi.ca/ergast/f1/current/next.json",
     "driver_standings": "http://api.jolpi.ca/ergast/f1/current/driverStandings.json",
     "constructor_standings": "http://api.jolpi.ca/ergast/f1/current/constructorStandings.json"
