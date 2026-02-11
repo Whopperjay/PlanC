@@ -1,0 +1,13 @@
+services:
+  f1-data-updater:
+    build: .
+    container_name: f1-data-updater
+    restart: always
+    volumes:
+      # Mount the current directory so the script updates the files on the host (which is the git repo)
+      - .:/app
+      # Mount the host's SSH keys so the container can authenticate with GitHub
+      - ~/.ssh:/root/.ssh:ro
+      # Sync timezone
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
