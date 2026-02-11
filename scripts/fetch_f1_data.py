@@ -18,7 +18,9 @@ ENDPOINTS = {
     "current_results": "http://api.jolpi.ca/ergast/f1/current/results.json?limit=100",
     "next_race": "http://api.jolpi.ca/ergast/f1/current/next.json",
     "driver_standings": "http://api.jolpi.ca/ergast/f1/current/driverStandings.json",
-    "constructor_standings": "http://api.jolpi.ca/ergast/f1/current/constructorStandings.json"
+    "constructor_standings": "http://api.jolpi.ca/ergast/f1/current/constructorStandings.json",
+    "drivers": "http://api.jolpi.ca/ergast/f1/current/drivers.json?limit=100",
+    "constructors": "http://api.jolpi.ca/ergast/f1/current/constructors.json?limit=100"
 }
 
 def ensure_data_dir():
