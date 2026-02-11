@@ -60,18 +60,18 @@ def git_commit_and_push():
         print(f"Changes detected on branch '{branch}'. Committing and pushing...")
         
         # Add changes
-        subprocess.run(["git", "add", "data/*.json"], check=True)
+        subprocess.run(["git", "add", "."], check=True)
         
         # Commit
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         subprocess.run(["git", "commit", "-m", f"Auto-update F1 data: {timestamp}"], check=True)
 
-        # Pull latest changes to avoid conflicts (rebase on top of pulled changes)
+        # Pull latest changes to avoid conflicts (merge strategy)
         try:
             print("Pulling latest changes...")
-            subprocess.run(["git", "pull", "--rebase", GITHUB_REMOTE, branch], check=True)
+            subprocess.run(["git", "pull", "--no-rebase", GITHUB_REMOTE, branch], check=True)
         except subprocess.CalledProcessError:
-            print("Pull failed (maybe no remote branch yet?), continuing...")
+            print("Pull failed, trying to push anyway...")
         
         # Push
         subprocess.run(["git", "push", GITHUB_REMOTE, branch], check=True)
