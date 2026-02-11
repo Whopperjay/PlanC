@@ -40,32 +40,38 @@ def fetch_and_save(name, url):
         print(f"Error fetching {name}: {e}")
         return False
 
+
 def git_commit_and_push():
     try:
+        # Detect current branch
+        branch = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], capture_output=True, text=True).stdout.strip()
+        if not branch:
+            branch = "main" # Fallback
+
         # Check if there are changes
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
         if not status.stdout.strip():
             print("No changes to commit.")
             return
 
-        print("Changes detected. Committing and pushing...")
+        print(f"Changes detected on branch '{branch}'. Committing and pushing...")
         
-        # Pull latest changes to avoid conflicts
-        try:
-            print("Pulling latest changes...")
-            subprocess.run(["git", "pull", "--rebase", GITHUB_REMOTE, GITHUB_BRANCH], check=True)
-        except subprocess.CalledProcessError:
-            print("Pull failed (maybe no remote branch yet?), continuing...")
-
         # Add changes
         subprocess.run(["git", "add", "data/*.json"], check=True)
         
         # Commit
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         subprocess.run(["git", "commit", "-m", f"Auto-update F1 data: {timestamp}"], check=True)
+
+        # Pull latest changes to avoid conflicts (rebase on top of pulled changes)
+        try:
+            print("Pulling latest changes...")
+            subprocess.run(["git", "pull", "--rebase", GITHUB_REMOTE, branch], check=True)
+        except subprocess.CalledProcessError:
+            print("Pull failed (maybe no remote branch yet?), continuing...")
         
         # Push
-        subprocess.run(["git", "push", GITHUB_REMOTE, GITHUB_BRANCH], check=True)
+        subprocess.run(["git", "push", GITHUB_REMOTE, branch], check=True)
         print("Successfully pushed to GitHub.")
         
     except subprocess.CalledProcessError as e:
