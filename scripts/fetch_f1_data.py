@@ -20,7 +20,9 @@ ENDPOINTS = {
     "driver_standings": "http://api.jolpi.ca/ergast/f1/current/driverStandings.json",
     "constructor_standings": "http://api.jolpi.ca/ergast/f1/current/constructorStandings.json",
     "drivers": "http://api.jolpi.ca/ergast/f1/current/drivers.json?limit=100",
-    "constructors": "http://api.jolpi.ca/ergast/f1/current/constructors.json?limit=100"
+    "constructors": "http://api.jolpi.ca/ergast/f1/current/constructors.json?limit=100",
+    "qualifying": "http://api.jolpi.ca/ergast/f1/current/qualifying.json?limit=100",
+    "sprint": "http://api.jolpi.ca/ergast/f1/current/sprint.json?limit=100"
 }
 
 def ensure_data_dir():
@@ -83,6 +85,10 @@ def git_commit_and_push():
 def job():
     print(f"Starting job at {datetime.now()}")
     ensure_data_dir()
+    
+    # Update a timestamp file to force a commit even if data hasn't changed
+    with open(os.path.join(DATA_DIR, "last_updated.txt"), "w") as f:
+        f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     
     success_count = 0
     for name, url in ENDPOINTS.items():
