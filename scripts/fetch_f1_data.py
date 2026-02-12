@@ -86,6 +86,10 @@ def job():
     print(f"Starting job at {datetime.now()}")
     ensure_data_dir()
     
+    # Update a timestamp file to force a commit even if data hasn't changed
+    with open(os.path.join(DATA_DIR, "last_updated.txt"), "w") as f:
+        f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    
     success_count = 0
     for name, url in ENDPOINTS.items():
         if fetch_and_save(name, url):
