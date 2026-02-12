@@ -20,7 +20,9 @@ ENDPOINTS = {
     "driver_standings": "http://api.jolpi.ca/ergast/f1/current/driverStandings.json",
     "constructor_standings": "http://api.jolpi.ca/ergast/f1/current/constructorStandings.json",
     "drivers": "http://api.jolpi.ca/ergast/f1/current/drivers.json?limit=100",
-    "constructors": "http://api.jolpi.ca/ergast/f1/current/constructors.json?limit=100"
+    "constructors": "http://api.jolpi.ca/ergast/f1/current/constructors.json?limit=100",
+    "qualifying": "http://api.jolpi.ca/ergast/f1/current/qualifying.json?limit=100",
+    "sprint": "http://api.jolpi.ca/ergast/f1/current/sprint.json?limit=100"
 }
 
 def ensure_data_dir():
