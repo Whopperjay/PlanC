@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,22 +18,27 @@
             margin: 0;
             text-align: center;
         }
+
         .container {
             padding: 20px;
             max-width: 400px;
         }
+
         .logo {
             font-size: 60px;
             margin-bottom: 20px;
         }
+
         h1 {
             font-size: 24px;
             margin-bottom: 10px;
         }
+
         p {
             color: #888;
             margin-bottom: 30px;
         }
+
         .button {
             display: inline-block;
             background-color: #E10600;
@@ -45,9 +51,11 @@
             box-shadow: 0 4px 15px rgba(225, 6, 0, 0.4);
             transition: transform 0.2s;
         }
+
         .button:active {
             transform: scale(0.95);
         }
+
         .footer {
             margin-top: 50px;
             font-size: 12px;
@@ -55,14 +63,15 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <div class="logo">🏎️</div>
         <h1>Plan C - F1 2026</h1>
         <p id="message">Opening the app...</p>
-        
+
         <a id="action-button" href="#" class="button">Open App</a>
-        
+
         <div class="footer">
             <p>If the app is not installed, download it from the App Store.</p>
         </div>
@@ -86,11 +95,13 @@
         document.getElementById('action-button').href = deepLink;
         
         // Attempt to open automatically
-        setTimeout(function() {
-            window.location.href = deepLink;
-        }, 500);
+        window.location.href = deepLink;
         
-        // Fallback or App Store redirect could go here
+        // Fallback to App Store if app is not installed
+        setTimeout(function() {
+            window.location.href = "https://apps.apple.com/us/app/plan-c/id6758921123";
+        }, 2000); // 2 seconds delay
     </script>
 </body>
+
 </html>
