@@ -148,7 +148,7 @@
               "position": "6",
               "Driver": {
                 "driverId": "norris",
-                "permanentNumber": "4",
+                "permanentNumber": "1",
                 "code": "NOR",
                 "url": "http://en.wikipedia.org/wiki/Lando_Norris",
                 "givenName": "Lando",
@@ -594,7 +594,7 @@
               "position": "6",
               "Driver": {
                 "driverId": "norris",
-                "permanentNumber": "4",
+                "permanentNumber": "1",
                 "code": "NOR",
                 "url": "http://en.wikipedia.org/wiki/Lando_Norris",
                 "givenName": "Lando",
