@@ -1,0 +1,30 @@
+{
+  "confirmed": [
+    "australia",
+    "china",
+    "japan",
+    "miami",
+    "canada",
+    "monaco",
+    "barcelona",
+    "austria",
+    "uk",
+    "belgium",
+    "hungary",
+    "netherlands",
+    "italy",
+    "madrid",
+    "azerbaijan",
+    "singapore",
+    "usa",
+    "mexico",
+    "brazil",
+    "lasvegas",
+    "qatar",
+    "abudhabi"
+  ],
+  "cancelled": [
+    "bahrain",
+    "saudi"
+  ]
+}
