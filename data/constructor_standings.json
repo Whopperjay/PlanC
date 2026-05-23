@@ -8,16 +8,16 @@
     "total": "11",
     "StandingsTable": {
       "season": "2026",
-      "round": "4",
+      "round": "5",
       "StandingsLists": [
         {
           "season": "2026",
-          "round": "4",
+          "round": "5",
           "ConstructorStandings": [
             {
               "position": "1",
               "positionText": "1",
-              "points": "180",
+              "points": "194",
               "wins": "4",
               "Constructor": {
                 "constructorId": "mercedes",
@@ -29,7 +29,7 @@
             {
               "position": "2",
               "positionText": "2",
-              "points": "110",
+              "points": "117",
               "wins": "0",
               "Constructor": {
                 "constructorId": "ferrari",
@@ -41,7 +41,7 @@
             {
               "position": "3",
               "positionText": "3",
-              "points": "94",
+              "points": "106",
               "wins": "0",
               "Constructor": {
                 "constructorId": "mclaren",
@@ -53,7 +53,7 @@
             {
               "position": "4",
               "positionText": "4",
-              "points": "30",
+              "points": "32",
               "wins": "0",
               "Constructor": {
                 "constructorId": "red_bull",
@@ -89,7 +89,7 @@
             {
               "position": "7",
               "positionText": "7",
-              "points": "14",
+              "points": "15",
               "wins": "0",
               "Constructor": {
                 "constructorId": "rb",
