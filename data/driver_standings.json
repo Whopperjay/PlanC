@@ -17,8 +17,8 @@
             {
               "position": "1",
               "positionText": "1",
-              "points": "106",
-              "wins": "3",
+              "points": "131",
+              "wins": "4",
               "Driver": {
                 "driverId": "antonelli",
                 "permanentNumber": "12",
@@ -65,7 +65,7 @@
             {
               "position": "3",
               "positionText": "3",
-              "points": "63",
+              "points": "75",
               "wins": "0",
               "Driver": {
                 "driverId": "leclerc",
@@ -89,6 +89,30 @@
             {
               "position": "4",
               "positionText": "4",
+              "points": "72",
+              "wins": "0",
+              "Driver": {
+                "driverId": "hamilton",
+                "permanentNumber": "44",
+                "code": "HAM",
+                "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
+                "givenName": "Lewis",
+                "familyName": "Hamilton",
+                "dateOfBirth": "1985-01-07",
+                "nationality": "British"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "ferrari",
+                  "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                  "name": "Ferrari",
+                  "nationality": "Italian"
+                }
+              ]
+            },
+            {
+              "position": "5",
+              "positionText": "5",
               "points": "58",
               "wins": "0",
               "Driver": {
@@ -107,30 +131,6 @@
                   "url": "https://en.wikipedia.org/wiki/McLaren",
                   "name": "McLaren",
                   "nationality": "British"
-                }
-              ]
-            },
-            {
-              "position": "5",
-              "positionText": "5",
-              "points": "54",
-              "wins": "0",
-              "Driver": {
-                "driverId": "hamilton",
-                "permanentNumber": "44",
-                "code": "HAM",
-                "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
-                "givenName": "Lewis",
-                "familyName": "Hamilton",
-                "dateOfBirth": "1985-01-07",
-                "nationality": "British"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "ferrari",
-                  "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                  "name": "Ferrari",
-                  "nationality": "Italian"
                 }
               ]
             },
@@ -161,7 +161,7 @@
             {
               "position": "7",
               "positionText": "7",
-              "points": "28",
+              "points": "43",
               "wins": "0",
               "Driver": {
                 "driverId": "max_verstappen",
@@ -185,31 +185,7 @@
             {
               "position": "8",
               "positionText": "8",
-              "points": "17",
-              "wins": "0",
-              "Driver": {
-                "driverId": "bearman",
-                "permanentNumber": "87",
-                "code": "BEA",
-                "url": "http://en.wikipedia.org/wiki/Oliver_Bearman",
-                "givenName": "Oliver",
-                "familyName": "Bearman",
-                "dateOfBirth": "2005-05-08",
-                "nationality": "British"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "haas",
-                  "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                  "name": "Haas F1 Team",
-                  "nationality": "American"
-                }
-              ]
-            },
-            {
-              "position": "9",
-              "positionText": "9",
-              "points": "16",
+              "points": "20",
               "wins": "0",
               "Driver": {
                 "driverId": "gasly",
@@ -231,9 +207,33 @@
               ]
             },
             {
+              "position": "9",
+              "positionText": "9",
+              "points": "18",
+              "wins": "0",
+              "Driver": {
+                "driverId": "bearman",
+                "permanentNumber": "87",
+                "code": "BEA",
+                "url": "http://en.wikipedia.org/wiki/Oliver_Bearman",
+                "givenName": "Oliver",
+                "familyName": "Bearman",
+                "dateOfBirth": "2005-05-08",
+                "nationality": "British"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "haas",
+                  "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
+                  "name": "Haas F1 Team",
+                  "nationality": "American"
+                }
+              ]
+            },
+            {
               "position": "10",
               "positionText": "10",
-              "points": "10",
+              "points": "16",
               "wins": "0",
               "Driver": {
                 "driverId": "lawson",
@@ -257,7 +257,7 @@
             {
               "position": "11",
               "positionText": "11",
-              "points": "7",
+              "points": "15",
               "wins": "0",
               "Driver": {
                 "driverId": "colapinto",
@@ -281,31 +281,7 @@
             {
               "position": "12",
               "positionText": "12",
-              "points": "5",
-              "wins": "0",
-              "Driver": {
-                "driverId": "arvid_lindblad",
-                "permanentNumber": "41",
-                "code": "LIN",
-                "url": "https://en.wikipedia.org/wiki/Arvid_Lindblad",
-                "givenName": "Arvid",
-                "familyName": "Lindblad",
-                "dateOfBirth": "2007-08-08",
-                "nationality": "British"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "rb",
-                  "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                  "name": "RB F1 Team",
-                  "nationality": "Italian"
-                }
-              ]
-            },
-            {
-              "position": "13",
-              "positionText": "13",
-              "points": "4",
+              "points": "14",
               "wins": "0",
               "Driver": {
                 "driverId": "hadjar",
@@ -327,9 +303,9 @@
               ]
             },
             {
-              "position": "14",
-              "positionText": "14",
-              "points": "4",
+              "position": "13",
+              "positionText": "13",
+              "points": "6",
               "wins": "0",
               "Driver": {
                 "driverId": "sainz",
@@ -347,6 +323,30 @@
                   "url": "https://en.wikipedia.org/wiki/Williams_Racing",
                   "name": "Williams",
                   "nationality": "British"
+                }
+              ]
+            },
+            {
+              "position": "14",
+              "positionText": "14",
+              "points": "5",
+              "wins": "0",
+              "Driver": {
+                "driverId": "arvid_lindblad",
+                "permanentNumber": "41",
+                "code": "LIN",
+                "url": "https://en.wikipedia.org/wiki/Arvid_Lindblad",
+                "givenName": "Arvid",
+                "familyName": "Lindblad",
+                "dateOfBirth": "2007-08-08",
+                "nationality": "British"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "rb",
+                  "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+                  "name": "RB F1 Team",
+                  "nationality": "Italian"
                 }
               ]
             },
@@ -500,14 +500,14 @@
               "points": "0",
               "wins": "0",
               "Driver": {
-                "driverId": "alonso",
-                "permanentNumber": "14",
-                "code": "ALO",
-                "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
-                "givenName": "Fernando",
-                "familyName": "Alonso",
-                "dateOfBirth": "1981-07-29",
-                "nationality": "Spanish"
+                "driverId": "stroll",
+                "permanentNumber": "18",
+                "code": "STR",
+                "url": "http://en.wikipedia.org/wiki/Lance_Stroll",
+                "givenName": "Lance",
+                "familyName": "Stroll",
+                "dateOfBirth": "1998-10-29",
+                "nationality": "Canadian"
               },
               "Constructors": [
                 {
@@ -524,14 +524,14 @@
               "points": "0",
               "wins": "0",
               "Driver": {
-                "driverId": "stroll",
-                "permanentNumber": "18",
-                "code": "STR",
-                "url": "http://en.wikipedia.org/wiki/Lance_Stroll",
-                "givenName": "Lance",
-                "familyName": "Stroll",
-                "dateOfBirth": "1998-10-29",
-                "nationality": "Canadian"
+                "driverId": "alonso",
+                "permanentNumber": "14",
+                "code": "ALO",
+                "url": "http://en.wikipedia.org/wiki/Fernando_Alonso",
+                "givenName": "Fernando",
+                "familyName": "Alonso",
+                "dateOfBirth": "1981-07-29",
+                "nationality": "Spanish"
               },
               "Constructors": [
                 {
