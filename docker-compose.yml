@@ -3,6 +3,8 @@ services:
     build: .
     container_name: f1-data-updater
     restart: unless-stopped
+    env_file:
+      - groq.env
     volumes:
       # Mount the host's SSH keys so the container can authenticate with GitHub
       - /root/.ssh:/root/.ssh:ro
@@ -12,3 +14,9 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
       - GIT_SSH_COMMAND=ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no
+      - OLLAMA_URL=http://host.docker.internal:11434   # fallback only (LLM_PROVIDER=ollama)
+      - LLM_PROVIDER=groq
+      - GROQ_MODEL=llama-3.3-70b-versatile
+      - DATA_DIR=data
+    extra_hosts:
+      - host.docker.internal:host-gateway
