@@ -337,6 +337,48 @@ def sanitize_drivers():
         print(f"  sanitize_drivers: all {len(drivers)} drivers OK")
 
 
+def generate_full_calendar():
+    """
+    Build a COMPLETE data/f1_2026_calendar.json the app can consume as single source:
+    static metadata template (race ids/names/flags/circuits/winter tests + event ids/types)
+    with fresh authoritative UTC session times overlaid from Jolpi (current_schedule.json).
+    Sessions absent from Jolpi (winter tests, races not yet in the API) keep template times.
+    """
+    tmpl_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'f1_2026_calendar_template.json')
+    sched_path = os.path.join(DATA_DIR, 'current_schedule.json')
+    if not os.path.exists(tmpl_path) or not os.path.exists(sched_path):
+        print('  generate_full_calendar: template or schedule missing, skipped')
+        return
+    with open(tmpl_path) as fp:
+        cal = json.load(fp)
+    with open(sched_path) as fp:
+        sched = json.load(fp)
+    times = {}
+    for race in sched['MRData']['RaceTable']['Races']:
+        prefix = ERGAST_TO_EVENT_PREFIX.get(race.get('raceName', ''))
+        if not prefix:
+            print('  WARNING generate_full_calendar: UNMAPPED race ' + repr(race.get('raceName')) + ' (round ' + str(race.get('round')) + ') -> sessions kept from template')
+            continue
+        for ergast_key, suffix in ERGAST_SESSION_SUFFIX.items():
+            sess = race.get(ergast_key)
+            if sess and sess.get('date') and sess.get('time'):
+                times[prefix + '-' + suffix] = sess['date'] + 'T' + sess['time']
+        if race.get('date') and race.get('time'):
+            times[prefix + '-gp'] = race['date'] + 'T' + race['time']
+    overlaid = kept = 0
+    for r in cal.get('races', []):
+        for e in r.get('events', []):
+            if e.get('id') in times:
+                e['date_time'] = times[e['id']]; overlaid += 1
+            else:
+                kept += 1
+    out_path = os.path.join(DATA_DIR, 'f1_2026_calendar.json')
+    with open(out_path, 'w') as fp:
+        json.dump(cal, fp, indent=2, ensure_ascii=False)
+        fp.write('\n')
+    print('  generate_full_calendar: ' + str(overlaid) + ' times from Jolpi, ' + str(kept) + ' kept from template')
+
+
 def generate_session_overrides():
     """
     Generates data/calendar_sessions.json from Ergast session times.
@@ -355,6 +397,7 @@ def generate_session_overrides():
     for race in data['MRData']['RaceTable']['Races']:
         prefix = ERGAST_TO_EVENT_PREFIX.get(race.get('raceName', ''))
         if not prefix:
+            print('  WARNING generate_session_overrides: UNMAPPED race ' + repr(race.get('raceName')) + ' (round ' + str(race.get('round')) + ')')
             continue
 
         for ergast_key, suffix in ERGAST_SESSION_SUFFIX.items():
@@ -420,6 +463,8 @@ def job():
         sanitize_drivers()
         # Generate session time overrides from Ergast for the app
         generate_session_overrides()
+        # Generate the COMPLETE calendar (metadata template + fresh Jolpi UTC times)
+        generate_full_calendar()
         # Generate race confirmed/cancelled status for the app
         generate_calendar_status()
         # Generate driver-team mapping

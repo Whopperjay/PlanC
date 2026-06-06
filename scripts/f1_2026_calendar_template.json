@@ -1,0 +1,997 @@
+{
+  "season": 2026,
+  "races": [
+    {
+      "id": "winter-test-1",
+      "name": "Winter Test 1",
+      "country": "Bahrain",
+      "circuit": "Bahrain International Circuit",
+      "flag_emoji": "🇧🇭",
+      "events": [
+        {
+          "id": "test1-day1",
+          "type": "winter_test",
+          "date_time": "2026-02-11T09:00:00+01:00",
+          "race_name": "Winter Test 1 - Day 1"
+        },
+        {
+          "id": "test1-day2",
+          "type": "winter_test",
+          "date_time": "2026-02-12T09:00:00+01:00",
+          "race_name": "Winter Test 1 - Day 2"
+        },
+        {
+          "id": "test1-day3",
+          "type": "winter_test",
+          "date_time": "2026-02-13T09:00:00+01:00",
+          "race_name": "Winter Test 1 - Day 3"
+        }
+      ]
+    },
+    {
+      "id": "winter-test-2",
+      "name": "Winter Test 2",
+      "country": "Bahrain",
+      "circuit": "Bahrain International Circuit",
+      "flag_emoji": "🇧🇭",
+      "events": [
+        {
+          "id": "test2-day1",
+          "type": "winter_test",
+          "date_time": "2026-02-18T09:00:00+01:00",
+          "race_name": "Winter Test 2 - Day 1"
+        },
+        {
+          "id": "test2-day2",
+          "type": "winter_test",
+          "date_time": "2026-02-19T09:00:00+01:00",
+          "race_name": "Winter Test 2 - Day 2"
+        },
+        {
+          "id": "test2-day3",
+          "type": "winter_test",
+          "date_time": "2026-02-20T09:00:00+01:00",
+          "race_name": "Winter Test 2 - Day 3"
+        }
+      ]
+    },
+    {
+      "id": "australia",
+      "name": "Australian Grand Prix",
+      "country": "Australia",
+      "circuit": "Albert Park Circuit",
+      "flag_emoji": "🇦🇺",
+      "events": [
+        {
+          "id": "australia-fp1",
+          "type": "fp1",
+          "date_time": "2026-03-06T01:30:00Z",
+          "race_name": "Australian Grand Prix"
+        },
+        {
+          "id": "australia-fp2",
+          "type": "fp2",
+          "date_time": "2026-03-06T05:00:00Z",
+          "race_name": "Australian Grand Prix"
+        },
+        {
+          "id": "australia-fp3",
+          "type": "fp3",
+          "date_time": "2026-03-07T01:30:00Z",
+          "race_name": "Australian Grand Prix"
+        },
+        {
+          "id": "australia-quali",
+          "type": "qualifying",
+          "date_time": "2026-03-07T05:00:00Z",
+          "race_name": "Australian Grand Prix"
+        },
+        {
+          "id": "australia-gp",
+          "type": "grand_prix",
+          "date_time": "2026-03-08T04:00:00Z",
+          "race_name": "Australian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "name": "Chinese Grand Prix",
+      "country": "China",
+      "circuit": "Shanghai International Circuit",
+      "flag_emoji": "🇨🇳",
+      "events": [
+        {
+          "id": "china-fp1",
+          "type": "fp1",
+          "date_time": "2026-03-13T03:30:00Z",
+          "race_name": "Chinese Grand Prix"
+        },
+        {
+          "id": "china-sq",
+          "type": "sprint_qualifying",
+          "date_time": "2026-03-13T07:30:00Z",
+          "race_name": "Chinese Grand Prix"
+        },
+        {
+          "id": "china-sprint",
+          "type": "sprint",
+          "date_time": "2026-03-14T03:00:00Z",
+          "race_name": "Chinese Grand Prix"
+        },
+        {
+          "id": "china-quali",
+          "type": "qualifying",
+          "date_time": "2026-03-14T07:00:00Z",
+          "race_name": "Chinese Grand Prix"
+        },
+        {
+          "id": "china-gp",
+          "type": "grand_prix",
+          "date_time": "2026-03-15T07:00:00Z",
+          "race_name": "Chinese Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japanese Grand Prix",
+      "country": "Japan",
+      "circuit": "Suzuka International Racing Course",
+      "flag_emoji": "🇯🇵",
+      "events": [
+        {
+          "id": "japan-fp1",
+          "type": "fp1",
+          "date_time": "2026-03-27T02:30:00Z",
+          "race_name": "Japanese Grand Prix"
+        },
+        {
+          "id": "japan-fp2",
+          "type": "fp2",
+          "date_time": "2026-03-27T06:00:00Z",
+          "race_name": "Japanese Grand Prix"
+        },
+        {
+          "id": "japan-fp3",
+          "type": "fp3",
+          "date_time": "2026-03-28T02:30:00Z",
+          "race_name": "Japanese Grand Prix"
+        },
+        {
+          "id": "japan-quali",
+          "type": "qualifying",
+          "date_time": "2026-03-28T06:00:00Z",
+          "race_name": "Japanese Grand Prix"
+        },
+        {
+          "id": "japan-gp",
+          "type": "grand_prix",
+          "date_time": "2026-03-29T05:00:00Z",
+          "race_name": "Japanese Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "bahrain",
+      "name": "Bahrain Grand Prix",
+      "country": "Bahrain",
+      "circuit": "Bahrain International Circuit",
+      "flag_emoji": "🇧🇭",
+      "cancelled": true,
+      "events": [
+        {
+          "id": "bahrain-fp1",
+          "type": "fp1",
+          "date_time": "2026-04-10T14:30:00+02:00",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-fp2",
+          "type": "fp2",
+          "date_time": "2026-04-10T18:00:00+02:00",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-fp3",
+          "type": "fp3",
+          "date_time": "2026-04-11T14:30:00+02:00",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-quali",
+          "type": "qualifying",
+          "date_time": "2026-04-11T18:00:00+02:00",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-gp",
+          "type": "grand_prix",
+          "date_time": "2026-04-12T17:00:00+02:00",
+          "race_name": "Bahrain Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "saudi",
+      "name": "Saudi Arabian Grand Prix",
+      "country": "Saudi Arabia",
+      "circuit": "Jeddah Corniche Circuit",
+      "flag_emoji": "🇸🇦",
+      "cancelled": true,
+      "events": [
+        {
+          "id": "saudi-fp1",
+          "type": "fp1",
+          "date_time": "2026-04-17T15:30:00+02:00",
+          "race_name": "Saudi Arabian Grand Prix"
+        },
+        {
+          "id": "saudi-fp2",
+          "type": "fp2",
+          "date_time": "2026-04-17T19:00:00+02:00",
+          "race_name": "Saudi Arabian Grand Prix"
+        },
+        {
+          "id": "saudi-fp3",
+          "type": "fp3",
+          "date_time": "2026-04-18T15:30:00+02:00",
+          "race_name": "Saudi Arabian Grand Prix"
+        },
+        {
+          "id": "saudi-quali",
+          "type": "qualifying",
+          "date_time": "2026-04-18T19:00:00+02:00",
+          "race_name": "Saudi Arabian Grand Prix"
+        },
+        {
+          "id": "saudi-gp",
+          "type": "grand_prix",
+          "date_time": "2026-04-19T19:00:00+02:00",
+          "race_name": "Saudi Arabian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "miami",
+      "name": "Miami Grand Prix",
+      "country": "United States",
+      "circuit": "Miami International Autodrome",
+      "flag_emoji": "🇺🇸",
+      "events": [
+        {
+          "id": "miami-fp1",
+          "type": "fp1",
+          "date_time": "2026-05-01T16:00:00Z",
+          "race_name": "Miami Grand Prix"
+        },
+        {
+          "id": "miami-sq",
+          "type": "sprint_qualifying",
+          "date_time": "2026-05-01T20:30:00Z",
+          "race_name": "Miami Grand Prix"
+        },
+        {
+          "id": "miami-sprint",
+          "type": "sprint",
+          "date_time": "2026-05-02T16:00:00Z",
+          "race_name": "Miami Grand Prix"
+        },
+        {
+          "id": "miami-quali",
+          "type": "qualifying",
+          "date_time": "2026-05-02T20:00:00Z",
+          "race_name": "Miami Grand Prix"
+        },
+        {
+          "id": "miami-gp",
+          "type": "grand_prix",
+          "date_time": "2026-05-03T20:00:00Z",
+          "race_name": "Miami Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "canada",
+      "name": "Canadian Grand Prix",
+      "country": "Canada",
+      "circuit": "Circuit Gilles-Villeneuve",
+      "flag_emoji": "🇨🇦",
+      "events": [
+        {
+          "id": "canada-fp1",
+          "type": "fp1",
+          "date_time": "2026-05-22T16:30:00Z",
+          "race_name": "Canadian Grand Prix"
+        },
+        {
+          "id": "canada-sq",
+          "type": "sprint_qualifying",
+          "date_time": "2026-05-22T20:30:00Z",
+          "race_name": "Canadian Grand Prix"
+        },
+        {
+          "id": "canada-sprint",
+          "type": "sprint",
+          "date_time": "2026-05-23T16:00:00Z",
+          "race_name": "Canadian Grand Prix"
+        },
+        {
+          "id": "canada-quali",
+          "type": "qualifying",
+          "date_time": "2026-05-23T20:00:00Z",
+          "race_name": "Canadian Grand Prix"
+        },
+        {
+          "id": "canada-gp",
+          "type": "grand_prix",
+          "date_time": "2026-05-24T20:00:00Z",
+          "race_name": "Canadian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "monaco",
+      "name": "Monaco Grand Prix",
+      "country": "Monaco",
+      "circuit": "Circuit de Monaco",
+      "flag_emoji": "🇲🇨",
+      "events": [
+        {
+          "id": "monaco-fp1",
+          "type": "fp1",
+          "date_time": "2026-06-05T11:30:00Z",
+          "race_name": "Monaco Grand Prix"
+        },
+        {
+          "id": "monaco-fp2",
+          "type": "fp2",
+          "date_time": "2026-06-05T15:00:00Z",
+          "race_name": "Monaco Grand Prix"
+        },
+        {
+          "id": "monaco-fp3",
+          "type": "fp3",
+          "date_time": "2026-06-06T10:30:00Z",
+          "race_name": "Monaco Grand Prix"
+        },
+        {
+          "id": "monaco-quali",
+          "type": "qualifying",
+          "date_time": "2026-06-06T14:00:00Z",
+          "race_name": "Monaco Grand Prix"
+        },
+        {
+          "id": "monaco-gp",
+          "type": "grand_prix",
+          "date_time": "2026-06-07T13:00:00Z",
+          "race_name": "Monaco Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "spain-barcelona",
+      "name": "Barcelona-Catalonia Grand Prix",
+      "country": "Spain",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "flag_emoji": "🇪🇸",
+      "events": [
+        {
+          "id": "barcelona-fp1",
+          "type": "fp1",
+          "date_time": "2026-06-12T11:30:00Z",
+          "race_name": "Barcelona-Catalonia Grand Prix"
+        },
+        {
+          "id": "barcelona-fp2",
+          "type": "fp2",
+          "date_time": "2026-06-12T15:00:00Z",
+          "race_name": "Barcelona-Catalonia Grand Prix"
+        },
+        {
+          "id": "barcelona-fp3",
+          "type": "fp3",
+          "date_time": "2026-06-13T10:30:00Z",
+          "race_name": "Barcelona-Catalonia Grand Prix"
+        },
+        {
+          "id": "barcelona-quali",
+          "type": "qualifying",
+          "date_time": "2026-06-13T14:00:00Z",
+          "race_name": "Barcelona-Catalonia Grand Prix"
+        },
+        {
+          "id": "barcelona-gp",
+          "type": "grand_prix",
+          "date_time": "2026-06-14T13:00:00Z",
+          "race_name": "Barcelona-Catalonia Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "austria",
+      "name": "Austrian Grand Prix",
+      "country": "Austria",
+      "circuit": "Red Bull Ring",
+      "flag_emoji": "🇦🇹",
+      "events": [
+        {
+          "id": "austria-fp1",
+          "type": "fp1",
+          "date_time": "2026-06-26T11:30:00Z",
+          "race_name": "Austrian Grand Prix"
+        },
+        {
+          "id": "austria-fp2",
+          "type": "fp2",
+          "date_time": "2026-06-26T15:00:00Z",
+          "race_name": "Austrian Grand Prix"
+        },
+        {
+          "id": "austria-fp3",
+          "type": "fp3",
+          "date_time": "2026-06-27T10:30:00Z",
+          "race_name": "Austrian Grand Prix"
+        },
+        {
+          "id": "austria-quali",
+          "type": "qualifying",
+          "date_time": "2026-06-27T14:00:00Z",
+          "race_name": "Austrian Grand Prix"
+        },
+        {
+          "id": "austria-gp",
+          "type": "grand_prix",
+          "date_time": "2026-06-28T13:00:00Z",
+          "race_name": "Austrian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "British Grand Prix",
+      "country": "United Kingdom",
+      "circuit": "Silverstone Circuit",
+      "flag_emoji": "🇬🇧",
+      "events": [
+        {
+          "id": "uk-fp1",
+          "type": "fp1",
+          "date_time": "2026-07-03T11:30:00Z",
+          "race_name": "British Grand Prix"
+        },
+        {
+          "id": "uk-sq",
+          "type": "sprint_qualifying",
+          "date_time": "2026-07-03T15:30:00Z",
+          "race_name": "British Grand Prix"
+        },
+        {
+          "id": "uk-sprint",
+          "type": "sprint",
+          "date_time": "2026-07-04T11:00:00Z",
+          "race_name": "British Grand Prix"
+        },
+        {
+          "id": "uk-quali",
+          "type": "qualifying",
+          "date_time": "2026-07-04T15:00:00Z",
+          "race_name": "British Grand Prix"
+        },
+        {
+          "id": "uk-gp",
+          "type": "grand_prix",
+          "date_time": "2026-07-05T14:00:00Z",
+          "race_name": "British Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "belgium",
+      "name": "Belgian Grand Prix",
+      "country": "Belgium",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "flag_emoji": "🇧🇪",
+      "events": [
+        {
+          "id": "belgium-fp1",
+          "type": "fp1",
+          "date_time": "2026-07-17T11:30:00Z",
+          "race_name": "Belgian Grand Prix"
+        },
+        {
+          "id": "belgium-fp2",
+          "type": "fp2",
+          "date_time": "2026-07-17T15:00:00Z",
+          "race_name": "Belgian Grand Prix"
+        },
+        {
+          "id": "belgium-fp3",
+          "type": "fp3",
+          "date_time": "2026-07-18T10:30:00Z",
+          "race_name": "Belgian Grand Prix"
+        },
+        {
+          "id": "belgium-quali",
+          "type": "qualifying",
+          "date_time": "2026-07-18T14:00:00Z",
+          "race_name": "Belgian Grand Prix"
+        },
+        {
+          "id": "belgium-gp",
+          "type": "grand_prix",
+          "date_time": "2026-07-19T13:00:00Z",
+          "race_name": "Belgian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "hungary",
+      "name": "Hungarian Grand Prix",
+      "country": "Hungary",
+      "circuit": "Hungaroring",
+      "flag_emoji": "🇭🇺",
+      "events": [
+        {
+          "id": "hungary-fp1",
+          "type": "fp1",
+          "date_time": "2026-07-24T11:30:00Z",
+          "race_name": "Hungarian Grand Prix"
+        },
+        {
+          "id": "hungary-fp2",
+          "type": "fp2",
+          "date_time": "2026-07-24T15:00:00Z",
+          "race_name": "Hungarian Grand Prix"
+        },
+        {
+          "id": "hungary-fp3",
+          "type": "fp3",
+          "date_time": "2026-07-25T10:30:00Z",
+          "race_name": "Hungarian Grand Prix"
+        },
+        {
+          "id": "hungary-quali",
+          "type": "qualifying",
+          "date_time": "2026-07-25T14:00:00Z",
+          "race_name": "Hungarian Grand Prix"
+        },
+        {
+          "id": "hungary-gp",
+          "type": "grand_prix",
+          "date_time": "2026-07-26T13:00:00Z",
+          "race_name": "Hungarian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "netherlands",
+      "name": "Dutch Grand Prix",
+      "country": "Netherlands",
+      "circuit": "Circuit Zandvoort",
+      "flag_emoji": "🇳🇱",
+      "events": [
+        {
+          "id": "netherlands-fp1",
+          "type": "fp1",
+          "date_time": "2026-08-21T10:30:00Z",
+          "race_name": "Dutch Grand Prix"
+        },
+        {
+          "id": "netherlands-sq",
+          "type": "sprint_qualifying",
+          "date_time": "2026-08-21T14:30:00Z",
+          "race_name": "Dutch Grand Prix"
+        },
+        {
+          "id": "netherlands-sprint",
+          "type": "sprint",
+          "date_time": "2026-08-22T10:00:00Z",
+          "race_name": "Dutch Grand Prix"
+        },
+        {
+          "id": "netherlands-quali",
+          "type": "qualifying",
+          "date_time": "2026-08-22T14:00:00Z",
+          "race_name": "Dutch Grand Prix"
+        },
+        {
+          "id": "netherlands-gp",
+          "type": "grand_prix",
+          "date_time": "2026-08-23T13:00:00Z",
+          "race_name": "Dutch Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "name": "Italian Grand Prix",
+      "country": "Italy",
+      "circuit": "Autodromo Nazionale di Monza",
+      "flag_emoji": "🇮🇹",
+      "events": [
+        {
+          "id": "italy-fp1",
+          "type": "fp1",
+          "date_time": "2026-09-04T10:30:00Z",
+          "race_name": "Italian Grand Prix"
+        },
+        {
+          "id": "italy-fp2",
+          "type": "fp2",
+          "date_time": "2026-09-04T14:00:00Z",
+          "race_name": "Italian Grand Prix"
+        },
+        {
+          "id": "italy-fp3",
+          "type": "fp3",
+          "date_time": "2026-09-05T10:30:00Z",
+          "race_name": "Italian Grand Prix"
+        },
+        {
+          "id": "italy-quali",
+          "type": "qualifying",
+          "date_time": "2026-09-05T14:00:00Z",
+          "race_name": "Italian Grand Prix"
+        },
+        {
+          "id": "italy-gp",
+          "type": "grand_prix",
+          "date_time": "2026-09-06T13:00:00Z",
+          "race_name": "Italian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "spain-madrid",
+      "name": "Spanish Grand Prix",
+      "country": "Spain",
+      "circuit": "Circuito de Madrid",
+      "flag_emoji": "🇪🇸",
+      "events": [
+        {
+          "id": "madrid-fp1",
+          "type": "fp1",
+          "date_time": "2026-09-11T11:30:00Z",
+          "race_name": "Spanish Grand Prix"
+        },
+        {
+          "id": "madrid-fp2",
+          "type": "fp2",
+          "date_time": "2026-09-11T15:00:00Z",
+          "race_name": "Spanish Grand Prix"
+        },
+        {
+          "id": "madrid-fp3",
+          "type": "fp3",
+          "date_time": "2026-09-12T10:30:00Z",
+          "race_name": "Spanish Grand Prix"
+        },
+        {
+          "id": "madrid-quali",
+          "type": "qualifying",
+          "date_time": "2026-09-12T14:00:00Z",
+          "race_name": "Spanish Grand Prix"
+        },
+        {
+          "id": "madrid-gp",
+          "type": "grand_prix",
+          "date_time": "2026-09-13T13:00:00Z",
+          "race_name": "Spanish Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "azerbaijan",
+      "name": "Azerbaijan Grand Prix",
+      "country": "Azerbaijan",
+      "circuit": "Baku City Circuit",
+      "flag_emoji": "🇦🇿",
+      "events": [
+        {
+          "id": "azerbaijan-fp1",
+          "type": "fp1",
+          "date_time": "2026-09-24T08:30:00Z",
+          "race_name": "Azerbaijan Grand Prix"
+        },
+        {
+          "id": "azerbaijan-fp2",
+          "type": "fp2",
+          "date_time": "2026-09-24T12:00:00Z",
+          "race_name": "Azerbaijan Grand Prix"
+        },
+        {
+          "id": "azerbaijan-fp3",
+          "type": "fp3",
+          "date_time": "2026-09-25T08:30:00Z",
+          "race_name": "Azerbaijan Grand Prix"
+        },
+        {
+          "id": "azerbaijan-quali",
+          "type": "qualifying",
+          "date_time": "2026-09-25T12:00:00Z",
+          "race_name": "Azerbaijan Grand Prix"
+        },
+        {
+          "id": "azerbaijan-gp",
+          "type": "grand_prix",
+          "date_time": "2026-09-26T11:00:00Z",
+          "race_name": "Azerbaijan Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "singapore",
+      "name": "Singapore Grand Prix",
+      "country": "Singapore",
+      "circuit": "Marina Bay Street Circuit",
+      "flag_emoji": "🇸🇬",
+      "events": [
+        {
+          "id": "singapore-fp1",
+          "type": "fp1",
+          "date_time": "2026-10-09T08:30:00Z",
+          "race_name": "Singapore Grand Prix"
+        },
+        {
+          "id": "singapore-sq",
+          "type": "sprint_qualifying",
+          "date_time": "2026-10-09T12:30:00Z",
+          "race_name": "Singapore Grand Prix"
+        },
+        {
+          "id": "singapore-sprint",
+          "type": "sprint",
+          "date_time": "2026-10-10T09:00:00Z",
+          "race_name": "Singapore Grand Prix"
+        },
+        {
+          "id": "singapore-quali",
+          "type": "qualifying",
+          "date_time": "2026-10-10T13:00:00Z",
+          "race_name": "Singapore Grand Prix"
+        },
+        {
+          "id": "singapore-gp",
+          "type": "grand_prix",
+          "date_time": "2026-10-11T12:00:00Z",
+          "race_name": "Singapore Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "usa",
+      "name": "United States Grand Prix",
+      "country": "United States",
+      "circuit": "Circuit of the Americas",
+      "flag_emoji": "🇺🇸",
+      "events": [
+        {
+          "id": "usa-fp1",
+          "type": "fp1",
+          "date_time": "2026-10-23T17:30:00Z",
+          "race_name": "United States Grand Prix"
+        },
+        {
+          "id": "usa-fp2",
+          "type": "fp2",
+          "date_time": "2026-10-23T21:00:00Z",
+          "race_name": "United States Grand Prix"
+        },
+        {
+          "id": "usa-fp3",
+          "type": "fp3",
+          "date_time": "2026-10-24T17:30:00Z",
+          "race_name": "United States Grand Prix"
+        },
+        {
+          "id": "usa-quali",
+          "type": "qualifying",
+          "date_time": "2026-10-24T21:00:00Z",
+          "race_name": "United States Grand Prix"
+        },
+        {
+          "id": "usa-gp",
+          "type": "grand_prix",
+          "date_time": "2026-10-25T20:00:00Z",
+          "race_name": "United States Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "mexico",
+      "name": "Mexican Grand Prix",
+      "country": "Mexico",
+      "circuit": "Autódromo Hermanos Rodríguez",
+      "flag_emoji": "🇲🇽",
+      "events": [
+        {
+          "id": "mexico-fp1",
+          "type": "fp1",
+          "date_time": "2026-10-30T18:30:00Z",
+          "race_name": "Mexican Grand Prix"
+        },
+        {
+          "id": "mexico-fp2",
+          "type": "fp2",
+          "date_time": "2026-10-30T22:00:00Z",
+          "race_name": "Mexican Grand Prix"
+        },
+        {
+          "id": "mexico-fp3",
+          "type": "fp3",
+          "date_time": "2026-10-31T17:30:00Z",
+          "race_name": "Mexican Grand Prix"
+        },
+        {
+          "id": "mexico-quali",
+          "type": "qualifying",
+          "date_time": "2026-10-31T21:00:00Z",
+          "race_name": "Mexican Grand Prix"
+        },
+        {
+          "id": "mexico-gp",
+          "type": "grand_prix",
+          "date_time": "2026-11-01T20:00:00Z",
+          "race_name": "Mexican Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "brazil",
+      "name": "Brazilian Grand Prix",
+      "country": "Brazil",
+      "circuit": "Autódromo José Carlos Pace",
+      "flag_emoji": "🇧🇷",
+      "events": [
+        {
+          "id": "brazil-fp1",
+          "type": "fp1",
+          "date_time": "2026-11-06T15:30:00Z",
+          "race_name": "Brazilian Grand Prix"
+        },
+        {
+          "id": "brazil-fp2",
+          "type": "fp2",
+          "date_time": "2026-11-06T19:00:00Z",
+          "race_name": "Brazilian Grand Prix"
+        },
+        {
+          "id": "brazil-fp3",
+          "type": "fp3",
+          "date_time": "2026-11-07T14:30:00Z",
+          "race_name": "Brazilian Grand Prix"
+        },
+        {
+          "id": "brazil-quali",
+          "type": "qualifying",
+          "date_time": "2026-11-07T18:00:00Z",
+          "race_name": "Brazilian Grand Prix"
+        },
+        {
+          "id": "brazil-gp",
+          "type": "grand_prix",
+          "date_time": "2026-11-08T17:00:00Z",
+          "race_name": "Brazilian Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "lasvegas",
+      "name": "Las Vegas Grand Prix",
+      "country": "United States",
+      "circuit": "Las Vegas Strip Circuit",
+      "flag_emoji": "🇺🇸",
+      "events": [
+        {
+          "id": "lasvegas-fp1",
+          "type": "fp1",
+          "date_time": "2026-11-20T00:30:00Z",
+          "race_name": "Las Vegas Grand Prix"
+        },
+        {
+          "id": "lasvegas-fp2",
+          "type": "fp2",
+          "date_time": "2026-11-20T04:00:00Z",
+          "race_name": "Las Vegas Grand Prix"
+        },
+        {
+          "id": "lasvegas-fp3",
+          "type": "fp3",
+          "date_time": "2026-11-21T00:30:00Z",
+          "race_name": "Las Vegas Grand Prix"
+        },
+        {
+          "id": "lasvegas-quali",
+          "type": "qualifying",
+          "date_time": "2026-11-21T04:00:00Z",
+          "race_name": "Las Vegas Grand Prix"
+        },
+        {
+          "id": "lasvegas-gp",
+          "type": "grand_prix",
+          "date_time": "2026-11-22T04:00:00Z",
+          "race_name": "Las Vegas Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar Grand Prix",
+      "country": "Qatar",
+      "circuit": "Lusail International Circuit",
+      "flag_emoji": "🇶🇦",
+      "events": [
+        {
+          "id": "qatar-fp1",
+          "type": "fp1",
+          "date_time": "2026-11-27T13:30:00Z",
+          "race_name": "Qatar Grand Prix"
+        },
+        {
+          "id": "qatar-fp2",
+          "type": "fp2",
+          "date_time": "2026-11-27T17:00:00Z",
+          "race_name": "Qatar Grand Prix"
+        },
+        {
+          "id": "qatar-fp3",
+          "type": "fp3",
+          "date_time": "2026-11-28T14:30:00Z",
+          "race_name": "Qatar Grand Prix"
+        },
+        {
+          "id": "qatar-quali",
+          "type": "qualifying",
+          "date_time": "2026-11-28T18:00:00Z",
+          "race_name": "Qatar Grand Prix"
+        },
+        {
+          "id": "qatar-gp",
+          "type": "grand_prix",
+          "date_time": "2026-11-29T16:00:00Z",
+          "race_name": "Qatar Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "abudhabi",
+      "name": "Abu Dhabi Grand Prix",
+      "country": "United Arab Emirates",
+      "circuit": "Yas Marina Circuit",
+      "flag_emoji": "🇦🇪",
+      "events": [
+        {
+          "id": "abudhabi-fp1",
+          "type": "fp1",
+          "date_time": "2026-12-04T09:30:00Z",
+          "race_name": "Abu Dhabi Grand Prix"
+        },
+        {
+          "id": "abudhabi-fp2",
+          "type": "fp2",
+          "date_time": "2026-12-04T13:00:00Z",
+          "race_name": "Abu Dhabi Grand Prix"
+        },
+        {
+          "id": "abudhabi-fp3",
+          "type": "fp3",
+          "date_time": "2026-12-05T10:30:00Z",
+          "race_name": "Abu Dhabi Grand Prix"
+        },
+        {
+          "id": "abudhabi-quali",
+          "type": "qualifying",
+          "date_time": "2026-12-05T14:00:00Z",
+          "race_name": "Abu Dhabi Grand Prix"
+        },
+        {
+          "id": "abudhabi-gp",
+          "type": "grand_prix",
+          "date_time": "2026-12-06T13:00:00Z",
+          "race_name": "Abu Dhabi Grand Prix"
+        }
+      ]
+    }
+  ]
+}
