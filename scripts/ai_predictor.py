@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 """
-F1 AI Predictor using Ollama llama3.
-Generates top-3 predictions for each upcoming GP session
-based on current standings, circuit info, and latest news.
+F1 AI Predictor ("Pitwall") using Ollama.
+
+Generates top-3 predictions for each upcoming GP session (qualifying, sprint
+qualifying, sprint, grand prix) based on current standings, circuit info and the
+latest news, then writes data/ai_predictions.json.
+
+Model is configurable via OLLAMA_MODEL (default qwen2.5:7b — strong FR/EN).
 """
 
 import json
@@ -12,47 +16,21 @@ import requests
 import time
 from datetime import datetime, timezone, timedelta
 
-# LLM provider: "groq" -> Groq OpenAI-compatible cloud (no local RAM);
+OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://host.docker.internal:11434")
+OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "qwen2.5:7b")
+
+# LLM provider: "groq" -> Groq OpenAI-compatible cloud API (no local RAM);
 # anything else -> local Ollama /api/generate (fallback, instant rollback).
 LLM_PROVIDER = os.environ.get("LLM_PROVIDER", "ollama").lower()
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_MODEL = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
+GROQ_PRED_MODEL = os.environ.get("GROQ_PRED_MODEL", "llama-3.3-70b-versatile")  # predictions: strong model, low volume
 GROQ_URL = os.environ.get("GROQ_URL", "https://api.groq.com/openai/v1/chat/completions")
-OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "llama3:latest")  # fallback only
-GROQ_MIN_INTERVAL = float(os.environ.get("GROQ_MIN_INTERVAL", "2.0"))
+GROQ_MIN_INTERVAL = float(os.environ.get("GROQ_MIN_INTERVAL", "6.0"))  # sec between calls (free-tier RPM)
 GROQ_MAX_RETRIES = int(os.environ.get("GROQ_MAX_RETRIES", "5"))
-ACTIVE_MODEL = GROQ_MODEL if LLM_PROVIDER == "groq" else OLLAMA_MODEL
-_GROQ_LAST_CALL = [0.0]
+ACTIVE_MODEL = GROQ_PRED_MODEL if LLM_PROVIDER == "groq" else OLLAMA_MODEL
 
-
-def _groq_chat(prompt, temperature=0.15, timeout=120):
-    """Call Groq with throttling + 429 backoff (respects Retry-After)."""
-    for attempt in range(GROQ_MAX_RETRIES):
-        wait = GROQ_MIN_INTERVAL - (time.time() - _GROQ_LAST_CALL[0])
-        if wait > 0:
-            time.sleep(wait)
-        resp = requests.post(
-            GROQ_URL,
-            headers={"Authorization": f"Bearer {GROQ_API_KEY}"},
-            json={
-                "model": GROQ_MODEL,
-                "messages": [{"role": "user", "content": prompt}],
-                "response_format": {"type": "json_object"},
-                "temperature": temperature,
-            },
-            timeout=timeout,
-        )
-        _GROQ_LAST_CALL[0] = time.time()
-        if resp.status_code == 429:
-            retry_after = float(resp.headers.get("retry-after", 2 ** attempt))
-            print(f"    Groq 429 rate-limited, retry in {retry_after:.1f}s ({attempt + 1}/{GROQ_MAX_RETRIES})")
-            time.sleep(min(retry_after, 30))
-            continue
-        resp.raise_for_status()
-        return resp.json()["choices"][0]["message"]["content"]
-    resp.raise_for_status()
-    return "{}"
-
+_GROQ_LAST_CALL = [0.0]  # module-level throttle state
 
 # session types we support
 SESSION_TYPES = ["qualifying", "grand_prix", "sprint", "sprint_qualifying"]
@@ -90,7 +68,7 @@ def _news_context(news_data: dict, n: int = 8) -> str:
     articles = (news_data or {}).get("articles", [])[:n]
     lines = []
     for a in articles:
-        title = a.get("title", "")
+        title = a.get("title_fr") or a.get("title", "")
         summary = (a.get("summary_fr") or a.get("summary_en") or "")[:150]
         src = a.get("source", "")
         lines.append(f"• [{src}] {title}\n  {summary}")
@@ -112,7 +90,8 @@ def _get_upcoming_sessions(schedule: dict, data_dir: str) -> list:
     Returns list of dicts with session_type, session_date, race_name, circuit, race_id.
     """
     now = datetime.now(timezone.utc)
-    cutoff = now + timedelta(hours=72)
+    window_hours = int(os.environ.get("PRED_WINDOW_HOURS", "72"))
+    cutoff = now + timedelta(hours=window_hours)
     results = []
 
     try:
@@ -137,14 +116,10 @@ def _get_upcoming_sessions(schedule: dict, data_dir: str) -> list:
         ]
 
         for date_key, time_key, stype in sessions_to_check:
-            if date_key in ("date", "date"):
-                # Main race
-                if date_key == "date":
-                    s_date = race.get("date", "")
-                    s_time = race.get("time", "15:00:00Z") if time_key is None else race.get("time", "15:00:00Z")
-                    raw = f"{s_date}T{s_time}"
-                else:
-                    continue
+            if date_key == "date":
+                s_date = race.get("date", "")
+                s_time = race.get("time", "15:00:00Z")
+                raw = f"{s_date}T{s_time}"
             else:
                 session = race.get(date_key)
                 if not session:
@@ -169,25 +144,53 @@ def _get_upcoming_sessions(schedule: dict, data_dir: str) -> list:
                     "race_id": race_id,
                 })
 
+    # Restrict to the SINGLE next race weekend (never predict the following GP).
+    gp = [r for r in results if r["session_type"] == "grand_prix"]
+    anchor = gp if gp else results
+    if anchor:
+        next_race_id = min(anchor, key=lambda r: r["session_date"])["race_id"]
+        results = [r for r in results if r["race_id"] == next_race_id]
     return results
 
 
-def _call_ollama(prompt: str, ollama_url: str, timeout: int = 120) -> dict:
+def _call_ollama(prompt: str, timeout: int = 120) -> dict:
     try:
         if LLM_PROVIDER == "groq":
-            raw = _groq_chat(prompt, timeout=timeout)
+            raw = "{}"
+            for attempt in range(GROQ_MAX_RETRIES):
+                wait = GROQ_MIN_INTERVAL - (time.time() - _GROQ_LAST_CALL[0])
+                if wait > 0:
+                    time.sleep(wait)
+                resp = requests.post(
+                    GROQ_URL,
+                    headers={"Authorization": f"Bearer {GROQ_API_KEY}"},
+                    json={
+                        "model": GROQ_PRED_MODEL,
+                        "messages": [{"role": "user", "content": prompt}],
+                        "response_format": {"type": "json_object"},
+                        "temperature": 0.15,
+                    },
+                    timeout=timeout,
+                )
+                _GROQ_LAST_CALL[0] = time.time()
+                if resp.status_code == 429:
+                    retry_after = float(resp.headers.get("retry-after", 2 ** attempt))
+                    print(f"    Groq 429 rate-limited, retry in {retry_after:.1f}s ({attempt + 1}/{GROQ_MAX_RETRIES})")
+                    time.sleep(min(retry_after, 30))
+                    continue
+                resp.raise_for_status()
+                raw = resp.json()["choices"][0]["message"]["content"]
+                break
         else:
             resp = requests.post(
-                f"{ollama_url}/api/generate",
+                f"{OLLAMA_URL}/api/generate",
                 json={"model": OLLAMA_MODEL, "prompt": prompt, "stream": False, "format": "json"},
                 timeout=timeout,
             )
             resp.raise_for_status()
             raw = resp.json().get("response", "{}")
-        # Clean markdown blocks
         if "```" in raw:
             raw = raw.split("```")[1].replace("json", "").strip()
-        # Extract first JSON object
         m = re.search(r'\{.*\}', raw, re.DOTALL)
         if m:
             raw = m.group(0)
@@ -197,31 +200,107 @@ def _call_ollama(prompt: str, ollama_url: str, timeout: int = 120) -> dict:
         return {}
 
 
-def _generate_one(session: dict, standings_txt: str, news_txt: str, ollama_url: str):
-    prompt = f"""Tu es un expert F1 analytique avec 20 ans d'expérience.
-Ton pronostic doit être PRÉCIS, basé sur les données ci-dessous.
 
-═══ SESSION ═══
+LOW_OVERTAKING = ("monaco", "singapore", "hungar", "zandvoort", "imola", "marina bay", "monte")
+
+
+def _valid_ids(standings_data: dict) -> list:
+    try:
+        sl = standings_data["MRData"]["StandingsTable"]["StandingsLists"][0]["DriverStandings"]
+        return [s["Driver"]["driverId"] for s in sl]
+    except Exception:
+        return []
+
+
+def _recent_form(data_dir: str) -> str:
+    out = []
+    lr = _load(os.path.join(data_dir, "last_results.json"))
+    try:
+        r = lr["MRData"]["RaceTable"]["Races"][-1]
+        res = r.get("Results") or []
+        if res:
+            out.append("Derniere course terminee (" + r.get("raceName", "") + ") :")
+            for x in res[:10]:
+                out.append("  P%s: %s (%s)" % (x.get("position"), x["Driver"]["driverId"], x.get("status", "")))
+    except Exception:
+        pass
+    q = _load(os.path.join(data_dir, "qualifying.json"))
+    try:
+        r = q["MRData"]["RaceTable"]["Races"][-1]
+        res = r.get("QualifyingResults") or []
+        if res:
+            out.append("Derniere qualif (" + r.get("raceName", "") + ") :")
+            for x in res[:10]:
+                out.append("  P%s: %s" % (x.get("position"), x["Driver"]["driverId"]))
+    except Exception:
+        pass
+    return "\n".join(out) if out else "Pas de resultats recents disponibles"
+
+
+def _quali_grid_live(race_name: str) -> str:
+    """Starting grid = this weekend's qualifying result, pulled from the live feed
+    (the results pipeline lags by ~1 race)."""
+    try:
+        import live_timing as lt
+        yr = datetime.now(timezone.utc).year
+        idx = json.loads(lt._get(f"{lt.BASE}/{yr}/Index.json").text.lstrip(lt.BOM))
+        key = race_name.lower().replace(" grand prix", "").strip()
+        for m in idx.get("Meetings", []):
+            if key and key in m.get("Name", "").lower():
+                for sess in m.get("Sessions", []):
+                    if sess.get("Name") == "Qualifying" and sess.get("Path"):
+                        lb = lt.build_once(sess["Path"], m.get("Name", ""))
+                        rows = lb.get("drivers") or []
+                        if rows:
+                            lines = []
+                            for d in rows[:12]:
+                                tag = " (pole)" if d["pos"] == 1 else ""
+                                lines.append("  P%s%s: %s [%s]" % (d["pos"], tag, d.get("name", ""), d.get("best", "")))
+                            return "\n".join(lines)
+    except Exception as e:
+        print("    quali grid (live) unavailable:", e)
+    return ""
+
+
+def _generate_one(session: dict, standings_txt: str, news_txt: str,
+                  recent_form_txt: str = "", valid_ids: list = None, grid_txt: str = ""):
+    is_race = session["session_type"] in ("grand_prix", "sprint")
+    circ = session["circuit"].lower()
+    track_note = ""
+    if any(k in circ for k in LOW_OVERTAKING) or any(k in session["race_name"].lower() for k in LOW_OVERTAKING):
+        track_note = "ATTENTION: circuit ou depasser est tres difficile -> la position sur la grille est decisive pour la course."
+    grid_block = ""
+    if is_race and grid_txt:
+        grid_block = "\n=== GRILLE DE DEPART (qualif de CE week-end) ===\n" + grid_txt + "\n"
+    ids_line = ", ".join(valid_ids or [])
+
+    prompt = f"""Tu es le "Pitwall", analyste F1 de pointe. Pronostique le TOP 3 de la session avec rigueur, en t'appuyant STRICTEMENT sur les donnees.
+
+=== SESSION ===
 Type : {_session_description(session['session_type'])}
-Course : {session['race_name']}
-Circuit : {session['circuit']}
+Course : {session['race_name']}  |  Circuit : {session['circuit']}
 Date UTC : {session['session_date']}
-
-═══ CLASSEMENT ACTUEL TOP 10 ═══
+{track_note}
+{grid_block}
+=== CLASSEMENT CHAMPIONNAT (top 10) ===
 {standings_txt}
 
-═══ ACTUALITÉS RÉCENTES (dernières 48h) ═══
+=== FORME RECENTE ===
+{recent_form_txt}
+
+=== ACTUALITES (48h) ===
 {news_txt}
 
-═══ CONSIGNES ═══
-Pour cette session {session['session_type']} sur {session['circuit']}, génère ton top-3.
-Utilise EXACTEMENT les driver_id Ergast (ex: "norris", "leclerc", "max_verstappen", "hamilton", "russell", "sainz").
-Base ton raisonnement sur la forme récente et les actualités ci-dessus.
+=== METHODE ===
+- COURSE : la grille de depart est le facteur n.1 (surtout sur circuit difficile a depasser). Ajuste avec rythme de course, degradation pneus, strategie, fiabilite, meteo.
+- QUALIF : privilegie le rythme sur un tour, la forme en qualif recente et l'evolution de piste.
+- Reste coherent avec les donnees: ne place pas en tete un pilote sans rythme recent.
+- N'invente JAMAIS de pilote. Utilise UNIQUEMENT ces driver_id valides : {ids_line}
 
-Réponds UNIQUEMENT avec ce JSON (rien d'autre, pas de texte autour) :
-{{"p1":"driver_id","p2":"driver_id","p3":"driver_id","reasoning_fr":"Explication 80 mots en français","reasoning_en":"Explanation 80 words in English","confidence":"high|medium|low","key_factor_fr":"Facteur clé 10 mots"}}"""
+Reponds UNIQUEMENT avec ce JSON (rien d'autre) :
+{{"p1":"driver_id","p2":"driver_id","p3":"driver_id","reasoning_fr":"Explication ~80 mots en francais","reasoning_en":"Explanation ~80 words in English","confidence":"high|medium|low","key_factor_fr":"Facteur cle ~10 mots"}}"""
 
-    parsed = _call_ollama(prompt, ollama_url)
+    parsed = _call_ollama(prompt)
     if not parsed or not parsed.get("p1"):
         return None
 
@@ -242,8 +321,8 @@ Réponds UNIQUEMENT avec ce JSON (rien d'autre, pas de texte autour) :
     }
 
 
-def generate_ai_predictions(data_dir: str, ollama_url: str) -> bool:
-    print(f"\n=== AI PREDICTOR starting at {datetime.now()} ===")
+def generate_ai_predictions(data_dir: str) -> bool:
+    print(f"\n=== PITWALL PREDICTOR starting at {datetime.now()} (provider={LLM_PROVIDER}, model={ACTIVE_MODEL}) ===")
 
     pred_file = os.path.join(data_dir, "ai_predictions.json")
     schedule = _load(os.path.join(data_dir, "current_schedule.json"))
@@ -254,7 +333,6 @@ def generate_ai_predictions(data_dir: str, ollama_url: str) -> bool:
         print("  Missing schedule or standings — skipping")
         return False
 
-    # Load existing predictions
     existing = {}
     if os.path.exists(pred_file):
         try:
@@ -271,13 +349,15 @@ def generate_ai_predictions(data_dir: str, ollama_url: str) -> bool:
 
     standings_txt = _standings_text(standings)
     news_txt = _news_context(news)
+    recent_form_txt = _recent_form(data_dir)
+    valid_ids = _valid_ids(standings)
+    _grid_cache = {}
 
     new_preds = dict(existing)
     generated = 0
 
     for session in upcoming:
         eid = session["event_id"]
-        # Skip if prediction exists AND is less than 12h old
         if eid in existing:
             try:
                 gen_at = datetime.fromisoformat(
@@ -292,12 +372,17 @@ def generate_ai_predictions(data_dir: str, ollama_url: str) -> bool:
                 pass
 
         print(f"  Generating → {eid}")
-        pred = _generate_one(session, standings_txt, news_txt, ollama_url)
+        grid_txt = ""
+        if session["session_type"] in ("grand_prix", "sprint"):
+            if session["race_id"] not in _grid_cache:
+                _grid_cache[session["race_id"]] = _quali_grid_live(session["race_name"])
+            grid_txt = _grid_cache[session["race_id"]]
+        pred = _generate_one(session, standings_txt, news_txt, recent_form_txt, valid_ids, grid_txt)
         if pred:
             new_preds[eid] = pred
             generated += 1
             print(f"    P1={pred['p1']} P2={pred['p2']} P3={pred['p3']} [{pred['confidence']}]")
-            time.sleep(1)  # be nice to Ollama
+            time.sleep(1)
 
     if generated == 0 and os.path.exists(pred_file):
         print("  No new predictions")
@@ -311,14 +396,12 @@ def generate_ai_predictions(data_dir: str, ollama_url: str) -> bool:
     with open(pred_file, "w") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f"=== AI PREDICTOR done: {generated} predictions ===\n")
+    print(f"=== PITWALL PREDICTOR done: {generated} predictions ===\n")
     return generated > 0
 
 
 if __name__ == "__main__":
-    import sys
-    _ollama = os.environ.get("OLLAMA_URL", "http://host.docker.internal:11434")
     _data = os.environ.get("DATA_DIR", "data")
     if not os.path.exists(_data):
         os.makedirs(_data)
-    generate_ai_predictions(_data, _ollama)
+    generate_ai_predictions(_data)
