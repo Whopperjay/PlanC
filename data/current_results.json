@@ -5,7 +5,7 @@
     "url": "https://api.jolpi.ca/ergast/f1/current/results/",
     "limit": "100",
     "offset": "0",
-    "total": "110",
+    "total": "132",
     "RaceTable": {
       "season": "2026",
       "Races": [
