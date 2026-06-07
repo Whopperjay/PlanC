@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-06-07T19:00:12Z",
+  "model": "llama-3.1-8b-instant",
+  "predictions": [
+    {
+      "event_id": "barcelona_grand_prix",
+      "race_id": "barcelona",
+      "session_type": "grand_prix",
+      "session_date": "2026-06-14T13:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "leclerc",
+      "reasoning_fr": "Andrea Kimi Antonelli est en forme après sa victoire à Monaco. George Russell est le coéquipier de Mercedes et a obtenu des résultats réguliers. Charles Leclerc est un pilote expérimenté de Ferrari avec une bonne stratégie.",
+      "reasoning_en": "Andrea Kimi Antonelli is in form after his Monaco win. George Russell is the Mercedes teammate with consistent results. Charles Leclerc is an experienced Ferrari driver with a good strategy.",
+      "confidence": "high",
+      "key_factor_fr": "Forme récente et stratégie efficace",
+      "news_used_ids": [],
+      "generated_at": "2026-06-07T19:00:00Z"
+    },
+    {
+      "event_id": "barcelona_qualifying",
+      "race_id": "barcelona",
+      "session_type": "qualifying",
+      "session_date": "2026-06-13T14:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "leclerc",
+      "reasoning_fr": "Andrea Kimi Antonelli est en forme après sa victoire à Monaco et conserve la tête du classement. George Russell est le meilleur pilote de Mercedes et a une bonne chance de se qualifier en deuxième position. Charles Leclerc est le meilleur pilote de Ferrari et a une bonne chance de se qualifier en troisième position.",
+      "reasoning_en": "Andrea Kimi Antonelli is in form after his Monaco win and retains the top spot. George Russell is the best Mercedes driver and has a good chance of qualifying in second place. Charles Leclerc is the best Ferrari driver and has a good chance of qualifying in third place.",
+      "confidence": "high",
+      "key_factor_fr": "Forme récente et domination de Mercedes et Ferrari",
+      "news_used_ids": [],
+      "generated_at": "2026-06-07T19:00:11Z"
+    }
+  ]
+}
