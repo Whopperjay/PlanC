@@ -113,7 +113,7 @@
             {
               "position": "5",
               "positionText": "5",
-              "points": "60",
+              "points": "58",
               "wins": "0",
               "Driver": {
                 "driverId": "piastri",
@@ -185,7 +185,31 @@
             {
               "position": "8",
               "positionText": "8",
-              "points": "29",
+              "points": "35",
+              "wins": "0",
+              "Driver": {
+                "driverId": "gasly",
+                "permanentNumber": "10",
+                "code": "GAS",
+                "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
+                "givenName": "Pierre",
+                "familyName": "Gasly",
+                "dateOfBirth": "1996-02-07",
+                "nationality": "French"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "alpine",
+                  "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+                  "name": "Alpine F1 Team",
+                  "nationality": "French"
+                }
+              ]
+            },
+            {
+              "position": "9",
+              "positionText": "9",
+              "points": "26",
               "wins": "0",
               "Driver": {
                 "driverId": "hadjar",
@@ -207,9 +231,9 @@
               ]
             },
             {
-              "position": "9",
-              "positionText": "9",
-              "points": "26",
+              "position": "10",
+              "positionText": "10",
+              "points": "24",
               "wins": "0",
               "Driver": {
                 "driverId": "lawson",
@@ -227,30 +251,6 @@
                   "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
                   "name": "RB F1 Team",
                   "nationality": "Italian"
-                }
-              ]
-            },
-            {
-              "position": "10",
-              "positionText": "10",
-              "points": "26",
-              "wins": "0",
-              "Driver": {
-                "driverId": "gasly",
-                "permanentNumber": "10",
-                "code": "GAS",
-                "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
-                "givenName": "Pierre",
-                "familyName": "Gasly",
-                "dateOfBirth": "1996-02-07",
-                "nationality": "French"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "alpine",
-                  "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                  "name": "Alpine F1 Team",
-                  "nationality": "French"
                 }
               ]
             },
@@ -305,7 +305,7 @@
             {
               "position": "13",
               "positionText": "13",
-              "points": "13",
+              "points": "11",
               "wins": "0",
               "Driver": {
                 "driverId": "arvid_lindblad",
