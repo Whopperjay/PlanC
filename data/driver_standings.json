@@ -233,7 +233,7 @@
             {
               "position": "10",
               "positionText": "10",
-              "points": "26",
+              "points": "28",
               "wins": "0",
               "Driver": {
                 "driverId": "lawson",
@@ -257,30 +257,6 @@
             {
               "position": "11",
               "positionText": "11",
-              "points": "19",
-              "wins": "0",
-              "Driver": {
-                "driverId": "colapinto",
-                "permanentNumber": "43",
-                "code": "COL",
-                "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
-                "givenName": "Franco",
-                "familyName": "Colapinto",
-                "dateOfBirth": "2003-05-27",
-                "nationality": "Argentine"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "alpine",
-                  "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                  "name": "Alpine F1 Team",
-                  "nationality": "French"
-                }
-              ]
-            },
-            {
-              "position": "12",
-              "positionText": "12",
               "points": "18",
               "wins": "0",
               "Driver": {
@@ -303,9 +279,33 @@
               ]
             },
             {
+              "position": "12",
+              "positionText": "12",
+              "points": "16",
+              "wins": "0",
+              "Driver": {
+                "driverId": "colapinto",
+                "permanentNumber": "43",
+                "code": "COL",
+                "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
+                "givenName": "Franco",
+                "familyName": "Colapinto",
+                "dateOfBirth": "2003-05-27",
+                "nationality": "Argentine"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "alpine",
+                  "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+                  "name": "Alpine F1 Team",
+                  "nationality": "French"
+                }
+              ]
+            },
+            {
               "position": "13",
               "positionText": "13",
-              "points": "12",
+              "points": "13",
               "wins": "0",
               "Driver": {
                 "driverId": "arvid_lindblad",

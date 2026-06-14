@@ -282,46 +282,10 @@
               }
             },
             {
-              "number": "43",
+              "number": "30",
               "position": "8",
               "positionText": "8",
               "points": "4",
-              "Driver": {
-                "driverId": "colapinto",
-                "permanentNumber": "43",
-                "code": "COL",
-                "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
-                "givenName": "Franco",
-                "familyName": "Colapinto",
-                "dateOfBirth": "2003-05-27",
-                "nationality": "Argentine"
-              },
-              "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
-              },
-              "grid": "13",
-              "laps": "65",
-              "status": "Lapped",
-              "Time": {
-                "millis": "5617972",
-                "time": "+1:09.867"
-              },
-              "FastestLap": {
-                "rank": "16",
-                "lap": "43",
-                "Time": {
-                  "time": "1:22.449"
-                }
-              }
-            },
-            {
-              "number": "30",
-              "position": "9",
-              "positionText": "9",
-              "points": "2",
               "Driver": {
                 "driverId": "lawson",
                 "permanentNumber": "30",
@@ -355,9 +319,9 @@
             },
             {
               "number": "41",
-              "position": "10",
-              "positionText": "10",
-              "points": "1",
+              "position": "9",
+              "positionText": "9",
+              "points": "2",
               "Driver": {
                 "driverId": "arvid_lindblad",
                 "permanentNumber": "41",
@@ -386,6 +350,42 @@
                 "lap": "45",
                 "Time": {
                   "time": "1:21.914"
+                }
+              }
+            },
+            {
+              "number": "43",
+              "position": "10",
+              "positionText": "10",
+              "points": "1",
+              "Driver": {
+                "driverId": "colapinto",
+                "permanentNumber": "43",
+                "code": "COL",
+                "url": "http://en.wikipedia.org/wiki/Franco_Colapinto",
+                "givenName": "Franco",
+                "familyName": "Colapinto",
+                "dateOfBirth": "2003-05-27",
+                "nationality": "Argentine"
+              },
+              "Constructor": {
+                "constructorId": "alpine",
+                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+                "name": "Alpine F1 Team",
+                "nationality": "French"
+              },
+              "grid": "13",
+              "laps": "65",
+              "status": "Lapped",
+              "Time": {
+                "millis": "5627972",
+                "time": "+1:19.867"
+              },
+              "FastestLap": {
+                "rank": "16",
+                "lap": "43",
+                "Time": {
+                  "time": "1:22.449"
                 }
               }
             },
@@ -594,7 +594,7 @@
               "laps": "61",
               "status": "Retired",
               "Time": {
-                "millis": "5098909",
+                "millis": "5103909",
                 "time": ""
               },
               "FastestLap": {

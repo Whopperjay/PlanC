@@ -65,7 +65,7 @@
             {
               "position": "5",
               "positionText": "5",
-              "points": "60",
+              "points": "57",
               "wins": "0",
               "Constructor": {
                 "constructorId": "alpine",
@@ -77,7 +77,7 @@
             {
               "position": "6",
               "positionText": "6",
-              "points": "38",
+              "points": "41",
               "wins": "0",
               "Constructor": {
                 "constructorId": "rb",
