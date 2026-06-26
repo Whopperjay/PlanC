@@ -251,6 +251,19 @@
   },
   {
     "driver": {
+      "driverId": "ryo_hirakawa",
+      "givenName": "Ryo",
+      "familyName": "Hirakawa"
+    },
+    "constructor": {
+      "constructorId": "haas",
+      "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
+      "name": "Haas F1 Team",
+      "nationality": "American"
+    }
+  },
+  {
+    "driver": {
       "driverId": "ocon",
       "permanentNumber": "31",
       "code": "OCO",
@@ -363,6 +376,19 @@
       "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
       "name": "Mercedes",
       "nationality": "German"
+    }
+  },
+  {
+    "driver": {
+      "driverId": "ayumu_iwasa",
+      "givenName": "Ayumu",
+      "familyName": "Iwasa"
+    },
+    "constructor": {
+      "constructorId": "rb",
+      "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+      "name": "RB F1 Team",
+      "nationality": "Italian"
     }
   },
   {

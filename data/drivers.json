@@ -5,7 +5,7 @@
     "url": "https://api.jolpi.ca/ergast/f1/current/drivers/",
     "limit": "100",
     "offset": "0",
-    "total": "30",
+    "total": "31",
     "DriverTable": {
       "season": "2026",
       "Drivers": [
@@ -158,6 +158,14 @@
           "permanentNumber": "94"
         },
         {
+          "driverId": "ryo_hirakawa",
+          "givenName": "Ryo",
+          "familyName": "Hirakawa",
+          "dateOfBirth": "1900-01-01",
+          "nationality": "Unknown",
+          "permanentNumber": "93"
+        },
+        {
           "driverId": "hulkenberg",
           "permanentNumber": "27",
           "code": "HUL",
@@ -173,7 +181,7 @@
           "familyName": "Iwasa",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "93"
+          "permanentNumber": "92"
         },
         {
           "driverId": "lawson",
@@ -291,7 +299,7 @@
           "familyName": "Vesti",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "92"
+          "permanentNumber": "91"
         }
       ]
     }
