@@ -17,7 +17,7 @@
             {
               "position": "1",
               "positionText": "1",
-              "points": "156",
+              "points": "171",
               "wins": "5",
               "Driver": {
                 "driverId": "antonelli",
@@ -41,7 +41,31 @@
             {
               "position": "2",
               "positionText": "2",
-              "points": "115",
+              "points": "131",
+              "wins": "2",
+              "Driver": {
+                "driverId": "russell",
+                "permanentNumber": "63",
+                "code": "RUS",
+                "url": "http://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
+                "givenName": "George",
+                "familyName": "Russell",
+                "dateOfBirth": "1998-02-15",
+                "nationality": "British"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "mercedes",
+                  "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
+                  "name": "Mercedes",
+                  "nationality": "German"
+                }
+              ]
+            },
+            {
+              "position": "3",
+              "positionText": "3",
+              "points": "125",
               "wins": "1",
               "Driver": {
                 "driverId": "hamilton",
@@ -63,57 +87,33 @@
               ]
             },
             {
-              "position": "3",
-              "positionText": "3",
-              "points": "106",
-              "wins": "1",
-              "Driver": {
-                "driverId": "russell",
-                "permanentNumber": "63",
-                "code": "RUS",
-                "url": "http://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
-                "givenName": "George",
-                "familyName": "Russell",
-                "dateOfBirth": "1998-02-15",
-                "nationality": "British"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "mercedes",
-                  "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                  "name": "Mercedes",
-                  "nationality": "German"
-                }
-              ]
-            },
-            {
               "position": "4",
               "positionText": "4",
-              "points": "75",
+              "points": "80",
               "wins": "0",
               "Driver": {
-                "driverId": "leclerc",
-                "permanentNumber": "16",
-                "code": "LEC",
-                "url": "http://en.wikipedia.org/wiki/Charles_Leclerc",
-                "givenName": "Charles",
-                "familyName": "Leclerc",
-                "dateOfBirth": "1997-10-16",
-                "nationality": "Monegasque"
+                "driverId": "piastri",
+                "permanentNumber": "81",
+                "code": "PIA",
+                "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
+                "givenName": "Oscar",
+                "familyName": "Piastri",
+                "dateOfBirth": "2001-04-06",
+                "nationality": "Australian"
               },
               "Constructors": [
                 {
-                  "constructorId": "ferrari",
-                  "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                  "name": "Ferrari",
-                  "nationality": "Italian"
+                  "constructorId": "mclaren",
+                  "url": "https://en.wikipedia.org/wiki/McLaren",
+                  "name": "McLaren",
+                  "nationality": "British"
                 }
               ]
             },
             {
               "position": "5",
               "positionText": "5",
-              "points": "73",
+              "points": "79",
               "wins": "0",
               "Driver": {
                 "driverId": "norris",
@@ -137,31 +137,31 @@
             {
               "position": "6",
               "positionText": "6",
-              "points": "68",
+              "points": "79",
               "wins": "0",
               "Driver": {
-                "driverId": "piastri",
-                "permanentNumber": "81",
-                "code": "PIA",
-                "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
-                "givenName": "Oscar",
-                "familyName": "Piastri",
-                "dateOfBirth": "2001-04-06",
-                "nationality": "Australian"
+                "driverId": "leclerc",
+                "permanentNumber": "16",
+                "code": "LEC",
+                "url": "http://en.wikipedia.org/wiki/Charles_Leclerc",
+                "givenName": "Charles",
+                "familyName": "Leclerc",
+                "dateOfBirth": "1997-10-16",
+                "nationality": "Monegasque"
               },
               "Constructors": [
                 {
-                  "constructorId": "mclaren",
-                  "url": "https://en.wikipedia.org/wiki/McLaren",
-                  "name": "McLaren",
-                  "nationality": "British"
+                  "constructorId": "ferrari",
+                  "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                  "name": "Ferrari",
+                  "nationality": "Italian"
                 }
               ]
             },
             {
               "position": "7",
               "positionText": "7",
-              "points": "55",
+              "points": "73",
               "wins": "0",
               "Driver": {
                 "driverId": "max_verstappen",
@@ -185,6 +185,30 @@
             {
               "position": "8",
               "positionText": "8",
+              "points": "42",
+              "wins": "0",
+              "Driver": {
+                "driverId": "hadjar",
+                "permanentNumber": "6",
+                "code": "HAD",
+                "url": "https://en.wikipedia.org/wiki/Isack_Hadjar",
+                "givenName": "Isack",
+                "familyName": "Hadjar",
+                "dateOfBirth": "2004-09-28",
+                "nationality": "French"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "red_bull",
+                  "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
+                  "name": "Red Bull",
+                  "nationality": "Austrian"
+                }
+              ]
+            },
+            {
+              "position": "9",
+              "positionText": "9",
               "points": "41",
               "wins": "0",
               "Driver": {
@@ -207,33 +231,9 @@
               ]
             },
             {
-              "position": "9",
-              "positionText": "9",
-              "points": "34",
-              "wins": "0",
-              "Driver": {
-                "driverId": "hadjar",
-                "permanentNumber": "6",
-                "code": "HAD",
-                "url": "https://en.wikipedia.org/wiki/Isack_Hadjar",
-                "givenName": "Isack",
-                "familyName": "Hadjar",
-                "dateOfBirth": "2004-09-28",
-                "nationality": "French"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "red_bull",
-                  "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                  "name": "Red Bull",
-                  "nationality": "Austrian"
-                }
-              ]
-            },
-            {
               "position": "10",
               "positionText": "10",
-              "points": "28",
+              "points": "30",
               "wins": "0",
               "Driver": {
                 "driverId": "lawson",
@@ -305,7 +305,7 @@
             {
               "position": "13",
               "positionText": "13",
-              "points": "13",
+              "points": "14",
               "wins": "0",
               "Driver": {
                 "driverId": "arvid_lindblad",
