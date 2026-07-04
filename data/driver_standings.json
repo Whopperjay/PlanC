@@ -8,16 +8,16 @@
     "total": "22",
     "StandingsTable": {
       "season": "2026",
-      "round": "8",
+      "round": "9",
       "StandingsLists": [
         {
           "season": "2026",
-          "round": "8",
+          "round": "9",
           "DriverStandings": [
             {
               "position": "1",
               "positionText": "1",
-              "points": "171",
+              "points": "179",
               "wins": "5",
               "Driver": {
                 "driverId": "antonelli",
@@ -41,7 +41,7 @@
             {
               "position": "2",
               "positionText": "2",
-              "points": "131",
+              "points": "136",
               "wins": "2",
               "Driver": {
                 "driverId": "russell",
@@ -65,7 +65,7 @@
             {
               "position": "3",
               "positionText": "3",
-              "points": "125",
+              "points": "132",
               "wins": "1",
               "Driver": {
                 "driverId": "hamilton",
@@ -89,31 +89,7 @@
             {
               "position": "4",
               "positionText": "4",
-              "points": "80",
-              "wins": "0",
-              "Driver": {
-                "driverId": "piastri",
-                "permanentNumber": "81",
-                "code": "PIA",
-                "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
-                "givenName": "Oscar",
-                "familyName": "Piastri",
-                "dateOfBirth": "2001-04-06",
-                "nationality": "Australian"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "mclaren",
-                  "url": "https://en.wikipedia.org/wiki/McLaren",
-                  "name": "McLaren",
-                  "nationality": "British"
-                }
-              ]
-            },
-            {
-              "position": "5",
-              "positionText": "5",
-              "points": "79",
+              "points": "85",
               "wins": "0",
               "Driver": {
                 "driverId": "norris",
@@ -135,9 +111,9 @@
               ]
             },
             {
-              "position": "6",
-              "positionText": "6",
-              "points": "79",
+              "position": "5",
+              "positionText": "5",
+              "points": "83",
               "wins": "0",
               "Driver": {
                 "driverId": "leclerc",
@@ -159,9 +135,33 @@
               ]
             },
             {
+              "position": "6",
+              "positionText": "6",
+              "points": "82",
+              "wins": "0",
+              "Driver": {
+                "driverId": "piastri",
+                "permanentNumber": "81",
+                "code": "PIA",
+                "url": "http://en.wikipedia.org/wiki/Oscar_Piastri",
+                "givenName": "Oscar",
+                "familyName": "Piastri",
+                "dateOfBirth": "2001-04-06",
+                "nationality": "Australian"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "mclaren",
+                  "url": "https://en.wikipedia.org/wiki/McLaren",
+                  "name": "McLaren",
+                  "nationality": "British"
+                }
+              ]
+            },
+            {
               "position": "7",
               "positionText": "7",
-              "points": "73",
+              "points": "76",
               "wins": "0",
               "Driver": {
                 "driverId": "max_verstappen",
@@ -233,7 +233,7 @@
             {
               "position": "10",
               "positionText": "10",
-              "points": "30",
+              "points": "31",
               "wins": "0",
               "Driver": {
                 "driverId": "lawson",
