@@ -17,7 +17,7 @@
             {
               "position": "1",
               "positionText": "1",
-              "points": "315",
+              "points": "333",
               "wins": "7",
               "Constructor": {
                 "constructorId": "mercedes",
@@ -29,8 +29,8 @@
             {
               "position": "2",
               "positionText": "2",
-              "points": "215",
-              "wins": "1",
+              "points": "255",
+              "wins": "2",
               "Constructor": {
                 "constructorId": "ferrari",
                 "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
@@ -41,7 +41,7 @@
             {
               "position": "3",
               "positionText": "3",
-              "points": "167",
+              "points": "179",
               "wins": "0",
               "Constructor": {
                 "constructorId": "mclaren",
@@ -53,7 +53,7 @@
             {
               "position": "4",
               "positionText": "4",
-              "points": "118",
+              "points": "128",
               "wins": "0",
               "Constructor": {
                 "constructorId": "red_bull",
@@ -65,7 +65,7 @@
             {
               "position": "5",
               "positionText": "5",
-              "points": "57",
+              "points": "60",
               "wins": "0",
               "Constructor": {
                 "constructorId": "alpine",
@@ -77,7 +77,7 @@
             {
               "position": "6",
               "positionText": "6",
-              "points": "45",
+              "points": "59",
               "wins": "0",
               "Constructor": {
                 "constructorId": "rb",
@@ -113,7 +113,7 @@
             {
               "position": "9",
               "positionText": "9",
-              "points": "2",
+              "points": "6",
               "wins": "0",
               "Constructor": {
                 "constructorId": "audi",
