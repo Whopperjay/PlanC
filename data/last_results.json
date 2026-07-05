@@ -426,45 +426,9 @@
               }
             },
             {
-              "number": "55",
+              "number": "87",
               "position": "12",
               "positionText": "12",
-              "points": "0",
-              "Driver": {
-                "driverId": "sainz",
-                "permanentNumber": "55",
-                "code": "SAI",
-                "url": "http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.",
-                "givenName": "Carlos",
-                "familyName": "Sainz",
-                "dateOfBirth": "1994-09-01",
-                "nationality": "Spanish"
-              },
-              "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
-              },
-              "grid": "14",
-              "laps": "52",
-              "status": "Finished",
-              "Time": {
-                "millis": "5235726",
-                "time": "+4.391"
-              },
-              "FastestLap": {
-                "rank": "7",
-                "lap": "51",
-                "Time": {
-                  "time": "1:32.734"
-                }
-              }
-            },
-            {
-              "number": "87",
-              "position": "13",
-              "positionText": "13",
               "points": "0",
               "Driver": {
                 "driverId": "bearman",
@@ -499,8 +463,8 @@
             },
             {
               "number": "31",
-              "position": "14",
-              "positionText": "14",
+              "position": "13",
+              "positionText": "13",
               "points": "0",
               "Driver": {
                 "driverId": "ocon",
@@ -535,8 +499,8 @@
             },
             {
               "number": "11",
-              "position": "15",
-              "positionText": "15",
+              "position": "14",
+              "positionText": "14",
               "points": "0",
               "Driver": {
                 "driverId": "perez",
@@ -571,8 +535,8 @@
             },
             {
               "number": "12",
-              "position": "16",
-              "positionText": "16",
+              "position": "15",
+              "positionText": "15",
               "points": "0",
               "Driver": {
                 "driverId": "antonelli",
@@ -607,8 +571,8 @@
             },
             {
               "number": "77",
-              "position": "17",
-              "positionText": "17",
+              "position": "16",
+              "positionText": "16",
               "points": "0",
               "Driver": {
                 "driverId": "bottas",
@@ -638,6 +602,42 @@
                 "lap": "31",
                 "Time": {
                   "time": "1:35.893"
+                }
+              }
+            },
+            {
+              "number": "55",
+              "position": "17",
+              "positionText": "17",
+              "points": "0",
+              "Driver": {
+                "driverId": "sainz",
+                "permanentNumber": "55",
+                "code": "SAI",
+                "url": "http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.",
+                "givenName": "Carlos",
+                "familyName": "Sainz",
+                "dateOfBirth": "1994-09-01",
+                "nationality": "Spanish"
+              },
+              "Constructor": {
+                "constructorId": "williams",
+                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
+                "name": "Williams",
+                "nationality": "British"
+              },
+              "grid": "14",
+              "laps": "51",
+              "status": "Lapped",
+              "Time": {
+                "millis": "5235726",
+                "time": "+4.391"
+              },
+              "FastestLap": {
+                "rank": "7",
+                "lap": "51",
+                "Time": {
+                  "time": "1:32.734"
                 }
               }
             },
