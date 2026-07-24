@@ -1,6 +1,19 @@
 [
   {
     "driver": {
+      "driverId": "paul_aron",
+      "givenName": "Paul",
+      "familyName": "Aron"
+    },
+    "constructor": {
+      "constructorId": "alpine",
+      "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+      "name": "Alpine F1 Team",
+      "nationality": "French"
+    }
+  },
+  {
+    "driver": {
       "driverId": "colapinto",
       "permanentNumber": "43",
       "code": "COL",
