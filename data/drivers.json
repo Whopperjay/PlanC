@@ -5,7 +5,7 @@
     "url": "https://api.jolpi.ca/ergast/f1/current/drivers/",
     "limit": "100",
     "offset": "0",
-    "total": "31",
+    "total": "32",
     "DriverTable": {
       "season": "2026",
       "Drivers": [
@@ -282,6 +282,16 @@
           "familyName": "Stroll",
           "dateOfBirth": "1998-10-29",
           "nationality": "Canadian"
+        },
+        {
+          "driverId": "tsunoda",
+          "permanentNumber": "22",
+          "code": "TSU",
+          "url": "http://en.wikipedia.org/wiki/Yuki_Tsunoda",
+          "givenName": "Yuki",
+          "familyName": "Tsunoda",
+          "dateOfBirth": "2000-05-11",
+          "nationality": "Japanese"
         },
         {
           "driverId": "max_verstappen",

@@ -442,6 +442,24 @@
   },
   {
     "driver": {
+      "driverId": "tsunoda",
+      "permanentNumber": "22",
+      "code": "TSU",
+      "url": "http://en.wikipedia.org/wiki/Yuki_Tsunoda",
+      "givenName": "Yuki",
+      "familyName": "Tsunoda",
+      "dateOfBirth": "2000-05-11",
+      "nationality": "Japanese"
+    },
+    "constructor": {
+      "constructorId": "rb",
+      "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+      "name": "RB F1 Team",
+      "nationality": "Italian"
+    }
+  },
+  {
+    "driver": {
       "driverId": "hadjar",
       "permanentNumber": "6",
       "code": "HAD",
@@ -463,6 +481,24 @@
       "driverId": "ayumu_iwasa",
       "givenName": "Ayumu",
       "familyName": "Iwasa"
+    },
+    "constructor": {
+      "constructorId": "red_bull",
+      "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
+      "name": "Red Bull",
+      "nationality": "Austrian"
+    }
+  },
+  {
+    "driver": {
+      "driverId": "lawson",
+      "permanentNumber": "30",
+      "code": "LAW",
+      "url": "http://en.wikipedia.org/wiki/Liam_Lawson",
+      "givenName": "Liam",
+      "familyName": "Lawson",
+      "dateOfBirth": "2002-02-11",
+      "nationality": "New Zealander"
     },
     "constructor": {
       "constructorId": "red_bull",
