@@ -549,7 +549,8 @@
               ]
             },
             {
-              "positionText": "-",
+              "position": "23",
+              "positionText": "23",
               "points": "0",
               "wins": "0",
               "Driver": {
