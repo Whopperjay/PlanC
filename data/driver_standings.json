@@ -17,7 +17,7 @@
             {
               "position": "1",
               "positionText": "1",
-              "points": "224",
+              "points": "242",
               "wins": "6",
               "Driver": {
                 "driverId": "antonelli",
@@ -41,31 +41,7 @@
             {
               "position": "2",
               "positionText": "2",
-              "points": "171",
-              "wins": "1",
-              "Driver": {
-                "driverId": "hamilton",
-                "permanentNumber": "44",
-                "code": "HAM",
-                "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
-                "givenName": "Lewis",
-                "familyName": "Hamilton",
-                "dateOfBirth": "1985-01-07",
-                "nationality": "British"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "ferrari",
-                  "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                  "name": "Ferrari",
-                  "nationality": "Italian"
-                }
-              ]
-            },
-            {
-              "position": "3",
-              "positionText": "3",
-              "points": "168",
+              "points": "183",
               "wins": "2",
               "Driver": {
                 "driverId": "russell",
@@ -87,9 +63,57 @@
               ]
             },
             {
+              "position": "3",
+              "positionText": "3",
+              "points": "183",
+              "wins": "1",
+              "Driver": {
+                "driverId": "hamilton",
+                "permanentNumber": "44",
+                "code": "HAM",
+                "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton",
+                "givenName": "Lewis",
+                "familyName": "Hamilton",
+                "dateOfBirth": "1985-01-07",
+                "nationality": "British"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "ferrari",
+                  "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                  "name": "Ferrari",
+                  "nationality": "Italian"
+                }
+              ]
+            },
+            {
               "position": "4",
               "positionText": "4",
-              "points": "145",
+              "points": "159",
+              "wins": "2",
+              "Driver": {
+                "driverId": "norris",
+                "permanentNumber": "1",
+                "code": "NOR",
+                "url": "http://en.wikipedia.org/wiki/Lando_Norris",
+                "givenName": "Lando",
+                "familyName": "Norris",
+                "dateOfBirth": "1999-11-13",
+                "nationality": "British"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "mclaren",
+                  "url": "https://en.wikipedia.org/wiki/McLaren",
+                  "name": "McLaren",
+                  "nationality": "British"
+                }
+              ]
+            },
+            {
+              "position": "5",
+              "positionText": "5",
+              "points": "155",
               "wins": "1",
               "Driver": {
                 "driverId": "leclerc",
@@ -107,30 +131,6 @@
                   "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
                   "name": "Ferrari",
                   "nationality": "Italian"
-                }
-              ]
-            },
-            {
-              "position": "5",
-              "positionText": "5",
-              "points": "134",
-              "wins": "1",
-              "Driver": {
-                "driverId": "norris",
-                "permanentNumber": "1",
-                "code": "NOR",
-                "url": "http://en.wikipedia.org/wiki/Lando_Norris",
-                "givenName": "Lando",
-                "familyName": "Norris",
-                "dateOfBirth": "1999-11-13",
-                "nationality": "British"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "mclaren",
-                  "url": "https://en.wikipedia.org/wiki/McLaren",
-                  "name": "McLaren",
-                  "nationality": "British"
                 }
               ]
             },
@@ -161,7 +161,7 @@
             {
               "position": "7",
               "positionText": "7",
-              "points": "96",
+              "points": "104",
               "wins": "0",
               "Driver": {
                 "driverId": "piastri",
@@ -209,31 +209,7 @@
             {
               "position": "9",
               "positionText": "9",
-              "points": "43",
-              "wins": "0",
-              "Driver": {
-                "driverId": "gasly",
-                "permanentNumber": "10",
-                "code": "GAS",
-                "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
-                "givenName": "Pierre",
-                "familyName": "Gasly",
-                "dateOfBirth": "1996-02-07",
-                "nationality": "French"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "alpine",
-                  "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                  "name": "Alpine F1 Team",
-                  "nationality": "French"
-                }
-              ]
-            },
-            {
-              "position": "10",
-              "positionText": "10",
-              "points": "43",
+              "points": "49",
               "wins": "0",
               "Driver": {
                 "driverId": "lawson",
@@ -257,6 +233,30 @@
                   "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
                   "name": "Red Bull",
                   "nationality": "Austrian"
+                }
+              ]
+            },
+            {
+              "position": "10",
+              "positionText": "10",
+              "points": "44",
+              "wins": "0",
+              "Driver": {
+                "driverId": "gasly",
+                "permanentNumber": "10",
+                "code": "GAS",
+                "url": "http://en.wikipedia.org/wiki/Pierre_Gasly",
+                "givenName": "Pierre",
+                "familyName": "Gasly",
+                "dateOfBirth": "1996-02-07",
+                "nationality": "French"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "alpine",
+                  "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+                  "name": "Alpine F1 Team",
+                  "nationality": "French"
                 }
               ]
             },
@@ -362,6 +362,30 @@
               "points": "6",
               "wins": "0",
               "Driver": {
+                "driverId": "hulkenberg",
+                "permanentNumber": "27",
+                "code": "HUL",
+                "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
+                "givenName": "Nico",
+                "familyName": "H\u00fclkenberg",
+                "dateOfBirth": "1987-08-19",
+                "nationality": "German"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "audi",
+                  "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
+                  "name": "Audi",
+                  "nationality": "German"
+                }
+              ]
+            },
+            {
+              "position": "16",
+              "positionText": "16",
+              "points": "6",
+              "wins": "0",
+              "Driver": {
                 "driverId": "sainz",
                 "permanentNumber": "55",
                 "code": "SAI",
@@ -381,8 +405,8 @@
               ]
             },
             {
-              "position": "16",
-              "positionText": "16",
+              "position": "17",
+              "positionText": "17",
               "points": "5",
               "wins": "0",
               "Driver": {
@@ -405,8 +429,8 @@
               ]
             },
             {
-              "position": "17",
-              "positionText": "17",
+              "position": "18",
+              "positionText": "18",
               "points": "3",
               "wins": "0",
               "Driver": {
@@ -429,33 +453,9 @@
               ]
             },
             {
-              "position": "18",
-              "positionText": "18",
-              "points": "2",
-              "wins": "0",
-              "Driver": {
-                "driverId": "hulkenberg",
-                "permanentNumber": "27",
-                "code": "HUL",
-                "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
-                "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
-                "dateOfBirth": "1987-08-19",
-                "nationality": "German"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "audi",
-                  "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                  "name": "Audi",
-                  "nationality": "German"
-                }
-              ]
-            },
-            {
               "position": "19",
               "positionText": "19",
-              "points": "1",
+              "points": "3",
               "wins": "0",
               "Driver": {
                 "driverId": "alonso",
@@ -482,6 +482,30 @@
               "points": "0",
               "wins": "0",
               "Driver": {
+                "driverId": "tsunoda",
+                "permanentNumber": "22",
+                "code": "TSU",
+                "url": "http://en.wikipedia.org/wiki/Yuki_Tsunoda",
+                "givenName": "Yuki",
+                "familyName": "Tsunoda",
+                "dateOfBirth": "2000-05-11",
+                "nationality": "Japanese"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "rb",
+                  "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+                  "name": "RB F1 Team",
+                  "nationality": "Italian"
+                }
+              ]
+            },
+            {
+              "position": "21",
+              "positionText": "21",
+              "points": "0",
+              "wins": "0",
+              "Driver": {
                 "driverId": "stroll",
                 "permanentNumber": "18",
                 "code": "STR",
@@ -501,8 +525,8 @@
               ]
             },
             {
-              "position": "21",
-              "positionText": "21",
+              "position": "22",
+              "positionText": "22",
               "points": "0",
               "wins": "0",
               "Driver": {
@@ -525,8 +549,8 @@
               ]
             },
             {
-              "position": "22",
-              "positionText": "22",
+              "position": "23",
+              "positionText": "23",
               "points": "0",
               "wins": "0",
               "Driver": {
@@ -545,30 +569,6 @@
                   "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
                   "name": "Cadillac F1 Team",
                   "nationality": "American"
-                }
-              ]
-            },
-            {
-              "position": "23",
-              "positionText": "23",
-              "points": "0",
-              "wins": "0",
-              "Driver": {
-                "driverId": "tsunoda",
-                "permanentNumber": "22",
-                "code": "TSU",
-                "url": "http://en.wikipedia.org/wiki/Yuki_Tsunoda",
-                "givenName": "Yuki",
-                "familyName": "Tsunoda",
-                "dateOfBirth": "2000-05-11",
-                "nationality": "Japanese"
-              },
-              "Constructors": [
-                {
-                  "constructorId": "rb",
-                  "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                  "name": "RB F1 Team",
-                  "nationality": "Italian"
                 }
               ]
             }
