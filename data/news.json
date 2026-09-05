@@ -1,766 +1,766 @@
 {
-  "last_updated": "2026-06-07T19:29:36Z",
+  "last_updated": "2026-09-05T18:17:35Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
     {
-      "id": "bd1ae7d6df1a",
-      "title": "Antonelli-Russell contrast could hardly be more stark",
-      "title_fr": "Antonelli et Russell : deux mondes à Monaco",
-      "title_en": "Antonelli-Russell contrast could hardly be more stark",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/cd95d3vy34lo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02f9/live/45670740-62a2-11f1-96bd-c1bed4b24e0c.jpg",
-      "published_at": "2026-06-07T19:20:28+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a trouvé le bon rythme à Monaco, tandis que George Russell a connu une course à l'abandon sans points.",
-      "summary_en": "Kimi Antonelli found his rhythm at Monaco, while George Russell was left frustrated after another points-less race."
-    },
-    {
-      "id": "e9a0e9ada80d",
-      "title": "Kimi Antonelli celebrates Monaco GP win with spectacular harbour jump",
-      "title_fr": "Kimi Antonelli célèbre sa victoire à Monaco avec un saut spectaculaire dans le port",
-      "title_en": "Kimi Antonelli celebrates Monaco GP win with spectacular harbour jump",
+      "id": "c73e19ae2b73",
+      "title": "Jeremy Clarkson makes Alpine F1 promise after Pierre Gasly Italian GP pole",
+      "title_fr": "Jeremy Clarkson makes Alpine F1 promise after Pierre Gasly Italian GP pole",
+      "title_en": "Jeremy Clarkson makes Alpine F1 promise after Pierre Gasly Italian GP pole",
       "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-celebrates-monaco-gp-win-with-spectacular-harbour-jump/10828163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9wL8pY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-06-07T19:17:57+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
+      "url": "https://www.motorsport.com/f1/news/jeremy-clarkson-makes-alpine-f1-promise-after-pierre-gasly-italian-gp-pole/10852731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6grBgznY/s6/jeremy-clarkson-enters-the-pad.jpg",
+      "published_at": "2026-09-05T18:02:24+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "résultat"
+        "rumeur"
       ],
-      "importance": 60,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté la course de Formule 1 à Monaco avec une prestation exceptionnelle. Le pilote Mercedes a ensuite célébré en sautant dans le port.",
-      "summary_en": "Kimi Antonelli won the Monaco GP with a masterful performance. The Mercedes driver then celebrated with a harbour jump."
+      "summary_fr": "Former Top Gear and The Grand Tour host Jeremy Clarkson has promised the whole Alpine Formula 1 team a Hawkstone beer if Pierre Gasly wins the Italian Grand Prix.<br />Gasly topped Saturday's qualifyi",
+      "summary_en": "Former Top Gear and The Grand Tour host Jeremy Clarkson has promised the whole Alpine Formula 1 team a Hawkstone beer if Pierre Gasly wins the Italian Grand Prix.<br />Gasly topped Saturday's qualifyi"
     },
     {
-      "id": "0d1648c0f32e",
-      "title": "Hamilton details ADUO order as Mercedes and Ferrari get F1 engine help",
-      "title_fr": "Hamilton détaille l'ordre de l'ADUO, Mercedes et Ferrari bénéficient d'aide pour les moteurs F1",
-      "title_en": "Hamilton details ADUO order as Mercedes and Ferrari get F1 engine help",
+      "id": "95fc348dd0c7",
+      "title": "George Russell frustrated with Max Verstappen qualifying antics: \"He just slammed on the brakes\"",
+      "title_fr": "George Russell frustrated with Max Verstappen qualifying antics: \"He just slammed on the brakes\"",
+      "title_en": "George Russell frustrated with Max Verstappen qualifying antics: \"He just slammed on the brakes\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-frustrated-with-max-verstappen-qualifying-antics-he-just-slammed-on-the-brakes/10852698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6grQ1BaY/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-09-05T17:46:38+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell was frustrated with Max Verstappen \"slamming on the brakes\" at the start of their final Q3 laps in Formula 1 Italian Grand Prix qualifying as the Mercedes driver narrowly missed out on ",
+      "summary_en": "George Russell was frustrated with Max Verstappen \"slamming on the brakes\" at the start of their final Q3 laps in Formula 1 Italian Grand Prix qualifying as the Mercedes driver narrowly missed out on "
+    },
+    {
+      "id": "7b05179fb04c",
+      "title": "How to follow Italian Grand Prix on the BBC",
+      "title_fr": "How to follow Italian Grand Prix on the BBC",
+      "title_en": "How to follow Italian Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c05q5qdrmz3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d800/live/3857a180-9f16-11f1-aed2-8d6da8d75094.jpg",
+      "published_at": "2026-09-05T17:38:44+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "All the key BBC coverage details for the Italian Grand Prix, which takes place from 4-6 September.",
+      "summary_en": "All the key BBC coverage details for the Italian Grand Prix, which takes place from 4-6 September."
+    },
+    {
+      "id": "8b5c23f449ed",
+      "title": "F1 fans celebrate Pierre Gasly after \"insane\" Italian GP pole position",
+      "title_fr": "F1 fans celebrate Pierre Gasly after \"insane\" Italian GP pole position",
+      "title_en": "F1 fans celebrate Pierre Gasly after \"insane\" Italian GP pole position",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-fans-celebrate-pierre-gasly-after-insane-italian-gp-pole-position/10852712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YvKBPbG6/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-09-05T17:33:58+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Alpine's Pierre Gasly secured his first career pole position at the Italian Grand Prix, beating Mercedes driver George Russell to the top spot by just 0.060 seconds at Monza.<br />In the first year of",
+      "summary_en": "Alpine's Pierre Gasly secured his first career pole position at the Italian Grand Prix, beating Mercedes driver George Russell to the top spot by just 0.060 seconds at Monza.<br />In the first year of"
+    },
+    {
+      "id": "d98d4970717f",
+      "title": "Verstappen's \"Red Bull car made out of paper\" comment explained",
+      "title_fr": "Verstappen's \"Red Bull car made out of paper\" comment explained",
+      "title_en": "Verstappen's \"Red Bull car made out of paper\" comment explained",
       "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-reveals-aduo-order-as-mercedes-ferrari-get-f1-engine-help/10828155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lLPab2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-06-07T19:07:23+00:00",
-      "race_id": "canada",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a révélé que Ferrari bénéficie d'une aide pour son moteur, tandis que Red Bull possède le meilleur moteur V6 de Formule 1, selon l'ADUO.",
-      "summary_en": "Lewis Hamilton revealed Ferrari is getting upgrade help for its engine, while Red Bull Ford Powertrains has the leading V6 combustion engine in Formula 1, according to the ADUO."
-    },
-    {
-      "id": "8e460ef212cd",
-      "title": "Lewis Hamilton reveals ADUO order as Mercedes, Ferrari get F1 engine help",
-      "title_fr": "Hamilton révèle l'ordre ADUO, Ferrari et Mercedes bénéficient d'aide sur les moteurs F1",
-      "title_en": "Lewis Hamilton reveals ADUO order as Mercedes, Ferrari get F1 engine help",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-aduo-order-as-mercedes-ferrari-get-f1-engine-help/10828152/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lLPab2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-06-07T19:05:29+00:00",
-      "race_id": "canada",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a révélé l'ordre de priorité des moteurs F1. Ferrari et Mercedes bénéficient d'une aide technique pour améliorer leurs unités de puissance.",
-      "summary_en": "Lewis Hamilton revealed the ADUO order for F1 engines. Ferrari and Mercedes are receiving technical assistance to improve their power units."
-    },
-    {
-      "id": "af67fcbe3870",
-      "title": "How to follow Barcelona-Catalunya Grand Prix on the BBC",
-      "title_fr": "Comment suivre le Grand Prix de Catalogne sur la BBC",
-      "title_en": "How to follow Barcelona-Catalunya Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/cvgj5rp05p5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0361/live/e817e5a0-6297-11f1-89a3-d1f559421220.jpg",
-      "published_at": "2026-06-07T18:48:41+00:00",
+      "url": "https://www.autosport.com/f1/news/verstappens-red-bull-car-made-out-of-paper-comment-explained/10852703/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0arExZ42/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-09-05T17:30:10+00:00",
       "race_id": null,
-      "category": "résultat",
+      "category": "rumeur",
       "tags": [
-        "résultat"
+        "rumeur"
       ],
-      "importance": 60,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Toutes les informations clés pour suivre le Grand Prix de Catalogne sur la BBC, qui se déroulera du 12 au 14 juin.",
-      "summary_en": "All the key coverage details for the Barcelona-Catalunya Grand Prix, taking place from 12-14 June."
+      "summary_fr": "After Friday practice and experiencing a ‘disconnect’ in the car balance, Max Verstappen already knew that Formula 1 qualifying at Monza would be difficult, and that proved to be the case a day later.",
+      "summary_en": "After Friday practice and experiencing a ‘disconnect’ in the car balance, Max Verstappen already knew that Formula 1 qualifying at Monza would be difficult, and that proved to be the case a day later."
     },
     {
-      "id": "eba60be97c51",
-      "title": "Formule 1 : Un nouveau vainqueur dans les rues de Monte Carlo, le résumé du Grand Prix de Monaco - Canal+",
-      "title_fr": "Un nouveau vainqueur dans les rues de Monte Carlo",
-      "title_en": "A new winner in the streets of Monte Carlo",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjdBVUVDNG4wZ2VSVGVPSmJ0clBWalZvM3pxU0xmaHgtcG03Q0Z2TnNvWDhWNTdpdXNGOUk5dUdSZGVRUDhUWk12akk5ZmJMaW1DNjRuZy1RWlJoempSRWdsZWhtS0h4NEtZV3RaRE1sNm1pYXpibUJ2NVE1TWRVUEc1aWVRc0VqVmJWS0JBM2hlU2JhR3VxaVg0LW9GbGhVZmZaRXFoN2x1a19xX1E4TGYtMGtkRFFOZmlCOG1MZlFLNEpEYnZiZzR2Y2xydUdM?oc=5",
-      "image_url": null,
-      "published_at": "2026-06-07T18:43:30+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Monaco a connu un nouveau vainqueur. Le pilote a impressionné par sa stratégie et sa conduite.",
-      "summary_en": "The Monaco Grand Prix saw a new winner. The driver impressed with his strategy and driving."
-    },
-    {
-      "id": "d4f291b8c7ce",
-      "title": "Tous les résultats et classements du Grand Prix de Monaco F1 2026 - Motorsport.com-FRANCE",
-      "title_fr": "Résultats du Grand Prix de Monaco F1 2026 : classements et résumés",
-      "title_en": "Monaco F1 2026 Results: Standings and Recap",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWZKcDZWbzE0enJBU05keGdHa0Q5VmgzdUNsZXdnQlUxTHBibWR5dXMtc1JzMDZDejlGREh2TzdackdXR19NSzk3bVYtQ3dYSTBPWVIwd0xwa3MwQmgxZ2o3STM5SThlOU9xVUYzV0dMOHp2OHFCU0s2ZWpqbjhaOTdHR1RfZUxEWk0wSDJtbHY?oc=5",
-      "image_url": null,
-      "published_at": "2026-06-07T18:40:47+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Monaco F1 2026 a vu la victoire de Max Verstappen. Les classements complets sont disponibles ici.",
-      "summary_en": "Max Verstappen won the Monaco F1 2026 Grand Prix. Full standings are available here."
-    },
-    {
-      "id": "603c1d13fd12",
-      "title": "Alpine requests right of review with FIA over penalties which cost Monaco GP podium",
-      "title_fr": "Alpine demande un contrôle à la FIA après les pénalités qui ont coûté le podium à Monaco",
-      "title_en": "Alpine requests right of review with FIA over penalties which cost Monaco GP podium",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/alpine-requests-fia-right-of-review-over-penalties-which-cost-monaco-gp-podium/10828137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6Vy7PLLY/s6/franco-colapinto-alpine.jpg",
-      "published_at": "2026-06-07T18:32:32+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "L'équipe Alpine a déposé une demande de contrôle auprès de la FIA après les pénalités qui ont empêché Pierre Gasly de monter sur le podium à Monaco.",
-      "summary_en": "Alpine has requested a review with the FIA over penalties that cost Pierre Gasly a podium finish at Monaco."
-    },
-    {
-      "id": "ffe77e632902",
-      "title": "Alpine requests FIA ‘right of review’ over penalties which cost Monaco GP podium",
-      "title_fr": "Alpine demande un contrôle des pénalités qui ont coûté le podium à Monaco",
-      "title_en": "Alpine requests FIA ‘right of review’ over penalties which cost Monaco GP podium",
+      "id": "8d711658dce6",
+      "title": "Max Verstappen explains Red Bull car \"made out of paper\" comment after mysterious issue",
+      "title_fr": "Max Verstappen explains Red Bull car \"made out of paper\" comment after mysterious issue",
+      "title_en": "Max Verstappen explains Red Bull car \"made out of paper\" comment after mysterious issue",
       "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/alpine-requests-fia-right-of-review-over-penalties-which-cost-monaco-gp-podium/10828127/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6Vy7PLLY/s6/franco-colapinto-alpine.jpg",
-      "published_at": "2026-06-07T18:28:16+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "L'équipe Alpine a déposé une demande de contrôle auprès de la FIA après les pénalités infligées pour excès de vitesse en stand, qui ont empêché Pierre Gasly de monter sur le podium à Monaco.",
-      "summary_en": "The Alpine team has requested a review from the FIA over the penalties for pit lane speeding, which cost Pierre Gasly a podium finish at Monaco."
-    },
-    {
-      "id": "55ab1a85ef52",
-      "title": "Kimi Antonelli remporte le Grand Prix de Monaco devant Hamilton, Hadjar 3e mais sous la menace d'une pénalité - L'Équipe",
-      "title_fr": "Kimi Antonelli s'impose à Monaco devant Hamilton, Hadjar 3e mais sous la menace d'une pénalité",
-      "title_en": "Kimi Antonelli wins Monaco GP ahead of Hamilton, Hadjar 3rd but under penalty threat",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM1BnMWxIeDRXZ1FwRkNXTjRvdUJXbXhObmhCUURVVmxiWWlxemphQms3Z0ZoOFFkWjZYYU5zd1ZXeGdZNi1wbG9KOVRRdXBtd1l3Vm53MEhvc05WMGYzN2FEaUtrWmNjazBRVENieTRzSFZ2U3owV0NZSDFFc2psMmFnMUVDZUZ2SHNjYkxTZVRZdjBXdlBVSnI5ZEs4X2xQRW9NaG43Umhra1g3MTJWT2JGQ0NvRzVLNHJZQ29uVno3azRFQXVOR2Q3dVdRMEFYQWlrWWpWcVBhSlVHRUNSSWtwYU5Hb1RndWlXN2tRaTNjQQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-06-07T18:23:57+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le Grand Prix de Monaco devant Lewis Hamilton et le jeune pilote Hadjar, mais il risque de perdre sa victoire en raison d'une pénalité.",
-      "summary_en": "Kimi Antonelli took the win in Monaco ahead of Lewis Hamilton and Hadjar, but faces a penalty threat that could cost him the victory."
-    },
-    {
-      "id": "ce1ad48df6ce",
-      "title": "Hamilton 'feels like I'm reminding people who I am'",
-      "title_fr": "Hamilton se sent obligé de rappeler qui il est",
-      "title_en": "Hamilton feels like I'm reminding people who I am",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/c2kyjev1pvzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d85a/live/ed945b70-6298-11f1-a636-b14d1813ab56.jpg",
-      "published_at": "2026-06-07T18:11:19+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a terminé deuxième à Monaco, mais se sent obligé de rappeler qui il est après cette course.",
-      "summary_en": "Lewis Hamilton finished second in Monaco, but feels like he has to remind people who he is after the race."
-    },
-    {
-      "id": "0e7409a1c6e5",
-      "title": "Ferrari explains Charles Leclerc Monaco GP strategy call",
-      "title_fr": "Ferrari justifie sa stratégie à Monaco",
-      "title_en": "Ferrari explains Monaco GP strategy call",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-explains-charles-leclerc-monaco-gp-strategy-call/10828116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/24Qe47eY/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-06-07T18:06:04+00:00",
-      "race_id": "monaco",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Le délégué général de Ferrari, Jérôme D'Ambrosio, a défendu les décisions stratégiques de l'équipe lors du Grand Prix de Monaco, après une après-midi frustrante pour Charles Leclerc.",
-      "summary_en": "Ferrari deputy team principal Jerome D'Ambrosio has defended the Maranello outfit's strategy decisions during the chaotic Monaco Grand Prix, following a frustrating afternoon for home hero Charles Leclerc."
-    },
-    {
-      "id": "2dd398ef7656",
-      "title": "Cadillac loses maiden F1 point as Perez penalised",
-      "title_fr": "Cadillac perd son premier point en F1, Perez pénalisé",
-      "title_en": "Cadillac loses maiden F1 point as Perez penalised",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/cadillac-loses-maiden-f1-point-as-sergio-perez-penalised/10828118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YvKQnje6/s6/sergio-perez-cadillac-racing-2.jpg",
-      "published_at": "2026-06-07T18:03:17+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Sergio Perez, pilote de Cadillac, a été pénalisé de 10 secondes au classement de la Grand Prix de Monaco, tombant ainsi de la 10ème place à la dernière position.",
-      "summary_en": "Cadillac Formula 1 driver Sergio Perez has been given a 10-second penalty in the Monaco Grand Prix results, collapsing from a point-paying 10th position to last of the finishers."
-    },
-    {
-      "id": "044ada4792eb",
-      "title": "Cadillac loses maiden F1 point as Sergio Perez penalised",
-      "title_fr": "Cadillac perd son premier point en F1, Sergio Pérez pénalisé",
-      "title_en": "Cadillac loses maiden F1 point as Sergio Perez penalised",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-loses-maiden-f1-point-as-sergio-perez-penalised/10828112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/25d3OvN0/s6/sergio-perez-cadillac-racing.jpg",
-      "published_at": "2026-06-07T18:00:21+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Sergio Pérez, pilote de Cadillac, a été pénalisé de 10 secondes au classement de la Grand Prix de Monaco, retombant à la dernière place. Il avait terminé 10e sur la piste avant cette sanction.",
-      "summary_en": "Sergio Perez, Cadillac Formula 1 driver, has been given a 10-second penalty in the Monaco Grand Prix results, dropping from a point-paying 10th position to last of the finishers."
-    },
-    {
-      "id": "0ae13426bfcb",
-      "title": "Vote for your 2026 Monaco Grand Prix Driver of the Weekend | Formula 1",
-      "title_fr": "Choisissez votre pilote de la fin de semaine de Monaco 2026",
-      "title_en": "Vote for your 2026 Monaco Grand Prix Driver of the Weekend",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/06/07/vote-for-your-2026-monaco-grand-prix-driver-of-the-weekend/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-07-15-03-33-2-2280325063.jpg",
-      "published_at": "2026-06-07T18:00:21+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Qui a été le meilleur pilote pendant la fin de semaine de Monaco 2026 ? Comparez leurs performances et votez pour le meilleur.",
-      "summary_en": "Who was the best driver during the 2026 Monaco Grand Prix weekend? Compare how they did and vote for the best."
-    },
-    {
-      "id": "d58e83c3d62f",
-      "title": "Antonelli wins Monaco from Hamilton after dramatic ending",
-      "title_fr": "Kimi Antonelli remporte le Grand Prix de Monaco devant Lewis Hamilton",
-      "title_en": "Antonelli wins Monaco from Hamilton after dramatic ending",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.com/sport/formula1/articles/ckgpgp5q3z7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b8/live/5a0c1c90-628d-11f1-88d1-efdbd2057b53.jpg",
-      "published_at": "2026-06-07T17:58:22+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le Grand Prix de Monaco après une fin chaotique avec deux voitures de sécurité et un drapeau rouge. Lewis Hamilton a terminé deuxième.",
-      "summary_en": "Kimi Antonelli won the Monaco Grand Prix from Lewis Hamilton after a chaotic ending with two safety cars and a red flag. Lewis Hamilton finished second."
-    },
-    {
-      "id": "b189d2b5a6c1",
-      "title": "Russell “beyond frustration” after dismal, point-less Monaco GP",
-      "title_fr": "Russell dépassé par la frustration après un GP de Monaco catastrophique",
-      "title_en": "Russell 'beyond frustration' after dismal, point-less Monaco GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/george-russell-beyond-frustration-after-dismal-point-less-monaco-gp/10828111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6x7ZnVJY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-06-07T17:56:41+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "George Russell, favori du championnat, a chuté à la troisième place après un week-end de Monaco infernal. Il a terminé hors des points après avoir été pénalisé.",
-      "summary_en": "George Russell, the clear favourite to win the drivers' championship, has slipped to third place after a torturous Monaco Grand Prix weekend. He finished outside the points after being penalized."
-    },
-    {
-      "id": "34c4e8e788ca",
-      "title": "George Russell “beyond frustration” after dismal, point-less Monaco GP",
-      "title_fr": "Russell au bord de la dépression après un GP de Monaco catastrophique",
-      "title_en": "George Russell 'beyond frustration' after dismal, point-less Monaco GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/russell-beyond-frustration-after-dismal-point-less-monaco-race/10828087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7ZnVJY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-06-07T17:55:43+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "George Russell a vu son championnat de monde s'effondrer après un week-end de Monaco calamiteux. Le pilote Williams a terminé hors des points après une qualification décevante.",
-      "summary_en": "George Russell's championship hopes have taken a hit after a disastrous Monaco Grand Prix weekend. The Williams driver finished pointless after a disappointing qualifying session."
-    },
-    {
-      "id": "bf895bc9c8cf",
-      "title": "Why so many F1 drivers were penalised for pitlane speeding in Monaco GP",
-      "title_fr": "Pénalités pour excès de vitesse en stand à Monaco",
-      "title_en": "Why so many F1 drivers were penalised for pitlane speeding in Monaco GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/explained-why-so-many-f1-drivers-were-penalised-for-pitlane-speeding-in-monaco/10828101/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0mXRnLA6/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-06-07T17:49:51+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "La course de Monaco a été marquée par plusieurs pénalités pour excès de vitesse en stand. Les documents de l'FIA révèlent que dans chaque cas, l'infringement était inférieur à un kilomètre par heure.",
-      "summary_en": "The Monaco Grand Prix produced a series of penalties for speeding in the pitlane. The FIA documents released after the race reveal that in every case the infringement was less than one kilometre per hour."
-    },
-    {
-      "id": "6ce4354e5262",
-      "title": "Explained: Why so many F1 drivers were penalised for pitlane speeding in Monaco",
-      "title_fr": "Pénalités pour excès de vitesse en stand à Monaco : pourquoi ?",
-      "title_en": "Explained: Why so many F1 drivers were penalised for pitlane speeding in Monaco",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/explained-why-so-many-f1-drivers-were-penalised-for-pitlane-speeding-in-monaco/10828092/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6n7Ango0/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-06-07T17:47:21+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "La course de Monaco a été marquée par plusieurs pénalités pour excès de vitesse en stand. Les documents de la FIA révèlent que dans chaque cas, l'infringement était inférieur à un kilomètre par heure.",
-      "summary_en": "The Monaco Grand Prix produced a series of penalties for speeding in the pitlane. The FIA documents released after the race reveal that in every case the infringement was less than one kilometre per hour."
-    },
-    {
-      "id": "d73163f7adf3",
-      "title": "Cadillac lose first points finish after Perez penalised, Alonso scores for Aston Martin | Formula 1",
-      "title_fr": "Aston Martin enregistre un point grâce à Alonso, Cadillac en perd un à cause de la pénalité de Pérez",
-      "title_en": "Aston Martin scores point with Alonso, Cadillac loses one due to Perez's post-race penalty",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/06/07/cadillac-lose-first-points-finish-after-perez-penalised-alonso-scores-for-aston-martin/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-05-16-14-58-1-CadillacF1Team_8627_HiRes.jpg",
-      "published_at": "2026-06-07T17:47:07+00:00",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-explains-red-bull-car-made-out-of-paper-comment-after-mysterious-issue/10852691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyQ3X6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-05T17:26:53+00:00",
       "race_id": null,
-      "category": "résultat",
+      "category": "rumeur",
       "tags": [
-        "résultat"
+        "rumeur"
       ],
-      "importance": 60,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Sergio Pérez a reçu une pénalité post-course, ce qui a empêché Cadillac d'obtenir son premier point en Formule 1. Fernando Alonso a quant à lui marqué pour Aston Martin.",
-      "summary_en": "Sergio Perez received a post-race penalty, preventing Cadillac from scoring its first Formula 1 point. Fernando Alonso scored for Aston Martin instead."
+      "summary_fr": "After Friday practice and experiencing a ‘disconnect’ in the car balance, Max Verstappen already knew that Formula 1 qualifying at Monza would be difficult, and that proved to be the case a day later.",
+      "summary_en": "After Friday practice and experiencing a ‘disconnect’ in the car balance, Max Verstappen already knew that Formula 1 qualifying at Monza would be difficult, and that proved to be the case a day later."
     },
     {
-      "id": "32b85e0ac6be",
-      "title": "Gasly felt \"robbed\" of F1 Monaco GP podium as Alpine requests right of review over pitlane speeding",
-      "title_fr": "Pierre Gasly se sent \"dérobé\" de la troisième place à Monaco",
-      "title_en": "Gasly felt 'robbed' of F1 Monaco GP podium as Alpine requests right of review over pitlane speeding",
+      "id": "53cb579e9a38",
+      "title": "How Charles Leclerc's advice to Pierre Gasly came back to bite him in Italian GP qualifying",
+      "title_fr": "How Charles Leclerc's advice to Pierre Gasly came back to bite him in Italian GP qualifying",
+      "title_en": "How Charles Leclerc's advice to Pierre Gasly came back to bite him in Italian GP qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-charles-leclercs-advice-to-pierre-gasly-came-back-to-bite-him-in-italian-gp-qualifying/10852677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7BpKA2/s6/charles-leclerc-ferrari-pierre.jpg",
+      "published_at": "2026-09-05T17:04:30+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "A close friend of Pierre Gasly, Charles Leclerc was among the first drivers to go and congratulate the Frenchman when he arrived behind the board bearing the number 1 in parc ferme, as he stormed to p",
+      "summary_en": "A close friend of Pierre Gasly, Charles Leclerc was among the first drivers to go and congratulate the Frenchman when he arrived behind the board bearing the number 1 in parc ferme, as he stormed to p"
+    },
+    {
+      "id": "ea44debeeaee",
+      "title": "Mercedes pokes fun at Toto Wolff after angry Italian GP qualifying moment",
+      "title_fr": "Mercedes pokes fun at Toto Wolff after angry Italian GP qualifying moment",
+      "title_en": "Mercedes pokes fun at Toto Wolff after angry Italian GP qualifying moment",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-toto-wolff-after-angry-italian-gp-qualifying-moment/10852680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXwg5MY/s6/toto-wolff-mercedes.jpg",
+      "published_at": "2026-09-05T16:59:29+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes has poked fun at its own team principal Toto Wolff after he was filmed striking his garage timing console in frustration during qualifying for the Italian Grand Prix.<br />Wolff's reaction wa",
+      "summary_en": "Mercedes has poked fun at its own team principal Toto Wolff after he was filmed striking his garage timing console in frustration during qualifying for the Italian Grand Prix.<br />Wolff's reaction wa"
+    },
+    {
+      "id": "1145dfa921cc",
+      "title": "F1: Chequered Flag",
+      "title_fr": "F1: Chequered Flag",
+      "title_en": "F1: Chequered Flag",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p865fk?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": "2026-09-05T16:49:00+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The team react to qualifying at the Italian GP where a huge shock was on the cards.",
+      "summary_en": "The team react to qualifying at the Italian GP where a huge shock was on the cards."
+    },
+    {
+      "id": "f717cf4671ba",
+      "title": "Alpine's Gasly beats Russell to stunning Monza pole",
+      "title_fr": "Alpine's Gasly beats Russell to stunning Monza pole",
+      "title_en": "Alpine's Gasly beats Russell to stunning Monza pole",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44b4/live/56deb6f0-a945-11f1-9167-99717d2756e1.jpg",
+      "published_at": "2026-09-05T16:46:01+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell.",
+      "summary_en": "Alpine driver Pierre Gasly takes a stunning pole position at the Italian Grand Prix, ahead of Mercedes' George Russell."
+    },
+    {
+      "id": "15fc0fc8cf00",
+      "title": "Lance Stroll hits unwanted 100 Q1 eliminations milestone in F1",
+      "title_fr": "Lance Stroll hits unwanted 100 Q1 eliminations milestone in F1",
+      "title_en": "Lance Stroll hits unwanted 100 Q1 eliminations milestone in F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lance-stroll-hits-unwanted-100-q1-eliminations-milestone-in-f1-10852655/10852655/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BpBr2/s6/lance-stroll-aston-martin-raci.jpg",
+      "published_at": "2026-09-05T16:32:12+00:00",
+      "race_id": "canada",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lance Stroll managed an unwanted Formula 1 record as he became the first driver to register 100 Q1 eliminations since the three-part qualifying system was introduced in 2006. <br />The Canadian qualif",
+      "summary_en": "Lance Stroll managed an unwanted Formula 1 record as he became the first driver to register 100 Q1 eliminations since the three-part qualifying system was introduced in 2006. <br />The Canadian qualif"
+    },
+    {
+      "id": "5b3e2e2f345b",
+      "title": "Piastri handed three-place grid drop for impeding Lawson | Formula 1",
+      "title_fr": "Piastri handed three-place grid drop for impeding Lawson | Formula 1",
+      "title_en": "Piastri handed three-place grid drop for impeding Lawson | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/05/piastri-handed-three-place-grid-drop-for-impeding-lawson/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-05-12-54-25-7-14-saturday-monza-2026.jpg",
+      "published_at": "2026-09-05T16:27:27+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The stewards have issued Oscar Piastri a three-place grid drop for impeding Liam Lawson during qualifying for the Italian Grand Prix.",
+      "summary_en": "The stewards have issued Oscar Piastri a three-place grid drop for impeding Liam Lawson during qualifying for the Italian Grand Prix."
+    },
+    {
+      "id": "cb61c3bcd3b4",
+      "title": "How “clever” Verstappen spoiled Russell’s bid for pole in qualifying at Monza | Formula 1",
+      "title_fr": "How “clever” Verstappen spoiled Russell’s bid for pole in qualifying at Monza | Formula 1",
+      "title_en": "How “clever” Verstappen spoiled Russell’s bid for pole in qualifying at Monza | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/05/how-clever-verstappen-spoiled-russells-bid-for-pole-in-qualifying-at-monza/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-05-16-27-33-2-SI202609050183_hires_jpeg_24bit_rgb.jpg",
+      "published_at": "2026-09-05T16:13:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen slowed the two Mercedes drivers as they began their final qualifying laps, compromised George Russell's big for pole position.",
+      "summary_en": "Max Verstappen slowed the two Mercedes drivers as they began their final qualifying laps, compromised George Russell's big for pole position."
+    },
+    {
+      "id": "c8f24cc308f9",
+      "title": "\"Something special here\" - Pierre Gasly ecstatic to take maiden F1 pole in Monza",
+      "title_fr": "\"Something special here\" - Pierre Gasly ecstatic to take maiden F1 pole in Monza",
+      "title_en": "\"Something special here\" - Pierre Gasly ecstatic to take maiden F1 pole in Monza",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/pierre-gasly-ecstatic-with-maiden-f1-pole-in-monza-he-chased-for-nine-years/10852602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/68Vwov82/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-09-05T15:42:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "\"I like this track,\" Pierre Gasly quipped as he steered his Alpine into parc ferme. Not into the usual enclosure for the rest of the pack, but towards the bollard indicating the number 1 on the Formul",
+      "summary_en": "\"I like this track,\" Pierre Gasly quipped as he steered his Alpine into parc ferme. Not into the usual enclosure for the rest of the pack, but towards the bollard indicating the number 1 on the Formul"
+    },
+    {
+      "id": "e8fb3c9b323c",
+      "title": "Piastri hit with three-place Italian GP grid penalty for impeding Lawson",
+      "title_fr": "Piastri hit with three-place Italian GP grid penalty for impeding Lawson",
+      "title_en": "Piastri hit with three-place Italian GP grid penalty for impeding Lawson",
       "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/gasly-felt-robbed-of-f1-monaco-gp-podium-as-alpine-request-right-of-review-over-pitlane-speeding/10828082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlEnAqY/s6/pierre-gasly-alpine-2.jpg",
-      "published_at": "2026-06-07T17:31:36+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
+      "url": "https://www.autosport.com/f1/news/piastri-at-risk-of-losing-third-in-italian-gp-qualifying-for-impeding-lawson/10852599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6O7z4x56/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": "2026-09-05T15:32:44+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "pénalité"
+        "rumeur"
       ],
-      "importance": 72,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Pierre Gasly est convaincu d'avoir été privé d'une troisième place à Monaco après avoir reçu deux pénalités pour excès de vitesse dans le stand. L'écurie Alpine demande une révision de ces sanctions.",
-      "summary_en": "Gasly believes he was robbed of a podium in Monaco after receiving two pitlane speeding penalties that dropped him from third to seventh. Alpine is seeking a review of the penalties."
+      "summary_fr": "Oscar Piastri has been handed a three-place grid penalty for the Italian Grand Prix after impeding Liam Lawson during qualifying at Monza.<br />The penalty drops the McLaren driver from third to sixth",
+      "summary_en": "Oscar Piastri has been handed a three-place grid penalty for the Italian Grand Prix after impeding Liam Lawson during qualifying at Monza.<br />The penalty drops the McLaren driver from third to sixth"
     },
     {
-      "id": "618c58c8a30e",
-      "title": "Alpine request Right of Review hearing over penalty which cost Gasly third place | Formula 1",
-      "title_fr": "Alpine demande un réexamen de la pénalité qui a coûté le podium à Gasly",
-      "title_en": "Alpine requests Right of Review hearing over penalty which cost Gasly third place",
+      "id": "13b6331c4ed0",
+      "title": "Oscar Piastri hit with three-place Monza grid penalty",
+      "title_fr": "Oscar Piastri hit with three-place Monza grid penalty",
+      "title_en": "Oscar Piastri hit with three-place Monza grid penalty",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-risks-losing-third-in-monza-qualifying/10852593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/25dLEME0/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-09-05T15:26:56+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri has been handed a three-place grid penalty for the Italian Grand Prix after impeding Liam Lawson during qualifying at Monza. The penalty drops the McLaren driver from third to sixth on t",
+      "summary_en": "Oscar Piastri has been handed a three-place grid penalty for the Italian Grand Prix after impeding Liam Lawson during qualifying at Monza. The penalty drops the McLaren driver from third to sixth on t"
+    },
+    {
+      "id": "aae7f875cc94",
+      "title": "This is the starting grid for the 2026 F1 Italian Grand Prix",
+      "title_fr": "This is the starting grid for the 2026 F1 Italian Grand Prix",
+      "title_en": "This is the starting grid for the 2026 F1 Italian Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-starting-grid-for-the-2026-F1-Italian-GP/10852582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXydRz6/s6/pierre-gasly-alpine-2.jpg",
+      "published_at": "2026-09-05T15:21:49+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Despite their qualifying positions, Kimi Antonelli (Mercedes), Alex Albon (Williams) and Liam Lawson (Red Bull) have all been sent to the back of the grid as a result of penalties due to power unit ch",
+      "summary_en": "Despite their qualifying positions, Kimi Antonelli (Mercedes), Alex Albon (Williams) and Liam Lawson (Red Bull) have all been sent to the back of the grid as a result of penalties due to power unit ch"
+    },
+    {
+      "id": "92f779b0ca9a",
+      "title": "Gasly takes surprise Monza pole ahead of Russell, Piastri and the Ferraris | 2026 Italian Grand Prix qualifying report",
+      "title_fr": "Gasly takes surprise Monza pole ahead of Russell, Piastri and the Ferraris | 2026 Italian Grand Prix qualifying report",
+      "title_en": "Gasly takes surprise Monza pole ahead of Russell, Piastri and the Ferraris | 2026 Italian Grand Prix qualifying report",
       "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/06/07/alpine-request-right-of-review-hearing-over-monaco-gp-speeding-penalties/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-06-06-51-01-1-0606MonacoSat-3.jpg",
-      "published_at": "2026-06-07T17:17:47+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
+      "url": "https://www.racefans.net/2026/09/05/gasly-takes-surprise-monza-pole-ahead-of-russell-piastri-and-the-ferraris/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-04-16-09-38-2-0409MonzaFri.jpg",
+      "published_at": "2026-09-05T15:20:45+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "pénalité"
+        "rumeur"
       ],
-      "importance": 72,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Alpine a demandé au FIA de réexaminer les pénalités de vitesse qui ont coûté à Pierre Gasly la troisième place au Grand Prix de Monaco.",
-      "summary_en": "Alpine has asked the FIA to review the speeding penalties which cost Pierre Gasly third place in the Monaco Grand Prix."
+      "summary_fr": "Pierre Gasly claimed his first pole position at Monza, denying George Russell by six hundredths of a second.",
+      "summary_en": "Pierre Gasly claimed his first pole position at Monza, denying George Russell by six hundredths of a second."
     },
     {
-      "id": "8a0bbc49a92b",
-      "title": "Toto Wolff explains Monaco GP penalty confusion after George Russell disaster",
-      "title_fr": "Toto Wolff éclaircit la confusion sur la pénalité de Monaco après le désastre de George Russell",
-      "title_en": "Toto Wolff explains Monaco GP penalty confusion after George Russell disaster",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-monaco-gp-penalty-confusion-after-george-russell-disaster/10828068/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6Al7KdGY/s6/toto-wolff-mercedes.jpg",
-      "published_at": "2026-06-07T17:17:06+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de l'équipe Mercedes, Toto Wolff, a reconnu que la confusion interne sur la stratégie était à l'origine de l'erreur de stand qui a coûté à George Russell une place sur le podium à Monaco.",
-      "summary_en": "Mercedes team principal Toto Wolff has admitted that internal \"confusion\" over strategy was the root cause of the pitstop blunder that cost George Russell a potential podium finish at the 2026 Monaco Grand Prix."
-    },
-    {
-      "id": "64f695f16ca7",
-      "title": "Antonelli triomphe devant Hamilton et Hadjar dans un GP de Monaco fou ! - Motorsport.com-FRANCE",
-      "title_fr": "Antonelli triomphe devant Hamilton et Hadjar dans un GP de Monaco fou !",
-      "title_en": "Antonelli triumphs ahead of Hamilton and Hadjar in a crazy Monaco GP!",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlNFamc3Wnc3UmlUc2V5R3dwVUk0MG4xLUZxaldrQWFONlpXSWZRbjNPUjlibDRhak8yZjRlYzJKUWNQUWZFaGRYTlNJekZEMlNwMG8xcE15eHJnTlhESnpLVkExQVlOLUpib0JybnJjV1REcS1KX3VyTzZ6LUJHd0pMc2lzbF9BazBFRGdR?oc=5",
-      "image_url": null,
-      "published_at": "2026-06-07T17:13:04+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le jeune pilote a remporté la course devant Lewis Hamilton et Hadjar, qui ont livré un duel épique.",
-      "summary_en": "The young driver won the race ahead of Lewis Hamilton and Hadjar, who delivered an epic duel."
-    },
-    {
-      "id": "9ed9a0bfce75",
-      "title": "Pierre Gasly says he's been \"robbed\" of F1 Monaco GP podium",
-      "title_fr": "Pierre Gasly se sent « volé » de son podium à Monaco",
-      "title_en": "Pierre Gasly says he's been 'robbed' of F1 Monaco GP podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/gasly-says-hes-been-robbed-of-monaco-podium/10828058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/68VWPBV2/s6/lewis-hamilton-ferrari-george-.jpg",
-      "published_at": "2026-06-07T17:11:47+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Pierre Gasly est furieux d'avoir été pénalisé deux fois pour excès de vitesse en stand, ce qui l'a fait passer de la troisième à la septième place. L'Alpine demande une révision de ces pénalités.",
-      "summary_en": "Pierre Gasly feels he's been 'robbed' of a podium in the Monaco Grand Prix after receiving two pitlane speeding penalties that dropped him from third to seventh in the final classification - with Alpine asking for a right to review the pitlane speeding penalties."
-    },
-    {
-      "id": "903a87cf6dc9",
-      "title": "F1. Le classement du championnat du monde des constructeurs après le Grand Prix de Monaco - Ouest-France",
-      "title_fr": "Le classement du championnat du monde des constructeurs après le Grand Prix de Monaco",
-      "title_en": "F1 World Constructors' Championship Standings after Monaco GP",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNektKcDBFR2ZTRG41U2NPWnczYURGM2UyeWt3U09NT0FGOF9uYnJ5UW9sb0JyVURlMnVyY01Zam5ONnRZN2NtZU9FbDdMb3VCdlZxRmkwRUVrdnBkckVpX3ZaM2dQVHZGWTBKSTdhMU5VbkpITFkta2gzVE9haUtrcW5DNTZ0OGpKSEIxc0NMV0dNc1pGRkZNYS1KWmh4ZFQ3c2M2NWpQY1B6RzJNamZPSkVHMkFwSmktVzZCUTBsYmNXWGI2RGx4SWZpRTJESHE2em5faUR2WjRQMGFQdmxzY25hdFJZZXJjSW1iU0ZaSmE4Qlk0SkhkRlk5Zzh1Zw?oc=5",
-      "image_url": null,
-      "published_at": "2026-06-07T17:04:37+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le classement du championnat du monde des constructeurs après le Grand Prix de Monaco est désormais connu. Les équipes se classent ainsi :",
-      "summary_en": "The F1 World Constructors' Championship standings after the Monaco GP are now known. The teams are ranked as follows :"
-    },
-    {
-      "id": "8e49b3fbeb56",
-      "title": "Isack Hadjar, un deuxième podium en formule 1 pour le Français, dans un chaotique Grand Prix de Monaco - Le Monde.fr",
-      "title_fr": "Isack Hadjar réalise un deuxième podium en Formule 1 à Monaco",
-      "title_en": "Isack Hadjar achieves second Formula 1 podium in Monaco",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPM0U0cE9EQlJxQ05OV0VFX2dwNGhOckhPRF9pT1JKU3YwRGNpVWN1eVBwUkxyaUVyZFpOQmxqbXl1VDJvZE40TVljT3ZxUTA1a2lfMWNvYk1zWl95Q0FKdUVZZ2dtNkpIanFValpCZnMxbm9fbDdaYkhoaXU2VmEydDBvanZwVEdZNjlCYzNsNGl0SzlUZlY2ZFNXdDhhSTVwVVprZlpER1dTcHplYWhQbFNBSkdoNnFVV05lLVdoWXN6b3h0dkx5NFRGMkVnWENib3lOYmFIdTV4Y3B5Zi1DTkswVWRYVjU4dUlObFRxVmtudmJQQmJfSUln?oc=5",
-      "image_url": null,
-      "published_at": "2026-06-07T16:55:54+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le Français Isack Hadjar a réalisé un excellent résultat en terminant deuxième du Grand Prix de Monaco, malgré les conditions de course chaotiques.",
-      "summary_en": "French driver Isack Hadjar achieved an excellent result by finishing second in the chaotic Monaco Grand Prix."
-    },
-    {
-      "id": "1ebad751744e",
-      "title": "Championnat de F1 2026 – Les classements après le Grand Prix de Monaco - AutoHebdo",
-      "title_fr": "Les classements après le Grand Prix de Monaco",
-      "title_en": "Monaco Grand Prix results 2026",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUtzeVF1dzdMQUNmWEJBLUFDcHU4aEtja0N1a0kzaVQ4aG1ZcnZRVzlidno3V2VxWXQ2TVdvbEpYR3NWZlQ3Tl94ZnNIY1RUY19rcWQtZ1JRanFvMzJqS3JIZWNzLWhsaXJDbmtzVzhiN0JwUjdRRmRpVHczQ1JBZncwQ2RKWmdOdU5YUzZiS19vTWhFeUQybUdSWlpKUkdjTjhHeld6QzZ4YWFzamdKNXJn?oc=5",
-      "image_url": null,
-      "published_at": "2026-06-07T16:55:00+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le classement final du Grand Prix de Monaco 2026 est désormais connu. Les pilotes ont livré un spectacle incroyable sur le circuit de Monaco.",
-      "summary_en": "The final standings for the 2026 Monaco Grand Prix are now known. The drivers delivered an incredible show on the Monaco circuit."
-    },
-    {
-      "id": "d329780aa970",
-      "title": "Russell blames software as five drivers penalised for breaking speed limit by 0.1kph | Formula 1",
-      "title_fr": "Russell accuse un logiciel de la pénalité de cinq pilotes à Monaco",
-      "title_en": "Russell blames software as five drivers penalised for breaking speed limit by 0.1kph",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/06/07/russell-blames-software-as-five-drivers-penalised-for-breaking-speed-limit-by-0-1kph/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-21-06-07-11-43-42-1.jpg",
-      "published_at": "2026-06-07T16:52:18+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "George Russell pense que la faute à un problème logiciel pour cinq pilotes ont dépassé la limite de vitesse dans le stand aux mains d'un centime de kilomètre par heure à Monaco.",
-      "summary_en": "George Russell believes a software problem caused five drivers to break the pit lane speeding limit by just 0.1kph during the Monaco GP."
-    },
-    {
-      "id": "cf8bc5266204",
-      "title": "Isack Hadjar keeps F1 Monaco GP podium, cleared of investigation",
-      "title_fr": "Hadjar garde son podium à Monaco",
-      "title_en": "Hadjar keeps F1 Monaco GP podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-summoned-to-stewards-f1-monaco-gp-podium-at-risk/10828041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0arKLJy2/s6/isack-hadjar-red-bull-racing-2.jpg",
-      "published_at": "2026-06-07T16:48:43+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar conserve son premier podium chez Red Bull à Monaco après que son équipe n'a pas été sanctionnée pour les travaux effectués lors d'une suspension tardive.",
-      "summary_en": "Isack Hadjar will keep his first Red Bull podium at the Monaco Grand Prix after no further action was taken against his team for the work it conducted during a late race suspension."
-    },
-    {
-      "id": "585fad219777",
-      "title": "Hadjar keeps F1 Monaco GP podium after investigation",
-      "title_fr": "Hadjar conserve sa troisième place à Monaco",
-      "title_en": "Hadjar keeps F1 Monaco GP podium after investigation",
+      "id": "d3f27c90ab45",
+      "title": "F1 Italian GP: Gasly takes stunning maiden pole for Alpine",
+      "title_fr": "F1 Italian GP: Gasly takes stunning maiden pole for Alpine",
+      "title_en": "F1 Italian GP: Gasly takes stunning maiden pole for Alpine",
       "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/isack-hadjar-summoned-to-stewards-f1-monaco-gp-podium-at-risk/10828044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdwLEKY/s6/isack-hadjar-red-bull-racing-2.jpg",
-      "published_at": "2026-06-07T16:47:19+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
+      "url": "https://www.autosport.com/f1/news/f1-italian-gp-qualifying-report/10852579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBPbG6/s6/pierre-gasly-alpine-3.jpg",
+      "published_at": "2026-09-05T15:18:24+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "résultat"
+        "rumeur"
       ],
-      "importance": 60,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Isack Hadjar conserve sa première troisième place chez Red Bull à Monaco après que la FIA n'a pas pris d'actions supplémentaires contre son équipe.",
-      "summary_en": "Isack Hadjar will keep his first Red Bull podium at the Monaco Grand Prix after no further action was taken against his team for the work it conducted during a late race suspension."
+      "summary_fr": "On the scene of his maiden grand prix win, Alpine driver Pierre Gasly has written another chapter in his Formula 1 career by claiming his first-ever pole position for the Italian Grand Prix.<br />In a",
+      "summary_en": "On the scene of his maiden grand prix win, Alpine driver Pierre Gasly has written another chapter in his Formula 1 career by claiming his first-ever pole position for the Italian Grand Prix.<br />In a"
     },
     {
-      "id": "dbb421c20107",
-      "title": "Hadjar keeps podium after investigation for illegal work on car during red flag | Formula 1",
-      "title_fr": "Hadjar conserve sa troisième place après enquête sur l'usine de Monaco",
-      "title_en": "Hadjar keeps podium after investigation for illegal work on car during red flag",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/06/07/hadjar-keeps-podium-after-investigation-for-illegal-work-on-car-during-red-flag/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-07-15-10-12-1-SI202606070278.jpg",
-      "published_at": "2026-06-07T16:34:26+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a conservé sa troisième place au Grand Prix de Monaco après que les commissaires d'horizon ont enquêté sur une éventuelle infraction de son équipe pendant la période de drapeau rouge.",
-      "summary_en": "Isack Hadjar has kept his third place finish in the Monaco Grand Prix after the stewards investigated whether his team broke the rules during the red flag period."
-    },
-    {
-      "id": "4dae85de2334",
-      "title": "How George Russell's luckless Monaco GP unravelled as F1 title deficit grows",
-      "title_fr": "La chance tourne à l'encontre de George Russell à Monaco",
-      "title_en": "How George Russell's luckless Monaco GP unravelled as F1 title deficit grows",
+      "id": "e8f530c20d9d",
+      "title": "F1 Italian GP: Pierre Gasly takes shock maiden pole at Monza",
+      "title_fr": "F1 Italian GP: Pierre Gasly takes shock maiden pole at Monza",
+      "title_en": "F1 Italian GP: Pierre Gasly takes shock maiden pole at Monza",
       "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-george-russells-luckless-monaco-gp-unravelled-as-f1-title-deficit-grows/10828020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoJnGk0/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-06-07T16:24:56+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
+      "url": "https://www.motorsport.com/f1/news/f1-italian-gp-qualifying-report/10852577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0R7BpKo2/s6/pierre-gasly-alpine-4.jpg",
+      "published_at": "2026-09-05T15:15:33+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "résultat"
+        "rumeur"
       ],
-      "importance": 60,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "George Russell a connu un week-end catastrophique à Monaco, ce qui l'a laissé à la troisième place du championnat. Il est désormais loin de son coéquipier de Mercedes.",
-      "summary_en": "George Russell's weekend at Monaco unravelled as he fell to third in the championship, leaving him with a significant gap to his Mercedes teammate."
+      "summary_fr": "On the scene of his maiden grand prix win, Alpine driver Pierre Gasly has written another guilt-edged chapter in his Formula 1 career by claiming his first-ever pole in Monza.<br />In a thrilling Q3 s",
+      "summary_en": "On the scene of his maiden grand prix win, Alpine driver Pierre Gasly has written another guilt-edged chapter in his Formula 1 career by claiming his first-ever pole in Monza.<br />In a thrilling Q3 s"
     },
     {
-      "id": "601b43d14cfa",
-      "title": "Every penalty noted, investigated and served (so far) in a crazy Monaco GP | Formula 1",
-      "title_fr": "Les pénalités du GP de Monaco : un jour chargé pour les commissaires de piste",
-      "title_en": "Every penalty noted, investigated and served (so far) in a crazy Monaco GP",
+      "id": "b64501f9108f",
+      "title": "F1 2026 qualifying head-to-head: Italian GP",
+      "title_fr": "F1 2026 qualifying head-to-head: Italian GP",
+      "title_en": "F1 2026 qualifying head-to-head: Italian GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-italian-gp/10852506/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YXyK1p56/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-09-05T15:07:41+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "After every F1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles.<br />This record is based exclusively on qualifying results so that grid penalt",
+      "summary_en": "After every F1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles.<br />This record is based exclusively on qualifying results so that grid penalt"
+    },
+    {
+      "id": "28c2fdc405d4",
+      "title": "2026 Italian Grand Prix grid | Formula 1",
+      "title_fr": "2026 Italian Grand Prix grid | Formula 1",
+      "title_en": "2026 Italian Grand Prix grid | Formula 1",
       "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/06/07/every-penalty-noted-investigated-and-served-so-far-in-a-crazy-monaco-gp/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-07-15-03-38-5-2280325348-670.jpg",
-      "published_at": "2026-06-07T16:22:02+00:00",
-      "race_id": "monaco",
-      "category": "pénalité",
+      "url": "https://www.racefans.net/2026/09/05/2026-italian-grand-prix-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/02/racefansdotnet-24-02-11-16-08-36-2-1102BahrainT1D1-2.jpg",
+      "published_at": "2026-09-05T15:02:53+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "pénalité"
+        "rumeur"
       ],
-      "importance": 72,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Les commissaires de piste du GP de Monaco ont eu un jour chargé, en investiguant des dizaines d'incidents et en infligeant six pénalités pour excès de vitesse en stand.",
-      "summary_en": "The Monaco Grand Prix stewards had a busy day, investigating dozens of incidents and issuing six penalties for pit lane speeding."
+      "summary_fr": "Pierre Gasly has taken provisional pole position for the Italian Grand Prix for Alpine ahead of George Russell and Oscar Piastri.",
+      "summary_en": "Pierre Gasly has taken provisional pole position for the Italian Grand Prix for Alpine ahead of George Russell and Oscar Piastri."
     },
     {
-      "id": "6f924f0d530d",
-      "title": "Leclerc reveals reason for Monaco GP crash: “Three out of four brakes not working”",
-      "title_fr": "Leclerc révèle la raison de sa sortie de piste à Monaco : « Trois freins sur quatre ne fonctionnaient pas »",
-      "title_en": "Leclerc reveals reason for Monaco GP crash: “Three out of four brakes not working”",
+      "id": "86fbdcbb37e9",
+      "title": "Don't expect new Oscar Piastri deal after Lando Norris' extension: \"I'm good for now\"",
+      "title_fr": "Don't expect new Oscar Piastri deal after Lando Norris' extension: \"I'm good for now\"",
+      "title_en": "Don't expect new Oscar Piastri deal after Lando Norris' extension: \"I'm good for now\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/dont-expect-piastri-new-deal-news-after-norris-extension-im-good-for-now/10852480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKL8qY/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-09-05T13:15:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri is adamant that \"there's no rush\" to get into contractual negotiations with McLaren despite fresh questions over his long-term position within the team.<br />The interest has been trigge",
+      "summary_en": "Oscar Piastri is adamant that \"there's no rush\" to get into contractual negotiations with McLaren despite fresh questions over his long-term position within the team.<br />The interest has been trigge"
+    },
+    {
+      "id": "07da6f0990da",
+      "title": "\"I kept forgetting SM!\" – Yuki Tsunoda reveals amusing Monza challenge with F1's 2026 cars",
+      "title_fr": "\"I kept forgetting SM!\" – Yuki Tsunoda reveals amusing Monza challenge with F1's 2026 cars",
+      "title_en": "\"I kept forgetting SM!\" – Yuki Tsunoda reveals amusing Monza challenge with F1's 2026 cars",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/i-kept-forgetting-sm-yuki-tsunoda-reveals-amusing-monza-challenge-with-f1s-2026-cars/10852470/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoDAbp0/s6/yuki-tsunoda-racing-bulls.jpg",
+      "published_at": "2026-09-05T12:30:03+00:00",
+      "race_id": "japan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Two weeks after his impressive performance in Zandvoort, Yuki Tsunoda has once again made a strong start to his second 2026 Formula 1 weekend at Monza.<br />The Japanese driver said during media day t",
+      "summary_en": "Two weeks after his impressive performance in Zandvoort, Yuki Tsunoda has once again made a strong start to his second 2026 Formula 1 weekend at Monza.<br />The Japanese driver said during media day t"
+    },
+    {
+      "id": "065862cc27fe",
+      "title": "Verstappen told Red Bull his car has “less power than a Fiat Punto” in practice | Formula 1",
+      "title_fr": "Verstappen told Red Bull his car has “less power than a Fiat Punto” in practice | Formula 1",
+      "title_en": "Verstappen told Red Bull his car has “less power than a Fiat Punto” in practice | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/05/verstappen-told-red-bull-his-car-has-less-power-than-a-fiat-punto-in-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-05-12-50-56-2-SI202609050110_hires_jpeg_24bit_rgb.jpg",
+      "published_at": "2026-09-05T12:09:20+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen made his dissatisfaction with his car clear in final practice for the Italian Grand Prix.",
+      "summary_en": "Max Verstappen made his dissatisfaction with his car clear in final practice for the Italian Grand Prix."
+    },
+    {
+      "id": "7825d903e848",
+      "title": "F1 Italian GP: Russell fastest from Hamilton and Verstappen in final practice",
+      "title_fr": "F1 Italian GP: Russell fastest from Hamilton and Verstappen in final practice",
+      "title_en": "F1 Italian GP: Russell fastest from Hamilton and Verstappen in final practice",
       "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/charles-leclerc-reveals-reason-for-monaco-crash-three-out-of-four-brakes-not-working/10828019/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/24Qe47eY/s6/charles-leclerc-ferrari-3.jpg",
-      "published_at": "2026-06-07T16:18:54+00:00",
-      "race_id": "monaco",
-      "category": "accident",
+      "url": "https://www.autosport.com/f1/news/f1-italian-gp-russell-fastest-from-hamilton-and-verstappen-in-final-practice/10852510/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0LdeVy90/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-09-05T11:47:10+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "accident"
+        "rumeur"
       ],
-      "importance": 90,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Charles Leclerc a abandonné la course de Monaco après une sortie de piste à Antony Noghes corner. Le pilote Ferrari a immédiatement déclaré ne pas être à l'origine de l'accident.",
-      "summary_en": "Charles Leclerc's Monaco Grand Prix ended in a crash at Antony Noghes corner ahead of the safety car restart. The Ferrari driver immediately declared he wasn't at fault."
+      "summary_fr": "Mercedes driver George Russell has beaten Ferrari's Lewis Hamilton to top spot in Formula 1's final practice session at the Italian Grand Prix.<br />Russell comfortably held off the seven-time world c",
+      "summary_en": "Mercedes driver George Russell has beaten Ferrari's Lewis Hamilton to top spot in Formula 1's final practice session at the Italian Grand Prix.<br />Russell comfortably held off the seven-time world c"
     },
     {
-      "id": "8686697316ef",
-      "title": "Charles Leclerc reveals reason for Monaco crash: “Three out of four brakes not working”",
-      "title_fr": "Leclerc révèle la cause de sa sortie de piste à Monaco : trois freins non fonctionnels",
-      "title_en": "Charles Leclerc reveals reason for Monaco crash: “Three out of four brakes not working”",
+      "id": "1e00ce681508",
+      "title": "F1 Italian GP: George Russell leads Lewis Hamilton in FP3",
+      "title_fr": "F1 Italian GP: George Russell leads Lewis Hamilton in FP3",
+      "title_en": "F1 Italian GP: George Russell leads Lewis Hamilton in FP3",
       "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-reason-for-monaco-crash-three-out-of-four-brakes-not-working/10828005/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGqPO7Y/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-06-07T16:09:14+00:00",
-      "race_id": "monaco",
-      "category": "accident",
+      "url": "https://www.motorsport.com/f1/news/f1-italin-gp-fp3-report/10852508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6DGgdvJY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-05T11:44:53+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "accident"
+        "rumeur"
       ],
-      "importance": 90,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Charles Leclerc a abandonné la course de Monaco après une sortie de piste à Antony Noghes corner. Le pilote Ferrari a immédiatement démenti toute faute.",
-      "summary_en": "Charles Leclerc's Monaco Grand Prix ended in a crash at Antony Noghes corner ahead of the safety car restart. The Ferrari driver immediately denied any fault."
+      "summary_fr": "Mercedes driver George Russell beat Ferrari's Lewis Hamilton to top spot in Formula 1's third and final practice session at the Italian Grand Prix.<br />Russell comfortably held off the seven-time wor",
+      "summary_en": "Mercedes driver George Russell beat Ferrari's Lewis Hamilton to top spot in Formula 1's third and final practice session at the Italian Grand Prix.<br />Russell comfortably held off the seven-time wor"
     },
     {
-      "id": "b593e60ffb15",
-      "title": "F1 Monaco GP: Kimi Antonelli takes dominant win in non-score for George Russell",
-      "title_fr": "Kimi Antonelli s'impose à Monaco, George Russell n'inscrit pas de point",
-      "title_en": "Kimi Antonelli takes dominant win in non-score for George Russell",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-monaco-gp-kimi-antonelli-takes-dominant-win-in-non-score-for-george-russell/10827976/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6Al7PVoY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-06-07T15:53:32+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté sa cinquième victoire consécutive à Monaco, alors que George Russell n'a pas inscrit de point. La course a été marquée par des accidents et une sortie de piste.",
-      "summary_en": "Kimi Antonelli secured his fifth consecutive Formula 1 win at Monaco, as George Russell failed to score. The race was marked by accidents and a late red flag."
-    },
-    {
-      "id": "611dafd48dde",
-      "title": "Antonelli dominates Monaco GP ahead of Hamilton and Hadjar, Russell fails to score | 2026 Monaco Grand Prix report",
-      "title_fr": "Antonelli domine le Grand Prix de Monaco devant Hamilton et Hadjar, Russell échoue à marquer",
-      "title_en": "Antonelli dominates Monaco GP ahead of Hamilton and Hadjar, Russell fails to score",
+      "id": "3ff8de166eda",
+      "title": "Russell fastest ahead of scrapping Hamilton and Verstappen in final practice | Formula 1",
+      "title_fr": "Russell fastest ahead of scrapping Hamilton and Verstappen in final practice | Formula 1",
+      "title_en": "Russell fastest ahead of scrapping Hamilton and Verstappen in final practice | Formula 1",
       "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/06/07/antonelli-dominates-monaco-gp-ahead-of-hamilton-hadjars-third-under-investigation/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-07-15-02-22-7-15-sunday-montecarlo-2026.jpg",
-      "published_at": "2026-06-07T15:50:35+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
+      "url": "https://www.racefans.net/2026/09/05/russell-fastest-ahead-of-scrapping-hamilton-and-verstappen-in-final-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-05-12-11-56-6-M624398_F1_Grand_Prix_of_Italy_Practice.jpg",
+      "published_at": "2026-09-05T11:43:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
       "tags": [
-        "résultat"
+        "rumeur"
       ],
-      "importance": 60,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a résisté à un redémarrage tardif pour remporter la course après le crash de Charles Leclerc et les souffrances de George Russell.",
-      "summary_en": "Andrea Kimi Antonelli shrugged off a late restart to win after Charles Leclerc crashed and George Russell endured a nightmare race."
+      "summary_fr": "George Russell was quickest in final practice as Lewis Hamilton and Max Verstappen came close to colliding at the chicane.",
+      "summary_en": "George Russell was quickest in final practice as Lewis Hamilton and Max Verstappen came close to colliding at the chicane."
     },
     {
-      "id": "880eea91e793",
-      "title": "F1 Monaco GP: Antonelli takes dominant win from Hamilton after chaotic finish",
-      "title_fr": "Kimi Antonelli s'impose à Monaco en dominant Hamilton",
-      "title_en": "Kimi Antonelli takes dominant win from Hamilton at Monaco",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-monaco-gp-antonelli-takes-dominant-win-from-hamilton-in-chaotic-race/10827978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lLPab2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-06-07T15:49:19+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
+      "id": "6c1bc202dd17",
+      "title": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
+      "title_fr": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
+      "title_en": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/88ad9d50-a877-11f1-824a-0fc4c5d895ae.png",
+      "published_at": "2026-09-05T10:37:00+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
       "tags": [
-        "résultat"
+        "rumeur"
       ],
-      "importance": 60,
+      "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté sa cinquième victoire consécutive en Formule 1, malgré les incidents de fin de course à Monaco.",
-      "summary_en": "Kimi Antonelli secured his fifth successive Formula 1 win, as late crashes and a red flag marred the Monaco Grand Prix."
+      "summary_fr": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
+      "summary_en": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari."
+    },
+    {
+      "id": "a7c624be81ef",
+      "title": "FIA appeal court refutes Briatore impartiality claim",
+      "title_fr": "FIA appeal court refutes Briatore impartiality claim",
+      "title_en": "FIA appeal court refutes Briatore impartiality claim",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g56x1xxn3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5073/live/ec27db20-a90d-11f1-b101-3b8aa2acb53f.jpg",
+      "published_at": "2026-09-05T10:02:46+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The FIA court of appeal refutes a claim by Alpine boss Flavio Briatore which it says \"question the independence and impartiality of the judges\".",
+      "summary_en": "The FIA court of appeal refutes a claim by Alpine boss Flavio Briatore which it says \"question the independence and impartiality of the judges\"."
+    },
+    {
+      "id": "84fd88161ac6",
+      "title": "Social media: Formula 2 reveals new Formula 1-style car for 2027 season | Brief",
+      "title_fr": "Social media: Formula 2 reveals new Formula 1-style car for 2027 season | Brief",
+      "title_en": "Social media: Formula 2 reveals new Formula 1-style car for 2027 season | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/05/social-media-formula-2-reveals-new-formula-1-style-car-for-2027-season/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-21-09-05-10-53-33-1.jpg",
+      "published_at": "2026-09-05T09:59:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 2 reveals new Formula 1-style car for 2027 season",
+      "summary_en": "Formula 2 reveals new Formula 1-style car for 2027 season"
+    },
+    {
+      "id": "15fdbad022fb",
+      "title": "Court of Appeal issues defence to Briatore’s allegations of bias over Gasly decision | Formula 1",
+      "title_fr": "Court of Appeal issues defence to Briatore’s allegations of bias over Gasly decision | Formula 1",
+      "title_en": "Court of Appeal issues defence to Briatore’s allegations of bias over Gasly decision | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/05/court-of-appeal-issues-defence-to-briatores-allegations-of-bias-over-gasly-decision/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2024/08/racefansdotnet-21-08-15-17-26-59-1.jpg",
+      "published_at": "2026-09-05T09:34:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The International Court of Appeal has responded to Alpine executive consultant Flavio Briatore's attack on the independence of its judges.",
+      "summary_en": "The International Court of Appeal has responded to Alpine executive consultant Flavio Briatore's attack on the independence of its judges."
+    },
+    {
+      "id": "e8fbb9374366",
+      "title": "Why Leclerc is likely to tow Hamilton in Italian GP qualifying",
+      "title_fr": "Why Leclerc is likely to tow Hamilton in Italian GP qualifying",
+      "title_en": "Why Leclerc is likely to tow Hamilton in Italian GP qualifying",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-is-likely-to-tow-lewis-hamilton-in-italian-gp-qualifying/10852255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2eZx9Q9Y/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-09-05T07:12:06+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc is expecting to give Ferrari team-mate Lewis Hamilton a tow in Italian Grand Prix qualifying, with Kimi Antonelli ready to help Formula 1 title rival George Russell at Mercedes.<br />S",
+      "summary_en": "Charles Leclerc is expecting to give Ferrari team-mate Lewis Hamilton a tow in Italian Grand Prix qualifying, with Kimi Antonelli ready to help Formula 1 title rival George Russell at Mercedes.<br />S"
+    },
+    {
+      "id": "a755513be64e",
+      "title": "Ferrari still behind Mercedes on straights - Hamilton",
+      "title_fr": "Ferrari still behind Mercedes on straights - Hamilton",
+      "title_en": "Ferrari still behind Mercedes on straights - Hamilton",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9d/live/5d590a40-a881-11f1-824a-0fc4c5d895ae.jpg",
+      "published_at": "2026-09-04T17:09:35+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton says Ferrari's new engine is \"an improvement\" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix.",
+      "summary_en": "Lewis Hamilton says Ferrari's new engine is \"an improvement\" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix."
+    },
+    {
+      "id": "60cdf3cee430",
+      "title": "Gasly loses Monaco podium after McLaren and Red Bull win appeals",
+      "title_fr": "Gasly loses Monaco podium after McLaren and Red Bull win appeals",
+      "title_en": "Gasly loses Monaco podium after McLaren and Red Bull win appeals",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gq26zglpzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7f/live/c9ff38c0-a851-11f1-80f8-c33181935c5a.jpg",
+      "published_at": "2026-09-04T15:56:25+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren and Red Bull win their appeals against the result of the Monaco Grand Prix after a controversy over multiple incorrect pit-lane speeding penalties.",
+      "summary_en": "McLaren and Red Bull win their appeals against the result of the Monaco Grand Prix after a controversy over multiple incorrect pit-lane speeding penalties."
+    },
+    {
+      "id": "b23f34a37496",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "title_fr": "Andrew Benson Q&A: Send us your questions",
+      "title_en": "Andrew Benson Q&A: Send us your questions",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": "2026-09-04T15:15:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now.",
+      "summary_en": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now."
+    },
+    {
+      "id": "9454b22ffe41",
+      "title": "F1 Italian GP: Russell beats Leclerc to top second practice",
+      "title_fr": "F1 Italian GP: Russell beats Leclerc to top second practice",
+      "title_en": "F1 Italian GP: Russell beats Leclerc to top second practice",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp2-report-10852240/10852240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZx9E1Y/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-09-04T15:14:01+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell has topped second practice at Formula 1's Italian Grand Prix, nudging Ferrari's Charles Leclerc off the top of the timesheets.<br />Russell set a 1m22.559s lap in the second half of the",
+      "summary_en": "George Russell has topped second practice at Formula 1's Italian Grand Prix, nudging Ferrari's Charles Leclerc off the top of the timesheets.<br />Russell set a 1m22.559s lap in the second half of the"
+    },
+    {
+      "id": "2077cc24b1d1",
+      "title": "Russell leads Leclerc, Stroll faces investigation for “dangerous” incident with Norris | Formula 1",
+      "title_fr": "Russell leads Leclerc, Stroll faces investigation for “dangerous” incident with Norris | Formula 1",
+      "title_en": "Russell leads Leclerc, Stroll faces investigation for “dangerous” incident with Norris | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/04/russell-leads-leclerc-stroll-faces-investigation-for-dangerous-incident-with-norris/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-04-13-01-17-21-25-friday-monza-2026.jpg",
+      "published_at": "2026-09-04T15:11:20+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell prevented Charles Leclerc from topping both practice sessions at Monza as Mercedes showed their potential.",
+      "summary_en": "George Russell prevented Charles Leclerc from topping both practice sessions at Monza as Mercedes showed their potential."
+    },
+    {
+      "id": "6c36157199e9",
+      "title": "Spotlight: F1 Live to return next year with three-day event in Milan | Formula 1",
+      "title_fr": "Spotlight: F1 Live to return next year with three-day event in Milan | Formula 1",
+      "title_en": "Spotlight: F1 Live to return next year with three-day event in Milan | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/04/spotlight-f1-live-to-return-next-year-with-three-day-event-in-milan/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/02/racefansdotnet-24-02-18-22-02-40-3-F1-75-Hero-2.jpg",
+      "published_at": "2026-09-04T14:28:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "F1 Live to return next year with three-day event in Milan",
+      "summary_en": "F1 Live to return next year with three-day event in Milan"
+    },
+    {
+      "id": "547128e097c1",
+      "title": "FIA wrong to lift Russia ban - Ukraine minister",
+      "title_fr": "FIA wrong to lift Russia ban - Ukraine minister",
+      "title_en": "FIA wrong to lift Russia ban - Ukraine minister",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4gj0z94dw2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed0/live/3b741230-a6b5-11f1-bf9b-4185c128a665.jpg",
+      "published_at": "2026-09-04T14:27:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The FIA was wrong to lift the ban on Russian competitors because nothing has changed since it was imposed, the Ukrainian Minister for Youth and Sport says.",
+      "summary_en": "The FIA was wrong to lift the ban on Russian competitors because nothing has changed since it was imposed, the Ukrainian Minister for Youth and Sport says."
     }
   ]
 }
