@@ -17,8 +17,8 @@
             {
               "position": "1",
               "positionText": "1",
-              "points": "425",
-              "wins": "8",
+              "points": "468",
+              "wins": "9",
               "Constructor": {
                 "constructorId": "mercedes",
                 "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
@@ -29,7 +29,7 @@
             {
               "position": "2",
               "positionText": "2",
-              "points": "338",
+              "points": "346",
               "wins": "2",
               "Constructor": {
                 "constructorId": "ferrari",
@@ -41,7 +41,7 @@
             {
               "position": "3",
               "positionText": "3",
-              "points": "263",
+              "points": "287",
               "wins": "2",
               "Constructor": {
                 "constructorId": "mclaren",
@@ -53,7 +53,7 @@
             {
               "position": "4",
               "positionText": "4",
-              "points": "186",
+              "points": "204",
               "wins": "0",
               "Constructor": {
                 "constructorId": "red_bull",
@@ -65,7 +65,7 @@
             {
               "position": "5",
               "positionText": "5",
-              "points": "66",
+              "points": "75",
               "wins": "0",
               "Constructor": {
                 "constructorId": "rb",
@@ -77,7 +77,7 @@
             {
               "position": "6",
               "positionText": "6",
-              "points": "63",
+              "points": "62",
               "wins": "0",
               "Constructor": {
                 "constructorId": "alpine",
