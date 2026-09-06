@@ -50,12 +50,19 @@
                 "name": "Mercedes",
                 "nationality": "German"
               },
-              "grid": null,
+              "grid": "19",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6675281",
                 "time": "1:51:15.281"
+              },
+              "FastestLap": {
+                "rank": "1",
+                "lap": "53",
+                "Time": {
+                  "time": "1:23.504"
+                }
               }
             },
             {
@@ -79,12 +86,19 @@
                 "name": "Mercedes",
                 "nationality": "German"
               },
-              "grid": null,
+              "grid": "2",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6679138",
                 "time": "+3.857"
+              },
+              "FastestLap": {
+                "rank": "4",
+                "lap": "51",
+                "Time": {
+                  "time": "1:24.390"
+                }
               }
             },
             {
@@ -108,12 +122,19 @@
                 "name": "Red Bull",
                 "nationality": "Austrian"
               },
-              "grid": null,
+              "grid": "5",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6689999",
                 "time": "+14.718"
+              },
+              "FastestLap": {
+                "rank": "2",
+                "lap": "37",
+                "Time": {
+                  "time": "1:24.242"
+                }
               }
             },
             {
@@ -137,12 +158,19 @@
                 "name": "McLaren",
                 "nationality": "British"
               },
-              "grid": null,
+              "grid": "8",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6694337",
                 "time": "+19.056"
+              },
+              "FastestLap": {
+                "rank": "5",
+                "lap": "48",
+                "Time": {
+                  "time": "1:24.864"
+                }
               }
             },
             {
@@ -166,12 +194,19 @@
                 "name": "McLaren",
                 "nationality": "British"
               },
-              "grid": null,
+              "grid": "6",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6694534",
                 "time": "+19.253"
+              },
+              "FastestLap": {
+                "rank": "8",
+                "lap": "45",
+                "Time": {
+                  "time": "1:25.125"
+                }
               }
             },
             {
@@ -195,12 +230,19 @@
                 "name": "Ferrari",
                 "nationality": "Italian"
               },
-              "grid": null,
+              "grid": "4",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6699936",
                 "time": "+24.655"
+              },
+              "FastestLap": {
+                "rank": "9",
+                "lap": "23",
+                "Time": {
+                  "time": "1:25.300"
+                }
               }
             },
             {
@@ -224,12 +266,19 @@
                 "name": "Alpine F1 Team",
                 "nationality": "French"
               },
-              "grid": null,
+              "grid": "1",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6702632",
                 "time": "+27.351"
+              },
+              "FastestLap": {
+                "rank": "6",
+                "lap": "53",
+                "Time": {
+                  "time": "1:24.927"
+                }
               }
             },
             {
@@ -253,12 +302,19 @@
                 "name": "RB F1 Team",
                 "nationality": "Italian"
               },
-              "grid": null,
+              "grid": "9",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6720417",
                 "time": "+45.136"
+              },
+              "FastestLap": {
+                "rank": "14",
+                "lap": "47",
+                "Time": {
+                  "time": "1:26.028"
+                }
               }
             },
             {
@@ -282,12 +338,19 @@
                 "name": "Alpine F1 Team",
                 "nationality": "French"
               },
-              "grid": null,
+              "grid": "7",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6722634",
                 "time": "+47.353"
+              },
+              "FastestLap": {
+                "rank": "7",
+                "lap": "53",
+                "Time": {
+                  "time": "1:24.933"
+                }
               }
             },
             {
@@ -311,12 +374,19 @@
                 "name": "RB F1 Team",
                 "nationality": "Italian"
               },
-              "grid": null,
+              "grid": "15",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6733468",
                 "time": "+58.187"
+              },
+              "FastestLap": {
+                "rank": "16",
+                "lap": "42",
+                "Time": {
+                  "time": "1:26.320"
+                }
               }
             },
             {
@@ -340,12 +410,19 @@
                 "name": "Audi",
                 "nationality": "German"
               },
-              "grid": null,
+              "grid": "10",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6740468",
                 "time": "+1:05.187"
+              },
+              "FastestLap": {
+                "rank": "15",
+                "lap": "31",
+                "Time": {
+                  "time": "1:26.188"
+                }
               }
             },
             {
@@ -369,12 +446,19 @@
                 "name": "Audi",
                 "nationality": "German"
               },
-              "grid": null,
+              "grid": "12",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6741468",
                 "time": "+1:06.187"
+              },
+              "FastestLap": {
+                "rank": "3",
+                "lap": "53",
+                "Time": {
+                  "time": "1:24.364"
+                }
               }
             },
             {
@@ -398,12 +482,19 @@
                 "name": "Williams",
                 "nationality": "British"
               },
-              "grid": null,
+              "grid": "13",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6749398",
                 "time": "+1:14.117"
+              },
+              "FastestLap": {
+                "rank": "12",
+                "lap": "46",
+                "Time": {
+                  "time": "1:25.683"
+                }
               }
             },
             {
@@ -427,12 +518,19 @@
                 "name": "Red Bull",
                 "nationality": "Austrian"
               },
-              "grid": null,
+              "grid": "22",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6750890",
                 "time": "+1:15.609"
+              },
+              "FastestLap": {
+                "rank": "11",
+                "lap": "53",
+                "Time": {
+                  "time": "1:25.578"
+                }
               }
             },
             {
@@ -456,12 +554,19 @@
                 "name": "Haas F1 Team",
                 "nationality": "American"
               },
-              "grid": null,
+              "grid": "11",
               "laps": "53",
               "status": "Finished",
               "Time": {
                 "millis": "6754239",
                 "time": "+1:18.958"
+              },
+              "FastestLap": {
+                "rank": "17",
+                "lap": "31",
+                "Time": {
+                  "time": "1:26.356"
+                }
               }
             },
             {
@@ -485,12 +590,19 @@
                 "name": "Haas F1 Team",
                 "nationality": "American"
               },
-              "grid": null,
+              "grid": "14",
               "laps": "52",
               "status": "Lapped",
               "Time": {
                 "millis": "6681872",
                 "time": "+6.591"
+              },
+              "FastestLap": {
+                "rank": "13",
+                "lap": "52",
+                "Time": {
+                  "time": "1:25.711"
+                }
               }
             },
             {
@@ -514,12 +626,19 @@
                 "name": "Williams",
                 "nationality": "British"
               },
-              "grid": null,
+              "grid": "20",
               "laps": "52",
               "status": "Lapped",
               "Time": {
                 "millis": "6695549",
                 "time": "+20.268"
+              },
+              "FastestLap": {
+                "rank": "10",
+                "lap": "52",
+                "Time": {
+                  "time": "1:25.341"
+                }
               }
             },
             {
@@ -543,12 +662,19 @@
                 "name": "Cadillac F1 Team",
                 "nationality": "American"
               },
-              "grid": null,
+              "grid": "17",
               "laps": "52",
               "status": "Lapped",
               "Time": {
                 "millis": "6748653",
                 "time": "+1:13.372"
+              },
+              "FastestLap": {
+                "rank": "18",
+                "lap": "51",
+                "Time": {
+                  "time": "1:26.914"
+                }
               }
             },
             {
@@ -572,12 +698,19 @@
                 "name": "Cadillac F1 Team",
                 "nationality": "American"
               },
-              "grid": null,
+              "grid": "16",
               "laps": "51",
               "status": "Lapped",
               "Time": {
                 "millis": "6688161",
                 "time": "+12.880"
+              },
+              "FastestLap": {
+                "rank": "19",
+                "lap": "51",
+                "Time": {
+                  "time": "1:27.325"
+                }
               }
             },
             {
@@ -601,9 +734,16 @@
                 "name": "Aston Martin",
                 "nationality": "British"
               },
-              "grid": null,
+              "grid": "18",
               "laps": "26",
-              "status": "Retired"
+              "status": "Retired",
+              "FastestLap": {
+                "rank": "21",
+                "lap": "11",
+                "Time": {
+                  "time": "1:28.415"
+                }
+              }
             },
             {
               "number": "14",
@@ -626,9 +766,16 @@
                 "name": "Aston Martin",
                 "nationality": "British"
               },
-              "grid": null,
+              "grid": "21",
               "laps": "23",
-              "status": "Retired"
+              "status": "Retired",
+              "FastestLap": {
+                "rank": "20",
+                "lap": "8",
+                "Time": {
+                  "time": "1:27.961"
+                }
+              }
             },
             {
               "number": "16",
@@ -651,7 +798,7 @@
                 "name": "Ferrari",
                 "nationality": "Italian"
               },
-              "grid": null,
+              "grid": "3",
               "laps": "1",
               "status": "Retired"
             }
