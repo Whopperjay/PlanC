@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-10T20:04:51Z",
+  "last_updated": "2026-09-10T23:08:01Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "b7f481481572",
+      "title": "Oscar Piastri shoots down Lando Norris sabotage theory",
+      "title_fr": "Oscar Piastri shoots down Lando Norris sabotage theory",
+      "title_en": "Oscar Piastri shoots down Lando Norris sabotage theory",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-shoots-down-lando-norris-sabotage-theory/10854309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2y7QlZn6/s6/gettyimages-2294527460.jpg",
+      "published_at": "2026-09-10T22:12:08+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "In the fraught final moments of qualifying for the Italian Grand Prix last weekend, McLaren's plan was for Oscar Piastri to run ahead of team-mate Lando Norris on-track, giving him the benefit of a 't",
+      "summary_en": "In the fraught final moments of qualifying for the Italian Grand Prix last weekend, McLaren's plan was for Oscar Piastri to run ahead of team-mate Lando Norris on-track, giving him the benefit of a 't"
+    },
+    {
+      "id": "613b96d4ab97",
+      "title": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
+      "title_fr": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
+      "title_en": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-drivers-unveil-striking-one-off-helmets-for-first-madrid-spanish-gp/10854347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6AlvLjNY/s6/a-scenic-view-of-the-circuit-i.jpg",
+      "published_at": "2026-09-10T21:51:10+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1's arrival in Madrid for the Spanish Grand Prix has prompted several drivers to introduce special helmet designs for the inaugural event.<br />Set around the IFEMA exhibition centre, the new ",
+      "summary_en": "Formula 1's arrival in Madrid for the Spanish Grand Prix has prompted several drivers to introduce special helmet designs for the inaugural event.<br />Set around the IFEMA exhibition centre, the new "
+    },
+    {
+      "id": "42a2ee2b0a70",
+      "title": "Williams pays tribute to 1981 title-winning car with special Spanish Grand Prix livery",
+      "title_fr": "Williams pays tribute to 1981 title-winning car with special Spanish Grand Prix livery",
+      "title_en": "Williams pays tribute to 1981 title-winning car with special Spanish Grand Prix livery",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/williams-pays-tribute-to-1981-title-winning-car-with-special-spanish-grand-prix-livery/10854341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/27NoqPx0/s6/williams-livery.jpg",
+      "published_at": "2026-09-10T20:56:36+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Williams will be sporting a one-off 1981-inspired livery on its FW48 at this weekend's Spanish Grand Prix in Madrid.<br />The special white, green and navy blue colourway pays homage to the FW07C, the",
+      "summary_en": "Williams will be sporting a one-off 1981-inspired livery on its FW48 at this weekend's Spanish Grand Prix in Madrid.<br />The special white, green and navy blue colourway pays homage to the FW07C, the"
+    },
     {
       "id": "a55d5ce8f08f",
       "title": "Leclerc admits he should not have ‘put Lewis in a difficult situation’ in Monza lap one clash | Formula 1",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen believes Formula 1’s new power units have taken so much away from the driving challenge that performing to a high level has become somewhat effortless.<br />Verstappen has been perhaps ",
       "summary_en": "Max Verstappen believes Formula 1’s new power units have taken so much away from the driving challenge that performing to a high level has become somewhat effortless.<br />Verstappen has been perhaps "
-    },
-    {
-      "id": "e124c519f6e2",
-      "title": "FIA accused of setting “dangerous precedent” over Russia’s war in Ukraine | Formula 1",
-      "title_fr": "FIA accused of setting “dangerous precedent” over Russia’s war in Ukraine | Formula 1",
-      "title_en": "FIA accused of setting “dangerous precedent” over Russia’s war in Ukraine | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/10/fia-accused-of-setting-dangerous-precedent-over-russias-war-in-ukraine/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2020/07/5198491_HiRes.jpg",
-      "published_at": "2026-09-10T07:41:12+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Ukraine Automobile Federation claims the FIA has allowed Russia's federation to open offices in its territory.",
-      "summary_en": "The Ukraine Automobile Federation claims the FIA has allowed Russia's federation to open offices in its territory."
-    },
-    {
-      "id": "5a9fa94dff27",
-      "title": "Grand Prix F1 d'Espagne 2026 : programme TV complet et horaires - Les Numériques",
-      "title_fr": "Grand Prix F1 d'Espagne 2026 : programme TV complet et horaires - Les Numériques",
-      "title_en": "Grand Prix F1 d'Espagne 2026 : programme TV complet et horaires - Les Numériques",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVlsMWVUUFdVVXNlakVKWVNfLUdhc28yakRLajgtaTdkLXMtZDVISXM2TzdRMFRlMlJxOUZmT0FGd2NwUzlGenpiRGl5WmVwd0FyUm03TnlKN01UQXY4c0oyWWxqd2o4S1BmLUlheFVSdXMwelI5ai1XakJGTTNfUVc0Z3VSY0NBYnpTbTF4Vk1ULUNPYlo3N29HeEVncmpiNlJ3aFhocjFEc0hoMnZMem4yRXdUV3RvVmxtVjFMOA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-10T07:15:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVlsMWVUUFdVVXNlakVKWVNfLUdhc28yakRLajgtaTdkLXMtZDVISXM2TzdRMFRlMlJxOUZmT0FGd2NwUzlGenpiRGl5WmVwd0FyUm03TnlKN01UQXY4c0oyWWxqd2o4S1BmLUlheF",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVlsMWVUUFdVVXNlakVKWVNfLUdhc28yakRLajgtaTdkLXMtZDVISXM2TzdRMFRlMlJxOUZmT0FGd2NwUzlGenpiRGl5WmVwd0FyUm03TnlKN01UQXY4c0oyWWxqd2o4S1BmLUlheF"
-    },
-    {
-      "id": "1726eceddd49",
-      "title": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
-      "title_fr": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
-      "title_en": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaWdBMWtVcHdjV2t4OUVMaEk2VG11LTUxSk92dXh4TGNsT1Y3Uml4QVhldUh5STNTcUtJQWo0cm9vQQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-10T07:04:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaW"
     }
   ]
 }
