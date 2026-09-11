@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-09-11T17:32:29Z",
+  "last_updated": "2026-09-11T20:35:51Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "895861fdfcf7",
+      "title": "Mercedes clearly ahead: How long-run pace compared in F1 Spanish GP practice",
+      "title_fr": "Mercedes clearly ahead: How long-run pace compared in F1 Spanish GP practice",
+      "title_en": "Mercedes clearly ahead: How long-run pace compared in F1 Spanish GP practice",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-clearly-ahead-how-long-run-pace-compared-in-f1-spanish-gp-practice-/10854723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-11T19:06:43+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell was the fastest long-run driver with a lot of fuel on board. His closest challenger was Red Bull’s Max Verstappen over Friday’s practice sessions ahead of the Formula 1 Spanish Grand Pr",
+      "summary_en": "George Russell was the fastest long-run driver with a lot of fuel on board. His closest challenger was Red Bull’s Max Verstappen over Friday’s practice sessions ahead of the Formula 1 Spanish Grand Pr"
+    },
+    {
+      "id": "4171727b467e",
+      "title": "“High risk” and a chance of “chaos” - drivers open up on F1’s new Madring circuit",
+      "title_fr": "“High risk” and a chance of “chaos” - drivers open up on F1’s new Madring circuit",
+      "title_en": "“High risk” and a chance of “chaos” - drivers open up on F1’s new Madring circuit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/very-high-risk-and-the-best-race-in-europe-f1-drivers-share-first-madring-impressions/10854690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVP7ZJ0/s6/gabriel-bortoleto-audi-f1-team.jpg",
+      "published_at": "2026-09-11T18:12:35+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.<br />Having ",
+      "summary_en": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.<br />Having "
+    },
+    {
+      "id": "b77ca5081cd8",
+      "title": "From \"very high risk\" to the \"best race in Europe\" - F1 drivers share first Madring impressions",
+      "title_fr": "From \"very high risk\" to the \"best race in Europe\" - F1 drivers share first Madring impressions",
+      "title_en": "From \"very high risk\" to the \"best race in Europe\" - F1 drivers share first Madring impressions",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/high-risk-and-a-chance-of-chaos-drivers-open-up-on-f1s-new-madring-circuit/10854707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6b8Zlgr2/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-09-11T18:12:31+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.<br />Having ",
+      "summary_en": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.<br />Having "
+    },
+    {
+      "id": "db4d1ed07a71",
+      "title": "Max Verstappen’s short but telling reaction to F1’s new Madrid circuit",
+      "title_fr": "Max Verstappen’s short but telling reaction to F1’s new Madrid circuit",
+      "title_en": "Max Verstappen’s short but telling reaction to F1’s new Madrid circuit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-short-but-telling-reaction-to-f1s-new-madrid-circuit/10854695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/27NoKlx0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-11T18:00:32+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1’s first encounter with the circuit around the IFEMA complex in Madrid has produced less chaos than some in the paddock may have feared. While the F3 and F2 sessions have seen several crashes",
+      "summary_en": "Formula 1’s first encounter with the circuit around the IFEMA complex in Madrid has produced less chaos than some in the paddock may have feared. While the F3 and F2 sessions have seen several crashes"
+    },
+    {
+      "id": "e583fec01096",
+      "title": "David Croft hails Kimi Antonelli's maturity as F1 title charge gathers pace",
+      "title_fr": "David Croft hails Kimi Antonelli's maturity as F1 title charge gathers pace",
+      "title_en": "David Croft hails Kimi Antonelli's maturity as F1 title charge gathers pace",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/david-croft-hails-kimi-antonellis-maturity-as-f1-title-charge-gathers-pace/10854687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7vdBb6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-11T17:58:32+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Sky Sports Formula 1 lead commentator David Croft has backed Mercedes driver Kimi Antonelli to become a younger world champion than Max Verstappen.<br />Antonelli delivered an incredible performance a",
+      "summary_en": "Sky Sports Formula 1 lead commentator David Croft has backed Mercedes driver Kimi Antonelli to become a younger world champion than Max Verstappen.<br />Antonelli delivered an incredible performance a"
+    },
+    {
+      "id": "9d699431962c",
+      "title": "F1/GP d'Espagne - Essais libres 2: Antonelli le plus rapide - France 24",
+      "title_fr": "F1/GP d'Espagne - Essais libres 2: Antonelli le plus rapide - France 24",
+      "title_en": "F1/GP d'Espagne - Essais libres 2: Antonelli le plus rapide - France 24",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZpamF0eHNYY2tmSVViQUJQUDhpekNWZXFuSmVPOXNBNV9EQTFXVlZHamxhRGNnbzRtOGZhVk5rMElKVmV6Z1l0QnRlQmFrTFhzaW1nMmVpQWhHb2xvVUFqLVNEZHlXOHl4dkc2VXhyWnNaelRVYTZhazlEbkVSd2h0NVZEUndZcWxZUlpYc3c4WEVKZVBHaGFKSWk2MUcxVUp0Z0ZJd0ltQWktUWc?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T17:29:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZpamF0eHNYY2tmSVViQUJQUDhpekNWZXFuSmVPOXNBNV9EQTFXVlZHamxhRGNnbzRtOGZhVk5rMElKVmV6Z1l0QnRlQmFrTFhzaW1nMmVpQWhHb2xvVUFqLVNEZHlXOHl4dkc2VX",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZpamF0eHNYY2tmSVViQUJQUDhpekNWZXFuSmVPOXNBNV9EQTFXVlZHamxhRGNnbzRtOGZhVk5rMElKVmV6Z1l0QnRlQmFrTFhzaW1nMmVpQWhHb2xvVUFqLVNEZHlXOHl4dkc2VX"
+    },
+    {
+      "id": "3ec92d64064c",
+      "title": "F1 Spanish GP at Madring: Saturday schedule, weather forecast and how to watch",
+      "title_fr": "F1 Spanish GP at Madring: Saturday schedule, weather forecast and how to watch",
+      "title_en": "F1 Spanish GP at Madring: Saturday schedule, weather forecast and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-at-madring-saturday-schedule-weather-forecast-and-how-to-watch/10854656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6VyKmB4Y/s6/carlos-sainz-williams.jpg",
+      "published_at": "2026-09-11T17:22:55+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 heads into Saturday at Madring with Kimi Antonelli fastest after a tricky second practice session for the Spanish Grand Prix.<br />The Mercedes championship leader pipped Ferrari’s Charles L",
+      "summary_en": "Formula 1 heads into Saturday at Madring with Kimi Antonelli fastest after a tricky second practice session for the Spanish Grand Prix.<br />The Mercedes championship leader pipped Ferrari’s Charles L"
+    },
     {
       "id": "fd7af9f1b116",
       "title": "Alonso cannot leave F1 while uncompetitive - FIA boss",
@@ -39,6 +172,25 @@
       "is_breaking": false,
       "summary_fr": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
       "summary_en": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit."
+    },
+    {
+      "id": "13ead0188e27",
+      "title": "Kimi Antonelli reprend la main lors des essais libres 2 du Grand Prix d'Espagne devant les Ferrari, Lindblad rapide mais accidenté - L'Équipe",
+      "title_fr": "Kimi Antonelli reprend la main lors des essais libres 2 du Grand Prix d'Espagne devant les Ferrari, Lindblad rapide mais accidenté - L'Équipe",
+      "title_en": "Kimi Antonelli reprend la main lors des essais libres 2 du Grand Prix d'Espagne devant les Ferrari, Lindblad rapide mais accidenté - L'Équipe",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQS01nY1hEZUVyOXpDQnFiUWcyUjNlVUYxM0hURWxQX2lNUjdqM014VkNoMHI1TlA2RnFoU3hDeWREMzhRUjVVNVRmbS1ZM1M2bmZQS0NJc3I2VDd2a2VkUFRZNGF1dzVkUkVUUl83cldNVjRZdnF6TmpUWjZhVnJxWFN2c29VcUozSzhXVEhIb3l2RWM5RVc3SUFORE9JandMdXNLSll2M0ZpLTNTOFZZX3lmTlJSM0N4VkdzczdNMExuWDEwOFZiMy1CdS1uVk5oeHZERmJfQXgxcC0zNEo3dDhxUndoMm1Rc1VETWhMSVNiQzIzSWZkYnA2ZmRqN3RRNFVsZGxFTkU5TGtES3c?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T16:26:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQS01nY1hEZUVyOXpDQnFiUWcyUjNlVUYxM0hURWxQX2lNUjdqM014VkNoMHI1TlA2RnFoU3hDeWREMzhRUjVVNVRmbS1ZM1M2bmZQS0NJc3I2VDd2a2VkUFRZNGF1dzVkUkVUUl83cl",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQS01nY1hEZUVyOXpDQnFiUWcyUjNlVUYxM0hURWxQX2lNUjdqM014VkNoMHI1TlA2RnFoU3hDeWREMzhRUjVVNVRmbS1ZM1M2bmZQS0NJc3I2VDd2a2VkUFRZNGF1dzVkUkVUUl83cl"
     },
     {
       "id": "171fb5ebd997",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1"
-    },
-    {
-      "id": "762813169f26",
-      "title": "Insider reveals how Red Bull’s billion-dollar Porsche deal collapsed",
-      "title_fr": "Insider reveals how Red Bull’s billion-dollar Porsche deal collapsed",
-      "title_en": "Insider reveals how Red Bull’s billion-dollar Porsche deal collapsed",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/insider-reveals-why-the-red-bulls-billion-dollar-porsche-deal-collapsed/10854467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YKEWApD0/s6/porsche-gt2-rs.jpg",
-      "published_at": "2026-09-11T10:59:31+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It is almost exactly four years since one of the most spectacular joint ventures Formula 1 might ever have seen fell apart in late summer 2022. Red Bull and Porsche had agreed to join forces in grand ",
-      "summary_en": "It is almost exactly four years since one of the most spectacular joint ventures Formula 1 might ever have seen fell apart in late summer 2022. Red Bull and Porsche had agreed to join forces in grand "
-    },
-    {
-      "id": "89196fc9e30b",
-      "title": "Programme TV du Grand Prix F1 d’Espagne 2026 - Mobiwisy",
-      "title_fr": "Programme TV du Grand Prix F1 d’Espagne 2026 - Mobiwisy",
-      "title_en": "Programme TV du Grand Prix F1 d’Espagne 2026 - Mobiwisy",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtM0oyckRLN1JPc2pqMHFMbEpvRF9MbkE4SV9wcGx0NWRLUy1PS1VBNWVMVmxxVmYxZVo2ZThqdUx6aXNUMFNmc0hvY0pZY184a1ppVHliU3BINWszWl9kcUVLRm05MXBmVGFHa3ZWRHRFSDcxU1RDaQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T10:18:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBtM0oyckRLN1JPc2pqMHFMbEpvRF9MbkE4SV9wcGx0NWRLUy1PS1VBNWVMVmxxVmYxZVo2ZThqdUx6aXNUMFNmc0hvY0pZY184a1ppVHliU3BINWszWl9kcUVLRm05MXBmVGFHa3ZWRH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBtM0oyckRLN1JPc2pqMHFMbEpvRF9MbkE4SV9wcGx0NWRLUy1PS1VBNWVMVmxxVmYxZVo2ZThqdUx6aXNUMFNmc0hvY0pZY184a1ppVHliU3BINWszWl9kcUVLRm05MXBmVGFHa3ZWRH"
-    },
-    {
-      "id": "4e0dd45949ad",
-      "title": "What's behind Alonso's cryptic comments about his F1 future?",
-      "title_fr": "What's behind Alonso's cryptic comments about his F1 future?",
-      "title_en": "What's behind Alonso's cryptic comments about his F1 future?",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7bjPm0/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": "2026-09-11T10:07:31+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and",
-      "summary_en": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and"
-    },
-    {
-      "id": "2bea658c0bf3",
-      "title": "What's behind Fernando Alonso's cryptic comments about his F1 future?",
-      "title_fr": "What's behind Fernando Alonso's cryptic comments about his F1 future?",
-      "title_en": "What's behind Fernando Alonso's cryptic comments about his F1 future?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854427/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXbOvV2/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-09-11T10:03:01+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and",
-      "summary_en": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and"
-    },
-    {
-      "id": "46c2d66d5b74",
-      "title": "Grand Prix F1 d’Espagne 2026 : programme, chaîne TV, bons plans Canal+ et codes promo sur les produits officiels ! - Le Parisien",
-      "title_fr": "Grand Prix F1 d’Espagne 2026 : programme, chaîne TV, bons plans Canal+ et codes promo sur les produits officiels ! - Le Parisien",
-      "title_en": "Grand Prix F1 d’Espagne 2026 : programme, chaîne TV, bons plans Canal+ et codes promo sur les produits officiels ! - Le Parisien",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRU1yZzZYZU1MMDEza3Y5LVVoMnY5N05fNGE0cGgzUkdhejRaTXh0RlBPbDgxaGt4Y3lDZmFMQjdiWW1RdGNnb1FuX1g0SjlobUVwUjJwc0FjOUlDTHlYSjF0OUs4LUxJcEVoUXE1ZkhJZVFKTVpCWDB4cVhCYW50bFhIX0N1TEFVQ3lROXotUElma3FqNV9PSUJoUXhjTjN6cUY5WEwzXzc4WmJuWE1qSWpsVTZxa3F6V0J5TDBwYVFWVDFHLTdBSVJaZ0loMlNNS0p4c1hXdlFhY1FRT3FiREtINFVBQTRocldrTFdvV1lfMGpfLVJhRkV4aTBvVjc3YjBwbTZETHpFNjgxOGM2VWZQZl9fbGc0aDVHby1OWXZELVE?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T10:01:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPRU1yZzZYZU1MMDEza3Y5LVVoMnY5N05fNGE0cGgzUkdhejRaTXh0RlBPbDgxaGt4Y3lDZmFMQjdiWW1RdGNnb1FuX1g0SjlobUVwUjJwc0FjOUlDTHlYSjF0OUs4LUxJcEVoUXE1Zk",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPRU1yZzZYZU1MMDEza3Y5LVVoMnY5N05fNGE0cGgzUkdhejRaTXh0RlBPbDgxaGt4Y3lDZmFMQjdiWW1RdGNnb1FuX1g0SjlobUVwUjJwc0FjOUlDTHlYSjF0OUs4LUxJcEVoUXE1Zk"
-    },
-    {
-      "id": "153806f339fe",
-      "title": "Peu d'évolutions à signaler pour le Grand Prix d'Espagne F1 - Motorsport.com France",
-      "title_fr": "Peu d'évolutions à signaler pour le Grand Prix d'Espagne F1 - Motorsport.com France",
-      "title_en": "Peu d'évolutions à signaler pour le Grand Prix d'Espagne F1 - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkREUl9HQ1NTdnFNc1pmX3d2ZlZmdzNEN2V0WEE3NXptemo0eDNYU0xPMUh0WWx5b1dURnFvdGpCMnZ4M1pkNXJydGpVbjhjYkd2bjN3WUR4NWlvVFlqaHRFM05IRFpyZElNRF9JVXMyRFc1VkFYRkQ1d0ZxejBYOVhpLUg1UlBXN1E?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T09:34:27+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkREUl9HQ1NTdnFNc1pmX3d2ZlZmdzNEN2V0WEE3NXptemo0eDNYU0xPMUh0WWx5b1dURnFvdGpCMnZ4M1pkNXJydGpVbjhjYkd2bjN3WUR4NWlvVFlqaHRFM05IRFpyZElNRF9JVX",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkREUl9HQ1NTdnFNc1pmX3d2ZlZmdzNEN2V0WEE3NXptemo0eDNYU0xPMUh0WWx5b1dURnFvdGpCMnZ4M1pkNXJydGpVbjhjYkd2bjN3WUR4NWlvVFlqaHRFM05IRFpyZElNRF9JVX"
-    },
-    {
-      "id": "e44d51a505bd",
-      "title": "EL1 - Russell première référence au Madring dans une séance plus calme que prévu - Motorsport.com France",
-      "title_fr": "EL1 - Russell première référence au Madring dans une séance plus calme que prévu - Motorsport.com France",
-      "title_en": "EL1 - Russell première référence au Madring dans une séance plus calme que prévu - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJPMC1hNFdXOW4wVXYxZXkzakNYNk5DSVBtczFCTmxLSkxCR0s2S3RTTFZ5NEdHTlBqLVNyS1RqWjFtelBJRDNtUXlNZ0c5WmZXMHNCcll4cnJOdWhmMVp5UmxOYWgyM3FTREQzR0t0M3NCQ1dpUkZobWJqZ2VUVThNdTgzcXFUTmQwS0JVbkNqOUVYSkVkdHF6WQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T09:34:27+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJPMC1hNFdXOW4wVXYxZXkzakNYNk5DSVBtczFCTmxLSkxCR0s2S3RTTFZ5NEdHTlBqLVNyS1RqWjFtelBJRDNtUXlNZ0c5WmZXMHNCcll4cnJOdWhmMVp5UmxOYWgyM3FTREQzR0",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJPMC1hNFdXOW4wVXYxZXkzakNYNk5DSVBtczFCTmxLSkxCR0s2S3RTTFZ5NEdHTlBqLVNyS1RqWjFtelBJRDNtUXlNZ0c5WmZXMHNCcll4cnJOdWhmMVp5UmxOYWgyM3FTREQzR0"
-    },
-    {
-      "id": "3b5b722eab2c",
-      "title": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
-      "title_fr": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
-      "title_en": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwoRV2/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-09-11T08:57:43+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow",
-      "summary_en": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow"
     }
   ]
 }
