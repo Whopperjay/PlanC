@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-11T20:37:11Z",
+  "last_updated": "2026-09-11T23:40:33Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "34b9cbb2aea0",
+      "title": "Max Verstappen reveals laid-back approach to 100-driver Silverstone challenge",
+      "title_fr": "Max Verstappen reveals laid-back approach to 100-driver Silverstone challenge",
+      "title_en": "Max Verstappen reveals laid-back approach to 100-driver Silverstone challenge",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-laid-back-approach-to-100-driver-silverstone-challenge/10854765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVP7Aq0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-11T22:26:37+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Four-time Formula 1 champion Max Verstappen has admitted that he has done zero preparation ahead of a 30-lap challenge against 100 go-karters at Silverstone next week.<br />The Dutchman will be given ",
+      "summary_en": "Four-time Formula 1 champion Max Verstappen has admitted that he has done zero preparation ahead of a 30-lap challenge against 100 go-karters at Silverstone next week.<br />The Dutchman will be given "
+    },
+    {
+      "id": "2ddd7cc4321e",
+      "title": "George Russell shares childhood Silverstone connection and why he rejected bigger grandstand",
+      "title_fr": "George Russell shares childhood Silverstone connection and why he rejected bigger grandstand",
+      "title_en": "George Russell shares childhood Silverstone connection and why he rejected bigger grandstand",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-shares-childhood-silverstone-connection-and-why-he-rejected-bigger-grandstand/10854755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6grQ1XVY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-11T21:55:17+00:00",
+      "race_id": "uk",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell has opened up about launching his own dedicated grandstand for his supporters at Silverstone.<br />It was announced this week that the British driver would have the George Russell Grand",
+      "summary_en": "George Russell has opened up about launching his own dedicated grandstand for his supporters at Silverstone.<br />It was announced this week that the British driver would have the George Russell Grand"
+    },
+    {
+      "id": "a4ff1ddb4d32",
+      "title": "David Coulthard says Kimi Antonelli proved he is an F1 \"phenomenon\" at Monza",
+      "title_fr": "David Coulthard says Kimi Antonelli proved he is an F1 \"phenomenon\" at Monza",
+      "title_en": "David Coulthard says Kimi Antonelli proved he is an F1 \"phenomenon\" at Monza",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-says-kimi-antonelli-proved-he-is-an-f1-phenomenon-at-monza/10854748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/24QGqX4Y/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-11T21:24:20+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver David Coulthard says Kimi Antonelli's charge from 19th on the grid to win the Italian Grand Prix was a career-defining performance that sits alongside drives from the greatest ",
+      "summary_en": "Former Formula 1 driver David Coulthard says Kimi Antonelli's charge from 19th on the grid to win the Italian Grand Prix was a career-defining performance that sits alongside drives from the greatest "
+    },
     {
       "id": "895861fdfcf7",
       "title": "Mercedes clearly ahead: How long-run pace compared in F1 Spanish GP practice",
@@ -611,6 +668,25 @@
       "summary_en": "Mercedes’ George Russell was fastest in the first-ever Formula 1 session at the brand-new Madring track – first practice for the Spanish Grand Prix.<br />Twenty out of 22 cars took to the brand-new tr"
     },
     {
+      "id": "e44d51a505bd",
+      "title": "EL1 - Russell première référence au Madring dans une séance plus calme que prévu - Motorsport.com France",
+      "title_fr": "EL1 - Russell première référence au Madring dans une séance plus calme que prévu - Motorsport.com France",
+      "title_en": "EL1 - Russell première référence au Madring dans une séance plus calme que prévu - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJPMC1hNFdXOW4wVXYxZXkzakNYNk5DSVBtczFCTmxLSkxCR0s2S3RTTFZ5NEdHTlBqLVNyS1RqWjFtelBJRDNtUXlNZ0c5WmZXMHNCcll4cnJOdWhmMVp5UmxOYWgyM3FTREQzR0t0M3NCQ1dpUkZobWJqZ2VUVThNdTgzcXFUTmQwS0JVbkNqOUVYSkVkdHF6WQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T12:40:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJPMC1hNFdXOW4wVXYxZXkzakNYNk5DSVBtczFCTmxLSkxCR0s2S3RTTFZ5NEdHTlBqLVNyS1RqWjFtelBJRDNtUXlNZ0c5WmZXMHNCcll4cnJOdWhmMVp5UmxOYWgyM3FTREQzR0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXJPMC1hNFdXOW4wVXYxZXkzakNYNk5DSVBtczFCTmxLSkxCR0s2S3RTTFZ5NEdHTlBqLVNyS1RqWjFtelBJRDNtUXlNZ0c5WmZXMHNCcll4cnJOdWhmMVp5UmxOYWgyM3FTREQzR0"
+    },
+    {
       "id": "95c27be1c691",
       "title": "F1 Spanish GP: George Russell tops FP1 as Lewis Hamilton impedes several drivers",
       "title_fr": "F1 Spanish GP: George Russell tops FP1 as Lewis Hamilton impedes several drivers",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Former Formula 1 driver Juan Pablo Montoya has claimed that while George Russell is \"trying to overanalyse everything\" behind the wheel, his team-mate and current championship leader Kimi Antonelli is",
       "summary_en": "Former Formula 1 driver Juan Pablo Montoya has claimed that while George Russell is \"trying to overanalyse everything\" behind the wheel, his team-mate and current championship leader Kimi Antonelli is"
-    },
-    {
-      "id": "ccad4300ecea",
-      "title": "“I f***ed up quite a lot”: How Yuki Tsunoda discovered the complexity of F1 2026 at Monza",
-      "title_fr": "“I f***ed up quite a lot”: How Yuki Tsunoda discovered the complexity of F1 2026 at Monza",
-      "title_en": "“I f***ed up quite a lot”: How Yuki Tsunoda discovered the complexity of F1 2026 at Monza",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/i-fucked-up-quite-a-lot-how-yuki-tsunoda-discovered-the-complexity-of-f1-2026-at-monza/10854486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0R7BpyV2/s6/yuki-tsunoda-racing-bulls.jpg",
-      "published_at": "2026-09-11T11:38:58+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Yuki Tsunoda has another roll of the Formula 1 dice this weekend in Madrid, standing in at Racing Bulls for Liam Lawson, who is getting another outing at Red Bull racing in place of the injured Isack ",
-      "summary_en": "Yuki Tsunoda has another roll of the Formula 1 dice this weekend in Madrid, standing in at Racing Bulls for Liam Lawson, who is getting another outing at Red Bull racing in place of the injured Isack "
-    },
-    {
-      "id": "85c752516e33",
-      "title": "LIVE F1 - Les Essais Libres 1 du Grand Prix d'Espagne en direct - Motorsport.com France",
-      "title_fr": "LIVE F1 - Les Essais Libres 1 du Grand Prix d'Espagne en direct - Motorsport.com France",
-      "title_en": "LIVE F1 - Les Essais Libres 1 du Grand Prix d'Espagne en direct - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXBWeGt2RFdRcFRYYjZQcC15b0cwX2JXSXNsb25fd1NMTWxlMGtkTFgwUy05eDVOalZSbVNnR2pkc0Q2U0tSWnpXZmM1RDNFNHhvQnk2TXliQlkyR1RTZ0lUOFJWV0g2ZGZxelRKSUFtMUw2Qkg5YVBTYk1tamlWREpoQW1VZk9WMmZpZldKQjgxRk94LVYwR3VmaUZjQWtR?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T11:06:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXBWeGt2RFdRcFRYYjZQcC15b0cwX2JXSXNsb25fd1NMTWxlMGtkTFgwUy05eDVOalZSbVNnR2pkc0Q2U0tSWnpXZmM1RDNFNHhvQnk2TXliQlkyR1RTZ0lUOFJWV0g2ZGZxelRKSU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXBWeGt2RFdRcFRYYjZQcC15b0cwX2JXSXNsb25fd1NMTWxlMGtkTFgwUy05eDVOalZSbVNnR2pkc0Q2U0tSWnpXZmM1RDNFNHhvQnk2TXliQlkyR1RTZ0lUOFJWV0g2ZGZxelRKSU"
-    },
-    {
-      "id": "58e8eb17c6cd",
-      "title": "LIVE F1 - GP d’Espagne : les essais libres 1 en direct à Madrid - Nextgen-Auto.com",
-      "title_fr": "LIVE F1 - GP d’Espagne : les essais libres 1 en direct à Madrid - Nextgen-Auto.com",
-      "title_en": "LIVE F1 - GP d’Espagne : les essais libres 1 en direct à Madrid - Nextgen-Auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtXUzNVMXp2LVVjaGxPSHpHa2ZZOHNRS3oxckpRUU9zMWpqdm54bG05SkhDZGt4bGdPNld4a2tWT0liRUNxM2o5QkdhVmk0aWR1bG9LSWladzhpcmh2SnJxWFNXUXd4OHRINU43czlXNk1BQnlTWmNwRFRuMUZIRi0tVGowSm1Qb0VjcjJrdUJIWWt4TWV3YnItcjdsYWhKREs2YlRHUTEyX0d5dlkyWDVidEpTOG9BbUhBUQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T11:00:00+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtXUzNVMXp2LVVjaGxPSHpHa2ZZOHNRS3oxckpRUU9zMWpqdm54bG05SkhDZGt4bGdPNld4a2tWT0liRUNxM2o5QkdhVmk0aWR1bG9LSWladzhpcmh2SnJxWFNXUXd4OHRINU43cz",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtXUzNVMXp2LVVjaGxPSHpHa2ZZOHNRS3oxckpRUU9zMWpqdm54bG05SkhDZGt4bGdPNld4a2tWT0liRUNxM2o5QkdhVmk0aWR1bG9LSWladzhpcmh2SnJxWFNXUXd4OHRINU43cz"
-    },
-    {
-      "id": "df96d2c8aa0a",
-      "title": "LIVE F1 : Les essais libres 1 du GP d’Espagne 2026 en direct - F1ACTU",
-      "title_fr": "LIVE F1 : Les essais libres 1 du GP d’Espagne 2026 en direct - F1ACTU",
-      "title_en": "LIVE F1 : Les essais libres 1 du GP d’Espagne 2026 en direct - F1ACTU",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1kyN2ZrNVlmS255VTlzQV9RLVlVdzJ5YkM4?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T11:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1"
     }
   ]
 }
