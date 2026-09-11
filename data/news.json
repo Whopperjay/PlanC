@@ -1,7 +1,235 @@
 {
-  "last_updated": "2026-09-11T14:27:19Z",
+  "last_updated": "2026-09-11T17:31:08Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "fd7af9f1b116",
+      "title": "Alonso cannot leave F1 while uncompetitive - FIA boss",
+      "title_fr": "Alonso cannot leave F1 while uncompetitive - FIA boss",
+      "title_en": "Alonso cannot leave F1 while uncompetitive - FIA boss",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3ad/live/40300d40-ae00-11f1-9b77-ddcb406ce9c0.jpg",
+      "published_at": "2026-09-11T17:03:48+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "FIA president Mohammed Ben Sulayem says it would be \"not acceptable\" for Fernando Alonso to leave F1 while he is in an uncompetitive position.",
+      "summary_en": "FIA president Mohammed Ben Sulayem says it would be \"not acceptable\" for Fernando Alonso to leave F1 while he is in an uncompetitive position."
+    },
+    {
+      "id": "6391422c3a98",
+      "title": "How to follow Spanish Grand Prix on the BBC",
+      "title_fr": "How to follow Spanish Grand Prix on the BBC",
+      "title_en": "How to follow Spanish Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g72gw7pkdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74bb/live/326372c0-adff-11f1-8169-6fdea7f79791.jpg",
+      "published_at": "2026-09-11T16:45:13+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
+      "summary_en": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit."
+    },
+    {
+      "id": "171fb5ebd997",
+      "title": "GP d'Espagne de F1 : le classement des Essais Libres 1, Pierre Gasly aux portes du Top 10 - Turbo.fr",
+      "title_fr": "GP d'Espagne de F1 : le classement des Essais Libres 1, Pierre Gasly aux portes du Top 10 - Turbo.fr",
+      "title_en": "GP d'Espagne de F1 : le classement des Essais Libres 1, Pierre Gasly aux portes du Top 10 - Turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3IxQ0lLVDVlWXAwakNKMm10d3k2Yk5rNzNTVTE3TzFTN1BNV3o2YVJyaFowLUZxX01zRVMybS1HVEdteTJTUFpscGVXU0ZNWjliM3l6ZmU2amREbHRvN3BaUThrOU4tem5oOUFZemsxVkROREVXU3YySHkxMUJXTkQyNmdTWS11cEh0NEN5QmlfaENYeFUySXctdWhHYzMtMWZDSklyZW9VV1RzcGlSLXQ3bWhSZDhFYkJkclZNenRiS1o5WFVKQ3hLMjFmRzQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T16:19:27+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3IxQ0lLVDVlWXAwakNKMm10d3k2Yk5rNzNTVTE3TzFTN1BNV3o2YVJyaFowLUZxX01zRVMybS1HVEdteTJTUFpscGVXU0ZNWjliM3l6ZmU2amREbHRvN3BaUThrOU4tem5oOUFZem",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3IxQ0lLVDVlWXAwakNKMm10d3k2Yk5rNzNTVTE3TzFTN1BNV3o2YVJyaFowLUZxX01zRVMybS1HVEdteTJTUFpscGVXU0ZNWjliM3l6ZmU2amREbHRvN3BaUThrOU4tem5oOUFZem"
+    },
+    {
+      "id": "c3eb9dbefc83",
+      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
+      "title_fr": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
+      "title_en": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-09-11T16:14:44+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed.<br />Antone",
+      "summary_en": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed.<br />Antone"
+    },
+    {
+      "id": "c0be5ffeb954",
+      "title": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
+      "title_fr": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
+      "title_en": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-fp2-report/10854600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YWKAqVyY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-09-11T16:11:52+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes driver Kimi Antonelli topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at a hot and challenging Madring circuit.<br />Antonelli ",
+      "summary_en": "Mercedes driver Kimi Antonelli topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at a hot and challenging Madring circuit.<br />Antonelli "
+    },
+    {
+      "id": "d44eb2af4fee",
+      "title": "EL2 - Antonelli devance les Ferrari, Lindblad premier dans le mur - Motorsport.com France",
+      "title_fr": "EL2 - Antonelli devance les Ferrari, Lindblad premier dans le mur - Motorsport.com France",
+      "title_en": "EL2 - Antonelli devance les Ferrari, Lindblad premier dans le mur - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUhFaFIxUjVUbXRPa2RtLTR3a1hNdmh6S0lsZ005Y0NIOXlzUFdkSWtMVUdwSmZ4bzhzbi1vbElrRF9xaWIydnpuQXEwdzRPeFE1Q0h2ZUdiMEExWHI3bi1TcVozZ2VIaVAtY1ZJTG5JNzdFb3liblNkX3hUNU5pTWFtSi1HMTJRRG1MaXhINmVGbEZSS3RoeUFJNXRfUQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T16:09:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaUhFaFIxUjVUbXRPa2RtLTR3a1hNdmh6S0lsZ005Y0NIOXlzUFdkSWtMVUdwSmZ4bzhzbi1vbElrRF9xaWIydnpuQXEwdzRPeFE1Q0h2ZUdiMEExWHI3bi1TcVozZ2VIaVAtY1ZJTG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaUhFaFIxUjVUbXRPa2RtLTR3a1hNdmh6S0lsZ005Y0NIOXlzUFdkSWtMVUdwSmZ4bzhzbi1vbElrRF9xaWIydnpuQXEwdzRPeFE1Q0h2ZUdiMEExWHI3bi1TcVozZ2VIaVAtY1ZJTG"
+    },
+    {
+      "id": "7615285e4129",
+      "title": "Antonelli leads Ferrari pair in second practice as Lindblad crashes | Formula 1",
+      "title_fr": "Antonelli leads Ferrari pair in second practice as Lindblad crashes | Formula 1",
+      "title_en": "Antonelli leads Ferrari pair in second practice as Lindblad crashes | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/11/antonelli-leads-ferrari-pair-in-second-practice-as-lindblad-crashes/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-13-57-16-7-11-friday-madrid-2026.jpg",
+      "published_at": "2026-09-11T16:04:18+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli kept Mercedes ahead in the second practice session. Arvid Lindblad took a strong fourth but crashed.",
+      "summary_en": "Andrea Kimi Antonelli kept Mercedes ahead in the second practice session. Arvid Lindblad took a strong fourth but crashed."
+    },
+    {
+      "id": "e624a4c91509",
+      "title": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
+      "title_fr": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
+      "title_en": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-says-madring-is-first-2026-f1-track-he-wants-to-drive/10854613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YBVokDzY/s6/juan-pablo-montoya.jpg",
+      "published_at": "2026-09-11T15:58:58+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver Juan Pablo Montoya has praised the brand-new Madring circuit, revealing that it is the first track of the 2026 season that has made him want to get back behind the wheel.<br />",
+      "summary_en": "Former Formula 1 driver Juan Pablo Montoya has praised the brand-new Madring circuit, revealing that it is the first track of the 2026 season that has made him want to get back behind the wheel.<br />"
+    },
+    {
+      "id": "b23f34a37496",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "title_fr": "Andrew Benson Q&A: Send us your questions",
+      "title_en": "Andrew Benson Q&A: Send us your questions",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": "2026-09-11T15:14:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now.",
+      "summary_en": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now."
+    },
+    {
+      "id": "1a78383e8413",
+      "title": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
+      "title_fr": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
+      "title_en": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKoEMY/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-09-11T14:33:31+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari",
+      "summary_en": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari"
+    },
+    {
+      "id": "cf2c0286d1d3",
+      "title": "LIVE F1 - GP d’Espagne : les essais libres 2 en direct à Madrid - Nextgen-Auto.com",
+      "title_fr": "LIVE F1 - GP d’Espagne : les essais libres 2 en direct à Madrid - Nextgen-Auto.com",
+      "title_en": "LIVE F1 - GP d’Espagne : les essais libres 2 en direct à Madrid - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1h6WE8wLTMxSDdQMEJwRGE3NTNWSnZQUFRmWFo4UGZnWERNUy1UTXk2Nk03WUt0dzVpYkIzQkRTZGlvNEM5MWdWMUhyaDZJOFFMX215Mg?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T14:30:00+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1"
+    },
+    {
+      "id": "0ea6c633f291",
+      "title": "Why Charles Leclerc isn't using latest ADUO2 engine in the Spanish GP",
+      "title_fr": "Why Charles Leclerc isn't using latest ADUO2 engine in the Spanish GP",
+      "title_en": "Why Charles Leclerc isn't using latest ADUO2 engine in the Spanish GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854550/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNkaD0/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-09-11T14:22:25+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari",
+      "summary_en": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari"
+    },
     {
       "id": "8f322f8d269b",
       "title": "Cadillac hit with two fines after Sergio Perez FP1 infringements in Madrid",
@@ -39,6 +267,25 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 drivers had their first taste of the new Madring when practice for the Spanish Grand Prix began today.",
       "summary_en": "Formula 1 drivers had their first taste of the new Madring when practice for the Spanish Grand Prix began today."
+    },
+    {
+      "id": "471501a8a00b",
+      "title": "GP d'Espagne I George Russell le plus rapide des essais libres 1, devant Kimi Antonelli et Charles Leclerc - Eurosport",
+      "title_fr": "GP d'Espagne I George Russell le plus rapide des essais libres 1, devant Kimi Antonelli et Charles Leclerc - Eurosport",
+      "title_en": "GP d'Espagne I George Russell le plus rapide des essais libres 1, devant Kimi Antonelli et Charles Leclerc - Eurosport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdHhtN3ZBby1nSmRPdUh3VVlfdDA3Q1FkdHdvYTBZRXBJd21rNU5NenJnS0h5ZkVfM1VFMlJ4dGRMVVRVckdBSTdPLVo4UEhleW5haGpjS1JkX1JsWHFDVTRfUGlVYVZ1Q3cxbXdQZnp6azlJQ3Z1c1NPLWpGaks1NzhvcWw1UmFzWm9oYU44U0RZNkhoOGZBdXh6bVg3Tm9sSk5SVnB0WXRZRkFndHRPTDJUcDFKU0VRa21aRVFlNlB1RjBiRTZ5cndJYkhsUTJ6dE5SUUhldWlIOHB5Tm5ZY2F1bl9BNEVNZS1iQXRhUEd3eVAtNFZobU1SeklOUXppNVBGWlBZUjFhV2ktUmQ1NmhObk1wTklN?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T13:23:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdHhtN3ZBby1nSmRPdUh3VVlfdDA3Q1FkdHdvYTBZRXBJd21rNU5NenJnS0h5ZkVfM1VFMlJ4dGRMVVRVckdBSTdPLVo4UEhleW5haGpjS1JkX1JsWHFDVTRfUGlVYVZ1Q3cxbXdQZn",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdHhtN3ZBby1nSmRPdUh3VVlfdDA3Q1FkdHdvYTBZRXBJd21rNU5NenJnS0h5ZkVfM1VFMlJ4dGRMVVRVckdBSTdPLVo4UEhleW5haGpjS1JkX1JsWHFDVTRfUGlVYVZ1Q3cxbXdQZn"
     },
     {
       "id": "55a9d5eb29ad",
@@ -248,6 +495,25 @@
       "is_breaking": false,
       "summary_fr": "Ferrari team principal Fred Vasseur is facing a \"tremendous amount\" of pressure to establish clear rules of engagement between Lewis Hamilton and Charles Leclerc, according to former IndyCar Series dr",
       "summary_en": "Ferrari team principal Fred Vasseur is facing a \"tremendous amount\" of pressure to establish clear rules of engagement between Lewis Hamilton and Charles Leclerc, according to former IndyCar Series dr"
+    },
+    {
+      "id": "c5a07df10705",
+      "title": "F1 : Madring, le nouveau circuit du GP d'Espagne à Madrid - rts.ch",
+      "title_fr": "F1 : Madring, le nouveau circuit du GP d'Espagne à Madrid - rts.ch",
+      "title_en": "F1 : Madring, le nouveau circuit du GP d'Espagne à Madrid - rts.ch",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ejcxS0wxLVFWR0xXTlcwYnotNGZBN1RMS24tNzVYVGNhNEJFRW81UUdsdHFScXduTkNQcW1XYmVlN191YWNRT2dkVQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T12:15:03+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ej",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ej"
     },
     {
       "id": "918e7fae1784",
@@ -495,272 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow",
       "summary_en": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow"
-    },
-    {
-      "id": "9402da9c98eb",
-      "title": "George Russell reveals when he’ll take his own F1 engine penalty",
-      "title_fr": "George Russell reveals when he’ll take his own F1 engine penalty",
-      "title_en": "George Russell reveals when he’ll take his own F1 engine penalty",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-reveals-when-hell-take-his-own-engine-penalty/10854410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwzqG2/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-09-11T08:55:05+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow",
-      "summary_en": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow"
-    },
-    {
-      "id": "cb12bfc9bf6a",
-      "title": "GP de Madrid 2026 : les horaires complets et la diffusion TV du Grand Prix de Formule 1 - linternaute.com",
-      "title_fr": "GP de Madrid 2026 : les horaires complets et la diffusion TV du Grand Prix de Formule 1 - linternaute.com",
-      "title_en": "GP de Madrid 2026 : les horaires complets et la diffusion TV du Grand Prix de Formule 1 - linternaute.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPck9hSmh2SkltSnl1amdPUDdlR056YXdLR3R5UHBPeXlOT2YybnNxWEpyWi1ZRy1CNm1nNWtLc1Ryb0N0c1kxVG1SemJTWnJfZTZkQU1adGFQM0xWcGdsb29UVkRNWjltQ283YTlFUktNMHAyZXcxUGZ5bzU1Wm9oX1hwN2RQVWdGUkltdTd6aWo4QWl6YzdLY05nMzc5ZElQSmtvVG9KYXQ0bmZvQVV2cU90UEVUNHlFTV9NOGFzTWFwUjhkMHp3WXBJMHpERXhiZkowUTVxbFhzNnpY?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T08:45:06+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPck9hSmh2SkltSnl1amdPUDdlR056YXdLR3R5UHBPeXlOT2YybnNxWEpyWi1ZRy1CNm1nNWtLc1Ryb0N0c1kxVG1SemJTWnJfZTZkQU1adGFQM0xWcGdsb29UVkRNWjltQ283YTlFUk",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPck9hSmh2SkltSnl1amdPUDdlR056YXdLR3R5UHBPeXlOT2YybnNxWEpyWi1ZRy1CNm1nNWtLc1Ryb0N0c1kxVG1SemJTWnJfZTZkQU1adGFQM0xWcGdsb29UVkRNWjltQ283YTlFUk"
-    },
-    {
-      "id": "66a6f1e776c7",
-      "title": "Esteban Ocon: ‘Haas may be testing new drivers, but drivers aren’t the problem’",
-      "title_fr": "Esteban Ocon: ‘Haas may be testing new drivers, but drivers aren’t the problem’",
-      "title_en": "Esteban Ocon: ‘Haas may be testing new drivers, but drivers aren’t the problem’",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/esteban-ocon-haas-may-be-testing-new-drivers-but-drivers-arent-the-problem/10854208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAQnp0/s6/esteban-ocon-haas-f1-team.jpg",
-      "published_at": "2026-09-11T08:24:41+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon says “drivers are not the problem” at the struggling Haas Formula 1 team, with his future in the world championship at threat.<br />Haas’ VF-26 has suffered from inconsistency in the way ",
-      "summary_en": "Esteban Ocon says “drivers are not the problem” at the struggling Haas Formula 1 team, with his future in the world championship at threat.<br />Haas’ VF-26 has suffered from inconsistency in the way "
-    },
-    {
-      "id": "c6655d9245fa",
-      "title": "Charles Leclerc gives insight into eyesight problem after Monza F1 crash",
-      "title_fr": "Charles Leclerc gives insight into eyesight problem after Monza F1 crash",
-      "title_en": "Charles Leclerc gives insight into eyesight problem after Monza F1 crash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-gives-insight-into-eyesight-problem-after-monza-f1-crash/10854392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVj37JY/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-09-11T07:48:01+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari Formula 1 driver Charles Leclerc has given fresh insight into the aftermath of his Italian Grand Prix crash, explaining his vision problem was “very short”.<br />Leclerc lost control of his ca",
-      "summary_en": "Ferrari Formula 1 driver Charles Leclerc has given fresh insight into the aftermath of his Italian Grand Prix crash, explaining his vision problem was “very short”.<br />Leclerc lost control of his ca"
-    },
-    {
-      "id": "75639999d585",
-      "title": "Video: First onboard lap of Formula 1’s tight, slow new Madring circuit | Brief",
-      "title_fr": "Video: First onboard lap of Formula 1’s tight, slow new Madring circuit | Brief",
-      "title_en": "Video: First onboard lap of Formula 1’s tight, slow new Madring circuit | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/11/video-first-onboard-lap-of-formula-1s-tight-slow-new-madring-circuit/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-09-16-43-35-27-SG023646_YUqqPToV_20260909040745.jpg",
-      "published_at": "2026-09-11T07:28:12+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "First onboard lap of Formula 1's tight, slow new Madring circuit",
-      "summary_en": "First onboard lap of Formula 1's tight, slow new Madring circuit"
-    },
-    {
-      "id": "3e44869aeb3d",
-      "title": "Ferrari got “hardly any” advantage from its Madring F1 test",
-      "title_fr": "Ferrari got “hardly any” advantage from its Madring F1 test",
-      "title_en": "Ferrari got “hardly any” advantage from its Madring F1 test",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-got-hardly-any-advantage-from-its-madring-f1-test/10854281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6AlvLA9Y/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-11T07:07:36+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton says Ferrari got “hardly any” advantage from trialling Formula 1’s new Madring track ahead of this weekend’s Spanish Grand Prix.<br />The Scuderia performed a filming day at Madrid’s st",
-      "summary_en": "Lewis Hamilton says Ferrari got “hardly any” advantage from trialling Formula 1’s new Madring track ahead of this weekend’s Spanish Grand Prix.<br />The Scuderia performed a filming day at Madrid’s st"
-    },
-    {
-      "id": "c87ba2cf2a31",
-      "title": "Grand Prix d’Espagne de F1 2026 – Le programme du vendredi à Madrid - autohebdo.fr",
-      "title_fr": "Grand Prix d’Espagne de F1 2026 – Le programme du vendredi à Madrid - autohebdo.fr",
-      "title_en": "Grand Prix d’Espagne de F1 2026 – Le programme du vendredi à Madrid - autohebdo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTHoxYU1veUVNbXdEczk1U0gxbXlKOUN4N01uT0FMdmlQVmUzbHlRUnZ5bmxGWGNLbGdEenk3LUQwbWx1dHdJ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T06:29:59+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTH"
-    },
-    {
-      "id": "0e60996d2151",
-      "title": "GP d'Espagne de F1 : programme, horaires et chaînes TV du week-end au Madring - Turbo.fr",
-      "title_fr": "GP d'Espagne de F1 : programme, horaires et chaînes TV du week-end au Madring - Turbo.fr",
-      "title_en": "GP d'Espagne de F1 : programme, horaires et chaînes TV du week-end au Madring - Turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzF3aGNnVy1yNjdzRXJLSmpfdVl4V2dNSk10cmtERVJMR3ZhY2VoZ0Q3NEk1UU9TMGFqaFJMQ2tJX2ZGYjRoYTJDUVF6OUJReF8wR0ZnU3VsSWZLa3VfbkN0SE1Pcjk5TTBabzhDQ2JfY0h4TE9zUkF3VU8xNDExYXhhcUE2QUM2M21HUm9kVGJpRGFzVTlKdjM3dVNNS0JtY09ZX1pBUG9oWENNZEFCcmZPdjgyMkIzVWw1R2EwTQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T05:45:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzF3aGNnVy1yNjdzRXJLSmpfdVl4V2dNSk10cmtERVJMR3ZhY2VoZ0Q3NEk1UU9TMGFqaFJMQ2tJX2ZGYjRoYTJDUVF6OUJReF8wR0ZnU3VsSWZLa3VfbkN0SE1Pcjk5TTBabzhDQ2",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzF3aGNnVy1yNjdzRXJLSmpfdVl4V2dNSk10cmtERVJMR3ZhY2VoZ0Q3NEk1UU9TMGFqaFJMQ2tJX2ZGYjRoYTJDUVF6OUJReF8wR0ZnU3VsSWZLa3VfbkN0SE1Pcjk5TTBabzhDQ2"
-    },
-    {
-      "id": "1726eceddd49",
-      "title": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
-      "title_fr": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
-      "title_en": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaWdBMWtVcHdjV2t4OUVMaEk2VG11LTUxSk92dXh4TGNsT1Y3Uml4QVhldUh5STNTcUtJQWo0cm9vQQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T04:44:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaW"
-    },
-    {
-      "id": "b7f481481572",
-      "title": "Oscar Piastri shoots down Lando Norris sabotage theory",
-      "title_fr": "Oscar Piastri shoots down Lando Norris sabotage theory",
-      "title_en": "Oscar Piastri shoots down Lando Norris sabotage theory",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-shoots-down-lando-norris-sabotage-theory/10854309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2y7QlZn6/s6/gettyimages-2294527460.jpg",
-      "published_at": "2026-09-10T22:12:08+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In the fraught final moments of qualifying for the Italian Grand Prix last weekend, McLaren's plan was for Oscar Piastri to run ahead of team-mate Lando Norris on-track, giving him the benefit of a 't",
-      "summary_en": "In the fraught final moments of qualifying for the Italian Grand Prix last weekend, McLaren's plan was for Oscar Piastri to run ahead of team-mate Lando Norris on-track, giving him the benefit of a 't"
-    },
-    {
-      "id": "613b96d4ab97",
-      "title": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
-      "title_fr": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
-      "title_en": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-drivers-unveil-striking-one-off-helmets-for-first-madrid-spanish-gp/10854347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6AlvLjNY/s6/a-scenic-view-of-the-circuit-i.jpg",
-      "published_at": "2026-09-10T21:51:10+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1's arrival in Madrid for the Spanish Grand Prix has prompted several drivers to introduce special helmet designs for the inaugural event.<br />Set around the IFEMA exhibition centre, the new ",
-      "summary_en": "Formula 1's arrival in Madrid for the Spanish Grand Prix has prompted several drivers to introduce special helmet designs for the inaugural event.<br />Set around the IFEMA exhibition centre, the new "
-    },
-    {
-      "id": "42a2ee2b0a70",
-      "title": "Williams pays tribute to 1981 title-winning car with special Spanish Grand Prix livery",
-      "title_fr": "Williams pays tribute to 1981 title-winning car with special Spanish Grand Prix livery",
-      "title_en": "Williams pays tribute to 1981 title-winning car with special Spanish Grand Prix livery",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-pays-tribute-to-1981-title-winning-car-with-special-spanish-grand-prix-livery/10854341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/27NoqPx0/s6/williams-livery.jpg",
-      "published_at": "2026-09-10T20:56:36+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams will be sporting a one-off 1981-inspired livery on its FW48 at this weekend's Spanish Grand Prix in Madrid.<br />The special white, green and navy blue colourway pays homage to the FW07C, the",
-      "summary_en": "Williams will be sporting a one-off 1981-inspired livery on its FW48 at this weekend's Spanish Grand Prix in Madrid.<br />The special white, green and navy blue colourway pays homage to the FW07C, the"
-    },
-    {
-      "id": "a55d5ce8f08f",
-      "title": "Leclerc admits he should not have ‘put Lewis in a difficult situation’ in Monza lap one clash | Formula 1",
-      "title_fr": "Leclerc admits he should not have ‘put Lewis in a difficult situation’ in Monza lap one clash | Formula 1",
-      "title_en": "Leclerc admits he should not have ‘put Lewis in a difficult situation’ in Monza lap one clash | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/10/leclerc-admits-he-should-not-have-put-lewis-in-a-difficult-situation-in-monza-lap-one-clash/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-15-03-50-12-2293802469.jpg",
-      "published_at": "2026-09-10T19:31:15+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc has admitted he was at fault for forcing his team mate Lewis Hamilton off on the first lap of the Italian Grand Prix.",
-      "summary_en": "Charles Leclerc has admitted he was at fault for forcing his team mate Lewis Hamilton off on the first lap of the Italian Grand Prix."
-    },
-    {
-      "id": "d395145ad0b8",
-      "title": "F1: Chequered Flag",
-      "title_fr": "F1: Chequered Flag",
-      "title_en": "F1: Chequered Flag",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p91c9t?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": "2026-09-10T18:59:00+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Jennie, Andrew and Jolyon look ahead to the new Spanish GP in Madrid.",
-      "summary_en": "Jennie, Andrew and Jolyon look ahead to the new Spanish GP in Madrid."
     }
   ]
 }
