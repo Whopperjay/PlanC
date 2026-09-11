@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:00:20Z",
+  "generated_at": "2026-09-11T13:00:21Z",
   "model": "claude",
   "predictions": [
     {
@@ -40,12 +40,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "hamilton",
-      "reasoning_fr": "Antonelli domine le championnat et confirme sa régularité chez Mercedes, en pole de la hiérarchie 2026. Russell complète le doublé Mercedes sur un tracé urbain technique. Hamilton, revigoré après Monza et l'apaisement avec Leclerc, décroche le dernier podium devant Norris.",
-      "reasoning_en": "Antonelli leads the championship comfortably and Mercedes looks the strongest package, taking pole position in form. Russell secures a Mercedes 1-2 on Madring's technical layout. Hamilton, boosted after clearing the air with Leclerc post-Monza, edges Norris for the final podium spot.",
+      "reasoning_fr": "Antonelli domine le championnat avec une Mercedes dominante cette saison, logique de le voir confirmer à domicile européenne. Russell complète le doublé Mercedes, Hamilton défend sa Ferrari en forme sur un circuit qui devrait convenir à sa régularité récente.",
+      "reasoning_en": "Antonelli leads the championship comfortably with a clearly dominant Mercedes package, making a win likely here too. Russell secures the Mercedes one-two, while Hamilton's Ferrari pace this season should be enough to hold off Norris for the final podium spot.",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes, Hamilton relancé après Monza",
+      "key_factor_fr": "Domination Mercedes actuelle au championnat",
       "news_used_ids": [],
-      "generated_at": "2026-09-11T05:00:13Z"
+      "generated_at": "2026-09-11T13:00:13Z"
     },
     {
       "event_id": "spanish_qualifying",
@@ -55,12 +55,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "hamilton",
-      "reasoning_fr": "Antonelli domine le championnat et confirme une forme exceptionnelle en qualifs cette saison, Mercedes semblant la meilleure monoplace sur un tour. Russell suit logiquement chez le même constructeur. Hamilton, solide chez Ferrari malgré les tensions post-Monza avec Leclerc, complète le trio en outperformant régulièrement son coéquipier sur un tour.",
-      "reasoning_en": "Antonelli leads the championship and has shown exceptional one-lap pace all season, with Mercedes looking like the strongest qualifying package. Russell follows logically as teammate. Hamilton, solid at Ferrari despite post-Monza tension with Leclerc, rounds out the top three, regularly outqualifying his teammate this year.",
+      "reasoning_fr": "Antonelli domine le championnat avec Mercedes en grande forme cette saison, le rythme en EL1 semble confirmer leur avantage à Madring. Russell suit logiquement en tant que coéquipier compétitif. Hamilton, solide chez Ferrari, complète le trio de tête sur un circuit exigeant en aérodynamisme.",
+      "reasoning_en": "Antonelli leads the championship with Mercedes showing strong pace this season, and FP1 trends at Madring seem to confirm their edge. Russell follows as a consistently competitive teammate. Hamilton, strong at Ferrari, rounds out the top three on this aero-demanding circuit.",
       "confidence": "medium",
-      "key_factor_fr": "Mercedes dominant en qualifs, Antonelli en forme",
+      "key_factor_fr": "Mercedes dominant cette saison, avantage confirmé en essais",
       "news_used_ids": [],
-      "generated_at": "2026-09-11T05:00:20Z"
+      "generated_at": "2026-09-11T13:00:21Z"
     }
   ]
 }
