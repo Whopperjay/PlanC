@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T08:16:31Z",
+  "last_updated": "2026-09-11T08:17:58Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
     {
@@ -20,6 +20,25 @@
       "is_breaking": false,
       "summary_fr": "Ferrari Formula 1 driver Charles Leclerc has given fresh insight into the aftermath of his Italian Grand Prix crash, explaining his vision problem was “very short”.<br />Leclerc lost control of his ca",
       "summary_en": "Ferrari Formula 1 driver Charles Leclerc has given fresh insight into the aftermath of his Italian Grand Prix crash, explaining his vision problem was “very short”.<br />Leclerc lost control of his ca"
+    },
+    {
+      "id": "75639999d585",
+      "title": "Video: First onboard lap of Formula 1’s tight, slow new Madring circuit | Brief",
+      "title_fr": "Video: First onboard lap of Formula 1’s tight, slow new Madring circuit | Brief",
+      "title_en": "Video: First onboard lap of Formula 1’s tight, slow new Madring circuit | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/11/video-first-onboard-lap-of-formula-1s-tight-slow-new-madring-circuit/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-09-16-43-35-27-SG023646_YUqqPToV_20260909040745.jpg",
+      "published_at": "2026-09-11T07:28:12+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "First onboard lap of Formula 1's tight, slow new Madring circuit",
+      "summary_en": "First onboard lap of Formula 1's tight, slow new Madring circuit"
     },
     {
       "id": "3e44869aeb3d",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Former Formula 1 driver and Sky Sports pundit Karun Chandhok believes that Kimi Antonelli's path through the Mercedes junior programme rather than Ferrari's is the \"best thing\" his father Marco could ",
       "summary_en": "Former Formula 1 driver and Sky Sports pundit Karun Chandhok believes that Kimi Antonelli's path through the Mercedes junior programme rather than Ferrari's is the \"best thing\" his father Marco could "
-    },
-    {
-      "id": "fec4a27b2c4c",
-      "title": "Audi commits to appeal against Tsunoda's Italian GP result",
-      "title_fr": "Audi commits to appeal against Tsunoda's Italian GP result",
-      "title_en": "Audi commits to appeal against Tsunoda's Italian GP result",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/audi-commits-to-appeal-against-tsunodas-italian-gp-result/10854082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2QedzqP2/s6/yuki-tsunoda-racing-bulls-2.jpg",
-      "published_at": "2026-09-10T11:26:48+00:00",
-      "race_id": "japan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Audi Formula 1 team will follow through with its intention to appeal Yuki Tsunoda's lack of penalty for causing an extra formation lap in the Italian Grand Prix, Autosport understands.<br />Tsunod",
-      "summary_en": "The Audi Formula 1 team will follow through with its intention to appeal Yuki Tsunoda's lack of penalty for causing an extra formation lap in the Italian Grand Prix, Autosport understands.<br />Tsunod"
     }
   ]
 }
