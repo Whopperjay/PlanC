@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-09-11T05:14:02Z",
+  "last_updated": "2026-09-11T08:16:31Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "c6655d9245fa",
+      "title": "Charles Leclerc gives insight into eyesight problem after Monza F1 crash",
+      "title_fr": "Charles Leclerc gives insight into eyesight problem after Monza F1 crash",
+      "title_en": "Charles Leclerc gives insight into eyesight problem after Monza F1 crash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-gives-insight-into-eyesight-problem-after-monza-f1-crash/10854392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVj37JY/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-09-11T07:48:01+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari Formula 1 driver Charles Leclerc has given fresh insight into the aftermath of his Italian Grand Prix crash, explaining his vision problem was “very short”.<br />Leclerc lost control of his ca",
+      "summary_en": "Ferrari Formula 1 driver Charles Leclerc has given fresh insight into the aftermath of his Italian Grand Prix crash, explaining his vision problem was “very short”.<br />Leclerc lost control of his ca"
+    },
+    {
+      "id": "3e44869aeb3d",
+      "title": "Ferrari got “hardly any” advantage from its Madring F1 test",
+      "title_fr": "Ferrari got “hardly any” advantage from its Madring F1 test",
+      "title_en": "Ferrari got “hardly any” advantage from its Madring F1 test",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-got-hardly-any-advantage-from-its-madring-f1-test/10854281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6AlvLA9Y/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-09-11T07:07:36+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton says Ferrari got “hardly any” advantage from trialling Formula 1’s new Madring track ahead of this weekend’s Spanish Grand Prix.<br />The Scuderia performed a filming day at Madrid’s st",
+      "summary_en": "Lewis Hamilton says Ferrari got “hardly any” advantage from trialling Formula 1’s new Madring track ahead of this weekend’s Spanish Grand Prix.<br />The Scuderia performed a filming day at Madrid’s st"
+    },
+    {
+      "id": "c87ba2cf2a31",
+      "title": "Grand Prix d’Espagne de F1 2026 – Le programme du vendredi à Madrid - autohebdo.fr",
+      "title_fr": "Grand Prix d’Espagne de F1 2026 – Le programme du vendredi à Madrid - autohebdo.fr",
+      "title_en": "Grand Prix d’Espagne de F1 2026 – Le programme du vendredi à Madrid - autohebdo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTHoxYU1veUVNbXdEczk1U0gxbXlKOUN4N01uT0FMdmlQVmUzbHlRUnZ5bmxGWGNLbGdEenk3LUQwbWx1dHdJ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T06:29:59+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTH"
+    },
+    {
+      "id": "1726eceddd49",
+      "title": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
+      "title_fr": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
+      "title_en": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaWdBMWtVcHdjV2t4OUVMaEk2VG11LTUxSk92dXh4TGNsT1Y3Uml4QVhldUh5STNTcUtJQWo0cm9vQQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T04:44:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQzNGVsSjBrVG5DTVhrWmVPVHVCOWp5Y3l6TmNvWGVtSWc5X2JENGdnc0JobzY0dkNkaWY5QWFSaE5IZ25vcTlTYVFycWRrTE5HRXFMcENTNW1NUDY4aGdyRWdYcnY1VFFkNkROaW"
+    },
     {
       "id": "b7f481481572",
       "title": "Oscar Piastri shoots down Lando Norris sabotage theory",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The Audi Formula 1 team will follow through with its intention to appeal Yuki Tsunoda's lack of penalty for causing an extra formation lap in the Italian Grand Prix, Autosport understands.<br />Tsunod",
       "summary_en": "The Audi Formula 1 team will follow through with its intention to appeal Yuki Tsunoda's lack of penalty for causing an extra formation lap in the Italian Grand Prix, Autosport understands.<br />Tsunod"
-    },
-    {
-      "id": "792348851573",
-      "title": "Audi to go through with appeal against Yuki Tsunoda's Italian GP result",
-      "title_fr": "Audi to go through with appeal against Yuki Tsunoda's Italian GP result",
-      "title_en": "Audi to go through with appeal against Yuki Tsunoda's Italian GP result",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/audi-to-go-through-with-appeal-against-yuki-tsunodas-italian-gp-result/10854077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGg3jxY/s6/yuki-tsunoda-racing-bulls.jpg",
-      "published_at": "2026-09-10T11:24:07+00:00",
-      "race_id": "japan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Audi Formula 1 team will follow through with its intention to appeal Yuki Tsunoda's lack of penalty for causing an extra formation lap in the Italian Grand Prix, Motorsport.com understands.<br />T",
-      "summary_en": "The Audi Formula 1 team will follow through with its intention to appeal Yuki Tsunoda's lack of penalty for causing an extra formation lap in the Italian Grand Prix, Motorsport.com understands.<br />T"
-    },
-    {
-      "id": "9ee869e56912",
-      "title": "George Russell \"should feel aggrieved\" after Mercedes Monza strategy call, says David Croft",
-      "title_fr": "George Russell \"should feel aggrieved\" after Mercedes Monza strategy call, says David Croft",
-      "title_en": "George Russell \"should feel aggrieved\" after Mercedes Monza strategy call, says David Croft",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-should-feel-aggrieved-after-mercedes-monza-strategy-call-says-david-croft/10854045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6grQ1KnY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-09-10T10:33:17+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Sky Sports Formula 1 lead commentator David Croft has argued that George Russell has every right to \"feel aggrieved\" after Mercedes' strategy call during the virtual safety car period at the Italian G",
-      "summary_en": "Sky Sports Formula 1 lead commentator David Croft has argued that George Russell has every right to \"feel aggrieved\" after Mercedes' strategy call during the virtual safety car period at the Italian G"
-    },
-    {
-      "id": "0816dc89463e",
-      "title": "Why Ferrari won’t have to worry about another manhole cover incident at the Madring",
-      "title_fr": "Why Ferrari won’t have to worry about another manhole cover incident at the Madring",
-      "title_en": "Why Ferrari won’t have to worry about another manhole cover incident at the Madring",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-manhole-covers-will-not-be-a-problem-at-madring/10854032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0rGDBxO2/s6/carlos-sainz-ferrari-sf-23-sto-2.jpg",
-      "published_at": "2026-09-10T10:02:58+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "For the first time since 2023, Formula 1 is set to make its debut on a brand-new circuit. The Madring, located in Madrid, will host the 2026 Spanish Grand Prix this weekend.<br />In line with many new",
-      "summary_en": "For the first time since 2023, Formula 1 is set to make its debut on a brand-new circuit. The Madring, located in Madrid, will host the 2026 Spanish Grand Prix this weekend.<br />In line with many new"
-    },
-    {
-      "id": "22dd4ed829a7",
-      "title": "Verstappen points to Lawson and Tsunoda as proof F1 2026 is too easy",
-      "title_fr": "Verstappen points to Lawson and Tsunoda as proof F1 2026 is too easy",
-      "title_en": "Verstappen points to Lawson and Tsunoda as proof F1 2026 is too easy",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/verstappen-points-to-lawson-and-tsunoda-as-proof-f1-2026-is-too-easy/10854029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0kZXQ8D6/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-09-10T09:31:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen believes Formula 1’s new power units have taken so much away from the driving challenge that performing to a high level has become somewhat effortless.<br />Verstappen has been perhaps ",
-      "summary_en": "Max Verstappen believes Formula 1’s new power units have taken so much away from the driving challenge that performing to a high level has become somewhat effortless.<br />Verstappen has been perhaps "
     }
   ]
 }
