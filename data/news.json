@@ -1,7 +1,216 @@
 {
-  "last_updated": "2026-09-11T08:17:58Z",
+  "last_updated": "2026-09-11T11:20:42Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "85c752516e33",
+      "title": "LIVE F1 - Les Essais Libres 1 du Grand Prix d'Espagne en direct - Motorsport.com France",
+      "title_fr": "LIVE F1 - Les Essais Libres 1 du Grand Prix d'Espagne en direct - Motorsport.com France",
+      "title_en": "LIVE F1 - Les Essais Libres 1 du Grand Prix d'Espagne en direct - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXBWeGt2RFdRcFRYYjZQcC15b0cwX2JXSXNsb25fd1NMTWxlMGtkTFgwUy05eDVOalZSbVNnR2pkc0Q2U0tSWnpXZmM1RDNFNHhvQnk2TXliQlkyR1RTZ0lUOFJWV0g2ZGZxelRKSUFtMUw2Qkg5YVBTYk1tamlWREpoQW1VZk9WMmZpZldKQjgxRk94LVYwR3VmaUZjQWtR?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T11:06:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXBWeGt2RFdRcFRYYjZQcC15b0cwX2JXSXNsb25fd1NMTWxlMGtkTFgwUy05eDVOalZSbVNnR2pkc0Q2U0tSWnpXZmM1RDNFNHhvQnk2TXliQlkyR1RTZ0lUOFJWV0g2ZGZxelRKSU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXBWeGt2RFdRcFRYYjZQcC15b0cwX2JXSXNsb25fd1NMTWxlMGtkTFgwUy05eDVOalZSbVNnR2pkc0Q2U0tSWnpXZmM1RDNFNHhvQnk2TXliQlkyR1RTZ0lUOFJWV0g2ZGZxelRKSU"
+    },
+    {
+      "id": "58e8eb17c6cd",
+      "title": "LIVE F1 - GP d’Espagne : les essais libres 1 en direct à Madrid - Nextgen-Auto.com",
+      "title_fr": "LIVE F1 - GP d’Espagne : les essais libres 1 en direct à Madrid - Nextgen-Auto.com",
+      "title_en": "LIVE F1 - GP d’Espagne : les essais libres 1 en direct à Madrid - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtXUzNVMXp2LVVjaGxPSHpHa2ZZOHNRS3oxckpRUU9zMWpqdm54bG05SkhDZGt4bGdPNld4a2tWT0liRUNxM2o5QkdhVmk0aWR1bG9LSWladzhpcmh2SnJxWFNXUXd4OHRINU43czlXNk1BQnlTWmNwRFRuMUZIRi0tVGowSm1Qb0VjcjJrdUJIWWt4TWV3YnItcjdsYWhKREs2YlRHUTEyX0d5dlkyWDVidEpTOG9BbUhBUQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T11:00:00+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtXUzNVMXp2LVVjaGxPSHpHa2ZZOHNRS3oxckpRUU9zMWpqdm54bG05SkhDZGt4bGdPNld4a2tWT0liRUNxM2o5QkdhVmk0aWR1bG9LSWladzhpcmh2SnJxWFNXUXd4OHRINU43cz",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWtXUzNVMXp2LVVjaGxPSHpHa2ZZOHNRS3oxckpRUU9zMWpqdm54bG05SkhDZGt4bGdPNld4a2tWT0liRUNxM2o5QkdhVmk0aWR1bG9LSWladzhpcmh2SnJxWFNXUXd4OHRINU43cz"
+    },
+    {
+      "id": "762813169f26",
+      "title": "Insider reveals how Red Bull’s billion-dollar Porsche deal collapsed",
+      "title_fr": "Insider reveals how Red Bull’s billion-dollar Porsche deal collapsed",
+      "title_en": "Insider reveals how Red Bull’s billion-dollar Porsche deal collapsed",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/insider-reveals-why-the-red-bulls-billion-dollar-porsche-deal-collapsed/10854467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YKEWApD0/s6/porsche-gt2-rs.jpg",
+      "published_at": "2026-09-11T10:59:31+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "It is almost exactly four years since one of the most spectacular joint ventures Formula 1 might ever have seen fell apart in late summer 2022. Red Bull and Porsche had agreed to join forces in grand ",
+      "summary_en": "It is almost exactly four years since one of the most spectacular joint ventures Formula 1 might ever have seen fell apart in late summer 2022. Red Bull and Porsche had agreed to join forces in grand "
+    },
+    {
+      "id": "4e0dd45949ad",
+      "title": "What's behind Alonso's cryptic comments about his F1 future?",
+      "title_fr": "What's behind Alonso's cryptic comments about his F1 future?",
+      "title_en": "What's behind Alonso's cryptic comments about his F1 future?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7bjPm0/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": "2026-09-11T10:07:31+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and",
+      "summary_en": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and"
+    },
+    {
+      "id": "2bea658c0bf3",
+      "title": "What's behind Fernando Alonso's cryptic comments about his F1 future?",
+      "title_fr": "What's behind Fernando Alonso's cryptic comments about his F1 future?",
+      "title_en": "What's behind Fernando Alonso's cryptic comments about his F1 future?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854427/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YMXbOvV2/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-09-11T10:03:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and",
+      "summary_en": "Every Thursday, the media day in the paddock begins with a roundtable session with Mike Krack and Honda's chief engineer Shintaro Orihara. Besides the usual questions about power unit driveability and"
+    },
+    {
+      "id": "46c2d66d5b74",
+      "title": "Grand Prix F1 d’Espagne 2026 : programme, chaîne TV, bons plans Canal+ et codes promo sur les produits officiels ! - Le Parisien",
+      "title_fr": "Grand Prix F1 d’Espagne 2026 : programme, chaîne TV, bons plans Canal+ et codes promo sur les produits officiels ! - Le Parisien",
+      "title_en": "Grand Prix F1 d’Espagne 2026 : programme, chaîne TV, bons plans Canal+ et codes promo sur les produits officiels ! - Le Parisien",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRU1yZzZYZU1MMDEza3Y5LVVoMnY5N05fNGE0cGgzUkdhejRaTXh0RlBPbDgxaGt4Y3lDZmFMQjdiWW1RdGNnb1FuX1g0SjlobUVwUjJwc0FjOUlDTHlYSjF0OUs4LUxJcEVoUXE1ZkhJZVFKTVpCWDB4cVhCYW50bFhIX0N1TEFVQ3lROXotUElma3FqNV9PSUJoUXhjTjN6cUY5WEwzXzc4WmJuWE1qSWpsVTZxa3F6V0J5TDBwYVFWVDFHLTdBSVJaZ0loMlNNS0p4c1hXdlFhY1FRT3FiREtINFVBQTRocldrTFdvV1lfMGpfLVJhRkV4aTBvVjc3YjBwbTZETHpFNjgxOGM2VWZQZl9fbGc0aDVHby1OWXZELVE?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T10:01:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPRU1yZzZYZU1MMDEza3Y5LVVoMnY5N05fNGE0cGgzUkdhejRaTXh0RlBPbDgxaGt4Y3lDZmFMQjdiWW1RdGNnb1FuX1g0SjlobUVwUjJwc0FjOUlDTHlYSjF0OUs4LUxJcEVoUXE1Zk",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPRU1yZzZYZU1MMDEza3Y5LVVoMnY5N05fNGE0cGgzUkdhejRaTXh0RlBPbDgxaGt4Y3lDZmFMQjdiWW1RdGNnb1FuX1g0SjlobUVwUjJwc0FjOUlDTHlYSjF0OUs4LUxJcEVoUXE1Zk"
+    },
+    {
+      "id": "153806f339fe",
+      "title": "Peu d'évolutions à signaler pour le Grand Prix d'Espagne F1 - Motorsport.com France",
+      "title_fr": "Peu d'évolutions à signaler pour le Grand Prix d'Espagne F1 - Motorsport.com France",
+      "title_en": "Peu d'évolutions à signaler pour le Grand Prix d'Espagne F1 - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkREUl9HQ1NTdnFNc1pmX3d2ZlZmdzNEN2V0WEE3NXptemo0eDNYU0xPMUh0WWx5b1dURnFvdGpCMnZ4M1pkNXJydGpVbjhjYkd2bjN3WUR4NWlvVFlqaHRFM05IRFpyZElNRF9JVXMyRFc1VkFYRkQ1d0ZxejBYOVhpLUg1UlBXN1E?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T09:34:27+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkREUl9HQ1NTdnFNc1pmX3d2ZlZmdzNEN2V0WEE3NXptemo0eDNYU0xPMUh0WWx5b1dURnFvdGpCMnZ4M1pkNXJydGpVbjhjYkd2bjN3WUR4NWlvVFlqaHRFM05IRFpyZElNRF9JVX",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkREUl9HQ1NTdnFNc1pmX3d2ZlZmdzNEN2V0WEE3NXptemo0eDNYU0xPMUh0WWx5b1dURnFvdGpCMnZ4M1pkNXJydGpVbjhjYkd2bjN3WUR4NWlvVFlqaHRFM05IRFpyZElNRF9JVX"
+    },
+    {
+      "id": "3b5b722eab2c",
+      "title": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
+      "title_fr": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
+      "title_en": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwoRV2/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-09-11T08:57:43+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow",
+      "summary_en": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow"
+    },
+    {
+      "id": "9402da9c98eb",
+      "title": "George Russell reveals when he’ll take his own F1 engine penalty",
+      "title_fr": "George Russell reveals when he’ll take his own F1 engine penalty",
+      "title_en": "George Russell reveals when he’ll take his own F1 engine penalty",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-reveals-when-hell-take-his-own-engine-penalty/10854410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwzqG2/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-11T08:55:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow",
+      "summary_en": "George Russell says he will take an engine penalty when Mercedes introduces its upgraded Formula 1 power unit.<br />Both Mercedes drivers have exceeded or are expected to exceed their power unit allow"
+    },
+    {
+      "id": "cb12bfc9bf6a",
+      "title": "GP de Madrid 2026 : les horaires complets et la diffusion TV du Grand Prix de Formule 1 - linternaute.com",
+      "title_fr": "GP de Madrid 2026 : les horaires complets et la diffusion TV du Grand Prix de Formule 1 - linternaute.com",
+      "title_en": "GP de Madrid 2026 : les horaires complets et la diffusion TV du Grand Prix de Formule 1 - linternaute.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPck9hSmh2SkltSnl1amdPUDdlR056YXdLR3R5UHBPeXlOT2YybnNxWEpyWi1ZRy1CNm1nNWtLc1Ryb0N0c1kxVG1SemJTWnJfZTZkQU1adGFQM0xWcGdsb29UVkRNWjltQ283YTlFUktNMHAyZXcxUGZ5bzU1Wm9oX1hwN2RQVWdGUkltdTd6aWo4QWl6YzdLY05nMzc5ZElQSmtvVG9KYXQ0bmZvQVV2cU90UEVUNHlFTV9NOGFzTWFwUjhkMHp3WXBJMHpERXhiZkowUTVxbFhzNnpY?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T08:45:06+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPck9hSmh2SkltSnl1amdPUDdlR056YXdLR3R5UHBPeXlOT2YybnNxWEpyWi1ZRy1CNm1nNWtLc1Ryb0N0c1kxVG1SemJTWnJfZTZkQU1adGFQM0xWcGdsb29UVkRNWjltQ283YTlFUk",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPck9hSmh2SkltSnl1amdPUDdlR056YXdLR3R5UHBPeXlOT2YybnNxWEpyWi1ZRy1CNm1nNWtLc1Ryb0N0c1kxVG1SemJTWnJfZTZkQU1adGFQM0xWcGdsb29UVkRNWjltQ283YTlFUk"
+    },
+    {
+      "id": "66a6f1e776c7",
+      "title": "Esteban Ocon: ‘Haas may be testing new drivers, but drivers aren’t the problem’",
+      "title_fr": "Esteban Ocon: ‘Haas may be testing new drivers, but drivers aren’t the problem’",
+      "title_en": "Esteban Ocon: ‘Haas may be testing new drivers, but drivers aren’t the problem’",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/esteban-ocon-haas-may-be-testing-new-drivers-but-drivers-arent-the-problem/10854208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2jEAQnp0/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-09-11T08:24:41+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon says “drivers are not the problem” at the struggling Haas Formula 1 team, with his future in the world championship at threat.<br />Haas’ VF-26 has suffered from inconsistency in the way ",
+      "summary_en": "Esteban Ocon says “drivers are not the problem” at the struggling Haas Formula 1 team, with his future in the world championship at threat.<br />Haas’ VF-26 has suffered from inconsistency in the way "
+    },
     {
       "id": "c6655d9245fa",
       "title": "Charles Leclerc gives insight into eyesight problem after Monza F1 crash",
@@ -77,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTH",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JoX2hkUFhjMjg4RkpCbVhPZWpHVXVzclRmRFZBSEd5cVFFVER0bl8yTzZrZC0zbWN0MEp4YjhRbkk2WjBRZ0tleWNKMDQyTTZGeXZ2VTE5T01jQkRGbzE0Q3NCMEk5Y25zSFpmTH"
+    },
+    {
+      "id": "0e60996d2151",
+      "title": "GP d'Espagne de F1 : programme, horaires et chaînes TV du week-end au Madring - Turbo.fr",
+      "title_fr": "GP d'Espagne de F1 : programme, horaires et chaînes TV du week-end au Madring - Turbo.fr",
+      "title_en": "GP d'Espagne de F1 : programme, horaires et chaînes TV du week-end au Madring - Turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzF3aGNnVy1yNjdzRXJLSmpfdVl4V2dNSk10cmtERVJMR3ZhY2VoZ0Q3NEk1UU9TMGFqaFJMQ2tJX2ZGYjRoYTJDUVF6OUJReF8wR0ZnU3VsSWZLa3VfbkN0SE1Pcjk5TTBabzhDQ2JfY0h4TE9zUkF3VU8xNDExYXhhcUE2QUM2M21HUm9kVGJpRGFzVTlKdjM3dVNNS0JtY09ZX1pBUG9oWENNZEFCcmZPdjgyMkIzVWw1R2EwTQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T05:45:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzF3aGNnVy1yNjdzRXJLSmpfdVl4V2dNSk10cmtERVJMR3ZhY2VoZ0Q3NEk1UU9TMGFqaFJMQ2tJX2ZGYjRoYTJDUVF6OUJReF8wR0ZnU3VsSWZLa3VfbkN0SE1Pcjk5TTBabzhDQ2",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzF3aGNnVy1yNjdzRXJLSmpfdVl4V2dNSk10cmtERVJMR3ZhY2VoZ0Q3NEk1UU9TMGFqaFJMQ2tJX2ZGYjRoYTJDUVF6OUJReF8wR0ZnU3VsSWZLa3VfbkN0SE1Pcjk5TTBabzhDQ2"
     },
     {
       "id": "1726eceddd49",
@@ -172,6 +400,25 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc has admitted he was at fault for forcing his team mate Lewis Hamilton off on the first lap of the Italian Grand Prix.",
       "summary_en": "Charles Leclerc has admitted he was at fault for forcing his team mate Lewis Hamilton off on the first lap of the Italian Grand Prix."
+    },
+    {
+      "id": "d395145ad0b8",
+      "title": "F1: Chequered Flag",
+      "title_fr": "F1: Chequered Flag",
+      "title_en": "F1: Chequered Flag",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p91c9t?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": "2026-09-10T18:59:00+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Jennie, Andrew and Jolyon look ahead to the new Spanish GP in Madrid.",
+      "summary_en": "Jennie, Andrew and Jolyon look ahead to the new Spanish GP in Madrid."
     },
     {
       "id": "56e4537376bf",
@@ -514,253 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Carlos Sainz has used his own experience at Ferrari to play down any potential spat between Lewis Hamilton and Charles Leclerc after the Formula 1 Italian Grand Prix.<br />Sainz and Leclerc were team-",
       "summary_en": "Carlos Sainz has used his own experience at Ferrari to play down any potential spat between Lewis Hamilton and Charles Leclerc after the Formula 1 Italian Grand Prix.<br />Sainz and Leclerc were team-"
-    },
-    {
-      "id": "097acef209fc",
-      "title": "Vasseur rejects Ferrari internal crisis claims as he defends team",
-      "title_fr": "Vasseur rejects Ferrari internal crisis claims as he defends team",
-      "title_en": "Vasseur rejects Ferrari internal crisis claims as he defends team",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/vasseur-rejects-ferrari-internal-crisis-claims-as-he-defends-team/10854216/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YvKQy1G6/s6/frederic-vasseur-ferrari-2.jpg",
-      "published_at": "2026-09-10T14:56:31+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Fred Vasseur does not deny that there were things to clear up between Charles Leclerc and Lewis Hamilton at Monza and the Ferrari team principal has spoken to both drivers after the Italian Grand Prix",
-      "summary_en": "Fred Vasseur does not deny that there were things to clear up between Charles Leclerc and Lewis Hamilton at Monza and the Ferrari team principal has spoken to both drivers after the Italian Grand Prix"
-    },
-    {
-      "id": "c422287e5bdc",
-      "title": "Fred Vasseur rejects Ferrari internal crisis suggestions as he defends team",
-      "title_fr": "Fred Vasseur rejects Ferrari internal crisis suggestions as he defends team",
-      "title_en": "Fred Vasseur rejects Ferrari internal crisis suggestions as he defends team",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-rejects-ferrari-internal-crisis-suggestions-as-he-defends-team-/10854206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15EZ10/s6/frederic-vasseur-fra.jpg",
-      "published_at": "2026-09-10T14:53:51+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Fred Vasseur does not deny that there were things to clear up between Charles Leclerc and Lewis Hamilton at Monza and the Ferrari team principal has spoken to both drivers after the Italian Grand Prix",
-      "summary_en": "Fred Vasseur does not deny that there were things to clear up between Charles Leclerc and Lewis Hamilton at Monza and the Ferrari team principal has spoken to both drivers after the Italian Grand Prix"
-    },
-    {
-      "id": "e9477ef730b7",
-      "title": "Audi’s appeal for Tsunoda penalty is “straightforward”, says Bortoleto | Formula 1",
-      "title_fr": "Audi’s appeal for Tsunoda penalty is “straightforward”, says Bortoleto | Formula 1",
-      "title_en": "Audi’s appeal for Tsunoda penalty is “straightforward”, says Bortoleto | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/10/audis-appeal-for-tsunoda-penalty-is-straightforward-bortoleto/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-15-50-43-2-SI202609060786_hires_jpeg_24bit_rgb.jpg",
-      "published_at": "2026-09-10T14:41:11+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Audi is appealing the stewards' decision not to penalise Yuki Tsunoda because \"what's right is right\", says Gabriel Bortoleto.",
-      "summary_en": "Audi is appealing the stewards' decision not to penalise Yuki Tsunoda because \"what's right is right\", says Gabriel Bortoleto."
-    },
-    {
-      "id": "07408374d15a",
-      "title": "Spanish GP trophy divides F1 fans but one comparison keeps coming up",
-      "title_fr": "Spanish GP trophy divides F1 fans but one comparison keeps coming up",
-      "title_en": "Spanish GP trophy divides F1 fans but one comparison keeps coming up",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/spanish-gp-trophy-divides-f1-fans-but-one-comparison-keeps-coming-up/10854191/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq81LL6/s6/a-general-view-of-the-circuit.jpg",
-      "published_at": "2026-09-10T14:29:48+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 has unveiled the trophy for the inaugural Spanish Grand Prix in Madrid and fans have been quick to share their thoughts on the design.<br />This weekend's Spanish Grand Prix marks the series",
-      "summary_en": "Formula 1 has unveiled the trophy for the inaugural Spanish Grand Prix in Madrid and fans have been quick to share their thoughts on the design.<br />This weekend's Spanish Grand Prix marks the series"
-    },
-    {
-      "id": "7fce40b285f0",
-      "title": "‘In Monza I did two or three unwanted overtakes’ – Alonso | Formula 1",
-      "title_fr": "‘In Monza I did two or three unwanted overtakes’ – Alonso | Formula 1",
-      "title_en": "‘In Monza I did two or three unwanted overtakes’ – Alonso | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/10/in-monza-i-did-two-or-three-unwanted-overtakes-alonso/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-16-01-55-1-GettyImages-2293809967.jpg",
-      "published_at": "2026-09-10T14:22:21+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Despite rules tweaks, Formula 1 drivers still have so little control over their power units they are forced to overtake rivals when they don't want to.",
-      "summary_en": "Despite rules tweaks, Formula 1 drivers still have so little control over their power units they are forced to overtake rivals when they don't want to."
-    },
-    {
-      "id": "163198be18cf",
-      "title": "Yuki Tsunoda réagit aux propos de Max Verstappen sur les F1 2026 - Motorsport.com France",
-      "title_fr": "Yuki Tsunoda réagit aux propos de Max Verstappen sur les F1 2026 - Motorsport.com France",
-      "title_en": "Yuki Tsunoda réagit aux propos de Max Verstappen sur les F1 2026 - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjJuVVFjVDhjRU1adE4zeTJGZm5hQ2VPSEVoZ29IUE5pVGJMU3BqYkxnZkRpVnYtZng0U2trTXhicDZMbXh1ZTQ1UThUX0FNZmZCZzNSZWlwR2Q4d0VIaHBGa3d2V0hiYTFJMlJlVmdJOEFNaWcxRTVFZDNRVlMtNFZ6Z0oxSFJvRlg4eA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-10T14:15:12+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjJuVVFjVDhjRU1adE4zeTJGZm5hQ2VPSEVoZ29IUE5pVGJMU3BqYkxnZkRpVnYtZng0U2trTXhicDZMbXh1ZTQ1UThUX0FNZmZCZzNSZWlwR2Q4d0VIaHBGa3d2V0hiYTFJMlJlVm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjJuVVFjVDhjRU1adE4zeTJGZm5hQ2VPSEVoZ29IUE5pVGJMU3BqYkxnZkRpVnYtZng0U2trTXhicDZMbXh1ZTQ1UThUX0FNZmZCZzNSZWlwR2Q4d0VIaHBGa3d2V0hiYTFJMlJlVm"
-    },
-    {
-      "id": "95d16fef3529",
-      "title": "Yuki Tsunoda responds to Max Verstappen's F1 2026 claim",
-      "title_fr": "Yuki Tsunoda responds to Max Verstappen's F1 2026 claim",
-      "title_en": "Yuki Tsunoda responds to Max Verstappen's F1 2026 claim",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-responds-to-max-verstappens-f1-2026-claim/10854169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGg3y7Y/s6/yuki-tsunoda-racing-bulls.jpg",
-      "published_at": "2026-09-10T13:53:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Yuki Tsunoda shrugged off Max Verstappen’s comments that his recent results are evidence of driver input being less important with the new 2026 Formula 1 cars.<br />Both drivers were team-mates at Red",
-      "summary_en": "Yuki Tsunoda shrugged off Max Verstappen’s comments that his recent results are evidence of driver input being less important with the new 2026 Formula 1 cars.<br />Both drivers were team-mates at Red"
-    },
-    {
-      "id": "ddae3eeb380c",
-      "title": "McLaren drops H-wing concept for F1 Spanish GP",
-      "title_fr": "McLaren drops H-wing concept for F1 Spanish GP",
-      "title_en": "McLaren drops H-wing concept for F1 Spanish GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mclaren-drops-upside-down-h-wing-concept-for-f1-spanish-gp/10854141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5AQy1Y/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": "2026-09-10T12:35:37+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren is parking its H-wing concept for this weekend's Spanish Grand Prix in Madrid, with its version of the rotating Formula 1 rear wing set to return in Baku.<br />The Woking-based team had been w",
-      "summary_en": "McLaren is parking its H-wing concept for this weekend's Spanish Grand Prix in Madrid, with its version of the rotating Formula 1 rear wing set to return in Baku.<br />The Woking-based team had been w"
-    },
-    {
-      "id": "64422333b2d2",
-      "title": "McLaren n'utilisera pas son aileron \"Macarena\" au Grand Prix d'Espagne - Motorsport.com France",
-      "title_fr": "McLaren n'utilisera pas son aileron \"Macarena\" au Grand Prix d'Espagne - Motorsport.com France",
-      "title_en": "McLaren n'utilisera pas son aileron \"Macarena\" au Grand Prix d'Espagne - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2FYdi1lSTZKZzBiVVUxMlJicktWVWZwVkdjWXJBXzN2allac2tncUFVd0x6SjBwaXNSZEtlWmx4S1BXWHE5UFd4cE5oSFRueVFBeW54TXdxOVhZd2sxNWJwVHlYS2s0U214aXAyM0l5cjRCRzBfcXZ2M3VxcmxEMVpZaHcwWTBqcnFicXhLTHI3Zw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-10T12:18:31+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2FYdi1lSTZKZzBiVVUxMlJicktWVWZwVkdjWXJBXzN2allac2tncUFVd0x6SjBwaXNSZEtlWmx4S1BXWHE5UFd4cE5oSFRueVFBeW54TXdxOVhZd2sxNWJwVHlYS2s0U214aXAyM0",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2FYdi1lSTZKZzBiVVUxMlJicktWVWZwVkdjWXJBXzN2allac2tncUFVd0x6SjBwaXNSZEtlWmx4S1BXWHE5UFd4cE5oSFRueVFBeW54TXdxOVhZd2sxNWJwVHlYS2s0U214aXAyM0"
-    },
-    {
-      "id": "b15df558f4c3",
-      "title": "Madring 2026 : découvrez le nouveau circuit F1 sous tous les angles (en images) - Sport Auto",
-      "title_fr": "Madring 2026 : découvrez le nouveau circuit F1 sous tous les angles (en images) - Sport Auto",
-      "title_en": "Madring 2026 : découvrez le nouveau circuit F1 sous tous les angles (en images) - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1pCQThtSG1Nc0JOXzN3ODhQbWp4U2RLcmcxZjZmeGJsNHliT0NIZE9PclZBRTBYQXNuc2RGeTY2d0xtWjY4bmtNWUF6Nm1TYk9UbGpTb2NDa19RUEVjQkRJQnZUTHlCV0F1MHdDMUd4UG1iOU9aQlI3WFpTak1vcmNwbi1LUUlkVzlDb0ZLbjdLNVNKSWxaSFNkZ3AybC01STEtNDhSXzRBbHp5dERJeS1RbTA0LU9VZ25jYTJDNzVoMF9KbEtQeF9qU1l1bXZfR1lN?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-10T12:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1pCQThtSG1Nc0JOXzN3ODhQbWp4U2RLcmcxZjZmeGJsNHliT0NIZE9PclZBRTBYQXNuc2RGeTY2d0xtWjY4bmtNWUF6Nm1TYk9UbGpTb2NDa19RUEVjQkRJQnZUTHlCV0F1MHdDMU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1pCQThtSG1Nc0JOXzN3ODhQbWp4U2RLcmcxZjZmeGJsNHliT0NIZE9PclZBRTBYQXNuc2RGeTY2d0xtWjY4bmtNWUF6Nm1TYk9UbGpTb2NDa19RUEVjQkRJQnZUTHlCV0F1MHdDMU"
-    },
-    {
-      "id": "56dcb9c870c7",
-      "title": "McLaren drops upside down H-wing concept for F1 Spanish GP",
-      "title_fr": "McLaren drops upside down H-wing concept for F1 Spanish GP",
-      "title_en": "McLaren drops upside down H-wing concept for F1 Spanish GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-drops-upside-down-h-wing-concept-for-f1-spanish-gp/10854102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/25dLamQ0/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-10T11:53:03+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren is parking its H-wing concept for this weekend's Spanish Grand Prix in Madrid, with its version of the rotating Formula 1 rear wing set to return in Baku.<br />The Woking-based team had been w",
-      "summary_en": "McLaren is parking its H-wing concept for this weekend's Spanish Grand Prix in Madrid, with its version of the rotating Formula 1 rear wing set to return in Baku.<br />The Woking-based team had been w"
-    },
-    {
-      "id": "6391422c3a98",
-      "title": "How to follow Spanish Grand Prix on the BBC",
-      "title_fr": "How to follow Spanish Grand Prix on the BBC",
-      "title_en": "How to follow Spanish Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g72gw7pkdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929f/live/06df0280-ad0b-11f1-a540-61c3f7fc4e6c.jpg",
-      "published_at": "2026-09-10T11:49:37+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
-      "summary_en": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit."
-    },
-    {
-      "id": "2e3369059ec1",
-      "title": "Kimi Antonelli avoiding Ferrari was \"best thing\" his father did, says Karun Chandhok",
-      "title_fr": "Kimi Antonelli avoiding Ferrari was \"best thing\" his father did, says Karun Chandhok",
-      "title_en": "Kimi Antonelli avoiding Ferrari was \"best thing\" his father did, says Karun Chandhok",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-avoiding-ferrari-was-best-thing-his-father-did-says-karun-chandhok/10854089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0Lde4AN0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-10T11:29:24+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver and Sky Sports pundit Karun Chandhok believes that Kimi Antonelli's path through the Mercedes junior programme rather than Ferrari's is the \"best thing\" his father Marco could ",
-      "summary_en": "Former Formula 1 driver and Sky Sports pundit Karun Chandhok believes that Kimi Antonelli's path through the Mercedes junior programme rather than Ferrari's is the \"best thing\" his father Marco could "
     }
   ]
 }
