@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:00:21Z",
+  "generated_at": "2026-09-12T05:00:21Z",
   "model": "claude",
   "predictions": [
     {
@@ -40,12 +40,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "hamilton",
-      "reasoning_fr": "Antonelli domine le championnat avec une Mercedes dominante cette saison, logique de le voir confirmer à domicile européenne. Russell complète le doublé Mercedes, Hamilton défend sa Ferrari en forme sur un circuit qui devrait convenir à sa régularité récente.",
-      "reasoning_en": "Antonelli leads the championship comfortably with a clearly dominant Mercedes package, making a win likely here too. Russell secures the Mercedes one-two, while Hamilton's Ferrari pace this season should be enough to hold off Norris for the final podium spot.",
+      "reasoning_fr": "Mercedes domine nettement le rythme longue distance en essais libres à Madring, Antonelli en pleine confiance après Monza. Russell complète le doublé Mercedes. Hamilton profite de l'expérience Ferrari sur un circuit inédit et risqué pour prendre la troisième marche.",
+      "reasoning_en": "Mercedes clearly leads long-run pace in Spanish GP practice, with Antonelli riding high confidence after Monza. Russell secures the Mercedes one-two. Hamilton leverages Ferrari experience on this new, high-risk circuit to claim third.",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes actuelle au championnat",
+      "key_factor_fr": "Mercedes dominant en rythme longue distance aux essais",
       "news_used_ids": [],
-      "generated_at": "2026-09-11T13:00:13Z"
+      "generated_at": "2026-09-12T05:00:13Z"
     },
     {
       "event_id": "spanish_qualifying",

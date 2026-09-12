@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-11T13:00:21Z",
+  "generated_at": "2026-09-12T05:00:21Z",
   "messages": [
     {
-      "id": "2026091113_0",
-      "text_fr": "Antonelli-Russell-Hamilton, posé. Vous osez vraiment tenter mieux ? 🏎️",
-      "text_en": "Antonelli-Russell-Hamilton, locked in. You really wanna try beating that?",
-      "created_at": "2026-09-11T13:00:27Z"
+      "id": "2026091205_0",
+      "text_fr": "Antonelli-Russell-Hamilton, posé. Vous, vous allez encore copier sur le voisin 😏",
+      "text_en": "Antonelli-Russell-Hamilton, locked in. You'll just copy your buddy's picks again.",
+      "created_at": "2026-09-12T05:00:28Z"
     },
     {
-      "id": "2026091113_1",
-      "text_fr": "Mon podium est déjà écrit sur le bitume espagnol. Bonne chance pour me battre.",
-      "text_en": "My podium's already written on the Spanish tarmac. Good luck topping it.",
-      "created_at": "2026-09-11T13:00:27Z"
+      "id": "2026091205_1",
+      "text_fr": "Mon podium est fait, le vôtre c'est le hasard. Osez faire mieux que l'IA à Barcelone.",
+      "text_en": "My podium's set, yours is a coin flip. Dare to beat the AI at Barcelona.",
+      "created_at": "2026-09-12T05:00:28Z"
     }
   ]
 }
