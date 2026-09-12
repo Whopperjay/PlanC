@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T08:52:17Z",
+  "last_updated": "2026-09-12T08:54:31Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
     {
@@ -9,7 +9,7 @@
       "title_en": "Pain in Spain goes mainly down the drain, explains Permane",
       "source": "motorsport.com",
       "url": "https://www.motorsport.com/f1/news/pain-in-spain-goes-mainly-down-the-drain-explains-permane/10854817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/24QGWlPY/s6/arvid-lindblad-racing-bulls.jpg",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGWlPY/s6/arvid-lindblad-racing-bulls.jpg",
       "published_at": "2026-09-12T08:41:40+00:00",
       "race_id": "spain-barcelona",
       "category": "rumeur",
@@ -22,13 +22,32 @@
       "summary_en": "Racing Bulls boss Alan Permane hailed his team's Friday efforts at the Spanish Grand Prix as an \"excellent day\", despite Arvid Lindblad's Turn 13 crash in FP2 bringing an early end to his running.<br "
     },
     {
+      "id": "590387841f01",
+      "title": "F1 - GP d'Espagne 2026 : à quelle heure suivre les qualifications ce samedi ? - Sport Auto",
+      "title_fr": "F1 - GP d'Espagne 2026 : à quelle heure suivre les qualifications ce samedi ? - Sport Auto",
+      "title_en": "F1 - GP d'Espagne 2026 : à quelle heure suivre les qualifications ce samedi ? - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRmpGbjZLS3p2UnhJZ0N5Z25nb2xnV2g1bjltR01CWl91M3hrbExuZVFha2ZOamRrSmJXbDhVVUYyX1FXUy16Q0lWZHB0Q2pPYmJfSU5PZ3pBS0ZxQV9QMUVjTDJEOU9fSkhMQ3ByMm44YmZMaE1oRzJlQmdUaklyRzVDd0ZYcHUxR1dCWHpXeWlkbGtXTnlMX09VbHRRdHRDdFpvZWx3NGhhSEZKQm9BQ3ZMNFRmWVg5NmJYcDZhYWVYYmpnQ1hqQktjN2VwZzFkQnNQT3ZYV3dfcmo5MFAtdWVUQmR3OWYzQ1hUX1EtTDFQd2RUWkZVTjhPTnI5NGZKQWVReGFkcS1uMmxFYVZJT0lZM0ltWXVsZjBDQVVCczVpTW8?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T08:30:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNRmpGbjZLS3p2UnhJZ0N5Z25nb2xnV2g1bjltR01CWl91M3hrbExuZVFha2ZOamRrSmJXbDhVVUYyX1FXUy16Q0lWZHB0Q2pPYmJfSU5PZ3pBS0ZxQV9QMUVjTDJEOU9fSkhMQ3ByMm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNRmpGbjZLS3p2UnhJZ0N5Z25nb2xnV2g1bjltR01CWl91M3hrbExuZVFha2ZOamRrSmJXbDhVVUYyX1FXUy16Q0lWZHB0Q2pPYmJfSU5PZ3pBS0ZxQV9QMUVjTDJEOU9fSkhMQ3ByMm"
+    },
+    {
       "id": "42b93aabea22",
       "title": "How Monza revealed the true picture – Max Verstappen responds to FIA's surprising ADUO verdict",
       "title_fr": "How Monza revealed the true picture – Max Verstappen responds to FIA's surprising ADUO verdict",
       "title_en": "How Monza revealed the true picture – Max Verstappen responds to FIA's surprising ADUO verdict",
       "source": "motorsport.com",
       "url": "https://www.motorsport.com/f1/news/how-monza-revealed-the-true-picture-max-verstappen-responds-to-fias-surprising-aduo-verdict/10854603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BZDZ2/s6/max-verstappen-red-bull-racing.jpg",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0R7BZDZ2/s6/max-verstappen-red-bull-racing.jpg",
       "published_at": "2026-09-12T07:17:36+00:00",
       "race_id": "monaco",
       "category": "rumeur",
@@ -58,6 +77,25 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 drivers gave a positive initial verdict on the Madring after their first practice sessions on the new track yesterday.",
       "summary_en": "Formula 1 drivers gave a positive initial verdict on the Madring after their first practice sessions on the new track yesterday."
+    },
+    {
+      "id": "382ea7938a6e",
+      "title": "GP d’Espagne F1 (Madring) : Programme TV et horaires du samedi et du dimanche - Le Mag Sport Auto",
+      "title_fr": "GP d’Espagne F1 (Madring) : Programme TV et horaires du samedi et du dimanche - Le Mag Sport Auto",
+      "title_en": "GP d’Espagne F1 (Madring) : Programme TV et horaires du samedi et du dimanche - Le Mag Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzNZNmY1dkE5aG9tTE5yRFlyd1FTY3Rfc21wNWFNdVZiZFQxZUE1T3h1aWtWa2FYX29TRXhTaUhjdDRpWkk4UjdWVDVXSXJocjZMYVZ5NnlxcnB1NWZ3UEs2dnRBYzBYdzlVdGNsb0s2WkVETjhfWFd6ZUxrZlZnWGlscDBqR1gxcHdwT1FacER6cTR2MUxSNVRRSzJNaTExc3FndncwYl9YdWlfenZlWVA3cDB0dzFnendV?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T04:30:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzNZNmY1dkE5aG9tTE5yRFlyd1FTY3Rfc21wNWFNdVZiZFQxZUE1T3h1aWtWa2FYX29TRXhTaUhjdDRpWkk4UjdWVDVXSXJocjZMYVZ5NnlxcnB1NWZ3UEs2dnRBYzBYdzlVdGNsb0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzNZNmY1dkE5aG9tTE5yRFlyd1FTY3Rfc21wNWFNdVZiZFQxZUE1T3h1aWtWa2FYX29TRXhTaUhjdDRpWkk4UjdWVDVXSXJocjZMYVZ5NnlxcnB1NWZ3UEs2dnRBYzBYdzlVdGNsb0"
     },
     {
       "id": "1a22dd110779",
@@ -440,6 +478,25 @@
       "summary_en": "Andrea Kimi Antonelli kept Mercedes ahead in the second practice session. Arvid Lindblad took a strong fourth but crashed."
     },
     {
+      "id": "9a02b6c64adb",
+      "title": "GP d’Espagne, EL2 : Antonelli devance les Ferrari, Lindblad est 4e et dans le mur - Nextgen-Auto.com",
+      "title_fr": "GP d’Espagne, EL2 : Antonelli devance les Ferrari, Lindblad est 4e et dans le mur - Nextgen-Auto.com",
+      "title_en": "GP d’Espagne, EL2 : Antonelli devance les Ferrari, Lindblad est 4e et dans le mur - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0tGUmZWelZTUWxMcVNzWG56T1FnZnNQemRtazRHdHd1SXFzNGU1ekxtUlpXX01zaDBIcXZUbFBDN0NaZ0tBV1d5V3BIMHJBNDVkYVZKVURGTzR2OXFHWTlUOC05QjlYWW1vQkxwR0c2RjdtM2dOMjFzRlc1LURNVHJuU25BNDJOM05VOGhEdGM2X0ZWWDJSbmxhQVNOMU5Ydzc4bm1KY0ozbEduWXlfT2R5cF94a3ZrTWt4WU5ld2ZlSUhhUnI3bm5EN0dHRTZRMjFCaQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T16:01:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0tGUmZWelZTUWxMcVNzWG56T1FnZnNQemRtazRHdHd1SXFzNGU1ekxtUlpXX01zaDBIcXZUbFBDN0NaZ0tBV1d5V3BIMHJBNDVkYVZKVURGTzR2OXFHWTlUOC05QjlYWW1vQkxwR0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0tGUmZWelZTUWxMcVNzWG56T1FnZnNQemRtazRHdHd1SXFzNGU1ekxtUlpXX01zaDBIcXZUbFBDN0NaZ0tBV1d5V3BIMHJBNDVkYVZKVURGTzR2OXFHWTlUOC05QjlYWW1vQkxwR0"
+    },
+    {
       "id": "e624a4c91509",
       "title": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
       "title_fr": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell goes quickest in first practice for the Spanish Grand Prix - hours after saying the circuit has little margin for error.",
       "summary_en": "George Russell goes quickest in first practice for the Spanish Grand Prix - hours after saying the circuit has little margin for error."
-    },
-    {
-      "id": "69fe3d7a3923",
-      "title": "Russell leads Mercedes one-two in trouble-free opening session at Madring | Formula 1",
-      "title_fr": "Russell leads Mercedes one-two in trouble-free opening session at Madring | Formula 1",
-      "title_en": "Russell leads Mercedes one-two in trouble-free opening session at Madring | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/11/russell-leads-mercedes-one-two-in-trouble-free-opening-session-at-madring/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-13-58-27-1-20-friday-madrid-2026.jpg",
-      "published_at": "2026-09-11T12:43:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell was quickest for Mercedes as the new Madring circuit held its first official Formula 1 practice session.",
-      "summary_en": "George Russell was quickest for Mercedes as the new Madring circuit held its first official Formula 1 practice session."
-    },
-    {
-      "id": "8c8fc2dce60b",
-      "title": "Résultats des essais libres 1 du GP d’Espagne 2026 de F1 - F1ACTU",
-      "title_fr": "Résultats des essais libres 1 du GP d’Espagne 2026 de F1 - F1ACTU",
-      "title_en": "Résultats des essais libres 1 du GP d’Espagne 2026 de F1 - F1ACTU",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkpza1VrTWZBejJwLUU1aERsWTFUVFBMM04tTXJmVl9uQmkyMm9kb2lieFlVRml6bFcxMVRlN0R2QzZPeG15RVJZSFpkYWY3NFhKMTl0QmcySmVER0Ntc0JjbkkyM25CbC1VZEQ5LVF5VUZkcTVxNUQ3WG9tVEpCdXBYeW93QQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T12:42:41+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkpza1VrTWZBejJwLUU1aERsWTFUVFBMM04tTXJmVl9uQmkyMm9kb2lieFlVRml6bFcxMVRlN0R2QzZPeG15RVJZSFpkYWY3NFhKMTl0QmcySmVER0Ntc0JjbkkyM25CbC1VZEQ5LV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTkpza1VrTWZBejJwLUU1aERsWTFUVFBMM04tTXJmVl9uQmkyMm9kb2lieFlVRml6bFcxMVRlN0R2QzZPeG15RVJZSFpkYWY3NFhKMTl0QmcySmVER0Ntc0JjbkkyM25CbC1VZEQ5LV"
-    },
-    {
-      "id": "000792d932e7",
-      "title": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring",
-      "title_fr": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring",
-      "title_en": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp1-report/10854512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/25dLK7l0/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-09-11T12:40:28+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes’ George Russell was fastest in the first-ever Formula 1 session at the brand-new Madring track – first practice for the Spanish Grand Prix.<br />Twenty out of 22 cars took to the brand-new tr",
-      "summary_en": "Mercedes’ George Russell was fastest in the first-ever Formula 1 session at the brand-new Madring track – first practice for the Spanish Grand Prix.<br />Twenty out of 22 cars took to the brand-new tr"
     }
   ]
 }
