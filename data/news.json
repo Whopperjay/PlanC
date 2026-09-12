@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-09-12T08:54:31Z",
+  "last_updated": "2026-09-12T11:57:18Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "419c55b7fc22",
+      "title": "Lewis Hamilton under fire after ignoring Ferrari calls to stop damaged car in Madrid FP3",
+      "title_fr": "Lewis Hamilton under fire after ignoring Ferrari calls to stop damaged car in Madrid FP3",
+      "title_en": "Lewis Hamilton under fire after ignoring Ferrari calls to stop damaged car in Madrid FP3",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-under-fire-after-ignoring-ferrari-calls-to-stop-damaged-car-in-madrid-fp3/10854917/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq85G46/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-09-12T11:46:20+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Seven-time Formula 1 champion Lewis Hamilton has come under fire from fans after ignoring orders to stop his damaged Ferrari during the third free practice session in Madrid.<br />The Ferrari driver's",
+      "summary_en": "Seven-time Formula 1 champion Lewis Hamilton has come under fire from fans after ignoring orders to stop his damaged Ferrari during the third free practice session in Madrid.<br />The Ferrari driver's"
+    },
+    {
+      "id": "f8b795380d2e",
+      "title": "Hamilton crash delays completion of final practice session at Madring | Formula 1",
+      "title_fr": "Hamilton crash delays completion of final practice session at Madring | Formula 1",
+      "title_en": "Hamilton crash delays completion of final practice session at Madring | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/12/hamilton-crash-delays-completion-of-final-practice-session-at-madring/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-17-12-09-8-260911_R14_MADRID_DP_XB5_8512.JPG.jpg",
+      "published_at": "2026-09-12T11:31:51+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Final practice for the Spanish Grand Prix at the Madring did not finish on time after the session was stopped for barrier repairs.",
+      "summary_en": "Final practice for the Spanish Grand Prix at the Madring did not finish on time after the session was stopped for barrier repairs."
+    },
+    {
+      "id": "963f9a8b2b53",
+      "title": "LIVE F1 - Les derniers essais libres en direct du Madring | Live Texte - Motorsport.com France",
+      "title_fr": "LIVE F1 - Les derniers essais libres en direct du Madring | Live Texte - Motorsport.com France",
+      "title_en": "LIVE F1 - Les derniers essais libres en direct du Madring | Live Texte - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVRfRUlBNlZSRzVZMnhmcG5EVDNmR1cwTVRfMzNURTdZNXliSjB2ZnpPSUlGOEJTWUVIN0Q2QjZhdlpFSFNGYVlWMFFlVXZCR1FqcUR4VklYZDhSV1hNOUFZZlRWTzFBMl9iQUJMWjQ4V3ozeng4NE8wVXI3MmdLNmRWQTRhSlcxdUJCWnIwWjhkUGYxT0lyeXJQT2tfTDZy?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T11:05:12+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVRfRUlBNlZSRzVZMnhmcG5EVDNmR1cwTVRfMzNURTdZNXliSjB2ZnpPSUlGOEJTWUVIN0Q2QjZhdlpFSFNGYVlWMFFlVXZCR1FqcUR4VklYZDhSV1hNOUFZZlRWTzFBMl",
+      "summary_en": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVRfRUlBNlZSRzVZMnhmcG5EVDNmR1cwTVRfMzNURTdZNXliSjB2ZnpPSUlGOEJTWUVIN0Q2QjZhdlpFSFNGYVlWMFFlVXZCR1FqcUR4VklYZDhSV1hNOUFZZlRWTzFBMl"
+    },
+    {
+      "id": "f2ea65a2999f",
+      "title": "La FIA valide deux GP en Espagne et fixe une limite au calendrier F1 - Nextgen-Auto.com",
+      "title_fr": "La FIA valide deux GP en Espagne et fixe une limite au calendrier F1 - Nextgen-Auto.com",
+      "title_en": "La FIA valide deux GP en Espagne et fixe une limite au calendrier F1 - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2ZXb1NuWDE4THFFdEZFMFFKLUU0X3hvS2hpWjBwRHZqOXVPRi1zWUJ1SzV6Y2FPbEdlZnNSSy0wWHdPZ2VlY2dEQk9rbjJHOElkQUhVWXZPN0d1TURXQ09zdkw5aXQtcW51LWtoOGRNSDA4bk9Kc1JQRU1rRmJpTDQ4TmF3NWQ4bGtqWElsUk1acE0wSzZoTEwyRE4yS1pucDZ1M0Q3ZDliNkJhbkV6MmEzRFJNMWluX2FGREVfbndwaW96c09maA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T10:47:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2ZXb1NuWDE4THFFdEZFMFFKLUU0X3hvS2hpWjBwRHZqOXVPRi1zWUJ1SzV6Y2FPbEdlZnNSSy0wWHdPZ2VlY2dEQk9rbjJHOElkQUhVWXZPN0d1TURXQ09zdkw5aXQtcW51LWtoOG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2ZXb1NuWDE4THFFdEZFMFFKLUU0X3hvS2hpWjBwRHZqOXVPRi1zWUJ1SzV6Y2FPbEdlZnNSSy0wWHdPZ2VlY2dEQk9rbjJHOElkQUhVWXZPN0d1TURXQ09zdkw5aXQtcW51LWtoOG"
+    },
+    {
+      "id": "330da3087305",
+      "title": "LIVE F1 - GP d’Espagne : les essais libres 3 en direct à Madrid - Nextgen-Auto.com",
+      "title_fr": "LIVE F1 - GP d’Espagne : les essais libres 3 en direct à Madrid - Nextgen-Auto.com",
+      "title_en": "LIVE F1 - GP d’Espagne : les essais libres 3 en direct à Madrid - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDBMdzJMcGMwanNGaUhndHBEcFRoWkdRLTk4NHZSX0FuOHE2TEYtTm9rN3Nfb29ZTzdFdUsyQXp0djM5THFSQ3BZT0tBb1N6Q0QtVGg4WGVhRDhrNUJ3azFmMVgyWGVGMjlaTWwtVmJ5VGJHNVZxMF9SMmh3ZC15VjF3d1NtMFhseDRWOE9wVHlzdmswQ3F0bVdiRVJwQVpVY1dhUjctbzdVZVdMY2tYUFhYMFFmMi1CR0I4Rw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T10:00:00+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDBMdzJMcGMwanNGaUhndHBEcFRoWkdRLTk4NHZSX0FuOHE2TEYtTm9rN3Nfb29ZTzdFdUsyQXp0djM5THFSQ3BZT0tBb1N6Q0QtVGg4WGVhRDhrNUJ3azFmMVgyWGVGMjlaTWwtVm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDBMdzJMcGMwanNGaUhndHBEcFRoWkdRLTk4NHZSX0FuOHE2TEYtTm9rN3Nfb29ZTzdFdUsyQXp0djM5THFSQ3BZT0tBb1N6Q0QtVGg4WGVhRDhrNUJ3azFmMVgyWGVGMjlaTWwtVm"
+    },
+    {
+      "id": "32e890f36bc6",
+      "title": "Charles Leclerc: Madrid qualifying to be \"one of the most challenging\" in F1 2026",
+      "title_fr": "Charles Leclerc: Madrid qualifying to be \"one of the most challenging\" in F1 2026",
+      "title_en": "Charles Leclerc: Madrid qualifying to be \"one of the most challenging\" in F1 2026",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-madrid-qualifying-to-be-one-of-the-most-challenging-in-f1-2026/10854841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0o5AqvjY/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-09-12T09:30:07+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc reckons qualifying at this weekend’s Spanish Grand Prix will be “one of the most challenging” of the 2026 Formula 1 season as drivers adapt to the new Madrid circuit.<br />The Madring ",
+      "summary_en": "Charles Leclerc reckons qualifying at this weekend’s Spanish Grand Prix will be “one of the most challenging” of the 2026 Formula 1 season as drivers adapt to the new Madrid circuit.<br />The Madring "
+    },
+    {
+      "id": "d9407a5f8a07",
+      "title": "Full throttle or not? Why Pirelli calls Madrid's La Monumental F1’s toughest corner",
+      "title_fr": "Full throttle or not? Why Pirelli calls Madrid's La Monumental F1’s toughest corner",
+      "title_en": "Full throttle or not? Why Pirelli calls Madrid's La Monumental F1’s toughest corner",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/full-throttle-or-not-why-pirelli-calls-madrids-la-monumental-f1s-toughest-corner/10854838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YE9EOqqY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-09-12T09:28:23+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the I",
+      "summary_en": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the I"
+    },
+    {
+      "id": "cbbb5dd76176",
+      "title": "F1, Grand Prix d’Espagne : à quelle heure et sur quelle chaîne TV voir les essais qualificatifs - Le Parisien",
+      "title_fr": "F1, Grand Prix d’Espagne : à quelle heure et sur quelle chaîne TV voir les essais qualificatifs - Le Parisien",
+      "title_en": "F1, Grand Prix d’Espagne : à quelle heure et sur quelle chaîne TV voir les essais qualificatifs - Le Parisien",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZWZiR3YxaHBBOUNoWURfS1JYNmc2M2FKNm42dC1oZUNCTDMyMWd5M25UcUJRdENiUkQtUFpiRDA5NEpwWjJVMmV1T0ozZlE1WTJaTEl0ZkMwbFFRdXNKS1F1dng5OVRSNU1RZ3UzVWZPTmF6VWx1V2pYNjI5emhvcGdhdjJHRTRCNlZBczlNY192a3R6cThhRkdNbGJOQW5JZzBWR2JwRGpwVzdvamkxcnpWQkJCdnFvRnkwVE1nTVQtNEdld0ZEdU1MOVNLU3plRmNJRXB6TGtCbG8wWVBYeXBtZHh0UXBrN3oxNGJQa1RMR2ZDVzZZX3BoQ2F5NksyeDdoZ1RsZw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T09:26:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPZWZiR3YxaHBBOUNoWURfS1JYNmc2M2FKNm42dC1oZUNCTDMyMWd5M25UcUJRdENiUkQtUFpiRDA5NEpwWjJVMmV1T0ozZlE1WTJaTEl0ZkMwbFFRdXNKS1F1dng5OVRSNU1RZ3UzVW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPZWZiR3YxaHBBOUNoWURfS1JYNmc2M2FKNm42dC1oZUNCTDMyMWd5M25UcUJRdENiUkQtUFpiRDA5NEpwWjJVMmV1T0ozZlE1WTJaTEl0ZkMwbFFRdXNKS1F1dng5OVRSNU1RZ3UzVW"
+    },
     {
       "id": "7f440a4f1781",
       "title": "Pain in Spain goes mainly down the drain, explains Permane",
@@ -39,6 +191,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNRmpGbjZLS3p2UnhJZ0N5Z25nb2xnV2g1bjltR01CWl91M3hrbExuZVFha2ZOamRrSmJXbDhVVUYyX1FXUy16Q0lWZHB0Q2pPYmJfSU5PZ3pBS0ZxQV9QMUVjTDJEOU9fSkhMQ3ByMm",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNRmpGbjZLS3p2UnhJZ0N5Z25nb2xnV2g1bjltR01CWl91M3hrbExuZVFha2ZOamRrSmJXbDhVVUYyX1FXUy16Q0lWZHB0Q2pPYmJfSU5PZ3pBS0ZxQV9QMUVjTDJEOU9fSkhMQ3ByMm"
+    },
+    {
+      "id": "14faaabf1913",
+      "title": "F1 - GP d'Espagne 2026 : à quelle heure suivre les qualifications ce samedi ? - Sport Auto",
+      "title_fr": "F1 - GP d'Espagne 2026 : à quelle heure suivre les qualifications ce samedi ? - Sport Auto",
+      "title_en": "F1 - GP d'Espagne 2026 : à quelle heure suivre les qualifications ce samedi ? - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHRKa0trYXRrZkZWN0NzbXZVUFVnaEtqaFdzeWYzR2FTLUktekljRXhmY0NvcVlfRmI4MHpFaGc2SEU0cFpJaUgtaE1PZF9oVC0xcjZlMUFrMzZpc0luYTc0VDg2VmMyTGxTS3VpOHVyNFNyR1FTOXcxVEI4N19oVkU1SGI3TTR1M09PZ1pXMGVZS3hWdXNqZ2NWUGhQRHBUZ1JMNUdwNmpKT1F6UXdVRDY3c2w5QmEwMTI3Q1dtaW9RMEVhWFBmUTlsT041YVRxQW9JZUtSWQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T08:30:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHRKa0trYXRrZkZWN0NzbXZVUFVnaEtqaFdzeWYzR2FTLUktekljRXhmY0NvcVlfRmI4MHpFaGc2SEU0cFpJaUgtaE1PZF9oVC0xcjZlMUFrMzZpc0luYTc0VDg2VmMyTGxTS3VpOH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWHRKa0trYXRrZkZWN0NzbXZVUFVnaEtqaFdzeWYzR2FTLUktekljRXhmY0NvcVlfRmI4MHpFaGc2SEU0cFpJaUgtaE1PZF9oVC0xcjZlMUFrMzZpc0luYTc0VDg2VmMyTGxTS3VpOH"
     },
     {
       "id": "42b93aabea22",
@@ -115,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlcwQlIwclNKQ2ROXzFLNkNCbE5ocUdINWlKb2xrZTlELWlpalc1cThvdS1oRmREeWJpa1EzUl9GVDA3a2RsdFpCU0JoVDM4eDBEVXpsb3h6SDIzcnpYYjA0aUw5NDJFN0EwQlh1NW",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlcwQlIwclNKQ2ROXzFLNkNCbE5ocUdINWlKb2xrZTlELWlpalc1cThvdS1oRmREeWJpa1EzUl9GVDA3a2RsdFpCU0JoVDM4eDBEVXpsb3h6SDIzcnpYYjA0aUw5NDJFN0EwQlh1NW"
+    },
+    {
+      "id": "00e4b61e475d",
+      "title": "Le programme et les résultats du Grand Prix d’Espagne de F1 2026 à Madrid - dicodusport.fr",
+      "title_fr": "Le programme et les résultats du Grand Prix d’Espagne de F1 2026 à Madrid - dicodusport.fr",
+      "title_en": "Le programme et les résultats du Grand Prix d’Espagne de F1 2026 à Madrid - dicodusport.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORWo5QkxBbTdLNGFvbkJzUURkT2hncFUxR2dPZ0ozbTdMQ2M5eVlVZHpVTGUwdGZ5emthSUdwSnFxZ2RPU2swaXJkUmVWajBIdkloNm45M2xrNmplb0hTaFhGQXYtNkNVaXJaWnBXSk5ob2s0S0U1bGI3Z0w5SDhJVFlVMmFZSVlWeXY5YU5mZ0pDaUF4LWJTcUlJSVBDYUszTERj?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T23:57:50+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORWo5QkxBbTdLNGFvbkJzUURkT2hncFUxR2dPZ0ozbTdMQ2M5eVlVZHpVTGUwdGZ5emthSUdwSnFxZ2RPU2swaXJkUmVWajBIdkloNm45M2xrNmplb0hTaFhGQXYtNkNVaXJaWnBXSk",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORWo5QkxBbTdLNGFvbkJzUURkT2hncFUxR2dPZ0ozbTdMQ2M5eVlVZHpVTGUwdGZ5emthSUdwSnFxZ2RPU2swaXJkUmVWajBIdkloNm45M2xrNmplb0hTaFhGQXYtNkNVaXJaWnBXSk"
     },
     {
       "id": "34b9cbb2aea0",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1"
-    },
-    {
-      "id": "0ea6c633f291",
-      "title": "Why Charles Leclerc isn't using latest ADUO2 engine in the Spanish GP",
-      "title_fr": "Why Charles Leclerc isn't using latest ADUO2 engine in the Spanish GP",
-      "title_en": "Why Charles Leclerc isn't using latest ADUO2 engine in the Spanish GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854550/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNkaD0/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-09-11T14:22:25+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari",
-      "summary_en": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari"
-    },
-    {
-      "id": "8f322f8d269b",
-      "title": "Cadillac hit with two fines after Sergio Perez FP1 infringements in Madrid",
-      "title_fr": "Cadillac hit with two fines after Sergio Perez FP1 infringements in Madrid",
-      "title_en": "Cadillac hit with two fines after Sergio Perez FP1 infringements in Madrid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-hit-with-two-fines-after-sergio-perez-fp1-pitlane-infringements-in-madrid/10854547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKNLOY/s6/sergio-perez-cadillac-2.jpg",
-      "published_at": "2026-09-11T14:06:35+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Cadillac Formula 1 team has been handed two fines after Sergio Perez was found to be speeding in the pitlane during the first free practice session at the Spanish Grand Prix in Madrid.<br />The Me",
-      "summary_en": "The Cadillac Formula 1 team has been handed two fines after Sergio Perez was found to be speeding in the pitlane during the first free practice session at the Spanish Grand Prix in Madrid.<br />The Me"
-    },
-    {
-      "id": "3a7e18309449",
-      "title": "First pictures: Formula 1 cars in action at the new Madring | Formula 1",
-      "title_fr": "First pictures: Formula 1 cars in action at the new Madring | Formula 1",
-      "title_en": "First pictures: Formula 1 cars in action at the new Madring | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/11/first-pictures-formula-1-cars-in-action-at-the-new-madring/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-14-05-03-1-2294696687.jpg",
-      "published_at": "2026-09-11T13:27:09+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 drivers had their first taste of the new Madring when practice for the Spanish Grand Prix began today.",
-      "summary_en": "Formula 1 drivers had their first taste of the new Madring when practice for the Spanish Grand Prix began today."
-    },
-    {
-      "id": "471501a8a00b",
-      "title": "GP d'Espagne I George Russell le plus rapide des essais libres 1, devant Kimi Antonelli et Charles Leclerc - Eurosport",
-      "title_fr": "GP d'Espagne I George Russell le plus rapide des essais libres 1, devant Kimi Antonelli et Charles Leclerc - Eurosport",
-      "title_en": "GP d'Espagne I George Russell le plus rapide des essais libres 1, devant Kimi Antonelli et Charles Leclerc - Eurosport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPdHhtN3ZBby1nSmRPdUh3VVlfdDA3Q1FkdHdvYTBZRXBJd21rNU5NenJnS0h5ZkVfM1VFMlJ4dGRMVVRVckdBSTdPLVo4UEhleW5haGpjS1JkX1JsWHFDVTRfUGlVYVZ1Q3cxbXdQZnp6azlJQ3Z1c1NPLWpGaks1NzhvcWw1UmFzWm9oYU44U0RZNkhoOGZBdXh6bVg3Tm9sSk5SVnB0WXRZRkFndHRPTDJUcDFKU0VRa21aRVFlNlB1RjBiRTZ5cndJYkhsUTJ6dE5SUUhldWlIOHB5Tm5ZY2F1bl9BNEVNZS1iQXRhUEd3eVAtNFZobU1SeklOUXppNVBGWlBZUjFhV2ktUmQ1NmhObk1wTklN?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T13:23:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdHhtN3ZBby1nSmRPdUh3VVlfdDA3Q1FkdHdvYTBZRXBJd21rNU5NenJnS0h5ZkVfM1VFMlJ4dGRMVVRVckdBSTdPLVo4UEhleW5haGpjS1JkX1JsWHFDVTRfUGlVYVZ1Q3cxbXdQZn",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPdHhtN3ZBby1nSmRPdUh3VVlfdDA3Q1FkdHdvYTBZRXBJd21rNU5NenJnS0h5ZkVfM1VFMlJ4dGRMVVRVckdBSTdPLVo4UEhleW5haGpjS1JkX1JsWHFDVTRfUGlVYVZ1Q3cxbXdQZn"
-    },
-    {
-      "id": "55a9d5eb29ad",
-      "title": "F1. George Russell réalise le meilleur temps aux essais libres 1 au Grand Prix d’Espagne - Ouest-France",
-      "title_fr": "F1. George Russell réalise le meilleur temps aux essais libres 1 au Grand Prix d’Espagne - Ouest-France",
-      "title_en": "F1. George Russell réalise le meilleur temps aux essais libres 1 au Grand Prix d’Espagne - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVUEwOVBjOGozdXBlSzhrSjhmUV9aTWszUlZDQi10Nk9wR1VzOW5FbC1NYS1ESlJqSVZMM3JIdUpoS2FXLXlQU1NoSVc0Q2M0N3lMT1doci1SRjRyTmdoa0oyRUU3RUdDWUtKbjRoT2tuazBTcFlMSkwxbXh0TjZkWVdBblBVWFd0VXEtRVpCUTdUQWFxaTliYm91UUw0SjQ2N3FBeXUtbDNaZmdSbmpNQW1LRmNENTdRQmJHcWU0LWtZcjVQWHQ4OWtQZGVvaTF5ZFNucGkwSTExX3VTMkR0d0FTMWpRTnVkU2xwSklOTDAzZmRtYWlfcWlrMA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T13:22:37+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVUEwOVBjOGozdXBlSzhrSjhmUV9aTWszUlZDQi10Nk9wR1VzOW5FbC1NYS1ESlJqSVZMM3JIdUpoS2FXLXlQU1NoSVc0Q2M0N3lMT1doci1SRjRyTmdoa0oyRUU3RUdDWUtKbjRoT2",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVUEwOVBjOGozdXBlSzhrSjhmUV9aTWszUlZDQi10Nk9wR1VzOW5FbC1NYS1ESlJqSVZMM3JIdUpoS2FXLXlQU1NoSVc0Q2M0N3lMT1doci1SRjRyTmdoa0oyRUU3RUdDWUtKbjRoT2"
-    },
-    {
-      "id": "1bcbe9adad71",
-      "title": "Aston Martin claims Lance Stroll is “unbeatable” at many F1 tracks",
-      "title_fr": "Aston Martin claims Lance Stroll is “unbeatable” at many F1 tracks",
-      "title_en": "Aston Martin claims Lance Stroll is “unbeatable” at many F1 tracks",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lance-stroll-is-as-quick-as-fernando-alonso-pedro-de-la-rosa-explains-how/10854447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BZRE2/s6/lance-stroll-aston-martin-raci-2.jpg",
-      "published_at": "2026-09-11T13:21:44+00:00",
-      "race_id": "canada",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Aston Martin Formula 1 ambassador Pedro de la Rosa has heaped praise on Lance Stroll, claiming the Canadian can be “as quick” as his team-mate Fernando Alonso.<br />Alonso and Stroll have been team-ma",
-      "summary_en": "Aston Martin Formula 1 ambassador Pedro de la Rosa has heaped praise on Lance Stroll, claiming the Canadian can be “as quick” as his team-mate Fernando Alonso.<br />Alonso and Stroll have been team-ma"
-    },
-    {
-      "id": "ce53a03e4c81",
-      "title": "Ferrari \"too late\" to prioritise Lewis Hamilton in F1 title fight, says Jolyon Palmer",
-      "title_fr": "Ferrari \"too late\" to prioritise Lewis Hamilton in F1 title fight, says Jolyon Palmer",
-      "title_en": "Ferrari \"too late\" to prioritise Lewis Hamilton in F1 title fight, says Jolyon Palmer",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-too-late-to-prioritise-lewis-hamilton-in-f1-title-fight-says-jolyon-palmer/10854528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRKVpY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-11T13:09:10+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver and F1 TV pundit Jolyon Palmer believes Ferrari has missed its window to prioritise Lewis Hamilton's championship bid, arguing that the Maranello outfit has already allowed its",
-      "summary_en": "Former Formula 1 driver and F1 TV pundit Jolyon Palmer believes Ferrari has missed its window to prioritise Lewis Hamilton's championship bid, arguing that the Maranello outfit has already allowed its"
-    },
-    {
-      "id": "074441406932",
-      "title": "Grand Prix d'Espagne de F1 : suivez la 2e séance d'essais libres à Madrid grâce au chronométrage en direct - Motorsport.com France",
-      "title_fr": "Grand Prix d'Espagne de F1 : suivez la 2e séance d'essais libres à Madrid grâce au chronométrage en direct - Motorsport.com France",
-      "title_en": "Grand Prix d'Espagne de F1 : suivez la 2e séance d'essais libres à Madrid grâce au chronométrage en direct - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0RGd28xWXoxajlkeW1ERVA1eUlPcVJOd0g2bHBWMlVOZklTUHllOGJqbjRmTXp4enhrTXZQY0tfTUUwSVIybWJwN1FYTTA4OFFWVnY3R3JYU2JVSEJkRmhoUV9WWVlGY0hsNkpDRjBncGYtY3NvTGhocndsM0dzYmdKYnptWGpKZ2xNemFvZnNDbnkyb2RoWFFDNkljbzB0?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T13:07:43+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0RGd28xWXoxajlkeW1ERVA1eUlPcVJOd0g2bHBWMlVOZklTUHllOGJqbjRmTXp4enhrTXZQY0tfTUUwSVIybWJwN1FYTTA4OFFWVnY3R3JYU2JVSEJkRmhoUV9WWVlGY0hsNkpDRj",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0RGd28xWXoxajlkeW1ERVA1eUlPcVJOd0g2bHBWMlVOZklTUHllOGJqbjRmTXp4enhrTXZQY0tfTUUwSVIybWJwN1FYTTA4OFFWVnY3R3JYU2JVSEJkRmhoUV9WWVlGY0hsNkpDRj"
-    },
-    {
-      "id": "0a3df5461e67",
-      "title": "George Russell devant Kimi Antonelli, les Mercedes dominent la première séance d'essais libres du GP d'Espagne sur le nouveau circuit de Madrid - L'Équipe",
-      "title_fr": "George Russell devant Kimi Antonelli, les Mercedes dominent la première séance d'essais libres du GP d'Espagne sur le nouveau circuit de Madrid - L'Équipe",
-      "title_en": "George Russell devant Kimi Antonelli, les Mercedes dominent la première séance d'essais libres du GP d'Espagne sur le nouveau circuit de Madrid - L'Équipe",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNU0NGT21mbGI3WjNPZjVfZzJ1NWdpZ1FoYUlCTS1GSzNiOG5BOUN6Q1FpNkVhcWtjWlZ1ejVsNkN4VW5OQnUwaWh4bGRrdHpqM3plQUdGM2ZDYWtvaVJBY2pHNTBNUUxHMGFlWGlzaGpPaU5FN2ctSGdkMDZvbXNsOXFIOTJUajNobXJBSGFJVXUxWGZhcDJmVDhXSjJ2QVE3MTN0TFFmU0pkX0hTa0JrR1hrN3kwU0h3WjFIYTlpZ2xMalZZeC1iSVR4SXZudUJHTWIzd0pUU0Rzbk1qbW5Kb3h4NU5HRzdIRlNRSEw3Y3V3NUxxcUxvZWhUUlg2MC1MNWdWcEx4SHNpQ1lnOXRrWFJtS25BY1VseGo1NFBMVQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T13:07:41+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxNU0NGT21mbGI3WjNPZjVfZzJ1NWdpZ1FoYUlCTS1GSzNiOG5BOUN6Q1FpNkVhcWtjWlZ1ejVsNkN4VW5OQnUwaWh4bGRrdHpqM3plQUdGM2ZDYWtvaVJBY2pHNTBNUUxHMGFlWGlzaG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxNU0NGT21mbGI3WjNPZjVfZzJ1NWdpZ1FoYUlCTS1GSzNiOG5BOUN6Q1FpNkVhcWtjWlZ1ejVsNkN4VW5OQnUwaWh4bGRrdHpqM3plQUdGM2ZDYWtvaVJBY2pHNTBNUUxHMGFlWGlzaG"
-    },
-    {
-      "id": "c3c6a3997695",
-      "title": "Pacesetter Russell says Madrid 'has less margin than Monaco'",
-      "title_fr": "Pacesetter Russell says Madrid 'has less margin than Monaco'",
-      "title_en": "Pacesetter Russell says Madrid 'has less margin than Monaco'",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b011/live/761700c0-adde-11f1-81d6-3b7ea3697b2b.jpg",
-      "published_at": "2026-09-11T12:46:45+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell goes quickest in first practice for the Spanish Grand Prix - hours after saying the circuit has little margin for error.",
-      "summary_en": "George Russell goes quickest in first practice for the Spanish Grand Prix - hours after saying the circuit has little margin for error."
     }
   ]
 }
