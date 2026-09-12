@@ -1,7 +1,292 @@
 {
-  "last_updated": "2026-09-12T11:59:21Z",
+  "last_updated": "2026-09-12T15:03:20Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "093865eac1b0",
+      "title": "Grand Prix d’Espagne 2026 : résultats des qualifications ! - L'Automobile Magazine",
+      "title_fr": "Grand Prix d’Espagne 2026 : résultats des qualifications ! - L'Automobile Magazine",
+      "title_en": "Grand Prix d’Espagne 2026 : résultats des qualifications ! - L'Automobile Magazine",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWtsTXdwMm1lNjF4QjE0UmFNMFROdTAtTmk1Y2ttZDRHd3dBbFFwVlJiakNjVndTLVR1VUszVldZNlotcmF0OFMzZTNaeWlJd1lMZ1hnamd2by1lQm84N0R6NFppR2x3N05qR29FcG9zbFd1Wnk2RktETnJvV2tUSnYzamFTRkxtcjNINGtlWEYzX2RvVkpZYV9uNjA0UDB5eGpLVFp4cEs4THlLUkJ6S3hR?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T14:00:15+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWtsTXdwMm1lNjF4QjE0UmFNMFROdTAtTmk1Y2ttZDRHd3dBbFFwVlJiakNjVndTLVR1VUszVldZNlotcmF0OFMzZTNaeWlJd1lMZ1hnamd2by1lQm84N0R6NFppR2x3N05qR29FcG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWtsTXdwMm1lNjF4QjE0UmFNMFROdTAtTmk1Y2ttZDRHd3dBbFFwVlJiakNjVndTLVR1VUszVldZNlotcmF0OFMzZTNaeWlJd1lMZ1hnamd2by1lQm84N0R6NFppR2x3N05qR29FcG"
+    },
+    {
+      "id": "834c0de24b26",
+      "title": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
+      "title_fr": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
+      "title_en": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzc0NFFEN1JlcW5wUFBBX3JyT0NDRVdVZ3lQQnBOdWtseVZIcHNSRy1vcUNiRWdYYWpOTlJySVpvUC10d1dwZE5nM1R3ekQ2cXNQSjd4cExhYm1Vbkd6dVk2aHQ4QXJfZkh0VjRYNjBlSHkzUWtnSFAwYmpVMVFNbUtVLXF3LTNfc0RpMm84d3RoVTBXNXZKNzl2VQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T13:38:07+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzc0NFFEN1JlcW5wUFBBX3JyT0NDRVdVZ3lQQnBOdWtseVZIcHNSRy1vcUNiRWdYYWpOTlJySVpvUC10d1dwZE5nM1R3ekQ2cXNQSjd4cExhYm1Vbkd6dVk2aHQ4QXJfZkh0VjRYNj",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzc0NFFEN1JlcW5wUFBBX3JyT0NDRVdVZ3lQQnBOdWtseVZIcHNSRy1vcUNiRWdYYWpOTlJySVpvUC10d1dwZE5nM1R3ekQ2cXNQSjd4cExhYm1Vbkd6dVk2aHQ4QXJfZkh0VjRYNj"
+    },
+    {
+      "id": "508bf827461a",
+      "title": "LIVE F1 - GP d’Espagne : les qualifications en direct à Madrid - Nextgen-Auto.com",
+      "title_fr": "LIVE F1 - GP d’Espagne : les qualifications en direct à Madrid - Nextgen-Auto.com",
+      "title_en": "LIVE F1 - GP d’Espagne : les qualifications en direct à Madrid - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RXa3dnTEN3aG1mdGl3QkhTX0YyNjNVRzVMejlCbXlpTVdXQmVPZzhWdGRHTzU0QWtYXzdXaXNsU0lJZl9vbmo0SXJtRGRFN0JxUzRlYWU3SWJ2U2U4aUotaUFMZm11QVV6RkRLam5MY3hvS3BiM1pncHU4aUxIUE5tajJDR0tCemUyWU9fZUdBeXd4ZVJjWnNONkxaQUx5a1VqTXVTbnJSOUJEZmhlTktXLTE3bEJZREhv?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T13:25:00+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RXa3dnTEN3aG1mdGl3QkhTX0YyNjNVRzVMejlCbXlpTVdXQmVPZzhWdGRHTzU0QWtYXzdXaXNsU0lJZl9vbmo0SXJtRGRFN0JxUzRlYWU3SWJ2U2U4aUotaUFMZm11QVV6RkRLam",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RXa3dnTEN3aG1mdGl3QkhTX0YyNjNVRzVMejlCbXlpTVdXQmVPZzhWdGRHTzU0QWtYXzdXaXNsU0lJZl9vbmo0SXJtRGRFN0JxUzRlYWU3SWJ2U2U4aUotaUFMZm11QVV6RkRLam"
+    },
+    {
+      "id": "a9bd6809fd20",
+      "title": "Race director issued “formal request” for Hamilton to stop driving damaged car | Formula 1",
+      "title_fr": "Race director issued “formal request” for Hamilton to stop driving damaged car | Formula 1",
+      "title_en": "Race director issued “formal request” for Hamilton to stop driving damaged car | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/12/race-director-issued-formal-request-for-hamilton-to-stop-driving-damaged-car/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-14-36-38-10-260911_R14_SPAGNA_DP_FGO04469.jpg",
+      "published_at": "2026-09-12T13:02:15+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton only parked his damaged Ferrari in practice after the team was ordered to stop him by race director Rui Marques.",
+      "summary_en": "Lewis Hamilton only parked his damaged Ferrari in practice after the team was ordered to stop him by race director Rui Marques."
+    },
+    {
+      "id": "a58ed636eaa6",
+      "title": "F1. GP d’Espagne : Hamilton termine dans le mur lors des essais 3, Antonelli aux commandes - ouest-france.fr",
+      "title_fr": "F1. GP d’Espagne : Hamilton termine dans le mur lors des essais 3, Antonelli aux commandes - ouest-france.fr",
+      "title_en": "F1. GP d’Espagne : Hamilton termine dans le mur lors des essais 3, Antonelli aux commandes - ouest-france.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWWNfR3VYdUg0clZpY1NQRXpfWkVtWFpuVURvRVdLSEFxa3c2ZnNVSGRTTE5MY3VVQlpHZEx2OGtYNWxOaFJtTEkycmFhTk41eGdFcm84SFFYQ0FOV2ZkVVdlQmt5OThzZ194QzdpNmJkUHIxcWtZTDZhdXFZUkhXZEVxWmhQMmJkclR4b2dzQ0lwazJn?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T12:59:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWW"
+    },
+    {
+      "id": "1d11e4792b13",
+      "title": "GP d'Espagne de F1 : le classement des Essais Libres 3, Lewis Hamilton et Oliver Bearman dans le mur, Esteban Ocon et Pierre Gasly en retrait - Turbo.fr",
+      "title_fr": "GP d'Espagne de F1 : le classement des Essais Libres 3, Lewis Hamilton et Oliver Bearman dans le mur, Esteban Ocon et Pierre Gasly en retrait - Turbo.fr",
+      "title_en": "GP d'Espagne de F1 : le classement des Essais Libres 3, Lewis Hamilton et Oliver Bearman dans le mur, Esteban Ocon et Pierre Gasly en retrait - Turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZVlPU0tDTTljUUFCbk13ODFPOFgtQjhpb1lCaEhZOTlicS1ieDEtUlNyTXlWZllTU01VOWlnQkY0ZkpzU3NtYlg5RGpxWV9ST25BNVpUbnZ2SzBaWVRocDRHN2xhdXZPVGdZYU45UXk1cFQyNlh5SXVCS2lFZXg1WFNzNkt1OWc0aGJjMk1RZFRrQkJGZzFmZndqc0t2VC1FMC1TNENoUGVJbkVUaw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T12:48:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZV",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZV"
+    },
+    {
+      "id": "751319305e40",
+      "title": "DIRECT. Formule 1 : c’est parti pour la Q1, suivez les qualifications du Grand Prix d’Espagne en live - ouest-france.fr",
+      "title_fr": "DIRECT. Formule 1 : c’est parti pour la Q1, suivez les qualifications du Grand Prix d’Espagne en live - ouest-france.fr",
+      "title_en": "DIRECT. Formule 1 : c’est parti pour la Q1, suivez les qualifications du Grand Prix d’Espagne en live - ouest-france.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNaWRmZmVKaUpSbTNzckdDV0Vrbl9jRjdNSlhzRHBtSWk4RUNDY2N2eEo1Qlo1NkR5ckgzZW9ZcXg1US1NZ1RWb2Z0c3U3Y1dCT0VONm45OWR3SFBRczJsb0Z5aDVkV1lUdmt3MGltc0dSQWI5aG0wLXdFVnZGRmU1ZHdiV0E5U0MzbDV1MzZWOFhlaDZZcGZkcF90VmJ6SllXQXJaX0tObi1yMkFsQ01GTWxKS0c1Y2tnM0loYzc5RVJZYzZXbGs5c2V5N3drZHdvZW0xT09NdnpmRk1WczN2dFh4UllWT0lsbVBHdVl6UUNSY1pEYWxPNGVKR3c3bG01QTZkS0Fwa1VNbUxuS1Z0SkprMS12c1VUc2J3S3VR?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T12:40:12+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNaWRmZmVKaUpSbTNzckdDV0Vrbl9jRjdNSlhzRHBtSWk4RUNDY2N2eEo1Qlo1NkR5ckgzZW9ZcXg1US1NZ1RWb2Z0c3U3Y1dCT0VONm45OWR3SFBRczJsb0Z5aDVkV1lUdm",
+      "summary_en": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNaWRmZmVKaUpSbTNzckdDV0Vrbl9jRjdNSlhzRHBtSWk4RUNDY2N2eEo1Qlo1NkR5ckgzZW9ZcXg1US1NZ1RWb2Z0c3U3Y1dCT0VONm45OWR3SFBRczJsb0Z5aDVkV1lUdm"
+    },
+    {
+      "id": "f2a3a562f39c",
+      "title": "Ben Sulayem wants rules changes to make Alonso’s Aston Martin more competitive | Formula 1",
+      "title_fr": "Ben Sulayem wants rules changes to make Alonso’s Aston Martin more competitive | Formula 1",
+      "title_en": "Ben Sulayem wants rules changes to make Alonso’s Aston Martin more competitive | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/12/ben-sulayem-wants-rules-changes-to-make-alonsos-aston-martin-more-competitive/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2024/08/racefansdotnet-24-08-14-11-59-31-2-XPB_1273173_HiRes.jpg",
+      "published_at": "2026-09-12T12:40:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "FIA president Mohammed Ben Sulayem says he wants to help give Fernando Alonso a more competitive car.",
+      "summary_en": "FIA president Mohammed Ben Sulayem says he wants to help give Fernando Alonso a more competitive car."
+    },
+    {
+      "id": "aeead09a62d3",
+      "title": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
+      "title_fr": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
+      "title_en": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-should-be-in-a-ferrari-after-monza-win-says-guenther-steiner/10854948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7Qldn6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-12T12:35:27+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes driver and current championship leader Kimi Antonelli \"should be in a Ferrari\" following his impressive win at the Italian Grand",
+      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes driver and current championship leader Kimi Antonelli \"should be in a Ferrari\" following his impressive win at the Italian Grand"
+    },
+    {
+      "id": "b691a7363cf9",
+      "title": "Kimi Antonelli domine les EL3 du Grand Prix d'Espagne, sorties de piste pour Hamilton et Bearman - L'Équipe",
+      "title_fr": "Kimi Antonelli domine les EL3 du Grand Prix d'Espagne, sorties de piste pour Hamilton et Bearman - L'Équipe",
+      "title_en": "Kimi Antonelli domine les EL3 du Grand Prix d'Espagne, sorties de piste pour Hamilton et Bearman - L'Équipe",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVg5NHZSVHZ0eklUeENhUmlPclFUODh2MTBBUnZsR09sdTJqOEcwVG5rbEFIUjVSNmtRa2dVbE94RzVCRko3ZWRRZFYxb1paUzdxM2pMWlFFWm5QUjNOZVhPcEJfLUlzakFrSTFNbnp1WDh2eng0cnV1Z0NpX192QWNMVWMtWm9WeXNNd0M4dHNDT3JQV015MUlpMWppRnpjazY4Ukt1WVdqdlBGQ2w2cmpOT1lJNExTYmxQZW5fdmlfMDM3TXJtblVSWEk4YU1rOEFERllpUHlDUTFJRzZVMg?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T12:19:33+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVg5NHZSVHZ0eklUeENhUmlPclFUODh2MTBBUnZsR09sdTJqOEcwVG5rbEFIUjVSNmtRa2dVbE94RzVCRko3ZWRRZFYxb1paUzdxM2pMWlFFWm5QUjNOZVhPcEJfLUlzakFrSTFNbn",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVg5NHZSVHZ0eklUeENhUmlPclFUODh2MTBBUnZsR09sdTJqOEcwVG5rbEFIUjVSNmtRa2dVbE94RzVCRko3ZWRRZFYxb1paUzdxM2pMWlFFWm5QUjNOZVhPcEJfLUlzakFrSTFNbn"
+    },
+    {
+      "id": "15cbd757fad1",
+      "title": "EL3 - Hamilton et Bearman dans le mur, Antonelli meilleur temps - Motorsport.com France",
+      "title_fr": "EL3 - Hamilton et Bearman dans le mur, Antonelli meilleur temps - Motorsport.com France",
+      "title_en": "EL3 - Hamilton et Bearman dans le mur, Antonelli meilleur temps - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjBnZllJN2pwNGVEb09IMHRDb1hka1Y4cmNTODlpWjltMmFqMDJRY3BQVmFfV2NFTVRON0F2UG9qLXJVZTRFU2tjb2stUEFXM0dSRFRBUV9DWU8teS1OMUFPMVI0RGtGQlJIZ3AtSWFNaWRQOFBOSTQ2a1lnUE5zUWk0T0dRUW1JX1Nsd3pFRU03NTdXeU5mamNuUDlGWGc?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T12:11:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjBnZllJN2pwNGVEb09IMHRDb1hka1Y4cmNTODlpWjltMmFqMDJRY3BQVmFfV2NFTVRON0F2UG9qLXJVZTRFU2tjb2stUEFXM0dSRFRBUV9DWU8teS1OMUFPMVI0RGtGQlJIZ3AtSW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjBnZllJN2pwNGVEb09IMHRDb1hka1Y4cmNTODlpWjltMmFqMDJRY3BQVmFfV2NFTVRON0F2UG9qLXJVZTRFU2tjb2stUEFXM0dSRFRBUV9DWU8teS1OMUFPMVI0RGtGQlJIZ3AtSW"
+    },
+    {
+      "id": "35436756a60a",
+      "title": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
+      "title_fr": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
+      "title_en": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/anthony-davidson-warns-lewis-hamilton-set-poor-example-for-young-drivers-in-madrid-fp3-incident/10854936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDPLL0/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-09-12T12:09:29+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver and Sky Sports analyst Anthony Davidson has argued that Lewis Hamilton set a bad example for junior drivers during the third practice session in Madrid.<br />Hamilton crashed a",
+      "summary_en": "Former Formula 1 driver and Sky Sports analyst Anthony Davidson has argued that Lewis Hamilton set a bad example for junior drivers during the third practice session in Madrid.<br />Hamilton crashed a"
+    },
+    {
+      "id": "3098141824c9",
+      "title": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
+      "title_fr": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
+      "title_en": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-tops-fp3-as-hamilton-and-bearman-crash/10854923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/24QGWpgY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-09-12T12:05:22+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 championship leader Kimi Antonelli will head into qualifying at the Spanish Grand Prix’s challenging Madring circuit with the fastest time - following a final practice session marred by two ",
+      "summary_en": "Formula 1 championship leader Kimi Antonelli will head into qualifying at the Spanish Grand Prix’s challenging Madring circuit with the fastest time - following a final practice session marred by two "
+    },
+    {
+      "id": "1a15c14e21e9",
+      "title": "LIVE F1 - Les qualifications du Grand Prix d'Espagne en direct - Motorsport.com France",
+      "title_fr": "LIVE F1 - Les qualifications du Grand Prix d'Espagne en direct - Motorsport.com France",
+      "title_en": "LIVE F1 - Les qualifications du Grand Prix d'Espagne en direct - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2w4VTJuNm5YZng5Tm5tOVFhT1N1TDNhMFVnd0pNd3ppSG9VUktvemIwMG9EZUJST2VYbWszSk5HaXVEcVpIRXFwNDF1R0FCMEI3YjNKNVNpNWM2NkJ6TmhNUlpZMGZqZjEyLW96d2w5SEY0MW9rdlZnU1hhOTUzVk9RdUoyVVduOV9wcllzN3A3RXNCbW9tZGF4eTJCYkVURVkxX19ITXFZZw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T12:04:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2w4VTJuNm5YZng5Tm5tOVFhT1N1TDNhMFVnd0pNd3ppSG9VUktvemIwMG9EZUJST2VYbWszSk5HaXVEcVpIRXFwNDF1R0FCMEI3YjNKNVNpNWM2NkJ6TmhNUlpZMGZqZjEyLW96d2",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2w4VTJuNm5YZng5Tm5tOVFhT1N1TDNhMFVnd0pNd3ppSG9VUktvemIwMG9EZUJST2VYbWszSk5HaXVEcVpIRXFwNDF1R0FCMEI3YjNKNVNpNWM2NkJ6TmhNUlpZMGZqZjEyLW96d2"
+    },
+    {
+      "id": "bb28ac5fc72c",
+      "title": "F1 Spanish GP: Kimi Antonelli tops red-flagged FP3 following Lewis Hamilton, Oliver Bearman crashes",
+      "title_fr": "F1 Spanish GP: Kimi Antonelli tops red-flagged FP3 following Lewis Hamilton, Oliver Bearman crashes",
+      "title_en": "F1 Spanish GP: Kimi Antonelli tops red-flagged FP3 following Lewis Hamilton, Oliver Bearman crashes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-fp3-report/10854919/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyK5JQ6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-09-12T12:02:07+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Championship leader Kimi Antonelli heads into qualifying at the Spanish Grand Prix's challenging Madring circuit with the fastest time, following a final Formula 1 practice session marred by two crash",
+      "summary_en": "Championship leader Kimi Antonelli heads into qualifying at the Spanish Grand Prix's challenging Madring circuit with the fastest time, following a final Formula 1 practice session marred by two crash"
+    },
     {
       "id": "419c55b7fc22",
       "title": "Lewis Hamilton under fire after ignoring Ferrari calls to stop damaged car in Madrid FP3",
@@ -28,6 +313,25 @@
       "title_en": "Hamilton crash delays completion of final practice session at Madring | Formula 1",
       "source": "racefans.net",
       "url": "https://www.racefans.net/2026/09/12/hamilton-crash-delays-completion-of-final-practice-session-at-madring/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-17-12-09-8-260911_R14_MADRID_DP_XB5_8512.JPG.jpg",
+      "published_at": "2026-09-12T11:31:51+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Final practice for the Spanish Grand Prix at the Madring did not finish on time after the session was stopped for barrier repairs.",
+      "summary_en": "Final practice for the Spanish Grand Prix at the Madring did not finish on time after the session was stopped for barrier repairs."
+    },
+    {
+      "id": "c7d5bfba3b75",
+      "title": "Antonelli quickest in final practice after Hamilton and Bearman crash | Formula 1",
+      "title_fr": "Antonelli quickest in final practice after Hamilton and Bearman crash | Formula 1",
+      "title_en": "Antonelli quickest in final practice after Hamilton and Bearman crash | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/12/antonelli-quickest-in-final-practice-after-hamilton-and-bearman-crash/",
       "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-17-12-09-8-260911_R14_MADRID_DP_XB5_8512.JPG.jpg",
       "published_at": "2026-09-12T11:31:51+00:00",
       "race_id": "spain-barcelona",
@@ -402,6 +706,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1"
     },
     {
+      "id": "c3c6a3997695",
+      "title": "New Madrid circuit very high risk, says Russell",
+      "title_fr": "New Madrid circuit very high risk, says Russell",
+      "title_en": "New Madrid circuit very high risk, says Russell",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd8/live/b3bd0ba0-ae00-11f1-9b77-ddcb406ce9c0.jpg",
+      "published_at": "2026-09-11T18:17:36+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell says the new Madrid circuit is \"very high risk\" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix.",
+      "summary_en": "George Russell says the new Madrid circuit is \"very high risk\" after Arvid Lindblad crashes in Friday practice at the Spanish Grand Prix."
+    },
+    {
       "id": "4171727b467e",
       "title": "“High risk” and a chance of “chaos” - drivers open up on F1’s new Madring circuit",
       "title_fr": "“High risk” and a chance of “chaos” - drivers open up on F1’s new Madring circuit",
@@ -438,329 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.<br />Having ",
       "summary_en": "The Spanish Grand Prix's Madring circuit has received a thumbs-up from several leading Formula 1 drivers as they praised its high-commitment layout, although not everyone is as impressed.<br />Having "
-    },
-    {
-      "id": "db4d1ed07a71",
-      "title": "Max Verstappen’s short but telling reaction to F1’s new Madrid circuit",
-      "title_fr": "Max Verstappen’s short but telling reaction to F1’s new Madrid circuit",
-      "title_en": "Max Verstappen’s short but telling reaction to F1’s new Madrid circuit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-short-but-telling-reaction-to-f1s-new-madrid-circuit/10854695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27NoKlx0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-11T18:00:32+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1’s first encounter with the circuit around the IFEMA complex in Madrid has produced less chaos than some in the paddock may have feared. While the F3 and F2 sessions have seen several crashes",
-      "summary_en": "Formula 1’s first encounter with the circuit around the IFEMA complex in Madrid has produced less chaos than some in the paddock may have feared. While the F3 and F2 sessions have seen several crashes"
-    },
-    {
-      "id": "e583fec01096",
-      "title": "David Croft hails Kimi Antonelli's maturity as F1 title charge gathers pace",
-      "title_fr": "David Croft hails Kimi Antonelli's maturity as F1 title charge gathers pace",
-      "title_en": "David Croft hails Kimi Antonelli's maturity as F1 title charge gathers pace",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/david-croft-hails-kimi-antonellis-maturity-as-f1-title-charge-gathers-pace/10854687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7vdBb6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-11T17:58:32+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Sky Sports Formula 1 lead commentator David Croft has backed Mercedes driver Kimi Antonelli to become a younger world champion than Max Verstappen.<br />Antonelli delivered an incredible performance a",
-      "summary_en": "Sky Sports Formula 1 lead commentator David Croft has backed Mercedes driver Kimi Antonelli to become a younger world champion than Max Verstappen.<br />Antonelli delivered an incredible performance a"
-    },
-    {
-      "id": "9d699431962c",
-      "title": "F1/GP d'Espagne - Essais libres 2: Antonelli le plus rapide - France 24",
-      "title_fr": "F1/GP d'Espagne - Essais libres 2: Antonelli le plus rapide - France 24",
-      "title_en": "F1/GP d'Espagne - Essais libres 2: Antonelli le plus rapide - France 24",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZpamF0eHNYY2tmSVViQUJQUDhpekNWZXFuSmVPOXNBNV9EQTFXVlZHamxhRGNnbzRtOGZhVk5rMElKVmV6Z1l0QnRlQmFrTFhzaW1nMmVpQWhHb2xvVUFqLVNEZHlXOHl4dkc2VXhyWnNaelRVYTZhazlEbkVSd2h0NVZEUndZcWxZUlpYc3c4WEVKZVBHaGFKSWk2MUcxVUp0Z0ZJd0ltQWktUWc?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T17:29:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZpamF0eHNYY2tmSVViQUJQUDhpekNWZXFuSmVPOXNBNV9EQTFXVlZHamxhRGNnbzRtOGZhVk5rMElKVmV6Z1l0QnRlQmFrTFhzaW1nMmVpQWhHb2xvVUFqLVNEZHlXOHl4dkc2VX",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZpamF0eHNYY2tmSVViQUJQUDhpekNWZXFuSmVPOXNBNV9EQTFXVlZHamxhRGNnbzRtOGZhVk5rMElKVmV6Z1l0QnRlQmFrTFhzaW1nMmVpQWhHb2xvVUFqLVNEZHlXOHl4dkc2VX"
-    },
-    {
-      "id": "3ec92d64064c",
-      "title": "F1 Spanish GP at Madring: Saturday schedule, weather forecast and how to watch",
-      "title_fr": "F1 Spanish GP at Madring: Saturday schedule, weather forecast and how to watch",
-      "title_en": "F1 Spanish GP at Madring: Saturday schedule, weather forecast and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-at-madring-saturday-schedule-weather-forecast-and-how-to-watch/10854656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6VyKmB4Y/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-11T17:22:55+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 heads into Saturday at Madring with Kimi Antonelli fastest after a tricky second practice session for the Spanish Grand Prix.<br />The Mercedes championship leader pipped Ferrari’s Charles L",
-      "summary_en": "Formula 1 heads into Saturday at Madring with Kimi Antonelli fastest after a tricky second practice session for the Spanish Grand Prix.<br />The Mercedes championship leader pipped Ferrari’s Charles L"
-    },
-    {
-      "id": "fd7af9f1b116",
-      "title": "Alonso cannot leave F1 while uncompetitive - FIA boss",
-      "title_fr": "Alonso cannot leave F1 while uncompetitive - FIA boss",
-      "title_en": "Alonso cannot leave F1 while uncompetitive - FIA boss",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3ad/live/40300d40-ae00-11f1-9b77-ddcb406ce9c0.jpg",
-      "published_at": "2026-09-11T17:03:48+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "FIA president Mohammed Ben Sulayem says it would be \"not acceptable\" for Fernando Alonso to leave F1 while he is in an uncompetitive position.",
-      "summary_en": "FIA president Mohammed Ben Sulayem says it would be \"not acceptable\" for Fernando Alonso to leave F1 while he is in an uncompetitive position."
-    },
-    {
-      "id": "6391422c3a98",
-      "title": "How to follow Spanish Grand Prix on the BBC",
-      "title_fr": "How to follow Spanish Grand Prix on the BBC",
-      "title_en": "How to follow Spanish Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g72gw7pkdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74bb/live/326372c0-adff-11f1-8169-6fdea7f79791.jpg",
-      "published_at": "2026-09-11T16:45:13+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit.",
-      "summary_en": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 11-13 September at the new Madring circuit."
-    },
-    {
-      "id": "13ead0188e27",
-      "title": "Kimi Antonelli reprend la main lors des essais libres 2 du Grand Prix d'Espagne devant les Ferrari, Lindblad rapide mais accidenté - L'Équipe",
-      "title_fr": "Kimi Antonelli reprend la main lors des essais libres 2 du Grand Prix d'Espagne devant les Ferrari, Lindblad rapide mais accidenté - L'Équipe",
-      "title_en": "Kimi Antonelli reprend la main lors des essais libres 2 du Grand Prix d'Espagne devant les Ferrari, Lindblad rapide mais accidenté - L'Équipe",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQS01nY1hEZUVyOXpDQnFiUWcyUjNlVUYxM0hURWxQX2lNUjdqM014VkNoMHI1TlA2RnFoU3hDeWREMzhRUjVVNVRmbS1ZM1M2bmZQS0NJc3I2VDd2a2VkUFRZNGF1dzVkUkVUUl83cldNVjRZdnF6TmpUWjZhVnJxWFN2c29VcUozSzhXVEhIb3l2RWM5RVc3SUFORE9JandMdXNLSll2M0ZpLTNTOFZZX3lmTlJSM0N4VkdzczdNMExuWDEwOFZiMy1CdS1uVk5oeHZERmJfQXgxcC0zNEo3dDhxUndoMm1Rc1VETWhMSVNiQzIzSWZkYnA2ZmRqN3RRNFVsZGxFTkU5TGtES3c?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T16:26:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQS01nY1hEZUVyOXpDQnFiUWcyUjNlVUYxM0hURWxQX2lNUjdqM014VkNoMHI1TlA2RnFoU3hDeWREMzhRUjVVNVRmbS1ZM1M2bmZQS0NJc3I2VDd2a2VkUFRZNGF1dzVkUkVUUl83cl",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQS01nY1hEZUVyOXpDQnFiUWcyUjNlVUYxM0hURWxQX2lNUjdqM014VkNoMHI1TlA2RnFoU3hDeWREMzhRUjVVNVRmbS1ZM1M2bmZQS0NJc3I2VDd2a2VkUFRZNGF1dzVkUkVUUl83cl"
-    },
-    {
-      "id": "171fb5ebd997",
-      "title": "GP d'Espagne de F1 : le classement des Essais Libres 1, Pierre Gasly aux portes du Top 10 - Turbo.fr",
-      "title_fr": "GP d'Espagne de F1 : le classement des Essais Libres 1, Pierre Gasly aux portes du Top 10 - Turbo.fr",
-      "title_en": "GP d'Espagne de F1 : le classement des Essais Libres 1, Pierre Gasly aux portes du Top 10 - Turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3IxQ0lLVDVlWXAwakNKMm10d3k2Yk5rNzNTVTE3TzFTN1BNV3o2YVJyaFowLUZxX01zRVMybS1HVEdteTJTUFpscGVXU0ZNWjliM3l6ZmU2amREbHRvN3BaUThrOU4tem5oOUFZemsxVkROREVXU3YySHkxMUJXTkQyNmdTWS11cEh0NEN5QmlfaENYeFUySXctdWhHYzMtMWZDSklyZW9VV1RzcGlSLXQ3bWhSZDhFYkJkclZNenRiS1o5WFVKQ3hLMjFmRzQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T16:19:27+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3IxQ0lLVDVlWXAwakNKMm10d3k2Yk5rNzNTVTE3TzFTN1BNV3o2YVJyaFowLUZxX01zRVMybS1HVEdteTJTUFpscGVXU0ZNWjliM3l6ZmU2amREbHRvN3BaUThrOU4tem5oOUFZem",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3IxQ0lLVDVlWXAwakNKMm10d3k2Yk5rNzNTVTE3TzFTN1BNV3o2YVJyaFowLUZxX01zRVMybS1HVEdteTJTUFpscGVXU0ZNWjliM3l6ZmU2amREbHRvN3BaUThrOU4tem5oOUFZem"
-    },
-    {
-      "id": "c3eb9dbefc83",
-      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-      "title_fr": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-      "title_en": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/01QNkoe0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-09-11T16:14:44+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed.<br />Antone",
-      "summary_en": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed.<br />Antone"
-    },
-    {
-      "id": "c0be5ffeb954",
-      "title": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
-      "title_fr": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
-      "title_en": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-fp2-report/10854600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YWKAqVyY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-09-11T16:11:52+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes driver Kimi Antonelli topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at a hot and challenging Madring circuit.<br />Antonelli ",
-      "summary_en": "Mercedes driver Kimi Antonelli topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at a hot and challenging Madring circuit.<br />Antonelli "
-    },
-    {
-      "id": "d44eb2af4fee",
-      "title": "EL2 - Antonelli devance les Ferrari, Lindblad premier dans le mur - Motorsport.com France",
-      "title_fr": "EL2 - Antonelli devance les Ferrari, Lindblad premier dans le mur - Motorsport.com France",
-      "title_en": "EL2 - Antonelli devance les Ferrari, Lindblad premier dans le mur - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUhFaFIxUjVUbXRPa2RtLTR3a1hNdmh6S0lsZ005Y0NIOXlzUFdkSWtMVUdwSmZ4bzhzbi1vbElrRF9xaWIydnpuQXEwdzRPeFE1Q0h2ZUdiMEExWHI3bi1TcVozZ2VIaVAtY1ZJTG5JNzdFb3liblNkX3hUNU5pTWFtSi1HMTJRRG1MaXhINmVGbEZSS3RoeUFJNXRfUQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T16:09:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaUhFaFIxUjVUbXRPa2RtLTR3a1hNdmh6S0lsZ005Y0NIOXlzUFdkSWtMVUdwSmZ4bzhzbi1vbElrRF9xaWIydnpuQXEwdzRPeFE1Q0h2ZUdiMEExWHI3bi1TcVozZ2VIaVAtY1ZJTG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaUhFaFIxUjVUbXRPa2RtLTR3a1hNdmh6S0lsZ005Y0NIOXlzUFdkSWtMVUdwSmZ4bzhzbi1vbElrRF9xaWIydnpuQXEwdzRPeFE1Q0h2ZUdiMEExWHI3bi1TcVozZ2VIaVAtY1ZJTG"
-    },
-    {
-      "id": "7615285e4129",
-      "title": "Antonelli leads Ferrari pair in second practice as Lindblad crashes | Formula 1",
-      "title_fr": "Antonelli leads Ferrari pair in second practice as Lindblad crashes | Formula 1",
-      "title_en": "Antonelli leads Ferrari pair in second practice as Lindblad crashes | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/11/antonelli-leads-ferrari-pair-in-second-practice-as-lindblad-crashes/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-13-57-16-7-11-friday-madrid-2026.jpg",
-      "published_at": "2026-09-11T16:04:18+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli kept Mercedes ahead in the second practice session. Arvid Lindblad took a strong fourth but crashed.",
-      "summary_en": "Andrea Kimi Antonelli kept Mercedes ahead in the second practice session. Arvid Lindblad took a strong fourth but crashed."
-    },
-    {
-      "id": "9a02b6c64adb",
-      "title": "GP d’Espagne, EL2 : Antonelli devance les Ferrari, Lindblad est 4e et dans le mur - Nextgen-Auto.com",
-      "title_fr": "GP d’Espagne, EL2 : Antonelli devance les Ferrari, Lindblad est 4e et dans le mur - Nextgen-Auto.com",
-      "title_en": "GP d’Espagne, EL2 : Antonelli devance les Ferrari, Lindblad est 4e et dans le mur - Nextgen-Auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0tGUmZWelZTUWxMcVNzWG56T1FnZnNQemRtazRHdHd1SXFzNGU1ekxtUlpXX01zaDBIcXZUbFBDN0NaZ0tBV1d5V3BIMHJBNDVkYVZKVURGTzR2OXFHWTlUOC05QjlYWW1vQkxwR0c2RjdtM2dOMjFzRlc1LURNVHJuU25BNDJOM05VOGhEdGM2X0ZWWDJSbmxhQVNOMU5Ydzc4bm1KY0ozbEduWXlfT2R5cF94a3ZrTWt4WU5ld2ZlSUhhUnI3bm5EN0dHRTZRMjFCaQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T16:01:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0tGUmZWelZTUWxMcVNzWG56T1FnZnNQemRtazRHdHd1SXFzNGU1ekxtUlpXX01zaDBIcXZUbFBDN0NaZ0tBV1d5V3BIMHJBNDVkYVZKVURGTzR2OXFHWTlUOC05QjlYWW1vQkxwR0",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0tGUmZWelZTUWxMcVNzWG56T1FnZnNQemRtazRHdHd1SXFzNGU1ekxtUlpXX01zaDBIcXZUbFBDN0NaZ0tBV1d5V3BIMHJBNDVkYVZKVURGTzR2OXFHWTlUOC05QjlYWW1vQkxwR0"
-    },
-    {
-      "id": "e624a4c91509",
-      "title": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
-      "title_fr": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
-      "title_en": "Juan Pablo Montoya says Madring is first 2026 F1 track he wants to drive",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-says-madring-is-first-2026-f1-track-he-wants-to-drive/10854613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YBVokDzY/s6/juan-pablo-montoya.jpg",
-      "published_at": "2026-09-11T15:58:58+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver Juan Pablo Montoya has praised the brand-new Madring circuit, revealing that it is the first track of the 2026 season that has made him want to get back behind the wheel.<br />",
-      "summary_en": "Former Formula 1 driver Juan Pablo Montoya has praised the brand-new Madring circuit, revealing that it is the first track of the 2026 season that has made him want to get back behind the wheel.<br />"
-    },
-    {
-      "id": "b23f34a37496",
-      "title": "Andrew Benson Q&A: Send us your questions",
-      "title_fr": "Andrew Benson Q&A: Send us your questions",
-      "title_en": "Andrew Benson Q&A: Send us your questions",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
-      "published_at": "2026-09-11T15:14:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now.",
-      "summary_en": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now."
-    },
-    {
-      "id": "1a78383e8413",
-      "title": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
-      "title_fr": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
-      "title_en": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2wlKoEMY/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-09-11T14:33:31+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari",
-      "summary_en": "Charles Leclerc is still feeling the pain of smiting the wall at the exit of the Parabolica in last weekend's Italian Grand Prix, and the result of the crash is that he will not be able to use Ferrari"
-    },
-    {
-      "id": "cf2c0286d1d3",
-      "title": "LIVE F1 - GP d’Espagne : les essais libres 2 en direct à Madrid - Nextgen-Auto.com",
-      "title_fr": "LIVE F1 - GP d’Espagne : les essais libres 2 en direct à Madrid - Nextgen-Auto.com",
-      "title_en": "LIVE F1 - GP d’Espagne : les essais libres 2 en direct à Madrid - Nextgen-Auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1h6WE8wLTMxSDdQMEJwRGE3NTNWSnZQUFRmWFo4UGZnWERNUy1UTXk2Nk03WUt0dzVpYkIzQkRTZGlvNEM5MWdWMUhyaDZJOFFMX215Mg?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T14:30:00+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpKcHVMLVRhX29uTHE5VlE1LXYwN0N1OVhSNWtHYkdtd1NVTHlIOTdTWDVTdnlzQ25fRHBMQXFDTWd2Q1oxWDI4MXV3RE1sbFptS0hvS2haTzFYWTllUWVjekUxN3hxeUVYNWV4c1"
     }
   ]
 }
