@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T23:41:51Z",
+  "last_updated": "2026-09-12T02:44:54Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
     {
@@ -77,6 +77,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell was the fastest long-run driver with a lot of fuel on board. His closest challenger was Red Bull’s Max Verstappen over Friday’s practice sessions ahead of the Formula 1 Spanish Grand Pr",
       "summary_en": "George Russell was the fastest long-run driver with a lot of fuel on board. His closest challenger was Red Bull’s Max Verstappen over Friday’s practice sessions ahead of the Formula 1 Spanish Grand Pr"
+    },
+    {
+      "id": "df96d2c8aa0a",
+      "title": "LIVE F1 : Les essais libres 1 du GP d’Espagne 2026 en direct - F1ACTU",
+      "title_fr": "LIVE F1 : Les essais libres 1 du GP d’Espagne 2026 en direct - F1ACTU",
+      "title_en": "LIVE F1 : Les essais libres 1 du GP d’Espagne 2026 en direct - F1ACTU",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1kyN2ZrNVlmS255VTlzQV9RLVlVdzJ5YkM4?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-11T18:22:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2UxYkQ5RHFPWHVzMG4xZnhlSEpoZ1V1UHFBMy01dXYzSGd6dDZNZkZrQjhsekNXajNNMlRBWHVYa0Q3Y19Pd2RuTnQ0bnpiRUxBMzhnWTZXeFFaSGRQLVN2NW05U2UtTWc2T2FYV1"
     },
     {
       "id": "4171727b467e",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ej",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ej"
-    },
-    {
-      "id": "918e7fae1784",
-      "title": "George Russell 'overanalysing everything' as Kimi Antonelli extends F1 lead, says former driver",
-      "title_fr": "George Russell 'overanalysing everything' as Kimi Antonelli extends F1 lead, says former driver",
-      "title_en": "George Russell 'overanalysing everything' as Kimi Antonelli extends F1 lead, says former driver",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-overanalysing-everything-as-kimi-antonelli-extends-f1-lead-says-former-driver/10854500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgMqOY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-09-11T12:00:32+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver Juan Pablo Montoya has claimed that while George Russell is \"trying to overanalyse everything\" behind the wheel, his team-mate and current championship leader Kimi Antonelli is",
-      "summary_en": "Former Formula 1 driver Juan Pablo Montoya has claimed that while George Russell is \"trying to overanalyse everything\" behind the wheel, his team-mate and current championship leader Kimi Antonelli is"
     }
   ]
 }
