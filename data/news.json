@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-12T02:46:10Z",
+  "last_updated": "2026-09-12T05:48:45Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "1a22dd110779",
+      "title": "F1. À quelle heure et sur quelle chaîne suivre les qualifications du Grand Prix d’Espagne ? - Ouest-France",
+      "title_fr": "F1. À quelle heure et sur quelle chaîne suivre les qualifications du Grand Prix d’Espagne ? - Ouest-France",
+      "title_en": "F1. À quelle heure et sur quelle chaîne suivre les qualifications du Grand Prix d’Espagne ? - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlcwQlIwclNKQ2ROXzFLNkNCbE5ocUdINWlKb2xrZTlELWlpalc1cThvdS1oRmREeWJpa1EzUl9GVDA3a2RsdFpCU0JoVDM4eDBEVXpsb3h6SDIzcnpYYjA0aUw5NDJFN0EwQlh1NWF1QVZhSnljV2tvWk9XeG5STkxOTDByWjNscjFZVTFrMVcyM3BMNF9qLTk3bkZUMWh1SmxhZ2VWdFBYQXk5azBRMVdtQVl0MTBaMktFZXhCU004MEhqMllSMm9nNWdWVEJuQTFCR2pqcDZSdjY4ME9odmFSYTY0QTdUbDhzSjVLSUFoTTBFZEljcGVRRVM?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T04:28:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlcwQlIwclNKQ2ROXzFLNkNCbE5ocUdINWlKb2xrZTlELWlpalc1cThvdS1oRmREeWJpa1EzUl9GVDA3a2RsdFpCU0JoVDM4eDBEVXpsb3h6SDIzcnpYYjA0aUw5NDJFN0EwQlh1NW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlcwQlIwclNKQ2ROXzFLNkNCbE5ocUdINWlKb2xrZTlELWlpalc1cThvdS1oRmREeWJpa1EzUl9GVDA3a2RsdFpCU0JoVDM4eDBEVXpsb3h6SDIzcnpYYjA0aUw5NDJFN0EwQlh1NW"
+    },
     {
       "id": "34b9cbb2aea0",
       "title": "Max Verstappen reveals laid-back approach to 100-driver Silverstone challenge",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari team principal Fred Vasseur is facing a \"tremendous amount\" of pressure to establish clear rules of engagement between Lewis Hamilton and Charles Leclerc, according to former IndyCar Series dr",
       "summary_en": "Ferrari team principal Fred Vasseur is facing a \"tremendous amount\" of pressure to establish clear rules of engagement between Lewis Hamilton and Charles Leclerc, according to former IndyCar Series dr"
-    },
-    {
-      "id": "c5a07df10705",
-      "title": "F1 : Madring, le nouveau circuit du GP d'Espagne à Madrid - rts.ch",
-      "title_fr": "F1 : Madring, le nouveau circuit du GP d'Espagne à Madrid - rts.ch",
-      "title_en": "F1 : Madring, le nouveau circuit du GP d'Espagne à Madrid - rts.ch",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ejcxS0wxLVFWR0xXTlcwYnotNGZBN1RMS24tNzVYVGNhNEJFRW81UUdsdHFScXduTkNQcW1XYmVlN191YWNRT2dkVQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-11T12:15:03+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ej",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQnJGZmtiX29YQjB1T2YxLVY5SEgtOFRpMUlka1pDaFpuUnB6Qm5uV2NtMlo0cFN2TTJDU1o4aFZXLUVYNi0zaE52eDhPM3hjM1dhMjlCMFdTNVN3QzhDeW16VFZRZXRYZDd6TFc1ej"
     }
   ]
 }
