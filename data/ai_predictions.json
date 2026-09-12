@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:00:21Z",
+  "generated_at": "2026-09-12T13:00:24Z",
   "model": "claude",
   "predictions": [
     {
@@ -40,12 +40,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "hamilton",
-      "reasoning_fr": "Mercedes domine nettement le rythme longue distance en essais libres à Madring, Antonelli en pleine confiance après Monza. Russell complète le doublé Mercedes. Hamilton profite de l'expérience Ferrari sur un circuit inédit et risqué pour prendre la troisième marche.",
-      "reasoning_en": "Mercedes clearly leads long-run pace in Spanish GP practice, with Antonelli riding high confidence after Monza. Russell secures the Mercedes one-two. Hamilton leverages Ferrari experience on this new, high-risk circuit to claim third.",
+      "reasoning_fr": "Antonelli domine la saison et Mercedes semble la plus régulière. Russell complète un probable doublé. Hamilton, malgré le crash en FP3 endommageant sa voiture, reste rapide sur une piste où Ferrari peut briller en qualifs.",
+      "reasoning_en": "Antonelli leads the standings with Mercedes looking strongest overall, likely delivering a team one-two with Russell. Hamilton, despite the FP3 crash damaging his car, remains a podium threat given Ferrari's pace at this challenging Madring layout.",
       "confidence": "medium",
-      "key_factor_fr": "Mercedes dominant en rythme longue distance aux essais",
+      "key_factor_fr": "Domination Mercedes, incertitude Ferrari après le crash Hamilton",
       "news_used_ids": [],
-      "generated_at": "2026-09-12T05:00:13Z"
+      "generated_at": "2026-09-12T13:00:13Z"
     },
     {
       "event_id": "spanish_qualifying",
@@ -54,13 +54,13 @@
       "session_date": "2026-09-12T14:00:00+00:00",
       "p1": "antonelli",
       "p2": "russell",
-      "p3": "hamilton",
-      "reasoning_fr": "Antonelli domine le championnat avec Mercedes en grande forme cette saison, le rythme en EL1 semble confirmer leur avantage à Madring. Russell suit logiquement en tant que coéquipier compétitif. Hamilton, solide chez Ferrari, complète le trio de tête sur un circuit exigeant en aérodynamisme.",
-      "reasoning_en": "Antonelli leads the championship with Mercedes showing strong pace this season, and FP1 trends at Madring seem to confirm their edge. Russell follows as a consistently competitive teammate. Hamilton, strong at Ferrari, rounds out the top three on this aero-demanding circuit.",
+      "p3": "norris",
+      "reasoning_fr": "Antonelli domine le championnat avec Mercedes en forme constante toute la saison, un avantage qui se traduit souvent par la pole sur circuit exigeant comme Madring. Russell suit logiquement en équipe. Hamilton fragilisé par son crash en FP3 recule au profit de Norris, solide sur un tour rapide.",
+      "reasoning_en": "Antonelli leads the championship with Mercedes showing consistent season-long pace, an edge that often converts to pole on a demanding track like Madring. Russell follows as teammate. Hamilton, shaken by his FP3 crash, drops behind Norris, who's been sharp on single-lap pace.",
       "confidence": "medium",
-      "key_factor_fr": "Mercedes dominant cette saison, avantage confirmé en essais",
+      "key_factor_fr": "Domination Mercedes 2026 + crash Hamilton en FP3",
       "news_used_ids": [],
-      "generated_at": "2026-09-11T13:00:21Z"
+      "generated_at": "2026-09-12T13:00:24Z"
     }
   ]
 }
