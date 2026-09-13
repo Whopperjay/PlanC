@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-12T21:15:12Z",
+  "last_updated": "2026-09-13T00:18:14Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "1f70b66ff3a0",
+      "title": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
+      "title_fr": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
+      "title_en": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-madrings-banked-turn-12-could-be-crucial-in-the-spanish-gp/10854838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNBNA2/s6/lewis-hamilton-ferrari-3.jpg",
+      "published_at": "2026-09-13T02:52:25+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the I",
+      "summary_en": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the I"
+    },
+    {
+      "id": "9e2b90d5118e",
+      "title": "“Pretty shocking”, “quite messy” – Oscar Piastri bewildered by poor Madring F1 qualifying",
+      "title_fr": "“Pretty shocking”, “quite messy” – Oscar Piastri bewildered by poor Madring F1 qualifying",
+      "title_en": "“Pretty shocking”, “quite messy” – Oscar Piastri bewildered by poor Madring F1 qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/pretty-shocking-quite-messy-oscar-piastri-bewildered-by-poor-madring-f1-qualifying/10855166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0kZX5Ro6/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-09-13T00:00:02+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "A downbeat Oscar Piastri described his Spanish Grand Prix qualifying as “shocking” and “messy”, having finished seventh while McLaren Formula 1 team-mate Lando Norris took pole position.<br />Piastri ",
+      "summary_en": "A downbeat Oscar Piastri described his Spanish Grand Prix qualifying as “shocking” and “messy”, having finished seventh while McLaren Formula 1 team-mate Lando Norris took pole position.<br />Piastri "
+    },
     {
       "id": "1726eceddd49",
       "title": "F1 : le programme TV du Grand Prix d'Espagne 2026 - f1i.autojournal.fr",
@@ -383,6 +421,25 @@
       "summary_en": "The stewards have summoned three drivers who qualified in the top six places over potential breaches of the regulations."
     },
     {
+      "id": "1a1e4690cb0d",
+      "title": "Sainz penalised, Antonelli, Russell, Leclerc and Bortoleto avoid grid drops for qualifying incidents | Formula 1",
+      "title_fr": "Sainz penalised, Antonelli, Russell, Leclerc and Bortoleto avoid grid drops for qualifying incidents | Formula 1",
+      "title_en": "Sainz penalised, Antonelli, Russell, Leclerc and Bortoleto avoid grid drops for qualifying incidents | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/12/sainz-penalised-antonelli-russell-leclerc-and-bortoleto-avoid-grid-drops-for-qualifying-incidents/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-14-18-25-2-2294695559.jpg",
+      "published_at": "2026-09-12T15:29:55+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz Jnr has been given a three-place grid drop for impeding a rival in qualifying for the Spanish Grand Prix.",
+      "summary_en": "Carlos Sainz Jnr has been given a three-place grid drop for impeding a rival in qualifying for the Spanish Grand Prix."
+    },
+    {
       "id": "91f218e869f6",
       "title": "F1 2026 qualifying head-to-head: Spanish GP",
       "title_fr": "F1 2026 qualifying head-to-head: Spanish GP",
@@ -419,6 +476,25 @@
       "is_breaking": false,
       "summary_fr": "Ben Sulayem's Alonso comments reflect badly on Formula 1",
       "summary_en": "Ben Sulayem's Alonso comments reflect badly on Formula 1"
+    },
+    {
+      "id": "8d08139760fa",
+      "title": "Formule 1, GP d’Espagne : la grille de départ avec Lando Norris en pole position devant Kimi Antonelli - Le Parisien",
+      "title_fr": "Formule 1, GP d’Espagne : la grille de départ avec Lando Norris en pole position devant Kimi Antonelli - Le Parisien",
+      "title_en": "Formule 1, GP d’Espagne : la grille de départ avec Lando Norris en pole position devant Kimi Antonelli - Le Parisien",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcWo5MUNwUjBTRXpCMWpSMVpMcHlvaWYwM0lGc2laYi1uUGxqNmdjNHl6RUswRlEtdmlQWm9KN1RrcWJrV3dpZUlodkxkVER6ZEFkQWR0eXg0U0MyYU92WmkyMlg1MXljZE16clR3TmtGTlUwbnRWb3oyTHZ1YUlBVEo4NnF1WTBNakduYUd5aVAwdnF5MjRRaEoxdWdpMFUzMS1RWHhPVGhBVmJrNWFYSWFpUkR1cDV6T2ppZi1zOVRadGtXMlp2RGZIcndYWVpuYXRmaWJjSTNnTmI1VWZ1SG40QWdxRklJczZpNHB2SjdnS0M5SU9RdVJUbUdKRDJWUGRtN1UxTUZOaDF4cHBTUg?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T15:10:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOcWo5MUNwUjBTRXpCMWpSMVpMcHlvaWYwM0lGc2laYi1uUGxqNmdjNHl6RUswRlEtdmlQWm9KN1RrcWJrV3dpZUlodkxkVER6ZEFkQWR0eXg0U0MyYU92WmkyMlg1MXljZE16clR3Tm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOcWo5MUNwUjBTRXpCMWpSMVpMcHlvaWYwM0lGc2laYi1uUGxqNmdjNHl6RUswRlEtdmlQWm9KN1RrcWJrV3dpZUlodkxkVER6ZEFkQWR0eXg0U0MyYU92WmkyMlg1MXljZE16clR3Tm"
     },
     {
       "id": "cc476b3239ab",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "FIA president Mohammed Ben Sulayem says he wants to help give Fernando Alonso a more competitive car.",
       "summary_en": "FIA president Mohammed Ben Sulayem says he wants to help give Fernando Alonso a more competitive car."
-    },
-    {
-      "id": "aeead09a62d3",
-      "title": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
-      "title_fr": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
-      "title_en": "Kimi Antonelli \"should be in a Ferrari\" after Monza win, says Guenther Steiner",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-should-be-in-a-ferrari-after-monza-win-says-guenther-steiner/10854948/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7Qldn6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-12T12:35:27+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes driver and current championship leader Kimi Antonelli \"should be in a Ferrari\" following his impressive win at the Italian Grand",
-      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner believes Mercedes driver and current championship leader Kimi Antonelli \"should be in a Ferrari\" following his impressive win at the Italian Grand"
-    },
-    {
-      "id": "b691a7363cf9",
-      "title": "Kimi Antonelli domine les EL3 du Grand Prix d'Espagne, sorties de piste pour Hamilton et Bearman - L'Équipe",
-      "title_fr": "Kimi Antonelli domine les EL3 du Grand Prix d'Espagne, sorties de piste pour Hamilton et Bearman - L'Équipe",
-      "title_en": "Kimi Antonelli domine les EL3 du Grand Prix d'Espagne, sorties de piste pour Hamilton et Bearman - L'Équipe",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVg5NHZSVHZ0eklUeENhUmlPclFUODh2MTBBUnZsR09sdTJqOEcwVG5rbEFIUjVSNmtRa2dVbE94RzVCRko3ZWRRZFYxb1paUzdxM2pMWlFFWm5QUjNOZVhPcEJfLUlzakFrSTFNbnp1WDh2eng0cnV1Z0NpX192QWNMVWMtWm9WeXNNd0M4dHNDT3JQV015MUlpMWppRnpjazY4Ukt1WVdqdlBGQ2w2cmpOT1lJNExTYmxQZW5fdmlfMDM3TXJtblVSWEk4YU1rOEFERllpUHlDUTFJRzZVMg?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T12:19:33+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVg5NHZSVHZ0eklUeENhUmlPclFUODh2MTBBUnZsR09sdTJqOEcwVG5rbEFIUjVSNmtRa2dVbE94RzVCRko3ZWRRZFYxb1paUzdxM2pMWlFFWm5QUjNOZVhPcEJfLUlzakFrSTFNbn",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxONVg5NHZSVHZ0eklUeENhUmlPclFUODh2MTBBUnZsR09sdTJqOEcwVG5rbEFIUjVSNmtRa2dVbE94RzVCRko3ZWRRZFYxb1paUzdxM2pMWlFFWm5QUjNOZVhPcEJfLUlzakFrSTFNbn"
-    },
-    {
-      "id": "15cbd757fad1",
-      "title": "EL3 - Hamilton et Bearman dans le mur, Antonelli meilleur temps - Motorsport.com France",
-      "title_fr": "EL3 - Hamilton et Bearman dans le mur, Antonelli meilleur temps - Motorsport.com France",
-      "title_en": "EL3 - Hamilton et Bearman dans le mur, Antonelli meilleur temps - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjBnZllJN2pwNGVEb09IMHRDb1hka1Y4cmNTODlpWjltMmFqMDJRY3BQVmFfV2NFTVRON0F2UG9qLXJVZTRFU2tjb2stUEFXM0dSRFRBUV9DWU8teS1OMUFPMVI0RGtGQlJIZ3AtSWFNaWRQOFBOSTQ2a1lnUE5zUWk0T0dRUW1JX1Nsd3pFRU03NTdXeU5mamNuUDlGWGc?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T12:11:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjBnZllJN2pwNGVEb09IMHRDb1hka1Y4cmNTODlpWjltMmFqMDJRY3BQVmFfV2NFTVRON0F2UG9qLXJVZTRFU2tjb2stUEFXM0dSRFRBUV9DWU8teS1OMUFPMVI0RGtGQlJIZ3AtSW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjBnZllJN2pwNGVEb09IMHRDb1hka1Y4cmNTODlpWjltMmFqMDJRY3BQVmFfV2NFTVRON0F2UG9qLXJVZTRFU2tjb2stUEFXM0dSRFRBUV9DWU8teS1OMUFPMVI0RGtGQlJIZ3AtSW"
-    },
-    {
-      "id": "35436756a60a",
-      "title": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
-      "title_fr": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
-      "title_en": "Anthony Davidson warns young drivers not to follow Lewis Hamilton's Madrid FP3 example",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/anthony-davidson-warns-lewis-hamilton-set-poor-example-for-young-drivers-in-madrid-fp3-incident/10854936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDPLL0/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-12T12:09:29+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver and Sky Sports analyst Anthony Davidson has argued that Lewis Hamilton set a bad example for junior drivers during the third practice session in Madrid.<br />Hamilton crashed a",
-      "summary_en": "Former Formula 1 driver and Sky Sports analyst Anthony Davidson has argued that Lewis Hamilton set a bad example for junior drivers during the third practice session in Madrid.<br />Hamilton crashed a"
     }
   ]
 }
