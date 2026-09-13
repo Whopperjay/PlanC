@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:00:24Z",
+  "generated_at": "2026-09-13T05:00:15Z",
   "model": "claude",
   "predictions": [
     {
@@ -37,15 +37,15 @@
       "race_id": "spanish",
       "session_type": "grand_prix",
       "session_date": "2026-09-13T13:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
-      "p3": "hamilton",
-      "reasoning_fr": "Antonelli domine la saison et Mercedes semble la plus régulière. Russell complète un probable doublé. Hamilton, malgré le crash en FP3 endommageant sa voiture, reste rapide sur une piste où Ferrari peut briller en qualifs.",
-      "reasoning_en": "Antonelli leads the standings with Mercedes looking strongest overall, likely delivering a team one-two with Russell. Hamilton, despite the FP3 crash damaging his car, remains a podium threat given Ferrari's pace at this challenging Madring layout.",
+      "p1": "norris",
+      "p2": "antonelli",
+      "p3": "russell",
+      "reasoning_fr": "Norris part en pole avec un tour qualifié de 'masterpiece', profitant du Turn 12 banked pour creuser l'écart. Antonelli et Russell, réguliers toute la saison chez Mercedes, complètent le podium pendant que Piastri, désorganisé en qualifs, recule.",
+      "reasoning_en": "Norris starts from a sensational pole after a masterpiece lap, well placed to exploit Madring's banked Turn 12. Mercedes' consistent pace with Antonelli and Russell secures the remaining podium spots, while Piastri's messy qualifying leaves him out of contention.",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes, incertitude Ferrari après le crash Hamilton",
+      "key_factor_fr": "Pole surprise de Norris et régularité Mercedes",
       "news_used_ids": [],
-      "generated_at": "2026-09-12T13:00:13Z"
+      "generated_at": "2026-09-13T05:00:15Z"
     },
     {
       "event_id": "spanish_qualifying",

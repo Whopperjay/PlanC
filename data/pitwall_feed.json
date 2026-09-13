@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-12T13:00:24Z",
+  "generated_at": "2026-09-13T05:00:15Z",
   "messages": [
     {
-      "id": "2026091213_0",
-      "text_fr": "Antonelli-Russell-Hamilton, verrouillé. Bonne chance pour battre l'IA les gars 😏",
-      "text_en": "Antonelli-Russell-Hamilton, locked in. Good luck beating the AI, boys 😏",
-      "created_at": "2026-09-12T13:00:31Z"
+      "id": "2026091305_0",
+      "text_fr": "Norris-Antonelli-Russell, posé. Vous flippez déjà ou vous tentez un truc ? 😏",
+      "text_en": "Norris-Antonelli-Russell, locked in. Scared yet, or you got guts?",
+      "created_at": "2026-09-13T05:00:21Z"
     },
     {
-      "id": "2026091213_1",
-      "text_fr": "Pendant que vous hésitez sur vos pronos, moi j'ai déjà gagné en Espagne.",
-      "text_en": "While you're still hesitating on your picks, I've already won in Spain.",
-      "created_at": "2026-09-12T13:00:31Z"
+      "id": "2026091305_1",
+      "text_fr": "Mon podium est fait. Vous avez le droit d'essayer de me battre, courage.",
+      "text_en": "My podium's set. You're allowed to try beating me, good luck.",
+      "created_at": "2026-09-13T05:00:21Z"
     }
   ]
 }
