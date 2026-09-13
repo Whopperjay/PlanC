@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-09-13T06:29:02Z",
+  "last_updated": "2026-09-13T09:32:27Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "afd8f812264c",
+      "title": "Ugochukwu beats Slater to win F3 title",
+      "title_fr": "Ugochukwu beats Slater to win F3 title",
+      "title_en": "Ugochukwu beats Slater to win F3 title",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/fia-f3/news/ugochukwu-beats-slater-to-win-f3-title/10855297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9E79pY/s6/ugo-ugochukwu-campos-racing.jpg",
+      "published_at": "2026-09-13T09:05:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ugo Ugochukwu became the 2026 Formula 3 champion on Sunday, despite coming into the Madring weekend as a dark horse.<br />Campos Racing’s Ugochukwu and Trident’s Freddie Slater emerged as the two titl",
+      "summary_en": "Ugo Ugochukwu became the 2026 Formula 3 champion on Sunday, despite coming into the Madring weekend as a dark horse.<br />Campos Racing’s Ugochukwu and Trident’s Freddie Slater emerged as the two titl"
+    },
+    {
+      "id": "a95201973071",
+      "title": "Former McLaren F1 junior Ugo Ugochukwu wins Formula 3 title",
+      "title_fr": "Former McLaren F1 junior Ugo Ugochukwu wins Formula 3 title",
+      "title_en": "Former McLaren F1 junior Ugo Ugochukwu wins Formula 3 title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/fia-f3/news/former-mclaren-f1-junior-ugo-ugochukwu-wins-formula-3-title/10855292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9E79pY/s6/ugo-ugochukwu-campos-racing.jpg",
+      "published_at": "2026-09-13T09:02:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ugo Ugochukwu became the 2026 Formula 3 champion on Sunday, despite coming into the Madring weekend as a dark horse.<br />Campos Racing’s Ugochukwu and Trident’s Freddie Slater emerged as the two titl",
+      "summary_en": "Ugo Ugochukwu became the 2026 Formula 3 champion on Sunday, despite coming into the Madring weekend as a dark horse.<br />Campos Racing’s Ugochukwu and Trident’s Freddie Slater emerged as the two titl"
+    },
+    {
+      "id": "e35c66af23e4",
+      "title": "\"F1 cannot continue this way\" - Fernando Alonso sounds the alarm at Spanish GP home race",
+      "title_fr": "\"F1 cannot continue this way\" - Fernando Alonso sounds the alarm at Spanish GP home race",
+      "title_en": "\"F1 cannot continue this way\" - Fernando Alonso sounds the alarm at Spanish GP home race",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-cannot-continue-this-way-fernando-alonso-sounds-the-alarm-at-spanish-gp-home-race/10855276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKGp4Y/s6/fernando-alonso-aston-martin.jpg",
+      "published_at": "2026-09-13T08:50:02+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Aston Martin driver Fernando Alonso has warned that Formula 1 \"cannot continue this way\" after being disappointed by how the current generation of cars is being held back on the challenging Madring ci",
+      "summary_en": "Aston Martin driver Fernando Alonso has warned that Formula 1 \"cannot continue this way\" after being disappointed by how the current generation of cars is being held back on the challenging Madring ci"
+    },
+    {
+      "id": "7e6540173cd0",
+      "title": "En accueillant la formule 1, Madrid poursuit sa folle course aux grands événements - Le Monde.fr",
+      "title_fr": "En accueillant la formule 1, Madrid poursuit sa folle course aux grands événements - Le Monde.fr",
+      "title_en": "En accueillant la formule 1, Madrid poursuit sa folle course aux grands événements - Le Monde.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVp3aVYyUVBsdFBtYndfUHc1c1d2Wm54aTByMVpmQl8wR3JYTWV2UlhWMWtoLU0tQTI4Y24tOHVNSmdyR19veXpkSVFSMHdiamhiU21tNjNPMnMwbUdzTXdPUXc4N3AtbVZTQnJhY2RNLXpyZk1nNnRtVlN0MFM3SUZuY1RMX2l2SkpzZVhpZXJPQ3JmYmNDR1o0MlQ4R0I5eXoxRVlQUzFDVVBLRVhNQTZ4Tzhvd3daTE5TOGsyRlpTUkN6b1Q0X2xwc2Rrc3VnWkZRUklkdGRwSF9lNUNzcg?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-13T08:00:03+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVp3aVYyUVBsdFBtYndfUHc1c1d2Wm54aTByMVpmQl8wR3JYTWV2UlhWMWtoLU0tQTI4Y24tOHVNSmdyR19veXpkSVFSMHdiamhiU21tNjNPMnMwbUdzTXdPUXc4N3AtbVZTQnJhY2",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVVp3aVYyUVBsdFBtYndfUHc1c1d2Wm54aTByMVpmQl8wR3JYTWV2UlhWMWtoLU0tQTI4Y24tOHVNSmdyR19veXpkSVFSMHdiamhiU21tNjNPMnMwbUdzTXdPUXc4N3AtbVZTQnJhY2"
+    },
+    {
+      "id": "387ebc3d263c",
+      "title": "Grand Prix d'Espagne 2026 : à quelle heure débute la course de F1 à Madrid ce dimanche ? - f1i.autojournal.fr",
+      "title_fr": "Grand Prix d'Espagne 2026 : à quelle heure débute la course de F1 à Madrid ce dimanche ? - f1i.autojournal.fr",
+      "title_en": "Grand Prix d'Espagne 2026 : à quelle heure débute la course de F1 à Madrid ce dimanche ? - f1i.autojournal.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEN1dHFlcVlBUWJvOXRWeDFOVjJrQUp0ZGNxZWhDZ3FGTEE2WkxfOER0ZUF3VmJMRjEzNXdvalJJSnk4YXhpcV9PbW1LcjhzMjFNQW9HM0gyVUROZ0pMTDF2N3RzdjgxckI3cGJDTUljS2JVNU4teDlZMzVfc2tNN0tDc0YzaHpyS3VlcEZyZ2x6UlN0dXVPdi1hZUNOeGpZTG81NVpZVHctS2JVVmVhUDFfOE5kcW5XN1JSNk5xX0djY0xtYThCdFp2YTA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-13T07:04:00+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEN1dHFlcVlBUWJvOXRWeDFOVjJrQUp0ZGNxZWhDZ3FGTEE2WkxfOER0ZUF3VmJMRjEzNXdvalJJSnk4YXhpcV9PbW1LcjhzMjFNQW9HM0gyVUROZ0pMTDF2N3RzdjgxckI3cGJDTU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWEN1dHFlcVlBUWJvOXRWeDFOVjJrQUp0ZGNxZWhDZ3FGTEE2WkxfOER0ZUF3VmJMRjEzNXdvalJJSnk4YXhpcV9PbW1LcjhzMjFNQW9HM0gyVUROZ0pMTDF2N3RzdjgxckI3cGJDTU"
+    },
+    {
+      "id": "867a11cf48d7",
+      "title": "Formule 1 : la grille de départ du Grand Prix d’Espagne - cnews.fr",
+      "title_fr": "Formule 1 : la grille de départ du Grand Prix d’Espagne - cnews.fr",
+      "title_en": "Formule 1 : la grille de départ du Grand Prix d’Espagne - cnews.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQejRYeWVlMU5Vbi01dU9QY2VqODl4RVdCZmRKSUw3LUFYZks0WEFuTHRfTmIwaGdXbWlsdFQ0Wm9CbF9Kdy01VGtMZzFDdjVkVW5sQ0lfNkJwYmxOdDJIRVY5LUxGZ0N1bVc4dUI5NDgwYmZBYnZ5Uk9LMEk4b2N5eVV5b3pFRE1CTUV6eV9nOGNabkhHc3Q2c2xKdFI4dzTSAaQBQVVfeXFMUFdEQ0JzVHNDczhHUWx6d2V2cHRDQkJTTlJrWVI0VXdjbldZN0E4RE5SVi13bmk1NFV2WXBBYWJ0WWdJbng5OFVqVTI0amhnYnlmRmg0OXVlT2FJQ3Eza3Z5RW5nMWFsWW9saHVSbE53WUtqd1JzUjlidkpDV1lUVFpqSjFyVkFnb01Za1hEMGpwWFNVNldJd2E1ZWlDYlFXMERpWHA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-13T05:33:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQejRYeWVlMU5Vbi01dU9QY2VqODl4RVdCZmRKSUw3LUFYZks0WEFuTHRfTmIwaGdXbWlsdFQ0Wm9CbF9Kdy01VGtMZzFDdjVkVW5sQ0lfNkJwYmxOdDJIRVY5LUxGZ0N1bVc4dUI5ND",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQejRYeWVlMU5Vbi01dU9QY2VqODl4RVdCZmRKSUw3LUFYZks0WEFuTHRfTmIwaGdXbWlsdFQ0Wm9CbF9Kdy01VGtMZzFDdjVkVW5sQ0lfNkJwYmxOdDJIRVY5LUxGZ0N1bVc4dUI5ND"
+    },
     {
       "id": "fdf225b6fd7d",
       "title": "Grand Prix d’Espagne : sur quelle chaîne et à quelle heure voir la course de Formule 1 en direct ? - Ouest-France",
@@ -22,6 +136,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFhtMHFGTC1VMzBpSW5XVURwSjJMRnZZdklwQWhDUVFneUJaN0dkcXoxNHJvWThWbVpUZVFaY0lYM1dFQ3Y0M1lKTHdMVzl3UGJjXzQ1c1k3eW5RWWZvd19UY3k3aTNnYmlEZ1BYVj"
     },
     {
+      "id": "daae1f0c496b",
+      "title": "Grand Prix d'Espagne en direct : à quelle heure et sur quelle chaîne regarder la 1ère course de F1 à Madrid ? - RMC Sport",
+      "title_fr": "Grand Prix d'Espagne en direct : à quelle heure et sur quelle chaîne regarder la 1ère course de F1 à Madrid ? - RMC Sport",
+      "title_en": "Grand Prix d'Espagne en direct : à quelle heure et sur quelle chaîne regarder la 1ère course de F1 à Madrid ? - RMC Sport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSmtvbWcwRWsxMHRaSmJpWjgyV3lOVGF0eTJSdzl5NFZibF83aEp6cElQUEFLWVl2ejg4U3pBVW1CRm1xRkRoOHB6eDItUExuRzNpZUYyc19pTGZnQnhTQVdnNHgyenBOTEdubktDelRKcUZ0N08yZmRud2dKQ2FPcjI4enFzSlc5MzVuZGlQdW04YjZJN1YwVjh3ZW5QN1NoTTBndjN4YzRYTzBpc1NPM0taMFpfV0VvTE8zYjg3YWxPbU5sUmpRU3hld1A0VlFpM2o2OEkyNUJrZzRvREdYSTBhY0tJWkQzQmlfNGoxdlRlbmlfZUtoaEJ3?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-13T04:12:00+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSmtvbWcwRWsxMHRaSmJpWjgyV3lOVGF0eTJSdzl5NFZibF83aEp6cElQUEFLWVl2ejg4U3pBVW1CRm1xRkRoOHB6eDItUExuRzNpZUYyc19pTGZnQnhTQVdnNHgyenBOTEdubktDel",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSmtvbWcwRWsxMHRaSmJpWjgyV3lOVGF0eTJSdzl5NFZibF83aEp6cElQUEFLWVl2ejg4U3pBVW1CRm1xRkRoOHB6eDItUExuRzNpZUYyc19pTGZnQnhTQVdnNHgyenBOTEdubktDel"
+    },
+    {
       "id": "1f70b66ff3a0",
       "title": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
       "title_fr": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
@@ -39,6 +172,25 @@
       "is_breaking": false,
       "summary_fr": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the I",
       "summary_en": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track around the I"
+    },
+    {
+      "id": "fd4c095b6523",
+      "title": "Premier Grand Prix de Formule 1 à Madrid. La troisième séance d'essais a été interrompue lorsque Lewis Hamilton a envoyé sa voiture dans le mur. 👉 Retrouvez l'article complet : https://brnw.ch/21x5DQ1 - facebook.com",
+      "title_fr": "Premier Grand Prix de Formule 1 à Madrid. La troisième séance d'essais a été interrompue lorsque Lewis Hamilton a envoyé sa voiture dans le mur. 👉 Retrouvez l'article complet : https://brnw.ch/21x5DQ1 - facebook.com",
+      "title_en": "Premier Grand Prix de Formule 1 à Madrid. La troisième séance d'essais a été interrompue lorsque Lewis Hamilton a envoyé sa voiture dans le mur. 👉 Retrouvez l'article complet : https://brnw.ch/21x5DQ1 - facebook.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSFZCUWFJdkZTWHBxYUgyTmhyQW1ra2w3enNHakxMT1JiNUtELVlGdUFZOWRpek9VOExzd25KNmNFb19GOEpmR2xhai1LY0M4Y09BbXZTUEVMWGVBb3RJenJuNWgzalFZdHpWemlqVWlsUldvQ3Q1VmtzX3VhbGt6M0ZuNmNHVjVTcUNrRXF5dDBrQ3RjMDl5ZEJZTl9vaVZrbFk5N1FKa2lHUXhsMlBHdXYwQkwyTDgtX2ZvOUxzS2tlZ0dPeTQ3cVp6MDVuRWMxU19pN2VmOGI3YmRHUFR4ZUFuR29DeUF4Q2E5OUUtOERZSVE5?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-13T01:00:06+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSFZCUWFJdkZTWHBxYUgyTmhyQW1ra2w3enNHakxMT1JiNUtELVlGdUFZOWRpek9VOExzd25KNmNFb19GOEpmR2xhai1LY0M4Y09BbXZTUEVMWGVBb3RJenJuNWgzalFZdHpWemlqVW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSFZCUWFJdkZTWHBxYUgyTmhyQW1ra2w3enNHakxMT1JiNUtELVlGdUFZOWRpek9VOExzd25KNmNFb19GOEpmR2xhai1LY0M4Y09BbXZTUEVMWGVBb3RJenJuNWgzalFZdHpWemlqVW"
     },
     {
       "id": "9e2b90d5118e",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Reigning world champion Lando Norris claimed his third pole of the season at Formula 1's Spanish Grand Prix, beating series leader Kimi Antonelli on F1's first-ever visit to the Madring circuit.<br />",
       "summary_en": "Reigning world champion Lando Norris claimed his third pole of the season at Formula 1's Spanish Grand Prix, beating series leader Kimi Antonelli on F1's first-ever visit to the Madring circuit.<br />"
-    },
-    {
-      "id": "6a0730409f11",
-      "title": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
-      "title_fr": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
-      "title_en": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0JXRzwpY/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-09-12T15:04:02+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1’s reigning world champion Lando Norris has claimed his third pole position of the 2026 season at the Spanish Grand Prix, beating series leader Kimi Antonelli at the debutant Madring circuit.",
-      "summary_en": "Formula 1’s reigning world champion Lando Norris has claimed his third pole position of the 2026 season at the Spanish Grand Prix, beating series leader Kimi Antonelli at the debutant Madring circuit."
-    },
-    {
-      "id": "2e84c97bbbf2",
-      "title": "Surprenante pole pour Norris, devant Antonelli et Verstappen - Eurosport",
-      "title_fr": "Surprenante pole pour Norris, devant Antonelli et Verstappen - Eurosport",
-      "title_en": "Surprenante pole pour Norris, devant Antonelli et Verstappen - Eurosport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQU3l2eG1LN0RMVTRvTnp6WXEwSEw5aE5EbU15bjhrcmktZzlseXJoTUxSeWZYQzhkaXRLd0ExcVBFWE93X21FS0ttWl9FTG9XZk10dHBWbExFSG5GSURycU9rcU1Sc0V4RmVrSTUwYkwwUmtVWXlkN0w1dGtKYXNmYjAxS28zR3ZrM2N2d3hnQWRJNUVWOFROWll6RmxmVDFCYXdnLU9zQzlwYkxtOWVSbnBRczVVZ240eWNxOWcxMWpzMG1oYVd0UjlnZnVTMjFiUkR4UUNoTEUzUWh2NnN2dlo1LVNaSm5ndVBPUjdRTnRVWkY2YVEwTXlJZzRrbHlPVXc3ejFuOTJVWFJCS3Qyc3Z2QXNCajRlVGpmbHBrQ3BGRFNXNk82SkFzVV9OdXM5ODR4WA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T15:04:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQU3l2eG1LN0RMVTRvTnp6WXEwSEw5aE5EbU15bjhrcmktZzlseXJoTUxSeWZYQzhkaXRLd0ExcVBFWE93X21FS0ttWl9FTG9XZk10dHBWbExFSG5GSURycU9rcU1Sc0V4RmVrSTUwYk",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQU3l2eG1LN0RMVTRvTnp6WXEwSEw5aE5EbU15bjhrcmktZzlseXJoTUxSeWZYQzhkaXRLd0ExcVBFWE93X21FS0ttWl9FTG9XZk10dHBWbExFSG5GSURycU9rcU1Sc0V4RmVrSTUwYk"
-    },
-    {
-      "id": "38dbd74b7868",
-      "title": "2026 Spanish Grand Prix grid | Formula 1",
-      "title_fr": "2026 Spanish Grand Prix grid | Formula 1",
-      "title_en": "2026 Spanish Grand Prix grid | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/12/2026-spanish-grand-prix-grid/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-12-16-58-57-4-2294882940.jpg",
-      "published_at": "2026-09-12T15:01:45+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris has taken provisional pole position for the Spanish Grand Prix for McLaren ahead of Andrea Kimi Antonelli and Max Verstappen.",
-      "summary_en": "Lando Norris has taken provisional pole position for the Spanish Grand Prix for McLaren ahead of Andrea Kimi Antonelli and Max Verstappen."
-    },
-    {
-      "id": "093865eac1b0",
-      "title": "Grand Prix d’Espagne 2026 : résultats des qualifications ! - L'Automobile Magazine",
-      "title_fr": "Grand Prix d’Espagne 2026 : résultats des qualifications ! - L'Automobile Magazine",
-      "title_en": "Grand Prix d’Espagne 2026 : résultats des qualifications ! - L'Automobile Magazine",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWtsTXdwMm1lNjF4QjE0UmFNMFROdTAtTmk1Y2ttZDRHd3dBbFFwVlJiakNjVndTLVR1VUszVldZNlotcmF0OFMzZTNaeWlJd1lMZ1hnamd2by1lQm84N0R6NFppR2x3N05qR29FcG9zbFd1Wnk2RktETnJvV2tUSnYzamFTRkxtcjNINGtlWEYzX2RvVkpZYV9uNjA0UDB5eGpLVFp4cEs4THlLUkJ6S3hR?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T14:00:15+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWtsTXdwMm1lNjF4QjE0UmFNMFROdTAtTmk1Y2ttZDRHd3dBbFFwVlJiakNjVndTLVR1VUszVldZNlotcmF0OFMzZTNaeWlJd1lMZ1hnamd2by1lQm84N0R6NFppR2x3N05qR29FcG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWtsTXdwMm1lNjF4QjE0UmFNMFROdTAtTmk1Y2ttZDRHd3dBbFFwVlJiakNjVndTLVR1VUszVldZNlotcmF0OFMzZTNaeWlJd1lMZ1hnamd2by1lQm84N0R6NFppR2x3N05qR29FcG"
-    },
-    {
-      "id": "834c0de24b26",
-      "title": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
-      "title_fr": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
-      "title_en": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzc0NFFEN1JlcW5wUFBBX3JyT0NDRVdVZ3lQQnBOdWtseVZIcHNSRy1vcUNiRWdYYWpOTlJySVpvUC10d1dwZE5nM1R3ekQ2cXNQSjd4cExhYm1Vbkd6dVk2aHQ4QXJfZkh0VjRYNjBlSHkzUWtnSFAwYmpVMVFNbUtVLXF3LTNfc0RpMm84d3RoVTBXNXZKNzl2VQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T13:38:07+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzc0NFFEN1JlcW5wUFBBX3JyT0NDRVdVZ3lQQnBOdWtseVZIcHNSRy1vcUNiRWdYYWpOTlJySVpvUC10d1dwZE5nM1R3ekQ2cXNQSjd4cExhYm1Vbkd6dVk2aHQ4QXJfZkh0VjRYNj",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzc0NFFEN1JlcW5wUFBBX3JyT0NDRVdVZ3lQQnBOdWtseVZIcHNSRy1vcUNiRWdYYWpOTlJySVpvUC10d1dwZE5nM1R3ekQ2cXNQSjd4cExhYm1Vbkd6dVk2aHQ4QXJfZkh0VjRYNj"
-    },
-    {
-      "id": "508bf827461a",
-      "title": "LIVE F1 - GP d’Espagne : les qualifications en direct à Madrid - Nextgen-Auto.com",
-      "title_fr": "LIVE F1 - GP d’Espagne : les qualifications en direct à Madrid - Nextgen-Auto.com",
-      "title_en": "LIVE F1 - GP d’Espagne : les qualifications en direct à Madrid - Nextgen-Auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RXa3dnTEN3aG1mdGl3QkhTX0YyNjNVRzVMejlCbXlpTVdXQmVPZzhWdGRHTzU0QWtYXzdXaXNsU0lJZl9vbmo0SXJtRGRFN0JxUzRlYWU3SWJ2U2U4aUotaUFMZm11QVV6RkRLam5MY3hvS3BiM1pncHU4aUxIUE5tajJDR0tCemUyWU9fZUdBeXd4ZVJjWnNONkxaQUx5a1VqTXVTbnJSOUJEZmhlTktXLTE3bEJZREhv?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T13:25:00+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RXa3dnTEN3aG1mdGl3QkhTX0YyNjNVRzVMejlCbXlpTVdXQmVPZzhWdGRHTzU0QWtYXzdXaXNsU0lJZl9vbmo0SXJtRGRFN0JxUzRlYWU3SWJ2U2U4aUotaUFMZm11QVV6RkRLam",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RXa3dnTEN3aG1mdGl3QkhTX0YyNjNVRzVMejlCbXlpTVdXQmVPZzhWdGRHTzU0QWtYXzdXaXNsU0lJZl9vbmo0SXJtRGRFN0JxUzRlYWU3SWJ2U2U4aUotaUFMZm11QVV6RkRLam"
-    },
-    {
-      "id": "a9bd6809fd20",
-      "title": "Race director issued “formal request” for Hamilton to stop driving damaged car | Formula 1",
-      "title_fr": "Race director issued “formal request” for Hamilton to stop driving damaged car | Formula 1",
-      "title_en": "Race director issued “formal request” for Hamilton to stop driving damaged car | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/12/race-director-issued-formal-request-for-hamilton-to-stop-driving-damaged-car/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-11-14-36-38-10-260911_R14_SPAGNA_DP_FGO04469.jpg",
-      "published_at": "2026-09-12T13:02:15+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton only parked his damaged Ferrari in practice after the team was ordered to stop him by race director Rui Marques.",
-      "summary_en": "Lewis Hamilton only parked his damaged Ferrari in practice after the team was ordered to stop him by race director Rui Marques."
-    },
-    {
-      "id": "a58ed636eaa6",
-      "title": "F1. GP d’Espagne : Hamilton termine dans le mur lors des essais 3, Antonelli aux commandes - ouest-france.fr",
-      "title_fr": "F1. GP d’Espagne : Hamilton termine dans le mur lors des essais 3, Antonelli aux commandes - ouest-france.fr",
-      "title_en": "F1. GP d’Espagne : Hamilton termine dans le mur lors des essais 3, Antonelli aux commandes - ouest-france.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWWNfR3VYdUg0clZpY1NQRXpfWkVtWFpuVURvRVdLSEFxa3c2ZnNVSGRTTE5MY3VVQlpHZEx2OGtYNWxOaFJtTEkycmFhTk41eGdFcm84SFFYQ0FOV2ZkVVdlQmt5OThzZ194QzdpNmJkUHIxcWtZTDZhdXFZUkhXZEVxWmhQMmJkclR4b2dzQ0lwazJn?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T12:59:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWW"
     }
   ]
 }
