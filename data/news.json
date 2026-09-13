@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-13T03:24:22Z",
+  "last_updated": "2026-09-13T06:27:47Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "fdf225b6fd7d",
+      "title": "Grand Prix d’Espagne : sur quelle chaîne et à quelle heure voir la course de Formule 1 en direct ? - Ouest-France",
+      "title_fr": "Grand Prix d’Espagne : sur quelle chaîne et à quelle heure voir la course de Formule 1 en direct ? - Ouest-France",
+      "title_en": "Grand Prix d’Espagne : sur quelle chaîne et à quelle heure voir la course de Formule 1 en direct ? - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFhtMHFGTC1VMzBpSW5XVURwSjJMRnZZdklwQWhDUVFneUJaN0dkcXoxNHJvWThWbVpUZVFaY0lYM1dFQ3Y0M1lKTHdMVzl3UGJjXzQ1c1k3eW5RWWZvd19UY3k3aTNnYmlEZ1BYVjNoNEV0WVI1ZUtCZm9qNDBOX2duMGlUYXpaY3pCQU5OcG5JUlk4RDBsMXNjVkdwQ01PSWpiQkVLdXdweUdUTlhRemtNZG9INzRlY2tIRVFxanJDVjZYVnc2WTJSTWllXzdCd1FMd3c1TE9HOWRLTjRkNWNmRlZXSTRTd1cteXJNR2w4eTVzOXFGencwNDNxQTI1dVI2ZA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-13T04:40:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFhtMHFGTC1VMzBpSW5XVURwSjJMRnZZdklwQWhDUVFneUJaN0dkcXoxNHJvWThWbVpUZVFaY0lYM1dFQ3Y0M1lKTHdMVzl3UGJjXzQ1c1k3eW5RWWZvd19UY3k3aTNnYmlEZ1BYVj",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPaFhtMHFGTC1VMzBpSW5XVURwSjJMRnZZdklwQWhDUVFneUJaN0dkcXoxNHJvWThWbVpUZVFaY0lYM1dFQ3Y0M1lKTHdMVzl3UGJjXzQ1c1k3eW5RWWZvd19UY3k3aTNnYmlEZ1BYVj"
+    },
     {
       "id": "1f70b66ff3a0",
       "title": "Why Madring’s banked Turn 12 could be crucial in the F1 Spanish GP",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWW",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1VXWE5ndTRNMDlVUF9qUXpkUTZLRE1yWE83WVZqd2NHXzRBdnBVdmZaeTExdEI3emFTeURyQzlPNzlSMGVHTzZtZ01RdWVtdFdLbGpzMWRtLVBOVkxkQkJ5YmROcE1hVEtvYk5mWW"
-    },
-    {
-      "id": "1d11e4792b13",
-      "title": "GP d'Espagne de F1 : le classement des Essais Libres 3, Lewis Hamilton et Oliver Bearman dans le mur, Esteban Ocon et Pierre Gasly en retrait - Turbo.fr",
-      "title_fr": "GP d'Espagne de F1 : le classement des Essais Libres 3, Lewis Hamilton et Oliver Bearman dans le mur, Esteban Ocon et Pierre Gasly en retrait - Turbo.fr",
-      "title_en": "GP d'Espagne de F1 : le classement des Essais Libres 3, Lewis Hamilton et Oliver Bearman dans le mur, Esteban Ocon et Pierre Gasly en retrait - Turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZVlPU0tDTTljUUFCbk13ODFPOFgtQjhpb1lCaEhZOTlicS1ieDEtUlNyTXlWZllTU01VOWlnQkY0ZkpzU3NtYlg5RGpxWV9ST25BNVpUbnZ2SzBaWVRocDRHN2xhdXZPVGdZYU45UXk1cFQyNlh5SXVCS2lFZXg1WFNzNkt1OWc0aGJjMk1RZFRrQkJGZzFmZndqc0t2VC1FMC1TNENoUGVJbkVUaw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T12:48:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZV"
     }
   ]
 }
