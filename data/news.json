@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T00:19:42Z",
+  "last_updated": "2026-09-13T03:22:54Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
     {
@@ -345,6 +345,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWXRkaDRMMW5BaXpxeUhXb3pvTzBiSWdYeEthcFE3OXVOck93akJJSkFPQUVta1dtWXBSWUd6cGszYlYxdlhZWXRVb3lZYjVLR2hCYS1La05yYXpmREtTZmdQVVRXTDFkMW5qcGFSaG"
     },
     {
+      "id": "db028a7d9765",
+      "title": "Norris sort de nulle part et chipe la pole à Antonelli au Madring ! - Motorsport.com France",
+      "title_fr": "Norris sort de nulle part et chipe la pole à Antonelli au Madring ! - Motorsport.com France",
+      "title_en": "Norris sort de nulle part et chipe la pole à Antonelli au Madring ! - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOenNza2JSTURlMkdKRXg0SlBWUFVSOEJIMnI3aUUyN0VRbmJsMlBwcEtqNmNwR1lUcmFYT09OVXk2cFpUUTVyMmdmeFFDMm5SM3FISkJ0V1ZGU3NydVpRRUdaS0d4NFFVWWVfZUcyOG80NGNINzhrZnhXZU5vSDRsVnZTUkE0dw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T15:55:42+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOenNza2JSTURlMkdKRXg0SlBWUFVSOEJIMnI3aUUyN0VRbmJsMlBwcEtqNmNwR1lUcmFYT09OVXk2cFpUUTVyMmdmeFFDMm5SM3FISkJ0V1ZGU3NydVpRRUdaS0d4NFFVWWVfZUcyOG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOenNza2JSTURlMkdKRXg0SlBWUFVSOEJIMnI3aUUyN0VRbmJsMlBwcEtqNmNwR1lUcmFYT09OVXk2cFpUUTVyMmdmeFFDMm5SM3FISkJ0V1ZGU3NydVpRRUdaS0d4NFFVWWVfZUcyOG"
+    },
+    {
       "id": "791ac60f4186",
       "title": "Lando Norris \"shocked\" to snatch F1 Spanish GP pole from Kimi Antonelli",
       "title_fr": "Lando Norris \"shocked\" to snatch F1 Spanish GP pole from Kimi Antonelli",
@@ -476,6 +495,25 @@
       "is_breaking": false,
       "summary_fr": "Ben Sulayem's Alonso comments reflect badly on Formula 1",
       "summary_en": "Ben Sulayem's Alonso comments reflect badly on Formula 1"
+    },
+    {
+      "id": "b3e90510b0fe",
+      "title": "Lando Norris partira en pole position du Grand Prix d'Espagne à Madrid devant Antonelli et Verstappen - L'Équipe",
+      "title_fr": "Lando Norris partira en pole position du Grand Prix d'Espagne à Madrid devant Antonelli et Verstappen - L'Équipe",
+      "title_en": "Lando Norris partira en pole position du Grand Prix d'Espagne à Madrid devant Antonelli et Verstappen - L'Équipe",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTTNMaGVxdU9USFBNYTFWMU9FcXh1V1EtQXRaRmphZ3ExM3dLTTltVnVLcmdseG1FUElYVy1oWC1TcHRxdVVCaF9PVWYxOFM2MjFNMFlRekNncGFUaFJBd0VCYTYyak5iRW9NTnU2MzY1dkh1SXRuUzU4WXhTeS16ZWVfWWlMZkE4MWJ5QXcxWEM4ckxJNmF5cmdTel8xOFBjUzFoVE5KcGpuT3VHZkR1Vll6djJuMHE4RVB4bk9JYy1rTVUyZ3oxeE9Ub04yZ1M3YXdWelMzREZoVkh2MXVqX2lpQTd5Ymt0?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-12T15:11:43+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTTNMaGVxdU9USFBNYTFWMU9FcXh1V1EtQXRaRmphZ3ExM3dLTTltVnVLcmdseG1FUElYVy1oWC1TcHRxdVVCaF9PVWYxOFM2MjFNMFlRekNncGFUaFJBd0VCYTYyak5iRW9NTnU2Mz",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTTNMaGVxdU9USFBNYTFWMU9FcXh1V1EtQXRaRmphZ3ExM3dLTTltVnVLcmdseG1FUElYVy1oWC1TcHRxdVVCaF9PVWYxOFM2MjFNMFlRekNncGFUaFJBd0VCYTYyak5iRW9NTnU2Mz"
     },
     {
       "id": "8d08139760fa",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZV",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPbGd2N2l6dTNOUEZzeHU1VFRmT09uUXVTU3RWdDR2akUyeXdseFV6MlhXQ0ZNVXhYZmo0VGxMTmZIS1FOT21WT1h5WVpBOVE3b2tWQmNXQXRzQjkxamNwQmVwZWZvRDdkd0JzMEpJZV"
-    },
-    {
-      "id": "751319305e40",
-      "title": "DIRECT. Formule 1 : c’est parti pour la Q1, suivez les qualifications du Grand Prix d’Espagne en live - ouest-france.fr",
-      "title_fr": "DIRECT. Formule 1 : c’est parti pour la Q1, suivez les qualifications du Grand Prix d’Espagne en live - ouest-france.fr",
-      "title_en": "DIRECT. Formule 1 : c’est parti pour la Q1, suivez les qualifications du Grand Prix d’Espagne en live - ouest-france.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNaWRmZmVKaUpSbTNzckdDV0Vrbl9jRjdNSlhzRHBtSWk4RUNDY2N2eEo1Qlo1NkR5ckgzZW9ZcXg1US1NZ1RWb2Z0c3U3Y1dCT0VONm45OWR3SFBRczJsb0Z5aDVkV1lUdmt3MGltc0dSQWI5aG0wLXdFVnZGRmU1ZHdiV0E5U0MzbDV1MzZWOFhlaDZZcGZkcF90VmJ6SllXQXJaX0tObi1yMkFsQ01GTWxKS0c1Y2tnM0loYzc5RVJZYzZXbGs5c2V5N3drZHdvZW0xT09NdnpmRk1WczN2dFh4UllWT0lsbVBHdVl6UUNSY1pEYWxPNGVKR3c3bG01QTZkS0Fwa1VNbUxuS1Z0SkprMS12c1VUc2J3S3VR?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-12T12:40:12+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNaWRmZmVKaUpSbTNzckdDV0Vrbl9jRjdNSlhzRHBtSWk4RUNDY2N2eEo1Qlo1NkR5ckgzZW9ZcXg1US1NZ1RWb2Z0c3U3Y1dCT0VONm45OWR3SFBRczJsb0Z5aDVkV1lUdm",
-      "summary_en": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNaWRmZmVKaUpSbTNzckdDV0Vrbl9jRjdNSlhzRHBtSWk4RUNDY2N2eEo1Qlo1NkR5ckgzZW9ZcXg1US1NZ1RWb2Z0c3U3Y1dCT0VONm45OWR3SFBRczJsb0Z5aDVkV1lUdm"
-    },
-    {
-      "id": "f2a3a562f39c",
-      "title": "Ben Sulayem wants rules changes to make Alonso’s Aston Martin more competitive | Formula 1",
-      "title_fr": "Ben Sulayem wants rules changes to make Alonso’s Aston Martin more competitive | Formula 1",
-      "title_en": "Ben Sulayem wants rules changes to make Alonso’s Aston Martin more competitive | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/12/ben-sulayem-wants-rules-changes-to-make-alonsos-aston-martin-more-competitive/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2024/08/racefansdotnet-24-08-14-11-59-31-2-XPB_1273173_HiRes.jpg",
-      "published_at": "2026-09-12T12:40:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "FIA president Mohammed Ben Sulayem says he wants to help give Fernando Alonso a more competitive car.",
-      "summary_en": "FIA president Mohammed Ben Sulayem says he wants to help give Fernando Alonso a more competitive car."
     }
   ]
 }
