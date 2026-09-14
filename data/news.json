@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-14T03:59:12Z",
+  "last_updated": "2026-09-14T07:01:36Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "5ebddbf1bfc1",
+      "title": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
+      "title_fr": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
+      "title_en": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/14/formula-1-drivers-slate-useless-madring-circuit-design-after-lifeless-spanish-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-21-24-5-SI202609130633.jpg",
+      "published_at": "2026-09-14T06:15:31+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Drivers called for changes to the layout of the Madring following yesterday's processional race on Formula 1's newest track.",
+      "summary_en": "Drivers called for changes to the layout of the Madring following yesterday's processional race on Formula 1's newest track."
+    },
+    {
+      "id": "52176798cdd5",
+      "title": "Who slept worst last night: Carlos Sainz",
+      "title_fr": "Who slept worst last night: Carlos Sainz",
+      "title_en": "Who slept worst last night: Carlos Sainz",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-carlos-sainz/10855717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7z4GX6/s6/carlos-sainz-williams.jpg",
+      "published_at": "2026-09-14T05:46:04+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "It is almost exactly 10 years since Formula 1 first took to the streets of Baku in June 2016. Everyone was curious to see what Azerbaijan's Grand Prix debut would bring, and plenty had predicted a cha",
+      "summary_en": "It is almost exactly 10 years since Formula 1 first took to the streets of Baku in June 2016. Everyone was curious to see what Azerbaijan's Grand Prix debut would bring, and plenty had predicted a cha"
+    },
+    {
+      "id": "eac3fd96a71f",
+      "title": "Who slept best last night: Lando Norris",
+      "title_fr": "Who slept best last night: Lando Norris",
+      "title_en": "Who slept best last night: Lando Norris",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-lando-norris-10855682/10855682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6DGgM7wY/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-09-14T05:16:06+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Oh, the irony!<br />Lando Norris found exactly the right words for his team on the cooldown lap in Madrid.<br />“We were too quick, that’s all it was.”<br />That’s literally what happened, isn’t it? L",
+      "summary_en": "Oh, the irony!<br />Lando Norris found exactly the right words for his team on the cooldown lap in Madrid.<br />“We were too quick, that’s all it was.”<br />That’s literally what happened, isn’t it? L"
+    },
     {
       "id": "c243029141e8",
       "title": "On This Day: Ferrari run blank livery at home race as tribute to 9/11 victims | Brief",
@@ -611,6 +668,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHkxc1E0N0JBV3R1NzdlZVl6OEZwdHVod1dUcUtlaWt3Q2dDUTNMT01xU3NMNmtlLXNjV05sczdKeFpyWFBZZDQ2NnM4SmFweXBhRndMa2ZNd0Q2RDR5YWQ1T2JHbkF4aV9Pb1F4dH"
     },
     {
+      "id": "f53c8d366463",
+      "title": "Opportuniste, Kimi Antonelli remporte le premier GP au Madring devant Verstappen et Norris - L'Équipe",
+      "title_fr": "Opportuniste, Kimi Antonelli remporte le premier GP au Madring devant Verstappen et Norris - L'Équipe",
+      "title_en": "Opportuniste, Kimi Antonelli remporte le premier GP au Madring devant Verstappen et Norris - L'Équipe",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckZUZGRhQVE0bUlMdi0zNXM0N0FyR3NIaWdjQWNXRE02bGNVdVVTMkdIYnVhRzA2bTJZekVRa3VZSWF5UDdzc1hncmFuTE1sWHRuYWxQVlhJcEJyVlFGNEJpalhyZmlSSE1ZeWFDWTJ2QzBtWTRyTDNsXy1sMGFhT2hSekgxTkxmUTFxN0I0TzFsdG1ObHBiY2VLVjdWNEg0TllSVDFlclVtOEhoTlV0RzlFN2N1T3RZaUxvNEd0SEVQZ3NDZm9sUVdQckxzQ0lueHFSYU9Rd3NtZzl0TjJSQnREMmg?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-13T14:59:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckZUZGRhQVE0bUlMdi0zNXM0N0FyR3NIaWdjQWNXRE02bGNVdVVTMkdIYnVhRzA2bTJZekVRa3VZSWF5UDdzc1hncmFuTE1sWHRuYWxQVlhJcEJyVlFGNEJpalhyZmlSSE1ZeWFDWT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckZUZGRhQVE0bUlMdi0zNXM0N0FyR3NIaWdjQWNXRE02bGNVdVVTMkdIYnVhRzA2bTJZekVRa3VZSWF5UDdzc1hncmFuTE1sWHRuYWxQVlhJcEJyVlFGNEJpalhyZmlSSE1ZeWFDWT"
+    },
+    {
       "id": "c39ddbe1c507",
       "title": "Antonelli wins procession around the Madring after VSC pit stop blow for Norris | 2026 Spanish Grand Prix report",
       "title_fr": "Antonelli wins procession around the Madring after VSC pit stop blow for Norris | 2026 Spanish Grand Prix report",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Andrea Kimi Antonelli won the Spanish Grand Prix for Mercedes and increased his championship lead to 81 points.",
       "summary_en": "Andrea Kimi Antonelli won the Spanish Grand Prix for Mercedes and increased his championship lead to 81 points."
-    },
-    {
-      "id": "6cd10a7cc6bd",
-      "title": "Antonelli remporte un GP pas fou au Madring, Norris piégé par le VSC - Motorsport.com France",
-      "title_fr": "Antonelli remporte un GP pas fou au Madring, Norris piégé par le VSC - Motorsport.com France",
-      "title_en": "Antonelli remporte un GP pas fou au Madring, Norris piégé par le VSC - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk9XQ3ZtMnZGbFk5eE5SbU4tSmY4eGxUUUhQeEZiUkRmOExZWF9JU2ZZSWFQLU5QdXM0STF4TTk4OUR0WXlmb1VHY1dGMGw3THcybzdSNlJaS0xyemFnTjZOUFk2Q2NIZGRRQ2VXTTUwU2ZBdjNQX0N5SEd2WVdFek96S2pXSU55aW5YXzc5enBOSFR3Slh2RkVMdw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T14:46:06+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk9XQ3ZtMnZGbFk5eE5SbU4tSmY4eGxUUUhQeEZiUkRmOExZWF9JU2ZZSWFQLU5QdXM0STF4TTk4OUR0WXlmb1VHY1dGMGw3THcybzdSNlJaS0xyemFnTjZOUFk2Q2NIZGRRQ2VXTT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk9XQ3ZtMnZGbFk5eE5SbU4tSmY4eGxUUUhQeEZiUkRmOExZWF9JU2ZZSWFQLU5QdXM0STF4TTk4OUR0WXlmb1VHY1dGMGw3THcybzdSNlJaS0xyemFnTjZOUFk2Q2NIZGRRQ2VXTT"
-    },
-    {
-      "id": "a2b84e415817",
-      "title": "F1 Spanish GP: Antonelli wins after Norris loses out under VSC",
-      "title_fr": "F1 Spanish GP: Antonelli wins after Norris loses out under VSC",
-      "title_en": "F1 Spanish GP: Antonelli wins after Norris loses out under VSC",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-wins/10855411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0Lde8Ag0/s6/kimi-antonelli-mercedes-4.jpg",
-      "published_at": "2026-09-13T14:45:16+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli prevailed in the Spanish Grand Prix, Formula 1’s first race at the Madring, as polesitter Lando Norris’ race was derailed by strategy.<br />Norris comfortably pulled away in the early s",
-      "summary_en": "Kimi Antonelli prevailed in the Spanish Grand Prix, Formula 1’s first race at the Madring, as polesitter Lando Norris’ race was derailed by strategy.<br />Norris comfortably pulled away in the early s"
-    },
-    {
-      "id": "183331f663d8",
-      "title": "GP d'Espagne : Kimi Antonelli s'impose devant Verstappen - rts.ch",
-      "title_fr": "GP d'Espagne : Kimi Antonelli s'impose devant Verstappen - rts.ch",
-      "title_en": "GP d'Espagne : Kimi Antonelli s'impose devant Verstappen - rts.ch",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzlYc3hQZ1VXdldQVHFrVG5ReENEbDUxXzNlRG1UQmE0Qmo4T3RGM1E5aVpSZWE4dWx6a2tCbVBZdFp5ZHpzbDBEYXg4WDlraDViSlI4NzdjbG5UNTIxTG0yTUhjRjlvaF8tdEViX2FMV0hUS21LWWJpS2F3aU4yd3VoQnJTbXBDX3VIZVQyX29COWRPYXFRa0VqaXJzOGtUN0JiTXBtbTRtQV84YW5YQw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T14:42:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzlYc3hQZ1VXdldQVHFrVG5ReENEbDUxXzNlRG1UQmE0Qmo4T3RGM1E5aVpSZWE4dWx6a2tCbVBZdFp5ZHpzbDBEYXg4WDlraDViSlI4NzdjbG5UNTIxTG0yTUhjRjlvaF8tdEViX2",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzlYc3hQZ1VXdldQVHFrVG5ReENEbDUxXzNlRG1UQmE0Qmo4T3RGM1E5aVpSZWE4dWx6a2tCbVBZdFp5ZHpzbDBEYXg4WDlraDViSlI4NzdjbG5UNTIxTG0yTUhjRjlvaF8tdEViX2"
-    },
-    {
-      "id": "56ff84f55296",
-      "title": "F1 Spanish GP: Kimi Antonelli wins again as VSC costs Lando Norris",
-      "title_fr": "F1 Spanish GP: Kimi Antonelli wins again as VSC costs Lando Norris",
-      "title_en": "F1 Spanish GP: Kimi Antonelli wins again as VSC costs Lando Norris",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-race-report/10855406/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6VyK8wnY/s6/kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-09-13T14:41:32+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli prevailed in the Spanish Grand Prix, Formula 1’s first race at the Madring, as polesitter Lando Norris’ race was derailed by strategy.<br />Norris comfortably pulled away in the early s",
-      "summary_en": "Kimi Antonelli prevailed in the Spanish Grand Prix, Formula 1’s first race at the Madring, as polesitter Lando Norris’ race was derailed by strategy.<br />Norris comfortably pulled away in the early s"
     }
   ]
 }
