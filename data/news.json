@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-09-14T16:16:13Z",
+  "last_updated": "2026-09-14T19:19:47Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "e50427ca6215",
+      "title": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
+      "title_fr": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
+      "title_en": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2dEoVJ5Y/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-09-14T18:29:19+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr",
+      "summary_en": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr"
+    },
+    {
+      "id": "9692d597265c",
+      "title": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
+      "title_fr": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
+      "title_en": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2dEoVJ5Y/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-09-14T18:20:49+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr",
+      "summary_en": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr"
+    },
+    {
+      "id": "2c3053feeb46",
+      "title": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
+      "title_fr": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
+      "title_en": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-is-racing-max-verstappen-in-max-vs-100-entry-list-revealed/10855944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEoVNDY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-14T17:31:04+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The majority of the 100 karters preparing to challenge four-time Formula 1 champion Max Verstappen in the Max vs 100 event on Wednesday 16 September have been revealed.<br />Streaming live on Disney+,",
+      "summary_en": "The majority of the 100 karters preparing to challenge four-time Formula 1 champion Max Verstappen in the Max vs 100 event on Wednesday 16 September have been revealed.<br />Streaming live on Disney+,"
+    },
+    {
+      "id": "a577f34910a2",
+      "title": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
+      "title_fr": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
+      "title_en": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-is-on-a-saturday-in-2026-why/10855369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/Yv87Xr70/s6/drivers-take-the-start-of-the-.jpg",
+      "published_at": "2026-09-14T16:46:02+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.<br />Kimi Antonelli took the chequered flag in Madrid",
+      "summary_en": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.<br />Kimi Antonelli took the chequered flag in Madrid"
+    },
+    {
+      "id": "29374da236d6",
+      "title": "F1. Après l’ennui du Grand Prix de Madrid, les organisateurs promettent des changements pour les prochaines éditions - Ouest-France",
+      "title_fr": "F1. Après l’ennui du Grand Prix de Madrid, les organisateurs promettent des changements pour les prochaines éditions - Ouest-France",
+      "title_en": "F1. Après l’ennui du Grand Prix de Madrid, les organisateurs promettent des changements pour les prochaines éditions - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmdnQW1nWHJ4MnVmcFN1Skl2aGdPUnJjVk9LUFBpY21IUEdSbElfUUI1OGh6YmR1anJyOTJjaGFLRktCM1RUYmNGOU1pWGxrNzRoSVdTekJybGpmMDJsWlJDR19vZ3NEWVBRZXl2TlVkeHg3Zi02c2c0NHNqbURoWWQxQjJiREZEdWtwaDBFZVBLd09RaFdYYlVMWjlBa3hFWFU3Wjd6dGpoLUtnRmlfeDB1VHltbDY0M2l4RlVDajZzb2dhWGl3MHNGV0lweUh6NUdLR083bVdJMXRPODNTd2ZzcGpBcy1IT3JuNUNab1lucldvUndrSEhCY1U3bkhzTWNoN2Y3MV9pdGc0MF9sN3VKY2dadGc5MFF5NDhzOA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-14T16:24:42+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmdnQW1nWHJ4MnVmcFN1Skl2aGdPUnJjVk9LUFBpY21IUEdSbElfUUI1OGh6YmR1anJyOTJjaGFLRktCM1RUYmNGOU1pWGxrNzRoSVdTekJybGpmMDJsWlJDR19vZ3NEWVBRZXl2Tl",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmdnQW1nWHJ4MnVmcFN1Skl2aGdPUnJjVk9LUFBpY21IUEdSbElfUUI1OGh6YmR1anJyOTJjaGFLRktCM1RUYmNGOU1pWGxrNzRoSVdTekJybGpmMDJsWlJDR19vZ3NEWVBRZXl2Tl"
+    },
+    {
+      "id": "2ffee8d3973a",
+      "title": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
+      "title_fr": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
+      "title_en": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-brands-lando-norriss-coca-cola-spanish-gp-moment-unprofessional/10855926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXbBOL2/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-09-14T16:18:54+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has criticised Lando Norris's Coca-Cola cooldown room moment following the Spanish Grand Prix in Madrid, claiming it was unprofessional of the McL",
+      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has criticised Lando Norris's Coca-Cola cooldown room moment following the Spanish Grand Prix in Madrid, claiming it was unprofessional of the McL"
+    },
+    {
+      "id": "baaa659712d3",
+      "title": "Franco Colapinto, le pilote de la semaine | F1 - GP d'Espagne - L'Équipe",
+      "title_fr": "Franco Colapinto, le pilote de la semaine | F1 - GP d'Espagne - L'Équipe",
+      "title_en": "Franco Colapinto, le pilote de la semaine | F1 - GP d'Espagne - L'Équipe",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl4S2pRb0NnUFZsM3ZhWTR5TkpTZ3Q2VjBuOEUxZVc1VTBFaGlPd2xfOHc4WEE4S1pGTzhKLXhtRVRLUUdmVW9ZVjNLM04tdGxqYjNYWEhqRkRRc1pRQ2FRNV9nMTZDVlNsTEpBa2RUTDN5dDFtdnpycTRYVUcwa1JKTFBXQTFqT2t2N2hfaTBWRkhvSjdXeDhhRzBwOFB0M0lJ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-14T16:05:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl4S2pRb0NnUFZsM3ZhWTR5TkpTZ3Q2VjBuOEUxZVc1VTBFaGlPd2xfOHc4WEE4S1pGTzhKLXhtRVRLUUdmVW9ZVjNLM04tdGxqYjNYWEhqRkRRc1pRQ2FRNV9nMTZDVlNsTEpBa2",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl4S2pRb0NnUFZsM3ZhWTR5TkpTZ3Q2VjBuOEUxZVc1VTBFaGlPd2xfOHc4WEE4S1pGTzhKLXhtRVRLUUdmVW9ZVjNLM04tdGxqYjNYWEhqRkRRc1pRQ2FRNV9nMTZDVlNsTEpBa2"
+    },
     {
       "id": "eab26bde2757",
       "title": "Why F1 should avoid knee-jerk rule changes after Lando Norris' Madrid heartbreak",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
       "summary_en": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car."
-    },
-    {
-      "id": "3fceb7e0849b",
-      "title": "Carlos Sainz accuses Fernando Alonso of provoking a penalty \"like always\"",
-      "title_fr": "Carlos Sainz accuses Fernando Alonso of provoking a penalty \"like always\"",
-      "title_en": "Carlos Sainz accuses Fernando Alonso of provoking a penalty \"like always\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/sainz-accuses-alonso-of-provoking-a-penalty-like-always/10855613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2y7QJRK6/s6/gettyimages-2295035796.jpg",
-      "published_at": "2026-09-13T19:04:47+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "As if complaints about the track layout weren't enough, the first Formula 1 Spanish Grand Prix at the new Madring circuit provoked an unseemly spat between the two home heroes. Fernando Alonso and Car",
-      "summary_en": "As if complaints about the track layout weren't enough, the first Formula 1 Spanish Grand Prix at the new Madring circuit provoked an unseemly spat between the two home heroes. Fernando Alonso and Car"
-    },
-    {
-      "id": "d849d7664171",
-      "title": "Antonelli impressive and one of Colapinto's best weekends - driver ratings",
-      "title_fr": "Antonelli impressive and one of Colapinto's best weekends - driver ratings",
-      "title_en": "Antonelli impressive and one of Colapinto's best weekends - driver ratings",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/clyjx57nqj9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f818/live/62caa510-af9d-11f1-a540-61c3f7fc4e6c.png",
-      "published_at": "2026-09-13T18:25:05+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Spanish Grand Prix.",
-      "summary_en": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Spanish Grand Prix."
-    },
-    {
-      "id": "e3ba2ba920be",
-      "title": "F1 drivers push for Madring changes after \"very poor\" Spanish GP: \"I almost fell asleep\"",
-      "title_fr": "F1 drivers push for Madring changes after \"very poor\" Spanish GP: \"I almost fell asleep\"",
-      "title_en": "F1 drivers push for Madring changes after \"very poor\" Spanish GP: \"I almost fell asleep\"",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/i-almost-fell-asleep-f1-drivers-push-for-madrid-track-changes-after-very-poor-spanish-gp/10855598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YP74DE42/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-09-13T18:11:24+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Formula 1 Spanish Grand Prix played out exactly as most drivers had feared. Max Verstappen said on Saturday that he could not see a single overtaking opportunity and added when speaking to the Dut",
-      "summary_en": "The Formula 1 Spanish Grand Prix played out exactly as most drivers had feared. Max Verstappen said on Saturday that he could not see a single overtaking opportunity and added when speaking to the Dut"
-    },
-    {
-      "id": "fc8dc9026309",
-      "title": "\"I almost fell asleep\" – F1 drivers push for Madrid track changes after \"very poor\" Spanish GP",
-      "title_fr": "\"I almost fell asleep\" – F1 drivers push for Madrid track changes after \"very poor\" Spanish GP",
-      "title_en": "\"I almost fell asleep\" – F1 drivers push for Madrid track changes after \"very poor\" Spanish GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/i-almost-fell-asleep-f1-drivers-push-for-madrid-track-changes-after-very-poor-spanish-gp/10855576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/24QG9ENY/s6/franco-colapinto-alpine-charle.jpg",
-      "published_at": "2026-09-13T18:05:41+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Formula 1 Spanish Grand Prix played out exactly as most drivers had feared. Max Verstappen said on Saturday that he could not see a single overtaking opportunity and added when speaking to the Dut",
-      "summary_en": "The Formula 1 Spanish Grand Prix played out exactly as most drivers had feared. Max Verstappen said on Saturday that he could not see a single overtaking opportunity and added when speaking to the Dut"
-    },
-    {
-      "id": "09f556a12933",
-      "title": "The step-by-step story of how Lando Norris' Spanish GP miss played out under the VSC",
-      "title_fr": "The step-by-step story of how Lando Norris' Spanish GP miss played out under the VSC",
-      "title_en": "The step-by-step story of how Lando Norris' Spanish GP miss played out under the VSC",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-step-by-step-story-of-how-lando-norris-spanish-gp-miss-played-out-under-the-vsc/10855571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNBj82/s6/kimi-antonelli-mercedes-lando-.jpg",
-      "published_at": "2026-09-13T17:47:52+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Two seconds - this was the margin between Lando Norris passing the Madring pit entry and the call for the virtual safety car that ended his victory hopes for the Spanish Grand Prix - one that Formula ",
-      "summary_en": "Two seconds - this was the margin between Lando Norris passing the Madring pit entry and the call for the virtual safety car that ended his victory hopes for the Spanish Grand Prix - one that Formula "
-    },
-    {
-      "id": "73aab8440a4e",
-      "title": "2026 Spanish Grand Prix interactive data: lap charts, times and tyres | 2026 Spanish Grand Prix interactive data",
-      "title_fr": "2026 Spanish Grand Prix interactive data: lap charts, times and tyres | 2026 Spanish Grand Prix interactive data",
-      "title_en": "2026 Spanish Grand Prix interactive data: lap charts, times and tyres | 2026 Spanish Grand Prix interactive data",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/13/2026-spanish-grand-prix-interactive-data-lap-charts-times-and-tyres/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/Lap-chart-SPAIN.jpg",
-      "published_at": "2026-09-13T17:27:38+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Virtual Safety Car period on lap 15 shaped the outcome of the Spanish Grand Prix. Here's the data from the race.",
-      "summary_en": "The Virtual Safety Car period on lap 15 shaped the outcome of the Spanish Grand Prix. Here's the data from the race."
-    },
-    {
-      "id": "ec6f98bd9d8a",
-      "title": "Tous les résultats et classements du Grand Prix d'Espagne F1 2026 - Motorsport.com France",
-      "title_fr": "Tous les résultats et classements du Grand Prix d'Espagne F1 2026 - Motorsport.com France",
-      "title_en": "Tous les résultats et classements du Grand Prix d'Espagne F1 2026 - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RTRJY2FkZzRwUkVhTUZhM093cE81aFBBWTRSX2NVWUpFVEtJdw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T17:04:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RT"
     }
   ]
 }
