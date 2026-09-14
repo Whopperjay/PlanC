@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-14T10:06:51Z",
+  "last_updated": "2026-09-14T13:10:22Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "56e6137844c6",
+      "title": "George Russell told to turn focus to 2027 as title bid branded \"a write-off\" after Spanish GP",
+      "title_fr": "George Russell told to turn focus to 2027 as title bid branded \"a write-off\" after Spanish GP",
+      "title_en": "George Russell told to turn focus to 2027 as title bid branded \"a write-off\" after Spanish GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-told-to-turn-focus-to-2027-as-title-bid-branded-a-write-off-after-spanish-gp/10855654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgMJ4Y/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-14T13:00:40+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former IndyCar Series driver and F1 TV analyst James Hinchcliffe has argued that George Russell must treat the remainder of the 2026 season as early preparation for 2027, declaring that the Briton's c",
+      "summary_en": "Former IndyCar Series driver and F1 TV analyst James Hinchcliffe has argued that George Russell must treat the remainder of the 2026 season as early preparation for 2027, declaring that the Briton's c"
+    },
+    {
+      "id": "671612770dae",
+      "title": "His worst races would be enough: The remarkable stats behind Kimi Antonelli’s title hopes",
+      "title_fr": "His worst races would be enough: The remarkable stats behind Kimi Antonelli’s title hopes",
+      "title_en": "His worst races would be enough: The remarkable stats behind Kimi Antonelli’s title hopes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/even-antonellis-worst-races-would-be-enough-in-remarkable-f1-title-scenario/10855828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZX1Bo6/s6/kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-14T13:00:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "It takes a fair bit of imagination to find any real drama left in the 2026 Formula 1 World Championship. After 14 grands prix, Kimi Antonelli leads George Russell by 81 points, Lewis Hamilton by 101 a",
+      "summary_en": "It takes a fair bit of imagination to find any real drama left in the 2026 Formula 1 World Championship. After 14 grands prix, Kimi Antonelli leads George Russell by 81 points, Lewis Hamilton by 101 a"
+    },
+    {
+      "id": "090afa84f746",
+      "title": "Romain Grosjean apologises to McLaren after controversial, unfounded comments",
+      "title_fr": "Romain Grosjean apologises to McLaren after controversial, unfounded comments",
+      "title_en": "Romain Grosjean apologises to McLaren after controversial, unfounded comments",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/grosjean-apologises-to-mclaren-over-controversial-unfounded-comments/10855806/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/254M3Wk0/s6/romain-grosjean.jpg",
+      "published_at": "2026-09-14T10:57:28+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 and Canal+ pundit Romain Grosjean publicly apologised to McLaren and Zak Brown over comments made during coverage of the Spanish Grand Prix at the Madring.<br />Present in Madrid for the Spa",
+      "summary_en": "Formula 1 and Canal+ pundit Romain Grosjean publicly apologised to McLaren and Zak Brown over comments made during coverage of the Spanish Grand Prix at the Madring.<br />Present in Madrid for the Spa"
+    },
     {
       "id": "dfcdbcf2b162",
       "title": "\"My race could have been over\" – Max Verstappen’s take on first lap incident with Lewis Hamilton",
@@ -20,6 +77,25 @@
       "is_breaking": false,
       "summary_fr": "With his fifth podium finish in seven race weekends, Max Verstappen got the maximum out of the first Formula 1 race at the Madring. The Dutchman managed to take second place in the Spanish Grand Prix ",
       "summary_en": "With his fifth podium finish in seven race weekends, Max Verstappen got the maximum out of the first Formula 1 race at the Madring. The Dutchman managed to take second place in the Spanish Grand Prix "
+    },
+    {
+      "id": "f16c51518c7c",
+      "title": "Le Grand Prix d'Espagne promet des changements sur le Madring après les critiques - Motorsport.com France",
+      "title_fr": "Le Grand Prix d'Espagne promet des changements sur le Madring après les critiques - Motorsport.com France",
+      "title_en": "Le Grand Prix d'Espagne promet des changements sur le Madring après les critiques - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXBPQXhOTHVaSXdvaEhzQVZwdjdOeVk2Wk9qVTdXbjQ0RFpRZ1dGSHpzdWNfQ1poWjZzSkR1aWUxUGJFbE1HYU0wbzJBVzRVOTlOOVZla2taX2JqRjd3ZHNUV1BJc2x1eE1OYzZYVTVEaW9ZYnREZjB4UW1oVV91SWJUaDk1enk5bFZpNEFGN1JqQXplSkE?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-14T09:57:41+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXBPQXhOTHVaSXdvaEhzQVZwdjdOeVk2Wk9qVTdXbjQ0RFpRZ1dGSHpzdWNfQ1poWjZzSkR1aWUxUGJFbE1HYU0wbzJBVzRVOTlOOVZla2taX2JqRjd3ZHNUV1BJc2x1eE1OYzZYVT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXBPQXhOTHVaSXdvaEhzQVZwdjdOeVk2Wk9qVTdXbjQ0RFpRZ1dGSHpzdWNfQ1poWjZzSkR1aWUxUGJFbE1HYU0wbzJBVzRVOTlOOVZla2taX2JqRjd3ZHNUV1BJc2x1eE1OYzZYVT"
     },
     {
       "id": "c148bcb7b1da",
@@ -155,6 +231,25 @@
       "summary_en": "Lando Norris defended McLaren's tactics after he lost his chance to win yesterday's Spanish Grand Prix during a Virtual Safety Car period."
     },
     {
+      "id": "819104c1668a",
+      "title": "F1 - GP d'Espagne 2026 : Antonelli victorieux, Leclerc trop court, Norris piégé (+ classement) - Sport Auto",
+      "title_fr": "F1 - GP d'Espagne 2026 : Antonelli victorieux, Leclerc trop court, Norris piégé (+ classement) - Sport Auto",
+      "title_en": "F1 - GP d'Espagne 2026 : Antonelli victorieux, Leclerc trop court, Norris piégé (+ classement) - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbHBKbU5FalpLUnlBUFVybHdKM2p5dzZyX0diWUp2RGp4TW5hbEdtYnlER3NYUlNOQlMyUnQzWVdpb1ZwaDdEZ1RYQThDQVdtZExxTTZ3bTdUUUUwN3RVUERQU05zZXNWWktWR0hEMDI0Mkdnb0JITVVMT2FhbWdzVmtF?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-14T06:30:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbH"
+    },
+    {
       "id": "5ebddbf1bfc1",
       "title": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
       "title_fr": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
@@ -229,6 +324,25 @@
       "is_breaking": false,
       "summary_fr": "Oh, the irony!<br />Lando Norris found exactly the right words for his team on the cooldown lap in Madrid.<br />“We were too quick, that’s all it was.”<br />That’s literally what happened, isn’t it? L",
       "summary_en": "Oh, the irony!<br />Lando Norris found exactly the right words for his team on the cooldown lap in Madrid.<br />“We were too quick, that’s all it was.”<br />That’s literally what happened, isn’t it? L"
+    },
+    {
+      "id": "971591f06a5a",
+      "title": "F1 : Le classement mis à jour dans la foulée du Grand-Prix d'Espagne, au championnat des pilotes - Le Mag Sport Auto",
+      "title_fr": "F1 : Le classement mis à jour dans la foulée du Grand-Prix d'Espagne, au championnat des pilotes - Le Mag Sport Auto",
+      "title_en": "F1 : Le classement mis à jour dans la foulée du Grand-Prix d'Espagne, au championnat des pilotes - Le Mag Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0s1dExFaEVnZUVabDFIdlJHejZmNEEzb2NaNVJjMkxpTUtjWmVUUzRfaUUycGFQWnZnQXdoTTl6LVlxRGRIM1ZQaERwZjFiY29GZEJUOU1KTkhBdG1iZUh3NnNsS1N3LTY3NGNHd3VR?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-14T04:02:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0"
     },
     {
       "id": "c243029141e8",
@@ -535,6 +649,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWRRVnc4ejN3RnhKYTBGd2N2MzZ0NEhZODVqY0NwdDMzeHVaMXR1MW44RjF1OXY3VnRJZ3RTQzF0TV9wNnpvbnZfaFlFcldaTXV2Y243V3JhaWhhMUl1Q1ktUk4tX2o1eVZlWFAyS1"
     },
     {
+      "id": "e0b408d15a49",
+      "title": "Video: “I just did a race, I’m allowed to drink what I like” | Brief",
+      "title_fr": "Video: “I just did a race, I’m allowed to drink what I like” | Brief",
+      "title_en": "Video: “I just did a race, I’m allowed to drink what I like” | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/13/video-i-just-did-a-race-im-allowed-to-drink-what-i-like/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-16-55-17-1-2295053962.jpg",
+      "published_at": "2026-09-13T16:35:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Norris was told off for daring to drink an unapproved beverage",
+      "summary_en": "Norris was told off for daring to drink an unapproved beverage"
+    },
+    {
       "id": "f6ead4a6d37b",
       "title": "GP d'Espagne de F1 : le classement final de la course, pas de point pour Pierre Gasly, Lewis Hamilton malheureux - Turbo.fr",
       "title_fr": "GP d'Espagne de F1 : le classement final de la course, pas de point pour Pierre Gasly, Lewis Hamilton malheureux - Turbo.fr",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen finished second in the Formula 1 Spanish Grand Prix in Madrid, losing out only to Kimi Antonelli - yet could he have won had Red Bull not instructed him to concede two positions during ",
       "summary_en": "Max Verstappen finished second in the Formula 1 Spanish Grand Prix in Madrid, losing out only to Kimi Antonelli - yet could he have won had Red Bull not instructed him to concede two positions during "
-    },
-    {
-      "id": "a7a914839a85",
-      "title": "Drivers asked F1 before to fix its “unfair” Virtual Safety Car rules – Norris | Formula 1",
-      "title_fr": "Drivers asked F1 before to fix its “unfair” Virtual Safety Car rules – Norris | Formula 1",
-      "title_en": "Drivers asked F1 before to fix its “unfair” Virtual Safety Car rules – Norris | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/13/drivers-asked-f1-before-to-fix-its-unfair-virtual-safety-car-rules-norris/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-28-56-2-2295043992.jpg",
-      "published_at": "2026-09-13T15:55:17+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris says Formula 1's Virtual Safety Car rules are not \"how it should be\" after losing victory in the Spanish Grand Prix.",
-      "summary_en": "Lando Norris says Formula 1's Virtual Safety Car rules are not \"how it should be\" after losing victory in the Spanish Grand Prix."
-    },
-    {
-      "id": "9fd1e01be45d",
-      "title": "Red Bull defends decision to force Max Verstappen to give back two positions",
-      "title_fr": "Red Bull defends decision to force Max Verstappen to give back two positions",
-      "title_en": "Red Bull defends decision to force Max Verstappen to give back two positions",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-defends-decision-to-force-max-verstappen-to-give-back-two-positions/10855489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6VyK8BnY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-13T15:52:56+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen finished second in the Formula 1 Spanish Grand Prix in Madrid, losing out only to Kimi Antonelli - yet could he have won had Red Bull not instructed him to concede two positions during ",
-      "summary_en": "Max Verstappen finished second in the Formula 1 Spanish Grand Prix in Madrid, losing out only to Kimi Antonelli - yet could he have won had Red Bull not instructed him to concede two positions during "
-    },
-    {
-      "id": "12cacdb79c2e",
-      "title": "Résultats et classements après le Grand Prix d’Espagne en Formule 1 - 20 Minutes",
-      "title_fr": "Résultats et classements après le Grand Prix d’Espagne en Formule 1 - 20 Minutes",
-      "title_en": "Résultats et classements après le Grand Prix d’Espagne en Formule 1 - 20 Minutes",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXhiUmZGa3UzSTRZMTl0MHhleWVBWVBINXZOUFd6YTFMWXlTTm96Qk9uRU56cFpyanFuUE5xMHQ4N29wQWxyQ19pakpJcXRTbTdnT19zTnVqZHFkZDJmYm54dXppbFJKellEWjQ3QmxlT3lYaS05aU5NbHVhaXFoYmZudEFjcURDSTNDODFzcW95dU5pUUUtNGNBZXJWZmxlYjV6R1FUcDEyOWFPTWhZRzJSZUVvWFk?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T15:41:00+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXhiUmZGa3UzSTRZMTl0MHhleWVBWVBINXZOUFd6YTFMWXlTTm96Qk9uRU56cFpyanFuUE5xMHQ4N29wQWxyQ19pakpJcXRTbTdnT19zTnVqZHFkZDJmYm54dXppbFJKel",
-      "summary_en": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXhiUmZGa3UzSTRZMTl0MHhleWVBWVBINXZOUFd6YTFMWXlTTm96Qk9uRU56cFpyanFuUE5xMHQ4N29wQWxyQ19pakpJcXRTbTdnT19zTnVqZHFkZDJmYm54dXppbFJKel"
-    },
-    {
-      "id": "ddfe7158bcbc",
-      "title": "All the results and standings from the 2026 F1 Spanish Grand Prix",
-      "title_fr": "All the results and standings from the 2026 F1 Spanish Grand Prix",
-      "title_en": "All the results and standings from the 2026 F1 Spanish Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/all-results-and-standings-from-the-2026-f1-spanish-grand-prix/10855476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6x7LJ57Y/s6/kimi-antonelli-mercedes-max-ve-2.jpg",
-      "published_at": "2026-09-13T15:40:11+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<br /><br />2026 F1 Drivers' Championship<br /><br /><br /><br /><br />Pos.<br />Driver<br />Points<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /",
-      "summary_en": "<br /><br />2026 F1 Drivers' Championship<br /><br /><br /><br /><br />Pos.<br />Driver<br />Points<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /"
-    },
-    {
-      "id": "6cd10a7cc6bd",
-      "title": "Antonelli remporte un GP pas fou au Madring, Norris piégé par le VSC - Motorsport.com France",
-      "title_fr": "Antonelli remporte un GP pas fou au Madring, Norris piégé par le VSC - Motorsport.com France",
-      "title_en": "Antonelli remporte un GP pas fou au Madring, Norris piégé par le VSC - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk9XQ3ZtMnZGbFk5eE5SbU4tSmY4eGxUUUhQeEZiUkRmOExZWF9JU2ZZSWFQLU5QdXM0STF4TTk4OUR0WXlmb1VHY1dGMGw3THcybzdSNlJaS0xyemFnTjZOUFk2Q2NIZGRRQ2VXTTUwU2ZBdjNQX0N5SEd2WVdFek96S2pXSU55aW5YXzc5enBOSFR3Slh2RkVMdw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T15:32:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk9XQ3ZtMnZGbFk5eE5SbU4tSmY4eGxUUUhQeEZiUkRmOExZWF9JU2ZZSWFQLU5QdXM0STF4TTk4OUR0WXlmb1VHY1dGMGw3THcybzdSNlJaS0xyemFnTjZOUFk2Q2NIZGRRQ2VXTT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdk9XQ3ZtMnZGbFk5eE5SbU4tSmY4eGxUUUhQeEZiUkRmOExZWF9JU2ZZSWFQLU5QdXM0STF4TTk4OUR0WXlmb1VHY1dGMGw3THcybzdSNlJaS0xyemFnTjZOUFk2Q2NIZGRRQ2VXTT"
-    },
-    {
-      "id": "78e4acc660ef",
-      "title": "Antonelli says victory ‘doesn’t feel as good because Lando deserved the win’ | Formula 1",
-      "title_fr": "Antonelli says victory ‘doesn’t feel as good because Lando deserved the win’ | Formula 1",
-      "title_en": "Antonelli says victory ‘doesn’t feel as good because Lando deserved the win’ | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/13/antonelli-says-victory-doesnt-feel-as-good-because-lando-deserved-the-win/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-16-57-17-1-2295053855.jpg",
-      "published_at": "2026-09-13T15:28:29+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli admitted his Spanish Grand Prix victory didn't feel as good as his other victories.",
-      "summary_en": "Andrea Kimi Antonelli admitted his Spanish Grand Prix victory didn't feel as good as his other victories."
-    },
-    {
-      "id": "ec6f98bd9d8a",
-      "title": "Tous les résultats et classements du Grand Prix d'Espagne F1 2026 - Motorsport.com France",
-      "title_fr": "Tous les résultats et classements du Grand Prix d'Espagne F1 2026 - Motorsport.com France",
-      "title_en": "Tous les résultats et classements du Grand Prix d'Espagne F1 2026 - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RTRJY2FkZzRwUkVhTUZhM093cE81aFBBWTRSX2NVWUpFVEtJdw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T15:15:46+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RT"
     }
   ]
 }
