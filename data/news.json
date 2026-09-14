@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-14T10:05:46Z",
+  "last_updated": "2026-09-14T10:06:51Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "dfcdbcf2b162",
+      "title": "\"My race could have been over\" – Max Verstappen’s take on first lap incident with Lewis Hamilton",
+      "title_fr": "\"My race could have been over\" – Max Verstappen’s take on first lap incident with Lewis Hamilton",
+      "title_en": "\"My race could have been over\" – Max Verstappen’s take on first lap incident with Lewis Hamilton",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/my-race-could-have-been-over-max-verstappens-take-on-first-lap-incident-with-lewis-hamilton/10855771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Lde8gv0/s6/kimi-antonelli-mercedes-lewis-.jpg",
+      "published_at": "2026-09-14T10:00:03+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "With his fifth podium finish in seven race weekends, Max Verstappen got the maximum out of the first Formula 1 race at the Madring. The Dutchman managed to take second place in the Spanish Grand Prix ",
+      "summary_en": "With his fifth podium finish in seven race weekends, Max Verstappen got the maximum out of the first Formula 1 race at the Madring. The Dutchman managed to take second place in the Spanish Grand Prix "
+    },
     {
       "id": "c148bcb7b1da",
       "title": "Spanish GP organisers promise Madring track changes following F1 criticism",
@@ -9,7 +28,7 @@
       "title_en": "Spanish GP organisers promise Madring track changes following F1 criticism",
       "source": "autosport.com",
       "url": "https://www.autosport.com/f1/news/spanish-gp-organisers-promise-madring-track-changes-following-f1-criticism/10855769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdKeVrY/s6/lando-norris-mclaren-2.jpg",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2GdKeVrY/s6/lando-norris-mclaren-2.jpg",
       "published_at": "2026-09-14T09:17:21+00:00",
       "race_id": "spain-barcelona",
       "category": "rumeur",
@@ -28,7 +47,7 @@
       "title_en": "Spanish GP promises Madring track changes following F1 criticism",
       "source": "motorsport.com",
       "url": "https://www.motorsport.com/f1/news/spanish-gp-promises-madring-f1-track-changes-following-criticism/10855761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YP74DE42/s6/lewis-hamilton-ferrari.jpg",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YP74DE42/s6/lewis-hamilton-ferrari.jpg",
       "published_at": "2026-09-14T09:15:02+00:00",
       "race_id": "spain-barcelona",
       "category": "rumeur",
@@ -85,7 +104,7 @@
       "title_en": "Honda replaces F1 power unit boss in organisation shuffle",
       "source": "autosport.com",
       "url": "https://www.autosport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7Lx3RY/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7Lx3RY/s6/fernando-alonso-aston-martin-r-2.jpg",
       "published_at": "2026-09-14T07:53:39+00:00",
       "race_id": "japan",
       "category": "rumeur",
@@ -104,7 +123,7 @@
       "title_en": "Aston Martin partner Honda replaces F1 power unit boss",
       "source": "motorsport.com",
       "url": "https://www.motorsport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKoqBY/s6/lance-stroll-aston-martin.jpg",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKoqBY/s6/lance-stroll-aston-martin.jpg",
       "published_at": "2026-09-14T07:50:42+00:00",
       "race_id": "japan",
       "category": "rumeur",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RT",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmxnSTFrbVpzZmlQRGxhZmNWdGVIdU14TGZXLThESjBGOUdjbmhlclFCdjhtVzkwOTllT3lFM0tSNFptVTRzR2lZemJsLUFLeTNSTEJlOXRWVnRGYXZvMldmdkF1UnRsTDNJRUE2RT"
-    },
-    {
-      "id": "d0c805dc8fc7",
-      "title": "F1. Le classement du championnat du monde des pilotes après le Grand Prix d’Espagne - Ouest-France",
-      "title_fr": "F1. Le classement du championnat du monde des pilotes après le Grand Prix d’Espagne - Ouest-France",
-      "title_en": "F1. Le classement du championnat du monde des pilotes après le Grand Prix d’Espagne - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdUdQREFYRFZYRmJ2SFczV0VNNF9EelpvWEp3S3dRSjNRQ25Xb2hZeXg1V1ZfdUhWVzc1YmFrdkR5UTB1OUt4YUFtdERIajBvT2RrVmVyQ2x1dTJBcEU2elZrWGlUZndidklKT29FcGwzMkswa3MxMTBfa2tDaUhxZklOOERBQ0t1RE1fb3VLSlVGVlpaZ3RyX3hHSFprS1MxNldPSHhoTzlTQWtYSFJpWjVDcG40QW1mSVctUjdhUW9YOTFkcmhHVDBqZmI0U3c3MTZobFB0V3BLSGROdnU2Z2p5Qzd0Z1k3Qkk1MDVyQUZfeWNQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T15:11:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdUdQREFYRFZYRmJ2SFczV0VNNF9EelpvWEp3S3dRSjNRQ25Xb2hZeXg1V1ZfdUhWVzc1YmFrdkR5UTB1OUt4YUFtdERIajBvT2RrVmVyQ2x1dTJBcEU2elZrWGlUZndidklKT29FcG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdUdQREFYRFZYRmJ2SFczV0VNNF9EelpvWEp3S3dRSjNRQ25Xb2hZeXg1V1ZfdUhWVzc1YmFrdkR5UTB1OUt4YUFtdERIajBvT2RrVmVyQ2x1dTJBcEU2elZrWGlUZndidklKT29FcG"
     }
   ]
 }
