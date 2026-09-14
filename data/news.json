@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-14T19:20:43Z",
+  "last_updated": "2026-09-14T22:23:59Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "299b2a318a65",
+      "title": "Pictures: Norris tests McLaren’s MCL-HY WEC hypercar at Algarve | Other Motorsport",
+      "title_fr": "Pictures: Norris tests McLaren’s MCL-HY WEC hypercar at Algarve | Other Motorsport",
+      "title_en": "Pictures: Norris tests McLaren’s MCL-HY WEC hypercar at Algarve | Other Motorsport",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/14/pictures-norris-tests-mclarens-mcl-hy-wec-hypercar-at-algarve/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-21-09-14-16-02-55-1.jpg",
+      "published_at": "2026-09-14T20:40:14+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris had his first run in McLaren's new World Endurance Championship hypercar following the Spanish Grand Prix.",
+      "summary_en": "Lando Norris had his first run in McLaren's new World Endurance Championship hypercar following the Spanish Grand Prix."
+    },
     {
       "id": "e50427ca6215",
       "title": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 1's first visit to Madrid in 45 years went off to a smooth enough start off the track, but its inaugural race at the Madring left plenty to be desired.<br />Starting from a relatively blank sh",
       "summary_en": "Formula 1's first visit to Madrid in 45 years went off to a smooth enough start off the track, but its inaugural race at the Madring left plenty to be desired.<br />Starting from a relatively blank sh"
-    },
-    {
-      "id": "e074b8b19009",
-      "title": "How virtual safety car cost Norris win - and should F1 change rules?",
-      "title_fr": "How virtual safety car cost Norris win - and should F1 change rules?",
-      "title_en": "How virtual safety car cost Norris win - and should F1 change rules?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyjwxv7y3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f29/live/222997f0-afa2-11f1-a27d-17e2480354ed.jpg",
-      "published_at": "2026-09-13T19:30:14+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car.",
-      "summary_en": "Lando Norris says he was \"insanely unlucky\" to lose what seemed like a certain win in the Spanish Grand Prix because of the timing of a virtual safety car."
     }
   ]
 }
