@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-15T04:32:51Z",
+  "last_updated": "2026-09-15T07:36:15Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "4626ffc49ce7",
+      "title": "What Colapinto learned from Gasly's Monza pole to make his Madrid breakthrough",
+      "title_fr": "What Colapinto learned from Gasly's Monza pole to make his Madrid breakthrough",
+      "title_en": "What Colapinto learned from Gasly's Monza pole to make his Madrid breakthrough",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/colapinto-reveals-how-monza-lessons-helped-him-shine-at-madring/10856002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arEXMw2/s6/franco-colapinto-alpine.jpg",
+      "published_at": "2026-09-15T07:18:31+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Franco Colapinto says studying Pierre Gasly's qualifying performance at Monza helped him make progress at the Spanish Grand Prix, where he finished seventh after reaching Q3.<br />Colapinto had been l",
+      "summary_en": "Franco Colapinto says studying Pierre Gasly's qualifying performance at Monza helped him make progress at the Spanish Grand Prix, where he finished seventh after reaching Q3.<br />Colapinto had been l"
+    },
+    {
+      "id": "d53b7da1f825",
+      "title": "How did they get the Madring track so wrong? - F1 Q&A",
+      "title_fr": "How did they get the Madring track so wrong? - F1 Q&A",
+      "title_en": "How did they get the Madring track so wrong? - F1 Q&A",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fa/live/62daf490-afa4-11f1-a27d-17e2480354ed.jpg",
+      "published_at": "2026-09-15T06:49:52+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.",
+      "summary_en": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix."
+    },
+    {
+      "id": "36b22619dac4",
+      "title": "‘Realistically I’m not in the fight for the drivers’ championship’ admits Russell | Formula 1",
+      "title_fr": "‘Realistically I’m not in the fight for the drivers’ championship’ admits Russell | Formula 1",
+      "title_en": "‘Realistically I’m not in the fight for the drivers’ championship’ admits Russell | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/15/realistically-im-not-in-the-fight-for-the-drivers-championship-admits-russell/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-21-09-06-08-16-35-1.jpg",
+      "published_at": "2026-09-15T06:17:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli's closest championship rival admits he does not have a realistic chance of beating him to the title this year.",
+      "summary_en": "Andrea Kimi Antonelli's closest championship rival admits he does not have a realistic chance of beating him to the title this year."
+    },
     {
       "id": "299b2a318a65",
       "title": "Pictures: Norris tests McLaren’s MCL-HY WEC hypercar at Algarve | Other Motorsport",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari driver Lewis Hamilton says he was \"lucky to make it round\" to the garage after suffering a brake failure in the opening stages of Madrid's Spanish GP.<br />Hamilton had been battling Max Verst",
       "summary_en": "Ferrari driver Lewis Hamilton says he was \"lucky to make it round\" to the garage after suffering a brake failure in the opening stages of Madrid's Spanish GP.<br />Hamilton had been battling Max Verst"
-    },
-    {
-      "id": "60f14ec00294",
-      "title": "F1: Chequered Flag",
-      "title_fr": "F1: Chequered Flag",
-      "title_en": "F1: Chequered Flag",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p9gj44?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": "2026-09-13T20:14:00+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Harry Benjamin, Alice Powell and Rebecca Clancy look back on the Spanish Grand Prix.",
-      "summary_en": "Harry Benjamin, Alice Powell and Rebecca Clancy look back on the Spanish Grand Prix."
-    },
-    {
-      "id": "c596fa51997f",
-      "title": "Lando Norris to test McLaren MCL-HY hypercar ahead of Azerbaijan GP",
-      "title_fr": "Lando Norris to test McLaren MCL-HY hypercar ahead of Azerbaijan GP",
-      "title_en": "Lando Norris to test McLaren MCL-HY hypercar ahead of Azerbaijan GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-to-test-mclaren-mcl-hy-hypercar-ahead-of-azerbaijan-gp/10855632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6VyKVzwY/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-13T19:40:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris will test McLaren's new MCL-HY hypercar at the Algarve International Circuit ahead of the Azerbaijan Grand Prix.<br />The test at the Portimao circuit is set to take place on Monday 14 Se",
-      "summary_en": "Lando Norris will test McLaren's new MCL-HY hypercar at the Algarve International Circuit ahead of the Azerbaijan Grand Prix.<br />The test at the Portimao circuit is set to take place on Monday 14 Se"
-    },
-    {
-      "id": "1897297b7f8d",
-      "title": "Winners and losers from F1's underwhelming Spanish Grand Prix",
-      "title_fr": "Winners and losers from F1's underwhelming Spanish Grand Prix",
-      "title_en": "Winners and losers from F1's underwhelming Spanish Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-underwhelming-spanish-gp/10855625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AmgwY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-13T19:32:52+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1's first visit to Madrid in 45 years went off to a smooth enough start off the track, but its inaugural race at the Madring left plenty to be desired.<br />Starting from a relatively blank sh",
-      "summary_en": "Formula 1's first visit to Madrid in 45 years went off to a smooth enough start off the track, but its inaugural race at the Madring left plenty to be desired.<br />Starting from a relatively blank sh"
     }
   ]
 }
