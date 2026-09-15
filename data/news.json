@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-09-15T07:36:15Z",
+  "last_updated": "2026-09-15T10:40:17Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "598e02ed3c78",
+      "title": "Slater to graduate from F3 to F2 for 2027",
+      "title_fr": "Slater to graduate from F3 to F2 for 2027",
+      "title_en": "Slater to graduate from F3 to F2 for 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6lmAQVx0/s6/freddie-slater-trident.jpg",
+      "published_at": "2026-09-15T09:49:21+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A",
+      "summary_en": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A"
+    },
+    {
+      "id": "b42f1f21883e",
+      "title": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
+      "title_fr": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
+      "title_en": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/fia-f2/news/f3-runner-up-freddie-slater-signs-f2-deal-for-2027-season/10856038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6lmAQVx0/s6/freddie-slater-trident.jpg",
+      "published_at": "2026-09-15T09:47:13+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A",
+      "summary_en": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A"
+    },
+    {
+      "id": "4de1bd244e9a",
+      "title": "Red Bull insists “there is nothing wrong” with Isack Hadjar's recovery",
+      "title_fr": "Red Bull insists “there is nothing wrong” with Isack Hadjar's recovery",
+      "title_en": "Red Bull insists “there is nothing wrong” with Isack Hadjar's recovery",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-on-hadjars-injury-there-is-nothing-wrong-with-isacks-recovery/10856017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0arEqMy2/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-09-15T08:27:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull team principal Laurent Mekies says Isack Hadjar’s recovery from injury is on target, despite the Frenchman having missed the last three Formula 1 grands prix.<br />Hadjar injured his wrist in",
+      "summary_en": "Red Bull team principal Laurent Mekies says Isack Hadjar’s recovery from injury is on target, despite the Frenchman having missed the last three Formula 1 grands prix.<br />Hadjar injured his wrist in"
+    },
+    {
+      "id": "8776dc57b6f4",
+      "title": "Kimi Antonelli's Spanish GP win will still \"sting\", says James Hinchcliffe",
+      "title_fr": "Kimi Antonelli's Spanish GP win will still \"sting\", says James Hinchcliffe",
+      "title_en": "Kimi Antonelli's Spanish GP win will still \"sting\", says James Hinchcliffe",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonellis-spanish-gp-win-will-still-sting-says-james-hinchcliffe/10855886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9E7mLY/s6/kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-15T08:00:03+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes driver and current championship leader Kimi Antonelli will feel a \"sting\" after his Spanish Grand Prix victory because he knows McLaren's Lando Norris had the faster car, according to former ",
+      "summary_en": "Mercedes driver and current championship leader Kimi Antonelli will feel a \"sting\" after his Spanish Grand Prix victory because he knows McLaren's Lando Norris had the faster car, according to former "
+    },
     {
       "id": "4626ffc49ce7",
       "title": "What Colapinto learned from Gasly's Monza pole to make his Madrid breakthrough",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0"
-    },
-    {
-      "id": "c243029141e8",
-      "title": "On This Day: Ferrari run blank livery at home race as tribute to 9/11 victims | Brief",
-      "title_fr": "On This Day: Ferrari run blank livery at home race as tribute to 9/11 victims | Brief",
-      "title_en": "On This Day: Ferrari run blank livery at home race as tribute to 9/11 victims | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/14/on-this-day-ferrari-run-blank-livery-at-home-race-as-tribute-to-9-11-victims/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2021/08/racefansdotnet-21-12-27-19-47-25-10.jpg",
-      "published_at": "2026-09-13T23:01:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari ran a blank livery",
-      "summary_en": "Ferrari ran a blank livery"
-    },
-    {
-      "id": "00f05c2e9981",
-      "title": "Kimi Antonelli's \"precious\" moment with father goes viral after Spanish GP win",
-      "title_fr": "Kimi Antonelli's \"precious\" moment with father goes viral after Spanish GP win",
-      "title_en": "Kimi Antonelli's \"precious\" moment with father goes viral after Spanish GP win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonellis-precious-moment-with-father-goes-viral-after-spanish-gp-win/10855648/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15rA10/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-13T21:11:41+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "A moment shared between Kimi Antonelli and his father, Marco Antonelli, has gone viral after the Mercedes driver celebrated his eighth Formula 1 win at the Spanish Grand Prix.<br />After the Italian d",
-      "summary_en": "A moment shared between Kimi Antonelli and his father, Marco Antonelli, has gone viral after the Mercedes driver celebrated his eighth Formula 1 win at the Spanish Grand Prix.<br />After the Italian d"
-    },
-    {
-      "id": "dc87f92d8fd9",
-      "title": "F1. « J’ai failli m’endormir » : le Madring, nouveau tracé du Grand Prix d’Espagne, n’a pas convaincu le paddock - Ouest-France",
-      "title_fr": "F1. « J’ai failli m’endormir » : le Madring, nouveau tracé du Grand Prix d’Espagne, n’a pas convaincu le paddock - Ouest-France",
-      "title_en": "F1. « J’ai failli m’endormir » : le Madring, nouveau tracé du Grand Prix d’Espagne, n’a pas convaincu le paddock - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSnhhTGlzOXdfcVY1eHVqcFpYNEEydDF4UUx5N0drQ2MtSmlaUjg3WDlhb3I0dGYtemhjZ1djUGQ0S1lUQ0JoRU1QSlgyTjI1QzZvbDB5UDZJbXNxLVJEc3liaktxOUdGdGpVa3NyOGkxUE5lRURVQkczTTBJd2YwMXZxY1JYbzRzZUtwMzA5bVpfSTVpRDB4VVhzelpoM3pXZ1NGek9heksyc3NXNUVCYUNNMXBWRWxUc2NUVDF1M3FrbVdGcUFxNHdCcnFtMVQzVkkzYk95Y19MME16aFN0YXdkU21GOXd0bUE3QXVJdnZfMHVjNmhXVnRZQXQtN29YMkZuMVVoTGYwTzR5?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-13T20:30:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPSnhhTGlzOXdfcVY1eHVqcFpYNEEydDF4UUx5N0drQ2MtSmlaUjg3WDlhb3I0dGYtemhjZ1djUGQ0S1lUQ0JoRU1QSlgyTjI1QzZvbDB5UDZJbXNxLVJEc3liaktxOUdGdGpVa3NyOG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPSnhhTGlzOXdfcVY1eHVqcFpYNEEydDF4UUx5N0drQ2MtSmlaUjg3WDlhb3I0dGYtemhjZ1djUGQ0S1lUQ0JoRU1QSlgyTjI1QzZvbDB5UDZJbXNxLVJEc3liaktxOUdGdGpVa3NyOG"
-    },
-    {
-      "id": "8b276b717aeb",
-      "title": "Lewis Hamilton “lucky to make it round” after Spanish GP brake failure",
-      "title_fr": "Lewis Hamilton “lucky to make it round” after Spanish GP brake failure",
-      "title_en": "Lewis Hamilton “lucky to make it round” after Spanish GP brake failure",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lucky-to-make-it-round-after-spanish-gp-brake-failure/10855642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0kZX1d86/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-13T20:21:18+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari driver Lewis Hamilton says he was \"lucky to make it round\" to the garage after suffering a brake failure in the opening stages of Madrid's Spanish GP.<br />Hamilton had been battling Max Verst",
-      "summary_en": "Ferrari driver Lewis Hamilton says he was \"lucky to make it round\" to the garage after suffering a brake failure in the opening stages of Madrid's Spanish GP.<br />Hamilton had been battling Max Verst"
     }
   ]
 }
