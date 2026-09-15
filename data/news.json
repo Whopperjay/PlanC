@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-09-15T10:40:17Z",
+  "last_updated": "2026-09-15T13:44:18Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "f128dfa863f3",
+      "title": "Formule 1 : F1 Kids, Grand Prix d'Espagne - canalplus.com",
+      "title_fr": "Formule 1 : F1 Kids, Grand Prix d'Espagne - canalplus.com",
+      "title_en": "Formule 1 : F1 Kids, Grand Prix d'Espagne - canalplus.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVpM0NPZkJGRzFpMlJZZDlBdm02Tk1UYjlmMm5RUnJsVTNqTFZsT01idUl2MEFIX2NnYVNKR2pQeXJDQTFRanFKZFB5NTM5UjY2djN6NXRLaGlvRm9zLVdqa2xIdmJMRktOZjBXMllLZjM2RVJZUE9ZWUdyVk1XcHRvNlJlRldwRkRDZTJzVjc0Zw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-15T13:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVpM0NPZkJGRzFpMlJZZDlBdm02Tk1UYjlmMm5RUnJsVTNqTFZsT01idUl2MEFIX2NnYVNKR2pQeXJDQTFRanFKZFB5NTM5UjY2djN6NXRLaGlvRm9zLVdqa2xIdmJMRktOZjBXMl",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVpM0NPZkJGRzFpMlJZZDlBdm02Tk1UYjlmMm5RUnJsVTNqTFZsT01idUl2MEFIX2NnYVNKR2pQeXJDQTFRanFKZFB5NTM5UjY2djN6NXRLaGlvRm9zLVdqa2xIdmJMRktOZjBXMl"
+    },
+    {
+      "id": "ef23d6b943eb",
+      "title": "Five ways F1 can fix the Madring for next year's Spanish GP",
+      "title_fr": "Five ways F1 can fix the Madring for next year's Spanish GP",
+      "title_en": "Five ways F1 can fix the Madring for next year's Spanish GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-ways-f1-can-fix-the-madring-for-next-years-spanish-gp/10856102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAjLq0/s6/liam-lawson-red-bull-racing-2.jpg",
+      "published_at": "2026-09-15T12:44:29+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "F1's much-anticipated return to Madrid has left fans of the series wanting due to a lack of action, though the Madring venue itself put on a respectable event. Here are five ways organisers could impr",
+      "summary_en": "F1's much-anticipated return to Madrid has left fans of the series wanting due to a lack of action, though the Madring venue itself put on a respectable event. Here are five ways organisers could impr"
+    },
+    {
+      "id": "a6acd3584bf7",
+      "title": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
+      "title_fr": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
+      "title_en": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QJVX6/s6/kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-09-15T11:40:46+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Strange things can happen in Formula 1. Just ask Max Verstappen, who couldn't believe his luck when McLaren handed him a way into the 2025 title fight on a silver platter. Although he eventually misse",
+      "summary_en": "Strange things can happen in Formula 1. Just ask Max Verstappen, who couldn't believe his luck when McLaren handed him a way into the 2025 title fight on a silver platter. Although he eventually misse"
+    },
+    {
+      "id": "7ac5d607a908",
+      "title": "Mercedes explains why George Russell pitted under VSC at Madring",
+      "title_fr": "Mercedes explains why George Russell pitted under VSC at Madring",
+      "title_en": "Mercedes explains why George Russell pitted under VSC at Madring",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNkjo0/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-15T11:37:11+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes deputy team principal Bradley Lord has explained why George Russell pitted under the virtual safety car despite starting on hard tyres in Formula 1’s Spanish Grand Prix.<br />Russell was the ",
+      "summary_en": "Mercedes deputy team principal Bradley Lord has explained why George Russell pitted under the virtual safety car despite starting on hard tyres in Formula 1’s Spanish Grand Prix.<br />Russell was the "
+    },
+    {
+      "id": "6f8e021a5d00",
+      "title": "F1 world champion among drivers for Race Of Champions’ first New Zealand event",
+      "title_fr": "F1 world champion among drivers for Race Of Champions’ first New Zealand event",
+      "title_en": "F1 world champion among drivers for Race Of Champions’ first New Zealand event",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-world-champion-among-drivers-for-race-of-champions-first-new-zealand-event/10856057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0JBaqdQ0/s6/sebastian-vettel-2.jpg",
+      "published_at": "2026-09-15T10:39:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Race Of Champions has announced the first four drivers for its inaugural New Zealand event, taking place at Wellington’s Hnry Stadium on 9-10 January 2027.<br />The lineup will be spearheaded by f",
+      "summary_en": "The Race Of Champions has announced the first four drivers for its inaugural New Zealand event, taking place at Wellington’s Hnry Stadium on 9-10 January 2027.<br />The lineup will be spearheaded by f"
+    },
     {
       "id": "598e02ed3c78",
       "title": "Slater to graduate from F3 to F2 for 2027",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbH",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbH"
-    },
-    {
-      "id": "5ebddbf1bfc1",
-      "title": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
-      "title_fr": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
-      "title_en": "Formula 1 drivers slate “useless” Madring circuit design after dull Spanish Grand Prix | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/14/formula-1-drivers-slate-useless-madring-circuit-design-after-lifeless-spanish-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-21-24-5-SI202609130633.jpg",
-      "published_at": "2026-09-14T06:15:31+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Drivers called for changes to the layout of the Madring following yesterday's processional race on Formula 1's newest track.",
-      "summary_en": "Drivers called for changes to the layout of the Madring following yesterday's processional race on Formula 1's newest track."
-    },
-    {
-      "id": "6e6e5823845b",
-      "title": "Formule 1 : Avant Barcelone et Madrid, quels circuits ont accueilli un Grand Prix d’Espagne ? - CANAL+",
-      "title_fr": "Formule 1 : Avant Barcelone et Madrid, quels circuits ont accueilli un Grand Prix d’Espagne ? - CANAL+",
-      "title_en": "Formule 1 : Avant Barcelone et Madrid, quels circuits ont accueilli un Grand Prix d’Espagne ? - CANAL+",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYVFwUnV0YTJnQkZhWmNBa2pNLXN3eC1OWE5iQTJqSDA3UmU0Y1JMLTlZRGhWOVFiQVo0dG1keEZtdE9yMUs0bW1Xa1ZRdlB5VDRUa3RHeWRDanlXbWZ2M0djUmlZaS16SXdjOHpjcDBqLXpCTlZibjNxZU9WeVRFYW40Y1U3NHR4QWhIQ3ExTzl6aWVDT04ycUtTX3N3aFVhNzlnS0dPdGp1Vkg2WlFZc1l5Tk9YUE53M1M2cjhHcmtSQlJWeEt6TzZB?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-14T06:09:46+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPYVFwUnV0YTJnQkZhWmNBa2pNLXN3eC1OWE5iQTJqSDA3UmU0Y1JMLTlZRGhWOVFiQVo0dG1keEZtdE9yMUs0bW1Xa1ZRdlB5VDRUa3RHeWRDanlXbWZ2M0djUmlZaS16SXdjOHpjcD",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPYVFwUnV0YTJnQkZhWmNBa2pNLXN3eC1OWE5iQTJqSDA3UmU0Y1JMLTlZRGhWOVFiQVo0dG1keEZtdE9yMUs0bW1Xa1ZRdlB5VDRUa3RHeWRDanlXbWZ2M0djUmlZaS16SXdjOHpjcD"
-    },
-    {
-      "id": "52176798cdd5",
-      "title": "Who slept worst last night: Carlos Sainz",
-      "title_fr": "Who slept worst last night: Carlos Sainz",
-      "title_en": "Who slept worst last night: Carlos Sainz",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-carlos-sainz/10855717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7z4GX6/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-14T05:46:04+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It is almost exactly 10 years since Formula 1 first took to the streets of Baku in June 2016. Everyone was curious to see what Azerbaijan's Grand Prix debut would bring, and plenty had predicted a cha",
-      "summary_en": "It is almost exactly 10 years since Formula 1 first took to the streets of Baku in June 2016. Everyone was curious to see what Azerbaijan's Grand Prix debut would bring, and plenty had predicted a cha"
-    },
-    {
-      "id": "eac3fd96a71f",
-      "title": "Who slept best last night: Lando Norris",
-      "title_fr": "Who slept best last night: Lando Norris",
-      "title_en": "Who slept best last night: Lando Norris",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-lando-norris-10855682/10855682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6DGgM7wY/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-14T05:16:06+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Oh, the irony!<br />Lando Norris found exactly the right words for his team on the cooldown lap in Madrid.<br />“We were too quick, that’s all it was.”<br />That’s literally what happened, isn’t it? L",
-      "summary_en": "Oh, the irony!<br />Lando Norris found exactly the right words for his team on the cooldown lap in Madrid.<br />“We were too quick, that’s all it was.”<br />That’s literally what happened, isn’t it? L"
-    },
-    {
-      "id": "971591f06a5a",
-      "title": "F1 : Le classement mis à jour dans la foulée du Grand-Prix d'Espagne, au championnat des pilotes - Le Mag Sport Auto",
-      "title_fr": "F1 : Le classement mis à jour dans la foulée du Grand-Prix d'Espagne, au championnat des pilotes - Le Mag Sport Auto",
-      "title_en": "F1 : Le classement mis à jour dans la foulée du Grand-Prix d'Espagne, au championnat des pilotes - Le Mag Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0s1dExFaEVnZUVabDFIdlJHejZmNEEzb2NaNVJjMkxpTUtjWmVUUzRfaUUycGFQWnZnQXdoTTl6LVlxRGRIM1ZQaERwZjFiY29GZEJUOU1KTkhBdG1iZUh3NnNsS1N3LTY3NGNHd3VR?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-14T04:02:01+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHlHcFVUMkFDbk1RQzljNjFBamc5bGpHTnJIQ09vM2hteEdrY1VvWkZPSHBzUEZidFlrZmdONkkwRHZQN3RlTHAxX3BfQ0hQWDVwWVM2WWJ4b2FOTnNfMHFFRlBkWHhmVEhSdVNkS0"
     }
   ]
 }
