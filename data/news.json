@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-15T13:44:18Z",
+  "last_updated": "2026-09-15T16:46:19Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "c198f1fa7ec7",
+      "title": "Ferrari not yet switching focus to 2027 F1 car",
+      "title_fr": "Ferrari not yet switching focus to 2027 F1 car",
+      "title_en": "Ferrari not yet switching focus to 2027 F1 car",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ferrari-not-switching-focus-to-f1-2027-car/10856173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2jEAMJz0/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-09-15T15:55:15+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.<br />After Lewis Hamilton retired from the Spanish Grand Prix",
+      "summary_en": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.<br />After Lewis Hamilton retired from the Spanish Grand Prix"
+    },
+    {
+      "id": "de9e7fd4f4fd",
+      "title": "Why Ferrari won't switch focus to 2027 F1 car yet",
+      "title_fr": "Why Ferrari won't switch focus to 2027 F1 car yet",
+      "title_en": "Why Ferrari won't switch focus to 2027 F1 car yet",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-ferrari-wont-switch-focus-to-2027-f1-car-yet/10856168/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlKoEMY/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-09-15T15:49:53+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.<br />After Lewis Hamilton retired from the Spanish Grand Prix",
+      "summary_en": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.<br />After Lewis Hamilton retired from the Spanish Grand Prix"
+    },
+    {
+      "id": "745874aa00c5",
+      "title": "Lando Norris lost Madring F1 win because of impossible overtaking – McLaren",
+      "title_fr": "Lando Norris lost Madring F1 win because of impossible overtaking – McLaren",
+      "title_en": "Lando Norris lost Madring F1 win because of impossible overtaking – McLaren",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-lost-madring-f1-win-because-of-impossible-overtaking-mclaren/10856133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alv5x9Y/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-15T14:37:04+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren Formula 1 team principal Andrea Stella says overtaking was too difficult at the Madring for Lando Norris to win the Spanish Grand Prix.<br />Norris took pole position at Madrid’s new street ci",
+      "summary_en": "McLaren Formula 1 team principal Andrea Stella says overtaking was too difficult at the Madring for Lando Norris to win the Spanish Grand Prix.<br />Norris took pole position at Madrid’s new street ci"
+    },
     {
       "id": "f128dfa863f3",
       "title": "Formule 1 : F1 Kids, Grand Prix d'Espagne - canalplus.com",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Aston Martin's engine partner Honda has replaced the project leader of its Formula 1 power unit programme as it aims to claw its way back into contention.<br />On Monday the Japanese manufacturer anno",
       "summary_en": "Aston Martin's engine partner Honda has replaced the project leader of its Formula 1 power unit programme as it aims to claw its way back into contention.<br />On Monday the Japanese manufacturer anno"
-    },
-    {
-      "id": "03a1f2ba0070",
-      "title": "Aston Martin partner Honda replaces F1 power unit boss",
-      "title_fr": "Aston Martin partner Honda replaces F1 power unit boss",
-      "title_en": "Aston Martin partner Honda replaces F1 power unit boss",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKoqBY/s6/lance-stroll-aston-martin.jpg",
-      "published_at": "2026-09-14T07:50:42+00:00",
-      "race_id": "japan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Aston Martin's engine partner Honda has replaced the project leader of its Formula 1 power unit programme as it aims to claw its way back into contention.<br />On Monday the Japanese manufacturer anno",
-      "summary_en": "Aston Martin's engine partner Honda has replaced the project leader of its Formula 1 power unit programme as it aims to claw its way back into contention.<br />On Monday the Japanese manufacturer anno"
-    },
-    {
-      "id": "079f003f1314",
-      "title": "Norris sure McLaren were right to pit him immediately after the VSC | Formula 1",
-      "title_fr": "Norris sure McLaren were right to pit him immediately after the VSC | Formula 1",
-      "title_en": "Norris sure McLaren were right to pit him immediately after the VSC | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/14/norris-sure-mclaren-were-right-to-pit-him-immediately-after-the-vsc/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-28-54-1-2295043989.jpg",
-      "published_at": "2026-09-14T07:16:03+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris defended McLaren's tactics after he lost his chance to win yesterday's Spanish Grand Prix during a Virtual Safety Car period.",
-      "summary_en": "Lando Norris defended McLaren's tactics after he lost his chance to win yesterday's Spanish Grand Prix during a Virtual Safety Car period."
-    },
-    {
-      "id": "819104c1668a",
-      "title": "F1 - GP d'Espagne 2026 : Antonelli victorieux, Leclerc trop court, Norris piégé (+ classement) - Sport Auto",
-      "title_fr": "F1 - GP d'Espagne 2026 : Antonelli victorieux, Leclerc trop court, Norris piégé (+ classement) - Sport Auto",
-      "title_en": "F1 - GP d'Espagne 2026 : Antonelli victorieux, Leclerc trop court, Norris piégé (+ classement) - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbHBKbU5FalpLUnlBUFVybHdKM2p5dzZyX0diWUp2RGp4TW5hbEdtYnlER3NYUlNOQlMyUnQzWVdpb1ZwaDdEZ1RYQThDQVdtZExxTTZ3bTdUUUUwN3RVUERQU05zZXNWWktWR0hEMDI0Mkdnb0JITVVMT2FhbWdzVmtF?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-14T06:30:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeldEWXhXR0hpbDZYd1J2bjdrZGl1UndwbHhNVTY4aU4tUU5HbHlUemFlWVRVR0xaNVJ3Q3ZaZUplMGt2LVRwOXRCZVJyNlVYWmVFN2IzMzBSekw0SHh4aFRqT0xfeHlTWmFVX29VbH"
     }
   ]
 }
