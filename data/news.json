@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-09-16T10:52:09Z",
+  "last_updated": "2026-09-16T13:53:40Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "ffc5d966100c",
+      "title": "F1. Le calendrier 2027 ouvre la porte aux stars pour les 24 Heures du Mans, Spa, le Nürburgring et Indianapolis - Ouest-France",
+      "title_fr": "F1. Le calendrier 2027 ouvre la porte aux stars pour les 24 Heures du Mans, Spa, le Nürburgring et Indianapolis - Ouest-France",
+      "title_en": "F1. Le calendrier 2027 ouvre la porte aux stars pour les 24 Heures du Mans, Spa, le Nürburgring et Indianapolis - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTzVxb0ZjNHNzQTlwTUFZalRKeUVYX3BEaVVRb0xLSDlEenlaalVPSG1iMXNOLVlTUGZ0NHJuZHNQZzBMY3Y3Sk5uZmdFYkFPZlN2UEE5cUVtSnlXYTJHQllqbmNGNUNxdU16VkdSWUhJODgwZG5iUlpPalVKd1VtaFFHSXVDUVlwVE1MOXlWejMyVV94Qk1Rd013R1hjeVZKMkhnRXNHWnlfa1VjOHlGcVEwQVF6aXpCVmtUZ0NKb1QwN041UUJoclVQMTRFZW16WEhMcFIyQW5Ibm01cUxyckxVRUJMZ2QtVU1wdkxwQ0dMNng4cmNMa3BQN3kzZmVUSWplWWdVaw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T13:36:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOTzVxb0ZjNHNzQTlwTUFZalRKeUVYX3BEaVVRb0xLSDlEenlaalVPSG1iMXNOLVlTUGZ0NHJuZHNQZzBMY3Y3Sk5uZmdFYkFPZlN2UEE5cUVtSnlXYTJHQllqbmNGNUNxdU16VkdSWU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOTzVxb0ZjNHNzQTlwTUFZalRKeUVYX3BEaVVRb0xLSDlEenlaalVPSG1iMXNOLVlTUGZ0NHJuZHNQZzBMY3Y3Sk5uZmdFYkFPZlN2UEE5cUVtSnlXYTJHQllqbmNGNUNxdU16VkdSWU"
+    },
+    {
+      "id": "70db4a2559c8",
+      "title": "How to watch Max vs 100",
+      "title_fr": "How to watch Max vs 100",
+      "title_en": "How to watch Max vs 100",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/general/news/how-to-watch-max-vs-100-/10856352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVP7pW0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-16T13:12:45+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 world champion Max Verstappen is attempting a new challenge today (Wednesday 16 September) as he competes against 100 go-karters at Silverstone.<br />The event, run by Red Bull, is being dub",
+      "summary_en": "Formula 1 world champion Max Verstappen is attempting a new challenge today (Wednesday 16 September) as he competes against 100 go-karters at Silverstone.<br />The event, run by Red Bull, is being dub"
+    },
+    {
+      "id": "c37d00650123",
+      "title": "How Kimi Antonelli and Mercedes made their own luck in Madrid",
+      "title_fr": "How Kimi Antonelli and Mercedes made their own luck in Madrid",
+      "title_en": "How Kimi Antonelli and Mercedes made their own luck in Madrid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-kimi-antonelli-and-mercedes-made-their-own-luck-in-madrid/10856347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YK15r3r0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-16T12:58:58+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "There’s no doubt everything fell perfectly into place for Kimi Antonelli to win Formula 1's Spanish Grand Prix.<br />The virtual safety car triggered by Lance Stroll’s retirement came at the perfect m",
+      "summary_en": "There’s no doubt everything fell perfectly into place for Kimi Antonelli to win Formula 1's Spanish Grand Prix.<br />The virtual safety car triggered by Lance Stroll’s retirement came at the perfect m"
+    },
+    {
+      "id": "716f406f6f91",
+      "title": "Is a Monaco F1 sprint a good idea or just mad? Our writers have their say",
+      "title_fr": "Is a Monaco F1 sprint a good idea or just mad? Our writers have their say",
+      "title_en": "Is a Monaco F1 sprint a good idea or just mad? Our writers have their say",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/is-a-monaco-f1-sprint-a-good-idea-or-just-mad-our-writers-have-their-say/10856324/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXwLzoY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-09-16T11:43:19+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "F1 had long planned to increase the number of sprints from the current six weekends per year because. The format allows promoters to offer their paying customers more on-track action that matters, mak",
+      "summary_en": "F1 had long planned to increase the number of sprints from the current six weekends per year because. The format allows promoters to offer their paying customers more on-track action that matters, mak"
+    },
+    {
+      "id": "f29151d00ab1",
+      "title": "Sprint à Monaco et retour de deux Grand Prix: la F1 dévoile plusieurs nouveautés pour la saison 2027 - rmcsport.bfmtv.com",
+      "title_fr": "Sprint à Monaco et retour de deux Grand Prix: la F1 dévoile plusieurs nouveautés pour la saison 2027 - rmcsport.bfmtv.com",
+      "title_en": "Sprint à Monaco et retour de deux Grand Prix: la F1 dévoile plusieurs nouveautés pour la saison 2027 - rmcsport.bfmtv.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0JkOXMySlhUZFljZFZ3Z1BDcnZsSk1zRXRwcEJ0dDFyOTRDcDh3cERLOHVhRnBDNkJ6bkx1R01CeV84QS1lNEhjZlh0SFo5UHRwVHc2My1sV1pfaHJJOTlyX2VpckxUMTVwNHhxQjM1ZjVpV2xpZWtaS3pfWGFpSElSV29DLTMwSl9hZw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T10:54:14+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0"
+    },
     {
       "id": "1f5cdf88ee6d",
       "title": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
@@ -58,6 +153,44 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV1pfNmk1Z0ZuaElrU3JweF9nRjJ2U0oyWG83TUUxRG1BeThaZXVJcGh1SGNVTkZYN0RjZHNONlk2RVpweGM0bkpxT2VPVHMxQzB2dnlEVE5MREtuTy1acjVhLUpYR0JRSWkyZ2hJek",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV1pfNmk1Z0ZuaElrU3JweF9nRjJ2U0oyWG83TUUxRG1BeThaZXVJcGh1SGNVTkZYN0RjZHNONlk2RVpweGM0bkpxT2VPVHMxQzB2dnlEVE5MREtuTy1acjVhLUpYR0JRSWkyZ2hJek"
+    },
+    {
+      "id": "12a3833a25dd",
+      "title": "Calendrier F1 2027 : 24 Grands Prix + 10 sprints au programme ! - Sport Auto",
+      "title_fr": "Calendrier F1 2027 : 24 Grands Prix + 10 sprints au programme ! - Sport Auto",
+      "title_en": "Calendrier F1 2027 : 24 Grands Prix + 10 sprints au programme ! - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjNFeVIyX2pnNlo1QU9LQTZPbS0xdk96aDl4V0VISGJFay1LckFRdTdra29ZQ3BBQ3Fub1M1djVMNTY4M1NIZGE1Y1l3bHBDU19yQ3lFbXRFVW9tYzlndmRTNVVwMVVpcUF3c3JwOTZrUHlQTHV5SWtHT0ZzUGZCYndkRThhdmRvV2dQcXdlbnFyYnhDYkhyQ1ZzdjdxV2dsd1NHUzJPM0w5RTljX3NsNEFFSQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T09:30:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjNFeVIyX2pnNlo1QU9LQTZPbS0xdk96aDl4V0VISGJFay1LckFRdTdra29ZQ3BBQ3Fub1M1djVMNTY4M1NIZGE1Y1l3bHBDU19yQ3lFbXRFVW9tYzlndmRTNVVwMVVpcUF3c3JwOT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjNFeVIyX2pnNlo1QU9LQTZPbS0xdk96aDl4V0VISGJFay1LckFRdTdra29ZQ3BBQ3Fub1M1djVMNTY4M1NIZGE1Y1l3bHBDU19yQ3lFbXRFVW9tYzlndmRTNVVwMVVpcUF3c3JwOT"
+    },
+    {
+      "id": "5cd50327a928",
+      "title": "Le calendrier 2027 de la F1 dévoilé avec 24 GP et 10 Sprints - France Racing",
+      "title_fr": "Le calendrier 2027 de la F1 dévoilé avec 24 GP et 10 Sprints - France Racing",
+      "title_en": "Le calendrier 2027 de la F1 dévoilé avec 24 GP et 10 Sprints - France Racing",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3EzdDF2YTZqYzNla1JxQTJwNjNGQldlWm1sUFF0REZDZ0VsTTNROW1VZEpmODlpV01Nb1F3Ri0yOXJzQk5fY1dycmIxMHpEc0d5aXVqcUJ4cEVhN3FWNEw5V3JpTmw5U2tMd0FwUDZZeXZNZllxdmtGNmhXOVRGMkFhZXhfMzR2Ul9ZdV9n?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T09:25:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3EzdDF2YTZqYzNla1JxQTJwNjNGQldlWm1sUFF0REZDZ0VsTTNROW1VZEpmODlpV01Nb1F3Ri0yOXJzQk5fY1dycmIxMHpEc0d5aXVqcUJ4cEVhN3FWNEw5V3JpTmw5U2tMd0FwUD",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3EzdDF2YTZqYzNla1JxQTJwNjNGQldlWm1sUFF0REZDZ0VsTTNROW1VZEpmODlpV01Nb1F3Ri0yOXJzQk5fY1dycmIxMHpEc0d5aXVqcUJ4cEVhN3FWNEw5V3JpTmw5U2tMd0FwUD"
     },
     {
       "id": "97929c033310",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.<br />Kimi Antonelli took the chequered flag in Madrid",
       "summary_en": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.<br />Kimi Antonelli took the chequered flag in Madrid"
-    },
-    {
-      "id": "29374da236d6",
-      "title": "F1. Après l’ennui du Grand Prix de Madrid, les organisateurs promettent des changements pour les prochaines éditions - Ouest-France",
-      "title_fr": "F1. Après l’ennui du Grand Prix de Madrid, les organisateurs promettent des changements pour les prochaines éditions - Ouest-France",
-      "title_en": "F1. Après l’ennui du Grand Prix de Madrid, les organisateurs promettent des changements pour les prochaines éditions - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmdnQW1nWHJ4MnVmcFN1Skl2aGdPUnJjVk9LUFBpY21IUEdSbElfUUI1OGh6YmR1anJyOTJjaGFLRktCM1RUYmNGOU1pWGxrNzRoSVdTekJybGpmMDJsWlJDR19vZ3NEWVBRZXl2TlVkeHg3Zi02c2c0NHNqbURoWWQxQjJiREZEdWtwaDBFZVBLd09RaFdYYlVMWjlBa3hFWFU3Wjd6dGpoLUtnRmlfeDB1VHltbDY0M2l4RlVDajZzb2dhWGl3MHNGV0lweUh6NUdLR083bVdJMXRPODNTd2ZzcGpBcy1IT3JuNUNab1lucldvUndrSEhCY1U3bkhzTWNoN2Y3MV9pdGc0MF9sN3VKY2dadGc5MFF5NDhzOA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-14T16:24:42+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmdnQW1nWHJ4MnVmcFN1Skl2aGdPUnJjVk9LUFBpY21IUEdSbElfUUI1OGh6YmR1anJyOTJjaGFLRktCM1RUYmNGOU1pWGxrNzRoSVdTekJybGpmMDJsWlJDR19vZ3NEWVBRZXl2Tl",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmdnQW1nWHJ4MnVmcFN1Skl2aGdPUnJjVk9LUFBpY21IUEdSbElfUUI1OGh6YmR1anJyOTJjaGFLRktCM1RUYmNGOU1pWGxrNzRoSVdTekJybGpmMDJsWlJDR19vZ3NEWVBRZXl2Tl"
-    },
-    {
-      "id": "2ffee8d3973a",
-      "title": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
-      "title_fr": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
-      "title_en": "Guenther Steiner criticises Lando Norris's Coca-Cola Spanish GP moment as 'unprofessional'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-brands-lando-norriss-coca-cola-spanish-gp-moment-unprofessional/10855926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXbBOL2/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-14T16:18:54+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has criticised Lando Norris's Coca-Cola cooldown room moment following the Spanish Grand Prix in Madrid, claiming it was unprofessional of the McL",
-      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has criticised Lando Norris's Coca-Cola cooldown room moment following the Spanish Grand Prix in Madrid, claiming it was unprofessional of the McL"
-    },
-    {
-      "id": "baaa659712d3",
-      "title": "Franco Colapinto, le pilote de la semaine | F1 - GP d'Espagne - L'Équipe",
-      "title_fr": "Franco Colapinto, le pilote de la semaine | F1 - GP d'Espagne - L'Équipe",
-      "title_en": "Franco Colapinto, le pilote de la semaine | F1 - GP d'Espagne - L'Équipe",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl4S2pRb0NnUFZsM3ZhWTR5TkpTZ3Q2VjBuOEUxZVc1VTBFaGlPd2xfOHc4WEE4S1pGTzhKLXhtRVRLUUdmVW9ZVjNLM04tdGxqYjNYWEhqRkRRc1pRQ2FRNV9nMTZDVlNsTEpBa2RUTDN5dDFtdnpycTRYVUcwa1JKTFBXQTFqT2t2N2hfaTBWRkhvSjdXeDhhRzBwOFB0M0lJ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-14T16:05:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl4S2pRb0NnUFZsM3ZhWTR5TkpTZ3Q2VjBuOEUxZVc1VTBFaGlPd2xfOHc4WEE4S1pGTzhKLXhtRVRLUUdmVW9ZVjNLM04tdGxqYjNYWEhqRkRRc1pRQ2FRNV9nMTZDVlNsTEpBa2",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXl4S2pRb0NnUFZsM3ZhWTR5TkpTZ3Q2VjBuOEUxZVc1VTBFaGlPd2xfOHc4WEE4S1pGTzhKLXhtRVRLUUdmVW9ZVjNLM04tdGxqYjNYWEhqRkRRc1pRQ2FRNV9nMTZDVlNsTEpBa2"
-    },
-    {
-      "id": "eab26bde2757",
-      "title": "Why F1 should avoid knee-jerk rule changes after Lando Norris' Madrid heartbreak",
-      "title_fr": "Why F1 should avoid knee-jerk rule changes after Lando Norris' Madrid heartbreak",
-      "title_en": "Why F1 should avoid knee-jerk rule changes after Lando Norris' Madrid heartbreak",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-f1-should-avoid-knee-jerk-rule-changes-after-norris-madrid-heartbreak/10855905/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5Am8wY/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-14T16:02:16+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris lost a Formula 1 race win through no fault of his own - or his team's - but simply because of the unfortunate timing of a virtual safety car, triggered on lap 14 of the Spanish Grand Prix",
-      "summary_en": "Lando Norris lost a Formula 1 race win through no fault of his own - or his team's - but simply because of the unfortunate timing of a virtual safety car, triggered on lap 14 of the Spanish Grand Prix"
-    },
-    {
-      "id": "8265fd5d257f",
-      "title": "F2 bulks up Baku schedule with extra feature race – is this a clue for F1’s future?",
-      "title_fr": "F2 bulks up Baku schedule with extra feature race – is this a clue for F1’s future?",
-      "title_en": "F2 bulks up Baku schedule with extra feature race – is this a clue for F1’s future?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/fia-f2/news/f2-expands-baku-schedule-in-possible-hint-over-f1-calendar/10855893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2jX4LzE6/s6/dino-beganovic-hitech-tgr.jpg",
-      "published_at": "2026-09-14T14:56:00+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Formula 2 championship has announced a \"supersized\" meeting for its next round in Baku. The move will see it host an additional feature race in Azerbaijan and comes just 10 days before the race we",
-      "summary_en": "The Formula 2 championship has announced a \"supersized\" meeting for its next round in Baku. The move will see it host an additional feature race in Azerbaijan and comes just 10 days before the race we"
-    },
-    {
-      "id": "bf8ced3a9eef",
-      "title": "F2 adds extra Baku feature race and insists Qatar, Abu Dhabi still on – what does this mean for F1?",
-      "title_fr": "F2 adds extra Baku feature race and insists Qatar, Abu Dhabi still on – what does this mean for F1?",
-      "title_en": "F2 adds extra Baku feature race and insists Qatar, Abu Dhabi still on – what does this mean for F1?",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/formula2/news/f2-bulks-up-baku-schedule-with-extra-feature-race-is-this-a-clue-for-f1s-future/10855898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0JB3Lpo0/s6/race-winner-jak-crawford-dams--2.jpg",
-      "published_at": "2026-09-14T14:55:56+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Formula 2 championship has announced a \"supersized\" meeting for its next round in Baku. The move will see it host an additional feature race in Azerbaijan and comes just 10 days before the race we",
-      "summary_en": "The Formula 2 championship has announced a \"supersized\" meeting for its next round in Baku. The move will see it host an additional feature race in Azerbaijan and comes just 10 days before the race we"
-    },
-    {
-      "id": "c1c986a0a380",
-      "title": "Nico Rosberg stunned by Kimi Antonelli's \"unbelievable\" maturity in 2026 F1 title fight",
-      "title_fr": "Nico Rosberg stunned by Kimi Antonelli's \"unbelievable\" maturity in 2026 F1 title fight",
-      "title_en": "Nico Rosberg stunned by Kimi Antonelli's \"unbelievable\" maturity in 2026 F1 title fight",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-stunned-by-kimi-antonellis-unbelievable-maturity-in-2026-f1-title-fight/10855901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9E7mDY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-14T14:55:16+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "2016 Formula 1 champion Nico Rosberg says he has been astonished by Kimi Antonelli’s maturity during the 2026 season.<br />Antonelli extended his lead in the drivers’ championship with his eighth win ",
-      "summary_en": "2016 Formula 1 champion Nico Rosberg says he has been astonished by Kimi Antonelli’s maturity during the 2026 season.<br />Antonelli extended his lead in the drivers’ championship with his eighth win "
     }
   ]
 }
