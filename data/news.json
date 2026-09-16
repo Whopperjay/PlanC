@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-16T16:54:49Z",
+  "last_updated": "2026-09-16T19:55:50Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "d772fe001776",
+      "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+      "title_fr": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+      "title_en": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg",
+      "published_at": "2026-09-16T18:11:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
+      "summary_en": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone."
+    },
     {
       "id": "7188b01f84dd",
       "title": "Featured Comment: 34 F1 races on 2027 calendar is too many | Brief",
@@ -193,6 +212,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0"
     },
     {
+      "id": "190b569dc09b",
+      "title": "Formule 1. Une course sprint à Monaco… Le calendrier 2027 dévoilé avec 24 Grands Prix programmés - Ouest-France",
+      "title_fr": "Formule 1. Une course sprint à Monaco… Le calendrier 2027 dévoilé avec 24 Grands Prix programmés - Ouest-France",
+      "title_en": "Formule 1. Une course sprint à Monaco… Le calendrier 2027 dévoilé avec 24 Grands Prix programmés - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SUV3SnE5TVBSbGczanlpZERWQ0xNY2E1SHc4U3VvSmhabjMxWk1wSHpsRmstT1YtcjE0QWg2d251VlYyZUh4RTk5bF9ZWThlN2tSVUNhVi1RSDc5M3pyT2FES0wzQlRPMTYweFBnWl9nT29lTUt5a1JrY19uQUc3U0lXVjFSN2Zxbjl2X3FQaWNkYnFxZk5JUTBtTF9XS2Fn?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T10:51:58+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SU"
+    },
+    {
       "id": "1f5cdf88ee6d",
       "title": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
       "title_fr": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
@@ -305,6 +343,25 @@
       "is_breaking": false,
       "summary_fr": "The announcement of the 2027 Formula 1 calendar on Wednesday has seemingly left the door open for a grand prix drivers to tackle the Le Mans 24 Hours next year. The 24-round schedule leaves a comforta",
       "summary_en": "The announcement of the 2027 Formula 1 calendar on Wednesday has seemingly left the door open for a grand prix drivers to tackle the Le Mans 24 Hours next year. The 24-round schedule leaves a comforta"
+    },
+    {
+      "id": "ec39a36e3303",
+      "title": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura lieu un samedi ? - Le Figaro",
+      "title_fr": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura lieu un samedi ? - Le Figaro",
+      "title_en": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura lieu un samedi ? - Le Figaro",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lJQzU0TTQ1Mk0xNmJrMDBqUU1SdUtKa3g5N0VIdk9VeFh1QTBoOVItTTYwel9SLTRVQjVWd0tURTdZR0pfTU5kM3NMWTBsbVFGZms0LVRGbUFBb1dHbGlnYV94M2NNUjkyT2l6eWVFMnd5OTZrYXppZ0xPMHlmdktCWHBvVllGNnZrakQydzFnaUtvSS1HZW94YTNXWm9NbnNrdWZIZmFqUEdYTHJiei0xTzBpR1U?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T09:14:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lJQzU0TTQ1Mk0xNmJrMDBqUU1SdUtKa3g5N0VIdk9VeFh1QTBoOVItTTYwel9SLTRVQjVWd0tURTdZR0pfTU5kM3NMWTBsbVFGZms0LVRGbUFBb1dHbGlnYV94M2NNUjkyT2l6eW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lJQzU0TTQ1Mk0xNmJrMDBqUU1SdUtKa3g5N0VIdk9VeFh1QTBoOVItTTYwel9SLTRVQjVWd0tURTdZR0pfTU5kM3NMWTBsbVFGZms0LVRGbUFBb1dHbGlnYV94M2NNUjkyT2l6eW"
     },
     {
       "id": "8e760791af81",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Red Bull team principal Laurent Mekies says Isack Hadjar’s recovery from injury is on target, despite the Frenchman having missed the last three Formula 1 grands prix.<br />Hadjar injured his wrist in",
       "summary_en": "Red Bull team principal Laurent Mekies says Isack Hadjar’s recovery from injury is on target, despite the Frenchman having missed the last three Formula 1 grands prix.<br />Hadjar injured his wrist in"
-    },
-    {
-      "id": "8776dc57b6f4",
-      "title": "Kimi Antonelli's Spanish GP win will still \"sting\", says James Hinchcliffe",
-      "title_fr": "Kimi Antonelli's Spanish GP win will still \"sting\", says James Hinchcliffe",
-      "title_en": "Kimi Antonelli's Spanish GP win will still \"sting\", says James Hinchcliffe",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonellis-spanish-gp-win-will-still-sting-says-james-hinchcliffe/10855886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9E7mLY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-15T08:00:03+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes driver and current championship leader Kimi Antonelli will feel a \"sting\" after his Spanish Grand Prix victory because he knows McLaren's Lando Norris had the faster car, according to former ",
-      "summary_en": "Mercedes driver and current championship leader Kimi Antonelli will feel a \"sting\" after his Spanish Grand Prix victory because he knows McLaren's Lando Norris had the faster car, according to former "
-    },
-    {
-      "id": "4626ffc49ce7",
-      "title": "What Colapinto learned from Gasly's Monza pole to make his Madrid breakthrough",
-      "title_fr": "What Colapinto learned from Gasly's Monza pole to make his Madrid breakthrough",
-      "title_en": "What Colapinto learned from Gasly's Monza pole to make his Madrid breakthrough",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/colapinto-reveals-how-monza-lessons-helped-him-shine-at-madring/10856002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0arEXMw2/s6/franco-colapinto-alpine.jpg",
-      "published_at": "2026-09-15T07:18:31+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Franco Colapinto says studying Pierre Gasly's qualifying performance at Monza helped him make progress at the Spanish Grand Prix, where he finished seventh after reaching Q3.<br />Colapinto had been l",
-      "summary_en": "Franco Colapinto says studying Pierre Gasly's qualifying performance at Monza helped him make progress at the Spanish Grand Prix, where he finished seventh after reaching Q3.<br />Colapinto had been l"
-    },
-    {
-      "id": "d53b7da1f825",
-      "title": "How did they get the Madring track so wrong? - F1 Q&A",
-      "title_fr": "How did they get the Madring track so wrong? - F1 Q&A",
-      "title_en": "How did they get the Madring track so wrong? - F1 Q&A",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fa/live/62daf490-afa4-11f1-a27d-17e2480354ed.jpg",
-      "published_at": "2026-09-15T06:49:52+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.",
-      "summary_en": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix."
     }
   ]
 }
