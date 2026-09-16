@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-09-16T13:53:40Z",
+  "last_updated": "2026-09-16T16:54:49Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "7188b01f84dd",
+      "title": "Featured Comment: 34 F1 races on 2027 calendar is too many | Brief",
+      "title_fr": "Featured Comment: 34 F1 races on 2027 calendar is too many | Brief",
+      "title_en": "Featured Comment: 34 F1 races on 2027 calendar is too many | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/16/featured-comment-34-f1-races-on-2027-calendar-is-too-many/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-24-08-23-19-47-20-9-M622483_F1_Grand_Prix_of_Netherlands.jpg",
+      "published_at": "2026-09-16T15:50:58+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1's 34-race 2027 calendar puts quantity over quality",
+      "summary_en": "Formula 1's 34-race 2027 calendar puts quantity over quality"
+    },
+    {
+      "id": "ba81c63617bf",
+      "title": "“I’m not enjoying life” – How Yuki Tsunoda’s Red Bull F1 stint “exhausted” him",
+      "title_fr": "“I’m not enjoying life” – How Yuki Tsunoda’s Red Bull F1 stint “exhausted” him",
+      "title_en": "“I’m not enjoying life” – How Yuki Tsunoda’s Red Bull F1 stint “exhausted” him",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0L1NQzN2/s6/yuki-tsunoda-red-bull-racing.jpg",
+      "published_at": "2026-09-16T14:35:57+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "In the pre-2026 Formula 1 eras, Red Bull’s second seat made quite a few casualties.<br />Pierre Gasly, Alexander Albon, Sergio Perez, Liam Lawson. All of them struggled – and eventually failed – to ma",
+      "summary_en": "In the pre-2026 Formula 1 eras, Red Bull’s second seat made quite a few casualties.<br />Pierre Gasly, Alexander Albon, Sergio Perez, Liam Lawson. All of them struggled – and eventually failed – to ma"
+    },
+    {
+      "id": "d3d8af14b5e5",
+      "title": "Bruising F1 2026 will not be the end for Russell - Wolff",
+      "title_fr": "Bruising F1 2026 will not be the end for Russell - Wolff",
+      "title_en": "Bruising F1 2026 will not be the end for Russell - Wolff",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Ld5wXJ0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-16T14:12:24+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff is confident that George Russell can overcome a bruising 2026 Formula 1 campaign and still become world champion in the future.<br />The Mercedes driver is second and 81 points behind his d",
+      "summary_en": "Toto Wolff is confident that George Russell can overcome a bruising 2026 Formula 1 campaign and still become world champion in the future.<br />The Mercedes driver is second and 81 points behind his d"
+    },
+    {
+      "id": "d7fa81cee676",
+      "title": "Was Cadillac “faster” than Williams in Madring F1 race?",
+      "title_fr": "Was Cadillac “faster” than Williams in Madring F1 race?",
+      "title_en": "Was Cadillac “faster” than Williams in Madring F1 race?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/was-cadillac-faster-than-williams-in-madring-f1-race/10856327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxqdaY/s6/valtteri-bottas-cadillac-racin-2.jpg",
+      "published_at": "2026-09-16T13:56:21+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Cadillac has been a backmarker in Formula 1 so far in the team’s maiden season, battling Aston Martin early on before the latter’s progress.<br />However, the team’s race pace was encouraging in the S",
+      "summary_en": "Cadillac has been a backmarker in Formula 1 so far in the team’s maiden season, battling Aston Martin early on before the latter’s progress.<br />However, the team’s race pace was encouraging in the S"
+    },
+    {
+      "id": "0b599851abb4",
+      "title": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
+      "title_fr": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
+      "title_en": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856365/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2jEAMGN0/s6/oliver-bearman-haas-f1-team-2.jpg",
+      "published_at": "2026-09-16T13:50:16+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards",
+      "summary_en": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards"
+    },
     {
       "id": "ffc5d966100c",
       "title": "F1. Le calendrier 2027 ouvre la porte aux stars pour les 24 Heures du Mans, Spa, le Nürburgring et Indianapolis - Ouest-France",
@@ -210,6 +305,25 @@
       "is_breaking": false,
       "summary_fr": "The announcement of the 2027 Formula 1 calendar on Wednesday has seemingly left the door open for a grand prix drivers to tackle the Le Mans 24 Hours next year. The 24-round schedule leaves a comforta",
       "summary_en": "The announcement of the 2027 Formula 1 calendar on Wednesday has seemingly left the door open for a grand prix drivers to tackle the Le Mans 24 Hours next year. The 24-round schedule leaves a comforta"
+    },
+    {
+      "id": "8e760791af81",
+      "title": "La Formule 1 dévoile son calendrier 2027 avec un record de dix courses Sprint - f1i.autojournal.fr",
+      "title_fr": "La Formule 1 dévoile son calendrier 2027 avec un record de dix courses Sprint - f1i.autojournal.fr",
+      "title_en": "La Formule 1 dévoile son calendrier 2027 avec un record de dix courses Sprint - f1i.autojournal.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm1aMzJyVGdDOHNVT3EtQS1WNU1yeTBNdHkzZTJrUW1kNnJpTTBSaDAzS19YTzYzc19IZVZ5QW9nYUROb0tCelp1ZkF3Z3VDbjMwdWphekFnalRuQ3J1eE5iMFl2YmRMNzJYOFpQX3oyVC0yQ3d3eFRiYzNoaTFxVzh2cFVOUnlQVzZDT081QkRkLVJSRDlncFBxallrb3dnV2F4aUQwOEMwTkFZb1lzdWRYT3pFQy1iYVYySk1hZ0dTN0xp?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T09:10:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm1aMzJyVGdDOHNVT3EtQS1WNU1yeTBNdHkzZTJrUW1kNnJpTTBSaDAzS19YTzYzc19IZVZ5QW9nYUROb0tCelp1ZkF3Z3VDbjMwdWphekFnalRuQ3J1eE5iMFl2YmRMNzJYOFpQX3",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm1aMzJyVGdDOHNVT3EtQS1WNU1yeTBNdHkzZTJrUW1kNnJpTTBSaDAzS19YTzYzc19IZVZ5QW9nYUROb0tCelp1ZkF3Z3VDbjMwdWphekFnalRuQ3J1eE5iMFl2YmRMNzJYOFpQX3"
     },
     {
       "id": "2fc4c3e5dfb1",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.",
       "summary_en": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix."
-    },
-    {
-      "id": "36b22619dac4",
-      "title": "‘Realistically I’m not in the fight for the drivers’ championship’ admits Russell | Formula 1",
-      "title_fr": "‘Realistically I’m not in the fight for the drivers’ championship’ admits Russell | Formula 1",
-      "title_en": "‘Realistically I’m not in the fight for the drivers’ championship’ admits Russell | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/15/realistically-im-not-in-the-fight-for-the-drivers-championship-admits-russell/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-21-09-06-08-16-35-1.jpg",
-      "published_at": "2026-09-15T06:17:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli's closest championship rival admits he does not have a realistic chance of beating him to the title this year.",
-      "summary_en": "Andrea Kimi Antonelli's closest championship rival admits he does not have a realistic chance of beating him to the title this year."
-    },
-    {
-      "id": "299b2a318a65",
-      "title": "Pictures: Norris tests McLaren’s MCL-HY WEC hypercar at Algarve | Other Motorsport",
-      "title_fr": "Pictures: Norris tests McLaren’s MCL-HY WEC hypercar at Algarve | Other Motorsport",
-      "title_en": "Pictures: Norris tests McLaren’s MCL-HY WEC hypercar at Algarve | Other Motorsport",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/14/pictures-norris-tests-mclarens-mcl-hy-wec-hypercar-at-algarve/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-21-09-14-16-02-55-1.jpg",
-      "published_at": "2026-09-14T20:40:14+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris had his first run in McLaren's new World Endurance Championship hypercar following the Spanish Grand Prix.",
-      "summary_en": "Lando Norris had his first run in McLaren's new World Endurance Championship hypercar following the Spanish Grand Prix."
-    },
-    {
-      "id": "e50427ca6215",
-      "title": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
-      "title_fr": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
-      "title_en": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2dEoVJ5Y/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-14T18:29:19+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr",
-      "summary_en": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr"
-    },
-    {
-      "id": "9692d597265c",
-      "title": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
-      "title_fr": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
-      "title_en": "Lando Norris completes first full test in McLaren’s Le Mans Hypercar",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2dEoVJ5Y/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-14T18:20:49+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr",
-      "summary_en": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday.<br />Following last weekend’s Spanish Grand Pr"
-    },
-    {
-      "id": "2c3053feeb46",
-      "title": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
-      "title_fr": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
-      "title_en": "Who is racing Max Verstappen in \"Max vs 100\"? Entry list revealed",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-is-racing-max-verstappen-in-max-vs-100-entry-list-revealed/10855944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEoVNDY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-14T17:31:04+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The majority of the 100 karters preparing to challenge four-time Formula 1 champion Max Verstappen in the Max vs 100 event on Wednesday 16 September have been revealed.<br />Streaming live on Disney+,",
-      "summary_en": "The majority of the 100 karters preparing to challenge four-time Formula 1 champion Max Verstappen in the Max vs 100 event on Wednesday 16 September have been revealed.<br />Streaming live on Disney+,"
-    },
-    {
-      "id": "a577f34910a2",
-      "title": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
-      "title_fr": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
-      "title_en": "F1 Azerbaijan GP is on a Saturday in 2026, here's why",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-is-on-a-saturday-in-2026-why/10855369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/Yv87Xr70/s6/drivers-take-the-start-of-the-.jpg",
-      "published_at": "2026-09-14T16:46:02+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.<br />Kimi Antonelli took the chequered flag in Madrid",
-      "summary_en": "The 2026 Formula 1 campaign is reaching its end with 14 of the currently scheduled 23 rounds now complete after last weekend’s Spanish Grand Prix.<br />Kimi Antonelli took the chequered flag in Madrid"
     }
   ]
 }
