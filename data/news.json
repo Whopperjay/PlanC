@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-16T04:49:40Z",
+  "last_updated": "2026-09-16T07:50:19Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "7537a1fdcf64",
+      "title": "Stats: Mercedes equal Ferrari as Formula 1’s most successful engine builders | 2026 Spanish Grand Prix stats and facts",
+      "title_fr": "Stats: Mercedes equal Ferrari as Formula 1’s most successful engine builders | 2026 Spanish Grand Prix stats and facts",
+      "title_en": "Stats: Mercedes equal Ferrari as Formula 1’s most successful engine builders | 2026 Spanish Grand Prix stats and facts",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/16/2026-spanish-grand-prix-stats-and-facts/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-15-12-31-22-25-M587005_F1_Grand_Prix_Of_China.jpg",
+      "published_at": "2026-09-16T06:15:20+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli's latest win means Mercedes power units have now won as many grands prix as Ferrari's have.",
+      "summary_en": "Andrea Kimi Antonelli's latest win means Mercedes power units have now won as many grands prix as Ferrari's have."
+    },
+    {
+      "id": "2fc85a9cdc11",
+      "title": "Formule 1 : F1 Kids, Grand Prix d'Espagne mercredi 16 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
+      "title_fr": "Formule 1 : F1 Kids, Grand Prix d'Espagne mercredi 16 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
+      "title_en": "Formule 1 : F1 Kids, Grand Prix d'Espagne mercredi 16 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzajB0NWZRZ0Q2YkRiMHloUTdhekJyeFdnT2xLV0tpLWw3SlZvNnowV0I2aWI2bFQ5RjZWZnAyQkQtcjFBRXZyNTUway1xQjF4M2VZdUhfNXJ4WWQxQ014bkFRdVFhYzN2MmxSQzB3aFdORHJ2X2hmUmZnS3ZpaHRHc2M?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T04:24:17+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj"
+    },
     {
       "id": "7f126f22a62d",
       "title": "Andrea Stella: McLaren must help Oscar Piastri stop \"thinking\" about how to drive '26 F1 car",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Organisers of Formula 1's Spanish Grand Prix in Madrid are ready to make tweaks to the Madring circuit to boost overtaking for 2027, and have already received recommendations from the FIA.<br />The 5.",
       "summary_en": "Organisers of Formula 1's Spanish Grand Prix in Madrid are ready to make tweaks to the Madring circuit to boost overtaking for 2027, and have already received recommendations from the FIA.<br />The 5."
-    },
-    {
-      "id": "0645118452fa",
-      "title": "Featured Comment: Is the new Madrid’s circuit one of Formula 1’s worst tracks? | Brief",
-      "title_fr": "Featured Comment: Is the new Madrid’s circuit one of Formula 1’s worst tracks? | Brief",
-      "title_en": "Featured Comment: Is the new Madrid’s circuit one of Formula 1’s worst tracks? | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/14/featured-comment-is-the-new-madrids-circuit-one-of-formula-1s-worst-tracks/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-38-05-2-A2618293.jpg",
-      "published_at": "2026-09-14T08:55:27+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The knives are out in the comments for Spain's new F1 circuit",
-      "summary_en": "The knives are out in the comments for Spain's new F1 circuit"
-    },
-    {
-      "id": "390becee219e",
-      "title": "Honda changes F1 design boss after slow start to return",
-      "title_fr": "Honda changes F1 design boss after slow start to return",
-      "title_en": "Honda changes F1 design boss after slow start to return",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cpved014n83o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b973/live/0b01ea40-b016-11f1-b5bf-05bb1b446a39.jpg",
-      "published_at": "2026-09-14T08:39:13+00:00",
-      "race_id": "japan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Honda changes the leadership of its Formula 1 engine programme after the Japanese manufacturer's disappointing start to its return to the sport this season.",
-      "summary_en": "Honda changes the leadership of its Formula 1 engine programme after the Japanese manufacturer's disappointing start to its return to the sport this season."
     }
   ]
 }
