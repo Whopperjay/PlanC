@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-09-16T07:50:19Z",
+  "last_updated": "2026-09-16T10:52:09Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "1f5cdf88ee6d",
+      "title": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
+      "title_fr": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
+      "title_en": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856149/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKwnvDY/s6/oliver-bearman-haas-f1-team.jpg",
+      "published_at": "2026-09-16T10:48:32+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards",
+      "summary_en": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards"
+    },
+    {
+      "id": "21aa8f089af2",
+      "title": "La F1 dévoile le calendrier 2027, Monaco parmi les 10 sprints - Motorsport.com France",
+      "title_fr": "La F1 dévoile le calendrier 2027, Monaco parmi les 10 sprints - Motorsport.com France",
+      "title_en": "La F1 dévoile le calendrier 2027, Monaco parmi les 10 sprints - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDQ4WUlWc3NtXzN3ZV9Ubm1tYXNLSTVVMExTX09mSGVpcWUxYmlCV1RtdW55NXdjOTJfYUFPY2UzZ1FUb3Z2REx4Wmw3REdfTE02MTZZLW5WLUU1RWxUaWF4aUQ2RGZvQUhSNGxqU25fWWZ6WUxFdUFmYzBuYzJETFhzVllRVkoy?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T09:45:23+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDQ4WUlWc3NtXzN3ZV9Ubm1tYXNLSTVVMExTX09mSGVpcWUxYmlCV1RtdW55NXdjOTJfYUFPY2UzZ1FUb3Z2REx4Wmw3REdfTE02MTZZLW5WLUU1RWxUaWF4aUQ2RGZvQUhSNGxqU2",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDQ4WUlWc3NtXzN3ZV9Ubm1tYXNLSTVVMExTX09mSGVpcWUxYmlCV1RtdW55NXdjOTJfYUFPY2UzZ1FUb3Z2REx4Wmw3REdfTE02MTZZLW5WLUU1RWxUaWF4aUQ2RGZvQUhSNGxqU2"
+    },
+    {
+      "id": "27c6a4961c76",
+      "title": "Calendrier F1 2027 : 24 Grands Prix + 10 sprints au programme ! - Sport Auto",
+      "title_fr": "Calendrier F1 2027 : 24 Grands Prix + 10 sprints au programme ! - Sport Auto",
+      "title_en": "Calendrier F1 2027 : 24 Grands Prix + 10 sprints au programme ! - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV1pfNmk1Z0ZuaElrU3JweF9nRjJ2U0oyWG83TUUxRG1BeThaZXVJcGh1SGNVTkZYN0RjZHNONlk2RVpweGM0bkpxT2VPVHMxQzB2dnlEVE5MREtuTy1acjVhLUpYR0JRSWkyZ2hJekFpcHRHanFRY2VBTVlqQVVoZ0VQd09QUG8wcU5MM2pBaU1sS1pkYWxaY2tGRE1yOFZ3eG9RbzFpdzEtcWl3dURPUHNBZzFIWEpnNWdScFRZUXcyeWxucDJPX1dHV0RtQUFwYWZHSUVnc05jcUl3Vl9fbTRwSmM2MjE5cTJ1d1h6dDFoQVI5YVpjaU9DYUhQUG8?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T09:30:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV1pfNmk1Z0ZuaElrU3JweF9nRjJ2U0oyWG83TUUxRG1BeThaZXVJcGh1SGNVTkZYN0RjZHNONlk2RVpweGM0bkpxT2VPVHMxQzB2dnlEVE5MREtuTy1acjVhLUpYR0JRSWkyZ2hJek",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV1pfNmk1Z0ZuaElrU3JweF9nRjJ2U0oyWG83TUUxRG1BeThaZXVJcGh1SGNVTkZYN0RjZHNONlk2RVpweGM0bkpxT2VPVHMxQzB2dnlEVE5MREtuTy1acjVhLUpYR0JRSWkyZ2hJek"
+    },
+    {
+      "id": "97929c033310",
+      "title": "F1 clash avoided but can Lando Norris or Max Verstappen race at Le Mans 2027?",
+      "title_fr": "F1 clash avoided but can Lando Norris or Max Verstappen race at Le Mans 2027?",
+      "title_en": "F1 clash avoided but can Lando Norris or Max Verstappen race at Le Mans 2027?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/wec/news/f1-clash-avoided-but-can-lando-norris-or-max-verstappen-race-at-le-mans-2027/10856278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0qgKwJgY/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-09-16T09:18:42+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The announcement of the 2027 Formula 1 calendar on Wednesday has seemingly left the door open for a grand prix drivers to tackle the Le Mans 24 Hours next year. The 24-round schedule leaves a comforta",
+      "summary_en": "The announcement of the 2027 Formula 1 calendar on Wednesday has seemingly left the door open for a grand prix drivers to tackle the Le Mans 24 Hours next year. The 24-round schedule leaves a comforta"
+    },
+    {
+      "id": "2fc4c3e5dfb1",
+      "title": "Monaco to hold first sprint race as F1 increases total to 10 on 2027 calendar | Formula 1",
+      "title_fr": "Monaco to hold first sprint race as F1 increases total to 10 on 2027 calendar | Formula 1",
+      "title_en": "Monaco to hold first sprint race as F1 increases total to 10 on 2027 calendar | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/16/monaco-to-hold-first-sprint-race-as-f1-increases-total-to-10-on-2027-calendar/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/05/racefansdotnet-24-05-25-15-04-15-9-2216965521.jpg",
+      "published_at": "2026-09-16T09:07:02+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Despite concerns over the viability of racing in the Middle East, Formula 1 has announced its 2027 season will begin and end there.",
+      "summary_en": "Despite concerns over the viability of racing in the Middle East, Formula 1 has announced its 2027 season will begin and end there."
+    },
+    {
+      "id": "29bcda0dcc71",
+      "title": "Officiel : la F1 dévoile le calendrier de la saison pour 2027 - Nextgen-Auto.com",
+      "title_fr": "Officiel : la F1 dévoile le calendrier de la saison pour 2027 - Nextgen-Auto.com",
+      "title_en": "Officiel : la F1 dévoile le calendrier de la saison pour 2027 - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTZ4UkxXUDR4S2N3aVlPbXl5WTJpSXRoY3ZGMS1WWjdLcWphVmFNU2VkeGdJeG1oS2dpYkhqNllueXlXNTc1MkhrSzlGM3pYcUlFbHR0dlVIckppa2FDX19yWmxGRE41ZDI2VFEydWNIZTdHLVdrWHJjaW5DYlpNakUxZklrVWJmODFWZk1sR0ZWMzZ5c3g5bmV4OEhvRzFKVkQzMDJxRHl4RV9aNW9iUlJ6T1dqenVYX3d2SA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-16T09:03:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTZ4UkxXUDR4S2N3aVlPbXl5WTJpSXRoY3ZGMS1WWjdLcWphVmFNU2VkeGdJeG1oS2dpYkhqNllueXlXNTc1MkhrSzlGM3pYcUlFbHR0dlVIckppa2FDX19yWmxGRE41ZDI2VFEydW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTZ4UkxXUDR4S2N3aVlPbXl5WTJpSXRoY3ZGMS1WWjdLcWphVmFNU2VkeGdJeG1oS2dpYkhqNllueXlXNTc1MkhrSzlGM3pYcUlFbHR0dlVIckppa2FDX19yWmxGRE41ZDI2VFEydW"
+    },
+    {
+      "id": "23b07d59b8cf",
+      "title": "F1 to have 10 sprint races in 2027, including Monaco",
+      "title_fr": "F1 to have 10 sprint races in 2027, including Monaco",
+      "title_en": "F1 to have 10 sprint races in 2027, including Monaco",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316d/live/f1668190-b146-11f1-a383-57f33d64a166.jpg",
+      "published_at": "2026-09-16T09:01:21+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 increases the number of sprint races from six to 10 for the 2027 World Championship.",
+      "summary_en": "Formula 1 increases the number of sprint races from six to 10 for the 2027 World Championship."
+    },
+    {
+      "id": "224c818eb29e",
+      "title": "F1 reveals 2027 calendar as Monaco joins expanded sprint schedule",
+      "title_fr": "F1 reveals 2027 calendar as Monaco joins expanded sprint schedule",
+      "title_en": "F1 reveals 2027 calendar as Monaco joins expanded sprint schedule",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-reveals-2027-calendar-as-monaco-joins-expanded-sprint-schedule/10856277/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0arKL8X2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-16T09:01:00+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "F1 has unveiled its 24-race calendar for the 2027 season, increasing the number of sprint weekends to 10, as it kicks off the season in Bahrain and finishes in Abu Dhabi.<br />The 2027 season is slate",
+      "summary_en": "F1 has unveiled its 24-race calendar for the 2027 season, increasing the number of sprint weekends to 10, as it kicks off the season in Bahrain and finishes in Abu Dhabi.<br />The 2027 season is slate"
+    },
+    {
+      "id": "020e28ac05aa",
+      "title": "F1 announces 2027 calendar - with Monaco among 10 sprint races",
+      "title_fr": "F1 announces 2027 calendar - with Monaco among 10 sprint races",
+      "title_en": "F1 announces 2027 calendar - with Monaco among 10 sprint races",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-announces-2027-calendar-with-monaco-among-10-sprint-races/10856260/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0arKL8X2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-16T09:00:29+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "F1 has unveiled its 24-race calendar for the 2027 season, increasing the number of sprint weekends to 10, as it kicks off the season in Bahrain and finishes in Abu Dhabi.<br />The 2027 season is slate",
+      "summary_en": "F1 has unveiled its 24-race calendar for the 2027 season, increasing the number of sprint weekends to 10, as it kicks off the season in Bahrain and finishes in Abu Dhabi.<br />The 2027 season is slate"
+    },
+    {
+      "id": "e4f879a1fb62",
+      "title": "Sebastian Vettel: “I’d be very happy” for Kimi Antonelli to beat me as F1’s youngest champion",
+      "title_fr": "Sebastian Vettel: “I’d be very happy” for Kimi Antonelli to beat me as F1’s youngest champion",
+      "title_en": "Sebastian Vettel: “I’d be very happy” for Kimi Antonelli to beat me as F1’s youngest champion",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/sebastian-vettel-id-be-very-happy-for-kimi-antonelli-to-beat-me-as-f1s-youngest-champion/10856263/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBJR16/s6/kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-16T08:42:23+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Sebastian Vettel says he will be “very happy” for Kimi Antonelli to beat his record as Formula 1’s youngest world champion.<br />Vettel earned the accolade in 2010 at 23 years, four months and 11 days",
+      "summary_en": "Sebastian Vettel says he will be “very happy” for Kimi Antonelli to beat his record as Formula 1’s youngest world champion.<br />Vettel earned the accolade in 2010 at 23 years, four months and 11 days"
+    },
     {
       "id": "7537a1fdcf64",
       "title": "Stats: Mercedes equal Ferrari as Formula 1’s most successful engine builders | 2026 Spanish Grand Prix stats and facts",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "2016 Formula 1 champion Nico Rosberg says he has been astonished by Kimi Antonelli’s maturity during the 2026 season.<br />Antonelli extended his lead in the drivers’ championship with his eighth win ",
       "summary_en": "2016 Formula 1 champion Nico Rosberg says he has been astonished by Kimi Antonelli’s maturity during the 2026 season.<br />Antonelli extended his lead in the drivers’ championship with his eighth win "
-    },
-    {
-      "id": "46ade1395466",
-      "title": "Madrid F1 circuit set for changes after criticism",
-      "title_fr": "Madrid F1 circuit set for changes after criticism",
-      "title_en": "Madrid F1 circuit set for changes after criticism",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d477/live/9ea62f10-b041-11f1-bb36-29bb24d8b9b8.jpg",
-      "published_at": "2026-09-14T14:11:04+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Spanish Grand Prix organisers are set to make changes to the new Madrid circuit after criticism of its inaugural race at the weekend.",
-      "summary_en": "Spanish Grand Prix organisers are set to make changes to the new Madrid circuit after criticism of its inaugural race at the weekend."
-    },
-    {
-      "id": "3628aa66a543",
-      "title": "Why McLaren won’t blame F1 race control for lost Spanish GP victory",
-      "title_fr": "Why McLaren won’t blame F1 race control for lost Spanish GP victory",
-      "title_en": "Why McLaren won’t blame F1 race control for lost Spanish GP victory",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-mclaren-wont-blame-race-control-for-lost-spanish-gp-victory/10855804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7LQ85Y/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-14T14:03:26+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "After qualifying on pole position with a stunning lap on Saturday, victory in the Formula 1 Spanish Grand Prix looked certain for Lando Norris – until an ill-timed virtual safety car cost him a shot a",
-      "summary_en": "After qualifying on pole position with a stunning lap on Saturday, victory in the Formula 1 Spanish Grand Prix looked certain for Lando Norris – until an ill-timed virtual safety car cost him a shot a"
-    },
-    {
-      "id": "4f7f7e7b5ce9",
-      "title": "Williams tipped for \"huge step\" forward at Azerbaijan GP with major upgrade",
-      "title_fr": "Williams tipped for \"huge step\" forward at Azerbaijan GP with major upgrade",
-      "title_en": "Williams tipped for \"huge step\" forward at Azerbaijan GP with major upgrade",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-tipped-for-huge-step-forward-at-azerbaijan-gp-with-major-upgrade/10855873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YP74R582/s6/alexander-albon-williams-carlo.jpg",
-      "published_at": "2026-09-14T13:49:09+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver Juan Pablo Montoya expects Williams to take a \"huge step\" forward at the upcoming Azerbaijan Grand Prix as the Grove outfit prepares to introduce a much-needed upgrade package.",
-      "summary_en": "Former Formula 1 driver Juan Pablo Montoya expects Williams to take a \"huge step\" forward at the upcoming Azerbaijan Grand Prix as the Grove outfit prepares to introduce a much-needed upgrade package."
-    },
-    {
-      "id": "56e6137844c6",
-      "title": "George Russell told to turn focus to 2027 as title bid branded \"a write-off\" after Spanish GP",
-      "title_fr": "George Russell told to turn focus to 2027 as title bid branded \"a write-off\" after Spanish GP",
-      "title_en": "George Russell told to turn focus to 2027 as title bid branded \"a write-off\" after Spanish GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-told-to-turn-focus-to-2027-as-title-bid-branded-a-write-off-after-spanish-gp/10855654/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgMJ4Y/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-09-14T13:00:40+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former IndyCar Series driver and F1 TV analyst James Hinchcliffe has argued that George Russell must treat the remainder of the 2026 season as early preparation for 2027, declaring that the Briton's c",
-      "summary_en": "Former IndyCar Series driver and F1 TV analyst James Hinchcliffe has argued that George Russell must treat the remainder of the 2026 season as early preparation for 2027, declaring that the Briton's c"
-    },
-    {
-      "id": "671612770dae",
-      "title": "His worst races would be enough: The remarkable stats behind Kimi Antonelli’s title hopes",
-      "title_fr": "His worst races would be enough: The remarkable stats behind Kimi Antonelli’s title hopes",
-      "title_en": "His worst races would be enough: The remarkable stats behind Kimi Antonelli’s title hopes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/even-antonellis-worst-races-would-be-enough-in-remarkable-f1-title-scenario/10855828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZX1Bo6/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-14T13:00:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It takes a fair bit of imagination to find any real drama left in the 2026 Formula 1 World Championship. After 14 grands prix, Kimi Antonelli leads George Russell by 81 points, Lewis Hamilton by 101 a",
-      "summary_en": "It takes a fair bit of imagination to find any real drama left in the 2026 Formula 1 World Championship. After 14 grands prix, Kimi Antonelli leads George Russell by 81 points, Lewis Hamilton by 101 a"
-    },
-    {
-      "id": "090afa84f746",
-      "title": "Romain Grosjean apologises to McLaren after controversial, unfounded comments",
-      "title_fr": "Romain Grosjean apologises to McLaren after controversial, unfounded comments",
-      "title_en": "Romain Grosjean apologises to McLaren after controversial, unfounded comments",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/grosjean-apologises-to-mclaren-over-controversial-unfounded-comments/10855806/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/254M3Wk0/s6/romain-grosjean.jpg",
-      "published_at": "2026-09-14T10:57:28+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 and Canal+ pundit Romain Grosjean publicly apologised to McLaren and Zak Brown over comments made during coverage of the Spanish Grand Prix at the Madring.<br />Present in Madrid for the Spa",
-      "summary_en": "Formula 1 and Canal+ pundit Romain Grosjean publicly apologised to McLaren and Zak Brown over comments made during coverage of the Spanish Grand Prix at the Madring.<br />Present in Madrid for the Spa"
-    },
-    {
-      "id": "dfcdbcf2b162",
-      "title": "\"My race could have been over\" – Max Verstappen’s take on first lap incident with Lewis Hamilton",
-      "title_fr": "\"My race could have been over\" – Max Verstappen’s take on first lap incident with Lewis Hamilton",
-      "title_en": "\"My race could have been over\" – Max Verstappen’s take on first lap incident with Lewis Hamilton",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/my-race-could-have-been-over-max-verstappens-take-on-first-lap-incident-with-lewis-hamilton/10855771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Lde8gv0/s6/kimi-antonelli-mercedes-lewis-.jpg",
-      "published_at": "2026-09-14T10:00:03+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "With his fifth podium finish in seven race weekends, Max Verstappen got the maximum out of the first Formula 1 race at the Madring. The Dutchman managed to take second place in the Spanish Grand Prix ",
-      "summary_en": "With his fifth podium finish in seven race weekends, Max Verstappen got the maximum out of the first Formula 1 race at the Madring. The Dutchman managed to take second place in the Spanish Grand Prix "
-    },
-    {
-      "id": "f16c51518c7c",
-      "title": "Le Grand Prix d'Espagne promet des changements sur le Madring après les critiques - Motorsport.com France",
-      "title_fr": "Le Grand Prix d'Espagne promet des changements sur le Madring après les critiques - Motorsport.com France",
-      "title_en": "Le Grand Prix d'Espagne promet des changements sur le Madring après les critiques - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXBPQXhOTHVaSXdvaEhzQVZwdjdOeVk2Wk9qVTdXbjQ0RFpRZ1dGSHpzdWNfQ1poWjZzSkR1aWUxUGJFbE1HYU0wbzJBVzRVOTlOOVZla2taX2JqRjd3ZHNUV1BJc2x1eE1OYzZYVTVEaW9ZYnREZjB4UW1oVV91SWJUaDk1enk5bFZpNEFGN1JqQXplSkE?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-14T09:57:41+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXBPQXhOTHVaSXdvaEhzQVZwdjdOeVk2Wk9qVTdXbjQ0RFpRZ1dGSHpzdWNfQ1poWjZzSkR1aWUxUGJFbE1HYU0wbzJBVzRVOTlOOVZla2taX2JqRjd3ZHNUV1BJc2x1eE1OYzZYVT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXBPQXhOTHVaSXdvaEhzQVZwdjdOeVk2Wk9qVTdXbjQ0RFpRZ1dGSHpzdWNfQ1poWjZzSkR1aWUxUGJFbE1HYU0wbzJBVzRVOTlOOVZla2taX2JqRjd3ZHNUV1BJc2x1eE1OYzZYVT"
-    },
-    {
-      "id": "c148bcb7b1da",
-      "title": "Spanish GP organisers promise Madring track changes following F1 criticism",
-      "title_fr": "Spanish GP organisers promise Madring track changes following F1 criticism",
-      "title_en": "Spanish GP organisers promise Madring track changes following F1 criticism",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/spanish-gp-organisers-promise-madring-track-changes-following-f1-criticism/10855769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2GdKeVrY/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-09-14T09:17:21+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Organisers of Formula 1's Spanish Grand Prix in Madrid are ready to make tweaks to the Madring circuit to boost overtaking for 2027, and have already received recommendations from the FIA.<br />The 5.",
-      "summary_en": "Organisers of Formula 1's Spanish Grand Prix in Madrid are ready to make tweaks to the Madring circuit to boost overtaking for 2027, and have already received recommendations from the FIA.<br />The 5."
-    },
-    {
-      "id": "f2955d3e1e41",
-      "title": "Spanish GP promises Madring track changes following F1 criticism",
-      "title_fr": "Spanish GP promises Madring track changes following F1 criticism",
-      "title_en": "Spanish GP promises Madring track changes following F1 criticism",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/spanish-gp-promises-madring-f1-track-changes-following-criticism/10855761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YP74DE42/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-14T09:15:02+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Organisers of Formula 1's Spanish Grand Prix in Madrid are ready to make tweaks to the Madring circuit to boost overtaking for 2027, and have already received recommendations from the FIA.<br />The 5.",
-      "summary_en": "Organisers of Formula 1's Spanish Grand Prix in Madrid are ready to make tweaks to the Madring circuit to boost overtaking for 2027, and have already received recommendations from the FIA.<br />The 5."
     }
   ]
 }
