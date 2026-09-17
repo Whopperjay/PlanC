@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-17T04:57:26Z",
+  "last_updated": "2026-09-17T07:57:57Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "568f0fe284a7",
+      "title": "Video: Verstappen beats amateur rivals in ‘Max vs 100’ kart race | Brief",
+      "title_fr": "Video: Verstappen beats amateur rivals in ‘Max vs 100’ kart race | Brief",
+      "title_en": "Video: Verstappen beats amateur rivals in ‘Max vs 100’ kart race | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/17/video-verstappen-beats-amateur-rivals-in-max-vs-100-kart-race/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-17-08-29-08-2-SI202609160531.jpg",
+      "published_at": "2026-09-17T07:46:56+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Verstappen passes 100 amateur karters in Silverstone exhibition race",
+      "summary_en": "Verstappen passes 100 amateur karters in Silverstone exhibition race"
+    },
+    {
+      "id": "134bd63a31a1",
+      "title": "Tsunoda ‘wasn’t hugely disappointed’ when Red Bull dropped him last year | Formula 1",
+      "title_fr": "Tsunoda ‘wasn’t hugely disappointed’ when Red Bull dropped him last year | Formula 1",
+      "title_en": "Tsunoda ‘wasn’t hugely disappointed’ when Red Bull dropped him last year | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/17/tsunoda-admits-he-wasnt-hugely-disappointed-when-red-bull-dropped-him-last-year/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/12/racefansdotnet-24-12-07-19-35-09-1-SI202512060542.jpg",
+      "published_at": "2026-09-17T06:16:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Yuki Tsunoda said he couldn't have tried harder to understand Red Bull's car and still couldn't fathom it at the end of 2025.",
+      "summary_en": "Yuki Tsunoda said he couldn't have tried harder to understand Red Bull's car and still couldn't fathom it at the end of 2025."
+    },
     {
       "id": "d772fe001776",
       "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A",
       "summary_en": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A"
-    },
-    {
-      "id": "b42f1f21883e",
-      "title": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
-      "title_fr": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
-      "title_en": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/fia-f2/news/f3-runner-up-freddie-slater-signs-f2-deal-for-2027-season/10856038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6lmAQVx0/s6/freddie-slater-trident.jpg",
-      "published_at": "2026-09-15T09:47:13+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A",
-      "summary_en": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A"
-    },
-    {
-      "id": "4de1bd244e9a",
-      "title": "Red Bull insists “there is nothing wrong” with Isack Hadjar's recovery",
-      "title_fr": "Red Bull insists “there is nothing wrong” with Isack Hadjar's recovery",
-      "title_en": "Red Bull insists “there is nothing wrong” with Isack Hadjar's recovery",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-on-hadjars-injury-there-is-nothing-wrong-with-isacks-recovery/10856017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0arEqMy2/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-09-15T08:27:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull team principal Laurent Mekies says Isack Hadjar’s recovery from injury is on target, despite the Frenchman having missed the last three Formula 1 grands prix.<br />Hadjar injured his wrist in",
-      "summary_en": "Red Bull team principal Laurent Mekies says Isack Hadjar’s recovery from injury is on target, despite the Frenchman having missed the last three Formula 1 grands prix.<br />Hadjar injured his wrist in"
     }
   ]
 }
