@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-09-17T07:57:57Z",
+  "last_updated": "2026-09-17T10:59:17Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "7194a6a4febc",
+      "title": "Former Mercedes design boss Elliott joins Alpine",
+      "title_fr": "Former Mercedes design boss Elliott joins Alpine",
+      "title_en": "Former Mercedes design boss Elliott joins Alpine",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a6/live/6e149aa0-b283-11f1-8096-b33a1297275a.jpg",
+      "published_at": "2026-09-17T10:52:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer.",
+      "summary_en": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer."
+    },
+    {
+      "id": "a3634e0b13a4",
+      "title": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
+      "title_fr": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
+      "title_en": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YEQnAJKY/s6/mike-elliott-technology-direct.jpg",
+      "published_at": "2026-09-17T10:43:54+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will",
+      "summary_en": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will"
+    },
+    {
+      "id": "c614eafe0282",
+      "title": "Alpine hires former Mercedes F1 tech chief Mike Elliott as CTO",
+      "title_fr": "Alpine hires former Mercedes F1 tech chief Mike Elliott as CTO",
+      "title_en": "Alpine hires former Mercedes F1 tech chief Mike Elliott as CTO",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/alpine-hires-former-mercedes-f1-tech-chief-mike-elliott-cto/10856493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YEQnAJKY/s6/mike-elliott-technology-direct.jpg",
+      "published_at": "2026-09-17T10:33:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will",
+      "summary_en": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will"
+    },
+    {
+      "id": "043d0ef5f0f8",
+      "title": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
+      "title_fr": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
+      "title_en": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/01QdKL50/s6/yuki-tsunoda-red-bull-racing-t-2.jpg",
+      "published_at": "2026-09-17T09:37:43+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025",
+      "summary_en": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025"
+    },
+    {
+      "id": "63c57a9ed060",
+      "title": "F1 : GP d’Azerbaïdjan 2026, horaires, chaîne, comment suivre la course - Sport.fr",
+      "title_fr": "F1 : GP d’Azerbaïdjan 2026, horaires, chaîne, comment suivre la course - Sport.fr",
+      "title_en": "F1 : GP d’Azerbaïdjan 2026, horaires, chaîne, comment suivre la course - Sport.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2TzQwam9FRXB4bXUwWlE1b2R3Ql9jb1hId3lYeU5BZmc1TDNUdzlUUV81MVhkb2xVTEpqWUx3WlU0dXVlZnFw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-17T09:37:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2Tz",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2Tz"
+    },
+    {
+      "id": "9e3b729a9832",
+      "title": "Yuki Tsunoda reveals why he failed to master Red Bull’s F1 car in 2025",
+      "title_fr": "Yuki Tsunoda reveals why he failed to master Red Bull’s F1 car in 2025",
+      "title_en": "Yuki Tsunoda reveals why he failed to master Red Bull’s F1 car in 2025",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-reveals-why-he-failed-to-master-red-bulls-f1-car-in-2025/10856416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/254MoAE0/s6/yuki-tsunoda-red-bull-racing-t.jpg",
+      "published_at": "2026-09-17T09:12:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025",
+      "summary_en": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025"
+    },
+    {
+      "id": "e621f4b1b599",
+      "title": "Autosport magazine: Antonelli and a Can-Am celebration",
+      "title_fr": "Autosport magazine: Antonelli and a Can-Am celebration",
+      "title_en": "Autosport magazine: Antonelli and a Can-Am celebration",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/general/news/autosport-magazine-antonelli-and-a-can-am-celebration/10856457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6n7b1WO0/s6/autosport-magazine-oct26-lands.jpg",
+      "published_at": "2026-09-17T08:17:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli’s rise to become Formula 1 world championship favourite and a celebration marking 60 years of Can-Am feature in the October issue of Autosport, out today (17 September).<br />It’s not j",
+      "summary_en": "Kimi Antonelli’s rise to become Formula 1 world championship favourite and a celebration marking 60 years of Can-Am feature in the October issue of Autosport, out today (17 September).<br />It’s not j"
+    },
     {
       "id": "568f0fe284a7",
       "title": "Video: Verstappen beats amateur rivals in ‘Max vs 100’ kart race | Brief",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.<br />After Lewis Hamilton retired from the Spanish Grand Prix",
       "summary_en": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances.<br />After Lewis Hamilton retired from the Spanish Grand Prix"
-    },
-    {
-      "id": "745874aa00c5",
-      "title": "Lando Norris lost Madring F1 win because of impossible overtaking – McLaren",
-      "title_fr": "Lando Norris lost Madring F1 win because of impossible overtaking – McLaren",
-      "title_en": "Lando Norris lost Madring F1 win because of impossible overtaking – McLaren",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-lost-madring-f1-win-because-of-impossible-overtaking-mclaren/10856133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alv5x9Y/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-15T14:37:04+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren Formula 1 team principal Andrea Stella says overtaking was too difficult at the Madring for Lando Norris to win the Spanish Grand Prix.<br />Norris took pole position at Madrid’s new street ci",
-      "summary_en": "McLaren Formula 1 team principal Andrea Stella says overtaking was too difficult at the Madring for Lando Norris to win the Spanish Grand Prix.<br />Norris took pole position at Madrid’s new street ci"
-    },
-    {
-      "id": "f128dfa863f3",
-      "title": "Formule 1 : F1 Kids, Grand Prix d'Espagne - canalplus.com",
-      "title_fr": "Formule 1 : F1 Kids, Grand Prix d'Espagne - canalplus.com",
-      "title_en": "Formule 1 : F1 Kids, Grand Prix d'Espagne - canalplus.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVpM0NPZkJGRzFpMlJZZDlBdm02Tk1UYjlmMm5RUnJsVTNqTFZsT01idUl2MEFIX2NnYVNKR2pQeXJDQTFRanFKZFB5NTM5UjY2djN6NXRLaGlvRm9zLVdqa2xIdmJMRktOZjBXMllLZjM2RVJZUE9ZWUdyVk1XcHRvNlJlRldwRkRDZTJzVjc0Zw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-15T13:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVpM0NPZkJGRzFpMlJZZDlBdm02Tk1UYjlmMm5RUnJsVTNqTFZsT01idUl2MEFIX2NnYVNKR2pQeXJDQTFRanFKZFB5NTM5UjY2djN6NXRLaGlvRm9zLVdqa2xIdmJMRktOZjBXMl",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzVpM0NPZkJGRzFpMlJZZDlBdm02Tk1UYjlmMm5RUnJsVTNqTFZsT01idUl2MEFIX2NnYVNKR2pQeXJDQTFRanFKZFB5NTM5UjY2djN6NXRLaGlvRm9zLVdqa2xIdmJMRktOZjBXMl"
-    },
-    {
-      "id": "ef23d6b943eb",
-      "title": "Five ways F1 can fix the Madring for next year's Spanish GP",
-      "title_fr": "Five ways F1 can fix the Madring for next year's Spanish GP",
-      "title_en": "Five ways F1 can fix the Madring for next year's Spanish GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-ways-f1-can-fix-the-madring-for-next-years-spanish-gp/10856102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAjLq0/s6/liam-lawson-red-bull-racing-2.jpg",
-      "published_at": "2026-09-15T12:44:29+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "F1's much-anticipated return to Madrid has left fans of the series wanting due to a lack of action, though the Madring venue itself put on a respectable event. Here are five ways organisers could impr",
-      "summary_en": "F1's much-anticipated return to Madrid has left fans of the series wanting due to a lack of action, though the Madring venue itself put on a respectable event. Here are five ways organisers could impr"
-    },
-    {
-      "id": "a6acd3584bf7",
-      "title": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
-      "title_fr": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
-      "title_en": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QJVX6/s6/kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-09-15T11:40:46+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Strange things can happen in Formula 1. Just ask Max Verstappen, who couldn't believe his luck when McLaren handed him a way into the 2025 title fight on a silver platter. Although he eventually misse",
-      "summary_en": "Strange things can happen in Formula 1. Just ask Max Verstappen, who couldn't believe his luck when McLaren handed him a way into the 2025 title fight on a silver platter. Although he eventually misse"
-    },
-    {
-      "id": "7ac5d607a908",
-      "title": "Mercedes explains why George Russell pitted under VSC at Madring",
-      "title_fr": "Mercedes explains why George Russell pitted under VSC at Madring",
-      "title_en": "Mercedes explains why George Russell pitted under VSC at Madring",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNkjo0/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-09-15T11:37:11+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes deputy team principal Bradley Lord has explained why George Russell pitted under the virtual safety car despite starting on hard tyres in Formula 1’s Spanish Grand Prix.<br />Russell was the ",
-      "summary_en": "Mercedes deputy team principal Bradley Lord has explained why George Russell pitted under the virtual safety car despite starting on hard tyres in Formula 1’s Spanish Grand Prix.<br />Russell was the "
-    },
-    {
-      "id": "6f8e021a5d00",
-      "title": "F1 world champion among drivers for Race Of Champions’ first New Zealand event",
-      "title_fr": "F1 world champion among drivers for Race Of Champions’ first New Zealand event",
-      "title_en": "F1 world champion among drivers for Race Of Champions’ first New Zealand event",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-world-champion-among-drivers-for-race-of-champions-first-new-zealand-event/10856057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0JBaqdQ0/s6/sebastian-vettel-2.jpg",
-      "published_at": "2026-09-15T10:39:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Race Of Champions has announced the first four drivers for its inaugural New Zealand event, taking place at Wellington’s Hnry Stadium on 9-10 January 2027.<br />The lineup will be spearheaded by f",
-      "summary_en": "The Race Of Champions has announced the first four drivers for its inaugural New Zealand event, taking place at Wellington’s Hnry Stadium on 9-10 January 2027.<br />The lineup will be spearheaded by f"
-    },
-    {
-      "id": "598e02ed3c78",
-      "title": "Slater to graduate from F3 to F2 for 2027",
-      "title_fr": "Slater to graduate from F3 to F2 for 2027",
-      "title_en": "Slater to graduate from F3 to F2 for 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6lmAQVx0/s6/freddie-slater-trident.jpg",
-      "published_at": "2026-09-15T09:49:21+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A",
-      "summary_en": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027.<br />The 2024 Italian F4 and 2025 Formula Regional European champion was signed by A"
     }
   ]
 }
