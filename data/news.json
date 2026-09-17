@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-17T14:00:48Z",
+  "last_updated": "2026-09-17T17:02:02Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "694fe602836d",
+      "title": "Mercedes risked ‘looking like idiots, like Ferrari did’ at Monza – Wolff | Formula 1",
+      "title_fr": "Mercedes risked ‘looking like idiots, like Ferrari did’ at Monza – Wolff | Formula 1",
+      "title_en": "Mercedes risked ‘looking like idiots, like Ferrari did’ at Monza – Wolff | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/17/mercedes-risked-looking-like-idiots-like-ferrari-did-at-monza-wolff/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-07-09-12-31-9-M626214_Italian_Grand_Prix__Sunday.jpg",
+      "published_at": "2026-09-17T16:47:03+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes team principal Toto Wolff wants his drivers to avoid any clash like that between the Ferrari team mates at the Italian Grand Prix.",
+      "summary_en": "Mercedes team principal Toto Wolff wants his drivers to avoid any clash like that between the Ferrari team mates at the Italian Grand Prix."
+    },
+    {
+      "id": "cc143f41222d",
+      "title": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
+      "title_fr": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
+      "title_en": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0dqUWRxd1M5aUs1MDFrQ3k2QndoS2hyQk9EaVR4SldLTVVReENlRzk1bFFlczhEa2RIa1lXYTFnYVJfbFNwTDUzMDV5M1g4ZnlyYXlrY0I3S3BXd3g5YU9md3hyVi1MWlFrT1JtbmdWNlRaWEc0YVlITzl6NnZ4RzNhM3gxdVdNQ0otOGQxaTRzQm1mQlM0ZlZQUVJFTFdvN3dOUndRMVVoQzRhVjFaenJnY1dMRG8yZ1JCY21NQTZjLWU0RU1rQzNrcWNnQWN2a3RPRzZGLWNubnJpMk9fTnVkVGVzYXF6SUNkQjNTOHRuWjNHZjgxWE8xWm4yUXJXVjZMOHhEbw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-17T15:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0dqUWRxd1M5aUs1MDFrQ3k2QndoS2hyQk9EaVR4SldLTVVReENlRzk1bFFlczhEa2RIa1lXYTFnYVJfbFNwTDUzMDV5M1g4ZnlyYXlrY0I3S3BXd3g5YU9md3hyVi1MWlFrT1Jtbm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0dqUWRxd1M5aUs1MDFrQ3k2QndoS2hyQk9EaVR4SldLTVVReENlRzk1bFFlczhEa2RIa1lXYTFnYVJfbFNwTDUzMDV5M1g4ZnlyYXlrY0I3S3BXd3g5YU9md3hyVi1MWlFrT1Jtbm"
+    },
     {
       "id": "b7b49db7efce",
       "title": "Social Media: Hamilton denies requesting staff changes at Ferrari | Brief",
@@ -98,6 +136,25 @@
       "summary_en": "2025 Formula 1 champion Lando Norris has been seen driving his Ferrari F40 in London, confirming the supercar's return to the road following a high-profile crash in early 2025.<br />Norris's F40 was i"
     },
     {
+      "id": "58be7f8b00fe",
+      "title": "F1: Chequered Flag",
+      "title_fr": "F1: Chequered Flag",
+      "title_en": "F1: Chequered Flag",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pb23sn?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pb23xl.jpg",
+      "published_at": "2026-09-17T11:58:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "We give you a flavour from Silverstone as Max Verstappen attempts a unique challenge!",
+      "summary_en": "We give you a flavour from Silverstone as Max Verstappen attempts a unique challenge!"
+    },
+    {
       "id": "95ace6d93631",
       "title": "Fernando Alonso adds striking chrome Bugatti Veyron to \"astounding\" car collection",
       "title_fr": "Fernando Alonso adds striking chrome Bugatti Veyron to \"astounding\" car collection",
@@ -115,6 +172,25 @@
       "is_breaking": false,
       "summary_fr": "Two-time Formula 1 champion Fernando Alonso has been spotted picking up a new chrome-wrapped Bugatti 16.4 Veyron Grand Sport.<br />Alonso has expanded his already impressive private car collection, wh",
       "summary_en": "Two-time Formula 1 champion Fernando Alonso has been spotted picking up a new chrome-wrapped Bugatti 16.4 Veyron Grand Sport.<br />Alonso has expanded his already impressive private car collection, wh"
+    },
+    {
+      "id": "2fc85a9cdc11",
+      "title": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
+      "title_fr": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
+      "title_en": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzajB0NWZRZ0Q2YkRiMHloUTdhekJyeFdnT2xLV0tpLWw3SlZvNnowV0I2aWI2bFQ5RjZWZnAyQkQtcjFBRXZyNTUway1xQjF4M2VZdUhfNXJ4WWQxQ014bkFRdVFhYzN2MmxSQzB3aFdORHJ2X2hmUmZnS3ZpaHRHc2M?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-17T11:02:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj"
     },
     {
       "id": "82b5981e107f",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lJQzU0TTQ1Mk0xNmJrMDBqUU1SdUtKa3g5N0VIdk9VeFh1QTBoOVItTTYwel9SLTRVQjVWd0tURTdZR0pfTU5kM3NMWTBsbVFGZms0LVRGbUFBb1dHbGlnYV94M2NNUjkyT2l6eW",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1lJQzU0TTQ1Mk0xNmJrMDBqUU1SdUtKa3g5N0VIdk9VeFh1QTBoOVItTTYwel9SLTRVQjVWd0tURTdZR0pfTU5kM3NMWTBsbVFGZms0LVRGbUFBb1dHbGlnYV94M2NNUjkyT2l6eW"
-    },
-    {
-      "id": "8e760791af81",
-      "title": "La Formule 1 dévoile son calendrier 2027 avec un record de dix courses Sprint - f1i.autojournal.fr",
-      "title_fr": "La Formule 1 dévoile son calendrier 2027 avec un record de dix courses Sprint - f1i.autojournal.fr",
-      "title_en": "La Formule 1 dévoile son calendrier 2027 avec un record de dix courses Sprint - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm1aMzJyVGdDOHNVT3EtQS1WNU1yeTBNdHkzZTJrUW1kNnJpTTBSaDAzS19YTzYzc19IZVZ5QW9nYUROb0tCelp1ZkF3Z3VDbjMwdWphekFnalRuQ3J1eE5iMFl2YmRMNzJYOFpQX3oyVC0yQ3d3eFRiYzNoaTFxVzh2cFVOUnlQVzZDT081QkRkLVJSRDlncFBxallrb3dnV2F4aUQwOEMwTkFZb1lzdWRYT3pFQy1iYVYySk1hZ0dTN0xp?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-16T09:10:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm1aMzJyVGdDOHNVT3EtQS1WNU1yeTBNdHkzZTJrUW1kNnJpTTBSaDAzS19YTzYzc19IZVZ5QW9nYUROb0tCelp1ZkF3Z3VDbjMwdWphekFnalRuQ3J1eE5iMFl2YmRMNzJYOFpQX3",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPMm1aMzJyVGdDOHNVT3EtQS1WNU1yeTBNdHkzZTJrUW1kNnJpTTBSaDAzS19YTzYzc19IZVZ5QW9nYUROb0tCelp1ZkF3Z3VDbjMwdWphekFnalRuQ3J1eE5iMFl2YmRMNzJYOFpQX3"
-    },
-    {
-      "id": "2fc4c3e5dfb1",
-      "title": "Monaco to hold first sprint race as F1 increases total to 10 on 2027 calendar | Formula 1",
-      "title_fr": "Monaco to hold first sprint race as F1 increases total to 10 on 2027 calendar | Formula 1",
-      "title_en": "Monaco to hold first sprint race as F1 increases total to 10 on 2027 calendar | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/16/monaco-to-hold-first-sprint-race-as-f1-increases-total-to-10-on-2027-calendar/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/05/racefansdotnet-24-05-25-15-04-15-9-2216965521.jpg",
-      "published_at": "2026-09-16T09:07:02+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Despite concerns over the viability of racing in the Middle East, Formula 1 has announced its 2027 season will begin and end there.",
-      "summary_en": "Despite concerns over the viability of racing in the Middle East, Formula 1 has announced its 2027 season will begin and end there."
-    },
-    {
-      "id": "29bcda0dcc71",
-      "title": "Officiel : la F1 dévoile le calendrier de la saison pour 2027 - Nextgen-Auto.com",
-      "title_fr": "Officiel : la F1 dévoile le calendrier de la saison pour 2027 - Nextgen-Auto.com",
-      "title_en": "Officiel : la F1 dévoile le calendrier de la saison pour 2027 - Nextgen-Auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTZ4UkxXUDR4S2N3aVlPbXl5WTJpSXRoY3ZGMS1WWjdLcWphVmFNU2VkeGdJeG1oS2dpYkhqNllueXlXNTc1MkhrSzlGM3pYcUlFbHR0dlVIckppa2FDX19yWmxGRE41ZDI2VFEydWNIZTdHLVdrWHJjaW5DYlpNakUxZklrVWJmODFWZk1sR0ZWMzZ5c3g5bmV4OEhvRzFKVkQzMDJxRHl4RV9aNW9iUlJ6T1dqenVYX3d2SA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-16T09:03:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTZ4UkxXUDR4S2N3aVlPbXl5WTJpSXRoY3ZGMS1WWjdLcWphVmFNU2VkeGdJeG1oS2dpYkhqNllueXlXNTc1MkhrSzlGM3pYcUlFbHR0dlVIckppa2FDX19yWmxGRE41ZDI2VFEydW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTZ4UkxXUDR4S2N3aVlPbXl5WTJpSXRoY3ZGMS1WWjdLcWphVmFNU2VkeGdJeG1oS2dpYkhqNllueXlXNTc1MkhrSzlGM3pYcUlFbHR0dlVIckppa2FDX19yWmxGRE41ZDI2VFEydW"
-    },
-    {
-      "id": "23b07d59b8cf",
-      "title": "F1 to have 10 sprint races in 2027, including Monaco",
-      "title_fr": "F1 to have 10 sprint races in 2027, including Monaco",
-      "title_en": "F1 to have 10 sprint races in 2027, including Monaco",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316d/live/f1668190-b146-11f1-a383-57f33d64a166.jpg",
-      "published_at": "2026-09-16T09:01:21+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 increases the number of sprint races from six to 10 for the 2027 World Championship.",
-      "summary_en": "Formula 1 increases the number of sprint races from six to 10 for the 2027 World Championship."
     }
   ]
 }
