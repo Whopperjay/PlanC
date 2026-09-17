@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-17T20:04:00Z",
+  "last_updated": "2026-09-17T23:05:18Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "1bbde4bc5642",
+      "title": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
+      "title_fr": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
+      "title_en": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/james-vowles-backs-madrid-to-become-one-to-watch-despite-calls-for-changes/10856719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QA8g6/s6/james-vowles-williams.jpg",
+      "published_at": "2026-09-17T21:31:01+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Williams team principal James Vowles has backed Madrid to become one of Formula 1's standout events, despite a challenging inaugural Spanish Grand Prix at the track.<br />F1 visited the brand-new Madr",
+      "summary_en": "Williams team principal James Vowles has backed Madrid to become one of Formula 1's standout events, despite a challenging inaugural Spanish Grand Prix at the track.<br />F1 visited the brand-new Madr"
+    },
     {
       "id": "0c271a76d4dd",
       "title": "Arvid Lindblad brille déjà en Formule 1, mais il n’a toujours pas son permis de conduire. Au lendemain de sa 9e place au Grand Prix d’Espagne, le jeune pilote Racing Bulls-Red Bull a annoncé avoir réussi son examen théorique au Royaume-Uni. 👉 Retrouve - facebook.com",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SU",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SU"
-    },
-    {
-      "id": "1f5cdf88ee6d",
-      "title": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
-      "title_fr": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
-      "title_en": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856149/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKwnvDY/s6/oliver-bearman-haas-f1-team.jpg",
-      "published_at": "2026-09-16T10:48:32+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards",
-      "summary_en": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards"
     }
   ]
 }
