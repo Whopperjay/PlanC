@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-18T17:12:51Z",
+  "last_updated": "2026-09-18T20:14:12Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "1e78204ef87d",
+      "title": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
+      "title_fr": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
+      "title_en": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/williams-shares-behind-the-scenes-look-at-alex-albons-life-away-from-f1/10856966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9wxJPY/s6/alexander-albon-williams.jpg",
+      "published_at": "2026-09-18T17:38:49+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Williams Formula 1 team has released a behind-the-scenes look at the off-track life of Alex Albon.<br />Filmed on a Tuesday following a race weekend alongside his fiancée, professional golfer Lily",
+      "summary_en": "The Williams Formula 1 team has released a behind-the-scenes look at the off-track life of Alex Albon.<br />Filmed on a Tuesday following a race weekend alongside his fiancée, professional golfer Lily"
+    },
     {
       "id": "51a9f2933aa6",
       "title": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
@@ -39,6 +58,25 @@
       "is_breaking": false,
       "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has heavily criticised suggestions from FIA president Mohammed Ben Sulayem that the governing body could help Aston Martin to retain Fernando Alon",
       "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has heavily criticised suggestions from FIA president Mohammed Ben Sulayem that the governing body could help Aston Martin to retain Fernando Alon"
+    },
+    {
+      "id": "3b9f9980a26e",
+      "title": "Piqûre de rappel : le prochain Grand Prix aura lieu le samedi, mais pour quelles raisons ? - f1i.autojournal.fr",
+      "title_fr": "Piqûre de rappel : le prochain Grand Prix aura lieu le samedi, mais pour quelles raisons ? - f1i.autojournal.fr",
+      "title_en": "Piqûre de rappel : le prochain Grand Prix aura lieu le samedi, mais pour quelles raisons ? - f1i.autojournal.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDRoRFltMjdxVU5kT1pJTnBadlZSZ3RGT2h1dUpnMGVHYW16NXVBblh0cnpiYnR6cjBaVUI5RVFTTU80Unp5d0NTR3IzMUExSVRVZ1FrZ3dRRGk1MGpyZG9LZEhPNUxqSTdUNC1SMm9FRGpEZGVyQ0hKRURvdXU2UFB6Zi1panAyM2llS1YySGgzYUVUUldYeWpYMHhaUnBWUHJ3MHo5LXBLcVhBQXN1QXpvODRyei1kUXNxMkNXNEhLcGw0NXc5VlFiTnJRUQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-18T15:03:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDRoRFltMjdxVU5kT1pJTnBadlZSZ3RGT2h1dUpnMGVHYW16NXVBblh0cnpiYnR6cjBaVUI5RVFTTU80Unp5d0NTR3IzMUExSVRVZ1FrZ3dRRGk1MGpyZG9LZEhPNUxqSTdUNC1SMm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDRoRFltMjdxVU5kT1pJTnBadlZSZ3RGT2h1dUpnMGVHYW16NXVBblh0cnpiYnR6cjBaVUI5RVFTTU80Unp5d0NTR3IzMUExSVRVZ1FrZ3dRRGk1MGpyZG9LZEhPNUxqSTdUNC1SMm"
     },
     {
       "id": "8851a0a19a1b",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm"
-    },
-    {
-      "id": "043d0ef5f0f8",
-      "title": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
-      "title_fr": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
-      "title_en": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/01QdKL50/s6/yuki-tsunoda-red-bull-racing-t-2.jpg",
-      "published_at": "2026-09-17T09:37:43+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025",
-      "summary_en": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025"
-    },
-    {
-      "id": "63c57a9ed060",
-      "title": "F1 : GP d’Azerbaïdjan 2026, horaires, chaîne, comment suivre la course - Sport.fr",
-      "title_fr": "F1 : GP d’Azerbaïdjan 2026, horaires, chaîne, comment suivre la course - Sport.fr",
-      "title_en": "F1 : GP d’Azerbaïdjan 2026, horaires, chaîne, comment suivre la course - Sport.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2TzQwam9FRXB4bXUwWlE1b2R3Ql9jb1hId3lYeU5BZmc1TDNUdzlUUV81MVhkb2xVTEpqWUx3WlU0dXVlZnFw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-17T09:37:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2Tz",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2Tz"
     }
   ]
 }
