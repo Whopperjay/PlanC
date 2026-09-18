@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-09-18T08:09:05Z",
+  "last_updated": "2026-09-18T11:10:24Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "ce7dc0369c40",
+      "title": "Featured Comment: Why F1’s sprint races are leading some fans to switch off | Brief",
+      "title_fr": "Featured Comment: Why F1’s sprint races are leading some fans to switch off | Brief",
+      "title_en": "Featured Comment: Why F1’s sprint races are leading some fans to switch off | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/18/featured-comment-why-f1s-sprint-races-are-leading-some-fans-to-switch-off/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-18-12-01-55-2-M611472_F1_Grand_Prix_of_Great_Britain_Practice_Sprint_Qualifying.jpg",
+      "published_at": "2026-09-18T11:06:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "How sprint races led one fan to stop watching Formula 1",
+      "summary_en": "How sprint races led one fan to stop watching Formula 1"
+    },
+    {
+      "id": "b1772a14d8a1",
+      "title": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
+      "title_fr": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
+      "title_en": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-could-get-more-and-more-panicked-in-f1-title-fight-says-nico-rosberg/10856828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAbL90/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-18T11:00:39+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli could become \"more and more panicked\" in his bid for the 2026 Formula 1 championship if upgrades from McLaren and Ferrari drag him back into the pack, warns 2016 F1 champion Nico Rosber",
+      "summary_en": "Kimi Antonelli could become \"more and more panicked\" in his bid for the 2026 Formula 1 championship if upgrades from McLaren and Ferrari drag him back into the pack, warns 2016 F1 champion Nico Rosber"
+    },
+    {
+      "id": "3843afded70f",
+      "title": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "title_fr": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "title_en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxqdaY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": "2026-09-18T10:29:26+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing",
+      "summary_en": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing"
+    },
+    {
+      "id": "43fb3e5c030a",
+      "title": "F1 : Norris, la série noire va-t-elle continuer à Bakou ? - Sport.fr",
+      "title_fr": "F1 : Norris, la série noire va-t-elle continuer à Bakou ? - Sport.fr",
+      "title_en": "F1 : Norris, la série noire va-t-elle continuer à Bakou ? - Sport.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVl5ZkpaVS1wOGpxb3V6MkRVNXFVZmk0R1VkREwwbWhUdW1sV09EOXU5LVF5UFd0czNVamxCQ0VSSy1LajA0WWV3ZXVVYVZabFdiTVg1UEtxQi14ZWdmVmNDbGJ0N1FJcU8tSWVhdmRhdUVOREhhZnlqcWNrdTZvN2tMbElJTGVNMlNCMkxabXI2YlB2VlZnSUM3WTQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-18T09:17:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONVl5ZkpaVS1wOGpxb3V6MkRVNXFVZmk0R1VkREwwbWhUdW1sV09EOXU5LVF5UFd0czNVamxCQ0VSSy1LajA0WWV3ZXVVYVZabFdiTVg1UEtxQi14ZWdmVmNDbGJ0N1FJcU8tSWVhdm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONVl5ZkpaVS1wOGpxb3V6MkRVNXFVZmk0R1VkREwwbWhUdW1sV09EOXU5LVF5UFd0czNVamxCQ0VSSy1LajA0WWV3ZXVVYVZabFdiTVg1UEtxQi14ZWdmVmNDbGJ0N1FJcU8tSWVhdm"
+    },
+    {
+      "id": "eaa4b94cefb2",
+      "title": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
+      "title_fr": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
+      "title_en": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hes-causing-us-grey-hair-why-kimi-antonellis-speed-is-a-luxury-problem-for-mercedes/10856785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5AmgwY/s6/kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-18T08:44:40+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-",
+      "summary_en": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-"
+    },
+    {
+      "id": "6d90b9c56846",
+      "title": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
+      "title_fr": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
+      "title_en": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-kimi-antonellis-luxury-problem-is-causing-toto-wolff-and-mercedes-grey-hairs/10856780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0o5AmgwY/s6/kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-18T08:43:23+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-",
+      "summary_en": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-"
+    },
     {
       "id": "e360993a5061",
       "title": "F1 drivers explain why Madring’s hyped Monumental corner failed to impress | Formula 1",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 1's 34-race 2027 calendar puts quantity over quality",
       "summary_en": "Formula 1's 34-race 2027 calendar puts quantity over quality"
-    },
-    {
-      "id": "ba81c63617bf",
-      "title": "“I’m not enjoying life” – How Yuki Tsunoda’s Red Bull F1 stint “exhausted” him",
-      "title_fr": "“I’m not enjoying life” – How Yuki Tsunoda’s Red Bull F1 stint “exhausted” him",
-      "title_en": "“I’m not enjoying life” – How Yuki Tsunoda’s Red Bull F1 stint “exhausted” him",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0L1NQzN2/s6/yuki-tsunoda-red-bull-racing.jpg",
-      "published_at": "2026-09-16T14:35:57+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In the pre-2026 Formula 1 eras, Red Bull’s second seat made quite a few casualties.<br />Pierre Gasly, Alexander Albon, Sergio Perez, Liam Lawson. All of them struggled – and eventually failed – to ma",
-      "summary_en": "In the pre-2026 Formula 1 eras, Red Bull’s second seat made quite a few casualties.<br />Pierre Gasly, Alexander Albon, Sergio Perez, Liam Lawson. All of them struggled – and eventually failed – to ma"
-    },
-    {
-      "id": "d3d8af14b5e5",
-      "title": "Bruising F1 2026 will not be the end for Russell - Wolff",
-      "title_fr": "Bruising F1 2026 will not be the end for Russell - Wolff",
-      "title_en": "Bruising F1 2026 will not be the end for Russell - Wolff",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Ld5wXJ0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-16T14:12:24+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff is confident that George Russell can overcome a bruising 2026 Formula 1 campaign and still become world champion in the future.<br />The Mercedes driver is second and 81 points behind his d",
-      "summary_en": "Toto Wolff is confident that George Russell can overcome a bruising 2026 Formula 1 campaign and still become world champion in the future.<br />The Mercedes driver is second and 81 points behind his d"
-    },
-    {
-      "id": "d7fa81cee676",
-      "title": "Was Cadillac “faster” than Williams in Madring F1 race?",
-      "title_fr": "Was Cadillac “faster” than Williams in Madring F1 race?",
-      "title_en": "Was Cadillac “faster” than Williams in Madring F1 race?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/was-cadillac-faster-than-williams-in-madring-f1-race/10856327/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxqdaY/s6/valtteri-bottas-cadillac-racin-2.jpg",
-      "published_at": "2026-09-16T13:56:21+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Cadillac has been a backmarker in Formula 1 so far in the team’s maiden season, battling Aston Martin early on before the latter’s progress.<br />However, the team’s race pace was encouraging in the S",
-      "summary_en": "Cadillac has been a backmarker in Formula 1 so far in the team’s maiden season, battling Aston Martin early on before the latter’s progress.<br />However, the team’s race pace was encouraging in the S"
-    },
-    {
-      "id": "0b599851abb4",
-      "title": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
-      "title_fr": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
-      "title_en": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856365/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2jEAMGN0/s6/oliver-bearman-haas-f1-team-2.jpg",
-      "published_at": "2026-09-16T13:50:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards",
-      "summary_en": "Haas team principal Ayao Komatsu says the team is making \"positive\" progress with his team's search for new sponsorship, as the American Formula 1 team seeks to start pushing its yearly budget towards"
-    },
-    {
-      "id": "ffc5d966100c",
-      "title": "F1. Le calendrier 2027 ouvre la porte aux stars pour les 24 Heures du Mans, Spa, le Nürburgring et Indianapolis - Ouest-France",
-      "title_fr": "F1. Le calendrier 2027 ouvre la porte aux stars pour les 24 Heures du Mans, Spa, le Nürburgring et Indianapolis - Ouest-France",
-      "title_en": "F1. Le calendrier 2027 ouvre la porte aux stars pour les 24 Heures du Mans, Spa, le Nürburgring et Indianapolis - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTzVxb0ZjNHNzQTlwTUFZalRKeUVYX3BEaVVRb0xLSDlEenlaalVPSG1iMXNOLVlTUGZ0NHJuZHNQZzBMY3Y3Sk5uZmdFYkFPZlN2UEE5cUVtSnlXYTJHQllqbmNGNUNxdU16VkdSWUhJODgwZG5iUlpPalVKd1VtaFFHSXVDUVlwVE1MOXlWejMyVV94Qk1Rd013R1hjeVZKMkhnRXNHWnlfa1VjOHlGcVEwQVF6aXpCVmtUZ0NKb1QwN041UUJoclVQMTRFZW16WEhMcFIyQW5Ibm01cUxyckxVRUJMZ2QtVU1wdkxwQ0dMNng4cmNMa3BQN3kzZmVUSWplWWdVaw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-16T13:36:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOTzVxb0ZjNHNzQTlwTUFZalRKeUVYX3BEaVVRb0xLSDlEenlaalVPSG1iMXNOLVlTUGZ0NHJuZHNQZzBMY3Y3Sk5uZmdFYkFPZlN2UEE5cUVtSnlXYTJHQllqbmNGNUNxdU16VkdSWU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOTzVxb0ZjNHNzQTlwTUFZalRKeUVYX3BEaVVRb0xLSDlEenlaalVPSG1iMXNOLVlTUGZ0NHJuZHNQZzBMY3Y3Sk5uZmdFYkFPZlN2UEE5cUVtSnlXYTJHQllqbmNGNUNxdU16VkdSWU"
-    },
-    {
-      "id": "70db4a2559c8",
-      "title": "How to watch Max vs 100",
-      "title_fr": "How to watch Max vs 100",
-      "title_en": "How to watch Max vs 100",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/general/news/how-to-watch-max-vs-100-/10856352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVP7pW0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-16T13:12:45+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 world champion Max Verstappen is attempting a new challenge today (Wednesday 16 September) as he competes against 100 go-karters at Silverstone.<br />The event, run by Red Bull, is being dub",
-      "summary_en": "Formula 1 world champion Max Verstappen is attempting a new challenge today (Wednesday 16 September) as he competes against 100 go-karters at Silverstone.<br />The event, run by Red Bull, is being dub"
     }
   ]
 }
