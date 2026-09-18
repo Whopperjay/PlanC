@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-09-18T11:10:24Z",
+  "last_updated": "2026-09-18T14:11:38Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "8851a0a19a1b",
+      "title": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "title_fr": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "title_en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/cadillac-f1-owners-mark-walter-and-twg-global-face-class-action-lawsuit/10856873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxqdaY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": "2026-09-18T13:36:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing",
+      "summary_en": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing"
+    },
+    {
+      "id": "9e62da3a19e8",
+      "title": "Max Verstappen jokes about Kimi Antonelli’s F1 lead: “I’m definitely not having a comeback!”",
+      "title_fr": "Max Verstappen jokes about Kimi Antonelli’s F1 lead: “I’m definitely not having a comeback!”",
+      "title_en": "Max Verstappen jokes about Kimi Antonelli’s F1 lead: “I’m definitely not having a comeback!”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-kimi-antonellis-f1-lead-im-definitely-not-having-a-comeback/10856838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LJqmY/s6/kimi-antonelli-mercedes-max-ve.jpg",
+      "published_at": "2026-09-18T13:31:56+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "With eight or nine race weekends remaining – depending on what happens with the grands prix in the Middle East at the end of the year – Kimi Antonelli is in pole position to claim his maiden Formula 1",
+      "summary_en": "With eight or nine race weekends remaining – depending on what happens with the grands prix in the Middle East at the end of the year – Kimi Antonelli is in pole position to claim his maiden Formula 1"
+    },
+    {
+      "id": "293fe68e42ad",
+      "title": "Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles",
+      "title_fr": "Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles",
+      "title_en": "Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/williams-upgrades-wont-be-enough-to-fix-2026-f1-struggles-says-james-vowles/10856821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74R582/s6/alexander-albon-williams-carlo.jpg",
+      "published_at": "2026-09-18T12:00:02+00:00",
+      "race_id": "bahrain",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Williams Formula 1 team principal James Vowles has admitted that the team's remaining 2026 upgrades will not be enough to consistently fight for points.<br />The Grove outfit has struggled since the b",
+      "summary_en": "Williams Formula 1 team principal James Vowles has admitted that the team's remaining 2026 upgrades will not be enough to consistently fight for points.<br />The Grove outfit has struggled since the b"
+    },
+    {
+      "id": "ec3b1e03f380",
+      "title": "Mercedes reveals the \"secret code\" tactic behind Kimi Antonelli's Madrid-winning VSC call",
+      "title_fr": "Mercedes reveals the \"secret code\" tactic behind Kimi Antonelli's Madrid-winning VSC call",
+      "title_en": "Mercedes reveals the \"secret code\" tactic behind Kimi Antonelli's Madrid-winning VSC call",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-reveals-the-secret-code-tactic-behind-antonellis-madrid-winning-vsc-call/10856833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVP7Bd0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-18T11:49:47+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes trackside engineering director Andrew Shovlin has explained how the team prepares its drivers for situations like the one that decided the Spanish Grand Prix - including the use of secret cod",
+      "summary_en": "Mercedes trackside engineering director Andrew Shovlin has explained how the team prepares its drivers for situations like the one that decided the Spanish Grand Prix - including the use of secret cod"
+    },
     {
       "id": "ce7dc0369c40",
       "title": "Featured Comment: Why F1’s sprint races are leading some fans to switch off | Brief",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli’s rise to become Formula 1 world championship favourite and a celebration marking 60 years of Can-Am feature in the October issue of Autosport, out today (17 September).<br />It’s not j",
       "summary_en": "Kimi Antonelli’s rise to become Formula 1 world championship favourite and a celebration marking 60 years of Can-Am feature in the October issue of Autosport, out today (17 September).<br />It’s not j"
-    },
-    {
-      "id": "568f0fe284a7",
-      "title": "Video: Verstappen beats amateur rivals in ‘Max vs 100’ kart race | Brief",
-      "title_fr": "Video: Verstappen beats amateur rivals in ‘Max vs 100’ kart race | Brief",
-      "title_en": "Video: Verstappen beats amateur rivals in ‘Max vs 100’ kart race | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/17/video-verstappen-beats-amateur-rivals-in-max-vs-100-kart-race/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-17-08-29-08-2-SI202609160531.jpg",
-      "published_at": "2026-09-17T07:46:56+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Verstappen passes 100 amateur karters in Silverstone exhibition race",
-      "summary_en": "Verstappen passes 100 amateur karters in Silverstone exhibition race"
-    },
-    {
-      "id": "134bd63a31a1",
-      "title": "Tsunoda ‘wasn’t hugely disappointed’ when Red Bull dropped him last year | Formula 1",
-      "title_fr": "Tsunoda ‘wasn’t hugely disappointed’ when Red Bull dropped him last year | Formula 1",
-      "title_en": "Tsunoda ‘wasn’t hugely disappointed’ when Red Bull dropped him last year | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/17/tsunoda-admits-he-wasnt-hugely-disappointed-when-red-bull-dropped-him-last-year/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/12/racefansdotnet-24-12-07-19-35-09-1-SI202512060542.jpg",
-      "published_at": "2026-09-17T06:16:05+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Yuki Tsunoda said he couldn't have tried harder to understand Red Bull's car and still couldn't fathom it at the end of 2025.",
-      "summary_en": "Yuki Tsunoda said he couldn't have tried harder to understand Red Bull's car and still couldn't fathom it at the end of 2025."
-    },
-    {
-      "id": "d772fe001776",
-      "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-      "title_fr": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-      "title_en": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg",
-      "published_at": "2026-09-16T18:11:19+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-      "summary_en": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone."
-    },
-    {
-      "id": "7188b01f84dd",
-      "title": "Featured Comment: 34 F1 races on 2027 calendar is too many | Brief",
-      "title_fr": "Featured Comment: 34 F1 races on 2027 calendar is too many | Brief",
-      "title_en": "Featured Comment: 34 F1 races on 2027 calendar is too many | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/16/featured-comment-34-f1-races-on-2027-calendar-is-too-many/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-24-08-23-19-47-20-9-M622483_F1_Grand_Prix_of_Netherlands.jpg",
-      "published_at": "2026-09-16T15:50:58+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1's 34-race 2027 calendar puts quantity over quality",
-      "summary_en": "Formula 1's 34-race 2027 calendar puts quantity over quality"
     }
   ]
 }
