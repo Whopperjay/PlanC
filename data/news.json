@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-17T23:05:18Z",
+  "last_updated": "2026-09-18T02:06:27Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "1467dbec2eb6",
+      "title": "Formule 1 2027 : 24 courses et un record de 10 Sprints - KarloBag.eu",
+      "title_fr": "Formule 1 2027 : 24 courses et un record de 10 Sprints - KarloBag.eu",
+      "title_en": "Formule 1 2027 : 24 courses et un record de 10 Sprints - KarloBag.eu",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxazNmT2gwNGpiZTNVNExvOElYUll5aGxXdm8zMFlvQngyRUVWSEZremN6ejM0bmRxN2k1TVl5VzZ6eV9CNnVXaGhIblVJWGJpbkk?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-17T23:49:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxaz",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxaz"
+    },
     {
       "id": "1bbde4bc5642",
       "title": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0"
-    },
-    {
-      "id": "190b569dc09b",
-      "title": "Formule 1. Une course sprint à Monaco… Le calendrier 2027 dévoilé avec 24 Grands Prix programmés - Ouest-France",
-      "title_fr": "Formule 1. Une course sprint à Monaco… Le calendrier 2027 dévoilé avec 24 Grands Prix programmés - Ouest-France",
-      "title_en": "Formule 1. Une course sprint à Monaco… Le calendrier 2027 dévoilé avec 24 Grands Prix programmés - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SUV3SnE5TVBSbGczanlpZERWQ0xNY2E1SHc4U3VvSmhabjMxWk1wSHpsRmstT1YtcjE0QWg2d251VlYyZUh4RTk5bF9ZWThlN2tSVUNhVi1RSDc5M3pyT2FES0wzQlRPMTYweFBnWl9nT29lTUt5a1JrY19uQUc3U0lXVjFSN2Zxbjl2X3FQaWNkYnFxZk5JUTBtTF9XS2Fn?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-16T10:51:58+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWJyZ3BtSzMyU0VsVUowODR3LW55Y3FPczdON1VXVFc4OHN6WGlsVjlXWHp3SmZTdVpBYUQzYUZUdXRhUEdKYWVhZnFqZEFvMnI1c0J4SUhPR19XaUtyYld1cVFldnplbkFVdDM2SU"
     }
   ]
 }
