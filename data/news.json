@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-18T14:11:38Z",
+  "last_updated": "2026-09-18T17:12:51Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "51a9f2933aa6",
+      "title": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
+      "title_fr": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
+      "title_en": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-explains-why-robin-raikkonens-rise-resembles-max-verstappens/10856933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6grQ3x7Y/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-18T16:02:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver David Coulthard believes Kimi Raikkonen is mirroring Jos Verstappen's approach to developing Max with his own son, Robin, following the 11-year-old's signing with the Red Bull ",
+      "summary_en": "Former Formula 1 driver David Coulthard believes Kimi Raikkonen is mirroring Jos Verstappen's approach to developing Max with his own son, Robin, following the 11-year-old's signing with the Red Bull "
+    },
+    {
+      "id": "4b2618f40358",
+      "title": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
+      "title_fr": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
+      "title_en": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-fires-back-at-mohammed-ben-sulayem-over-fernando-alonso-remarks/10856898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNabP2/s6/fernando-alonso-aston-martin.jpg",
+      "published_at": "2026-09-18T15:12:08+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has heavily criticised suggestions from FIA president Mohammed Ben Sulayem that the governing body could help Aston Martin to retain Fernando Alon",
+      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has heavily criticised suggestions from FIA president Mohammed Ben Sulayem that the governing body could help Aston Martin to retain Fernando Alon"
+    },
     {
       "id": "8851a0a19a1b",
       "title": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2Tz",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmRWMjNlUnA3SmZxYUdZUE1vRVFPT3JtNU50R19KRFFCM3JKMElqa21yWlRDZGhjLWZaRUlKSE1Ma0c4R3BBTUVXX01VeTloZDk0YjJZcWhZc1l0MkFrNkEzMzJKaXFYUm5QTXc2Tz"
-    },
-    {
-      "id": "9e3b729a9832",
-      "title": "Yuki Tsunoda reveals why he failed to master Red Bull’s F1 car in 2025",
-      "title_fr": "Yuki Tsunoda reveals why he failed to master Red Bull’s F1 car in 2025",
-      "title_en": "Yuki Tsunoda reveals why he failed to master Red Bull’s F1 car in 2025",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-reveals-why-he-failed-to-master-red-bulls-f1-car-in-2025/10856416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/254MoAE0/s6/yuki-tsunoda-red-bull-racing-t.jpg",
-      "published_at": "2026-09-17T09:12:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025",
-      "summary_en": "It seems almost unfathomable for a title contender's team-mate to end up 17th in the Formula 1 drivers’ standings, yet that’s what happened to Yuki Tsunoda alongside Max Verstappen at Red Bull in 2025"
-    },
-    {
-      "id": "e621f4b1b599",
-      "title": "Autosport magazine: Antonelli and a Can-Am celebration",
-      "title_fr": "Autosport magazine: Antonelli and a Can-Am celebration",
-      "title_en": "Autosport magazine: Antonelli and a Can-Am celebration",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/general/news/autosport-magazine-antonelli-and-a-can-am-celebration/10856457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6n7b1WO0/s6/autosport-magazine-oct26-lands.jpg",
-      "published_at": "2026-09-17T08:17:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli’s rise to become Formula 1 world championship favourite and a celebration marking 60 years of Can-Am feature in the October issue of Autosport, out today (17 September).<br />It’s not j",
-      "summary_en": "Kimi Antonelli’s rise to become Formula 1 world championship favourite and a celebration marking 60 years of Can-Am feature in the October issue of Autosport, out today (17 September).<br />It’s not j"
     }
   ]
 }
