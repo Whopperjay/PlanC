@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-18T05:07:36Z",
+  "last_updated": "2026-09-18T08:09:05Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "e360993a5061",
+      "title": "F1 drivers explain why Madring’s hyped Monumental corner failed to impress | Formula 1",
+      "title_fr": "F1 drivers explain why Madring’s hyped Monumental corner failed to impress | Formula 1",
+      "title_en": "F1 drivers explain why Madring’s hyped Monumental corner failed to impress | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/18/f1-drivers-explain-why-madrings-hyped-monumental-corner-failed-to-impress/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-16-40-15-1-A2618308.jpg",
+      "published_at": "2026-09-18T06:15:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The new Madring's signature corner proved a monumental disappointment. Max Verstappen and Lando Norris explained why.",
+      "summary_en": "The new Madring's signature corner proved a monumental disappointment. Max Verstappen and Lando Norris explained why."
+    },
+    {
+      "id": "b23f34a37496",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "title_fr": "Andrew Benson Q&A: Send us your questions",
+      "title_en": "Andrew Benson Q&A: Send us your questions",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": "2026-09-18T05:44:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now.",
+      "summary_en": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now."
+    },
+    {
+      "id": "2e51b26b5a3c",
+      "title": "F1. Pourquoi le Grand Prix d’Azerbaïdjan va se dérouler un samedi et non un dimanche - Ouest-France",
+      "title_fr": "F1. Pourquoi le Grand Prix d’Azerbaïdjan va se dérouler un samedi et non un dimanche - Ouest-France",
+      "title_en": "F1. Pourquoi le Grand Prix d’Azerbaïdjan va se dérouler un samedi et non un dimanche - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTHYybTRJaVlWZkNoekxLRXN1Z3VkRXhNS0ZkNkNseGlHU0VXbkZCd1NQUC11YnRmM1V1dzR5d2xZWHpBNEt5dGRFd0ZITGtPajdYZVMtajIyOVdQa0RHbng4Zm84MTVFYTBPRG83bWt1blNuUk12WHlYVDQ5R1ZWeWllOGR6TjB3SWU3N1hQM1E?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-18T05:08:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTH"
+    },
     {
       "id": "1467dbec2eb6",
       "title": "Formule 1 2027 : 24 courses et un record de 10 Sprints - KarloBag.eu",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 world champion Max Verstappen is attempting a new challenge today (Wednesday 16 September) as he competes against 100 go-karters at Silverstone.<br />The event, run by Red Bull, is being dub",
       "summary_en": "Formula 1 world champion Max Verstappen is attempting a new challenge today (Wednesday 16 September) as he competes against 100 go-karters at Silverstone.<br />The event, run by Red Bull, is being dub"
-    },
-    {
-      "id": "c37d00650123",
-      "title": "How Kimi Antonelli and Mercedes made their own luck in Madrid",
-      "title_fr": "How Kimi Antonelli and Mercedes made their own luck in Madrid",
-      "title_en": "How Kimi Antonelli and Mercedes made their own luck in Madrid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-kimi-antonelli-and-mercedes-made-their-own-luck-in-madrid/10856347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YK15r3r0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-16T12:58:58+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "There’s no doubt everything fell perfectly into place for Kimi Antonelli to win Formula 1's Spanish Grand Prix.<br />The virtual safety car triggered by Lance Stroll’s retirement came at the perfect m",
-      "summary_en": "There’s no doubt everything fell perfectly into place for Kimi Antonelli to win Formula 1's Spanish Grand Prix.<br />The virtual safety car triggered by Lance Stroll’s retirement came at the perfect m"
-    },
-    {
-      "id": "716f406f6f91",
-      "title": "Is a Monaco F1 sprint a good idea or just mad? Our writers have their say",
-      "title_fr": "Is a Monaco F1 sprint a good idea or just mad? Our writers have their say",
-      "title_en": "Is a Monaco F1 sprint a good idea or just mad? Our writers have their say",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/is-a-monaco-f1-sprint-a-good-idea-or-just-mad-our-writers-have-their-say/10856324/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXwLzoY/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-09-16T11:43:19+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "F1 had long planned to increase the number of sprints from the current six weekends per year because. The format allows promoters to offer their paying customers more on-track action that matters, mak",
-      "summary_en": "F1 had long planned to increase the number of sprints from the current six weekends per year because. The format allows promoters to offer their paying customers more on-track action that matters, mak"
-    },
-    {
-      "id": "f29151d00ab1",
-      "title": "Sprint à Monaco et retour de deux Grand Prix: la F1 dévoile plusieurs nouveautés pour la saison 2027 - rmcsport.bfmtv.com",
-      "title_fr": "Sprint à Monaco et retour de deux Grand Prix: la F1 dévoile plusieurs nouveautés pour la saison 2027 - rmcsport.bfmtv.com",
-      "title_en": "Sprint à Monaco et retour de deux Grand Prix: la F1 dévoile plusieurs nouveautés pour la saison 2027 - rmcsport.bfmtv.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0JkOXMySlhUZFljZFZ3Z1BDcnZsSk1zRXRwcEJ0dDFyOTRDcDh3cERLOHVhRnBDNkJ6bkx1R01CeV84QS1lNEhjZlh0SFo5UHRwVHc2My1sV1pfaHJJOTlyX2VpckxUMTVwNHhxQjM1ZjVpV2xpZWtaS3pfWGFpSElSV29DLTMwSl9hZw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-16T10:54:14+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ3hPN2wwLVIwSVNQVmpGQ3ZZQXRNSFJKblZudk5SMHhpMUFvb1l3bXdZSHRKNVBRa3d2SVhnQlJ0R2E3ekhvSTVxX004N1V1all0d210WDFOWEdUNTNreC1zZ1lMRF9qZUZ5anZUR0"
     }
   ]
 }
