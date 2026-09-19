@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-19T08:18:29Z",
+  "last_updated": "2026-09-19T11:18:59Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "0ffdc8fc40a9",
+      "title": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
+      "title_fr": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
+      "title_en": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hailed-as-phenomenon-as-david-coulthard-rejects-luck-claims/10857078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRzroY/s6/kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-19T09:31:59+00:00",
+      "race_id": "china",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver David Coulthard has branded current championship leader Kimi Antonelli a \"phenomenon\", dismissing claims that the Mercedes driver's success is down to luck.<br />Antonelli, who",
+      "summary_en": "Former Formula 1 driver David Coulthard has branded current championship leader Kimi Antonelli a \"phenomenon\", dismissing claims that the Mercedes driver's success is down to luck.<br />Antonelli, who"
+    },
+    {
+      "id": "fe1cc0cfbc04",
+      "title": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
+      "title_fr": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
+      "title_en": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/williams-accepts-2026-f1-development-compromise-as-focus-turns-to-2027/10857074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2GdKjVEY/s6/carlos-sainz-williams.jpg",
+      "published_at": "2026-09-19T09:12:49+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Williams team principal James Vowles has conceded that the Grove outfit must accept a developmental \"compromise\" for the remainder of the 2026 Formula 1 season, having already shifted its main resourc",
+      "summary_en": "Williams team principal James Vowles has conceded that the Grove outfit must accept a developmental \"compromise\" for the remainder of the 2026 Formula 1 season, having already shifted its main resourc"
+    },
     {
       "id": "a458efc37cd0",
       "title": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
@@ -77,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZV",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZV"
+    },
+    {
+      "id": "5861887061f4",
+      "title": "Horaires TV et programme très inhabituel du GP d’Azerbaïdjan 2026 de F1 - F1ACTU",
+      "title_fr": "Horaires TV et programme très inhabituel du GP d’Azerbaïdjan 2026 de F1 - F1ACTU",
+      "title_en": "Horaires TV et programme très inhabituel du GP d’Azerbaïdjan 2026 de F1 - F1ACTU",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXZ6bElvTldVR3VxTkhuX19lbV9RVmtrWk9pcXh3LW1peXJtaVZIUmFmaTVFRUdQVFgwZmFFLUZzRTBuVjZhOWJJMEFCeHpmZGVZZlgxUU1HSm9NM0VzOGsxRkp5eXNxN19WVUREYmdEQ0FIczlhTTZpYThvSjlYYUJTQVpqbi1QX3hvcXN5N3BiYVVnRTVKQTln?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-19T04:01:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXZ6bElvTldVR3VxTkhuX19lbV9RVmtrWk9pcXh3LW1peXJtaVZIUmFmaTVFRUdQVFgwZmFFLUZzRTBuVjZhOWJJMEFCeHpmZGVZZlgxUU1HSm9NM0VzOGsxRkp5eXNxN19WVUREYm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXZ6bElvTldVR3VxTkhuX19lbV9RVmtrWk9pcXh3LW1peXJtaVZIUmFmaTVFRUdQVFgwZmFFLUZzRTBuVjZhOWJJMEFCeHpmZGVZZlgxUU1HSm9NM0VzOGsxRkp5eXNxN19WVUREYm"
     },
     {
       "id": "1e78204ef87d",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "We give you a flavour from Silverstone as Max Verstappen attempts a unique challenge!",
       "summary_en": "We give you a flavour from Silverstone as Max Verstappen attempts a unique challenge!"
-    },
-    {
-      "id": "95ace6d93631",
-      "title": "Fernando Alonso adds striking chrome Bugatti Veyron to \"astounding\" car collection",
-      "title_fr": "Fernando Alonso adds striking chrome Bugatti Veyron to \"astounding\" car collection",
-      "title_en": "Fernando Alonso adds striking chrome Bugatti Veyron to \"astounding\" car collection",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-adds-striking-chrome-bugatti-veyron-grand-sport-to-astounding-car-collection/10856523/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6DGgVNVY/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-09-17T11:40:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Two-time Formula 1 champion Fernando Alonso has been spotted picking up a new chrome-wrapped Bugatti 16.4 Veyron Grand Sport.<br />Alonso has expanded his already impressive private car collection, wh",
-      "summary_en": "Two-time Formula 1 champion Fernando Alonso has been spotted picking up a new chrome-wrapped Bugatti 16.4 Veyron Grand Sport.<br />Alonso has expanded his already impressive private car collection, wh"
-    },
-    {
-      "id": "2fc85a9cdc11",
-      "title": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
-      "title_fr": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
-      "title_en": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzajB0NWZRZ0Q2YkRiMHloUTdhekJyeFdnT2xLV0tpLWw3SlZvNnowV0I2aWI2bFQ5RjZWZnAyQkQtcjFBRXZyNTUway1xQjF4M2VZdUhfNXJ4WWQxQ014bkFRdVFhYzN2MmxSQzB3aFdORHJ2X2hmUmZnS3ZpaHRHc2M?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-17T11:02:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj"
-    },
-    {
-      "id": "82b5981e107f",
-      "title": "Lewis Hamilton's Dawn Apollo Studios signs major new deal with Skydance Sports",
-      "title_fr": "Lewis Hamilton's Dawn Apollo Studios signs major new deal with Skydance Sports",
-      "title_en": "Lewis Hamilton's Dawn Apollo Studios signs major new deal with Skydance Sports",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-dawn-apollo-studios-signs-major-new-deal-with-skydance-sports/10856502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2Qed3Z32/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-17T10:58:11+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Seven-time Formula 1 champion Lewis Hamilton has signed a multi-year, first-look production deal with Skydance Sports through his Dawn Apollo Studios company.<br />The agreement with Paramount Skydanc",
-      "summary_en": "Seven-time Formula 1 champion Lewis Hamilton has signed a multi-year, first-look production deal with Skydance Sports through his Dawn Apollo Studios company.<br />The agreement with Paramount Skydanc"
     }
   ]
 }
