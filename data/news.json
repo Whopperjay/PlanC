@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-19T14:19:59Z",
+  "last_updated": "2026-09-19T17:20:43Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "4675e2b7dab7",
+      "title": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
+      "title_fr": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
+      "title_en": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-praised-for-honest-admission-about-kimi-antonellis-f1-form/10857086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2wlKPGBY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-19T17:00:02+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver David Coulthard has praised George Russell for admitting that his Mercedes team-mate and current championship leader Kimi Antonelli is doing a better job.<br />Antonelli secure",
+      "summary_en": "Former Formula 1 driver David Coulthard has praised George Russell for admitting that his Mercedes team-mate and current championship leader Kimi Antonelli is doing a better job.<br />Antonelli secure"
+    },
+    {
+      "id": "8d31a4ed0453",
+      "title": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
+      "title_fr": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
+      "title_en": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-nearly-flips-worlds-shortest-fiat-panda-in-bizarre-youtube-challenge/10857231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7z1y56/s6/arvid-lindblad-racing-bulls.jpg",
+      "published_at": "2026-09-19T15:43:52+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Racing Bulls Formula 1 rookie Arvid Lindblad has used some of his time off to test the world's shortest Fiat Panda in a recent YouTube video.<br />The 19-year-old driver featured in a video by Italian",
+      "summary_en": "Racing Bulls Formula 1 rookie Arvid Lindblad has used some of his time off to test the world's shortest Fiat Panda in a recent YouTube video.<br />The 19-year-old driver featured in a video by Italian"
+    },
+    {
+      "id": "a0d0b1a518e2",
+      "title": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
+      "title_fr": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
+      "title_en": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/james-vowles-faces-tough-moment-as-nico-rosberg-calls-williams-woes-a-shocker/10857199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QDvo6/s6/carlos-sainz-williams.jpg",
+      "published_at": "2026-09-19T15:13:39+00:00",
+      "race_id": "bahrain",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "2016 Formula 1 champion Nico Rosberg has branded Williams's 2026 performance a \"shocker\" and argued that team principal James Vowles faces a major challenge to bring the Grove outfit back to where it ",
+      "summary_en": "2016 Formula 1 champion Nico Rosberg has branded Williams's 2026 performance a \"shocker\" and argued that team principal James Vowles faces a major challenge to bring the Grove outfit back to where it "
+    },
     {
       "id": "249ed62adcb9",
       "title": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari team boss Fred Vasseur shut down speculation that it split the strategy of its drivers Charles Leclerc and Lewis Hamilton in the Spanish Grand Prix to try and separate the two on track.<br />L",
       "summary_en": "Ferrari team boss Fred Vasseur shut down speculation that it split the strategy of its drivers Charles Leclerc and Lewis Hamilton in the Spanish Grand Prix to try and separate the two on track.<br />L"
-    },
-    {
-      "id": "cc143f41222d",
-      "title": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
-      "title_fr": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
-      "title_en": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0dqUWRxd1M5aUs1MDFrQ3k2QndoS2hyQk9EaVR4SldLTVVReENlRzk1bFFlczhEa2RIa1lXYTFnYVJfbFNwTDUzMDV5M1g4ZnlyYXlrY0I3S3BXd3g5YU9md3hyVi1MWlFrT1JtbmdWNlRaWEc0YVlITzl6NnZ4RzNhM3gxdVdNQ0otOGQxaTRzQm1mQlM0ZlZQUVJFTFdvN3dOUndRMVVoQzRhVjFaenJnY1dMRG8yZ1JCY21NQTZjLWU0RU1rQzNrcWNnQWN2a3RPRzZGLWNubnJpMk9fTnVkVGVzYXF6SUNkQjNTOHRuWjNHZjgxWE8xWm4yUXJXVjZMOHhEbw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-17T15:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0dqUWRxd1M5aUs1MDFrQ3k2QndoS2hyQk9EaVR4SldLTVVReENlRzk1bFFlczhEa2RIa1lXYTFnYVJfbFNwTDUzMDV5M1g4ZnlyYXlrY0I3S3BXd3g5YU9md3hyVi1MWlFrT1Jtbm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0dqUWRxd1M5aUs1MDFrQ3k2QndoS2hyQk9EaVR4SldLTVVReENlRzk1bFFlczhEa2RIa1lXYTFnYVJfbFNwTDUzMDV5M1g4ZnlyYXlrY0I3S3BXd3g5YU9md3hyVi1MWlFrT1Jtbm"
-    },
-    {
-      "id": "c4fa1ab0672a",
-      "title": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
-      "title_fr": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
-      "title_en": "Le nouveau calendrier F1 2027 clashe-t-il avec des grandes épreuves ? - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDZFV00yRzNqQWdZWmZidU05NFFJZ1dRa3ZSVFFGQzBPX0JEeUd6c3FXRmhXQWc4dENsN1NDTXI2QkloYWdTandKV0VwWEp6cjFGWkpoVzZMN25wc1JIS2w5WWlJU09GNnJwVkRoVW9hdDRsaGh1ZzZmdUZDZGdWZmplX1UwTU8tN1BIZEpmY2tRYk5TRG8yNVBuMkJ3M3dZUTRGSl9LOEZBR0V1UTRLYW1vRjF4aUtFell3?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-17T15:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDZFV00yRzNqQWdZWmZidU05NFFJZ1dRa3ZSVFFGQzBPX0JEeUd6c3FXRmhXQWc4dENsN1NDTXI2QkloYWdTandKV0VwWEp6cjFGWkpoVzZMN25wc1JIS2w5WWlJU09GNnJwVkRoVW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeDZFV00yRzNqQWdZWmZidU05NFFJZ1dRa3ZSVFFGQzBPX0JEeUd6c3FXRmhXQWc4dENsN1NDTXI2QkloYWdTandKV0VwWEp6cjFGWkpoVzZMN25wc1JIS2w5WWlJU09GNnJwVkRoVW"
-    },
-    {
-      "id": "713b22716789",
-      "title": "Lewis Hamilton denies claims he is pushing Ferrari to replace key staff",
-      "title_fr": "Lewis Hamilton denies claims he is pushing Ferrari to replace key staff",
-      "title_en": "Lewis Hamilton denies claims he is pushing Ferrari to replace key staff",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-denies-claims-of-him-pushing-for-ferrari-to-replace-key-staff/10856614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0kZX1d86/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-17T14:44:36+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton has shut down claims from Italian media that he had been pushing Ferrari to replace a number of key on-track personnel.<br />Corriere della Sera did not identify which specific members ",
-      "summary_en": "Lewis Hamilton has shut down claims from Italian media that he had been pushing Ferrari to replace a number of key on-track personnel.<br />Corriere della Sera did not identify which specific members "
     }
   ]
 }
