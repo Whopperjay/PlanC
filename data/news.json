@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-09-19T05:17:30Z",
+  "last_updated": "2026-09-19T08:18:29Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "a458efc37cd0",
+      "title": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+      "title_fr": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+      "title_en": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mercedes-aims-to-end-pole-drought-with-upcoming-malaysia-f1-upgrades/10857058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwKlx2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-19T08:05:18+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa",
+      "summary_en": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa"
+    },
+    {
+      "id": "eb05005d21a1",
+      "title": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+      "title_fr": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+      "title_en": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-aims-to-end-pole-draught-with-upcoming-malaysia-f1-upgrades/10856860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwKlx2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-19T08:05:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa",
+      "summary_en": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa"
+    },
+    {
+      "id": "37c1d08dd608",
+      "title": "Antonelli “doing a scarily good job” and “beating a much more experienced team-mate” – Norris | Formula 1",
+      "title_fr": "Antonelli “doing a scarily good job” and “beating a much more experienced team-mate” – Norris | Formula 1",
+      "title_en": "Antonelli “doing a scarily good job” and “beating a much more experienced team-mate” – Norris | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/19/antonelli-doing-a-scarily-good-job-and-beating-a-much-more-experienced-team-mate-norris/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-24-08-22-17-06-22-2-2291557484.jpg",
+      "published_at": "2026-09-19T06:16:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Reigning world champion Lando Norris is highly impressed by the performance of the driver who looks set to succeed him.",
+      "summary_en": "Reigning world champion Lando Norris is highly impressed by the performance of the driver who looks set to succeed him."
+    },
+    {
+      "id": "a3555c65f99d",
+      "title": "Alerte calendrier F1 : attention, le G.P d'Azerbaïdjan a lieu samedi pour cause de décalage (explications) - lemagsportauto.ouest-france.fr",
+      "title_fr": "Alerte calendrier F1 : attention, le G.P d'Azerbaïdjan a lieu samedi pour cause de décalage (explications) - lemagsportauto.ouest-france.fr",
+      "title_en": "Alerte calendrier F1 : attention, le G.P d'Azerbaïdjan a lieu samedi pour cause de décalage (explications) - lemagsportauto.ouest-france.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZVozWlpUV0VlaHZIeVNKdWphWk0tWkJjUWU5OVBUOUNDbkR1LThDTXpYVTAxOUc1b3Axczg2bE1HSTFPbzNodzlobFViUHlnTWlCdkl3SDhKeWlwdFdzRHpRdXFxdjRUU2lic09MeHZCUEhUU2FGRDJ6UA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-19T04:30:11+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZV",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZV"
+    },
     {
       "id": "1e78204ef87d",
       "title": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Seven-time Formula 1 champion Lewis Hamilton has signed a multi-year, first-look production deal with Skydance Sports through his Dawn Apollo Studios company.<br />The agreement with Paramount Skydanc",
       "summary_en": "Seven-time Formula 1 champion Lewis Hamilton has signed a multi-year, first-look production deal with Skydance Sports through his Dawn Apollo Studios company.<br />The agreement with Paramount Skydanc"
-    },
-    {
-      "id": "7194a6a4febc",
-      "title": "Former Mercedes design boss Elliott joins Alpine",
-      "title_fr": "Former Mercedes design boss Elliott joins Alpine",
-      "title_en": "Former Mercedes design boss Elliott joins Alpine",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a6/live/6e149aa0-b283-11f1-8096-b33a1297275a.jpg",
-      "published_at": "2026-09-17T10:52:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer.",
-      "summary_en": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer."
-    },
-    {
-      "id": "a3634e0b13a4",
-      "title": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
-      "title_fr": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
-      "title_en": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YEQnAJKY/s6/mike-elliott-technology-direct.jpg",
-      "published_at": "2026-09-17T10:43:54+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will",
-      "summary_en": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will"
-    },
-    {
-      "id": "c614eafe0282",
-      "title": "Alpine hires former Mercedes F1 tech chief Mike Elliott as CTO",
-      "title_fr": "Alpine hires former Mercedes F1 tech chief Mike Elliott as CTO",
-      "title_en": "Alpine hires former Mercedes F1 tech chief Mike Elliott as CTO",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/alpine-hires-former-mercedes-f1-tech-chief-mike-elliott-cto/10856493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YEQnAJKY/s6/mike-elliott-technology-direct.jpg",
-      "published_at": "2026-09-17T10:33:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will",
-      "summary_en": "Alpine has appointed Mike Elliott as chief technical officer of its Formula 1 team, further bolstering the Enstone-based team's technical structure.<br />Alpine announced on Thursday that Elliott will"
-    },
-    {
-      "id": "aeabf4af82c8",
-      "title": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
-      "title_fr": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
-      "title_en": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm4ySDJ5VXlWVU16SDVGaTYyeTl2S3RUTzl3dE4wdlFSUzVWb2s?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-17T10:03:48+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm"
     }
   ]
 }
