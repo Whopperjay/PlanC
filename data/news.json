@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-20T17:22:46Z",
+  "last_updated": "2026-09-20T20:22:58Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "59aa058913ea",
+      "title": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
+      "title_fr": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
+      "title_en": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-unchanged-madring-return-in-2027-would-be-stupidity/10857135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7QLqe6/s6/a-spanish-flag-flies-over-the-.jpg",
+      "published_at": "2026-09-20T18:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "David Coulthard has warned Formula 1 organisers that returning to the Madring circuit in 2027 without altering its layout would be \"stupidity\" following a processional first race.<br />The race has fa",
+      "summary_en": "David Coulthard has warned Formula 1 organisers that returning to the Madring circuit in 2027 without altering its layout would be \"stupidity\" following a processional first race.<br />The race has fa"
+    },
     {
       "id": "ba8fc3451306",
       "title": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTH",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTH"
-    },
-    {
-      "id": "1467dbec2eb6",
-      "title": "Formule 1 2027 : 24 courses et un record de 10 Sprints - KarloBag.eu",
-      "title_fr": "Formule 1 2027 : 24 courses et un record de 10 Sprints - KarloBag.eu",
-      "title_en": "Formule 1 2027 : 24 courses et un record de 10 Sprints - KarloBag.eu",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxazNmT2gwNGpiZTNVNExvOElYUll5aGxXdm8zMFlvQngyRUVWSEZremN6ejM0bmRxN2k1TVl5VzZ6eV9CNnVXaGhIblVJWGJpbkk?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-17T23:49:34+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxaz",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxaz"
     }
   ]
 }
