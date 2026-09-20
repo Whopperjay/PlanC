@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-20T20:22:58Z",
+  "last_updated": "2026-09-20T23:23:09Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "290226c409c5",
+      "title": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
+      "title_fr": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
+      "title_en": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-tipped-to-overtake-george-russell-in-2026-f1-standings/10857563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zxbW6/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-09-20T21:11:41+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.<br />Following the inaugural Spanish Grand Prix at the Madring circuit",
+      "summary_en": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.<br />Following the inaugural Spanish Grand Prix at the Madring circuit"
+    },
     {
       "id": "59aa058913ea",
       "title": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now.",
       "summary_en": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now."
-    },
-    {
-      "id": "2e51b26b5a3c",
-      "title": "F1. Pourquoi le Grand Prix d’Azerbaïdjan va se dérouler un samedi et non un dimanche - Ouest-France",
-      "title_fr": "F1. Pourquoi le Grand Prix d’Azerbaïdjan va se dérouler un samedi et non un dimanche - Ouest-France",
-      "title_en": "F1. Pourquoi le Grand Prix d’Azerbaïdjan va se dérouler un samedi et non un dimanche - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTHYybTRJaVlWZkNoekxLRXN1Z3VkRXhNS0ZkNkNseGlHU0VXbkZCd1NQUC11YnRmM1V1dzR5d2xZWHpBNEt5dGRFd0ZITGtPajdYZVMtajIyOVdQa0RHbng4Zm84MTVFYTBPRG83bWt1blNuUk12WHlYVDQ5R1ZWeWllOGR6TjB3SWU3N1hQM1E?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-18T05:08:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbENNU3NndWZyWHBmTHM2Z2JGWGplbVBtcWZBcG9yOExRVUx5Z09lT2VCVnZRT0xvVXFXbUt3cGVFeVI2ci0zQjVVajVNR1VTSExna2ZEMmJBUmk1cGhSNUdScTVleTlOU0I1ZmNiTH"
     }
   ]
 }
