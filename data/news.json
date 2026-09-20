@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-20T11:22:06Z",
+  "last_updated": "2026-09-20T14:22:35Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "ba8fc3451306",
+      "title": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
+      "title_fr": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
+      "title_en": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/sebastian-vettel-weighs-in-on-f1-2026-rules-debate-we-need-to-combine-things-we-love/10857419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2wlKov3Y/s6/sebastian-vettel-drives-a-hist.jpg",
+      "published_at": "2026-09-20T12:44:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.<br />As a racer with a deep-rooted passion for the h",
+      "summary_en": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.<br />As a racer with a deep-rooted passion for the h"
+    },
     {
       "id": "a89ecb4f840f",
       "title": "Guenther Steiner compares Madring backlash to Las Vegas debut with 2027 warning",
@@ -39,6 +58,44 @@
       "is_breaking": false,
       "summary_fr": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward incidents from d",
       "summary_en": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward incidents from d"
+    },
+    {
+      "id": "4d9d96b9a67c",
+      "title": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura-t-il lieu samedi ? - CNews",
+      "title_fr": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura-t-il lieu samedi ? - CNews",
+      "title_en": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura-t-il lieu samedi ? - CNews",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU85Y0NVd0tfb0dMbk1oTXJwem9nNFF1TzFmSU9Cem5Ia2Rhc3JBTEdBSTNfYkdjTFhaMzMtVnlZQ1ZsRFpHVGMwRUpBY9IBuAFBVV95cUxPM2N3WGNqSjFPOUk2RklfSWV1dmQ2ajc0bHc1RjIxVFQ4dllhc2FhTmpMU1ZsV0FHT2U4ckxlbEZ3Qk0zVjBFaVc1bi1JcGtvQkdRRE5POUZmdnppLXNFLXpSZFdRU3dzcUhnVVhieGdkQzczX2o1ZVkxaFh5ZzRqaDZsNHYxSnRIRzdWSWotWGxNbW53bFBpNW9yaTAyNDV3R2p2cFdnNkxWOU4tQ1Y4bDVrRFgzc3ZV?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-20T09:53:15+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU"
+    },
+    {
+      "id": "aeabf4af82c8",
+      "title": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
+      "title_fr": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
+      "title_en": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm4ySDJ5VXlWVU16SDVGaTYyeTl2S3RUTzl3dE4wdlFSUzVWb2s?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-20T09:46:21+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm"
     },
     {
       "id": "35b802f6d92b",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxaz",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmQzamIyR3l0bU02U0NVblotVF93LXFCazRDUXJBcE5qUm50S1lrdHA1S2NISnVYUHplblZvZUlQRlMtaHh0WW5xVDBCVlZvNkQwZUdIaUN2MDBZMC0xMEMtZktyVWNfRGNCMHBxaz"
-    },
-    {
-      "id": "1bbde4bc5642",
-      "title": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
-      "title_fr": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
-      "title_en": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-backs-madrid-to-become-one-to-watch-despite-calls-for-changes/10856719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QA8g6/s6/james-vowles-williams.jpg",
-      "published_at": "2026-09-17T21:31:01+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams team principal James Vowles has backed Madrid to become one of Formula 1's standout events, despite a challenging inaugural Spanish Grand Prix at the track.<br />F1 visited the brand-new Madr",
-      "summary_en": "Williams team principal James Vowles has backed Madrid to become one of Formula 1's standout events, despite a challenging inaugural Spanish Grand Prix at the track.<br />F1 visited the brand-new Madr"
-    },
-    {
-      "id": "0c271a76d4dd",
-      "title": "Arvid Lindblad brille déjà en Formule 1, mais il n’a toujours pas son permis de conduire. Au lendemain de sa 9e place au Grand Prix d’Espagne, le jeune pilote Racing Bulls-Red Bull a annoncé avoir réussi son examen théorique au Royaume-Uni. 👉 Retrouve - facebook.com",
-      "title_fr": "Arvid Lindblad brille déjà en Formule 1, mais il n’a toujours pas son permis de conduire. Au lendemain de sa 9e place au Grand Prix d’Espagne, le jeune pilote Racing Bulls-Red Bull a annoncé avoir réussi son examen théorique au Royaume-Uni. 👉 Retrouve - facebook.com",
-      "title_en": "Arvid Lindblad brille déjà en Formule 1, mais il n’a toujours pas son permis de conduire. Au lendemain de sa 9e place au Grand Prix d’Espagne, le jeune pilote Racing Bulls-Red Bull a annoncé avoir réussi son examen théorique au Royaume-Uni. 👉 Retrouve - facebook.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSk0yQlF2dG5salFtMXRwWUV6MEZnRzVsSUpEMy1qYUNFaVV5c1U1MFFySUFGanhpUVkzY0dkTFMyMFdSMllHNFRObUh3bXFNWEVkYmtZeFFxLWdqSjFNTmZCa3BXMlJsLXJidmxCTS1uTWJpS0ZrVnl6UUZnaS1KOTJ3RWhSUUk3Uk5YbVVkVkwzeGZ0eUNNc0ltVTFESGpObEthakF3LWtaX3R3VFRYMkdORTJRSVhXcW9TNTJGOThPNjB6Zk1fZ2tFUXdHdEZDLUhHbnlqZ0szQUhxd0ZFMA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-17T20:00:27+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSk0yQlF2dG5salFtMXRwWUV6MEZnRzVsSUpEMy1qYUNFaVV5c1U1MFFySUFGanhpUVkzY0dkTFMyMFdSMllHNFRObUh3bXFNWEVkYmtZeFFxLWdqSjFNTmZCa3BXMlJsLXJidmxCTS",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSk0yQlF2dG5salFtMXRwWUV6MEZnRzVsSUpEMy1qYUNFaVV5c1U1MFFySUFGanhpUVkzY0dkTFMyMFdSMllHNFRObUh3bXFNWEVkYmtZeFFxLWdqSjFNTmZCa3BXMlJsLXJidmxCTS"
-    },
-    {
-      "id": "694fe602836d",
-      "title": "Mercedes risked ‘looking like idiots, like Ferrari did’ at Monza – Wolff | Formula 1",
-      "title_fr": "Mercedes risked ‘looking like idiots, like Ferrari did’ at Monza – Wolff | Formula 1",
-      "title_en": "Mercedes risked ‘looking like idiots, like Ferrari did’ at Monza – Wolff | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/17/mercedes-risked-looking-like-idiots-like-ferrari-did-at-monza-wolff/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-07-09-12-31-9-M626214_Italian_Grand_Prix__Sunday.jpg",
-      "published_at": "2026-09-17T16:47:03+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes team principal Toto Wolff wants his drivers to avoid any clash like that between the Ferrari team mates at the Italian Grand Prix.",
-      "summary_en": "Mercedes team principal Toto Wolff wants his drivers to avoid any clash like that between the Ferrari team mates at the Italian Grand Prix."
     }
   ]
 }
