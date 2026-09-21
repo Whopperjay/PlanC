@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-21T20:44:23Z",
+  "last_updated": "2026-09-21T23:45:26Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "bb01cde4fe6a",
+      "title": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
+      "title_fr": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
+      "title_en": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-confirms-new-hot-wheels-infinite-rush-car-collection-for-2027-release/10857826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2dE7wnwY/s6/start-action-2.jpg",
+      "published_at": "2026-09-21T21:32:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in March 2027.<br />The",
+      "summary_en": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in March 2027.<br />The"
+    },
     {
       "id": "380e521e13a9",
       "title": "Formula 1 cuts grand prix distances for 2027 in latest power unit rules compromise | Formula 1",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward incidents from d",
       "summary_en": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward incidents from d"
-    },
-    {
-      "id": "4d9d96b9a67c",
-      "title": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura-t-il lieu samedi ? - CNews",
-      "title_fr": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura-t-il lieu samedi ? - CNews",
-      "title_en": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan aura-t-il lieu samedi ? - CNews",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU85Y0NVd0tfb0dMbk1oTXJwem9nNFF1TzFmSU9Cem5Ia2Rhc3JBTEdBSTNfYkdjTFhaMzMtVnlZQ1ZsRFpHVGMwRUpBY9IBuAFBVV95cUxPM2N3WGNqSjFPOUk2RklfSWV1dmQ2ajc0bHc1RjIxVFQ4dllhc2FhTmpMU1ZsV0FHT2U4ckxlbEZ3Qk0zVjBFaVc1bi1JcGtvQkdRRE5POUZmdnppLXNFLXpSZFdRU3dzcUhnVVhieGdkQzczX2o1ZVkxaFh5ZzRqaDZsNHYxSnRIRzdWSWotWGxNbW53bFBpNW9yaTAyNDV3R2p2cFdnNkxWOU4tQ1Y4bDVrRFgzc3ZV?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-20T09:53:15+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU"
     }
   ]
 }
