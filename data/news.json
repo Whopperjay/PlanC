@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-21T05:23:29Z",
+  "last_updated": "2026-09-21T08:24:09Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "b59216a6a907",
+      "title": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "title_fr": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "title_en": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7vdXJ6/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-09-21T08:13:58+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "During several weekends this season, Verstappen has complained that the Red Bull Formula 1 car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu",
+      "summary_en": "During several weekends this season, Verstappen has complained that the Red Bull Formula 1 car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu"
+    },
+    {
+      "id": "099eb582ea50",
+      "title": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "title_fr": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "title_en": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEoq8DY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-21T08:06:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "During several weekends this Formula 1 season, Verstappen has complained that the Red Bull car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu",
+      "summary_en": "During several weekends this Formula 1 season, Verstappen has complained that the Red Bull car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu"
+    },
+    {
+      "id": "89e91e62c85c",
+      "title": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
+      "title_fr": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
+      "title_en": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzBpUTdWdUV6MzEtVTdSTF9JVkdsakQ2MXFSNTZ1bmhWVzR5bGZCaG1wNDNtNWFwNU5mcTFsTzRGbEQ5TXROVmZ3MW9jdUtpWDBiMDBNNW02dlFxbmRlb0tPRGZ2X2M2UG9vWmtwLTl5eXl0cFEwbVd4bTZzUGxaQXU2eldUVlJ3ZngzbjZHVkwtRGkzUDMxVXZEQmhDcGZuZnVEd3d0RXlLSlp1SE10djdzQmNWalpFS0dlUEI2YXMyQQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T04:31:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzBpUTdWdUV6MzEtVTdSTF9JVkdsakQ2MXFSNTZ1bmhWVzR5bGZCaG1wNDNtNWFwNU5mcTFsTzRGbEQ5TXROVmZ3MW9jdUtpWDBiMDBNNW02dlFxbmRlb0tPRGZ2X2M2UG9vWmtwLT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzBpUTdWdUV6MzEtVTdSTF9JVkdsakQ2MXFSNTZ1bmhWVzR5bGZCaG1wNDNtNWFwNU5mcTFsTzRGbEQ5TXROVmZ3MW9jdUtpWDBiMDBNNW02dlFxbmRlb0tPRGZ2X2M2UG9vWmtwLT"
+    },
     {
       "id": "5f2f8a951979",
       "title": "Le retour d'un Grand Prix historique de F1 s'éloigne : \"Nous en sommes encore très loin\" - f1i.autojournal.fr",
@@ -39,6 +96,25 @@
       "is_breaking": false,
       "summary_fr": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.<br />Following the inaugural Spanish Grand Prix at the Madring circuit",
       "summary_en": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.<br />Following the inaugural Spanish Grand Prix at the Madring circuit"
+    },
+    {
+      "id": "bea9e2543143",
+      "title": "Le programme du Grand Prix d'Azerbaïdjan F1 2026 : dates, horaires et infos - Motorsport.com France",
+      "title_fr": "Le programme du Grand Prix d'Azerbaïdjan F1 2026 : dates, horaires et infos - Motorsport.com France",
+      "title_en": "Le programme du Grand Prix d'Azerbaïdjan F1 2026 : dates, horaires et infos - Motorsport.com France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakFNSVQ1V1NTQUhYX1doZHJwLUgtRU5TUEZGMnh2TEg2Rjk4MkkyNV9KM1NIWGRVd1FRSkdiRThnYnkyb09rS3ppUi1PenlmTnEtOUJfdHhuSUhGcmttN3VESEJqbmE4b1FfNWo4WU5CT0V2RFZqdDZDSXRMbTdlZHdsTUVGRi05UWFfQWpoaW9YVTBHcVlSS1FIeWdZbVB3Q0E?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-20T21:10:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOakFNSVQ1V1NTQUhYX1doZHJwLUgtRU5TUEZGMnh2TEg2Rjk4MkkyNV9KM1NIWGRVd1FRSkdiRThnYnkyb09rS3ppUi1PenlmTnEtOUJfdHhuSUhGcmttN3VESEJqbmE4b1FfNWo4WU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOakFNSVQ1V1NTQUhYX1doZHJwLUgtRU5TUEZGMnh2TEg2Rjk4MkkyNV9KM1NIWGRVd1FRSkdiRThnYnkyb09rS3ppUi1PenlmTnEtOUJfdHhuSUhGcmttN3VESEJqbmE4b1FfNWo4WU"
     },
     {
       "id": "59aa058913ea",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing",
       "summary_en": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing"
-    },
-    {
-      "id": "43fb3e5c030a",
-      "title": "F1 : Norris, la série noire va-t-elle continuer à Bakou ? - Sport.fr",
-      "title_fr": "F1 : Norris, la série noire va-t-elle continuer à Bakou ? - Sport.fr",
-      "title_en": "F1 : Norris, la série noire va-t-elle continuer à Bakou ? - Sport.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVl5ZkpaVS1wOGpxb3V6MkRVNXFVZmk0R1VkREwwbWhUdW1sV09EOXU5LVF5UFd0czNVamxCQ0VSSy1LajA0WWV3ZXVVYVZabFdiTVg1UEtxQi14ZWdmVmNDbGJ0N1FJcU8tSWVhdmRhdUVOREhhZnlqcWNrdTZvN2tMbElJTGVNMlNCMkxabXI2YlB2VlZnSUM3WTQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-18T09:17:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONVl5ZkpaVS1wOGpxb3V6MkRVNXFVZmk0R1VkREwwbWhUdW1sV09EOXU5LVF5UFd0czNVamxCQ0VSSy1LajA0WWV3ZXVVYVZabFdiTVg1UEtxQi14ZWdmVmNDbGJ0N1FJcU8tSWVhdm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONVl5ZkpaVS1wOGpxb3V6MkRVNXFVZmk0R1VkREwwbWhUdW1sV09EOXU5LVF5UFd0czNVamxCQ0VSSy1LajA0WWV3ZXVVYVZabFdiTVg1UEtxQi14ZWdmVmNDbGJ0N1FJcU8tSWVhdm"
-    },
-    {
-      "id": "eaa4b94cefb2",
-      "title": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
-      "title_fr": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
-      "title_en": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/hes-causing-us-grey-hair-why-kimi-antonellis-speed-is-a-luxury-problem-for-mercedes/10856785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5AmgwY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-18T08:44:40+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-",
-      "summary_en": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-"
-    },
-    {
-      "id": "6d90b9c56846",
-      "title": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
-      "title_fr": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
-      "title_en": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-kimi-antonellis-luxury-problem-is-causing-toto-wolff-and-mercedes-grey-hairs/10856780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0o5AmgwY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-18T08:43:23+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-",
-      "summary_en": "For better or for worse, there seems to be no slowing down Kimi Antonelli.<br />Just ask Pete Bonnington, who channelled his inner schoolteacher in Madrid as he relentlessly had to remind the 20-year-"
-    },
-    {
-      "id": "e360993a5061",
-      "title": "F1 drivers explain why Madring’s hyped Monumental corner failed to impress | Formula 1",
-      "title_fr": "F1 drivers explain why Madring’s hyped Monumental corner failed to impress | Formula 1",
-      "title_en": "F1 drivers explain why Madring’s hyped Monumental corner failed to impress | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/18/f1-drivers-explain-why-madrings-hyped-monumental-corner-failed-to-impress/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-16-40-15-1-A2618308.jpg",
-      "published_at": "2026-09-18T06:15:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The new Madring's signature corner proved a monumental disappointment. Max Verstappen and Lando Norris explained why.",
-      "summary_en": "The new Madring's signature corner proved a monumental disappointment. Max Verstappen and Lando Norris explained why."
     }
   ]
 }
