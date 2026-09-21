@@ -1,7 +1,235 @@
 {
-  "last_updated": "2026-09-21T08:24:09Z",
+  "last_updated": "2026-09-21T11:26:40Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "cdbc6c5fce3c",
+      "title": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
+      "title_fr": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
+      "title_en": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YBVoEo8Y/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-09-21T10:40:13+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Audi Formula 1 driver Gabriel Bortoleto says his manager, two-time champion Fernando Alonso, is exactly the same behind the scenes as he appears in the media.<br />Bortoleto is now in his second seaso",
+      "summary_en": "Audi Formula 1 driver Gabriel Bortoleto says his manager, two-time champion Fernando Alonso, is exactly the same behind the scenes as he appears in the media.<br />Bortoleto is now in his second seaso"
+    },
+    {
+      "id": "d3430fd91403",
+      "title": "Otmar Szafnauer raises concern over Cadillac's \"suboptimal\" split US-UK structure",
+      "title_fr": "Otmar Szafnauer raises concern over Cadillac's \"suboptimal\" split US-UK structure",
+      "title_en": "Otmar Szafnauer raises concern over Cadillac's \"suboptimal\" split US-UK structure",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-raises-concern-over-cadillacs-suboptimal-split-us-uk-structure/10857676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BrvZ2/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": "2026-09-21T10:12:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Alpine Formula 1 team principal Otmar Szafnauer has warned that Cadillac's operational structure is not geared towards winning a championship.<br />Following a prolonged and highly publicised e",
+      "summary_en": "Former Alpine Formula 1 team principal Otmar Szafnauer has warned that Cadillac's operational structure is not geared towards winning a championship.<br />Following a prolonged and highly publicised e"
+    },
+    {
+      "id": "217aa367bde9",
+      "title": "How to watch the 2026 Azerbaijan GP and why it is being held on a Saturday | TV Times",
+      "title_fr": "How to watch the 2026 Azerbaijan GP and why it is being held on a Saturday | TV Times",
+      "title_en": "How to watch the 2026 Azerbaijan GP and why it is being held on a Saturday | TV Times",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/21/how-to-watch-the-2026-azerbaijan-gp-and-why-it-is-being-held-on-a-saturday/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/09/racefansdotnet-24-09-21-13-27-15-6-SI202509210275.jpg",
+      "published_at": "2026-09-21T10:07:42+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "It's race week! The Azerbaijan Grand Prix will take place on Saturday with three Formula 2 support races. Here are the details.",
+      "summary_en": "It's race week! The Azerbaijan Grand Prix will take place on Saturday with three Formula 2 support races. Here are the details."
+    },
+    {
+      "id": "ea83d9594438",
+      "title": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
+      "title_fr": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
+      "title_en": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UUJlaWV2NnVBZ1NhWkRlN2pKWHdJZUJzMzVrTkJpVFRCeEdyTWlaeTEtb0tIaXVGd1BUdnhraFpwY2syV3UwWUNqejUyVmdieFA4TzBzaC1pWFAwMzVrdVlkZHEzM0dVWk02OG5Qb1FveV94RENObmZ1ZG05aUFsM0Nub1FwTlJXTnpRT3Fla01WT2lpSER3MHEta0F4VUIzOFV4SW0wdGVNTlBCR3ViYzFsck1adHNRcw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UU"
+    },
+    {
+      "id": "79014a14f0dc",
+      "title": "McLaren releases behind-the-scenes look at Lando Norris's hypercar test",
+      "title_fr": "McLaren releases behind-the-scenes look at Lando Norris's hypercar test",
+      "title_en": "McLaren releases behind-the-scenes look at Lando Norris's hypercar test",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-releases-behind-the-scenes-look-at-lando-norriss-hypercar-test/10857661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6n7Axkw0/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-09-21T09:46:59+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren has released behind-the-scenes video footage of Lando Norris's recent hypercar test in Portugal.<br />Following his third-place finish at the Spanish Grand Prix at the new Madring circuit last",
+      "summary_en": "McLaren has released behind-the-scenes video footage of Lando Norris's recent hypercar test in Portugal.<br />Following his third-place finish at the Spanish Grand Prix at the new Madring circuit last"
+    },
+    {
+      "id": "2fd99fa8d4e0",
+      "title": "How to follow Azerbaijan Grand Prix on the BBC",
+      "title_fr": "How to follow Azerbaijan Grand Prix on the BBC",
+      "title_en": "How to follow Azerbaijan Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/195f5150-af8e-11f1-913a-7151f234deb3.jpg",
+      "published_at": "2026-09-21T09:37:26+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 24-26 September.",
+      "summary_en": "All the key BBC coverage details for the Spanish Grand Prix, which takes place from 24-26 September."
+    },
+    {
+      "id": "513707d29ef6",
+      "title": "Why Charles Leclerc didn’t copy Lewis Hamilton’s driving style amid F1 2026 struggle",
+      "title_fr": "Why Charles Leclerc didn’t copy Lewis Hamilton’s driving style amid F1 2026 struggle",
+      "title_en": "Why Charles Leclerc didn’t copy Lewis Hamilton’s driving style amid F1 2026 struggle",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2GdKvEEY/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-09-21T09:34:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As Formula 1 switched to",
+      "summary_en": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As Formula 1 switched to"
+    },
+    {
+      "id": "df1392bc2256",
+      "title": "Mercedes and Aston Martin go head-to-head in charity football match: Here are the results",
+      "title_fr": "Mercedes and Aston Martin go head-to-head in charity football match: Here are the results",
+      "title_en": "Mercedes and Aston Martin go head-to-head in charity football match: Here are the results",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-and-aston-martin-go-head-to-head-in-charity-football-match-here-are-the-results/10857645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6Al7RgGY/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-09-21T09:21:21+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Staff from the Aston Martin and Mercedes Formula 1 teams have gone head-to-head in the annual charity football match to raise funds for two charities.<br />The match, which is hosted at Brackley Town ",
+      "summary_en": "Staff from the Aston Martin and Mercedes Formula 1 teams have gone head-to-head in the annual charity football match to raise funds for two charities.<br />The match, which is hosted at Brackley Town "
+    },
+    {
+      "id": "2f591db0a896",
+      "title": "Featured Comment: Blame the track or F1’s 2026 rules for Madring’s dull debut? | Brief",
+      "title_fr": "Featured Comment: Blame the track or F1’s 2026 rules for Madring’s dull debut? | Brief",
+      "title_en": "Featured Comment: Blame the track or F1’s 2026 rules for Madring’s dull debut? | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/21/featured-comment-blame-the-track-or-f1s-2026-rules-for-madrings-dull-debut/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-27-55-4-2295038220-291.jpg",
+      "published_at": "2026-09-21T09:13:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Madring failed to thrill but is the track or F1's rules to blame?",
+      "summary_en": "Madring failed to thrill but is the track or F1's rules to blame?"
+    },
+    {
+      "id": "03f9208a0632",
+      "title": "GP d'Azerbaïdjan 2026 : le Grand Prix de Formule 1 n'a pas lieu dimanche, horaires et diffusion TV - Linternaute.com",
+      "title_fr": "GP d'Azerbaïdjan 2026 : le Grand Prix de Formule 1 n'a pas lieu dimanche, horaires et diffusion TV - Linternaute.com",
+      "title_en": "GP d'Azerbaïdjan 2026 : le Grand Prix de Formule 1 n'a pas lieu dimanche, horaires et diffusion TV - Linternaute.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUZuUXJVbHdtSVg2b2JoVGhYT1FMZjhOSzdrVzl0dmIybDcwR0xUZTIwRXFEMl9JYWZ6SHZHM2QyM2tMcWhtVW9UdG1acHZaVnhHWWFvZVlBVThpT0J0R0VYOUs3QzY2dW9iOEtoRlp0UWVlc0xITV9WN3d1QUxwR3VPMVpJaTBUa1BHc053MFRQTnp4cTdQWGcwMmhvanlRT1VJWGNLVzVjZDExSnM0RnZ1VTVoNDEtcmVGN2Q5OGV2bS1VaW9vZTd2WUUzYVNOQjROSFE0Q2lrSW1BbVNieTNmRQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T09:07:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUZuUXJVbHdtSVg2b2JoVGhYT1FMZjhOSzdrVzl0dmIybDcwR0xUZTIwRXFEMl9JYWZ6SHZHM2QyM2tMcWhtVW9UdG1acHZaVnhHWWFvZVlBVThpT0J0R0VYOUs3QzY2dW9iOEtoRl",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUZuUXJVbHdtSVg2b2JoVGhYT1FMZjhOSzdrVzl0dmIybDcwR0xUZTIwRXFEMl9JYWZ6SHZHM2QyM2tMcWhtVW9UdG1acHZaVnhHWWFvZVlBVThpT0J0R0VYOUs3QzY2dW9iOEtoRl"
+    },
+    {
+      "id": "64f7bff54130",
+      "title": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
+      "title_fr": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
+      "title_en": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZGdpeEhsaDg5QTdZeEhnU25OUVJCajdoLXlYa1NKYjZ6WHFjdnBQZnRCZDVWcEJCcTFCY2tLai1MUnpnZFdHX1kyTXI3WGpyZXY1TmxMTEZB?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T08:47:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZG"
+    },
+    {
+      "id": "3f8a9cb0edd6",
+      "title": "Le programme du Grand Prix d’Azerbaïdjan de F1 2026 à Bakou - AutoHebdo",
+      "title_fr": "Le programme du Grand Prix d’Azerbaïdjan de F1 2026 à Bakou - AutoHebdo",
+      "title_en": "Le programme du Grand Prix d’Azerbaïdjan de F1 2026 à Bakou - AutoHebdo",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdldqR2lIT3dOTFlZcDl6X284MG9jTWw3dElyTWdxRjdta0V2SEpQLU1iQjJPLXJGV0lMOUJUSzNILWc5NnR1NXVKcFJyLXlGdEszZ0MzRzlKTHR2ZU14WDA3bk1jdUh2WERXZk5yRUJHR2ZaMlNvMWl1aHROdEVIaTUzTVpnOGxIdFJhUV9GY0VjM0dtdnFzcWQ1LW9fQVBJX1ZXWg?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T08:44:37+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdldqR2lIT3dOTFlZcDl6X284MG9jTWw3dElyTWdxRjdta0V2SEpQLU1iQjJPLXJGV0lMOUJUSzNILWc5NnR1NXVKcFJyLXlGdEszZ0MzRzlKTHR2ZU14WDA3bk1jdUh2WERXZk5yRU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdldqR2lIT3dOTFlZcDl6X284MG9jTWw3dElyTWdxRjdta0V2SEpQLU1iQjJPLXJGV0lMOUJUSzNILWc5NnR1NXVKcFJyLXlGdEszZ0MzRzlKTHR2ZU14WDA3bk1jdUh2WERXZk5yRU"
+    },
     {
       "id": "b59216a6a907",
       "title": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
@@ -41,6 +269,25 @@
       "summary_en": "During several weekends this Formula 1 season, Verstappen has complained that the Red Bull car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu"
     },
     {
+      "id": "b8755d0afb23",
+      "title": "Wolff tried to help Masi ‘for the good of the sport, and for us’ in 2021 | Formula 1",
+      "title_fr": "Wolff tried to help Masi ‘for the good of the sport, and for us’ in 2021 | Formula 1",
+      "title_en": "Wolff tried to help Masi ‘for the good of the sport, and for us’ in 2021 | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/21/wolff-tried-to-help-masi-for-the-good-of-the-sport-and-for-us-in-2021/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-23-03-30-06-21-45-2.jpg",
+      "published_at": "2026-09-21T06:15:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes team principal Toto Wolff admits he still thinks about Lewis Hamilton's \"unfair\" 2021 title defeat every week.",
+      "summary_en": "Mercedes team principal Toto Wolff admits he still thinks about Lewis Hamilton's \"unfair\" 2021 title defeat every week."
+    },
+    {
       "id": "89e91e62c85c",
       "title": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
       "title_fr": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
@@ -77,6 +324,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy"
+    },
+    {
+      "id": "60ac4eddb70a",
+      "title": "On This Day: Mansell, Prost and Piquet leave Senna behind in title fight | Brief",
+      "title_fr": "On This Day: Mansell, Prost and Piquet leave Senna behind in title fight | Brief",
+      "title_en": "On This Day: Mansell, Prost and Piquet leave Senna behind in title fight | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/21/on-this-day-mansell-prost-and-piquet-leave-senna-behind-in-title-fight/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-15-09-57-46-1-4onwall.jpg",
+      "published_at": "2026-09-20T23:01:24+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Four become three in F1's unforgettable 1986 title fight",
+      "summary_en": "Four become three in F1's unforgettable 1986 title fight"
     },
     {
       "id": "290226c409c5",
@@ -248,6 +514,25 @@
       "is_breaking": false,
       "summary_fr": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\" following the Span",
       "summary_en": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\" following the Span"
+    },
+    {
+      "id": "59ec3dd61f6b",
+      "title": "Poll: Should F1 change its rules to make Virtual Safety Car periods fairer? | Debates and Polls",
+      "title_fr": "Poll: Should F1 change its rules to make Virtual Safety Car periods fairer? | Debates and Polls",
+      "title_en": "Poll: Should F1 change its rules to make Virtual Safety Car periods fairer? | Debates and Polls",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/20/poll-should-f1-change-its-rules-to-make-virtual-safety-car-periods-fairer/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-04-49-3-2295034024.jpg",
+      "published_at": "2026-09-20T07:49:09+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Virtual Safety Car decided last week's Spanish Grand Prix. Does Formula 1 need a rules change to make its racing fairer?",
+      "summary_en": "The Virtual Safety Car decided last week's Spanish Grand Prix. Does Formula 1 need a rules change to make its racing fairer?"
     },
     {
       "id": "4675e2b7dab7",
@@ -476,291 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVdkVDlQOXN3UXlPUWNuTFYzcnRkSFZoekx0a0N1OGFDQ3hjUTZMT0FlTU1KNnE4WHg2ZjlKWGZWRGRDLXNxLXBEQnlMeTRWSDJDUDFSSEVUUUZFdW1VYWtaUFJ0VG5MRjFlQ1ZSSV",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVdkVDlQOXN3UXlPUWNuTFYzcnRkSFZoekx0a0N1OGFDQ3hjUTZMT0FlTU1KNnE4WHg2ZjlKWGZWRGRDLXNxLXBEQnlMeTRWSDJDUDFSSEVUUUZFdW1VYWtaUFJ0VG5MRjFlQ1ZSSV"
-    },
-    {
-      "id": "37c1d08dd608",
-      "title": "Antonelli “doing a scarily good job” and “beating a much more experienced team-mate” – Norris | Formula 1",
-      "title_fr": "Antonelli “doing a scarily good job” and “beating a much more experienced team-mate” – Norris | Formula 1",
-      "title_en": "Antonelli “doing a scarily good job” and “beating a much more experienced team-mate” – Norris | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/19/antonelli-doing-a-scarily-good-job-and-beating-a-much-more-experienced-team-mate-norris/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-24-08-22-17-06-22-2-2291557484.jpg",
-      "published_at": "2026-09-19T06:16:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Reigning world champion Lando Norris is highly impressed by the performance of the driver who looks set to succeed him.",
-      "summary_en": "Reigning world champion Lando Norris is highly impressed by the performance of the driver who looks set to succeed him."
-    },
-    {
-      "id": "a3555c65f99d",
-      "title": "Alerte calendrier F1 : attention, le G.P d'Azerbaïdjan a lieu samedi pour cause de décalage (explications) - lemagsportauto.ouest-france.fr",
-      "title_fr": "Alerte calendrier F1 : attention, le G.P d'Azerbaïdjan a lieu samedi pour cause de décalage (explications) - lemagsportauto.ouest-france.fr",
-      "title_en": "Alerte calendrier F1 : attention, le G.P d'Azerbaïdjan a lieu samedi pour cause de décalage (explications) - lemagsportauto.ouest-france.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZVozWlpUV0VlaHZIeVNKdWphWk0tWkJjUWU5OVBUOUNDbkR1LThDTXpYVTAxOUc1b3Axczg2bE1HSTFPbzNodzlobFViUHlnTWlCdkl3SDhKeWlwdFdzRHpRdXFxdjRUU2lic09MeHZCUEhUU2FGRDJ6UA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-19T04:30:11+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVlNU0RnbTZsLUdEeERmc2Q5dmhQVG5yX1hIcVRnOTRjUXFfZnVDeldNSnlfMVV3MmVXVm1ETnIyTkY2SjZXQ2lwQmdRbG8ydDFOTm41ZFhZVnZIS25Xa1RRZDZ2M0NwTVpaT3lyZV"
-    },
-    {
-      "id": "5861887061f4",
-      "title": "Horaires TV et programme très inhabituel du GP d’Azerbaïdjan 2026 de F1 - F1ACTU",
-      "title_fr": "Horaires TV et programme très inhabituel du GP d’Azerbaïdjan 2026 de F1 - F1ACTU",
-      "title_en": "Horaires TV et programme très inhabituel du GP d’Azerbaïdjan 2026 de F1 - F1ACTU",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXZ6bElvTldVR3VxTkhuX19lbV9RVmtrWk9pcXh3LW1peXJtaVZIUmFmaTVFRUdQVFgwZmFFLUZzRTBuVjZhOWJJMEFCeHpmZGVZZlgxUU1HSm9NM0VzOGsxRkp5eXNxN19WVUREYmdEQ0FIczlhTTZpYThvSjlYYUJTQVpqbi1QX3hvcXN5N3BiYVVnRTVKQTln?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-19T04:01:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXZ6bElvTldVR3VxTkhuX19lbV9RVmtrWk9pcXh3LW1peXJtaVZIUmFmaTVFRUdQVFgwZmFFLUZzRTBuVjZhOWJJMEFCeHpmZGVZZlgxUU1HSm9NM0VzOGsxRkp5eXNxN19WVUREYm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXZ6bElvTldVR3VxTkhuX19lbV9RVmtrWk9pcXh3LW1peXJtaVZIUmFmaTVFRUdQVFgwZmFFLUZzRTBuVjZhOWJJMEFCeHpmZGVZZlgxUU1HSm9NM0VzOGsxRkp5eXNxN19WVUREYm"
-    },
-    {
-      "id": "2fc85a9cdc11",
-      "title": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
-      "title_fr": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
-      "title_en": "Formule 1 : F1 Kids, Grand Prix d'Espagne vendredi 18 septembre 2026 sur Canal+ KIDS : résumé et diffusions - Programme TV Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzajB0NWZRZ0Q2YkRiMHloUTdhekJyeFdnT2xLV0tpLWw3SlZvNnowV0I2aWI2bFQ5RjZWZnAyQkQtcjFBRXZyNTUway1xQjF4M2VZdUhfNXJ4WWQxQ014bkFRdVFhYzN2MmxSQzB3aFdORHJ2X2hmUmZnS3ZpaHRHc2M?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-19T02:24:50+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDhWVmZFYU9zYlhJNkdCYXdPUnBhX1piTWlmQVBxcEo1SE1ycTBYTTlCaFZzd0lvNUZ6bzBreXdNSnhzUzRQSnNwMjZIR2xZb1FhQm9BTEI1ZnlZRzluV3hkSE82TWdrWkxlZHgzaj"
-    },
-    {
-      "id": "1e78204ef87d",
-      "title": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
-      "title_fr": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
-      "title_en": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-shares-behind-the-scenes-look-at-alex-albons-life-away-from-f1/10856966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9wxJPY/s6/alexander-albon-williams.jpg",
-      "published_at": "2026-09-18T17:38:49+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Williams Formula 1 team has released a behind-the-scenes look at the off-track life of Alex Albon.<br />Filmed on a Tuesday following a race weekend alongside his fiancée, professional golfer Lily",
-      "summary_en": "The Williams Formula 1 team has released a behind-the-scenes look at the off-track life of Alex Albon.<br />Filmed on a Tuesday following a race weekend alongside his fiancée, professional golfer Lily"
-    },
-    {
-      "id": "51a9f2933aa6",
-      "title": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
-      "title_fr": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
-      "title_en": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-explains-why-robin-raikkonens-rise-resembles-max-verstappens/10856933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6grQ3x7Y/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-18T16:02:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver David Coulthard believes Kimi Raikkonen is mirroring Jos Verstappen's approach to developing Max with his own son, Robin, following the 11-year-old's signing with the Red Bull ",
-      "summary_en": "Former Formula 1 driver David Coulthard believes Kimi Raikkonen is mirroring Jos Verstappen's approach to developing Max with his own son, Robin, following the 11-year-old's signing with the Red Bull "
-    },
-    {
-      "id": "4b2618f40358",
-      "title": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
-      "title_fr": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
-      "title_en": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-fires-back-at-mohammed-ben-sulayem-over-fernando-alonso-remarks/10856898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNabP2/s6/fernando-alonso-aston-martin.jpg",
-      "published_at": "2026-09-18T15:12:08+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has heavily criticised suggestions from FIA president Mohammed Ben Sulayem that the governing body could help Aston Martin to retain Fernando Alon",
-      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has heavily criticised suggestions from FIA president Mohammed Ben Sulayem that the governing body could help Aston Martin to retain Fernando Alon"
-    },
-    {
-      "id": "3b9f9980a26e",
-      "title": "Piqûre de rappel : le prochain Grand Prix aura lieu le samedi, mais pour quelles raisons ? - f1i.autojournal.fr",
-      "title_fr": "Piqûre de rappel : le prochain Grand Prix aura lieu le samedi, mais pour quelles raisons ? - f1i.autojournal.fr",
-      "title_en": "Piqûre de rappel : le prochain Grand Prix aura lieu le samedi, mais pour quelles raisons ? - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDRoRFltMjdxVU5kT1pJTnBadlZSZ3RGT2h1dUpnMGVHYW16NXVBblh0cnpiYnR6cjBaVUI5RVFTTU80Unp5d0NTR3IzMUExSVRVZ1FrZ3dRRGk1MGpyZG9LZEhPNUxqSTdUNC1SMm9FRGpEZGVyQ0hKRURvdXU2UFB6Zi1panAyM2llS1YySGgzYUVUUldYeWpYMHhaUnBWUHJ3MHo5LXBLcVhBQXN1QXpvODRyei1kUXNxMkNXNEhLcGw0NXc5VlFiTnJRUQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-18T15:03:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDRoRFltMjdxVU5kT1pJTnBadlZSZ3RGT2h1dUpnMGVHYW16NXVBblh0cnpiYnR6cjBaVUI5RVFTTU80Unp5d0NTR3IzMUExSVRVZ1FrZ3dRRGk1MGpyZG9LZEhPNUxqSTdUNC1SMm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDRoRFltMjdxVU5kT1pJTnBadlZSZ3RGT2h1dUpnMGVHYW16NXVBblh0cnpiYnR6cjBaVUI5RVFTTU80Unp5d0NTR3IzMUExSVRVZ1FrZ3dRRGk1MGpyZG9LZEhPNUxqSTdUNC1SMm"
-    },
-    {
-      "id": "8851a0a19a1b",
-      "title": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-      "title_fr": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-      "title_en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/cadillac-f1-owners-mark-walter-and-twg-global-face-class-action-lawsuit/10856873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxqdaY/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-09-18T13:36:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing",
-      "summary_en": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing"
-    },
-    {
-      "id": "9e62da3a19e8",
-      "title": "Max Verstappen jokes about Kimi Antonelli’s F1 lead: “I’m definitely not having a comeback!”",
-      "title_fr": "Max Verstappen jokes about Kimi Antonelli’s F1 lead: “I’m definitely not having a comeback!”",
-      "title_en": "Max Verstappen jokes about Kimi Antonelli’s F1 lead: “I’m definitely not having a comeback!”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-kimi-antonellis-f1-lead-im-definitely-not-having-a-comeback/10856838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LJqmY/s6/kimi-antonelli-mercedes-max-ve.jpg",
-      "published_at": "2026-09-18T13:31:56+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "With eight or nine race weekends remaining – depending on what happens with the grands prix in the Middle East at the end of the year – Kimi Antonelli is in pole position to claim his maiden Formula 1",
-      "summary_en": "With eight or nine race weekends remaining – depending on what happens with the grands prix in the Middle East at the end of the year – Kimi Antonelli is in pole position to claim his maiden Formula 1"
-    },
-    {
-      "id": "293fe68e42ad",
-      "title": "Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles",
-      "title_fr": "Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles",
-      "title_en": "Williams upgrades \"won't be enough\" to fix 2026 F1 struggles, says James Vowles",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-upgrades-wont-be-enough-to-fix-2026-f1-struggles-says-james-vowles/10856821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74R582/s6/alexander-albon-williams-carlo.jpg",
-      "published_at": "2026-09-18T12:00:02+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams Formula 1 team principal James Vowles has admitted that the team's remaining 2026 upgrades will not be enough to consistently fight for points.<br />The Grove outfit has struggled since the b",
-      "summary_en": "Williams Formula 1 team principal James Vowles has admitted that the team's remaining 2026 upgrades will not be enough to consistently fight for points.<br />The Grove outfit has struggled since the b"
-    },
-    {
-      "id": "ec3b1e03f380",
-      "title": "Mercedes reveals the \"secret code\" tactic behind Kimi Antonelli's Madrid-winning VSC call",
-      "title_fr": "Mercedes reveals the \"secret code\" tactic behind Kimi Antonelli's Madrid-winning VSC call",
-      "title_en": "Mercedes reveals the \"secret code\" tactic behind Kimi Antonelli's Madrid-winning VSC call",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-reveals-the-secret-code-tactic-behind-antonellis-madrid-winning-vsc-call/10856833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVP7Bd0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-18T11:49:47+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes trackside engineering director Andrew Shovlin has explained how the team prepares its drivers for situations like the one that decided the Spanish Grand Prix - including the use of secret cod",
-      "summary_en": "Mercedes trackside engineering director Andrew Shovlin has explained how the team prepares its drivers for situations like the one that decided the Spanish Grand Prix - including the use of secret cod"
-    },
-    {
-      "id": "ce7dc0369c40",
-      "title": "Featured Comment: Why F1’s sprint races are leading some fans to switch off | Brief",
-      "title_fr": "Featured Comment: Why F1’s sprint races are leading some fans to switch off | Brief",
-      "title_en": "Featured Comment: Why F1’s sprint races are leading some fans to switch off | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/18/featured-comment-why-f1s-sprint-races-are-leading-some-fans-to-switch-off/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-18-12-01-55-2-M611472_F1_Grand_Prix_of_Great_Britain_Practice_Sprint_Qualifying.jpg",
-      "published_at": "2026-09-18T11:06:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "How sprint races led one fan to stop watching Formula 1",
-      "summary_en": "How sprint races led one fan to stop watching Formula 1"
-    },
-    {
-      "id": "b1772a14d8a1",
-      "title": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
-      "title_fr": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
-      "title_en": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-could-get-more-and-more-panicked-in-f1-title-fight-says-nico-rosberg/10856828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAbL90/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-18T11:00:39+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli could become \"more and more panicked\" in his bid for the 2026 Formula 1 championship if upgrades from McLaren and Ferrari drag him back into the pack, warns 2016 F1 champion Nico Rosber",
-      "summary_en": "Kimi Antonelli could become \"more and more panicked\" in his bid for the 2026 Formula 1 championship if upgrades from McLaren and Ferrari drag him back into the pack, warns 2016 F1 champion Nico Rosber"
-    },
-    {
-      "id": "3843afded70f",
-      "title": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-      "title_fr": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-      "title_en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxqdaY/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-09-18T10:29:26+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing",
-      "summary_en": "Cadillac Formula 1 shareholder Mark Walter has officially become the subject of a class-action lawsuit, while a concurrent investigation into potential fraud between his insurance companies is ongoing"
     }
   ]
 }
