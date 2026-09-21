@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-21T02:23:19Z",
+  "last_updated": "2026-09-21T05:23:29Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "5f2f8a951979",
+      "title": "Le retour d'un Grand Prix historique de F1 s'éloigne : \"Nous en sommes encore très loin\" - f1i.autojournal.fr",
+      "title_fr": "Le retour d'un Grand Prix historique de F1 s'éloigne : \"Nous en sommes encore très loin\" - f1i.autojournal.fr",
+      "title_en": "Le retour d'un Grand Prix historique de F1 s'éloigne : \"Nous en sommes encore très loin\" - f1i.autojournal.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy1rUXViOFpPOFI2UjRmajQtLWdReUYzSTAzOWxJb0lIbVBFendNaDRKaHRxdndkeU1yMHZiendIdHBRbVA4U2JuT2F1Vkc5TjRBQ3YtWjd5N3BkQVBsdHdGeGN3?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T04:04:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy"
+    },
     {
       "id": "290226c409c5",
       "title": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The new Madring's signature corner proved a monumental disappointment. Max Verstappen and Lando Norris explained why.",
       "summary_en": "The new Madring's signature corner proved a monumental disappointment. Max Verstappen and Lando Norris explained why."
-    },
-    {
-      "id": "b23f34a37496",
-      "title": "Andrew Benson Q&A: Send us your questions",
-      "title_fr": "Andrew Benson Q&A: Send us your questions",
-      "title_en": "Andrew Benson Q&A: Send us your questions",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
-      "published_at": "2026-09-18T05:44:50+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now.",
-      "summary_en": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now."
     }
   ]
 }
