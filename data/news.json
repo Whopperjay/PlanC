@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-09-21T11:26:40Z",
+  "last_updated": "2026-09-21T14:27:49Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "7118f3574809",
+      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
+      "title_fr": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
+      "title_en": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVP7pW0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-21T14:00:02+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not ",
+      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not "
+    },
+    {
+      "id": "e3de987959ae",
+      "title": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
+      "title_fr": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
+      "title_en": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwoR42/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "published_at": "2026-09-21T13:52:43+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As F1 switched to new re",
+      "summary_en": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As F1 switched to new re"
+    },
+    {
+      "id": "32e66cca6a8e",
+      "title": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
+      "title_fr": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
+      "title_en": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWmdYNTI2V1J4N3VLRQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T12:33:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWm"
+    },
+    {
+      "id": "d166135750d7",
+      "title": "Attention aux fans de F1 : le Grand Prix d'Azerbaïdjan aura lieu samedi - DHnet",
+      "title_fr": "Attention aux fans de F1 : le Grand Prix d'Azerbaïdjan aura lieu samedi - DHnet",
+      "title_en": "Attention aux fans de F1 : le Grand Prix d'Azerbaïdjan aura lieu samedi - DHnet",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYTZfVDNRLWRaNFJZU0VXaEYzQ2xCY1J5a1p2akd0Z2l3RjNHbW9pRzE0TUhsNkF4WC1qVGVGRzNUYWZRU244bVZvekVGT3hkWjBmSVRnSDZzT0dOM3RhSXpFNGFQV3lYT1JUYVZ5RHhZMHpYSTVocjlSSU9leGlYTzBP?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T12:08:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYT"
+    },
+    {
+      "id": "c4157df81f13",
+      "title": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
+      "title_fr": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
+      "title_en": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6DGqrz4Y/s6/doriane-pin-mercedes.jpg",
+      "published_at": "2026-09-21T11:57:16+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.<br />Speaking in a recent Mercedes In Convo With Kids interview, the French driver co",
+      "summary_en": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.<br />Speaking in a recent Mercedes In Convo With Kids interview, the French driver co"
+    },
+    {
+      "id": "6e515fdbe624",
+      "title": "F1 : pourquoi le Grand Prix de Bahreïn ne se courra pas à Sakhir, mais en Malaisie - sport.fr",
+      "title_fr": "F1 : pourquoi le Grand Prix de Bahreïn ne se courra pas à Sakhir, mais en Malaisie - sport.fr",
+      "title_en": "F1 : pourquoi le Grand Prix de Bahreïn ne se courra pas à Sakhir, mais en Malaisie - sport.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG9LUEk3OFl5M21Sa0ZqbGE4ZXdCQUt2X0pWTURGR3htRW9BODJiU3NBQ3ctSm1lMGo5QmpIbVJqdElIeUswZURvYUI4UDkzRjVtQWVJcUNUaVItdFJDYVRFcG1OSU52cVNJYmJUaHFvTGwzaE9iOGxOeWJwRmE2NUcxYTRzQWtQcmFtRU1GaU9NZGVrR2RNaVZSN1NOVElGM3UtVzh0VEFzV3hsRVpyVFdhVEJKc0ZtVk5sMVpieGQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T11:49:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG9LUEk3OFl5M21Sa0ZqbGE4ZXdCQUt2X0pWTURGR3htRW9BODJiU3NBQ3ctSm1lMGo5QmpIbVJqdElIeUswZURvYUI4UDkzRjVtQWVJcUNUaVItdFJDYVRFcG1OSU52cVNJYmJUaH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG9LUEk3OFl5M21Sa0ZqbGE4ZXdCQUt2X0pWTURGR3htRW9BODJiU3NBQ3ctSm1lMGo5QmpIbVJqdElIeUswZURvYUI4UDkzRjVtQWVJcUNUaVItdFJDYVRFcG1OSU52cVNJYmJUaH"
+    },
     {
       "id": "cdbc6c5fce3c",
       "title": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
@@ -77,6 +191,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UU",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UU"
+    },
+    {
+      "id": "49e42c40b399",
+      "title": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
+      "title_fr": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
+      "title_en": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVloyZE4tam9OUzQ4Wk9xb0hPWFplalZZaE10dE1YeHVFbTBHQWdKVmFSc2FGaldmU1lCRnR2REtvTGtxMjNsRTRRRFo3VzJSY2lSdWtSLXNKeDdFQWpmcmFpWDlwNGl1UUIzSjdQZDNKR1BNa2pMM1ozaE9pLVF3Tkw3VDRlUmNEYTJUdHltNFYycVZ5N1ZIMGlTNW1jazdpUmcxV2ZSeXZSV3RJWlFFQmtqM1FmUlhzdDNobWVEQVVIUHRLdG16VngzZngzT3Q4b3JV?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T10:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVloyZE4tam9OUzQ4Wk9xb0hPWFplalZZaE10dE1YeHVFbTBHQWdKVmFSc2FGaldmU1lCRnR2REtvTGtxMjNsRTRRRFo3VzJSY2lSdWtSLXNKeDdFQWpmcmFpWDlwNGl1UUIzSjdQZD",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVloyZE4tam9OUzQ4Wk9xb0hPWFplalZZaE10dE1YeHVFbTBHQWdKVmFSc2FGaldmU1lCRnR2REtvTGtxMjNsRTRRRFo3VzJSY2lSdWtSLXNKeDdFQWpmcmFpWDlwNGl1UUIzSjdQZD"
     },
     {
       "id": "79014a14f0dc",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.<br />After seven-time champion Lewis Hamilton decided to part ways wit",
       "summary_en": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.<br />After seven-time champion Lewis Hamilton decided to part ways wit"
-    },
-    {
-      "id": "7e5305e758a3",
-      "title": "Rob Smedley explains Peter Bonnington's key role in Kimi Antonelli's F1 success",
-      "title_fr": "Rob Smedley explains Peter Bonnington's key role in Kimi Antonelli's F1 success",
-      "title_en": "Rob Smedley explains Peter Bonnington's key role in Kimi Antonelli's F1 success",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/rob-smedley-explains-peter-bonningtons-key-role-in-kimi-antonellis-f1-success/10857140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlEb8BY/s6/kimi-antonelli-peter-bonningto.jpg",
-      "published_at": "2026-09-19T12:40:11+00:00",
-      "race_id": "china",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 race engineer Rob Smedley says Peter \"Bono\" Bonnington has been essential to Kimi Antonelli's 2026 F1 title charge, though he stresses the Mercedes driver is the one ultimately respon",
-      "summary_en": "Former Formula 1 race engineer Rob Smedley says Peter \"Bono\" Bonnington has been essential to Kimi Antonelli's 2026 F1 title charge, though he stresses the Mercedes driver is the one ultimately respon"
-    },
-    {
-      "id": "1d25d58680c9",
-      "title": "Le rêve d'un Grand Prix de Formule 1 à Paris ? De nombreux obstacles freinent encore le projet... - f1i.autojournal.fr",
-      "title_fr": "Le rêve d'un Grand Prix de Formule 1 à Paris ? De nombreux obstacles freinent encore le projet... - f1i.autojournal.fr",
-      "title_en": "Le rêve d'un Grand Prix de Formule 1 à Paris ? De nombreux obstacles freinent encore le projet... - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNktmb3doQTJtZHZwNnN0WTJjZXhyMVBOWjA5RkF5Vmc3c1dNMXh1MGR0eWRnTzhkY2JKRk90cnpHRk83TG50WlFCLTBnSmVPZGthNFlsN1pac3VsZjRpN2tITHNvbGlMNzNTTkItaC1WbnVDcm5DaXo2ZjljVjNZOW1ZS3pBMjQ0TVZIRGJXTW1hbU41QTVzWkhKVU0xM0JIVkF0WVdNaGoyUmVkWWl4MjlBTFRpMklTdnplTHJCbTZkcmVsdU9XOHhuXzBNLVJI?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-19T12:07:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNktmb3doQTJtZHZwNnN0WTJjZXhyMVBOWjA5RkF5Vmc3c1dNMXh1MGR0eWRnTzhkY2JKRk90cnpHRk83TG50WlFCLTBnSmVPZGthNFlsN1pac3VsZjRpN2tITHNvbGlMNzNTTkItaC",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNktmb3doQTJtZHZwNnN0WTJjZXhyMVBOWjA5RkF5Vmc3c1dNMXh1MGR0eWRnTzhkY2JKRk90cnpHRk83TG50WlFCLTBnSmVPZGthNFlsN1pac3VsZjRpN2tITHNvbGlMNzNTTkItaC"
-    },
-    {
-      "id": "0ffdc8fc40a9",
-      "title": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
-      "title_fr": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
-      "title_en": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hailed-as-phenomenon-as-david-coulthard-rejects-luck-claims/10857078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRzroY/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-19T09:31:59+00:00",
-      "race_id": "china",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver David Coulthard has branded current championship leader Kimi Antonelli a \"phenomenon\", dismissing claims that the Mercedes driver's success is down to luck.<br />Antonelli, who",
-      "summary_en": "Former Formula 1 driver David Coulthard has branded current championship leader Kimi Antonelli a \"phenomenon\", dismissing claims that the Mercedes driver's success is down to luck.<br />Antonelli, who"
-    },
-    {
-      "id": "fe1cc0cfbc04",
-      "title": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
-      "title_fr": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
-      "title_en": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-accepts-2026-f1-development-compromise-as-focus-turns-to-2027/10857074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2GdKjVEY/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-19T09:12:49+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams team principal James Vowles has conceded that the Grove outfit must accept a developmental \"compromise\" for the remainder of the 2026 Formula 1 season, having already shifted its main resourc",
-      "summary_en": "Williams team principal James Vowles has conceded that the Grove outfit must accept a developmental \"compromise\" for the remainder of the 2026 Formula 1 season, having already shifted its main resourc"
-    },
-    {
-      "id": "a458efc37cd0",
-      "title": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "title_fr": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "title_en": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mercedes-aims-to-end-pole-drought-with-upcoming-malaysia-f1-upgrades/10857058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwKlx2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-19T08:05:18+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa",
-      "summary_en": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa"
-    },
-    {
-      "id": "eb05005d21a1",
-      "title": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "title_fr": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "title_en": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-aims-to-end-pole-draught-with-upcoming-malaysia-f1-upgrades/10856860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwKlx2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-19T08:05:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa",
-      "summary_en": "Mercedes has confirmed its next big Formula 1 car upgrade will arrive at the forthcoming grand prix in Malaysia, where it hopes to get back into contention for pole.<br />The Silver Arrows is the runa"
-    },
-    {
-      "id": "4beea6424ec0",
-      "title": "Isack Hadjar, le verdict tombe pour son retour en Formule 1 - Sports.fr",
-      "title_fr": "Isack Hadjar, le verdict tombe pour son retour en Formule 1 - Sports.fr",
-      "title_en": "Isack Hadjar, le verdict tombe pour son retour en Formule 1 - Sports.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVdkVDlQOXN3UXlPUWNuTFYzcnRkSFZoekx0a0N1OGFDQ3hjUTZMT0FlTU1KNnE4WHg2ZjlKWGZWRGRDLXNxLXBEQnlMeTRWSDJDUDFSSEVUUUZFdW1VYWtaUFJ0VG5MRjFlQ1ZSSVlhZmxXWXVQXzRBeUwwMG1lWUNGU2ZYU1NQYWpIM1ozRUQzcy1Mbi1CT2dyNE5WeWVpdWVXeGVjYkRXdw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-19T08:01:28+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVdkVDlQOXN3UXlPUWNuTFYzcnRkSFZoekx0a0N1OGFDQ3hjUTZMT0FlTU1KNnE4WHg2ZjlKWGZWRGRDLXNxLXBEQnlMeTRWSDJDUDFSSEVUUUZFdW1VYWtaUFJ0VG5MRjFlQ1ZSSV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVdkVDlQOXN3UXlPUWNuTFYzcnRkSFZoekx0a0N1OGFDQ3hjUTZMT0FlTU1KNnE4WHg2ZjlKWGZWRGRDLXNxLXBEQnlMeTRWSDJDUDFSSEVUUUZFdW1VYWtaUFJ0VG5MRjFlQ1ZSSV"
     }
   ]
 }
