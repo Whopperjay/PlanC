@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-21T17:28:50Z",
+  "last_updated": "2026-09-21T20:42:07Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "380e521e13a9",
+      "title": "Formula 1 cuts grand prix distances for 2027 in latest power unit rules compromise | Formula 1",
+      "title_fr": "Formula 1 cuts grand prix distances for 2027 in latest power unit rules compromise | Formula 1",
+      "title_en": "Formula 1 cuts grand prix distances for 2027 in latest power unit rules compromise | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/21/formula-1-cuts-grand-prix-distances-for-2027-in-latest-power-unit-rules-compromise/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-04-00-4-2295033895.jpg",
+      "published_at": "2026-09-21T18:48:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1's engine regulations have led the series to cut the length of grands prix next year, changing a limit which has been in place for decades.",
+      "summary_en": "Formula 1's engine regulations have led the series to cut the length of grands prix next year, changing a limit which has been in place for decades."
+    },
     {
       "id": "a49ee4167af5",
       "title": "F1 reduces maximum distance of races by 15km",
@@ -191,6 +210,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYT",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYT"
+    },
+    {
+      "id": "22a90d0176a8",
+      "title": "GP d'Azerbaïdjan F1 2026 : pourquoi la course n'aura pas lieu ce dimanche... - Sport Auto",
+      "title_fr": "GP d'Azerbaïdjan F1 2026 : pourquoi la course n'aura pas lieu ce dimanche... - Sport Auto",
+      "title_en": "GP d'Azerbaïdjan F1 2026 : pourquoi la course n'aura pas lieu ce dimanche... - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWxDNmFaNWMybUx5bURnX3gwTXFZbFFkTjlHYmtoVXVyNnFpdkZuYldSVjBNSWMweE9mdXdRSE9XQnJtVGVydG95TU4tNGxrZzVkLVJkemdkM0puTmVJajRDbWp2dXBpMUw2cTMycGZodTRGLXY2dFJOVEx3d2tPYjl6UnJvUWVUaFEwUHpycEVCNW5wcUhoN1lhOGFIelBrS2h6VTlnc3lLS3g2SXltdHlqUm4yTlJZQkRsUUtYNk1qYzZHNVEydTFvYzJCZw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWxDNmFaNWMybUx5bURnX3gwTXFZbFFkTjlHYmtoVXVyNnFpdkZuYldSVjBNSWMweE9mdXdRSE9XQnJtVGVydG95TU4tNGxrZzVkLVJkemdkM0puTmVJajRDbWp2dXBpMUw2cTMycG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWxDNmFaNWMybUx5bURnX3gwTXFZbFFkTjlHYmtoVXVyNnFpdkZuYldSVjBNSWMweE9mdXdRSE9XQnJtVGVydG95TU4tNGxrZzVkLVJkemdkM0puTmVJajRDbWp2dXBpMUw2cTMycG"
     },
     {
       "id": "c4157df81f13",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3lnMmFISWJFM0lmTW9Dd250aDFGbWJwY3hYU2ktb2pGczVFdVk4eThMSXZXWlFPeTg3WmFIVmVFaGhUWEV3SGl6SEVPcmJSOHdURk8tanVidkRTMlRGbmVvZ0liVXBWcFozZURucU"
-    },
-    {
-      "id": "aeabf4af82c8",
-      "title": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
-      "title_fr": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
-      "title_en": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm4ySDJ5VXlWVU16SDVGaTYyeTl2S3RUTzl3dE4wdlFSUzVWb2s?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-20T09:46:21+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm"
-    },
-    {
-      "id": "35b802f6d92b",
-      "title": "David Coulthard urges FIA to speed up safety car decisions",
-      "title_fr": "David Coulthard urges FIA to speed up safety car decisions",
-      "title_en": "David Coulthard urges FIA to speed up safety car decisions",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-urges-fia-to-speed-up-safety-car-decisions/10857133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/25dLeex0/s6/david-coulthard.jpg",
-      "published_at": "2026-09-20T09:00:02+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\" following the Span",
-      "summary_en": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\" following the Span"
     }
   ]
 }
