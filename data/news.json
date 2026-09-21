@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-09-21T14:27:49Z",
+  "last_updated": "2026-09-21T17:28:50Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "a49ee4167af5",
+      "title": "F1 reduces maximum distance of races by 15km",
+      "title_fr": "F1 reduces maximum distance of races by 15km",
+      "title_en": "F1 reduces maximum distance of races by 15km",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd9/live/ebb18450-b5df-11f1-aff1-eb6baa3fda4f.jpg",
+      "published_at": "2026-09-21T17:16:13+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.",
+      "summary_en": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season."
+    },
+    {
+      "id": "a61e9c8f7df3",
+      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "title_fr": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "title_en": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YP7rorA2/s6/rafael-nadal-waves-the-chequer-2.jpg",
+      "published_at": "2026-09-21T16:57:38+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C",
+      "summary_en": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C"
+    },
+    {
+      "id": "0480161ab36e",
+      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "title_fr": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "title_en": "F1 approves shorter races for 2027 to fit revised power unit plan",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9EQnLY/s6/start-action.jpg",
+      "published_at": "2026-09-21T16:52:15+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C",
+      "summary_en": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C"
+    },
+    {
+      "id": "f16e8f0cd52e",
+      "title": "Jamie Chadwick opens up on pressure of representing women in motorsport",
+      "title_fr": "Jamie Chadwick opens up on pressure of representing women in motorsport",
+      "title_en": "Jamie Chadwick opens up on pressure of representing women in motorsport",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/wec/news/jamie-chadwick-opens-up-on-pressure-of-representing-women-in-motorsport/10857794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YE9wnzLY/s6/jamie-chadwick-genesis-magma-r.jpg",
+      "published_at": "2026-09-21T16:39:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Three-time W Series champion Jamie Chadwick has admitted that being a prominent female driver on the single-seater ladder meant her off days were often heavily scrutinised as a reflection of her gende",
+      "summary_en": "Three-time W Series champion Jamie Chadwick has admitted that being a prominent female driver on the single-seater ladder meant her off days were often heavily scrutinised as a reflection of her gende"
+    },
+    {
+      "id": "82134a2ed92c",
+      "title": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
+      "title_fr": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
+      "title_en": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2jEAV4p0/s6/carlos-sainz-williams.jpg",
+      "published_at": "2026-09-21T14:42:31+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz has urged Williams Formula 1 junior Will Green to prioritise finding the limits over consistency as the 13-year-old prepares to graduate from karting to single-seaters.<br />Green was ann",
+      "summary_en": "Carlos Sainz has urged Williams Formula 1 junior Will Green to prioritise finding the limits over consistency as the 13-year-old prepares to graduate from karting to single-seaters.<br />Green was ann"
+    },
     {
       "id": "7118f3574809",
       "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
@@ -39,6 +134,25 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As F1 switched to new re",
       "summary_en": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As F1 switched to new re"
+    },
+    {
+      "id": "db161494152f",
+      "title": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan a lieu ce samedi 26 septembre et non dimanche - Sud Ouest",
+      "title_fr": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan a lieu ce samedi 26 septembre et non dimanche - Sud Ouest",
+      "title_en": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan a lieu ce samedi 26 septembre et non dimanche - Sud Ouest",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZGk5NFFCOUxHMnFiOXZ6SmxZdldEdFVWMGdOY3hmVlJwYlVncGxVWnFYaV9nOGNqeG5fT3kzdkRMUEVqSjdvdlVKV09PVV9FdkNsY3gxVzBUUktuVUpUaFdjZi1xcWcwY0JSbllUYzFoZDliU3VDQmdweHoxbE9GcWVkYm91dnVLM0o4QmVQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T13:01:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZG"
     },
     {
       "id": "32e66cca6a8e",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\" following the Span",
       "summary_en": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\" following the Span"
-    },
-    {
-      "id": "59ec3dd61f6b",
-      "title": "Poll: Should F1 change its rules to make Virtual Safety Car periods fairer? | Debates and Polls",
-      "title_fr": "Poll: Should F1 change its rules to make Virtual Safety Car periods fairer? | Debates and Polls",
-      "title_en": "Poll: Should F1 change its rules to make Virtual Safety Car periods fairer? | Debates and Polls",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/20/poll-should-f1-change-its-rules-to-make-virtual-safety-car-periods-fairer/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-04-49-3-2295034024.jpg",
-      "published_at": "2026-09-20T07:49:09+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Virtual Safety Car decided last week's Spanish Grand Prix. Does Formula 1 need a rules change to make its racing fairer?",
-      "summary_en": "The Virtual Safety Car decided last week's Spanish Grand Prix. Does Formula 1 need a rules change to make its racing fairer?"
-    },
-    {
-      "id": "4675e2b7dab7",
-      "title": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
-      "title_fr": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
-      "title_en": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-praised-for-honest-admission-about-kimi-antonellis-f1-form/10857086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2wlKPGBY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-09-19T17:00:02+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver David Coulthard has praised George Russell for admitting that his Mercedes team-mate and current championship leader Kimi Antonelli is doing a better job.<br />Antonelli secure",
-      "summary_en": "Former Formula 1 driver David Coulthard has praised George Russell for admitting that his Mercedes team-mate and current championship leader Kimi Antonelli is doing a better job.<br />Antonelli secure"
-    },
-    {
-      "id": "8d31a4ed0453",
-      "title": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
-      "title_fr": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
-      "title_en": "Arvid Lindblad nearly flips world's shortest Fiat Panda in bizarre YouTube challenge",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/arvid-lindblad-nearly-flips-worlds-shortest-fiat-panda-in-bizarre-youtube-challenge/10857231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7z1y56/s6/arvid-lindblad-racing-bulls.jpg",
-      "published_at": "2026-09-19T15:43:52+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Racing Bulls Formula 1 rookie Arvid Lindblad has used some of his time off to test the world's shortest Fiat Panda in a recent YouTube video.<br />The 19-year-old driver featured in a video by Italian",
-      "summary_en": "Racing Bulls Formula 1 rookie Arvid Lindblad has used some of his time off to test the world's shortest Fiat Panda in a recent YouTube video.<br />The 19-year-old driver featured in a video by Italian"
-    },
-    {
-      "id": "a0d0b1a518e2",
-      "title": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
-      "title_fr": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
-      "title_en": "James Vowles faces \"tough moment\" as Nico Rosberg calls Williams woes \"a shocker\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/james-vowles-faces-tough-moment-as-nico-rosberg-calls-williams-woes-a-shocker/10857199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QDvo6/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-19T15:13:39+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "2016 Formula 1 champion Nico Rosberg has branded Williams's 2026 performance a \"shocker\" and argued that team principal James Vowles faces a major challenge to bring the Grove outfit back to where it ",
-      "summary_en": "2016 Formula 1 champion Nico Rosberg has branded Williams's 2026 performance a \"shocker\" and argued that team principal James Vowles faces a major challenge to bring the Grove outfit back to where it "
-    },
-    {
-      "id": "249ed62adcb9",
-      "title": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
-      "title_fr": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
-      "title_en": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-reveals-special-black-race-suit-for-charles-leclerc-at-f1-singapore-gp/10857172/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8Wp86/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-09-19T14:07:24+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari has unveiled a special-edition black race suit for Charles Leclerc, which the Monegasque driver will wear at next month's Singapore Grand Prix. <br />Moving away from the traditional Ferrari r",
-      "summary_en": "Ferrari has unveiled a special-edition black race suit for Charles Leclerc, which the Monegasque driver will wear at next month's Singapore Grand Prix. <br />Moving away from the traditional Ferrari r"
-    },
-    {
-      "id": "5dba07f63d0d",
-      "title": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
-      "title_fr": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
-      "title_en": "Otmar Szafnauer praises Toto Wolff after Kimi Antonelli gamble pays off",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-praises-toto-wolff-after-kimi-antonelli-gamble-pays-off/10857159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7wLOV2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-19T13:39:05+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.<br />After seven-time champion Lewis Hamilton decided to part ways wit",
-      "summary_en": "Former Alpine team principal Otmar Szafnauer says Mercedes boss Toto Wolff deserves credit for taking a gamble on Kimi Antonelli.<br />After seven-time champion Lewis Hamilton decided to part ways wit"
     }
   ]
 }
