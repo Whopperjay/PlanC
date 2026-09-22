@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-22T17:54:19Z",
+  "last_updated": "2026-09-22T20:57:18Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "e0ed8eb76822",
+      "title": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
+      "title_fr": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
+      "title_en": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/22/spotlight-duerksen-completes-first-formula-1-test-for-mercedes-in-portugal/",
+      "image_url": null,
+      "published_at": "2026-09-22T17:53:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Joshua Duerksen spent two days testing for Mercedes in Portugal",
+      "summary_en": "Joshua Duerksen spent two days testing for Mercedes in Portugal"
+    },
     {
       "id": "c84dac7360b5",
       "title": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
@@ -191,6 +210,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONl",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONl"
+    },
+    {
+      "id": "9c918764f502",
+      "title": "Auto. F1 : le Français Isack Hadjar va faire son retour au GP d'Azerbaïdjan - Le Dauphiné Libéré",
+      "title_fr": "Auto. F1 : le Français Isack Hadjar va faire son retour au GP d'Azerbaïdjan - Le Dauphiné Libéré",
+      "title_en": "Auto. F1 : le Français Isack Hadjar va faire son retour au GP d'Azerbaïdjan - Le Dauphiné Libéré",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFdnWEJMZVozZWJlSVBCWDhPR3l2MmpkN0c5emdxeml5M25lcGZXMVBMMWEtYUF6LU1pRTRyM1hFa3pTSkU3b1VETUplNDFMOFBhbldndGZyU0l1QzFOSWdQcV9XUkJfZUtsdnNDR3Fuc1RCWXRnVkpFUFpzR0F1OHRESUlOLW50YnJDQW9NOG5rV29tY0VZekgxc2dncGNRTDZ1VXNmV2ttVnhiYXVaag?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-22T10:04:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFdnWEJMZVozZWJlSVBCWDhPR3l2MmpkN0c5emdxeml5M25lcGZXMVBMMWEtYUF6LU1pRTRyM1hFa3pTSkU3b1VETUplNDFMOFBhbldndGZyU0l1QzFOSWdQcV9XUkJfZUtsdnNDR3",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFdnWEJMZVozZWJlSVBCWDhPR3l2MmpkN0c5emdxeml5M25lcGZXMVBMMWEtYUF6LU1pRTRyM1hFa3pTSkU3b1VETUplNDFMOFBhbldndGZyU0l1QzFOSWdQcV9XUkJfZUtsdnNDR3"
     },
     {
       "id": "8b60b41ca603",
@@ -687,6 +725,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZG"
     },
     {
+      "id": "819829d9a88d",
+      "title": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - Turbo.fr",
+      "title_fr": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - Turbo.fr",
+      "title_en": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - Turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRHBIdk00R2pNRGtfNXU2Nk55OUIzTXJTcnFwZ2RneFcxUGloWk1CeU1DN1FtVWFIVnBwYTJ1d1pOOFd1WFlmYkRMSWd2Q1g0ZVduYUFFRzdLVm0yQVE1MzlzU0loR0sxUlhqa19fZmxfNmZ2RDJ5YlE?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T12:45:56+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH"
+    },
+    {
       "id": "32e66cca6a8e",
       "title": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
       "title_fr": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWm",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWm"
-    },
-    {
-      "id": "d166135750d7",
-      "title": "Attention aux fans de F1 : le Grand Prix d'Azerbaïdjan aura lieu samedi - DHnet",
-      "title_fr": "Attention aux fans de F1 : le Grand Prix d'Azerbaïdjan aura lieu samedi - DHnet",
-      "title_en": "Attention aux fans de F1 : le Grand Prix d'Azerbaïdjan aura lieu samedi - DHnet",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYTZfVDNRLWRaNFJZU0VXaEYzQ2xCY1J5a1p2akd0Z2l3RjNHbW9pRzE0TUhsNkF4WC1qVGVGRzNUYWZRU244bVZvekVGT3hkWjBmSVRnSDZzT0dOM3RhSXpFNGFQV3lYT1JUYVZ5RHhZMHpYSTVocjlSSU9leGlYTzBP?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T12:08:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0VPdElrVjFmLTdaNTcxdVlFRW5DWjRlcG1YX2xRRW52NFZjNWZxUUd0SEtkZmNEc1lGQVhCRjhvYzE3X0VMNktpX1g1RUROajZIVWt2SUlSc2c5MWdkZmNXYi02a2FkRmZ0U00zYT"
-    },
-    {
-      "id": "22a90d0176a8",
-      "title": "GP d'Azerbaïdjan F1 2026 : pourquoi la course n'aura pas lieu ce dimanche... - Sport Auto",
-      "title_fr": "GP d'Azerbaïdjan F1 2026 : pourquoi la course n'aura pas lieu ce dimanche... - Sport Auto",
-      "title_en": "GP d'Azerbaïdjan F1 2026 : pourquoi la course n'aura pas lieu ce dimanche... - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWxDNmFaNWMybUx5bURnX3gwTXFZbFFkTjlHYmtoVXVyNnFpdkZuYldSVjBNSWMweE9mdXdRSE9XQnJtVGVydG95TU4tNGxrZzVkLVJkemdkM0puTmVJajRDbWp2dXBpMUw2cTMycGZodTRGLXY2dFJOVEx3d2tPYjl6UnJvUWVUaFEwUHpycEVCNW5wcUhoN1lhOGFIelBrS2h6VTlnc3lLS3g2SXltdHlqUm4yTlJZQkRsUUtYNk1qYzZHNVEydTFvYzJCZw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T12:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWxDNmFaNWMybUx5bURnX3gwTXFZbFFkTjlHYmtoVXVyNnFpdkZuYldSVjBNSWMweE9mdXdRSE9XQnJtVGVydG95TU4tNGxrZzVkLVJkemdkM0puTmVJajRDbWp2dXBpMUw2cTMycG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWWxDNmFaNWMybUx5bURnX3gwTXFZbFFkTjlHYmtoVXVyNnFpdkZuYldSVjBNSWMweE9mdXdRSE9XQnJtVGVydG95TU4tNGxrZzVkLVJkemdkM0puTmVJajRDbWp2dXBpMUw2cTMycG"
-    },
-    {
-      "id": "c4157df81f13",
-      "title": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
-      "title_fr": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
-      "title_en": "2025 F1 Academy champion Doriane Pin sets timeline for Formula 1 race seat",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/2025-f1-academy-champion-doriane-pin-sets-timeline-for-formula-1-race-seat/10857711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6DGqrz4Y/s6/doriane-pin-mercedes.jpg",
-      "published_at": "2026-09-21T11:57:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.<br />Speaking in a recent Mercedes In Convo With Kids interview, the French driver co",
-      "summary_en": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.<br />Speaking in a recent Mercedes In Convo With Kids interview, the French driver co"
     }
   ]
 }
