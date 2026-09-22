@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-09-22T14:51:48Z",
+  "last_updated": "2026-09-22T17:54:19Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "c84dac7360b5",
+      "title": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
+      "title_fr": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
+      "title_en": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9EQnLY/s6/start-action.jpg",
+      "published_at": "2026-09-22T16:00:18+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Monaco, where the minimu",
+      "summary_en": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Monaco, where the minimu"
+    },
+    {
+      "id": "eb51beb517f5",
+      "title": "Formule 1 : Pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi ? - CANAL+",
+      "title_fr": "Formule 1 : Pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi ? - CANAL+",
+      "title_en": "Formule 1 : Pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi ? - CANAL+",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU12ZlhuWXZ2S2stY2ZUalQzMlU2TDhNU191bDZjbFZlMVc1cWxzRFkzSEFZWER1RmdsM2dQQTl5bUkydXF2WnJpNzJ0cFlCUDZQUzVyckJrZ3pZU1lSTENxR3J0SmVYaHc5RF9fakMxdmI1VFd2dkJNQkNDRzZzYmhrOXBWY2JLaVdFSEQ4MS1ZVWwtYmJzbVZPYkxwalZIZEdBUnVPdXU?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-22T15:57:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU12ZlhuWXZ2S2stY2ZUalQzMlU2TDhNU191bDZjbFZlMVc1cWxzRFkzSEFZWER1RmdsM2dQQTl5bUkydXF2WnJpNzJ0cFlCUDZQUzVyckJrZ3pZU1lSTENxR3J0SmVYaHc5RF9fak",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU12ZlhuWXZ2S2stY2ZUalQzMlU2TDhNU191bDZjbFZlMVc1cWxzRFkzSEFZWER1RmdsM2dQQTl5bUkydXF2WnJpNzJ0cFlCUDZQUzVyckJrZ3pZU1lSTENxR3J0SmVYaHc5RF9fak"
+    },
+    {
+      "id": "0050d922f1e0",
+      "title": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
+      "title_fr": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
+      "title_en": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/what-were-leclercs-other-opportunities-before-signing-new-ferrari-deal/10857955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QLve6/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-09-22T15:30:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Every time Ferrari and Charles Leclerc agree to extend their relationship, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true love.<br />\"For",
+      "summary_en": "Every time Ferrari and Charles Leclerc agree to extend their relationship, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true love.<br />\"For"
+    },
+    {
+      "id": "efb019276a52",
+      "title": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
+      "title_fr": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
+      "title_en": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/what-were-leclercs-f1-options-before-ferrari-deal/10857989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAVob0/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-09-22T15:30:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Every time Ferrari and Charles Leclerc agree to extend their relationship in Formula 1, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true lo",
+      "summary_en": "Every time Ferrari and Charles Leclerc agree to extend their relationship in Formula 1, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true lo"
+    },
+    {
+      "id": "16fa747853c5",
+      "title": "Five things to look out for at the F1 Azerbaijan GP",
+      "title_fr": "Five things to look out for at the F1 Azerbaijan GP",
+      "title_en": "Five things to look out for at the F1 Azerbaijan GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-azerbaijan-gp/10857961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Yv87Xr70/s6/drivers-take-the-start-of-the-.jpg",
+      "published_at": "2026-09-22T14:49:50+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 returns to familiar ground this weekend as Azerbaijan celebrates its 10th anniversary of being on the calendar.<br />The Baku street circuit first entered as the European Grand Prix in 2016 ",
+      "summary_en": "Formula 1 returns to familiar ground this weekend as Azerbaijan celebrates its 10th anniversary of being on the calendar.<br />The Baku street circuit first entered as the European Grand Prix in 2016 "
+    },
     {
       "id": "60c1dbf11f61",
       "title": "Le GRAND PRIX D'ESPAGNE FORMULE 1 LENOVO 2027 se tiendra officiellement à nouveau à Madrid : voici comment obtenir des billets pour assister à la course de F1® dans la capitale espagnole l'année prochaine - Secret London",
@@ -20,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1NclNxNjRPWWl0MkNFVFpkWmJFNWZXMkVhNXVIR3p3VE5tTHFsUUJXNDZuSGdqVHZIOEw0QU53WUI4YkFJNXo3Xy1Yd2RaQ2ktd2xoR05oQXI0Rl9EMElWV2RrREpnVkdXVDV2SWRMYk",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1NclNxNjRPWWl0MkNFVFpkWmJFNWZXMkVhNXVIR3p3VE5tTHFsUUJXNDZuSGdqVHZIOEw0QU53WUI4YkFJNXo3Xy1Yd2RaQ2ktd2xoR05oQXI0Rl9EMElWV2RrREpnVkdXVDV2SWRMYk"
+    },
+    {
+      "id": "245be554f95d",
+      "title": "Officiel : les Grands Prix F1 vont changer de format en 2027 ! - Sport Auto",
+      "title_fr": "Officiel : les Grands Prix F1 vont changer de format en 2027 ! - Sport Auto",
+      "title_en": "Officiel : les Grands Prix F1 vont changer de format en 2027 ! - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTZKM2p4cGtUMk1YTUpmakk2NDZjRFZYRm0yUnlMQlVva2RDb29hbTRGS3c5ZFR6YXpwS00wMnBVUnVrczlzM0FTT3dMbDJObFQ2bWk0UzVXNjl5WUJQcE15emdmUVQtX0VkTzBwWWZxb3J4RXMyTE5tLTY3UWUzWC1lZnBoeDNyX1RGNXRTYW1LS1VPYTl6NmdNZVdEQkRBZ0lRbmhwSWFZUC1yQmVWV3c1NkVfelFsMzZV?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-22T13:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTZKM2p4cGtUMk1YTUpmakk2NDZjRFZYRm0yUnlMQlVva2RDb29hbTRGS3c5ZFR6YXpwS00wMnBVUnVrczlzM0FTT3dMbDJObFQ2bWk0UzVXNjl5WUJQcE15emdmUVQtX0VkTzBwWW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTZKM2p4cGtUMk1YTUpmakk2NDZjRFZYRm0yUnlMQlVva2RDb29hbTRGS3c5ZFR6YXpwS00wMnBVUnVrczlzM0FTT3dMbDJObFQ2bWk0UzVXNjl5WUJQcE15emdmUVQtX0VkTzBwWW"
     },
     {
       "id": "2e1e6dda0740",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.<br />Speaking in a recent Mercedes In Convo With Kids interview, the French driver co",
       "summary_en": "Mercedes Formula 1 development driver Doriane Pin has set a five-year target to secure a race seat on the F1 grid.<br />Speaking in a recent Mercedes In Convo With Kids interview, the French driver co"
-    },
-    {
-      "id": "6e515fdbe624",
-      "title": "F1 : pourquoi le Grand Prix de Bahreïn ne se courra pas à Sakhir, mais en Malaisie - sport.fr",
-      "title_fr": "F1 : pourquoi le Grand Prix de Bahreïn ne se courra pas à Sakhir, mais en Malaisie - sport.fr",
-      "title_en": "F1 : pourquoi le Grand Prix de Bahreïn ne se courra pas à Sakhir, mais en Malaisie - sport.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG9LUEk3OFl5M21Sa0ZqbGE4ZXdCQUt2X0pWTURGR3htRW9BODJiU3NBQ3ctSm1lMGo5QmpIbVJqdElIeUswZURvYUI4UDkzRjVtQWVJcUNUaVItdFJDYVRFcG1OSU52cVNJYmJUaHFvTGwzaE9iOGxOeWJwRmE2NUcxYTRzQWtQcmFtRU1GaU9NZGVrR2RNaVZSN1NOVElGM3UtVzh0VEFzV3hsRVpyVFdhVEJKc0ZtVk5sMVpieGQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T11:49:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG9LUEk3OFl5M21Sa0ZqbGE4ZXdCQUt2X0pWTURGR3htRW9BODJiU3NBQ3ctSm1lMGo5QmpIbVJqdElIeUswZURvYUI4UDkzRjVtQWVJcUNUaVItdFJDYVRFcG1OSU52cVNJYmJUaH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG9LUEk3OFl5M21Sa0ZqbGE4ZXdCQUt2X0pWTURGR3htRW9BODJiU3NBQ3ctSm1lMGo5QmpIbVJqdElIeUswZURvYUI4UDkzRjVtQWVJcUNUaVItdFJDYVRFcG1OSU52cVNJYmJUaH"
-    },
-    {
-      "id": "cdbc6c5fce3c",
-      "title": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
-      "title_fr": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
-      "title_en": "Gabriel Bortoleto opens up on Fernando Alonso's personality away from F1 cameras",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-opens-up-on-fernando-alonsos-personality-away-from-f1-cameras/10857688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YBVoEo8Y/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-09-21T10:40:13+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Audi Formula 1 driver Gabriel Bortoleto says his manager, two-time champion Fernando Alonso, is exactly the same behind the scenes as he appears in the media.<br />Bortoleto is now in his second seaso",
-      "summary_en": "Audi Formula 1 driver Gabriel Bortoleto says his manager, two-time champion Fernando Alonso, is exactly the same behind the scenes as he appears in the media.<br />Bortoleto is now in his second seaso"
-    },
-    {
-      "id": "d3430fd91403",
-      "title": "Otmar Szafnauer raises concern over Cadillac's \"suboptimal\" split US-UK structure",
-      "title_fr": "Otmar Szafnauer raises concern over Cadillac's \"suboptimal\" split US-UK structure",
-      "title_en": "Otmar Szafnauer raises concern over Cadillac's \"suboptimal\" split US-UK structure",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/otmar-szafnauer-raises-concern-over-cadillacs-suboptimal-split-us-uk-structure/10857676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BrvZ2/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-09-21T10:12:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Alpine Formula 1 team principal Otmar Szafnauer has warned that Cadillac's operational structure is not geared towards winning a championship.<br />Following a prolonged and highly publicised e",
-      "summary_en": "Former Alpine Formula 1 team principal Otmar Szafnauer has warned that Cadillac's operational structure is not geared towards winning a championship.<br />Following a prolonged and highly publicised e"
-    },
-    {
-      "id": "217aa367bde9",
-      "title": "How to watch the 2026 Azerbaijan GP and why it is being held on a Saturday | TV Times",
-      "title_fr": "How to watch the 2026 Azerbaijan GP and why it is being held on a Saturday | TV Times",
-      "title_en": "How to watch the 2026 Azerbaijan GP and why it is being held on a Saturday | TV Times",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/21/how-to-watch-the-2026-azerbaijan-gp-and-why-it-is-being-held-on-a-saturday/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/09/racefansdotnet-24-09-21-13-27-15-6-SI202509210275.jpg",
-      "published_at": "2026-09-21T10:07:42+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It's race week! The Azerbaijan Grand Prix will take place on Saturday with three Formula 2 support races. Here are the details.",
-      "summary_en": "It's race week! The Azerbaijan Grand Prix will take place on Saturday with three Formula 2 support races. Here are the details."
-    },
-    {
-      "id": "ea83d9594438",
-      "title": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
-      "title_fr": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
-      "title_en": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UUJlaWV2NnVBZ1NhWkRlN2pKWHdJZUJzMzVrTkJpVFRCeEdyTWlaeTEtb0tIaXVGd1BUdnhraFpwY2syV3UwWUNqejUyVmdieFA4TzBzaC1pWFAwMzVrdVlkZHEzM0dVWk02OG5Qb1FveV94RENObmZ1ZG05aUFsM0Nub1FwTlJXTnpRT3Fla01WT2lpSER3MHEta0F4VUIzOFV4SW0wdGVNTlBCR3ViYzFsck1adHNRcw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEpIcUxpamNZUF8xU3R1LUZSUGFlOWF6M25uclQ3NGQ0ek9WVXlaTmFBOHROSDJScFUyTDlWM3d1cEpyYU1JSkY1LTl1LXNQR0xXa3ZKS2lIc0RlTW9PLUx2bzJvMmZFaXU4QXc4UU"
-    },
-    {
-      "id": "49e42c40b399",
-      "title": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
-      "title_fr": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
-      "title_en": "F1 - GP d'Azerbaïdjan 2026 : attention, programme TV décalé à Bakou ! (+ horaires France) - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVloyZE4tam9OUzQ4Wk9xb0hPWFplalZZaE10dE1YeHVFbTBHQWdKVmFSc2FGaldmU1lCRnR2REtvTGtxMjNsRTRRRFo3VzJSY2lSdWtSLXNKeDdFQWpmcmFpWDlwNGl1UUIzSjdQZDNKR1BNa2pMM1ozaE9pLVF3Tkw3VDRlUmNEYTJUdHltNFYycVZ5N1ZIMGlTNW1jazdpUmcxV2ZSeXZSV3RJWlFFQmtqM1FmUlhzdDNobWVEQVVIUHRLdG16VngzZngzT3Q4b3JV?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVloyZE4tam9OUzQ4Wk9xb0hPWFplalZZaE10dE1YeHVFbTBHQWdKVmFSc2FGaldmU1lCRnR2REtvTGtxMjNsRTRRRFo3VzJSY2lSdWtSLXNKeDdFQWpmcmFpWDlwNGl1UUIzSjdQZD",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVloyZE4tam9OUzQ4Wk9xb0hPWFplalZZaE10dE1YeHVFbTBHQWdKVmFSc2FGaldmU1lCRnR2REtvTGtxMjNsRTRRRFo3VzJSY2lSdWtSLXNKeDdFQWpmcmFpWDlwNGl1UUIzSjdQZD"
     }
   ]
 }
