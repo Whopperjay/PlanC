@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-21T23:45:26Z",
+  "last_updated": "2026-09-22T02:46:07Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "a32bf9c69f29",
+      "title": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 | CANAL+ Suisse - CANAL+",
+      "title_fr": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 | CANAL+ Suisse - CANAL+",
+      "title_en": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 | CANAL+ Suisse - CANAL+",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JIRmx0cjlnOVVjaHNMNFdfaGRYSmZoYlM1eTVvTnJTN0VsZDdoMkRxVklTdjZnM0xzbXhlWWNjUDhrd203bDFXNVV4dk1VT3F3UDRzNHJja09XbWU5Yjk0MjdDRkxKYlJNWl9sSGM0MHJiR3cwWTltMDJCTnZJYWtqME1xUXNyelJVVVRhcWFWZEc2OXI3T21MYkVqdTNYcjM4cUp3NTQ0QjV2?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T23:51:16+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JIRmx0cjlnOVVjaHNMNFdfaGRYSmZoYlM1eTVvTnJTN0VsZDdoMkRxVklTdjZnM0xzbXhlWWNjUDhrd203bDFXNVV4dk1VT3F3UDRzNHJja09XbWU5Yjk0MjdDRkxKYlJNWl9sSG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JIRmx0cjlnOVVjaHNMNFdfaGRYSmZoYlM1eTVvTnJTN0VsZDdoMkRxVklTdjZnM0xzbXhlWWNjUDhrd203bDFXNVV4dk1VT3F3UDRzNHJja09XbWU5Yjk0MjdDRkxKYlJNWl9sSG"
+    },
     {
       "id": "bb01cde4fe6a",
       "title": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
@@ -115,6 +134,25 @@
       "is_breaking": false,
       "summary_fr": "Three-time W Series champion Jamie Chadwick has admitted that being a prominent female driver on the single-seater ladder meant her off days were often heavily scrutinised as a reflection of her gende",
       "summary_en": "Three-time W Series champion Jamie Chadwick has admitted that being a prominent female driver on the single-seater ladder meant her off days were often heavily scrutinised as a reflection of her gende"
+    },
+    {
+      "id": "7d65cea67432",
+      "title": "La Formule 1 modifie la durée des Grand Prix pour la saison 2027 ! - circusdaily.com",
+      "title_fr": "La Formule 1 modifie la durée des Grand Prix pour la saison 2027 ! - circusdaily.com",
+      "title_en": "La Formule 1 modifie la durée des Grand Prix pour la saison 2027 ! - circusdaily.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZy1EbnBrZFRyVUJTaTNPbmtPTjE1OVFxQ013UGJyb1Z1LWdQcHpRRnRqRFZsMlNSQ2JqeXhMMGpaaDUxVFZQMmlwSmlDQjh2M3BTZ24tQ0o0OTJEZWQzRFh1X1dxdTZxSlFtRkFybXFhcUZzeVRwMDdjc1R3NDNhbk8yanN1eHhZaXZfWWtOSWlrRGtZXzN6bkJ1d3oyNG9RN29vcTNadmdHSmtmUkhYWQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T15:59:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZy1EbnBrZFRyVUJTaTNPbmtPTjE1OVFxQ013UGJyb1Z1LWdQcHpRRnRqRFZsMlNSQ2JqeXhMMGpaaDUxVFZQMmlwSmlDQjh2M3BTZ24tQ0o0OTJEZWQzRFh1X1dxdTZxSlFtRkFybX",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZy1EbnBrZFRyVUJTaTNPbmtPTjE1OVFxQ013UGJyb1Z1LWdQcHpRRnRqRFZsMlNSQ2JqeXhMMGpaaDUxVFZQMmlwSmlDQjh2M3BTZ24tQ0o0OTJEZWQzRFh1X1dxdTZxSlFtRkFybX"
     },
     {
       "id": "82134a2ed92c",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.<br />As a racer with a deep-rooted passion for the h",
       "summary_en": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.<br />As a racer with a deep-rooted passion for the h"
-    },
-    {
-      "id": "a89ecb4f840f",
-      "title": "Guenther Steiner compares Madring backlash to Las Vegas debut with 2027 warning",
-      "title_fr": "Guenther Steiner compares Madring backlash to Las Vegas debut with 2027 warning",
-      "title_en": "Guenther Steiner compares Madring backlash to Las Vegas debut with 2027 warning",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-compares-madring-backlash-to-las-vegas-debut-with-2027-warning/10857396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2jX53jb6/s6/guenther-steiner-former-haas-t.jpg",
-      "published_at": "2026-09-20T10:28:16+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has warned that the organisers of the Spanish Grand Prix at the Madring circuit must urgently change the track's layout for 2027.<br />The inaugur",
-      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has warned that the organisers of the Spanish Grand Prix at the Madring circuit must urgently change the track's layout for 2027.<br />The inaugur"
-    },
-    {
-      "id": "f542e5ca8c12",
-      "title": "Former engineer urges F1 to introduce \"augmented\" stewarding group to speed up decisions",
-      "title_fr": "Former engineer urges F1 to introduce \"augmented\" stewarding group to speed up decisions",
-      "title_en": "Former engineer urges F1 to introduce \"augmented\" stewarding group to speed up decisions",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/former-engineer-urges-f1-to-introduce-augmented-stewarding-group-to-speed-up-decisions/10857147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/68VwyNx2/s6/start-action.jpg",
-      "published_at": "2026-09-20T10:00:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward incidents from d",
-      "summary_en": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward incidents from d"
     }
   ]
 }
