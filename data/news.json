@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-09-22T05:46:37Z",
+  "last_updated": "2026-09-22T08:48:09Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "04c7c7eaf666",
+      "title": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
+      "title_fr": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
+      "title_en": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-3.jpg",
+      "published_at": "2026-09-22T08:33:19+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to the Racing Bulls Formula 1 team.<br />Hadjar ha",
+      "summary_en": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to the Racing Bulls Formula 1 team.<br />Hadjar ha"
+    },
+    {
+      "id": "9606bdc78bf4",
+      "title": "Social Media: Red Bull confirms Hadjar’s return from injury in Azerbaijan GP | Brief",
+      "title_fr": "Social Media: Red Bull confirms Hadjar’s return from injury in Azerbaijan GP | Brief",
+      "title_en": "Social Media: Red Bull confirms Hadjar’s return from injury in Azerbaijan GP | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/22/social-media-red-bull-confirms-hadjars-return-from-injury-in-azerbaijan-gp/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-07-23-14-26-23-2-SI202607230348_hires_jpeg_24bit_rgb.jpg",
+      "published_at": "2026-09-22T08:30:00+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar has recovered from his wrist injury and will race for Red Bull in Baku. Liam Lawson will return to Racing Bulls.",
+      "summary_en": "Isack Hadjar has recovered from his wrist injury and will race for Red Bull in Baku. Liam Lawson will return to Racing Bulls."
+    },
+    {
+      "id": "0925b63db84c",
+      "title": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
+      "title_fr": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
+      "title_en": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-make-red-bull-return-at-f1-azerbaijan-gp/10857869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAbWb0/s6/isack-hadjar-red-bull-racing-l.jpg",
+      "published_at": "2026-09-22T08:29:58+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to Racing Bulls.<br />Hadjar had injured his wrist",
+      "summary_en": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to Racing Bulls.<br />Hadjar had injured his wrist"
+    },
+    {
+      "id": "140c5881c3d2",
+      "title": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
+      "title_fr": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
+      "title_en": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/68VWPGX2/s6/30-duqueine-team-oreca-07-gibs.jpg",
+      "published_at": "2026-09-22T08:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes Formula 1 development driver and 2025 F1 Academy champion Doriane Pin has urged young girls aiming for a career in motorsport to \"dare to believe\" in their ambitions.<br />Pin began karting a",
+      "summary_en": "Mercedes Formula 1 development driver and 2025 F1 Academy champion Doriane Pin has urged young girls aiming for a career in motorsport to \"dare to believe\" in their ambitions.<br />Pin began karting a"
+    },
+    {
+      "id": "5e8a65923f68",
+      "title": "Why is Monaco staging a sprint race? F1 Q&A",
+      "title_fr": "Why is Monaco staging a sprint race? F1 Q&A",
+      "title_en": "Why is Monaco staging a sprint race? F1 Q&A",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae8f/live/a407a4c0-b5d2-11f1-8c16-65d8f060d73f.jpg",
+      "published_at": "2026-09-22T06:38:06+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix.",
+      "summary_en": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix."
+    },
+    {
+      "id": "3bd65934c265",
+      "title": "Saturday race, Williams’ upgrade, title fight fades and more Azerbaijan GP talking points | Formula 1",
+      "title_fr": "Saturday race, Williams’ upgrade, title fight fades and more Azerbaijan GP talking points | Formula 1",
+      "title_en": "Saturday race, Williams’ upgrade, title fight fades and more Azerbaijan GP talking points | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/22/saturday-race-title-fight-fades-williams-big-upgrade-and-more-azerbaijan-gp-talking-points/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/09/racefansdotnet-24-09-19-11-12-02-1-250919_R17_AZERBAIJAN_DP_AV3_6363_f5733efb-9dfd-44ef-95ee-8db1efa82ef6.jpg",
+      "published_at": "2026-09-22T06:15:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 embarks upon nine rounds in just eleven weeks to conclude its season. Here are the six talking points for the Azerbaijan Grand Prix.",
+      "summary_en": "Formula 1 embarks upon nine rounds in just eleven weeks to conclude its season. Here are the six talking points for the Azerbaijan Grand Prix."
+    },
     {
       "id": "a32bf9c69f29",
       "title": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 | CANAL+ Suisse - CANAL+",
@@ -22,6 +136,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JIRmx0cjlnOVVjaHNMNFdfaGRYSmZoYlM1eTVvTnJTN0VsZDdoMkRxVklTdjZnM0xzbXhlWWNjUDhrd203bDFXNVV4dk1VT3F3UDRzNHJja09XbWU5Yjk0MjdDRkxKYlJNWl9sSG"
     },
     {
+      "id": "e2b953e28ad0",
+      "title": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 - CANAL+",
+      "title_fr": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 - CANAL+",
+      "title_en": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 - CANAL+",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFRnbFhOODNSZ2ZwRVRFcjFRemNFNVBXZXlLWjNqeUtKdnhEQnV3amFuNmVURTJXYWV5Z3Rsb1FtZEwtSWo1c2RpQkxZSG1jQ21BaUNLNnBST0thdlNEQndKWnRTbEFPUnpCLTNFUHptTFdmT3RxcDRmX0MwYkR2dVV1ZWJrZGllRlJ2Z2lLd0h2bVV5czBjRDhYU2o3MTc1bkRQdWxGVjU?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T23:19:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFRnbFhOODNSZ2ZwRVRFcjFRemNFNVBXZXlLWjNqeUtKdnhEQnV3amFuNmVURTJXYWV5Z3Rsb1FtZEwtSWo1c2RpQkxZSG1jQ21BaUNLNnBST0thdlNEQndKWnRTbEFPUnpCLTNFUH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFRnbFhOODNSZ2ZwRVRFcjFRemNFNVBXZXlLWjNqeUtKdnhEQnV3amFuNmVURTJXYWV5Z3Rsb1FtZEwtSWo1c2RpQkxZSG1jQ21BaUNLNnBST0thdlNEQndKWnRTbEFPUnpCLTNFUH"
+    },
+    {
       "id": "bb01cde4fe6a",
       "title": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
       "title_fr": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
@@ -39,6 +172,25 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in March 2027.<br />The",
       "summary_en": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in March 2027.<br />The"
+    },
+    {
+      "id": "8059795f6e50",
+      "title": "Quelle météo pour le Grand Prix d’Azerbaïdjan de F1 ? - F1ACTU",
+      "title_fr": "Quelle météo pour le Grand Prix d’Azerbaïdjan de F1 ? - F1ACTU",
+      "title_en": "Quelle météo pour le Grand Prix d’Azerbaïdjan de F1 ? - F1ACTU",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNaejI1M2kzbUJ2ZE4zeTRvdF9UT3lfcEpUdVhoVmEtRUlOS2lFRkhFdnRMQ1lNWllwZERJaktBZ3ZWMjQ5Tml4QXgwWE56UUhCQlRNN2g4S1Nlc0xINlBnZjhIa1Q2RFM2c0JMdm9kd3QwcU5lSC1kcF9oVDYwZU9n?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-21T20:54:48+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNaejI1M2kzbUJ2ZE4zeTRvdF9UT3lfcEpUdVhoVmEtRUlOS2lFRkhFdnRMQ1lNWllwZERJaktBZ3ZWMjQ5Tml4QXgwWE56UUhCQlRNN2g4S1Nlc0xINlBnZjhIa1Q2RFM2c0JMdm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNaejI1M2kzbUJ2ZE4zeTRvdF9UT3lfcEpUdVhoVmEtRUlOS2lFRkhFdnRMQ1lNWllwZERJaktBZ3ZWMjQ5Tml4QXgwWE56UUhCQlRNN2g4S1Nlc0xINlBnZjhIa1Q2RFM2c0JMdm"
     },
     {
       "id": "380e521e13a9",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "During several weekends this Formula 1 season, Verstappen has complained that the Red Bull car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu",
       "summary_en": "During several weekends this Formula 1 season, Verstappen has complained that the Red Bull car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu"
-    },
-    {
-      "id": "b8755d0afb23",
-      "title": "Wolff tried to help Masi ‘for the good of the sport, and for us’ in 2021 | Formula 1",
-      "title_fr": "Wolff tried to help Masi ‘for the good of the sport, and for us’ in 2021 | Formula 1",
-      "title_en": "Wolff tried to help Masi ‘for the good of the sport, and for us’ in 2021 | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/21/wolff-tried-to-help-masi-for-the-good-of-the-sport-and-for-us-in-2021/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-23-03-30-06-21-45-2.jpg",
-      "published_at": "2026-09-21T06:15:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes team principal Toto Wolff admits he still thinks about Lewis Hamilton's \"unfair\" 2021 title defeat every week.",
-      "summary_en": "Mercedes team principal Toto Wolff admits he still thinks about Lewis Hamilton's \"unfair\" 2021 title defeat every week."
-    },
-    {
-      "id": "89e91e62c85c",
-      "title": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
-      "title_fr": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
-      "title_en": "Présentation et horaires du Grand Prix d’Azerbaïdjan 2026 de F1 - Nextgen-Auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzBpUTdWdUV6MzEtVTdSTF9JVkdsakQ2MXFSNTZ1bmhWVzR5bGZCaG1wNDNtNWFwNU5mcTFsTzRGbEQ5TXROVmZ3MW9jdUtpWDBiMDBNNW02dlFxbmRlb0tPRGZ2X2M2UG9vWmtwLTl5eXl0cFEwbVd4bTZzUGxaQXU2eldUVlJ3ZngzbjZHVkwtRGkzUDMxVXZEQmhDcGZuZnVEd3d0RXlLSlp1SE10djdzQmNWalpFS0dlUEI2YXMyQQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T04:31:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzBpUTdWdUV6MzEtVTdSTF9JVkdsakQ2MXFSNTZ1bmhWVzR5bGZCaG1wNDNtNWFwNU5mcTFsTzRGbEQ5TXROVmZ3MW9jdUtpWDBiMDBNNW02dlFxbmRlb0tPRGZ2X2M2UG9vWmtwLT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzBpUTdWdUV6MzEtVTdSTF9JVkdsakQ2MXFSNTZ1bmhWVzR5bGZCaG1wNDNtNWFwNU5mcTFsTzRGbEQ5TXROVmZ3MW9jdUtpWDBiMDBNNW02dlFxbmRlb0tPRGZ2X2M2UG9vWmtwLT"
-    },
-    {
-      "id": "5f2f8a951979",
-      "title": "Le retour d'un Grand Prix historique de F1 s'éloigne : \"Nous en sommes encore très loin\" - f1i.autojournal.fr",
-      "title_fr": "Le retour d'un Grand Prix historique de F1 s'éloigne : \"Nous en sommes encore très loin\" - f1i.autojournal.fr",
-      "title_en": "Le retour d'un Grand Prix historique de F1 s'éloigne : \"Nous en sommes encore très loin\" - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy1rUXViOFpPOFI2UjRmajQtLWdReUYzSTAzOWxJb0lIbVBFendNaDRKaHRxdndkeU1yMHZiendIdHBRbVA4U2JuT2F1Vkc5TjRBQ3YtWjd5N3BkQVBsdHdGeGN3?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T04:04:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUy0wTy01VGUwNTlqYjktUXFlUWZCVV85QlpfMTl2WV91cHJMYkpiai1qS2RGdFFEbGVKMFhOUVNWSkZ5M0FNNFdNbGFiaTVEOVlXOERibkRZM2FDUWp2c2JCa2pXSDJJTE51WlFQYy"
-    },
-    {
-      "id": "60ac4eddb70a",
-      "title": "On This Day: Mansell, Prost and Piquet leave Senna behind in title fight | Brief",
-      "title_fr": "On This Day: Mansell, Prost and Piquet leave Senna behind in title fight | Brief",
-      "title_en": "On This Day: Mansell, Prost and Piquet leave Senna behind in title fight | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/21/on-this-day-mansell-prost-and-piquet-leave-senna-behind-in-title-fight/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-15-09-57-46-1-4onwall.jpg",
-      "published_at": "2026-09-20T23:01:24+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Four become three in F1's unforgettable 1986 title fight",
-      "summary_en": "Four become three in F1's unforgettable 1986 title fight"
-    },
-    {
-      "id": "290226c409c5",
-      "title": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
-      "title_fr": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
-      "title_en": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-tipped-to-overtake-george-russell-in-2026-f1-standings/10857563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zxbW6/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-20T21:11:41+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.<br />Following the inaugural Spanish Grand Prix at the Madring circuit",
-      "summary_en": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship.<br />Following the inaugural Spanish Grand Prix at the Madring circuit"
-    },
-    {
-      "id": "bea9e2543143",
-      "title": "Le programme du Grand Prix d'Azerbaïdjan F1 2026 : dates, horaires et infos - Motorsport.com France",
-      "title_fr": "Le programme du Grand Prix d'Azerbaïdjan F1 2026 : dates, horaires et infos - Motorsport.com France",
-      "title_en": "Le programme du Grand Prix d'Azerbaïdjan F1 2026 : dates, horaires et infos - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakFNSVQ1V1NTQUhYX1doZHJwLUgtRU5TUEZGMnh2TEg2Rjk4MkkyNV9KM1NIWGRVd1FRSkdiRThnYnkyb09rS3ppUi1PenlmTnEtOUJfdHhuSUhGcmttN3VESEJqbmE4b1FfNWo4WU5CT0V2RFZqdDZDSXRMbTdlZHdsTUVGRi05UWFfQWpoaW9YVTBHcVlSS1FIeWdZbVB3Q0E?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-20T21:10:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOakFNSVQ1V1NTQUhYX1doZHJwLUgtRU5TUEZGMnh2TEg2Rjk4MkkyNV9KM1NIWGRVd1FRSkdiRThnYnkyb09rS3ppUi1PenlmTnEtOUJfdHhuSUhGcmttN3VESEJqbmE4b1FfNWo4WU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOakFNSVQ1V1NTQUhYX1doZHJwLUgtRU5TUEZGMnh2TEg2Rjk4MkkyNV9KM1NIWGRVd1FRSkdiRThnYnkyb09rS3ppUi1PenlmTnEtOUJfdHhuSUhGcmttN3VESEJqbmE4b1FfNWo4WU"
-    },
-    {
-      "id": "59aa058913ea",
-      "title": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
-      "title_fr": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
-      "title_en": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-unchanged-madring-return-in-2027-would-be-stupidity/10857135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7QLqe6/s6/a-spanish-flag-flies-over-the-.jpg",
-      "published_at": "2026-09-20T18:00:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "David Coulthard has warned Formula 1 organisers that returning to the Madring circuit in 2027 without altering its layout would be \"stupidity\" following a processional first race.<br />The race has fa",
-      "summary_en": "David Coulthard has warned Formula 1 organisers that returning to the Madring circuit in 2027 without altering its layout would be \"stupidity\" following a processional first race.<br />The race has fa"
-    },
-    {
-      "id": "ba8fc3451306",
-      "title": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
-      "title_fr": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
-      "title_en": "Sebastian Vettel weighs in on F1 2026 rules debate: 'We need to combine things we love'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/sebastian-vettel-weighs-in-on-f1-2026-rules-debate-we-need-to-combine-things-we-love/10857419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2wlKov3Y/s6/sebastian-vettel-drives-a-hist.jpg",
-      "published_at": "2026-09-20T12:44:19+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.<br />As a racer with a deep-rooted passion for the h",
-      "summary_en": "Four-time world champion Sebastian Vettel believes Formula 1 has the technology to pair its sustainability goals with an exciting on-track product.<br />As a racer with a deep-rooted passion for the h"
     }
   ]
 }
