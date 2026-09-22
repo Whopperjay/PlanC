@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-09-22T08:48:09Z",
+  "last_updated": "2026-09-22T11:49:48Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "165a6fa265a3",
+      "title": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
+      "title_fr": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
+      "title_en": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONlVfSl95ejl5MjYxcTNQcy1nS293bmd6Q3FZM1FnVjJHOHpzemFtR2Y3N3hRd29aTll2ODUtOXdHSFJqZw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-22T10:13:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONl",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONl"
+    },
+    {
+      "id": "8b60b41ca603",
+      "title": "F1. Le Français Isack Hadjar de retour au Grand Prix d’Azerbaïdjan - Ouest-France",
+      "title_fr": "F1. Le Français Isack Hadjar de retour au Grand Prix d’Azerbaïdjan - Ouest-France",
+      "title_en": "F1. Le Français Isack Hadjar de retour au Grand Prix d’Azerbaïdjan - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFFrdThsRmR2a2YxSk1NMkhxN2gyUmFyZkFVYTVrQTBMZGcwUVBRNkQxbWJYdWxGYlYtODJOV0p4d1dzdWt1SHNOa2FlQ0JXbmVLTmVNV1RPTFZDZnVEZEtrYXd3Y1hTeWFkbC1qUy1KZ0NHSDNjMUVNdG1NdFVMbFhsMFVhNy14TTBmVTN2T2ZYazFsb3czVGN2b0JFTWVXZ0hrQjRhZElXWko3U3pVVzV2NVlhQVpMMk5JcnIyQzdxSEZFVEJuZ2E1d1RReUJid2pNNER4ZkM5ekljSUdIanhtbEFnYTFLZ01iOVlRdw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-22T08:56:42+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFFrdThsRmR2a2YxSk1NMkhxN2gyUmFyZkFVYTVrQTBMZGcwUVBRNkQxbWJYdWxGYlYtODJOV0p4d1dzdWt1SHNOa2FlQ0JXbmVLTmVNV1RPTFZDZnVEZEtrYXd3Y1hTeWFkbC1qUy",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFFrdThsRmR2a2YxSk1NMkhxN2gyUmFyZkFVYTVrQTBMZGcwUVBRNkQxbWJYdWxGYlYtODJOV0p4d1dzdWt1SHNOa2FlQ0JXbmVLTmVNV1RPTFZDZnVEZEtrYXd3Y1hTeWFkbC1qUy"
+    },
+    {
+      "id": "cae2e8979f50",
+      "title": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
+      "title_fr": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
+      "title_en": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwkgx8vkd572o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d95/live/64a7af70-b661-11f1-b785-7d19738c6de2.jpg",
+      "published_at": "2026-09-22T08:46:54+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull driver Isack Hadjar will return at this week's Azerbaijan Grand Prix after missing the past three races with a wrist injury.",
+      "summary_en": "Red Bull driver Isack Hadjar will return at this week's Azerbaijan Grand Prix after missing the past three races with a wrist injury."
+    },
+    {
+      "id": "0fb3b9ce8cdf",
+      "title": "F1 : le pilote français Isack Hadjar, remis de sa blessure au poignet, prendra part au GP d'Azerbaïdjan après trois forfaits - franceinfo",
+      "title_fr": "F1 : le pilote français Isack Hadjar, remis de sa blessure au poignet, prendra part au GP d'Azerbaïdjan après trois forfaits - franceinfo",
+      "title_en": "F1 : le pilote français Isack Hadjar, remis de sa blessure au poignet, prendra part au GP d'Azerbaïdjan après trois forfaits - franceinfo",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWjlrS1V1dTdONXdyNk1WeG55TUwxQUNBTV9oZHZ5Q0J6NnBXVm5lU0RKWnpFVlFhanhCcFIzcGl4ZDdtYmNPdmVocDgyZXQ1bjRFeDh4Mk1vb2doSmo2Q2RmWDU4MGNCSFpXY2kzaU9Gbk9PVF81ZDd0ZmJRNVhhd095cnNIVW9POER5VTZ6dW56eW8tRVpKcWxWOXJMLTBMLVB4ZHF4RGk3MkhLSmg?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-22T08:42:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWj",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWj"
+    },
     {
       "id": "04c7c7eaf666",
       "title": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUZuUXJVbHdtSVg2b2JoVGhYT1FMZjhOSzdrVzl0dmIybDcwR0xUZTIwRXFEMl9JYWZ6SHZHM2QyM2tMcWhtVW9UdG1acHZaVnhHWWFvZVlBVThpT0J0R0VYOUs3QzY2dW9iOEtoRl",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMUZuUXJVbHdtSVg2b2JoVGhYT1FMZjhOSzdrVzl0dmIybDcwR0xUZTIwRXFEMl9JYWZ6SHZHM2QyM2tMcWhtVW9UdG1acHZaVnhHWWFvZVlBVThpT0J0R0VYOUs3QzY2dW9iOEtoRl"
-    },
-    {
-      "id": "64f7bff54130",
-      "title": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
-      "title_fr": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
-      "title_en": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZGdpeEhsaDg5QTdZeEhnU25OUVJCajdoLXlYa1NKYjZ6WHFjdnBQZnRCZDVWcEJCcTFCY2tLai1MUnpnZFdHX1kyTXI3WGpyZXY1TmxMTEZB?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T08:47:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZG"
-    },
-    {
-      "id": "3f8a9cb0edd6",
-      "title": "Le programme du Grand Prix d’Azerbaïdjan de F1 2026 à Bakou - AutoHebdo",
-      "title_fr": "Le programme du Grand Prix d’Azerbaïdjan de F1 2026 à Bakou - AutoHebdo",
-      "title_en": "Le programme du Grand Prix d’Azerbaïdjan de F1 2026 à Bakou - AutoHebdo",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdldqR2lIT3dOTFlZcDl6X284MG9jTWw3dElyTWdxRjdta0V2SEpQLU1iQjJPLXJGV0lMOUJUSzNILWc5NnR1NXVKcFJyLXlGdEszZ0MzRzlKTHR2ZU14WDA3bk1jdUh2WERXZk5yRUJHR2ZaMlNvMWl1aHROdEVIaTUzTVpnOGxIdFJhUV9GY0VjM0dtdnFzcWQ1LW9fQVBJX1ZXWg?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T08:44:37+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdldqR2lIT3dOTFlZcDl6X284MG9jTWw3dElyTWdxRjdta0V2SEpQLU1iQjJPLXJGV0lMOUJUSzNILWc5NnR1NXVKcFJyLXlGdEszZ0MzRzlKTHR2ZU14WDA3bk1jdUh2WERXZk5yRU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdldqR2lIT3dOTFlZcDl6X284MG9jTWw3dElyTWdxRjdta0V2SEpQLU1iQjJPLXJGV0lMOUJUSzNILWc5NnR1NXVKcFJyLXlGdEszZ0MzRzlKTHR2ZU14WDA3bk1jdUh2WERXZk5yRU"
-    },
-    {
-      "id": "b59216a6a907",
-      "title": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "title_fr": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "title_en": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7vdXJ6/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-09-21T08:13:58+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "During several weekends this season, Verstappen has complained that the Red Bull Formula 1 car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu",
-      "summary_en": "During several weekends this season, Verstappen has complained that the Red Bull Formula 1 car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu"
-    },
-    {
-      "id": "099eb582ea50",
-      "title": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "title_fr": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "title_en": "Red Bull admits Max Verstappen's mysterious car issue cannot be fully fixed until 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-admits-max-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEoq8DY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-21T08:06:50+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "During several weekends this Formula 1 season, Verstappen has complained that the Red Bull car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu",
-      "summary_en": "During several weekends this Formula 1 season, Verstappen has complained that the Red Bull car gets worse over the course of a session or race. It usually happens at the rear axle, including during qu"
     }
   ]
 }
