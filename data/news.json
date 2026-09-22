@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-22T20:57:18Z",
+  "last_updated": "2026-09-22T23:59:27Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "8327b78eb5cd",
+      "title": "On This Day: Moss scores only victory for a four-wheel-drive Formula 1 car | Brief",
+      "title_fr": "On This Day: Moss scores only victory for a four-wheel-drive Formula 1 car | Brief",
+      "title_en": "On This Day: Moss scores only victory for a four-wheel-drive Formula 1 car | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/on-this-day-moss-scores-only-victory-for-a-four-wheel-drive-formula-1-car/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2020/04/racefansdotnet-20200415-114234-1.jpg",
+      "published_at": "2026-09-22T23:01:16+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Stirling Moss scored this only win for a four-wheel-drive F1 car",
+      "summary_en": "Stirling Moss scored this only win for a four-wheel-drive F1 car"
+    },
     {
       "id": "e0ed8eb76822",
       "title": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
@@ -9,7 +28,7 @@
       "title_en": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
       "source": "racefans.net",
       "url": "https://www.racefans.net/2026/09/22/spotlight-duerksen-completes-first-formula-1-test-for-mercedes-in-portugal/",
-      "image_url": null,
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-21-09-22-18-44-42-3.jpg",
       "published_at": "2026-09-22T17:53:23+00:00",
       "race_id": null,
       "category": "rumeur",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH"
-    },
-    {
-      "id": "32e66cca6a8e",
-      "title": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
-      "title_fr": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
-      "title_en": "Programme du Grand Prix d'Azerbaïdjan de F1 2026 - news.gp",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWmdYNTI2V1J4N3VLRQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T12:33:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSjhzY182NDRyWlFueEIzd3E4OWNET09zZnNPdUNQeGhfbC15VUJGQ2xyVmJDdmV4dXZmYWgtVDBHWlM3ZFBZNnFjalRtSC00eWVuamx2ajBidy11cTdfZTlhQk9wM0N4aXhoQ3plWm"
     }
   ]
 }
