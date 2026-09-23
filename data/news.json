@@ -1,7 +1,311 @@
 {
-  "last_updated": "2026-09-23T09:06:07Z",
+  "last_updated": "2026-09-23T12:09:20Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "72271021087e",
+      "title": "Antonelli has “perfect driving style” for 2026 cars – Russell | Formula 1",
+      "title_fr": "Antonelli has “perfect driving style” for 2026 cars – Russell | Formula 1",
+      "title_en": "Antonelli has “perfect driving style” for 2026 cars – Russell | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/antonelli-has-perfect-driving-style-for-2026-cars-russell/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-23-11-40-52-1-M622665_Dutch_Grand_Prix__Sunday.jpg",
+      "published_at": "2026-09-23T11:27:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli's success in 2026 is down to his driving style working perfectly with the current cars, says George Russell.",
+      "summary_en": "Andrea Kimi Antonelli's success in 2026 is down to his driving style working perfectly with the current cars, says George Russell."
+    },
+    {
+      "id": "9c7b0dc3d8d7",
+      "title": "Hadjar says injured wrist is “still it’s going to be painful for a while” after comeback | Formula 1",
+      "title_fr": "Hadjar says injured wrist is “still it’s going to be painful for a while” after comeback | Formula 1",
+      "title_en": "Hadjar says injured wrist is “still it’s going to be painful for a while” after comeback | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/hadjar-says-injured-wrist-is-still-its-going-to-be-painful-for-a-while-after-comeback/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-23-11-58-50-2-SI202609230159.jpg",
+      "published_at": "2026-09-23T11:01:24+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar says he is still in pain from his injured wrist as he returns to racing this weekend.",
+      "summary_en": "Isack Hadjar says he is still in pain from his injured wrist as he returns to racing this weekend."
+    },
+    {
+      "id": "41d7a0ed166e",
+      "title": "Formule 1 : pourquoi le Grand Prix d'Azerbaïdjan aura lieu un samedi ? - Europe 1",
+      "title_fr": "Formule 1 : pourquoi le Grand Prix d'Azerbaïdjan aura lieu un samedi ? - Europe 1",
+      "title_en": "Formule 1 : pourquoi le Grand Prix d'Azerbaïdjan aura lieu un samedi ? - Europe 1",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVRTNEdkZWplM2dRajNydDhUWU1zZjM3bmZNenF2ZHhZSndiSGlzQVFOMVBWeXJYVGhjaEtIbXkzOHJXQ1J5Mk1UM05yYUhQeGhwZVFxTXl6R0xRZXpsYzNtN2hJN0pWVVYtbDlZQk04YVQ0dE43Y0NCeFlFOFgxNFpUZGhRRGZiSFFoY2g5aHVvMi1VWmdSaE1Ec0lFNlNuZVA3ZNIBqgFBVV95cUxNMlNOc0g4bEpwNTRfc2ZDakhuOS00eW9KMk5NQXJDemRQQmFaWTJFeU5IMFA5UENhQmViUkpWN2ppYTZQVFRJYndoeEY5SklTMzZ3OTFibUNjU2hCczhUREdPdFI0YnhqU1htNlNfZ1pxSURweHdpaWZZVk5GbVh3SkZDb21MSEpLUk1uTFlLOC0yRzJpM1R4VGZqcU9EMEpGbHBJTVpzam05QQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T11:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVRTNEdkZWplM2dRajNydDhUWU1zZjM3bmZNenF2ZHhZSndiSGlzQVFOMVBWeXJYVGhjaEtIbXkzOHJXQ1J5Mk1UM05yYUhQeGhwZVFxTXl6R0xRZXpsYzNtN2hJN0pWVVYtbDlZQk",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVRTNEdkZWplM2dRajNydDhUWU1zZjM3bmZNenF2ZHhZSndiSGlzQVFOMVBWeXJYVGhjaEtIbXkzOHJXQ1J5Mk1UM05yYUhQeGhwZVFxTXl6R0xRZXpsYzNtN2hJN0pWVVYtbDlZQk"
+    },
+    {
+      "id": "661fe60e6f4a",
+      "title": "Fernando Alonso explains future talks as F1's greatest circuits \"killed\" by 2026 rules",
+      "title_fr": "Fernando Alonso explains future talks as F1's greatest circuits \"killed\" by 2026 rules",
+      "title_en": "Fernando Alonso explains future talks as F1's greatest circuits \"killed\" by 2026 rules",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-explains-future-f-greatest-circuits-killed-by-2026-rules/10858171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgEeGY/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-09-23T10:45:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Two-time Formula 1 world champion Fernando Alonso says he is continuing to push for better regulations as he mulls over his future in the series.<br />Alonso is expected to continue with Aston Martin ",
+      "summary_en": "Two-time Formula 1 world champion Fernando Alonso says he is continuing to push for better regulations as he mulls over his future in the series.<br />Alonso is expected to continue with Aston Martin "
+    },
+    {
+      "id": "9745833e700e",
+      "title": "F1 fans back Isack Hadjar after Red Bull contract extension",
+      "title_fr": "F1 fans back Isack Hadjar after Red Bull contract extension",
+      "title_en": "F1 fans back Isack Hadjar after Red Bull contract extension",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-fans-back-isack-hadjar-after-red-bull-contract-extension/10858174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/27NQzG30/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-09-23T10:39:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull's confirmation that Isack Hadjar will remain alongside four-time Formula 1 champion Max Verstappen for the 2027 season has drawn approval from fans.<br />The Milton Keynes outfit announced th",
+      "summary_en": "Red Bull's confirmation that Isack Hadjar will remain alongside four-time Formula 1 champion Max Verstappen for the 2027 season has drawn approval from fans.<br />The Milton Keynes outfit announced th"
+    },
+    {
+      "id": "e5582a20574f",
+      "title": "Excessive focus on battle between Ferrari drivers is “not fair” – Leclerc | Formula 1",
+      "title_fr": "Excessive focus on battle between Ferrari drivers is “not fair” – Leclerc | Formula 1",
+      "title_en": "Excessive focus on battle between Ferrari drivers is “not fair” – Leclerc | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/excessive-focus-on-battle-between-ferrari-drivers-is-not-fair-leclerc/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-15-03-50-12-2293802469.jpg",
+      "published_at": "2026-09-23T10:36:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc says there have been times \"where Lewis went too far\" when the two Ferraris met on-track during races.",
+      "summary_en": "Charles Leclerc says there have been times \"where Lewis went too far\" when the two Ferraris met on-track during races."
+    },
+    {
+      "id": "5eaac6f42cbb",
+      "title": "F1 driver contracts: How long is each driver tied down for?",
+      "title_fr": "F1 driver contracts: How long is each driver tied down for?",
+      "title_en": "F1 driver contracts: How long is each driver tied down for?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-driver-contracts-how-long-is-each-driver-tied-down-for/10850679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
+      "published_at": "2026-09-23T10:21:21+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The details in a Formula 1 driver contract is highly-guarded information, but often the length of the deal is released to the wider world.<br />Here is how long each F1 driver contract is believed to ",
+      "summary_en": "The details in a Formula 1 driver contract is highly-guarded information, but often the length of the deal is released to the wider world.<br />Here is how long each F1 driver contract is believed to "
+    },
+    {
+      "id": "fa27496c9a6b",
+      "title": "\"Free agent\" Ocon talking to other teams with Haas yet to confirm F1 2027 line-up",
+      "title_fr": "\"Free agent\" Ocon talking to other teams with Haas yet to confirm F1 2027 line-up",
+      "title_en": "\"Free agent\" Ocon talking to other teams with Haas yet to confirm F1 2027 line-up",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/free-agent-ocon-talking-to-other-f1-teams-for-2027/10858164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXy7va6/s6/esteban-ocon-haas-f1-team-2.jpg",
+      "published_at": "2026-09-23T10:19:43+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon declared himself a \"free agent\" as Haas is yet to confirm its driver line-up for the 2027 Formula 1 season, but did not rule out potentially staying at the team. <br />Although the French",
+      "summary_en": "Esteban Ocon declared himself a \"free agent\" as Haas is yet to confirm its driver line-up for the 2027 Formula 1 season, but did not rule out potentially staying at the team. <br />Although the French"
+    },
+    {
+      "id": "7e93c6b95b66",
+      "title": "Kimi Antonelli shows \"zero sign\" of championship pressure as Jolyon Palmer hails 2026 turnaround",
+      "title_fr": "Kimi Antonelli shows \"zero sign\" of championship pressure as Jolyon Palmer hails 2026 turnaround",
+      "title_en": "Kimi Antonelli shows \"zero sign\" of championship pressure as Jolyon Palmer hails 2026 turnaround",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-shows-zero-sign-of-championship-pressure-as-jolyon-palmer-hails-2026-turnaround/10858165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVPLzP0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-09-23T10:16:06+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes Formula 1 driver Kimi Antonelli is showing \"zero sign\" of feeling the championship pressure as he closes in on his maiden title, according to former F1 driver and F1 TV pundit Jolyon Palmer.<",
+      "summary_en": "Mercedes Formula 1 driver Kimi Antonelli is showing \"zero sign\" of feeling the championship pressure as he closes in on his maiden title, according to former F1 driver and F1 TV pundit Jolyon Palmer.<"
+    },
+    {
+      "id": "5b6ce3fb75b4",
+      "title": "First details of future F1 engine rules revealed",
+      "title_fr": "First details of future F1 engine rules revealed",
+      "title_en": "First details of future F1 engine rules revealed",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/first-details-of-2030-f1-engine-rules-revealed/10858153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/25dLdEQ0/s6/race-start.jpg",
+      "published_at": "2026-09-23T10:12:46+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 stakeholders have reached an agreement on the main elements of the next engine rules cycle.<br />The FIA and F1 engine manufacturers have opted against a naturally aspirated option, partly b",
+      "summary_en": "Formula 1 stakeholders have reached an agreement on the main elements of the next engine rules cycle.<br />The FIA and F1 engine manufacturers have opted against a naturally aspirated option, partly b"
+    },
+    {
+      "id": "4c43f4878502",
+      "title": "The initial plan for F1's next engine regulation in 2030",
+      "title_fr": "The initial plan for F1's next engine regulation in 2030",
+      "title_en": "The initial plan for F1's next engine regulation in 2030",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-engine-regulation-2030-plan/10858159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arKV5r2/s6/start-action-2.jpg",
+      "published_at": "2026-09-23T10:12:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 stakeholders have reached an agreement on the main elements of the next engine rules cycle.<br />The FIA and F1 engine manufacturers have opted against a naturally aspirated option, partly b",
+      "summary_en": "Formula 1 stakeholders have reached an agreement on the main elements of the next engine rules cycle.<br />The FIA and F1 engine manufacturers have opted against a naturally aspirated option, partly b"
+    },
+    {
+      "id": "e0228d6d031f",
+      "title": "La F1 face à un casse-tête financier avec l’annulation des deux derniers Grands Prix - Nextgen-Auto.com",
+      "title_fr": "La F1 face à un casse-tête financier avec l’annulation des deux derniers Grands Prix - Nextgen-Auto.com",
+      "title_en": "La F1 face à un casse-tête financier avec l’annulation des deux derniers Grands Prix - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHZMRGl2YVhPcHFjWnJDVE94Zm1Gb0xoLVkyYkV5Zzdpc1lCdUlRSTJRREdCOHRUV1VoQ3lyNGhwNElXVTJ3T3dXU2VheGJuWjFJVlBzQWkzTEhOWTB3NVpXY0dFVFdOcDg1cE50X0s1R2VkV3NReXBRUmhKQXp1a0g1LVgyZWJmak9DZ3NFRU1sbkVlSHVqWW96Y2RuWDdkRTdLLXd0Ni0waXJUd0dobmhUcXpxOVRONmxTNDhuQXJiRjB6ZVZYVGFWVWljYXlZLXExOE9faw?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T10:09:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHZMRGl2YVhPcHFjWnJDVE94Zm1Gb0xoLVkyYkV5Zzdpc1lCdUlRSTJRREdCOHRUV1VoQ3lyNGhwNElXVTJ3T3dXU2VheGJuWjFJVlBzQWkzTEhOWTB3NVpXY0dFVFdOcDg1cE50X0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHZMRGl2YVhPcHFjWnJDVE94Zm1Gb0xoLVkyYkV5Zzdpc1lCdUlRSTJRREdCOHRUV1VoQ3lyNGhwNElXVTJ3T3dXU2VheGJuWjFJVlBzQWkzTEhOWTB3NVpXY0dFVFdOcDg1cE50X0"
+    },
+    {
+      "id": "5161fff9c8de",
+      "title": "Esteban Ocon considers himself a \"free agent\" with Haas yet to decide on F1 2027 drivers",
+      "title_fr": "Esteban Ocon considers himself a \"free agent\" with Haas yet to decide on F1 2027 drivers",
+      "title_en": "Esteban Ocon considers himself a \"free agent\" with Haas yet to decide on F1 2027 drivers",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ocon-considers-himself-a-free-agent-with-haas-yet-to-decide-on-2027-drivers/10858151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6VyKgW4Y/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-09-23T10:08:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon declared himself a \"free agent\" as Haas is yet to decide its driver line-up for the 2027 Formula 1 season, but did not rule out potentially staying at the team. <br />Although the Frenchm",
+      "summary_en": "Esteban Ocon declared himself a \"free agent\" as Haas is yet to decide its driver line-up for the 2027 Formula 1 season, but did not rule out potentially staying at the team. <br />Although the Frenchm"
+    },
+    {
+      "id": "e5051aa69562",
+      "title": "Lewis Hamilton and Ferrari 2026 F1 title hopes are \"over\", says James Hinchcliffe",
+      "title_fr": "Lewis Hamilton and Ferrari 2026 F1 title hopes are \"over\", says James Hinchcliffe",
+      "title_en": "Lewis Hamilton and Ferrari 2026 F1 title hopes are \"over\", says James Hinchcliffe",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-ferrari-2026-f1-title-hopes-are-over-says-james-hinchcliffe/10858141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9EZWMY/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-09-23T09:36:21+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe has declared Lewis Hamilton and Ferrari's 2026 Formula 1 championship hopes \"over\" following a costly retirement at the Spanish Grand Pr",
+      "summary_en": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe has declared Lewis Hamilton and Ferrari's 2026 Formula 1 championship hopes \"over\" following a costly retirement at the Spanish Grand Pr"
+    },
+    {
+      "id": "a45788f8469f",
+      "title": "What would you like to ask Emerson Fittipaldi?",
+      "title_fr": "What would you like to ask Emerson Fittipaldi?",
+      "title_en": "What would you like to ask Emerson Fittipaldi?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/what-you-ask-emerson-fittipaldi/10858130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YvKBQRe6/s6/emerson-fittipaldi.jpg",
+      "published_at": "2026-09-23T09:26:30+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "On 24 September, two-time Formula 1 world champion Emerson Fittipaldi will join us in the Baku paddock to answer Autosport readers' questions ahead of the Azerbaijan Grand Prix.<br />In a remarkable c",
+      "summary_en": "On 24 September, two-time Formula 1 world champion Emerson Fittipaldi will join us in the Baku paddock to answer Autosport readers' questions ahead of the Azerbaijan Grand Prix.<br />In a remarkable c"
+    },
+    {
+      "id": "e24531b06d8a",
+      "title": "F1 2027 : Monaco aura droit à son premier sprint - Sport.fr",
+      "title_fr": "F1 2027 : Monaco aura droit à son premier sprint - Sport.fr",
+      "title_en": "F1 2027 : Monaco aura droit à son premier sprint - Sport.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0lxWGNOM1NfOXRxMGtHZXY3ZFk1QWpGZVJneWhFOUg0cHBKSWNaQ1dDZGhQX1d4WnVyMmxqX1d3RFhmWmxlZzZjR0hRd0VPbTlfS05BTGNJNFR0SlN1ZVNBRExNOXZiSE9Yem1HbWliNGhNZ08za0Y5d3RhUk81M3l5d0Fjb0UyaG8yVTJPdkMxcTdv?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T09:03:00+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0lxWGNOM1NfOXRxMGtHZXY3ZFk1QWpGZVJneWhFOUg0cHBKSWNaQ1dDZGhQX1d4WnVyMmxqX1d3RFhmWmxlZzZjR0hRd0VPbTlfS05BTGNJNFR0SlN1ZVNBRExNOXZiSE9Yem1HbW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0lxWGNOM1NfOXRxMGtHZXY3ZFk1QWpGZVJneWhFOUg0cHBKSWNaQ1dDZGhQX1d4WnVyMmxqX1d3RFhmWmxlZzZjR0hRd0VPbTlfS05BTGNJNFR0SlN1ZVNBRExNOXZiSE9Yem1HbW"
+    },
     {
       "id": "919aebce2fbc",
       "title": "“Money fears” delay F1’s decision on whether Middle East races will happen – report | Formula 1",
@@ -457,310 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWj",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWj"
-    },
-    {
-      "id": "64f7bff54130",
-      "title": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
-      "title_fr": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
-      "title_en": "Formule 1 : pourquoi le Grand-Prix d’Azerbaidjan aura-t-il lieu samedi et pas dimanche ? - RTBF",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZGdpeEhsaDg5QTdZeEhnU25OUVJCajdoLXlYa1NKYjZ6WHFjdnBQZnRCZDVWcEJCcTFCY2tLai1MUnpnZFdHX1kyTXI3WGpyZXY1TmxMTEZB?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T08:37:17+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHY1dHFTdkNBYzJIZ1FJWVdqaHpPNVFlVFk0TlJyZkFvcHhsT1dCekllNjUtaFVHRmVNOURQSlVINl9QVXAySWMyZS1jMTljVW9KWGVEQklOZklWNE0wa3lWOUtFRzlNcnIwcTB4ZG"
-    },
-    {
-      "id": "04c7c7eaf666",
-      "title": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
-      "title_fr": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
-      "title_en": "Hadjar set to make Red Bull return at Azerbaijan GP after injury recovery",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/hadjar-to-make-red-bull-return-in-baku/10857880/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNNNX2/s6/isack-hadjar-red-bull-racing-3.jpg",
-      "published_at": "2026-09-22T08:33:19+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to the Racing Bulls Formula 1 team.<br />Hadjar ha",
-      "summary_en": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to the Racing Bulls Formula 1 team.<br />Hadjar ha"
-    },
-    {
-      "id": "9606bdc78bf4",
-      "title": "Social Media: Red Bull confirms Hadjar’s return from injury in Azerbaijan GP | Brief",
-      "title_fr": "Social Media: Red Bull confirms Hadjar’s return from injury in Azerbaijan GP | Brief",
-      "title_en": "Social Media: Red Bull confirms Hadjar’s return from injury in Azerbaijan GP | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/22/social-media-red-bull-confirms-hadjars-return-from-injury-in-azerbaijan-gp/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-07-23-14-26-23-2-SI202607230348_hires_jpeg_24bit_rgb.jpg",
-      "published_at": "2026-09-22T08:30:00+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar has recovered from his wrist injury and will race for Red Bull in Baku. Liam Lawson will return to Racing Bulls.",
-      "summary_en": "Isack Hadjar has recovered from his wrist injury and will race for Red Bull in Baku. Liam Lawson will return to Racing Bulls."
-    },
-    {
-      "id": "0925b63db84c",
-      "title": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
-      "title_fr": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
-      "title_en": "Isack Hadjar to make Red Bull return at F1 Azerbaijan GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-make-red-bull-return-at-f1-azerbaijan-gp/10857869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAbWb0/s6/isack-hadjar-red-bull-racing-l.jpg",
-      "published_at": "2026-09-22T08:29:58+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to Racing Bulls.<br />Hadjar had injured his wrist",
-      "summary_en": "Isack Hadjar will return to Red Bull for this weekend's Azerbaijan Grand Prix at Baku after recovering from a wrist injury, as Liam Lawson moves back to Racing Bulls.<br />Hadjar had injured his wrist"
-    },
-    {
-      "id": "140c5881c3d2",
-      "title": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
-      "title_fr": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
-      "title_en": "Doriane Pin shares powerful advice to young girls hoping to reach motorsport",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/doriane-pin-shares-powerful-advice-to-young-girls-hoping-to-reach-motorsport/10857714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/68VWPGX2/s6/30-duqueine-team-oreca-07-gibs.jpg",
-      "published_at": "2026-09-22T08:00:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes Formula 1 development driver and 2025 F1 Academy champion Doriane Pin has urged young girls aiming for a career in motorsport to \"dare to believe\" in their ambitions.<br />Pin began karting a",
-      "summary_en": "Mercedes Formula 1 development driver and 2025 F1 Academy champion Doriane Pin has urged young girls aiming for a career in motorsport to \"dare to believe\" in their ambitions.<br />Pin began karting a"
-    },
-    {
-      "id": "5b551d3f36cb",
-      "title": "F1: pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi et non dimanche - RMC Sport",
-      "title_fr": "F1: pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi et non dimanche - RMC Sport",
-      "title_en": "F1: pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi et non dimanche - RMC Sport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcC05V1owenNRSU1YZXVZd3dNdlRqQUYtRDZ5V3dOcFVCcU1rTzBiMFQ2SHh1eTZmN1pkTFpSRHJoTm5MNXZuWURmdmNKRFMwVWdtdklXYi1OZnBxMkV5bHJzOHhhd0FZdlhPZjFDbko4QzJiNFVRRE5uQUgyb0JmdWtSNWpKZTNXRFBObmZtMjNYelY1Qnl3OWpYNDUtdkJCLXlDSDFreWFabm9fWURSbHFtUkZhQk0tQ2F4YkhPT25iQ2l0QmMwRXNTX3FyUQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T07:55:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcC05V1owenNRSU1YZXVZd3dNdlRqQUYtRDZ5V3dOcFVCcU1rTzBiMFQ2SHh1eTZmN1pkTFpSRHJoTm5MNXZuWURmdmNKRFMwVWdtdklXYi1OZnBxMkV5bHJzOHhhd0FZdlhPZjFDbk",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcC05V1owenNRSU1YZXVZd3dNdlRqQUYtRDZ5V3dOcFVCcU1rTzBiMFQ2SHh1eTZmN1pkTFpSRHJoTm5MNXZuWURmdmNKRFMwVWdtdklXYi1OZnBxMkV5bHJzOHhhd0FZdlhPZjFDbk"
-    },
-    {
-      "id": "5855d99f2931",
-      "title": "F1 : Rosberg met en garde Antonelli avant Bakou - Sport.fr",
-      "title_fr": "F1 : Rosberg met en garde Antonelli avant Bakou - Sport.fr",
-      "title_en": "F1 : Rosberg met en garde Antonelli avant Bakou - Sport.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkZ3ZUtUbmJCRkFtaTFhc0ozZnVYeE44TkIycGV0RjdpbXEzajgxekd6bDJUMGZxTzFXdWF3bHhnZU1lMTVXcklZN2ZBVDM1ZHAxZFNYX21BbVg1S1lfUXJELXF4eDJXbndjaHNjZVVTajI3R2NPbTFMMEJNaHAzUWxiOXl6dUY4ZV8zSEh2OVhseU0?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T07:17:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkZ3ZUtUbmJCRkFtaTFhc0ozZnVYeE44TkIycGV0RjdpbXEzajgxekd6bDJUMGZxTzFXdWF3bHhnZU1lMTVXcklZN2ZBVDM1ZHAxZFNYX21BbVg1S1lfUXJELXF4eDJXbndjaHNjZV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkZ3ZUtUbmJCRkFtaTFhc0ozZnVYeE44TkIycGV0RjdpbXEzajgxekd6bDJUMGZxTzFXdWF3bHhnZU1lMTVXcklZN2ZBVDM1ZHAxZFNYX21BbVg1S1lfUXJELXF4eDJXbndjaHNjZV"
-    },
-    {
-      "id": "5e8a65923f68",
-      "title": "Why is Monaco staging a sprint race? F1 Q&A",
-      "title_fr": "Why is Monaco staging a sprint race? F1 Q&A",
-      "title_en": "Why is Monaco staging a sprint race? F1 Q&A",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae8f/live/a407a4c0-b5d2-11f1-8c16-65d8f060d73f.jpg",
-      "published_at": "2026-09-22T06:38:06+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix.",
-      "summary_en": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix."
-    },
-    {
-      "id": "3bd65934c265",
-      "title": "Saturday race, Williams’ upgrade, title fight fades and more Azerbaijan GP talking points | Formula 1",
-      "title_fr": "Saturday race, Williams’ upgrade, title fight fades and more Azerbaijan GP talking points | Formula 1",
-      "title_en": "Saturday race, Williams’ upgrade, title fight fades and more Azerbaijan GP talking points | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/22/saturday-race-title-fight-fades-williams-big-upgrade-and-more-azerbaijan-gp-talking-points/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/09/racefansdotnet-24-09-19-11-12-02-1-250919_R17_AZERBAIJAN_DP_AV3_6363_f5733efb-9dfd-44ef-95ee-8db1efa82ef6.jpg",
-      "published_at": "2026-09-22T06:15:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 embarks upon nine rounds in just eleven weeks to conclude its season. Here are the six talking points for the Azerbaijan Grand Prix.",
-      "summary_en": "Formula 1 embarks upon nine rounds in just eleven weeks to conclude its season. Here are the six talking points for the Azerbaijan Grand Prix."
-    },
-    {
-      "id": "a32bf9c69f29",
-      "title": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 | CANAL+ Suisse - CANAL+",
-      "title_fr": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 | CANAL+ Suisse - CANAL+",
-      "title_en": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 | CANAL+ Suisse - CANAL+",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JIRmx0cjlnOVVjaHNMNFdfaGRYSmZoYlM1eTVvTnJTN0VsZDdoMkRxVklTdjZnM0xzbXhlWWNjUDhrd203bDFXNVV4dk1VT3F3UDRzNHJja09XbWU5Yjk0MjdDRkxKYlJNWl9sSGM0MHJiR3cwWTltMDJCTnZJYWtqME1xUXNyelJVVVRhcWFWZEc2OXI3T21MYkVqdTNYcjM4cUp3NTQ0QjV2?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T23:51:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JIRmx0cjlnOVVjaHNMNFdfaGRYSmZoYlM1eTVvTnJTN0VsZDdoMkRxVklTdjZnM0xzbXhlWWNjUDhrd203bDFXNVV4dk1VT3F3UDRzNHJja09XbWU5Yjk0MjdDRkxKYlJNWl9sSG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JIRmx0cjlnOVVjaHNMNFdfaGRYSmZoYlM1eTVvTnJTN0VsZDdoMkRxVklTdjZnM0xzbXhlWWNjUDhrd203bDFXNVV4dk1VT3F3UDRzNHJja09XbWU5Yjk0MjdDRkxKYlJNWl9sSG"
-    },
-    {
-      "id": "e2b953e28ad0",
-      "title": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 - CANAL+",
-      "title_fr": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 - CANAL+",
-      "title_en": "Bandes-annonces Formule 1 : F1 Kids, Grand Prix d'Espagne Formule 1 30 min 2026 - CANAL+",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFRnbFhOODNSZ2ZwRVRFcjFRemNFNVBXZXlLWjNqeUtKdnhEQnV3amFuNmVURTJXYWV5Z3Rsb1FtZEwtSWo1c2RpQkxZSG1jQ21BaUNLNnBST0thdlNEQndKWnRTbEFPUnpCLTNFUHptTFdmT3RxcDRmX0MwYkR2dVV1ZWJrZGllRlJ2Z2lLd0h2bVV5czBjRDhYU2o3MTc1bkRQdWxGVjU?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T23:19:34+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFRnbFhOODNSZ2ZwRVRFcjFRemNFNVBXZXlLWjNqeUtKdnhEQnV3amFuNmVURTJXYWV5Z3Rsb1FtZEwtSWo1c2RpQkxZSG1jQ21BaUNLNnBST0thdlNEQndKWnRTbEFPUnpCLTNFUH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFRnbFhOODNSZ2ZwRVRFcjFRemNFNVBXZXlLWjNqeUtKdnhEQnV3amFuNmVURTJXYWV5Z3Rsb1FtZEwtSWo1c2RpQkxZSG1jQ21BaUNLNnBST0thdlNEQndKWnRTbEFPUnpCLTNFUH"
-    },
-    {
-      "id": "bb01cde4fe6a",
-      "title": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
-      "title_fr": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
-      "title_en": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-confirms-new-hot-wheels-infinite-rush-car-collection-for-2027-release/10857826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2dE7wnwY/s6/start-action-2.jpg",
-      "published_at": "2026-09-21T21:32:34+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in March 2027.<br />The",
-      "summary_en": "Formula 1 has announced that all 22 official team cars from the 2026 season will be added to the Hot Wheels Infinite Rush video game via a new F1 Car Collection Pack, launching in March 2027.<br />The"
-    },
-    {
-      "id": "8059795f6e50",
-      "title": "Quelle météo pour le Grand Prix d’Azerbaïdjan de F1 ? - F1ACTU",
-      "title_fr": "Quelle météo pour le Grand Prix d’Azerbaïdjan de F1 ? - F1ACTU",
-      "title_en": "Quelle météo pour le Grand Prix d’Azerbaïdjan de F1 ? - F1ACTU",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNaejI1M2kzbUJ2ZE4zeTRvdF9UT3lfcEpUdVhoVmEtRUlOS2lFRkhFdnRMQ1lNWllwZERJaktBZ3ZWMjQ5Tml4QXgwWE56UUhCQlRNN2g4S1Nlc0xINlBnZjhIa1Q2RFM2c0JMdm9kd3QwcU5lSC1kcF9oVDYwZU9n?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T20:54:48+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNaejI1M2kzbUJ2ZE4zeTRvdF9UT3lfcEpUdVhoVmEtRUlOS2lFRkhFdnRMQ1lNWllwZERJaktBZ3ZWMjQ5Tml4QXgwWE56UUhCQlRNN2g4S1Nlc0xINlBnZjhIa1Q2RFM2c0JMdm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFNaejI1M2kzbUJ2ZE4zeTRvdF9UT3lfcEpUdVhoVmEtRUlOS2lFRkhFdnRMQ1lNWllwZERJaktBZ3ZWMjQ5Tml4QXgwWE56UUhCQlRNN2g4S1Nlc0xINlBnZjhIa1Q2RFM2c0JMdm"
-    },
-    {
-      "id": "380e521e13a9",
-      "title": "Formula 1 cuts grand prix distances for 2027 in latest power unit rules compromise | Formula 1",
-      "title_fr": "Formula 1 cuts grand prix distances for 2027 in latest power unit rules compromise | Formula 1",
-      "title_en": "Formula 1 cuts grand prix distances for 2027 in latest power unit rules compromise | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/21/formula-1-cuts-grand-prix-distances-for-2027-in-latest-power-unit-rules-compromise/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-13-15-04-00-4-2295033895.jpg",
-      "published_at": "2026-09-21T18:48:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1's engine regulations have led the series to cut the length of grands prix next year, changing a limit which has been in place for decades.",
-      "summary_en": "Formula 1's engine regulations have led the series to cut the length of grands prix next year, changing a limit which has been in place for decades."
-    },
-    {
-      "id": "a49ee4167af5",
-      "title": "F1 reduces maximum distance of races by 15km",
-      "title_fr": "F1 reduces maximum distance of races by 15km",
-      "title_en": "F1 reduces maximum distance of races by 15km",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd9/live/ebb18450-b5df-11f1-aff1-eb6baa3fda4f.jpg",
-      "published_at": "2026-09-21T17:16:13+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.",
-      "summary_en": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season."
-    },
-    {
-      "id": "a61e9c8f7df3",
-      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "title_fr": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "title_en": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YP7rorA2/s6/rafael-nadal-waves-the-chequer-2.jpg",
-      "published_at": "2026-09-21T16:57:38+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C",
-      "summary_en": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C"
     }
   ]
 }
