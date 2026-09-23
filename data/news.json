@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-09-23T15:13:34Z",
+  "last_updated": "2026-09-23T18:17:29Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "986403b51a64",
+      "title": "F1 Azerbaijan GP: Thursday schedule, weather forecast and how to watch",
+      "title_fr": "F1 Azerbaijan GP: Thursday schedule, weather forecast and how to watch",
+      "title_en": "F1 Azerbaijan GP: Thursday schedule, weather forecast and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-thursday-schedule-weather-forecast-and-how-to-watch/10858320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2eZxmWaY/s6/williams-pit-crew.jpg",
+      "published_at": "2026-09-23T16:33:12+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 heads to Baku this week for an unusually early Azerbaijan GP weekend, with all of the on-track action shifted forward by a day.<br />Free practice begins on Thursday, qualifying takes place ",
+      "summary_en": "Formula 1 heads to Baku this week for an unusually early Azerbaijan GP weekend, with all of the on-track action shifted forward by a day.<br />Free practice begins on Thursday, qualifying takes place "
+    },
+    {
+      "id": "2b1fb3eddf53",
+      "title": "Grand Prix d’Azerbaïdjan de F1 2026 : programme, horaires et résultats à Bakou - Dicodusport",
+      "title_fr": "Grand Prix d’Azerbaïdjan de F1 2026 : programme, horaires et résultats à Bakou - Dicodusport",
+      "title_en": "Grand Prix d’Azerbaïdjan de F1 2026 : programme, horaires et résultats à Bakou - Dicodusport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd29Rcm5VYVNCRDdERl80UVJRdHdTX25nU1RUclJ5YnBCMGRtVjRmYWtJa0lrQzBLOGxiOHFJcThYb0VmTi1RZUVQT2VFZlJxUFBNLTFFQVV0WlZmNk5idHhwMXZMS1JiRUI1Mk82bWMxbDlXbkl6emlfaDZaaFJXNmJLUXRBZUg3S29YR3F6UFNIb0RhNTJ4dnkwTUNVdTV3cmw1bGlR?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T16:04:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOd29Rcm5VYVNCRDdERl80UVJRdHdTX25nU1RUclJ5YnBCMGRtVjRmYWtJa0lrQzBLOGxiOHFJcThYb0VmTi1RZUVQT2VFZlJxUFBNLTFFQVV0WlZmNk5idHhwMXZMS1JiRUI1Mk82bW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOd29Rcm5VYVNCRDdERl80UVJRdHdTX25nU1RUclJ5YnBCMGRtVjRmYWtJa0lrQzBLOGxiOHFJcThYb0VmTi1RZUVQT2VFZlJxUFBNLTFFQVV0WlZmNk5idHhwMXZMS1JiRUI1Mk82bW"
+    },
+    {
+      "id": "d2423d47fb9b",
+      "title": "Jolyon Palmer suggests Oscar Piastri needs F1 reset in blunt Lando Norris comparison",
+      "title_fr": "Jolyon Palmer suggests Oscar Piastri needs F1 reset in blunt Lando Norris comparison",
+      "title_en": "Jolyon Palmer suggests Oscar Piastri needs F1 reset in blunt Lando Norris comparison",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/jolyon-palmer-suggests-oscar-piastri-needs-f1-reset-in-blunt-lando-norris-comparison/10858199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/01QNNw50/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-09-23T16:00:03+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver Jolyon Palmer has suggested that McLaren's Oscar Piastri may need a winter reset after a difficult 2026 campaign.<br />Piastri heads into this weekend's Azerbaijan Grand Prix f",
+      "summary_en": "Former Formula 1 driver Jolyon Palmer has suggested that McLaren's Oscar Piastri may need a winter reset after a difficult 2026 campaign.<br />Piastri heads into this weekend's Azerbaijan Grand Prix f"
+    },
+    {
+      "id": "981d76aa4fe7",
+      "title": "Ocon confirms he is a “free agent” for 2027 as rumours link Camara to Haas | Formula 1",
+      "title_fr": "Ocon confirms he is a “free agent” for 2027 as rumours link Camara to Haas | Formula 1",
+      "title_en": "Ocon confirms he is a “free agent” for 2027 as rumours link Camara to Haas | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/ocon-confirms-he-is-a-free-agent-for-2027-as-rumours-link-camara-to-haas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-08-20-17-10-51-2-2291294646-754.jpg",
+      "published_at": "2026-09-23T15:57:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon looks set to leave Haas at the end of the season as the driver admitted he is a \"free agent\" for 2027.",
+      "summary_en": "Esteban Ocon looks set to leave Haas at the end of the season as the driver admitted he is a \"free agent\" for 2027."
+    },
+    {
+      "id": "b17eb580ab80",
+      "title": "George Russell forced to \"rewire his brain\" amid Kimi Antonelli struggles, says David Coulthard",
+      "title_fr": "George Russell forced to \"rewire his brain\" amid Kimi Antonelli struggles, says David Coulthard",
+      "title_en": "George Russell forced to \"rewire his brain\" amid Kimi Antonelli struggles, says David Coulthard",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-forced-to-rewire-his-brain-amid-kimi-antonelli-struggles-says-david-coulthard/10858284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/25dLEoE0/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-23T15:18:35+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell is being forced to \"rewire his brain\" as he struggles to consistently match his Mercedes team-mate Kimi Antonelli, according to former Formula 1 driver David Coulthard. <br />Russell wa",
+      "summary_en": "George Russell is being forced to \"rewire his brain\" as he struggles to consistently match his Mercedes team-mate Kimi Antonelli, according to former Formula 1 driver David Coulthard. <br />Russell wa"
+    },
     {
       "id": "17d01b78565b",
       "title": "Russell's theory on his big hope for F1 2027 – and Antonelli's reply",
@@ -191,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTRyTGNfeHlWMm04VVk3YUxCN1ZfQWZJZUJlSVl1Q3ZWWV9aQXAtY2xCYl9GRW10ZjRRQW10blN6bFRHUmVEdEs3c3NvNUVCZmZacld3bmt0Zk1PSko1X3ZwZlhGZFFIQjhsdGFzSm",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTRyTGNfeHlWMm04VVk3YUxCN1ZfQWZJZUJlSVl1Q3ZWWV9aQXAtY2xCYl9GRW10ZjRRQW10blN6bFRHUmVEdEs3c3NvNUVCZmZacld3bmt0Zk1PSko1X3ZwZlhGZFFIQjhsdGFzSm"
+    },
+    {
+      "id": "56d8a5c96df1",
+      "title": "Les chiffres à connaître avant le Grand Prix d'Azerbaïdjan - L'Équipe",
+      "title_fr": "Les chiffres à connaître avant le Grand Prix d'Azerbaïdjan - L'Équipe",
+      "title_en": "Les chiffres à connaître avant le Grand Prix d'Azerbaïdjan - L'Équipe",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3V2X0JrLV96bGhPMzJ0YmcyX3RndzAwVFo4b0JpTi1fQVNTaE9DNkJBYmllUDNBUHB0Wi1LbVpfQl9vbXFrTTRiaWZfMU1zVmdmbG1rNHh0Z2Q4cU9tYkZybk9tMFFPdXM5cTRvdmVFRGZpSjk5eUg2U0xFeDd2MFlXS2xOODVXYlhhZkZhR19LcFNRaHlKSnNodnh3bjJGakJWdTZYblFmVWd3UDlRNnM2aDBhQm9LeFIzUktJZDA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T12:39:27+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3V2X0JrLV96bGhPMzJ0YmcyX3RndzAwVFo4b0JpTi1fQVNTaE9DNkJBYmllUDNBUHB0Wi1LbVpfQl9vbXFrTTRiaWZfMU1zVmdmbG1rNHh0Z2Q4cU9tYkZybk9tMFFPdXM5cTRvdm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3V2X0JrLV96bGhPMzJ0YmcyX3RndzAwVFo4b0JpTi1fQVNTaE9DNkJBYmllUDNBUHB0Wi1LbVpfQl9vbXFrTTRiaWZfMU1zVmdmbG1rNHh0Z2Q4cU9tYkZybk9tMFFPdXM5cTRvdm"
     },
     {
       "id": "6fa75ab2cabf",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Red Bull has given a vote of confidence to Isack Hadjar, handing him a new contract to drive for the team again next year.",
       "summary_en": "Red Bull has given a vote of confidence to Isack Hadjar, handing him a new contract to drive for the team again next year."
-    },
-    {
-      "id": "f82f94ecfa53",
-      "title": "Hadjar to partner Verstappen at Red Bull for F1 2027",
-      "title_fr": "Hadjar to partner Verstappen at Red Bull for F1 2027",
-      "title_en": "Hadjar to partner Verstappen at Red Bull for F1 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/hadjar-to-partner-verstappen-for-f1-2027/10858093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNavx2/s6/isack-hadjar-red-bull-racing-2.jpg",
-      "published_at": "2026-09-23T07:27:05+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist",
-      "summary_en": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist"
-    },
-    {
-      "id": "9326f08a3bba",
-      "title": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
-      "title_fr": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
-      "title_en": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-retains-isack-hadjar-alongside-max-verstappen-for-f1-2027/10858090/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6grQQRxY/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-09-23T07:25:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist",
-      "summary_en": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist"
-    },
-    {
-      "id": "9bdf9cca1ee2",
-      "title": "Isack Hadjar reste chez Red Bull : prolongation de contrat en Formule 1 pour le pilote français - Dicodusport",
-      "title_fr": "Isack Hadjar reste chez Red Bull : prolongation de contrat en Formule 1 pour le pilote français - Dicodusport",
-      "title_en": "Isack Hadjar reste chez Red Bull : prolongation de contrat en Formule 1 pour le pilote français - Dicodusport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU25kNmZrSm1Kajg4YnBqZzBPNTdacjNFdnotNkFCZ21YQkZ3dTJKYzY1aFpYVFV4c2RtMmpvd1JvZFpxYm1YU1ZDOTRNS2hpM0ExU2czLWZxRkFCLUF0dkhmeFo5eFNjVG9tOTN6dDYyNWctTjNMemhlUDNHRTFjV1Y2SHpQdjRKblBlaV9tWXNCNVhSVDk2ZktKa2c4YWU0cmo1b0d0SHJnV0hDTzdBRnJwZDFJX3loUjNMZFVtVQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-23T07:25:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPU25kNmZrSm1Kajg4YnBqZzBPNTdacjNFdnotNkFCZ21YQkZ3dTJKYzY1aFpYVFV4c2RtMmpvd1JvZFpxYm1YU1ZDOTRNS2hpM0ExU2czLWZxRkFCLUF0dkhmeFo5eFNjVG9tOTN6dD",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPU25kNmZrSm1Kajg4YnBqZzBPNTdacjNFdnotNkFCZ21YQkZ3dTJKYzY1aFpYVFV4c2RtMmpvd1JvZFpxYm1YU1ZDOTRNS2hpM0ExU2czLWZxRkFCLUF0dkhmeFo5eFNjVG9tOTN6dD"
-    },
-    {
-      "id": "4c69b1e21745",
-      "title": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
-      "title_fr": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
-      "title_en": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/23/featured-comment-is-f1-right-to-shorten-grands-prix-to-suit-its-new-rules/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-24-08-22-12-03-43-5-2291521445.jpg",
-      "published_at": "2026-09-23T06:10:53+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Has F1 done the right thing by shortening grands prix for 2027?",
-      "summary_en": "Has F1 done the right thing by shortening grands prix for 2027?"
-    },
-    {
-      "id": "819829d9a88d",
-      "title": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - turbo.fr",
-      "title_fr": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - turbo.fr",
-      "title_en": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRHBIdk00R2pNRGtfNXU2Nk55OUIzTXJTcnFwZ2RneFcxUGloWk1CeU1DN1FtVWFIVnBwYTJ1d1pOOFd1WFlmYkRMSWd2Q1g0ZVduYUFFRzdLVm0yQVE1MzlzU0loR0sxUlhqa19fZmxfNmZ2RDJ5YlE?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-23T05:53:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH"
-    },
-    {
-      "id": "289fb421891f",
-      "title": "Le marché des transferts F1 s’enlise, quatre pilotes toujours dans le flou - Nextgen-Auto.com",
-      "title_fr": "Le marché des transferts F1 s’enlise, quatre pilotes toujours dans le flou - Nextgen-Auto.com",
-      "title_en": "Le marché des transferts F1 s’enlise, quatre pilotes toujours dans le flou - Nextgen-Auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEhUaXpvS05MeVM1Y0ttaVcyN1pwa3RSbzZfUUpJcTlRQXhzYmlPQzlqY2ZwckcxVlZLSzl4MG1BaUlWQzlhS2lWTWhocFY4YWNFMnVzSXFiUmYxMl9vMHRzSDFIdFZZWGRaZVVmQk1rdXExb3hYLWw5Ym9Fdi15Q1d2UWczRjJhc3daM3NwZ1hnY29CNWV6Y2F0eTEwbnpXal9OblYtbWpPbW9lc1Nnd21WWWtCRmtQblVrVHVGVVNiU016WWdiLWRyX29BNzA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-23T05:13:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEhUaXpvS05MeVM1Y0ttaVcyN1pwa3RSbzZfUUpJcTlRQXhzYmlPQzlqY2ZwckcxVlZLSzl4MG1BaUlWQzlhS2lWTWhocFY4YWNFMnVzSXFiUmYxMl9vMHRzSDFIdFZZWGRaZVVmQk",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEhUaXpvS05MeVM1Y0ttaVcyN1pwa3RSbzZfUUpJcTlRQXhzYmlPQzlqY2ZwckcxVlZLSzl4MG1BaUlWQzlhS2lWTWhocFY4YWNFMnVzSXFiUmYxMl9vMHRzSDFIdFZZWGRaZVVmQk"
     }
   ]
 }
