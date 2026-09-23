@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-09-23T03:01:37Z",
+  "last_updated": "2026-09-23T06:03:38Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "c5a44a8445cc",
+      "title": "F1. Course le samedi, enjeux, favoris, programme TV… Tout savoir sur le Grand Prix d’Azerbaïdjan - Ouest-France",
+      "title_fr": "F1. Course le samedi, enjeux, favoris, programme TV… Tout savoir sur le Grand Prix d’Azerbaïdjan - Ouest-France",
+      "title_en": "F1. Course le samedi, enjeux, favoris, programme TV… Tout savoir sur le Grand Prix d’Azerbaïdjan - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZDljMUNVYkptYU1OUEZ4cExpbGxSNHhRRjlhX1pMdlpwLTAyVHhqSWhfVVN2cWR6UDIxNVBuLXliUkxHVEIxT2h0Wk9OVUhfdzNEcXhYc000QnFLSWd5cVpMUlJHNlVQUWpXR3A2R0p5WXRFYlhrZ09Gb25yUmtOVExPd25ZcC0tWmRkZll6NjRQUUJHeEdVa1h5X1ZyaUlSeDVMdHdHZXA4YTlWS25JREcwVWVsaVZQaWFCUHZsM1lkZmJaV2VyNm9KZEVuM2l3dVVoZlc2WW5saTZBN0JUeVFpa1cxUW8xQkdpMUNuMVZvSE9UMTZXa3E4LWtEUUw0?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T05:00:54+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOZDljMUNVYkptYU1OUEZ4cExpbGxSNHhRRjlhX1pMdlpwLTAyVHhqSWhfVVN2cWR6UDIxNVBuLXliUkxHVEIxT2h0Wk9OVUhfdzNEcXhYc000QnFLSWd5cVpMUlJHNlVQUWpXR3A2R0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOZDljMUNVYkptYU1OUEZ4cExpbGxSNHhRRjlhX1pMdlpwLTAyVHhqSWhfVVN2cWR6UDIxNVBuLXliUkxHVEIxT2h0Wk9OVUhfdzNEcXhYc000QnFLSWd5cVpMUlJHNlVQUWpXR3A2R0"
+    },
     {
       "id": "8327b78eb5cd",
       "title": "On This Day: Moss scores only victory for a four-wheel-drive Formula 1 car | Brief",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZG",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZG"
-    },
-    {
-      "id": "819829d9a88d",
-      "title": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - Turbo.fr",
-      "title_fr": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - Turbo.fr",
-      "title_en": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - Turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRHBIdk00R2pNRGtfNXU2Nk55OUIzTXJTcnFwZ2RneFcxUGloWk1CeU1DN1FtVWFIVnBwYTJ1d1pOOFd1WFlmYkRMSWd2Q1g0ZVduYUFFRzdLVm0yQVE1MzlzU0loR0sxUlhqa19fZmxfNmZ2RDJ5YlE?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T12:45:56+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH"
     }
   ]
 }
