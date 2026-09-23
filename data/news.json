@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-09-23T06:03:38Z",
+  "last_updated": "2026-09-23T09:06:07Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "919aebce2fbc",
+      "title": "“Money fears” delay F1’s decision on whether Middle East races will happen – report | Formula 1",
+      "title_fr": "“Money fears” delay F1’s decision on whether Middle East races will happen – report | Formula 1",
+      "title_en": "“Money fears” delay F1’s decision on whether Middle East races will happen – report | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/money-fears-delay-f1s-decision-on-whether-middle-east-races-will-happen-report/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/12/racefansdotnet-24-12-07-13-24-49-2-SI202512070150.jpg",
+      "published_at": "2026-09-23T08:55:35+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 has not yet confirmed whether the season-ending Qatar and Abu Dhabi grands prix can go ahead amid the war in Iran.",
+      "summary_en": "Formula 1 has not yet confirmed whether the season-ending Qatar and Abu Dhabi grands prix can go ahead amid the war in Iran."
+    },
+    {
+      "id": "f788f552d5e8",
+      "title": "Red Bull retain Hadjar for 2027 season",
+      "title_fr": "Red Bull retain Hadjar for 2027 season",
+      "title_en": "Red Bull retain Hadjar for 2027 season",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0j53zz90o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6054/live/922c8bc0-b722-11f1-8d21-19ad84e0e822.jpg",
+      "published_at": "2026-09-23T07:55:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Frenchman Isack Hadjar is to stay at Red Bull as Max Verstappen's team-mate for the 2027 season.",
+      "summary_en": "Frenchman Isack Hadjar is to stay at Red Bull as Max Verstappen's team-mate for the 2027 season."
+    },
+    {
+      "id": "3c43b3014331",
+      "title": "Red Bull confirms Hadjar will remain as Verstappen’s team mate in 2027 | Formula 1",
+      "title_fr": "Red Bull confirms Hadjar will remain as Verstappen’s team mate in 2027 | Formula 1",
+      "title_en": "Red Bull confirms Hadjar will remain as Verstappen’s team mate in 2027 | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/red-bull-confirms-hadjar-will-remain-as-verstappens-team-mate-in-2027/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-12-05-30-34-1-SI202603120100.jpg",
+      "published_at": "2026-09-23T07:35:13+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull has given a vote of confidence to Isack Hadjar, handing him a new contract to drive for the team again next year.",
+      "summary_en": "Red Bull has given a vote of confidence to Isack Hadjar, handing him a new contract to drive for the team again next year."
+    },
+    {
+      "id": "f82f94ecfa53",
+      "title": "Hadjar to partner Verstappen at Red Bull for F1 2027",
+      "title_fr": "Hadjar to partner Verstappen at Red Bull for F1 2027",
+      "title_en": "Hadjar to partner Verstappen at Red Bull for F1 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hadjar-to-partner-verstappen-for-f1-2027/10858093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNavx2/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "published_at": "2026-09-23T07:27:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist",
+      "summary_en": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist"
+    },
+    {
+      "id": "9326f08a3bba",
+      "title": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
+      "title_fr": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
+      "title_en": "Red Bull retains Isack Hadjar alongside Max Verstappen for F1 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-retains-isack-hadjar-alongside-max-verstappen-for-f1-2027/10858090/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6grQQRxY/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-09-23T07:25:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist",
+      "summary_en": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist"
+    },
+    {
+      "id": "4c69b1e21745",
+      "title": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
+      "title_fr": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
+      "title_en": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/23/featured-comment-is-f1-right-to-shorten-grands-prix-to-suit-its-new-rules/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-24-08-22-12-03-43-5-2291521445.jpg",
+      "published_at": "2026-09-23T06:10:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Has F1 done the right thing by shortening grands prix for 2027?",
+      "summary_en": "Has F1 done the right thing by shortening grands prix for 2027?"
+    },
+    {
+      "id": "819829d9a88d",
+      "title": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - turbo.fr",
+      "title_fr": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - turbo.fr",
+      "title_en": "GP d'Azerbaïdjan de F1 : programme, horaires et chaînes TV d'un week-end qui bouleverse les habitudes - turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRHBIdk00R2pNRGtfNXU2Nk55OUIzTXJTcnFwZ2RneFcxUGloWk1CeU1DN1FtVWFIVnBwYTJ1d1pOOFd1WFlmYkRMSWd2Q1g0ZVduYUFFRzdLVm0yQVE1MzlzU0loR0sxUlhqa19fZmxfNmZ2RDJ5YlE?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T05:53:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH"
+    },
     {
       "id": "c5a44a8445cc",
       "title": "F1. Course le samedi, enjeux, favoris, programme TV… Tout savoir sur le Grand Prix d’Azerbaïdjan - Ouest-France",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C",
       "summary_en": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C"
-    },
-    {
-      "id": "0480161ab36e",
-      "title": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "title_fr": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "title_en": "F1 approves shorter races for 2027 to fit revised power unit plan",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9EQnLY/s6/start-action.jpg",
-      "published_at": "2026-09-21T16:52:15+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C",
-      "summary_en": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season.<br />During Monday's F1 C"
-    },
-    {
-      "id": "f16e8f0cd52e",
-      "title": "Jamie Chadwick opens up on pressure of representing women in motorsport",
-      "title_fr": "Jamie Chadwick opens up on pressure of representing women in motorsport",
-      "title_en": "Jamie Chadwick opens up on pressure of representing women in motorsport",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/wec/news/jamie-chadwick-opens-up-on-pressure-of-representing-women-in-motorsport/10857794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YE9wnzLY/s6/jamie-chadwick-genesis-magma-r.jpg",
-      "published_at": "2026-09-21T16:39:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Three-time W Series champion Jamie Chadwick has admitted that being a prominent female driver on the single-seater ladder meant her off days were often heavily scrutinised as a reflection of her gende",
-      "summary_en": "Three-time W Series champion Jamie Chadwick has admitted that being a prominent female driver on the single-seater ladder meant her off days were often heavily scrutinised as a reflection of her gende"
-    },
-    {
-      "id": "7d65cea67432",
-      "title": "La Formule 1 modifie la durée des Grand Prix pour la saison 2027 ! - circusdaily.com",
-      "title_fr": "La Formule 1 modifie la durée des Grand Prix pour la saison 2027 ! - circusdaily.com",
-      "title_en": "La Formule 1 modifie la durée des Grand Prix pour la saison 2027 ! - circusdaily.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZy1EbnBrZFRyVUJTaTNPbmtPTjE1OVFxQ013UGJyb1Z1LWdQcHpRRnRqRFZsMlNSQ2JqeXhMMGpaaDUxVFZQMmlwSmlDQjh2M3BTZ24tQ0o0OTJEZWQzRFh1X1dxdTZxSlFtRkFybXFhcUZzeVRwMDdjc1R3NDNhbk8yanN1eHhZaXZfWWtOSWlrRGtZXzN6bkJ1d3oyNG9RN29vcTNadmdHSmtmUkhYWQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T15:59:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZy1EbnBrZFRyVUJTaTNPbmtPTjE1OVFxQ013UGJyb1Z1LWdQcHpRRnRqRFZsMlNSQ2JqeXhMMGpaaDUxVFZQMmlwSmlDQjh2M3BTZ24tQ0o0OTJEZWQzRFh1X1dxdTZxSlFtRkFybX",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZy1EbnBrZFRyVUJTaTNPbmtPTjE1OVFxQ013UGJyb1Z1LWdQcHpRRnRqRFZsMlNSQ2JqeXhMMGpaaDUxVFZQMmlwSmlDQjh2M3BTZ24tQ0o0OTJEZWQzRFh1X1dxdTZxSlFtRkFybX"
-    },
-    {
-      "id": "82134a2ed92c",
-      "title": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
-      "title_fr": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
-      "title_en": "Carlos Sainz backs bold approach for Williams junior Will Green's racing future",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-backs-bold-approach-for-williams-junior-will-greens-racing-future/10857759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2jEAV4p0/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-21T14:42:31+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Carlos Sainz has urged Williams Formula 1 junior Will Green to prioritise finding the limits over consistency as the 13-year-old prepares to graduate from karting to single-seaters.<br />Green was ann",
-      "summary_en": "Carlos Sainz has urged Williams Formula 1 junior Will Green to prioritise finding the limits over consistency as the 13-year-old prepares to graduate from karting to single-seaters.<br />Green was ann"
-    },
-    {
-      "id": "7118f3574809",
-      "title": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
-      "title_fr": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
-      "title_en": "Guenther Steiner predicts Max Verstappen will go winless in 2026 F1 season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-predicts-max-verstappen-will-go-winless-in-2026-f1-season/10857570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVP7pW0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-21T14:00:02+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not ",
-      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner believes four-time champion Max Verstappen will fail to win a single grand prix during the 2026 F1 season, arguing that Red Bull's package is not "
-    },
-    {
-      "id": "e3de987959ae",
-      "title": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
-      "title_fr": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
-      "title_en": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwoR42/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": "2026-09-21T13:52:43+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As F1 switched to new re",
-      "summary_en": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky.<br />As F1 switched to new re"
-    },
-    {
-      "id": "db161494152f",
-      "title": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan a lieu ce samedi 26 septembre et non dimanche - Sud Ouest",
-      "title_fr": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan a lieu ce samedi 26 septembre et non dimanche - Sud Ouest",
-      "title_en": "Formule 1 : pourquoi le Grand Prix d’Azerbaïdjan a lieu ce samedi 26 septembre et non dimanche - Sud Ouest",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZGk5NFFCOUxHMnFiOXZ6SmxZdldEdFVWMGdOY3hmVlJwYlVncGxVWnFYaV9nOGNqeG5fT3kzdkRMUEVqSjdvdlVKV09PVV9FdkNsY3gxVzBUUktuVUpUaFdjZi1xcWcwY0JSbllUYzFoZDliU3VDQmdweHoxbE9GcWVkYm91dnVLM0o4QmVQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-21T13:01:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZk00OW9LcGVtZ2pMc3NCYnFaN0pvX2VnZlRIQ1dXMGhDU3N2T0xtSlptLWdJQ21neTZQeC1HRS1GSzBqN2JERjNkcjBvRDF6eUp5RS1LWmVhQktYdGJuNzVpR0tUd1h3eDJtN1BMZG"
     }
   ]
 }
