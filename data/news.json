@@ -1,7 +1,273 @@
 {
-  "last_updated": "2026-09-23T12:09:20Z",
+  "last_updated": "2026-09-23T15:13:34Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "17d01b78565b",
+      "title": "Russell's theory on his big hope for F1 2027 – and Antonelli's reply",
+      "title_fr": "Russell's theory on his big hope for F1 2027 – and Antonelli's reply",
+      "title_en": "Russell's theory on his big hope for F1 2027 – and Antonelli's reply",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/russells-theory-on-his-big-hope-for-f1-2027-and-antonellis-reply/10858274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVj3evY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-09-23T15:06:46+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "From being the 2026 Formula 1 pre-season title favourite to fighting to hold on to second place as Mercedes team-mate Kimi Antonelli accelerates into the distance, George Russell has endured a challen",
+      "summary_en": "From being the 2026 Formula 1 pre-season title favourite to fighting to hold on to second place as Mercedes team-mate Kimi Antonelli accelerates into the distance, George Russell has endured a challen"
+    },
+    {
+      "id": "f421853c69a6",
+      "title": "Max Verstappen's blunt reaction to F1's Monaco GP sprint race: \"No emotion attached to it\"",
+      "title_fr": "Max Verstappen's blunt reaction to F1's Monaco GP sprint race: \"No emotion attached to it\"",
+      "title_en": "Max Verstappen's blunt reaction to F1's Monaco GP sprint race: \"No emotion attached to it\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-blunt-reaction-to-f1s-monaco-sprint-no-emotion-attached-to-it/10858262/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0o5ALrPY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-23T14:39:07+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Formula 1 calendar presented for 2027 looks logical when it comes to the sequence of grands prix, but some of the choices for the sprint races have caused surprise.<br />F1 has not only decided to",
+      "summary_en": "The Formula 1 calendar presented for 2027 looks logical when it comes to the sequence of grands prix, but some of the choices for the sprint races have caused surprise.<br />F1 has not only decided to"
+    },
+    {
+      "id": "6b724a9d62b2",
+      "title": "The moment Antonelli knew he had been transformed as an F1 driver",
+      "title_fr": "The moment Antonelli knew he had been transformed as an F1 driver",
+      "title_en": "The moment Antonelli knew he had been transformed as an F1 driver",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8918/live/fe3a4800-b738-11f1-aa9c-3d062fa3aea7.jpg",
+      "published_at": "2026-09-23T14:26:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Championship leader Kimi Antonelli tells BBC Sport how he is \"still finding my way\" in F1 after a 2024 crash \"stayed in my head for a very long time\".",
+      "summary_en": "Championship leader Kimi Antonelli tells BBC Sport how he is \"still finding my way\" in F1 after a 2024 crash \"stayed in my head for a very long time\"."
+    },
+    {
+      "id": "4d56c366bb67",
+      "title": "How McLaren Hypercar test will help Norris in F1",
+      "title_fr": "How McLaren Hypercar test will help Norris in F1",
+      "title_en": "How McLaren Hypercar test will help Norris in F1",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/wec/news/how-mclaren-hypercar-test-will-help-norris-in-f1/10858259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2wlKg8BY/s6/lando-norris-mclaren-3.jpg",
+      "published_at": "2026-09-23T14:06:06+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris driving McLaren’s new Hypercar may seem inconsequential in the grand scheme of Formula 1 things, but the reigning world champion would disagree.<br />Norris took the wheel of the MCL-HY a",
+      "summary_en": "Lando Norris driving McLaren’s new Hypercar may seem inconsequential in the grand scheme of Formula 1 things, but the reigning world champion would disagree.<br />Norris took the wheel of the MCL-HY a"
+    },
+    {
+      "id": "58e26f04bd89",
+      "title": "James Hinchcliffe explains why Ferrari is \"happy\" with Lewis Hamilton-Charles Leclerc rivalry",
+      "title_fr": "James Hinchcliffe explains why Ferrari is \"happy\" with Lewis Hamilton-Charles Leclerc rivalry",
+      "title_en": "James Hinchcliffe explains why Ferrari is \"happy\" with Lewis Hamilton-Charles Leclerc rivalry",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/james-hinchcliffe-explains-why-ferrari-is-happy-with-lewis-hamilton-charles-leclerc-rivalry/10858182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6lmdrd10/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-09-23T14:00:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe has argued that Ferrari is \"happy\" to manage the escalating intra-team rivalry between Lewis Hamilton and Charles Leclerc, insisting it ",
+      "summary_en": "Former IndyCar Series driver and F1 TV pundit James Hinchcliffe has argued that Ferrari is \"happy\" to manage the escalating intra-team rivalry between Lewis Hamilton and Charles Leclerc, insisting it "
+    },
+    {
+      "id": "91fbf113da90",
+      "title": "How Lando Norris gets better at F1 with a Hypercar test",
+      "title_fr": "How Lando Norris gets better at F1 with a Hypercar test",
+      "title_en": "How Lando Norris gets better at F1 with a Hypercar test",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/wec/news/how-lando-norris-gets-better-at-f1-with-a-hypercar-test/10858246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2eZxVJ9Y/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-09-23T13:54:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris driving McLaren’s new Hypercar may seem inconsequential in the grand scheme of Formula 1 things, but the reigning world champion would disagree.<br />Norris took the wheel of the MCL-HY a",
+      "summary_en": "Lando Norris driving McLaren’s new Hypercar may seem inconsequential in the grand scheme of Formula 1 things, but the reigning world champion would disagree.<br />Norris took the wheel of the MCL-HY a"
+    },
+    {
+      "id": "5c16ab915073",
+      "title": "Isack Hadjar brings delayed Zandvoort helmet to Baku for F1 return",
+      "title_fr": "Isack Hadjar brings delayed Zandvoort helmet to Baku for F1 return",
+      "title_en": "Isack Hadjar brings delayed Zandvoort helmet to Baku for F1 return",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-brings-delayed-zandvoort-helmet-to-baku-for-f1-return/10858248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGqX1DY/s6/6-isack-hadjar-red-bull.jpg",
+      "published_at": "2026-09-23T13:47:57+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull driver Isack Hadjar will return to the Formula 1 grid at this weekend's Azerbaijan Grand Prix, sporting the special helmet design originally commissioned for the Dutch Grand Prix.<br />The de",
+      "summary_en": "Red Bull driver Isack Hadjar will return to the Formula 1 grid at this weekend's Azerbaijan Grand Prix, sporting the special helmet design originally commissioned for the Dutch Grand Prix.<br />The de"
+    },
+    {
+      "id": "4a5501306fe4",
+      "title": "Pierre Gasly calls social media abuse “completely inappropriate” after Franco Colapinto incident in Spanish GP",
+      "title_fr": "Pierre Gasly calls social media abuse “completely inappropriate” after Franco Colapinto incident in Spanish GP",
+      "title_en": "Pierre Gasly calls social media abuse “completely inappropriate” after Franco Colapinto incident in Spanish GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/gasly-condemns-family-threats-says-there-was-no-request-to-swap-with-colapinto/10858210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQ3XjY/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-09-23T13:44:41+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Pierre Gasly has revealed that he was the victim of social media abuse following the Spanish Grand Prix after an incident with Franco Colapinto two weeks ago at the Madring circuit.<br />The Alpine te",
+      "summary_en": "Pierre Gasly has revealed that he was the victim of social media abuse following the Spanish Grand Prix after an incident with Franco Colapinto two weeks ago at the Madring circuit.<br />The Alpine te"
+    },
+    {
+      "id": "f6f56fe220a3",
+      "title": "Max Verstappen rules out 2027 Le Mans 24 Hours bid",
+      "title_fr": "Max Verstappen rules out 2027 Le Mans 24 Hours bid",
+      "title_en": "Max Verstappen rules out 2027 Le Mans 24 Hours bid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-rules-out-2027-le-mans-24-hours-bid/10858228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2dEoVNDY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-23T13:22:13+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen has ruled out competing at the Le Mans 24 Hours in 2027, but the four-time Formula 1 world champion is eyeing the 24-hour races at the Nurburgring and Spa-Francorchamps.<br />The recent",
+      "summary_en": "Max Verstappen has ruled out competing at the Le Mans 24 Hours in 2027, but the four-time Formula 1 world champion is eyeing the 24-hour races at the Nurburgring and Spa-Francorchamps.<br />The recent"
+    },
+    {
+      "id": "e0e5b63f03b9",
+      "title": "Formule 1 : pourquoi le Grand Prix d'Azerbaïdjan aura-t-il lieu un samedi ? - europe1.fr",
+      "title_fr": "Formule 1 : pourquoi le Grand Prix d'Azerbaïdjan aura-t-il lieu un samedi ? - europe1.fr",
+      "title_en": "Formule 1 : pourquoi le Grand Prix d'Azerbaïdjan aura-t-il lieu un samedi ? - europe1.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTRyTGNfeHlWMm04VVk3YUxCN1ZfQWZJZUJlSVl1Q3ZWWV9aQXAtY2xCYl9GRW10ZjRRQW10blN6bFRHUmVEdEs3c3NvNUVCZmZacld3bmt0Zk1PSko1X3ZwZlhGZFFIQjhsdGFzSmRoRlFlOGZJeGtWdEJxeEdKMDZqMGpVUUZSOWg4dFFYcV9nU013cDAtZnhWT1BUN2c3Wmh1MFd2UGVWbjDSAbABQVVfeXFMUGpGenoxNGdFeXlZV3A4ejhkeHJJUTBpY1Q3b09OaGFZb2xlWWNTODNzODMzVDluSDlQRFVjYlFCSGVib1U4THl5YjJyWWNmRjRvaXpzYkctSmVQNzNGTzVabkFWQm5LYXhnWEVqRklKVExkcE00N1ZIb1ZheUZQSkxwR2xiZTREbGtnQzhuQ3NKZHVFUmFpNEpral9lYlo3R18yR0x5V2xCTzR1NGhJNHY?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T12:54:57+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTRyTGNfeHlWMm04VVk3YUxCN1ZfQWZJZUJlSVl1Q3ZWWV9aQXAtY2xCYl9GRW10ZjRRQW10blN6bFRHUmVEdEs3c3NvNUVCZmZacld3bmt0Zk1PSko1X3ZwZlhGZFFIQjhsdGFzSm",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTRyTGNfeHlWMm04VVk3YUxCN1ZfQWZJZUJlSVl1Q3ZWWV9aQXAtY2xCYl9GRW10ZjRRQW10blN6bFRHUmVEdEs3c3NvNUVCZmZacld3bmt0Zk1PSko1X3ZwZlhGZFFIQjhsdGFzSm"
+    },
+    {
+      "id": "6fa75ab2cabf",
+      "title": "What’s behind the delay in cancelling the Qatar and Abu Dhabi GPs?",
+      "title_fr": "What’s behind the delay in cancelling the Qatar and Abu Dhabi GPs?",
+      "title_en": "What’s behind the delay in cancelling the Qatar and Abu Dhabi GPs?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/whats-behind-the-delay-in-cancelling-the-qatar-and-abu-dhabi-gps/10858217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2Qe8m832/s6/f1-cars-lined-up-at-the-start-.jpg",
+      "published_at": "2026-09-23T12:39:09+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Given the ongoing conflict in the Middle East, for several months now it’s been assumed that the cancellation of the season-closing Qatar and Abu Dhabi Grands Prix is not just likely, but inevitable.<",
+      "summary_en": "Given the ongoing conflict in the Middle East, for several months now it’s been assumed that the cancellation of the season-closing Qatar and Abu Dhabi Grands Prix is not just likely, but inevitable.<"
+    },
+    {
+      "id": "b3af1ba8c762",
+      "title": "What’s behind the delay in cancelling the Qatar and Abu Dhabi GPs?",
+      "title_fr": "What’s behind the delay in cancelling the Qatar and Abu Dhabi GPs?",
+      "title_en": "What’s behind the delay in cancelling the Qatar and Abu Dhabi GPs?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/whats-behind-the-delay-in-cancelling-the-qatar-and-abu-dhabi-gps/10858214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2Qe8m832/s6/f1-cars-lined-up-at-the-start-.jpg",
+      "published_at": "2026-09-23T12:38:15+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Given the ongoing conflict in the Middle East, for several months now it’s been assumed that the cancellation of the season-closing Qatar and Abu Dhabi Grands Prix is not just likely, but inevitable.<",
+      "summary_en": "Given the ongoing conflict in the Middle East, for several months now it’s been assumed that the cancellation of the season-closing Qatar and Abu Dhabi Grands Prix is not just likely, but inevitable.<"
+    },
+    {
+      "id": "d613268087f8",
+      "title": "Grand Prix F1 d'Azerbaïdjan 2026 : programme TV complet et horaires - Les Numériques",
+      "title_fr": "Grand Prix F1 d'Azerbaïdjan 2026 : programme TV complet et horaires - Les Numériques",
+      "title_en": "Grand Prix F1 d'Azerbaïdjan 2026 : programme TV complet et horaires - Les Numériques",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3pKemRHQ09sTnQ5QlNqb2pDRnR3RkxFMUZQSUNXVFRHelVYMU1hUDRtUUp4M1d0Q2Y1S0ZVamxMTFQwSnBYY0phQzU3a3BKQmtBcEdNdFZRVFp3R05iakZmWXZmZUV1ampMYkJkRUZFVlpYTE9uRTJ0LVJZdFlYNUh6WHhxVkxEYWpyZzFIbzZSQXVZSUR4Y281OGtqMXRWWHR4QUhXRDU1TXRtWXQ1WUhUVVhEVFVaSm9RcFVSdi1ScFN0?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T12:15:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3pKemRHQ09sTnQ5QlNqb2pDRnR3RkxFMUZQSUNXVFRHelVYMU1hUDRtUUp4M1d0Q2Y1S0ZVamxMTFQwSnBYY0phQzU3a3BKQmtBcEdNdFZRVFp3R05iakZmWXZmZUV1ampMYkJkRU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQX3pKemRHQ09sTnQ5QlNqb2pDRnR3RkxFMUZQSUNXVFRHelVYMU1hUDRtUUp4M1d0Q2Y1S0ZVamxMTFQwSnBYY0phQzU3a3BKQmtBcEdNdFZRVFp3R05iakZmWXZmZUV1ampMYkJkRU"
+    },
+    {
+      "id": "2fd99fa8d4e0",
+      "title": "How to follow Azerbaijan Grand Prix on the BBC",
+      "title_fr": "How to follow Azerbaijan Grand Prix on the BBC",
+      "title_en": "How to follow Azerbaijan Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/195f5150-af8e-11f1-913a-7151f234deb3.jpg",
+      "published_at": "2026-09-23T12:09:26+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September.",
+      "summary_en": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September."
+    },
     {
       "id": "72271021087e",
       "title": "Antonelli has “perfect driving style” for 2026 cars – Russell | Formula 1",
@@ -307,6 +573,25 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0lxWGNOM1NfOXRxMGtHZXY3ZFk1QWpGZVJneWhFOUg0cHBKSWNaQ1dDZGhQX1d4WnVyMmxqX1d3RFhmWmxlZzZjR0hRd0VPbTlfS05BTGNJNFR0SlN1ZVNBRExNOXZiSE9Yem1HbW"
     },
     {
+      "id": "73e2fff31247",
+      "title": "Formule 1 : le Grand Prix des Légendes, un nouveau rendez-vous au circuit Paul-Ricard - La Provence",
+      "title_fr": "Formule 1 : le Grand Prix des Légendes, un nouveau rendez-vous au circuit Paul-Ricard - La Provence",
+      "title_en": "Formule 1 : le Grand Prix des Légendes, un nouveau rendez-vous au circuit Paul-Ricard - La Provence",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEwxemY2Y3hMeGpseHNTMW93cVN6ZVdqa01obXdBR2VrLVl2SHVmSWhBSnR4MkJwOHhZa3AxQ3NIOC1VdHRfMTVkRlM3dllmYVpvb09rMHBOZGhkNWJaS2VHWE4ybUxfUy11bi1PejFBZDVkWUV6dUpsZ1l6YUZSTFBRV3haMElqLU9fYW9tQzJoN3ptS182Q0xMMm93RVV0WTBBei1HLVhTMGxUdU1iZjlRTk9ENHZhbzM2ZDNSRWtaTW9LM2tQM2JLc0h2N3NTSXNmeXF3?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T09:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEwxemY2Y3hMeGpseHNTMW93cVN6ZVdqa01obXdBR2VrLVl2SHVmSWhBSnR4MkJwOHhZa3AxQ3NIOC1VdHRfMTVkRlM3dllmYVpvb09rMHBOZGhkNWJaS2VHWE4ybUxfUy11bi1Pej",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZEwxemY2Y3hMeGpseHNTMW93cVN6ZVdqa01obXdBR2VrLVl2SHVmSWhBSnR4MkJwOHhZa3AxQ3NIOC1VdHRfMTVkRlM3dllmYVpvb09rMHBOZGhkNWJaS2VHWE4ybUxfUy11bi1Pej"
+    },
+    {
       "id": "919aebce2fbc",
       "title": "“Money fears” delay F1’s decision on whether Middle East races will happen – report | Formula 1",
       "title_fr": "“Money fears” delay F1’s decision on whether Middle East races will happen – report | Formula 1",
@@ -402,6 +687,25 @@
       "summary_en": "Red Bull has confirmed it will field an unchanged Formula 1 driver line-up in 2027, with Isack Hadjar staying put alongside Max Verstappen.<br />Hadjar stepped up in 2026 after a rookie season at sist"
     },
     {
+      "id": "9bdf9cca1ee2",
+      "title": "Isack Hadjar reste chez Red Bull : prolongation de contrat en Formule 1 pour le pilote français - Dicodusport",
+      "title_fr": "Isack Hadjar reste chez Red Bull : prolongation de contrat en Formule 1 pour le pilote français - Dicodusport",
+      "title_en": "Isack Hadjar reste chez Red Bull : prolongation de contrat en Formule 1 pour le pilote français - Dicodusport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU25kNmZrSm1Kajg4YnBqZzBPNTdacjNFdnotNkFCZ21YQkZ3dTJKYzY1aFpYVFV4c2RtMmpvd1JvZFpxYm1YU1ZDOTRNS2hpM0ExU2czLWZxRkFCLUF0dkhmeFo5eFNjVG9tOTN6dDYyNWctTjNMemhlUDNHRTFjV1Y2SHpQdjRKblBlaV9tWXNCNVhSVDk2ZktKa2c4YWU0cmo1b0d0SHJnV0hDTzdBRnJwZDFJX3loUjNMZFVtVQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T07:25:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPU25kNmZrSm1Kajg4YnBqZzBPNTdacjNFdnotNkFCZ21YQkZ3dTJKYzY1aFpYVFV4c2RtMmpvd1JvZFpxYm1YU1ZDOTRNS2hpM0ExU2czLWZxRkFCLUF0dkhmeFo5eFNjVG9tOTN6dD",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPU25kNmZrSm1Kajg4YnBqZzBPNTdacjNFdnotNkFCZ21YQkZ3dTJKYzY1aFpYVFV4c2RtMmpvd1JvZFpxYm1YU1ZDOTRNS2hpM0ExU2czLWZxRkFCLUF0dkhmeFo5eFNjVG9tOTN6dD"
+    },
+    {
       "id": "4c69b1e21745",
       "title": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
       "title_fr": "Featured Comment: Is F1 right to shorten grands prix to suit its new rules? | Brief",
@@ -440,14 +744,14 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUktUVZkVlJiTnBERFR2MW1JWjRGNDJCa05Vc3pfWW0xRXBuSkpZLVFMbkw1bjF1b3pyR2szaUFRZ0tQeldkZV9LTFExdlBlRlRVNmIweHE0Wm16ZjlHb0lQajRLQThFbGttdm1tRH"
     },
     {
-      "id": "c5a44a8445cc",
-      "title": "F1. Course le samedi, enjeux, favoris, programme TV… Tout savoir sur le Grand Prix d’Azerbaïdjan - Ouest-France",
-      "title_fr": "F1. Course le samedi, enjeux, favoris, programme TV… Tout savoir sur le Grand Prix d’Azerbaïdjan - Ouest-France",
-      "title_en": "F1. Course le samedi, enjeux, favoris, programme TV… Tout savoir sur le Grand Prix d’Azerbaïdjan - Ouest-France",
+      "id": "289fb421891f",
+      "title": "Le marché des transferts F1 s’enlise, quatre pilotes toujours dans le flou - Nextgen-Auto.com",
+      "title_fr": "Le marché des transferts F1 s’enlise, quatre pilotes toujours dans le flou - Nextgen-Auto.com",
+      "title_en": "Le marché des transferts F1 s’enlise, quatre pilotes toujours dans le flou - Nextgen-Auto.com",
       "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZDljMUNVYkptYU1OUEZ4cExpbGxSNHhRRjlhX1pMdlpwLTAyVHhqSWhfVVN2cWR6UDIxNVBuLXliUkxHVEIxT2h0Wk9OVUhfdzNEcXhYc000QnFLSWd5cVpMUlJHNlVQUWpXR3A2R0p5WXRFYlhrZ09Gb25yUmtOVExPd25ZcC0tWmRkZll6NjRQUUJHeEdVa1h5X1ZyaUlSeDVMdHdHZXA4YTlWS25JREcwVWVsaVZQaWFCUHZsM1lkZmJaV2VyNm9KZEVuM2l3dVVoZlc2WW5saTZBN0JUeVFpa1cxUW8xQkdpMUNuMVZvSE9UMTZXa3E4LWtEUUw0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEhUaXpvS05MeVM1Y0ttaVcyN1pwa3RSbzZfUUpJcTlRQXhzYmlPQzlqY2ZwckcxVlZLSzl4MG1BaUlWQzlhS2lWTWhocFY4YWNFMnVzSXFiUmYxMl9vMHRzSDFIdFZZWGRaZVVmQk1rdXExb3hYLWw5Ym9Fdi15Q1d2UWczRjJhc3daM3NwZ1hnY29CNWV6Y2F0eTEwbnpXal9OblYtbWpPbW9lc1Nnd21WWWtCRmtQblVrVHVGVVNiU016WWdiLWRyX29BNzA?oc=5",
       "image_url": null,
-      "published_at": "2026-09-23T05:00:54+00:00",
+      "published_at": "2026-09-23T05:13:00+00:00",
       "race_id": null,
       "category": "rumeur",
       "tags": [
@@ -455,312 +759,8 @@
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOZDljMUNVYkptYU1OUEZ4cExpbGxSNHhRRjlhX1pMdlpwLTAyVHhqSWhfVVN2cWR6UDIxNVBuLXliUkxHVEIxT2h0Wk9OVUhfdzNEcXhYc000QnFLSWd5cVpMUlJHNlVQUWpXR3A2R0",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOZDljMUNVYkptYU1OUEZ4cExpbGxSNHhRRjlhX1pMdlpwLTAyVHhqSWhfVVN2cWR6UDIxNVBuLXliUkxHVEIxT2h0Wk9OVUhfdzNEcXhYc000QnFLSWd5cVpMUlJHNlVQUWpXR3A2R0"
-    },
-    {
-      "id": "8327b78eb5cd",
-      "title": "On This Day: Moss scores only victory for a four-wheel-drive Formula 1 car | Brief",
-      "title_fr": "On This Day: Moss scores only victory for a four-wheel-drive Formula 1 car | Brief",
-      "title_en": "On This Day: Moss scores only victory for a four-wheel-drive Formula 1 car | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/23/on-this-day-moss-scores-only-victory-for-a-four-wheel-drive-formula-1-car/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2020/04/racefansdotnet-20200415-114234-1.jpg",
-      "published_at": "2026-09-22T23:01:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Stirling Moss scored this only win for a four-wheel-drive F1 car",
-      "summary_en": "Stirling Moss scored this only win for a four-wheel-drive F1 car"
-    },
-    {
-      "id": "e0ed8eb76822",
-      "title": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
-      "title_fr": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
-      "title_en": "Spotlight: Duerksen completes first Formula 1 test for Mercedes in Portugal | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/22/spotlight-duerksen-completes-first-formula-1-test-for-mercedes-in-portugal/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/08/racefansdotnet-21-09-22-18-44-42-3.jpg",
-      "published_at": "2026-09-22T17:53:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Joshua Duerksen spent two days testing for Mercedes in Portugal",
-      "summary_en": "Joshua Duerksen spent two days testing for Mercedes in Portugal"
-    },
-    {
-      "id": "c84dac7360b5",
-      "title": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
-      "title_fr": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
-      "title_en": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9EQnLY/s6/start-action.jpg",
-      "published_at": "2026-09-22T16:00:18+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Monaco, where the minimu",
-      "summary_en": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Monaco, where the minimu"
-    },
-    {
-      "id": "eb51beb517f5",
-      "title": "Formule 1 : Pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi ? - CANAL+",
-      "title_fr": "Formule 1 : Pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi ? - CANAL+",
-      "title_en": "Formule 1 : Pourquoi le Grand Prix d'Azerbaïdjan aura lieu samedi ? - CANAL+",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU12ZlhuWXZ2S2stY2ZUalQzMlU2TDhNU191bDZjbFZlMVc1cWxzRFkzSEFZWER1RmdsM2dQQTl5bUkydXF2WnJpNzJ0cFlCUDZQUzVyckJrZ3pZU1lSTENxR3J0SmVYaHc5RF9fakMxdmI1VFd2dkJNQkNDRzZzYmhrOXBWY2JLaVdFSEQ4MS1ZVWwtYmJzbVZPYkxwalZIZEdBUnVPdXU?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T15:57:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU12ZlhuWXZ2S2stY2ZUalQzMlU2TDhNU191bDZjbFZlMVc1cWxzRFkzSEFZWER1RmdsM2dQQTl5bUkydXF2WnJpNzJ0cFlCUDZQUzVyckJrZ3pZU1lSTENxR3J0SmVYaHc5RF9fak",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU12ZlhuWXZ2S2stY2ZUalQzMlU2TDhNU191bDZjbFZlMVc1cWxzRFkzSEFZWER1RmdsM2dQQTl5bUkydXF2WnJpNzJ0cFlCUDZQUzVyckJrZ3pZU1lSTENxR3J0SmVYaHc5RF9fak"
-    },
-    {
-      "id": "0050d922f1e0",
-      "title": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
-      "title_fr": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
-      "title_en": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-were-leclercs-other-opportunities-before-signing-new-ferrari-deal/10857955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QLve6/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-09-22T15:30:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Every time Ferrari and Charles Leclerc agree to extend their relationship, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true love.<br />\"For",
-      "summary_en": "Every time Ferrari and Charles Leclerc agree to extend their relationship, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true love.<br />\"For"
-    },
-    {
-      "id": "efb019276a52",
-      "title": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
-      "title_fr": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
-      "title_en": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/what-were-leclercs-f1-options-before-ferrari-deal/10857989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAVob0/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-09-22T15:30:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Every time Ferrari and Charles Leclerc agree to extend their relationship in Formula 1, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true lo",
-      "summary_en": "Every time Ferrari and Charles Leclerc agree to extend their relationship in Formula 1, the news comes against a background of allusions to other suitors Charles has spurned to remain with his true lo"
-    },
-    {
-      "id": "16fa747853c5",
-      "title": "Five things to look out for at the F1 Azerbaijan GP",
-      "title_fr": "Five things to look out for at the F1 Azerbaijan GP",
-      "title_en": "Five things to look out for at the F1 Azerbaijan GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-azerbaijan-gp/10857961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Yv87Xr70/s6/drivers-take-the-start-of-the-.jpg",
-      "published_at": "2026-09-22T14:49:50+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 returns to familiar ground this weekend as Azerbaijan celebrates its 10th anniversary of being on the calendar.<br />The Baku street circuit first entered as the European Grand Prix in 2016 ",
-      "summary_en": "Formula 1 returns to familiar ground this weekend as Azerbaijan celebrates its 10th anniversary of being on the calendar.<br />The Baku street circuit first entered as the European Grand Prix in 2016 "
-    },
-    {
-      "id": "60c1dbf11f61",
-      "title": "Le GRAND PRIX D'ESPAGNE FORMULE 1 LENOVO 2027 se tiendra officiellement à nouveau à Madrid : voici comment obtenir des billets pour assister à la course de F1® dans la capitale espagnole l'année prochaine - Secret London",
-      "title_fr": "Le GRAND PRIX D'ESPAGNE FORMULE 1 LENOVO 2027 se tiendra officiellement à nouveau à Madrid : voici comment obtenir des billets pour assister à la course de F1® dans la capitale espagnole l'année prochaine - Secret London",
-      "title_en": "Le GRAND PRIX D'ESPAGNE FORMULE 1 LENOVO 2027 se tiendra officiellement à nouveau à Madrid : voici comment obtenir des billets pour assister à la course de F1® dans la capitale espagnole l'année prochaine - Secret London",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NclNxNjRPWWl0MkNFVFpkWmJFNWZXMkVhNXVIR3p3VE5tTHFsUUJXNDZuSGdqVHZIOEw0QU53WUI4YkFJNXo3Xy1Yd2RaQ2ktd2xoR05oQXI0Rl9EMElWV2RrREpnVkdXVDV2SWRMYks2QVRZN1E?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T13:15:19+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1NclNxNjRPWWl0MkNFVFpkWmJFNWZXMkVhNXVIR3p3VE5tTHFsUUJXNDZuSGdqVHZIOEw0QU53WUI4YkFJNXo3Xy1Yd2RaQ2ktd2xoR05oQXI0Rl9EMElWV2RrREpnVkdXVDV2SWRMYk",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1NclNxNjRPWWl0MkNFVFpkWmJFNWZXMkVhNXVIR3p3VE5tTHFsUUJXNDZuSGdqVHZIOEw0QU53WUI4YkFJNXo3Xy1Yd2RaQ2ktd2xoR05oQXI0Rl9EMElWV2RrREpnVkdXVDV2SWRMYk"
-    },
-    {
-      "id": "245be554f95d",
-      "title": "Officiel : les Grands Prix F1 vont changer de format en 2027 ! - Sport Auto",
-      "title_fr": "Officiel : les Grands Prix F1 vont changer de format en 2027 ! - Sport Auto",
-      "title_en": "Officiel : les Grands Prix F1 vont changer de format en 2027 ! - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTZKM2p4cGtUMk1YTUpmakk2NDZjRFZYRm0yUnlMQlVva2RDb29hbTRGS3c5ZFR6YXpwS00wMnBVUnVrczlzM0FTT3dMbDJObFQ2bWk0UzVXNjl5WUJQcE15emdmUVQtX0VkTzBwWWZxb3J4RXMyTE5tLTY3UWUzWC1lZnBoeDNyX1RGNXRTYW1LS1VPYTl6NmdNZVdEQkRBZ0lRbmhwSWFZUC1yQmVWV3c1NkVfelFsMzZV?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T13:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTZKM2p4cGtUMk1YTUpmakk2NDZjRFZYRm0yUnlMQlVva2RDb29hbTRGS3c5ZFR6YXpwS00wMnBVUnVrczlzM0FTT3dMbDJObFQ2bWk0UzVXNjl5WUJQcE15emdmUVQtX0VkTzBwWW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTZKM2p4cGtUMk1YTUpmakk2NDZjRFZYRm0yUnlMQlVva2RDb29hbTRGS3c5ZFR6YXpwS00wMnBVUnVrczlzM0FTT3dMbDJObFQ2bWk0UzVXNjl5WUJQcE15emdmUVQtX0VkTzBwWW"
-    },
-    {
-      "id": "2e1e6dda0740",
-      "title": "La F1 raccourcit ses Grands Prix : 15 kilomètres de moins dès 2027 - Pole-Position Magazine",
-      "title_fr": "La F1 raccourcit ses Grands Prix : 15 kilomètres de moins dès 2027 - Pole-Position Magazine",
-      "title_en": "La F1 raccourcit ses Grands Prix : 15 kilomètres de moins dès 2027 - Pole-Position Magazine",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlNFcHlWT01wM3JzY1VuNzg2aHc0ZlR6cHR1VVNUWjQxVWJtbW9ITUR6d0M2WTd5NUdsYTdtSDdVWEYxdnphdEZYTlVmSDQ1cDVwOTgxTTRRSmFpV2VNV250U0xfZThUWWRyR2RJNnJscWU4aVJDY0ZyRjVuM1NMeWJRMHZBa0x2cnJNeDE0YzYwbEtrZERab1FWMFRkbFE4SWNaaHdJb3Y1cGROX0Nud0JZTlM?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T12:56:37+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlNFcHlWT01wM3JzY1VuNzg2aHc0ZlR6cHR1VVNUWjQxVWJtbW9ITUR6d0M2WTd5NUdsYTdtSDdVWEYxdnphdEZYTlVmSDQ1cDVwOTgxTTRRSmFpV2VNV250U0xfZThUWWRyR2RJNn",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlNFcHlWT01wM3JzY1VuNzg2aHc0ZlR6cHR1VVNUWjQxVWJtbW9ITUR6d0M2WTd5NUdsYTdtSDdVWEYxdnphdEZYTlVmSDQ1cDVwOTgxTTRRSmFpV2VNV250U0xfZThUWWRyR2RJNn"
-    },
-    {
-      "id": "aeabf4af82c8",
-      "title": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - fr.motorsport.com",
-      "title_fr": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - fr.motorsport.com",
-      "title_en": "Pourquoi le Grand Prix d'Azerbaïdjan a lieu un samedi - fr.motorsport.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm4ySDJ5VXlWVU16SDVGaTYyeTl2S3RUTzl3dE4wdlFSUzVWb2s?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T10:55:38+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlFCM1l0dVk3YkN1Z19DRldlbUoxMndhUEhMbXBvdmVMTW9KcU1STUd1a3ltVXR2ZjRHYWZCSWh5cExTTnNyNkl3bkJyLXJYRFB6aEhaaGp3QjYyTEtuUUtqMDhsRE9iM2xhQUx2cm"
-    },
-    {
-      "id": "165a6fa265a3",
-      "title": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
-      "title_fr": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
-      "title_en": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONlVfSl95ejl5MjYxcTNQcy1nS293bmd6Q3FZM1FnVjJHOHpzemFtR2Y3N3hRd29aTll2ODUtOXdHSFJqZw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T10:13:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONl",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1B3VGptVVo4ZVFlZms2TTR3UHBCV0ExTFN3SDFOWDMwQmNRT3gxLU5UZF9KZTVhMVNCT0l6ZHBXYTgwVEk2VUpmSHNCd1F5R1V6cllsTzJybExMR2tYV1RyN2xndThVUnA2VENONl"
-    },
-    {
-      "id": "9c918764f502",
-      "title": "Auto. F1 : le Français Isack Hadjar va faire son retour au GP d'Azerbaïdjan - Le Dauphiné Libéré",
-      "title_fr": "Auto. F1 : le Français Isack Hadjar va faire son retour au GP d'Azerbaïdjan - Le Dauphiné Libéré",
-      "title_en": "Auto. F1 : le Français Isack Hadjar va faire son retour au GP d'Azerbaïdjan - Le Dauphiné Libéré",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFdnWEJMZVozZWJlSVBCWDhPR3l2MmpkN0c5emdxeml5M25lcGZXMVBMMWEtYUF6LU1pRTRyM1hFa3pTSkU3b1VETUplNDFMOFBhbldndGZyU0l1QzFOSWdQcV9XUkJfZUtsdnNDR3Fuc1RCWXRnVkpFUFpzR0F1OHRESUlOLW50YnJDQW9NOG5rV29tY0VZekgxc2dncGNRTDZ1VXNmV2ttVnhiYXVaag?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T10:04:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFdnWEJMZVozZWJlSVBCWDhPR3l2MmpkN0c5emdxeml5M25lcGZXMVBMMWEtYUF6LU1pRTRyM1hFa3pTSkU3b1VETUplNDFMOFBhbldndGZyU0l1QzFOSWdQcV9XUkJfZUtsdnNDR3",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFdnWEJMZVozZWJlSVBCWDhPR3l2MmpkN0c5emdxeml5M25lcGZXMVBMMWEtYUF6LU1pRTRyM1hFa3pTSkU3b1VETUplNDFMOFBhbldndGZyU0l1QzFOSWdQcV9XUkJfZUtsdnNDR3"
-    },
-    {
-      "id": "8b60b41ca603",
-      "title": "F1. Le Français Isack Hadjar de retour au Grand Prix d’Azerbaïdjan - Ouest-France",
-      "title_fr": "F1. Le Français Isack Hadjar de retour au Grand Prix d’Azerbaïdjan - Ouest-France",
-      "title_en": "F1. Le Français Isack Hadjar de retour au Grand Prix d’Azerbaïdjan - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFFrdThsRmR2a2YxSk1NMkhxN2gyUmFyZkFVYTVrQTBMZGcwUVBRNkQxbWJYdWxGYlYtODJOV0p4d1dzdWt1SHNOa2FlQ0JXbmVLTmVNV1RPTFZDZnVEZEtrYXd3Y1hTeWFkbC1qUy1KZ0NHSDNjMUVNdG1NdFVMbFhsMFVhNy14TTBmVTN2T2ZYazFsb3czVGN2b0JFTWVXZ0hrQjRhZElXWko3U3pVVzV2NVlhQVpMMk5JcnIyQzdxSEZFVEJuZ2E1d1RReUJid2pNNER4ZkM5ekljSUdIanhtbEFnYTFLZ01iOVlRdw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T08:56:42+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFFrdThsRmR2a2YxSk1NMkhxN2gyUmFyZkFVYTVrQTBMZGcwUVBRNkQxbWJYdWxGYlYtODJOV0p4d1dzdWt1SHNOa2FlQ0JXbmVLTmVNV1RPTFZDZnVEZEtrYXd3Y1hTeWFkbC1qUy",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMFFrdThsRmR2a2YxSk1NMkhxN2gyUmFyZkFVYTVrQTBMZGcwUVBRNkQxbWJYdWxGYlYtODJOV0p4d1dzdWt1SHNOa2FlQ0JXbmVLTmVNV1RPTFZDZnVEZEtrYXd3Y1hTeWFkbC1qUy"
-    },
-    {
-      "id": "cae2e8979f50",
-      "title": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
-      "title_fr": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
-      "title_en": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwkgx8vkd572o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d95/live/64a7af70-b661-11f1-b785-7d19738c6de2.jpg",
-      "published_at": "2026-09-22T08:46:54+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull driver Isack Hadjar will return at this week's Azerbaijan Grand Prix after missing the past three races with a wrist injury.",
-      "summary_en": "Red Bull driver Isack Hadjar will return at this week's Azerbaijan Grand Prix after missing the past three races with a wrist injury."
-    },
-    {
-      "id": "0fb3b9ce8cdf",
-      "title": "F1 : le pilote français Isack Hadjar, remis de sa blessure au poignet, prendra part au GP d'Azerbaïdjan après trois forfaits - franceinfo",
-      "title_fr": "F1 : le pilote français Isack Hadjar, remis de sa blessure au poignet, prendra part au GP d'Azerbaïdjan après trois forfaits - franceinfo",
-      "title_en": "F1 : le pilote français Isack Hadjar, remis de sa blessure au poignet, prendra part au GP d'Azerbaïdjan après trois forfaits - franceinfo",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWjlrS1V1dTdONXdyNk1WeG55TUwxQUNBTV9oZHZ5Q0J6NnBXVm5lU0RKWnpFVlFhanhCcFIzcGl4ZDdtYmNPdmVocDgyZXQ1bjRFeDh4Mk1vb2doSmo2Q2RmWDU4MGNCSFpXY2kzaU9Gbk9PVF81ZDd0ZmJRNVhhd095cnNIVW9POER5VTZ6dW56eW8tRVpKcWxWOXJMLTBMLVB4ZHF4RGk3MkhLSmg?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-22T08:42:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWj",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxNX2dkQVNEQmJvelk5czRDZ3pyRm9HVExKYjFQVUZVX2ZDRTNWaUFCc3BHVVg0MlR6Rnl4TEN5MXVSOTMxVnU4QUNZVGd5ekppZlpQRTk2dU9jV19fZmpsTHF4cTZ2ME04TnZ5VnNuWj"
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEhUaXpvS05MeVM1Y0ttaVcyN1pwa3RSbzZfUUpJcTlRQXhzYmlPQzlqY2ZwckcxVlZLSzl4MG1BaUlWQzlhS2lWTWhocFY4YWNFMnVzSXFiUmYxMl9vMHRzSDFIdFZZWGRaZVVmQk",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcEhUaXpvS05MeVM1Y0ttaVcyN1pwa3RSbzZfUUpJcTlRQXhzYmlPQzlqY2ZwckcxVlZLSzl4MG1BaUlWQzlhS2lWTWhocFY4YWNFMnVzSXFiUmYxMl9vMHRzSDFIdFZZWGRaZVVmQk"
     }
   ]
 }
