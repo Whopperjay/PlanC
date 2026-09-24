@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-23T21:20:09Z",
+  "last_updated": "2026-09-24T00:22:52Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "b01bd58ee16d",
+      "title": "Grand Prix d'Azerbaïdjan 2026 | Pourquoi la course aura lieu samedi, et non dimanche - Eurosport",
+      "title_fr": "Grand Prix d'Azerbaïdjan 2026 | Pourquoi la course aura lieu samedi, et non dimanche - Eurosport",
+      "title_en": "Grand Prix d'Azerbaïdjan 2026 | Pourquoi la course aura lieu samedi, et non dimanche - Eurosport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVdjTVFWYWZHOTBsTFVRT3lqS1lUZDdVQXJnWUV6aGZvanBqR1RFSXlENjdSQ2Rya19URHF2UWlLdnM5X3c1LW9UMlNQRmE0ZHMwOXRQcHpESzcxNlJtbm9XeVdiMlk5NTF1dDl1aVdKMHRldWVHRFZ6bU1XdEU0SGxuQlZyVUVyUjI2ZGc2bGJDbTUxTUUzb18wWW9UZXBDSjh5NmdDVDdHV3B2QkUtWTdfMll3R0NmR2JFcWl4XzhvT3d2bHBEQkQ0ZmptMjhjZDBtbUNveXJSU0l3QWlsWWRlYUpsemhaNUFya3FXS0thdks4UGJzXzJPRGdlQQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T21:48:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVdjTVFWYWZHOTBsTFVRT3lqS1lUZDdVQXJnWUV6aGZvanBqR1RFSXlENjdSQ2Rya19URHF2UWlLdnM5X3c1LW9UMlNQRmE0ZHMwOXRQcHpESzcxNlJtbm9XeVdiMlk5NTF1dDl1aV",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUVdjTVFWYWZHOTBsTFVRT3lqS1lUZDdVQXJnWUV6aGZvanBqR1RFSXlENjdSQ2Rya19URHF2UWlLdnM5X3c1LW9UMlNQRmE0ZHMwOXRQcHpESzcxNlJtbm9XeVdiMlk5NTF1dDl1aV"
+    },
+    {
+      "id": "d23a69154e08",
+      "title": "F1 : Verstappen 'probablement' aux 24h de Spa et du Nürburgring en 2027, mais pas au Mans - rtbf.be",
+      "title_fr": "F1 : Verstappen 'probablement' aux 24h de Spa et du Nürburgring en 2027, mais pas au Mans - rtbf.be",
+      "title_en": "F1 : Verstappen 'probablement' aux 24h de Spa et du Nürburgring en 2027, mais pas au Mans - rtbf.be",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzBFLWt6eGdTbWM2RWRpSnVDXzk3S0ZmT2p2a1VNWThIMUJVWmJQOENuYmNWd1d5a0tkMjJlNFhnSExJTjZyWEd4N1A2RUozc2c2Wm9qLWl1ZVhTenRtWEl4RnFrVHFzbGtibGRlZ3ZlOGxpN0FiNHZvZ1NKNXRycUFVRVUyenhyRWI0UFNoQkhzeXVFemoteVNrWXkxVDVPMTl3M0F1SXlSWHNBWkpoWl9pU1lseHhJdjM0RGhn?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-23T17:32:17+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzBFLWt6eGdTbWM2RWRpSnVDXzk3S0ZmT2p2a1VNWThIMUJVWmJQOENuYmNWd1d5a0tkMjJlNFhnSExJTjZyWEd4N1A2RUozc2c2Wm9qLWl1ZVhTenRtWEl4RnFrVHFzbGtibGRlZ3",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzBFLWt6eGdTbWM2RWRpSnVDXzk3S0ZmT2p2a1VNWThIMUJVWmJQOENuYmNWd1d5a0tkMjJlNFhnSExJTjZyWEd4N1A2RUozc2c2Wm9qLWl1ZVhTenRtWEl4RnFrVHFzbGtibGRlZ3"
+    },
     {
       "id": "986403b51a64",
       "title": "F1 Azerbaijan GP: Thursday schedule, weather forecast and how to watch",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 has not yet confirmed whether the season-ending Qatar and Abu Dhabi grands prix can go ahead amid the war in Iran.",
       "summary_en": "Formula 1 has not yet confirmed whether the season-ending Qatar and Abu Dhabi grands prix can go ahead amid the war in Iran."
-    },
-    {
-      "id": "f788f552d5e8",
-      "title": "Red Bull retain Hadjar for 2027 season",
-      "title_fr": "Red Bull retain Hadjar for 2027 season",
-      "title_en": "Red Bull retain Hadjar for 2027 season",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0j53zz90o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6054/live/922c8bc0-b722-11f1-8d21-19ad84e0e822.jpg",
-      "published_at": "2026-09-23T07:55:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Frenchman Isack Hadjar is to stay at Red Bull as Max Verstappen's team-mate for the 2027 season.",
-      "summary_en": "Frenchman Isack Hadjar is to stay at Red Bull as Max Verstappen's team-mate for the 2027 season."
-    },
-    {
-      "id": "3c43b3014331",
-      "title": "Red Bull confirms Hadjar will remain as Verstappen’s team mate in 2027 | Formula 1",
-      "title_fr": "Red Bull confirms Hadjar will remain as Verstappen’s team mate in 2027 | Formula 1",
-      "title_en": "Red Bull confirms Hadjar will remain as Verstappen’s team mate in 2027 | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/23/red-bull-confirms-hadjar-will-remain-as-verstappens-team-mate-in-2027/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-12-05-30-34-1-SI202603120100.jpg",
-      "published_at": "2026-09-23T07:35:13+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull has given a vote of confidence to Isack Hadjar, handing him a new contract to drive for the team again next year.",
-      "summary_en": "Red Bull has given a vote of confidence to Isack Hadjar, handing him a new contract to drive for the team again next year."
     }
   ]
 }
