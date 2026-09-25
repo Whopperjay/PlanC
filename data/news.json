@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-09-25T19:28:31Z",
+  "last_updated": "2026-09-25T22:33:52Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "7e3f1c1db18b",
+      "title": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
+      "title_fr": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
+      "title_en": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-calls-out-williams-over-f1-infrastructure-complaints-crocodile-tears/10859062/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2GdKO7EY/s6/guenther-steiner.jpg",
+      "published_at": "2026-09-25T20:23:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has labelled Williams's complaints regarding capital expenditure limits \"crocodile tears\", questioning team boss James Vowles for continually movi",
+      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has labelled Williams's complaints regarding capital expenditure limits \"crocodile tears\", questioning team boss James Vowles for continually movi"
+    },
+    {
+      "id": "88e0e57a858a",
+      "title": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
+      "title_fr": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
+      "title_en": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/stefano-domenicali-reveals-bizarre-jimmy-fallon-prank-at-miami-gp-michelin-starred-dinner/10859056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZAMEj6/s6/jimmy-fallon.jpg",
+      "published_at": "2026-09-25T19:58:49+00:00",
+      "race_id": "miami",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 CEO Stefano Domenicali has detailed a bizarre off-track encounter with American television host Jimmy Fallon, who interrupted his business dinner at a Michelin-starred restaurant by sending ",
+      "summary_en": "Formula 1 CEO Stefano Domenicali has detailed a bizarre off-track encounter with American television host Jimmy Fallon, who interrupted his business dinner at a Michelin-starred restaurant by sending "
+    },
+    {
+      "id": "a231c97ceee9",
+      "title": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
+      "title_fr": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
+      "title_en": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-closing-in-on-1-billion-fans-as-stefano-domenicali-hails-female-audience-growth/10859054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YWKwnQOY/s6/stefano-domenicali-ceo-of-the-.jpg",
+      "published_at": "2026-09-25T19:31:31+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 CEO Stefano Domenicali says the championship is closing in on 1 billion global fans, driven by a younger audience, an increase in female viewership and more access to driver personalities.<b",
+      "summary_en": "Formula 1 CEO Stefano Domenicali says the championship is closing in on 1 billion global fans, driven by a younger audience, an increase in female viewership and more access to driver personalities.<b"
+    },
     {
       "id": "b6f853336c41",
       "title": "Williams’ long-awaited F1 upgrade is delivering in Baku – but was Q3 an “overachievement”?",
@@ -535,6 +592,25 @@
       "summary_en": "Andrea Kimi Antonelli was frustrated with himself after crashing out of qualifying for the Azerbaijan Grand Prix."
     },
     {
+      "id": "d9b513da649d",
+      "title": "F1. La grille de départ du Grand Prix d’Azerbaïdjan avec George Russell en pole position devant Charles Leclerc - ouest-france.fr",
+      "title_fr": "F1. La grille de départ du Grand Prix d’Azerbaïdjan avec George Russell en pole position devant Charles Leclerc - ouest-france.fr",
+      "title_en": "F1. La grille de départ du Grand Prix d’Azerbaïdjan avec George Russell en pole position devant Charles Leclerc - ouest-france.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZV9ZY0VNUlZhdm0xWDZwcF80Z2xBZHhIWmlDdDNRU3M5OGRRTW5keHFNX0dVOVlzNzdWb1VjRFgtYVdoYk9WT3lnTXgxbUFKOUZFMVR2MTEtWGRVMXZkWUprNFlZcWU0SWJKTURlUjBCbDdEb283U0VQUVhSNW1KcXBEeXFMSW9ZTEtCNzJSNzUxRWJuOFp6Z1dCQ2tEcm9kelRKZF9xaU9GenhITXFOOVhmVnFDY1VuTE8yV2xYWE1EU0c4QUtaSExfNWYyWVgxR1VUYU1tYkthNHItVEZwVjQxVUVjVHl6cVRTN094WkxaTGI0dV8tT3F6ZlY1T2lhd1ZRalZSem84UXFDZWxSeFBYTU9lMU1sMUE?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T13:28:43+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNZV9ZY0VNUlZhdm0xWDZwcF80Z2xBZHhIWmlDdDNRU3M5OGRRTW5keHFNX0dVOVlzNzdWb1VjRFgtYVdoYk9WT3lnTXgxbUFKOUZFMVR2MTEtWGRVMXZkWUprNFlZcWU0SWJKTURlUj",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNZV9ZY0VNUlZhdm0xWDZwcF80Z2xBZHhIWmlDdDNRU3M5OGRRTW5keHFNX0dVOVlzNzdWb1VjRFgtYVdoYk9WT3lnTXgxbUFKOUZFMVR2MTEtWGRVMXZkWUprNFlZcWU0SWJKTURlUj"
+    },
+    {
       "id": "de7afa967869",
       "title": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 2, Mercedes assomme déjà la concurrence, Top 10 pour Pierre Gasly, Isack Hadjar et Esteban Ocon - Turbo.fr",
       "title_fr": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 2, Mercedes assomme déjà la concurrence, Top 10 pour Pierre Gasly, Isack Hadjar et Esteban Ocon - Turbo.fr",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell has taken provisional pole position for the Azerbaijan Grand Prix for Mercedes ahead of Charles Leclerc and Oscar Piastri.",
       "summary_en": "George Russell has taken provisional pole position for the Azerbaijan Grand Prix for Mercedes ahead of Charles Leclerc and Oscar Piastri."
-    },
-    {
-      "id": "cdc1d4e2783d",
-      "title": "DIRECT. F1 - GP d'Azerbaïdjan: Antonelli dans le mur, suivez les qualifications à Bakou en live - RMC Sport",
-      "title_fr": "DIRECT. F1 - GP d'Azerbaïdjan: Antonelli dans le mur, suivez les qualifications à Bakou en live - RMC Sport",
-      "title_en": "DIRECT. F1 - GP d'Azerbaïdjan: Antonelli dans le mur, suivez les qualifications à Bakou en live - RMC Sport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdWVON0wwa0IwZ1QwdEhqMElDQW84LVNsTVp5cjNhcXdTNmpJQVJmd2JpMmZBOVljTGZuYU1qQ0tFUHZ1S041eXRpX3JOdGN3dndqdmNQR3QwbDNocTFFUXk1NWFxb3k1endfVExkemJRSQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-25T13:06:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdW",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdW"
-    },
-    {
-      "id": "baa3ddfa4110",
-      "title": "Formule 1. GP d’Azerbaïdjan : Kimi Antonelli touche le mur en qualifications et se retrouve en fond de grille - Ouest-France",
-      "title_fr": "Formule 1. GP d’Azerbaïdjan : Kimi Antonelli touche le mur en qualifications et se retrouve en fond de grille - Ouest-France",
-      "title_en": "Formule 1. GP d’Azerbaïdjan : Kimi Antonelli touche le mur en qualifications et se retrouve en fond de grille - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSnV0cWg4MHgtaDR1SkY5ZkNEMkJXMTRPbFhDVHhTZnhWc0MzNjg0QUx5YUt0ODlOMVY4VTdUekJZQ2pXYXFrTzhhdE5YdUNDa0lpcGdUdGRnMEJDeE5fUExueWFRZUhwUTBpSkF0UTlMdVRJRjkwd3ROUHBSYjlrVlBZaWNPMVRxVk1adVJvRGQ3QU40ZTAxVzBHaFN3UmFKNjJSaVlpNklzb3owNF9PQ0J2dy0xRzJQUGtTeDFlc1lxb2gyUEZjTUVYX0ctbnRHQWtZalU0MzBieFNBVFhES29EVmpuakhSbmQ4MHAxZ0ViVkhyS0xva2RLRkhDZEo3UzNTdk1kU21MSVZKMGdvSg?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-25T13:01:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQSnV0cWg4MHgtaDR1SkY5ZkNEMkJXMTRPbFhDVHhTZnhWc0MzNjg0QUx5YUt0ODlOMVY4VTdUekJZQ2pXYXFrTzhhdE5YdUNDa0lpcGdUdGRnMEJDeE5fUExueWFRZUhwUTBpSkF0UT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQSnV0cWg4MHgtaDR1SkY5ZkNEMkJXMTRPbFhDVHhTZnhWc0MzNjg0QUx5YUt0ODlOMVY4VTdUekJZQ2pXYXFrTzhhdE5YdUNDa0lpcGdUdGRnMEJDeE5fUExueWFRZUhwUTBpSkF0UT"
-    },
-    {
-      "id": "0a803f3c1e9c",
-      "title": "F1 - GP d'Azerbaïdjan 2026 : Russell signe une pole monstrueuse, Antonelli finit dans le mur ! - Sport Auto",
-      "title_fr": "F1 - GP d'Azerbaïdjan 2026 : Russell signe une pole monstrueuse, Antonelli finit dans le mur ! - Sport Auto",
-      "title_en": "F1 - GP d'Azerbaïdjan 2026 : Russell signe une pole monstrueuse, Antonelli finit dans le mur ! - Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS3YtdV9LZGc2di1kU0ktcnhrcl85bUNfNy1OYVd3MHBKc2cyand4aFR4a0NiaDVTMXJuQ2xmdnNpRm9PWWx6UjB5RHg2RmZxU1ZnZFhDZmgwRFFEbTNEZElPRUxDT3NNMDY1bE40TEIybExvYlZER2dvT3pTREREenJCVDdTU3RWNG55SkRRS3BHdUxSN2Fzaml5eTBzUEE2VWU4aVBKZldkdWdJakVHMGpIcFZqSDdsb08xSm9hNWVsTnpGYmw4MGNXQVhyOTNKQWNiaExDYW5wOFE2Y2c?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-25T13:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS3YtdV9LZGc2di1kU0ktcnhrcl85bUNfNy1OYVd3MHBKc2cyand4aFR4a0NiaDVTMXJuQ2xmdnNpRm9PWWx6UjB5RHg2RmZxU1ZnZFhDZmgwRFFEbTNEZElPRUxDT3NNMDY1bE40TE",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS3YtdV9LZGc2di1kU0ktcnhrcl85bUNfNy1OYVd3MHBKc2cyand4aFR4a0NiaDVTMXJuQ2xmdnNpRm9PWWx6UjB5RHg2RmZxU1ZnZFhDZmgwRFFEbTNEZElPRUxDT3NNMDY1bE40TE"
-    },
-    {
-      "id": "955526c8716a",
-      "title": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications ! - L'Automobile Magazine",
-      "title_fr": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications ! - L'Automobile Magazine",
-      "title_en": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications ! - L'Automobile Magazine",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZVNWbXFPRC1EVjBfZ1RGLWZoT0tjNDlJeVNHdTdaTEswZlBIMUp6UG1WazhMR3dMUHVnSS10NklVTER6dzhlMjVMc09QZm8zcVU?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-25T12:30:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZV"
     }
   ]
 }
