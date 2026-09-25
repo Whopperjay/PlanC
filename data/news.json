@@ -1,7 +1,178 @@
 {
-  "last_updated": "2026-09-25T10:11:57Z",
+  "last_updated": "2026-09-25T13:15:57Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "e75b100173aa",
+      "title": "Russell dominates Baku qualifying for pole after Antonelli crashes in Q1 | 2026 Azerbaijan Grand Prix qualifying report",
+      "title_fr": "Russell dominates Baku qualifying for pole after Antonelli crashes in Q1 | 2026 Azerbaijan Grand Prix qualifying report",
+      "title_en": "Russell dominates Baku qualifying for pole after Antonelli crashes in Q1 | 2026 Azerbaijan Grand Prix qualifying report",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/25/russell-dominates-baku-qualifying-for-pole-after-antonelli-crashes-in-q1/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-17-29-40-5-M631014_F1_Grand_Prix_of_Azerbaijan_Practice.jpg",
+      "published_at": "2026-09-25T13:12:10+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell took a dominant pole position in Baku after his team mate and championship rival Andrea Kimi Antonelli crashed out in Q1.",
+      "summary_en": "George Russell took a dominant pole position in Baku after his team mate and championship rival Andrea Kimi Antonelli crashed out in Q1."
+    },
+    {
+      "id": "192f68526e8d",
+      "title": "2026 Azerbaijan Grand Prix grid | Formula 1",
+      "title_fr": "2026 Azerbaijan Grand Prix grid | Formula 1",
+      "title_en": "2026 Azerbaijan Grand Prix grid | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/25/2026-azerbaijan-grand-prix-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-17-29-40-11-M631131_F1_AZERBAIJAIN_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-09-25T13:07:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell has taken provisional pole position for the Azerbaijan Grand Prix for Mercedes ahead of Charles Leclerc and Oscar Piastri.",
+      "summary_en": "George Russell has taken provisional pole position for the Azerbaijan Grand Prix for Mercedes ahead of Charles Leclerc and Oscar Piastri."
+    },
+    {
+      "id": "cdc1d4e2783d",
+      "title": "DIRECT. F1 - GP d'Azerbaïdjan: Antonelli dans le mur, suivez les qualifications à Bakou en live - RMC Sport",
+      "title_fr": "DIRECT. F1 - GP d'Azerbaïdjan: Antonelli dans le mur, suivez les qualifications à Bakou en live - RMC Sport",
+      "title_en": "DIRECT. F1 - GP d'Azerbaïdjan: Antonelli dans le mur, suivez les qualifications à Bakou en live - RMC Sport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdWVON0wwa0IwZ1QwdEhqMElDQW84LVNsTVp5cjNhcXdTNmpJQVJmd2JpMmZBOVljTGZuYU1qQ0tFUHZ1S041eXRpX3JOdGN3dndqdmNQR3QwbDNocTFFUXk1NWFxb3k1endfVExkemJRSQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T13:06:25+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdW"
+    },
+    {
+      "id": "955526c8716a",
+      "title": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications ! - L'Automobile Magazine",
+      "title_fr": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications ! - L'Automobile Magazine",
+      "title_en": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications ! - L'Automobile Magazine",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZVNWbXFPRC1EVjBfZ1RGLWZoT0tjNDlJeVNHdTdaTEswZlBIMUp6UG1WazhMR3dMUHVnSS10NklVTER6dzhlMjVMc09QZm8zcVU?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T12:30:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZV",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZV"
+    },
+    {
+      "id": "73114ea016e1",
+      "title": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
+      "title_fr": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
+      "title_en": "La grille de départ complète du Grand Prix d'Espagne de F1 2026 à Madrid : qui partira en pole position ? - Dicodusport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnY3aVlWck4xaUFMUDRaUE5XV1ZPSkw1cjNfc2V1Zl9qNGU0dWxkWUM2NlVoUzB3UVc3ekhpeGRHMXQ3eVZZSDZfUF9tYkhmWjdNSVp3QTdHckdKNkxtTnhGcWhCYzJGUUdYWkh3TEI5UGxFeGZUZVhXLTR2NFRiX2NLbFNBZzRHQ3Vtc1hfOV9fYlF3VEZfNndfQ0E4Tk9uOFE?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T11:51:48+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnY3aVlWck4xaUFMUDRaUE5XV1ZPSkw1cjNfc2V1Zl9qNGU0dWxkWUM2NlVoUzB3UVc3ekhpeGRHMXQ3eVZZSDZfUF9tYkhmWjdNSVp3QTdHckdKNkxtTnhGcWhCYzJGUUdYWkh3TE",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnY3aVlWck4xaUFMUDRaUE5XV1ZPSkw1cjNfc2V1Zl9qNGU0dWxkWUM2NlVoUzB3UVc3ekhpeGRHMXQ3eVZZSDZfUF9tYkhmWjdNSVp3QTdHckdKNkxtTnhGcWhCYzJGUUdYWkh3TE"
+    },
+    {
+      "id": "5a005324a200",
+      "title": "LIVE F1 - GP d’Azerbaïdjan : la qualification en direct à Bakou - Nextgen-Auto.com",
+      "title_fr": "LIVE F1 - GP d’Azerbaïdjan : la qualification en direct à Bakou - Nextgen-Auto.com",
+      "title_en": "LIVE F1 - GP d’Azerbaïdjan : la qualification en direct à Bakou - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXRVT2lFZTllQnJuTk4xdzEtMEs1OTNpQXdiakFYb1ZnUFRKcWFsbDhDTEZyV2trWllpMHFhOE5EZkFvWktoUllLQzNTb2c4YTFQSjk5RmllNzljblUxWDRaQ0UxNmhnbmFLWWRxUlQxMmZRTVdMY0M2UkcxYkxQbHlQWXJUZWlqX1A4ZXVNRVkzMDlCekdnNGg0SFBlY2d5UHF5bDBuLVc2OGtLWVd0c1RDMjgzOHgwUVlMUQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T11:30:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXRVT2lFZTllQnJuTk4xdzEtMEs1OTNpQXdiakFYb1ZnUFRKcWFsbDhDTEZyV2trWllpMHFhOE5EZkFvWktoUllLQzNTb2c4YTFQSjk5RmllNzljblUxWDRaQ0UxNmhnbmFLWWRxUl",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXRVT2lFZTllQnJuTk4xdzEtMEs1OTNpQXdiakFYb1ZnUFRKcWFsbDhDTEZyV2trWllpMHFhOE5EZkFvWktoUllLQzNTb2c4YTFQSjk5RmllNzljblUxWDRaQ0UxNmhnbmFLWWRxUl"
+    },
+    {
+      "id": "e296ff5c8f78",
+      "title": "DIRECT. F1 : premier coup de tonnerre, Kimi Antonelli dans le mur dès la Q1 en Azerbaïdjan ! - Ouest-France",
+      "title_fr": "DIRECT. F1 : premier coup de tonnerre, Kimi Antonelli dans le mur dès la Q1 en Azerbaïdjan ! - Ouest-France",
+      "title_en": "DIRECT. F1 : premier coup de tonnerre, Kimi Antonelli dans le mur dès la Q1 en Azerbaïdjan ! - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMU5maE0wRVZnbTFsY1lYYTVhNXNxWDg0TXgydjRsU0tvWTZEMkxQakxiTERiMXpKb0NGb05pQm5leEF6SHIwRk1qRVpPc050UnhzbDhBSkxrVDF0UW14Y2F4RHZRZlJ2bjA4aDlGSGtqOE15NUphQ1lvc2dwSHpDeWt4bFZkWmZRb0E5aDVEZEQ2dElmZ1d2azhRdDkxc1gwa0hBa3VuWXZvazBqMDQtSGZZd1JUUS1ZUlVTQ093UGRyMW1Ma2V1ZDUyVzlmQjkyNlY1VXhtSWNHUElfVF9OQ05wR0hEQnpuSUR4aDZxSQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T11:00:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMU5maE0wRVZnbTFsY1lYYTVhNXNxWDg0TXgydjRsU0tvWTZEMkxQakxiTERiMXpKb0NGb05pQm5leEF6SHIwRk1qRVpPc050UnhzbDhBSkxrVDF0UW14Y2F4RHZRZlJ2bjA4aDlGSG",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMU5maE0wRVZnbTFsY1lYYTVhNXNxWDg0TXgydjRsU0tvWTZEMkxQakxiTERiMXpKb0NGb05pQm5leEF6SHIwRk1qRVpPc050UnhzbDhBSkxrVDF0UW14Y2F4RHZRZlJ2bjA4aDlGSG"
+    },
+    {
+      "id": "a62d7a2df52f",
+      "title": "Max Verstappen signe le meilleur temps des essais libres 3 à Bakou devant George Russell - L'Équipe",
+      "title_fr": "Max Verstappen signe le meilleur temps des essais libres 3 à Bakou devant George Russell - L'Équipe",
+      "title_en": "Max Verstappen signe le meilleur temps des essais libres 3 à Bakou devant George Russell - L'Équipe",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcWFyWmd3dm9uTFVGUWdsYUZWdmI5MEFfWU5lTzY0UVJTRmJLVUhSUVkxcmo1QmhLMVQ4OThyUF9sTjFqcVJMbjQwbkFzNVFfRDZCNTVNYXdHNlFVQkZjZUVJWU8zZkNFZkZzSTNhdTV1X0J4ZG40Uk5uTWgxVTdQOVNiRW1sbkEyMkppejYyV2NQektPeDhVWUVOZTl1Zk1KUXB3WEk5czcwSDdKYkhoSTVoZ3RiQkhXUVJjYjV0cTNDTlVRWlU3Ry1uZmt4MVRHMGJuZVhCSQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T09:58:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcWFyWmd3dm9uTFVGUWdsYUZWdmI5MEFfWU5lTzY0UVJTRmJLVUhSUVkxcmo1QmhLMVQ4OThyUF9sTjFqcVJMbjQwbkFzNVFfRDZCNTVNYXdHNlFVQkZjZUVJWU8zZkNFZkZzSTNhdT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcWFyWmd3dm9uTFVGUWdsYUZWdmI5MEFfWU5lTzY0UVJTRmJLVUhSUVkxcmo1QmhLMVQ4OThyUF9sTjFqcVJMbjQwbkFzNVFfRDZCNTVNYXdHNlFVQkZjZUVJWU8zZkNFZkZzSTNhdT"
+    },
+    {
+      "id": "f621da13e105",
+      "title": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 1, casse moteur pour Isack Hadjar, Esteban Ocon commence bien, séance difficile pour Pierre Gasly - Turbo.fr",
+      "title_fr": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 1, casse moteur pour Isack Hadjar, Esteban Ocon commence bien, séance difficile pour Pierre Gasly - Turbo.fr",
+      "title_en": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 1, casse moteur pour Isack Hadjar, Esteban Ocon commence bien, séance difficile pour Pierre Gasly - Turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTG0yTFBfVTFyWmlCcE84bUhtM2xLNXJSVDJqR3VaLVdhbjFSa1NLbEV4MWVpdnJkWm1SQy15SWJIM0hNSkx6UE90dzhTdjhYZW5OYm42N3QwT3FMZkdiRndXbnhwaUdGS1JEOThMaTl4SHRpMXZOby10OThha2xOUkVEZlRta2N6aFFEWXFNbDJBYUN2NFJkeElpbzJuMU5fQnRUT1c4eGpIOEVlZmVKd2EwWTBUWlNXYUd6YXhvcFJuVGpPQm1IQk1mZFczQWgzbFBrYnV5X1VDc3YyRlplcHdhNGRQcnpia2wtc1hja1g5NmVXT3dxRnpkNVhGdEZKcDJoOTVqanBQMTFpYUhQMWxVbDhvY2poN0dEeDl2enJ0UTQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T09:51:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQTG0yTFBfVTFyWmlCcE84bUhtM2xLNXJSVDJqR3VaLVdhbjFSa1NLbEV4MWVpdnJkWm1SQy15SWJIM0hNSkx6UE90dzhTdjhYZW5OYm42N3QwT3FMZkdiRndXbnhwaUdGS1JEOThMaT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQTG0yTFBfVTFyWmlCcE84bUhtM2xLNXJSVDJqR3VaLVdhbjFSa1NLbEV4MWVpdnJkWm1SQy15SWJIM0hNSkx6UE90dzhTdjhYZW5OYm42N3QwT3FMZkdiRndXbnhwaUdGS1JEOThMaT"
+    },
     {
       "id": "61add8fcf298",
       "title": "Verstappen leads close final practice session in Baku ahead of Russell and Hamilton | Formula 1",
@@ -58,6 +229,25 @@
       "is_breaking": false,
       "summary_fr": "Red Bull's Max Verstappen surprisingly took the fastest time in third and final practice for F1's Azerbaijan GP, pipping Mercedes driver George Russell and Ferrari's Lewis Hamilton on Baku's tricky st",
       "summary_en": "Red Bull's Max Verstappen surprisingly took the fastest time in third and final practice for F1's Azerbaijan GP, pipping Mercedes driver George Russell and Ferrari's Lewis Hamilton on Baku's tricky st"
+    },
+    {
+      "id": "f0028e091ee0",
+      "title": "Formule 1, Grand Prix d’Azerbaïdjan : à quelle heure et sur quelle chaîne suivre les qualifications - Le Parisien",
+      "title_fr": "Formule 1, Grand Prix d’Azerbaïdjan : à quelle heure et sur quelle chaîne suivre les qualifications - Le Parisien",
+      "title_en": "Formule 1, Grand Prix d’Azerbaïdjan : à quelle heure et sur quelle chaîne suivre les qualifications - Le Parisien",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNmh0TTlGWUJhanMzNVlUM3dvZ0tqcjdCRTd6QzUzeVJRWHFtZ2pPMnMxVWN0MS0wN2gzVnl0YVM0UlpvbmdwTm13S1ZDZWdWUl9PMVgxUGcwLUtCS2JsYUY5NDQyVjFwdHM3ek5keTdtVi1jMzBndW1EcE53Ql95SWVIYjdaTF80eHJ3akN3d1RrOWJlS0tRN19WQzlBM011RS1saGpoZWc4TGwyQTRWWWlYX2lXUHBSQ1BtaUJ1SFR1T3c3b0M1ak5TN2Z1UnZVd2huY1kxdG44bGlCa183SF9pMTV5VFpXam1HWXR4TW9nTVVZUktJNXFuVWtuRzNLc1NfSVU5NmpjbVU5?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T09:13:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPNmh0TTlGWUJhanMzNVlUM3dvZ0tqcjdCRTd6QzUzeVJRWHFtZ2pPMnMxVWN0MS0wN2gzVnl0YVM0UlpvbmdwTm13S1ZDZWdWUl9PMVgxUGcwLUtCS2JsYUY5NDQyVjFwdHM3ek5keT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPNmh0TTlGWUJhanMzNVlUM3dvZ0tqcjdCRTd6QzUzeVJRWHFtZ2pPMnMxVWN0MS0wN2gzVnl0YVM0UlpvbmdwTm13S1ZDZWdWUl9PMVgxUGcwLUtCS2JsYUY5NDQyVjFwdHM3ek5keT"
     },
     {
       "id": "e86606b6d28a",
@@ -229,6 +419,44 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPdmdsWnNsZkJYbF8xZHJaMHpGTzFfUE5BMkh5Q0VGZEVYRU1KYmY5dnk0N2hkLUJTcTZEQzRGNnF4aUh2TFhicnItbGptaXhpX1NxSEtrMVM3dXFlY1QwdHJld0hDSDNXU3R3UWdtWk",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPdmdsWnNsZkJYbF8xZHJaMHpGTzFfUE5BMkh5Q0VGZEVYRU1KYmY5dnk0N2hkLUJTcTZEQzRGNnF4aUh2TFhicnItbGptaXhpX1NxSEtrMVM3dXFlY1QwdHJld0hDSDNXU3R3UWdtWk"
+    },
+    {
+      "id": "e509250376f4",
+      "title": "F1 : attention, le GP de Bakou aura lieu samedi ! Heure et chaîne pour voir la course en direct - Selectra",
+      "title_fr": "F1 : attention, le GP de Bakou aura lieu samedi ! Heure et chaîne pour voir la course en direct - Selectra",
+      "title_en": "F1 : attention, le GP de Bakou aura lieu samedi ! Heure et chaîne pour voir la course en direct - Selectra",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlZiQ3E1M0tHNFVCSFUyWTdZTEY2dDhmX2JFZ21IWDYzT2prNXdnTlQ4MXl1TXpTNnR1Y3NPOFFQUzFhSEF4aGpJWlBIR3JvODc3b0dlTHJwNUZRalB6aUNqSkFlUnJBS25JTWhTeXl1MjhqZk1ZMzdqWjhHZ3ZTNUh2X0E2Q2VIRzlWSzlwT0tNUndlbHZqR3lPNA?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T04:20:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlZiQ3E1M0tHNFVCSFUyWTdZTEY2dDhmX2JFZ21IWDYzT2prNXdnTlQ4MXl1TXpTNnR1Y3NPOFFQUzFhSEF4aGpJWlBIR3JvODc3b0dlTHJwNUZRalB6aUNqSkFlUnJBS25JTWhTeX",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlZiQ3E1M0tHNFVCSFUyWTdZTEY2dDhmX2JFZ21IWDYzT2prNXdnTlQ4MXl1TXpTNnR1Y3NPOFFQUzFhSEF4aGpJWlBIR3JvODc3b0dlTHJwNUZRalB6aUNqSkFlUnJBS25JTWhTeX"
+    },
+    {
+      "id": "18b5a1d3713d",
+      "title": "F1 - GP d'Azerbaïdjan 2026 : à quelle heure suivre la qualification ce vendredi ? - Sport Auto",
+      "title_fr": "F1 - GP d'Azerbaïdjan 2026 : à quelle heure suivre la qualification ce vendredi ? - Sport Auto",
+      "title_en": "F1 - GP d'Azerbaïdjan 2026 : à quelle heure suivre la qualification ce vendredi ? - Sport Auto",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1FtcmtLcHBjSXE5dXNHdlFyLXFzZkhtOEVTNk1ockJRUVI2X2dURzdndERqd2pOMnVMZWVVVllfWWI2OS1QYmlkb2MwVGtmYXM4VWVmcmlTX1NMQ3dqR2h0SEJLald4SXpsTU9BUXhNcU1PYURReGs2amNPT3JRRWdiUURTSFZJY1ZsY1o2S0NESWo1YzlJRFFFQUNoU0MtNDFVUWh3OTR2RXl4REFkd2dsMVRzaWVmTVZ1dFQ5UmtrMndRc09rYmM1S1ZveEZpdllxUUlFekZleTZHbHc?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T04:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1FtcmtLcHBjSXE5dXNHdlFyLXFzZkhtOEVTNk1ockJRUVI2X2dURzdndERqd2pOMnVMZWVVVllfWWI2OS1QYmlkb2MwVGtmYXM4VWVmcmlTX1NMQ3dqR2h0SEJLald4SXpsTU9BUX",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ1FtcmtLcHBjSXE5dXNHdlFyLXFzZkhtOEVTNk1ockJRUVI2X2dURzdndERqd2pOMnVMZWVVVllfWWI2OS1QYmlkb2MwVGtmYXM4VWVmcmlTX1NMQ3dqR2h0SEJLald4SXpsTU9BUX"
     },
     {
       "id": "165a6fa265a3",
@@ -533,234 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3NLeEdYZXNHWks2LXNRa214ZGdrVUxtcjJreU9YZUxVenZwenRxLUI3Mlh0ZDIwTGdfUFFMRFR6dFhHLXRVaFpyeUY0YmMtZHZXa29NREVvWl9BRnNGTmNYa3FKcE9DVnN3VE1hZW",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3NLeEdYZXNHWks2LXNRa214ZGdrVUxtcjJreU9YZUxVenZwenRxLUI3Mlh0ZDIwTGdfUFFMRFR6dFhHLXRVaFpyeUY0YmMtZHZXa29NREVvWl9BRnNGTmNYa3FKcE9DVnN3VE1hZW"
-    },
-    {
-      "id": "a3126a89590c",
-      "title": "Why is Azerbaijan Grand Prix taking place on a Saturday?",
-      "title_fr": "Why is Azerbaijan Grand Prix taking place on a Saturday?",
-      "title_en": "Why is Azerbaijan Grand Prix taking place on a Saturday?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3y0z7wvdel1o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb4/live/23c4b760-b813-11f1-9172-17f860da9de7.jpg",
-      "published_at": "2026-09-24T14:53:07+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "BBC Sport's Ask Me Anything team explains why the 2026 Azerbaijan Grand Prix in Baku is taking place on Saturday",
-      "summary_en": "BBC Sport's Ask Me Anything team explains why the 2026 Azerbaijan Grand Prix in Baku is taking place on Saturday"
-    },
-    {
-      "id": "4409373c66c2",
-      "title": "Jamie Chadwick reflects on \"surreal\" maiden Williams F1 test",
-      "title_fr": "Jamie Chadwick reflects on \"surreal\" maiden Williams F1 test",
-      "title_en": "Jamie Chadwick reflects on \"surreal\" maiden Williams F1 test",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/jamie-chadwick-reflects-on-surreal-maiden-williams-f1-test/10858603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdKyMVY/s6/jamie-chadwick-williams.jpg",
-      "published_at": "2026-09-24T14:49:38+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Jamie Chadwick described her maiden Formula 1 test with Williams as \"surreal\" as she reflected on the experience, revealing her appreciation for the championship has now \"gone through the roof\".<br />",
-      "summary_en": "Jamie Chadwick described her maiden Formula 1 test with Williams as \"surreal\" as she reflected on the experience, revealing her appreciation for the championship has now \"gone through the roof\".<br />"
-    },
-    {
-      "id": "2fd99fa8d4e0",
-      "title": "How to follow Azerbaijan Grand Prix on the BBC",
-      "title_fr": "How to follow Azerbaijan Grand Prix on the BBC",
-      "title_en": "How to follow Azerbaijan Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a5c/live/7fc8b0d0-b81c-11f1-b19f-05e2dfdadad2.jpg",
-      "published_at": "2026-09-24T13:56:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September.",
-      "summary_en": "All the key BBC coverage details for the Azerbaijan Grand Prix, which takes place from 24-26 September."
-    },
-    {
-      "id": "7cd2e331ea19",
-      "title": "Grand Prix d'Azerbaïdjan 2026 : le résumé des essais libres 1 et 2 avec le programme TV et les horaires pour la course exceptionnellement disputée samedi - L'Automobile Magazine",
-      "title_fr": "Grand Prix d'Azerbaïdjan 2026 : le résumé des essais libres 1 et 2 avec le programme TV et les horaires pour la course exceptionnellement disputée samedi - L'Automobile Magazine",
-      "title_en": "Grand Prix d'Azerbaïdjan 2026 : le résumé des essais libres 1 et 2 avec le programme TV et les horaires pour la course exceptionnellement disputée samedi - L'Automobile Magazine",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNTU4zWnNvOTd3azVqSVkxTHhrU00wSzllWTU1ZzlGTEppRDI4QVV3c0tvQkNMUWFNWW1VUUVYOXdHd19LOFdCd1lYSUZWME5XWERJWUJTbE5tM2RMUUttcFl1bkV4dFZaam5QNy1fQXotWG0tbTZrTmJBMDYtNkRuQ1gwU2J3NEM2LWR2dDF4dHgzNXpVVWF6OGxZWmYyVVJoYkJ3SkR6SjVVcjZNUTRhUmdSTU41bWJJSDNnSm5MSlQtaWoxX0lPSUcyVG9Rb1BkZWNMOHlGYjVCZVVBZG42TDNKTFpkanVzZ0cyMHE0Q3g5ZTZ1Z1VqVTA0US10RXR2TTItaENpZmRtc0N6MERrUHkwckcxZVdrQU9RUExrck5DNXFVdjJrYmpiYVphLUwtektr?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-24T13:46:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNTU4zWnNvOTd3azVqSVkxTHhrU00wSzllWTU1ZzlGTEppRDI4QVV3c0tvQkNMUWFNWW1VUUVYOXdHd19LOFdCd1lYSUZWME5XWERJWUJTbE5tM2RMUUttcFl1bkV4dFZaam5QNy1fQX",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNTU4zWnNvOTd3azVqSVkxTHhrU00wSzllWTU1ZzlGTEppRDI4QVV3c0tvQkNMUWFNWW1VUUVYOXdHd19LOFdCd1lYSUZWME5XWERJWUJTbE5tM2RMUUttcFl1bkV4dFZaam5QNy1fQX"
-    },
-    {
-      "id": "036c61d12faf",
-      "title": "Pictures: Chadwick tests Williams F1 car at Algarve circuit | Formula 1",
-      "title_fr": "Pictures: Chadwick tests Williams F1 car at Algarve circuit | Formula 1",
-      "title_en": "Pictures: Chadwick tests Williams F1 car at Algarve circuit | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/24/pictures-chadwick-tests-williams-f1-car-at-algarve-circuit/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-20-19-12-36-6-Jamie-Chadwick-7.jpg",
-      "published_at": "2026-09-24T13:46:13+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams' ambassador Jamie Chadwick had her first test for the team at the Autodromo do Algarve in Portugal this week.",
-      "summary_en": "Williams' ambassador Jamie Chadwick had her first test for the team at the Autodromo do Algarve in Portugal this week."
-    },
-    {
-      "id": "d4bbcd643627",
-      "title": "Lewis Hamilton summoned to F1 stewards after Azerbaijan GP incident",
-      "title_fr": "Lewis Hamilton summoned to F1 stewards after Azerbaijan GP incident",
-      "title_en": "Lewis Hamilton summoned to F1 stewards after Azerbaijan GP incident",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-summoned-to-f1-stewards-after-azerbaijan-gp-incident/10858572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9EZWMY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-09-24T13:45:58+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton has been summoned to the Formula 1 stewards after allegedly impeding Liam Lawson during second practice at the Azerbaijan Grand Prix.<br />The Ferrari driver was caught harvesting energ",
-      "summary_en": "Lewis Hamilton has been summoned to the Formula 1 stewards after allegedly impeding Liam Lawson during second practice at the Azerbaijan Grand Prix.<br />The Ferrari driver was caught harvesting energ"
-    },
-    {
-      "id": "df669f40bfca",
-      "title": "Fernando Alonso and Lance Stroll hit with Azerbaijan GP grid penalties for Honda F1 power unit changes",
-      "title_fr": "Fernando Alonso and Lance Stroll hit with Azerbaijan GP grid penalties for Honda F1 power unit changes",
-      "title_en": "Fernando Alonso and Lance Stroll hit with Azerbaijan GP grid penalties for Honda F1 power unit changes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-and-lance-stroll-hit-with-azerbaijan-gp-grid-penalties-for-honda-f1-power-unit-chan/10858568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyKgvvY/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-09-24T13:41:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Aston Martin's Fernando Alonso and Lance Stroll will start from the back of the grid at F1's Azerbaijan Grand Prix after receiving grid penalties for fitting new Honda power unit components.<br />Alon",
-      "summary_en": "Aston Martin's Fernando Alonso and Lance Stroll will start from the back of the grid at F1's Azerbaijan Grand Prix after receiving grid penalties for fitting new Honda power unit components.<br />Alon"
-    },
-    {
-      "id": "990fca8368f8",
-      "title": "F1 : Mercedes signe un doublé lors de la deuxième séance d'essais libres du GP de Bakou avec George Russell devant Kimi Antonelli - L'Équipe",
-      "title_fr": "F1 : Mercedes signe un doublé lors de la deuxième séance d'essais libres du GP de Bakou avec George Russell devant Kimi Antonelli - L'Équipe",
-      "title_en": "F1 : Mercedes signe un doublé lors de la deuxième séance d'essais libres du GP de Bakou avec George Russell devant Kimi Antonelli - L'Équipe",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQLTBFTkVoN2hPaGpjTzVJWU5SRktkTkF1OWUtN0VlcXdPQVA3ZmVDZ2dIaDZHMGhMWmotSUFsUHVYYUs1SDY1dm5MUmc0NTN6UDZSM05QY05yWGt3MGR0VTFKR3BENWphckhsODdIbVJvNGVNbmsxblNqTmZJVlVmdTJPclY5SkpZcE1qQTZiNFJpcnhRLVMwUlFjS29zVHpxUlN0aEFSR1dLT2ZEVk12ZnU4SFNGc0FHWWlRVE95U0JaaHR0eXZfMFRYYU02NzZob21Ia0JuWWV2ZVM4NDhFTzkyMi1Wbm5Bd0M1cGZmLWlyS0UtZkR0eEUwcWVrcG14MDB0enU5WQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-24T13:25:12+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQLTBFTkVoN2hPaGpjTzVJWU5SRktkTkF1OWUtN0VlcXdPQVA3ZmVDZ2dIaDZHMGhMWmotSUFsUHVYYUs1SDY1dm5MUmc0NTN6UDZSM05QY05yWGt3MGR0VTFKR3BENWphckhsODdIbV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQLTBFTkVoN2hPaGpjTzVJWU5SRktkTkF1OWUtN0VlcXdPQVA3ZmVDZ2dIaDZHMGhMWmotSUFsUHVYYUs1SDY1dm5MUmc0NTN6UDZSM05QY05yWGt3MGR0VTFKR3BENWphckhsODdIbV"
-    },
-    {
-      "id": "2c12d656ece1",
-      "title": "Russell leads Mercedes one-two, Lindblad crashes, Hamilton summoned for impeding | Formula 1",
-      "title_fr": "Russell leads Mercedes one-two, Lindblad crashes, Hamilton summoned for impeding | Formula 1",
-      "title_en": "Russell leads Mercedes one-two, Lindblad crashes, Hamilton summoned for impeding | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/24/russell-leads-mercedes-one-two-lindblad-crashes-hamilton-summoned-for-impeding/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-13-46-21-1-M630835_F1_Grand_Prix_of_Azerbaijan_Practice.jpg",
-      "published_at": "2026-09-24T13:16:32+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell stayed on top in the second practice session while Lewis Hamilton faces an investigation for impeding Liam Lawson.",
-      "summary_en": "George Russell stayed on top in the second practice session while Lewis Hamilton faces an investigation for impeding Liam Lawson."
-    },
-    {
-      "id": "65c3729441b8",
-      "title": "EL2 - Russell loin devant, Lindblad visite le château - Motorsport.com France",
-      "title_fr": "EL2 - Russell loin devant, Lindblad visite le château - Motorsport.com France",
-      "title_en": "EL2 - Russell loin devant, Lindblad visite le château - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3BrOFRvSUJUU29ib1BXUGwwM3prTDZHVGdTRFgyREZua0xwWXdudzNkMDlaX2dEWGxoLXdZYVlXVE1aWFpXZzc1VHZadHFTQzNaTHRmNVpFb3hBTkw3NmwzeDFaQlVWaTF1VEZNeU5BdlZIVVU4VDA1YlVFamdZbmtxckg2ZmgxbmFqV1lMVVRld3pDMWxRNWdCOA?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-24T13:10:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3BrOFRvSUJUU29ib1BXUGwwM3prTDZHVGdTRFgyREZua0xwWXdudzNkMDlaX2dEWGxoLXdZYVlXVE1aWFpXZzc1VHZadHFTQzNaTHRmNVpFb3hBTkw3NmwzeDFaQlVWaTF1VEZNeU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3BrOFRvSUJUU29ib1BXUGwwM3prTDZHVGdTRFgyREZua0xwWXdudzNkMDlaX2dEWGxoLXdZYVlXVE1aWFpXZzc1VHZadHFTQzNaTHRmNVpFb3hBTkw3NmwzeDFaQlVWaTF1VEZNeU"
-    },
-    {
-      "id": "cad001b31c8f",
-      "title": "Chadwick joins exclusive list after Williams F1 test",
-      "title_fr": "Chadwick joins exclusive list after Williams F1 test",
-      "title_en": "Chadwick joins exclusive list after Williams F1 test",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/jamie-chadwick-joins-exclusive-list-after-williams-f1-test/10858560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YvKBLqv6/s6/jamie-chadwick-williams.jpg",
-      "published_at": "2026-09-24T13:09:58+00:00",
-      "race_id": "uk",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Jamie Chadwick became the latest female to drive a Formula 1 car after completing a Testing of Previous Cars programme for Williams at Portimao.<br />The 28-year-old completed 32 laps in Portugal on M",
-      "summary_en": "Jamie Chadwick became the latest female to drive a Formula 1 car after completing a Testing of Previous Cars programme for Williams at Portimao.<br />The 28-year-old completed 32 laps in Portugal on M"
-    },
-    {
-      "id": "f86aee2835bd",
-      "title": "James Hinchcliffe: Williams F1 weight breakthrough brings \"free lap time\" in Baku",
-      "title_fr": "James Hinchcliffe: Williams F1 weight breakthrough brings \"free lap time\" in Baku",
-      "title_en": "James Hinchcliffe: Williams F1 weight breakthrough brings \"free lap time\" in Baku",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/james-hinchcliffe-williams-f1-weight-breakthrough-brings-free-lap-time-in-baku/10858557/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68Vwkg42/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-24T13:09:42+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former IndyCar Series driver James Hinchcliffe says Williams finally hitting Formula 1's minimum weight limit will provide the Grove outfit with \"free lap time\" at this weekend's Azerbaijan Grand Prix",
-      "summary_en": "Former IndyCar Series driver James Hinchcliffe says Williams finally hitting Formula 1's minimum weight limit will provide the Grove outfit with \"free lap time\" at this weekend's Azerbaijan Grand Prix"
     }
   ]
 }
