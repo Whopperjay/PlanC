@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-09-25T07:06:55Z",
+  "last_updated": "2026-09-25T10:11:57Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "61add8fcf298",
+      "title": "Verstappen leads close final practice session in Baku ahead of Russell and Hamilton | Formula 1",
+      "title_fr": "Verstappen leads close final practice session in Baku ahead of Russell and Hamilton | Formula 1",
+      "title_en": "Verstappen leads close final practice session in Baku ahead of Russell and Hamilton | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/25/verstappen-leads-close-final-practice-session-in-baku-ahead-of-russell-and-hamilton/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-17-08-23-8-SI202609240314.jpg",
+      "published_at": "2026-09-25T09:43:10+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen denied George Russell a clean sweep of all three practice sessions for the Azerbaijan Grand Prix.",
+      "summary_en": "Max Verstappen denied George Russell a clean sweep of all three practice sessions for the Azerbaijan Grand Prix."
+    },
+    {
+      "id": "dbfb47a707b4",
+      "title": "F1 Azerbaijan GP: Verstappen beats Russell and Hamilton to top FP3",
+      "title_fr": "F1 Azerbaijan GP: Verstappen beats Russell and Hamilton to top FP3",
+      "title_en": "F1 Azerbaijan GP: Verstappen beats Russell and Hamilton to top FP3",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp3-report-10858801/10858801/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6grQRnxY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-25T09:38:21+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull's Max Verstappen has surprisingly topped third and final practice for Formula 1's Azerbaijan Grand Prix, pipping Mercedes driver George Russell and Ferrari's Lewis Hamilton on Baku's tricky s",
+      "summary_en": "Red Bull's Max Verstappen has surprisingly topped third and final practice for Formula 1's Azerbaijan Grand Prix, pipping Mercedes driver George Russell and Ferrari's Lewis Hamilton on Baku's tricky s"
+    },
+    {
+      "id": "a5e58aaef2a3",
+      "title": "F1 Azerbaijan GP: Max Verstappen leads George Russell and Lewis Hamilton in final practice",
+      "title_fr": "F1 Azerbaijan GP: Max Verstappen leads George Russell and Lewis Hamilton in final practice",
+      "title_en": "F1 Azerbaijan GP: Max Verstappen leads George Russell and Lewis Hamilton in final practice",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-fp3-report/10858797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arEB5N2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-25T09:37:48+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull's Max Verstappen surprisingly took the fastest time in third and final practice for F1's Azerbaijan GP, pipping Mercedes driver George Russell and Ferrari's Lewis Hamilton on Baku's tricky st",
+      "summary_en": "Red Bull's Max Verstappen surprisingly took the fastest time in third and final practice for F1's Azerbaijan GP, pipping Mercedes driver George Russell and Ferrari's Lewis Hamilton on Baku's tricky st"
+    },
+    {
+      "id": "e86606b6d28a",
+      "title": "F1 urged to rethink sprint points system as calendar expands in 2027",
+      "title_fr": "F1 urged to rethink sprint points system as calendar expands in 2027",
+      "title_en": "F1 urged to rethink sprint points system as calendar expands in 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-urged-to-rethink-sprint-points-system-as-calendar-expands-in-2027/10858799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EQnLY/s6/start-action.jpg",
+      "published_at": "2026-09-25T09:11:53+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 should overhaul its sprint race points system and reassess aerodynamic testing restrictions to accommodate an expanding sprint calendar, according to presenter Will Buxton.<br />The 2027 F1 ",
+      "summary_en": "Formula 1 should overhaul its sprint race points system and reassess aerodynamic testing restrictions to accommodate an expanding sprint calendar, according to presenter Will Buxton.<br />The 2027 F1 "
+    },
+    {
+      "id": "35b6e11625eb",
+      "title": "Why \"dangerous\" Hamilton-Lawson incident in Azerbaijan GP practice hasn't led to change",
+      "title_fr": "Why \"dangerous\" Hamilton-Lawson incident in Azerbaijan GP practice hasn't led to change",
+      "title_en": "Why \"dangerous\" Hamilton-Lawson incident in Azerbaijan GP practice hasn't led to change",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-dangerous-hamilton-lawson-incident-in-azerbaijan-gp-practice-hasnt-led-to-change/10858789/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lNwDP2/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-09-25T08:42:05+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton was reprimanded for impeding Liam Lawson during Thursday's second practice in FP2 but this wasn't the end of the matter.<br />Even before a single car had turned a wheel on the Baku Cit",
+      "summary_en": "Lewis Hamilton was reprimanded for impeding Liam Lawson during Thursday's second practice in FP2 but this wasn't the end of the matter.<br />Even before a single car had turned a wheel on the Baku Cit"
+    },
+    {
+      "id": "9a26b094fdee",
+      "title": "Why \"dangerous\" Hamilton-Lawson incident in Azerbaijan GP practice hasn't led to change",
+      "title_fr": "Why \"dangerous\" Hamilton-Lawson incident in Azerbaijan GP practice hasn't led to change",
+      "title_en": "Why \"dangerous\" Hamilton-Lawson incident in Azerbaijan GP practice hasn't led to change",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-dangerous-hamilton-lawson-incident-in-azerbaijan-gp-practice-hasnt-led-to-change/10858784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YvKBLMx6/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-09-25T08:37:44+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton was reprimanded for impeding Liam Lawson during Thursday's second practice in FP2 but this wasn't the end of the matter.<br />Even before a single car had turned a wheel on the Baku Cit",
+      "summary_en": "Lewis Hamilton was reprimanded for impeding Liam Lawson during Thursday's second practice in FP2 but this wasn't the end of the matter.<br />Even before a single car had turned a wheel on the Baku Cit"
+    },
+    {
+      "id": "42b1d2f827b4",
+      "title": "Featured Comment: Why swapping Ocon for Camara makes sense for Haas | Brief",
+      "title_fr": "Featured Comment: Why swapping Ocon for Camara makes sense for Haas | Brief",
+      "title_en": "Featured Comment: Why swapping Ocon for Camara makes sense for Haas | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/25/featured-comment-why-swapping-ocon-for-camara-makes-sense-for-haas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-25-09-24-50-1-19-scuderia-ferrari-bra-gp-friday_ba7d056b-849a-43df-882e-c8e751a706c1.jpg",
+      "published_at": "2026-09-25T08:28:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Haas could replace Ocon with another Ferrari junior",
+      "summary_en": "Haas could replace Ocon with another Ferrari junior"
+    },
+    {
+      "id": "a31b153ff798",
+      "title": "Red Bull \"finally pinpointing\" mysterious car issue highlighted by Max Verstappen for years",
+      "title_fr": "Red Bull \"finally pinpointing\" mysterious car issue highlighted by Max Verstappen for years",
+      "title_en": "Red Bull \"finally pinpointing\" mysterious car issue highlighted by Max Verstappen for years",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-finally-pinpointing-mysterious-car-issue-highlighted-by-max-verstappen-for-years/10858772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0LdemNP0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-09-25T08:15:59+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull has introduced its final significant upgrade package for the RB22 in Baku. After the opening practice sessions, technical director Waché concluded that the correlation is good and that the pa",
+      "summary_en": "Red Bull has introduced its final significant upgrade package for the RB22 in Baku. After the opening practice sessions, technical director Waché concluded that the correlation is good and that the pa"
+    },
+    {
+      "id": "19470fa0ee6a",
+      "title": "LIVE F1 - GP d’Azerbaïdjan : les essais libres 3 en direct à Bakou - Nextgen-Auto.com",
+      "title_fr": "LIVE F1 - GP d’Azerbaïdjan : les essais libres 3 en direct à Bakou - Nextgen-Auto.com",
+      "title_en": "LIVE F1 - GP d’Azerbaïdjan : les essais libres 3 en direct à Bakou - Nextgen-Auto.com",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDloeGhNcVEwMmRLUmNxcExoTXA1dXFYLTRVeFpFWHBWWndMTHVfQkVfWGV5WVNCaGE2RjliNWJxYzlYUGpEVE9BZXBxeU5tQ2lmNG9qWF9iaU1qNmV1cHBDN1JyV3UwS0x4X3N2WkxQa2lNYU95R2VhckxzQnpkVkpnbzc2OExab2FkZm1ZalNTc3hoTVNnSk1oQXRNdFdCYnVwVUloNE1vWkw0YnhTZDhTc2NxVk9UZlBTNm1NUVk?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T08:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDloeGhNcVEwMmRLUmNxcExoTXA1dXFYLTRVeFpFWHBWWndMTHVfQkVfWGV5WVNCaGE2RjliNWJxYzlYUGpEVE9BZXBxeU5tQ2lmNG9qWF9iaU1qNmV1cHBDN1JyV3UwS0x4X3N2Wk",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDloeGhNcVEwMmRLUmNxcExoTXA1dXFYLTRVeFpFWHBWWndMTHVfQkVfWGV5WVNCaGE2RjliNWJxYzlYUGpEVE9BZXBxeU5tQ2lmNG9qWF9iaU1qNmV1cHBDN1JyV3UwS0x4X3N2Wk"
+    },
+    {
+      "id": "c40e2390ed77",
+      "title": "Spotlight: Scheckter plans appeal over court’s demand he pay £1.5m tax bill | Brief",
+      "title_fr": "Spotlight: Scheckter plans appeal over court’s demand he pay £1.5m tax bill | Brief",
+      "title_en": "Spotlight: Scheckter plans appeal over court’s demand he pay £1.5m tax bill | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/25/spotlight-scheckter-plans-appeal-over-courts-demand-he-pay-1-5m-tax-bill/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2019/09/racefansdotnet-20190906-133034-25.jpg",
+      "published_at": "2026-09-25T07:38:57+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "1979 F1 champion vows to fight court's £1.5m tax demand",
+      "summary_en": "1979 F1 champion vows to fight court's £1.5m tax demand"
+    },
     {
       "id": "b26084aee823",
       "title": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Former IndyCar Series driver James Hinchcliffe says Williams finally hitting Formula 1's minimum weight limit will provide the Grove outfit with \"free lap time\" at this weekend's Azerbaijan Grand Prix",
       "summary_en": "Former IndyCar Series driver James Hinchcliffe says Williams finally hitting Formula 1's minimum weight limit will provide the Grove outfit with \"free lap time\" at this weekend's Azerbaijan Grand Prix"
-    },
-    {
-      "id": "ff9937b0b98f",
-      "title": "Jamie Chadwick joins exclusive list after Williams F1 test",
-      "title_fr": "Jamie Chadwick joins exclusive list after Williams F1 test",
-      "title_en": "Jamie Chadwick joins exclusive list after Williams F1 test",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/jamie-chadwick-joins-exclusive-list-after-williams-f1-test/10858553/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBLqv6/s6/jamie-chadwick-williams.jpg",
-      "published_at": "2026-09-24T13:08:19+00:00",
-      "race_id": "uk",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Jamie Chadwick became the latest female to drive a Formula 1 car after completing a Testing of Previous Cars programme for Williams at Portimao.<br />The 28-year-old completed 32 laps in Portugal on M",
-      "summary_en": "Jamie Chadwick became the latest female to drive a Formula 1 car after completing a Testing of Previous Cars programme for Williams at Portimao.<br />The 28-year-old completed 32 laps in Portugal on M"
-    },
-    {
-      "id": "b23f34a37496",
-      "title": "Andrew Benson Q&A: Send us your questions",
-      "title_fr": "Andrew Benson Q&A: Send us your questions",
-      "title_en": "Andrew Benson Q&A: Send us your questions",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
-      "published_at": "2026-09-24T13:07:11+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now.",
-      "summary_en": "Our F1 correspondent Andrew Benson is doing a weekly Q&amp;A this season, so get your questions in now."
-    },
-    {
-      "id": "b5ff185066fc",
-      "title": "F1 Azerbaijan GP: George Russell leads ominous Mercedes 1-2 in FP2",
-      "title_fr": "F1 Azerbaijan GP: George Russell leads ominous Mercedes 1-2 in FP2",
-      "title_en": "F1 Azerbaijan GP: George Russell leads ominous Mercedes 1-2 in FP2",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-fp2-report-10858541/10858541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YE9EZgpY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-09-24T13:06:14+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes driver George Russell ended Thursday's practice running at F1's Azerbaijan GP on top after comfortably leading FP2.<br />Russell held off Mercedes team-mate and championship leader Kimi Anton",
-      "summary_en": "Mercedes driver George Russell ended Thursday's practice running at F1's Azerbaijan GP on top after comfortably leading FP2.<br />Russell held off Mercedes team-mate and championship leader Kimi Anton"
-    },
-    {
-      "id": "ecb2b627e0be",
-      "title": "F1 Azerbaijan GP: Russell tops FP2 from Antonelli as Lindblad crashes",
-      "title_fr": "F1 Azerbaijan GP: Russell tops FP2 from Antonelli as Lindblad crashes",
-      "title_en": "F1 Azerbaijan GP: Russell tops FP2 from Antonelli as Lindblad crashes",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-azerbaijan-gp-fp2-report/10858543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZXmgA6/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-09-24T13:05:44+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes driver George Russell ended Thursday's practice running at Formula 1's Azerbaijan Grand Prix on top after comfortably leading FP2.<br />Russell held off Mercedes team-mate and championship le",
-      "summary_en": "Mercedes driver George Russell ended Thursday's practice running at Formula 1's Azerbaijan Grand Prix on top after comfortably leading FP2.<br />Russell held off Mercedes team-mate and championship le"
-    },
-    {
-      "id": "545171717b79",
-      "title": "Red Bull won't deliver any more major F1 car upgrades in 2026",
-      "title_fr": "Red Bull won't deliver any more major F1 car upgrades in 2026",
-      "title_en": "Red Bull won't deliver any more major F1 car upgrades in 2026",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/red-bull-wont-deliver-any-more-major-f1-car-upgrades-in-2026/10858535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6n7bL8m0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-09-24T12:30:02+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull has announced its Baku updates will be its final major Formula 1 car upgrade package as it shifts focus to 2027.<br />The Azerbaijan Grand Prix had already been circled in red for a long time",
-      "summary_en": "Red Bull has announced its Baku updates will be its final major Formula 1 car upgrade package as it shifts focus to 2027.<br />The Azerbaijan Grand Prix had already been circled in red for a long time"
-    },
-    {
-      "id": "9db38c4d88dd",
-      "title": "Red Bull confirms final major F1 upgrade of 2026 for Max Verstappen and Isack Hadjar",
-      "title_fr": "Red Bull confirms final major F1 upgrade of 2026 for Max Verstappen and Isack Hadjar",
-      "title_en": "Red Bull confirms final major F1 upgrade of 2026 for Max Verstappen and Isack Hadjar",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-confirms-final-major-f1-upgrade-of-2026-for-max-verstappen-and-isack-hadjar/10858533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27NoGAm0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-24T12:23:20+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull is one of the teams bringing a major upgrade package to the Baku City Circuit. At Williams, the Azerbaijan Grand Prix had already been circled in red for a long time, while McLaren has arrive",
-      "summary_en": "Red Bull is one of the teams bringing a major upgrade package to the Baku City Circuit. At Williams, the Azerbaijan Grand Prix had already been circled in red for a long time, while McLaren has arrive"
-    },
-    {
-      "id": "ba1305b20f3c",
-      "title": "Red Bull confirms that Isack Hadjar is on a 'long-term' F1 contract",
-      "title_fr": "Red Bull confirms that Isack Hadjar is on a 'long-term' F1 contract",
-      "title_en": "Red Bull confirms that Isack Hadjar is on a 'long-term' F1 contract",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-confirms-that-isack-hadjar-is-on-a-long-term-f1-contract/10858514/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/68VwkOQ2/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-09-24T11:50:56+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull boss Laurent Mekies confirmed that Isack Hadjar does have a ‘long-term contract’ with the team despite confusion from his driver.<br />On Wednesday it was announced that Hadjar has been retai",
-      "summary_en": "Red Bull boss Laurent Mekies confirmed that Isack Hadjar does have a ‘long-term contract’ with the team despite confusion from his driver.<br />On Wednesday it was announced that Hadjar has been retai"
-    },
-    {
-      "id": "5eaac6f42cbb",
-      "title": "F1 driver contracts: How long is each driver tied down for?",
-      "title_fr": "F1 driver contracts: How long is each driver tied down for?",
-      "title_en": "F1 driver contracts: How long is each driver tied down for?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-driver-contracts-how-long-is-each-driver-tied-down-for/10850679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
-      "published_at": "2026-09-24T11:50:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The details in a Formula 1 driver contract is highly-guarded information, but often the length of the deal is released to the wider world.<br />Here is how long each F1 driver contract is believed to ",
-      "summary_en": "The details in a Formula 1 driver contract is highly-guarded information, but often the length of the deal is released to the wider world.<br />Here is how long each F1 driver contract is believed to "
-    },
-    {
-      "id": "4642c1fcf4e4",
-      "title": "LIVE F1 - GP d’Azerbaïdjan : les essais libres 2 en direct à Bakou - motorsport.nextgen-auto.com",
-      "title_fr": "LIVE F1 - GP d’Azerbaïdjan : les essais libres 2 en direct à Bakou - motorsport.nextgen-auto.com",
-      "title_en": "LIVE F1 - GP d’Azerbaïdjan : les essais libres 2 en direct à Bakou - motorsport.nextgen-auto.com",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXp1SEtFSE93MWcyenQ2NUc0NHloV1N1SU9WZlVQcmwwWG5MSVZwQ3kyV0k4aXU5eXRWeFl6YWpoMjRYLUpzRnBFSlVIZ2VJNXF3dnROTlN6U1FhV1IwWUdxWXM2N2I2YVZXY2hDZDhuUGRuU0hjSVdmNHNEWUtLZlRnM2RrOTVkRDF0ZU0wWmNBNjNGc2huRTN0dWdjMVFCSm9CbVU5MTlBSjlfdEFELVFocnV1cThEbjZlRVJrZFk?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-24T11:30:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXp1SEtFSE93MWcyenQ2NUc0NHloV1N1SU9WZlVQcmwwWG5MSVZwQ3kyV0k4aXU5eXRWeFl6YWpoMjRYLUpzRnBFSlVIZ2VJNXF3dnROTlN6U1FhV1IwWUdxWXM2N2I2YVZXY2hDZD",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXp1SEtFSE93MWcyenQ2NUc0NHloV1N1SU9WZlVQcmwwWG5MSVZwQ3kyV0k4aXU5eXRWeFl6YWpoMjRYLUpzRnBFSlVIZ2VJNXF3dnROTlN6U1FhV1IwWUdxWXM2N2I2YVZXY2hDZD"
-    },
-    {
-      "id": "f981c8db698d",
-      "title": "Valtteri Bottas jokes \"Bott-ass is back\" as fans get chance to win Baku charity helmet",
-      "title_fr": "Valtteri Bottas jokes \"Bott-ass is back\" as fans get chance to win Baku charity helmet",
-      "title_en": "Valtteri Bottas jokes \"Bott-ass is back\" as fans get chance to win Baku charity helmet",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-jokes-bott-ass-is-back-as-fans-get-chance-to-win-baku-charity-helmet/10858500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0kZXmLV6/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-09-24T11:18:27+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas has unveiled a special one-off helmet design for the Azerbaijan Grand Prix to raise awareness and funds for the Care For Wild Rhino Sanctuary.<br />The Cadillac Formula 1 driver reveal",
-      "summary_en": "Valtteri Bottas has unveiled a special one-off helmet design for the Azerbaijan Grand Prix to raise awareness and funds for the Care For Wild Rhino Sanctuary.<br />The Cadillac Formula 1 driver reveal"
     }
   ]
 }
