@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-25T04:02:25Z",
+  "last_updated": "2026-09-25T07:06:55Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "b26084aee823",
+      "title": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
+      "title_fr": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
+      "title_en": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWdpdlJyQ3JGdHFSQkZsd1d1REszTm1RXzVDZmphTnZxbXluWVpMQTJEdDM5S0l0dU1oNlowVUJZLXhWcXk5Q2xXbjZma1JsVmFtOGpJbnRnYjF0Xzd2LXc2dXAtR19mSXBxVnZCWUxYaUJfUGd2OXVaV2hQREFmNktGWkJ6bF9XX1lsUWFFMkY5YjVISlE?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T05:13:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWdpdlJyQ3JGdHFSQkZsd1d1REszTm1RXzVDZmphTnZxbXluWVpMQTJEdDM5S0l0dU1oNlowVUJZLXhWcXk5Q2xXbjZma1JsVmFtOGpJbnRnYjF0Xzd2LXc2dXAtR19mSXBxVnZCWU",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWdpdlJyQ3JGdHFSQkZsd1d1REszTm1RXzVDZmphTnZxbXluWVpMQTJEdDM5S0l0dU1oNlowVUJZLXhWcXk5Q2xXbjZma1JsVmFtOGpJbnRnYjF0Xzd2LXc2dXAtR19mSXBxVnZCWU"
+    },
+    {
+      "id": "dd986d27801a",
+      "title": "F1. À quelle heure et sur quelle chaîne TV voir les qualifications du Grand Prix d’Azerbaïdjan ? - Ouest-France",
+      "title_fr": "F1. À quelle heure et sur quelle chaîne TV voir les qualifications du Grand Prix d’Azerbaïdjan ? - Ouest-France",
+      "title_en": "F1. À quelle heure et sur quelle chaîne TV voir les qualifications du Grand Prix d’Azerbaïdjan ? - Ouest-France",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdmdsWnNsZkJYbF8xZHJaMHpGTzFfUE5BMkh5Q0VGZEVYRU1KYmY5dnk0N2hkLUJTcTZEQzRGNnF4aUh2TFhicnItbGptaXhpX1NxSEtrMVM3dXFlY1QwdHJld0hDSDNXU3R3UWdtWk1NcWdwSDVRM0JmVGtVOUdxd1NmQU5JMEctVmFMRnAtT2w3MnlmX2ZIVmhXdXNMeHZsXzU5c2l4RW9pRTVMOHFZeXdRanVWTGpSX0JNZnpCeWdQV0NwY0V3MlNYcVRERVN6Y1NGTFR0OTMteklRVDhDRTd3SkYyT3U4Zmd4ZFQwWE9waGhSREdCMndHU1h3MHRsaVJr?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T04:51:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPdmdsWnNsZkJYbF8xZHJaMHpGTzFfUE5BMkh5Q0VGZEVYRU1KYmY5dnk0N2hkLUJTcTZEQzRGNnF4aUh2TFhicnItbGptaXhpX1NxSEtrMVM3dXFlY1QwdHJld0hDSDNXU3R3UWdtWk",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPdmdsWnNsZkJYbF8xZHJaMHpGTzFfUE5BMkh5Q0VGZEVYRU1KYmY5dnk0N2hkLUJTcTZEQzRGNnF4aUh2TFhicnItbGptaXhpX1NxSEtrMVM3dXFlY1QwdHJld0hDSDNXU3R3UWdtWk"
+    },
     {
       "id": "165a6fa265a3",
       "title": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Valtteri Bottas has unveiled a special one-off helmet design for the Azerbaijan Grand Prix to raise awareness and funds for the Care For Wild Rhino Sanctuary.<br />The Cadillac Formula 1 driver reveal",
       "summary_en": "Valtteri Bottas has unveiled a special one-off helmet design for the Azerbaijan Grand Prix to raise awareness and funds for the Care For Wild Rhino Sanctuary.<br />The Cadillac Formula 1 driver reveal"
-    },
-    {
-      "id": "be571af219be",
-      "title": "What Kimi Antonelli has learned from Max Verstappen",
-      "title_fr": "What Kimi Antonelli has learned from Max Verstappen",
-      "title_en": "What Kimi Antonelli has learned from Max Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-antonelli-has-learned-from-verstappen/10858496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YN7vmNb6/s6/gettyimages-2295056123.jpg",
-      "published_at": "2026-09-24T11:15:11+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "At just 20, Mercedes' Kimi Antonelli is of an age where many people feel they have nothing to learn from those more experienced than them. Having won eight grands prix this year, including five consec",
-      "summary_en": "At just 20, Mercedes' Kimi Antonelli is of an age where many people feel they have nothing to learn from those more experienced than them. Having won eight grands prix this year, including five consec"
-    },
-    {
-      "id": "c1f4c9144898",
-      "title": "à quelle heure et sur quelle chaîne voir les qualifications du Grand Prix de Formule 1 d'Azerbaïdjan ? - L'Équipe",
-      "title_fr": "à quelle heure et sur quelle chaîne voir les qualifications du Grand Prix de Formule 1 d'Azerbaïdjan ? - L'Équipe",
-      "title_en": "à quelle heure et sur quelle chaîne voir les qualifications du Grand Prix de Formule 1 d'Azerbaïdjan ? - L'Équipe",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHlKLXBJdGxqNGhLMWpHLWZpWV91YXljdWFBcWZGMmYzeHI2UEh1bnV0SHBlT2JtRC16WmQ0ZzBCQk4tY01QcmRRbUZrMFpaR1NLdlB0cDhNVDVZaXdfUEk3cXNRd2RCSS11ZE13c29JeXNEbFdxdWFQMDB0TUEtVEZ3eVB0bjFLQWVQUExYWFIyanJlNE9OTi1LcmFfX0dyNzBpZmlxWjdpZTIwanRNVGw4c05Wc1lVTDc5VVU0czFRT0R6T2h5cnU1VXVZQTMwanFwenMtYm8wOXlEbjA2MmE2R2RYOUk?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-24T11:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHlKLXBJdGxqNGhLMWpHLWZpWV91YXljdWFBcWZGMmYzeHI2UEh1bnV0SHBlT2JtRC16WmQ0ZzBCQk4tY01QcmRRbUZrMFpaR1NLdlB0cDhNVDVZaXdfUEk3cXNRd2RCSS11ZE13c2",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHlKLXBJdGxqNGhLMWpHLWZpWV91YXljdWFBcWZGMmYzeHI2UEh1bnV0SHBlT2JtRC16WmQ0ZzBCQk4tY01QcmRRbUZrMFpaR1NLdlB0cDhNVDVZaXdfUEk3cXNRd2RCSS11ZE13c2"
     }
   ]
 }
