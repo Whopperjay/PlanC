@@ -173,46 +173,6 @@
       ]
     },
     {
-      "id": "bahrain",
-      "name": "Bahrain Grand Prix",
-      "country": "Bahrain",
-      "circuit": "Bahrain International Circuit",
-      "flag_emoji": "🇧🇭",
-      "cancelled": true,
-      "events": [
-        {
-          "id": "bahrain-fp1",
-          "type": "fp1",
-          "date_time": "2026-04-10T14:30:00+02:00",
-          "race_name": "Bahrain Grand Prix"
-        },
-        {
-          "id": "bahrain-fp2",
-          "type": "fp2",
-          "date_time": "2026-04-10T18:00:00+02:00",
-          "race_name": "Bahrain Grand Prix"
-        },
-        {
-          "id": "bahrain-fp3",
-          "type": "fp3",
-          "date_time": "2026-04-11T14:30:00+02:00",
-          "race_name": "Bahrain Grand Prix"
-        },
-        {
-          "id": "bahrain-quali",
-          "type": "qualifying",
-          "date_time": "2026-04-11T18:00:00+02:00",
-          "race_name": "Bahrain Grand Prix"
-        },
-        {
-          "id": "bahrain-gp",
-          "type": "grand_prix",
-          "date_time": "2026-04-12T17:00:00+02:00",
-          "race_name": "Bahrain Grand Prix"
-        }
-      ]
-    },
-    {
       "id": "saudi",
       "name": "Saudi Arabian Grand Prix",
       "country": "Saudi Arabia",
@@ -717,6 +677,45 @@
           "type": "grand_prix",
           "date_time": "2026-09-26T11:00:00Z",
           "race_name": "Azerbaijan Grand Prix"
+        }
+      ]
+    },
+    {
+      "id": "bahrain",
+      "name": "Bahrain Grand Prix in Malaysia",
+      "country": "Malaysia",
+      "circuit": "Sepang International Circuit",
+      "flag_emoji": "🇲🇾",
+      "events": [
+        {
+          "id": "bahrain-fp1",
+          "type": "fp1",
+          "date_time": "2026-10-02T04:30:00Z",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-fp2",
+          "type": "fp2",
+          "date_time": "2026-10-02T08:00:00Z",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-fp3",
+          "type": "fp3",
+          "date_time": "2026-10-03T04:30:00Z",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-quali",
+          "type": "qualifying",
+          "date_time": "2026-10-03T08:00:00Z",
+          "race_name": "Bahrain Grand Prix"
+        },
+        {
+          "id": "bahrain-gp",
+          "type": "grand_prix",
+          "date_time": "2026-10-04T07:00:00Z",
+          "race_name": "Bahrain Grand Prix"
         }
       ]
     },

@@ -24,10 +24,28 @@ ENDPOINTS = {
     "qualifying": "https://api.jolpi.ca/ergast/f1/current/qualifying/?limit=100",
     "sprint": "https://api.jolpi.ca/ergast/f1/current/sprint/?limit=100"
 }
+# The data/ artifacts this job owns: the endpoint dumps above plus everything the
+# generators below write. Every OTHER file in data/ (news.json, ai_predictions.json,
+# pitwall_feed.json) belongs to the f1-news-updater / pitwall producers, which commit
+# them from their own clone.
+OWNED_DATA_FILES = sorted(set(
+    [name + ".json" for name in ENDPOINTS] + [
+        "sprint_qualifying.json",
+        "driver_teams.json",
+        "calendar_sessions.json",
+        "f1_2026_calendar.json",
+        "calendar_status.json",
+        "last_updated.txt",
+    ]
+))
+
 # Maps Ergast raceName -> event ID prefix used in the bundled f1_2026_calendar.json
 ERGAST_TO_EVENT_PREFIX = {
     'Australian Grand Prix':    'australia',
     'Bahrain Grand Prix':       'bahrain',
+    # 2026: the Bahrain GP was relocated to Sepang (Malaysia) and renamed upstream.
+    # Both names point at the same app race id so sessions/status keep working.
+    'Bahrain Grand Prix in Malaysia': 'bahrain',
     'Saudi Arabian Grand Prix': 'saudi',
     'Chinese Grand Prix':       'china',
     'Japanese Grand Prix':      'japan',
@@ -226,14 +244,29 @@ def git_commit_and_push():
 
         # Check if there are changes
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+        if status.returncode != 0:
+            # A broken repository used to look exactly like "nothing changed" here,
+            # which silently froze the published data for days.
+            print("GIT ERROR: repository unusable, nothing pushed: " + status.stderr.strip())
+            return
         if not status.stdout.strip():
             print("No changes to commit.")
             return
 
         print(f"Changes detected on branch '{branch}'. Committing and pushing...")
-        
-        # Add changes
-        subprocess.run(["git", "add", "."], check=True)
+
+        # Stage everything EXCEPT data/, then only the data/ artifacts we own. This
+        # container's copies of news.json & friends are stale or missing, so a blanket
+        # `git add .` would revert (or delete) another producer's files.
+        subprocess.run(["git", "add", "-A", "--", ".", ":(exclude)data"], check=True)
+        owned = [os.path.join(DATA_DIR, n) for n in OWNED_DATA_FILES
+                 if os.path.exists(os.path.join(DATA_DIR, n))]
+        if owned:
+            subprocess.run(["git", "add", "--"] + owned, check=True)
+
+        if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
+            print("No changes to commit (nothing staged from our own files).")
+            return
         
         # Commit
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -429,13 +462,14 @@ def generate_calendar_status():
 
     ergast_names = {r['raceName'] for r in data['MRData']['RaceTable']['Races']}
 
-    confirmed = []
-    cancelled = []
-    for name, prefix in ERGAST_TO_EVENT_PREFIX.items():
-        if name in ergast_names:
-            confirmed.append(prefix)
-        else:
-            cancelled.append(prefix)
+    # One race id can be reachable through several Ergast names (a GP renamed
+    # mid-season). It is confirmed as soon as ONE of them is in the schedule, and
+    # must never appear in both lists: the app gives priority to `cancelled`.
+    confirmed_ids = {prefix for name, prefix in ERGAST_TO_EVENT_PREFIX.items()
+                     if name in ergast_names}
+    all_ids = list(dict.fromkeys(ERGAST_TO_EVENT_PREFIX.values()))
+    confirmed = [p for p in all_ids if p in confirmed_ids]
+    cancelled = [p for p in all_ids if p not in confirmed_ids]
 
     out_path = os.path.join(DATA_DIR, 'calendar_status.json')
     with open(out_path, 'w') as f:
