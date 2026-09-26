@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-09-25T22:33:52Z",
+  "last_updated": "2026-09-26T01:39:25Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
+    {
+      "id": "b09fbda6ed13",
+      "title": "On This Day: Hamilton scores 100th F1 win as Norris throws away his first | Brief",
+      "title_fr": "On This Day: Hamilton scores 100th F1 win as Norris throws away his first | Brief",
+      "title_en": "On This Day: Hamilton scores 100th F1 win as Norris throws away his first | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/09/26/on-this-day-norriss-tyre-error-costs-him-breakthrough-formula-1-win/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2021/10/racefansdotnet-21-10-04-21-59-23-1.jpg",
+      "published_at": "2026-09-25T23:01:56+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Heartbroken Norris loses first F1 win to Hamilton after tyre error",
+      "summary_en": "Heartbroken Norris loses first F1 win to Hamilton after tyre error"
+    },
+    {
+      "id": "188a2919cf40",
+      "title": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
+      "title_fr": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
+      "title_en": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-i-need-a-tow-bar-to-hook-onto-mercedes-to-fight-for-baku-win/10859038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YXyKvvx6/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-09-25T23:00:02+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand Prix.<br />However, t",
+      "summary_en": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand Prix.<br />However, t"
+    },
     {
       "id": "7e3f1c1db18b",
       "title": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
@@ -611,6 +649,44 @@
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxNZV9ZY0VNUlZhdm0xWDZwcF80Z2xBZHhIWmlDdDNRU3M5OGRRTW5keHFNX0dVOVlzNzdWb1VjRFgtYVdoYk9WT3lnTXgxbUFKOUZFMVR2MTEtWGRVMXZkWUprNFlZcWU0SWJKTURlUj"
     },
     {
+      "id": "cdc1d4e2783d",
+      "title": "F1 - GP d'Azerbaïdjan: Russell signe la pole à Bakou, Hadjar de retour en force - RMC Sport",
+      "title_fr": "F1 - GP d'Azerbaïdjan: Russell signe la pole à Bakou, Hadjar de retour en force - RMC Sport",
+      "title_en": "F1 - GP d'Azerbaïdjan: Russell signe la pole à Bakou, Hadjar de retour en force - RMC Sport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdWVON0wwa0IwZ1QwdEhqMElDQW84LVNsTVp5cjNhcXdTNmpJQVJmd2JpMmZBOVljTGZuYU1qQ0tFUHZ1S041eXRpX3JOdGN3dndqdmNQR3QwbDNocTFFUXk1NWFxb3k1endfVExkemJRSQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T13:23:37+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdW",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM2xyOERac0xlenhUbms0ZUduZ0FNSlRUOVNsb2FIWUQ2OWZVQS1FRmY3d1gySHRKMXc4dTB4eTJEb05abGJWTnhRM3pDMXhJTzc3ZE9oNndnNjliN1R1ZC1meVc2RUhURG9tQ05FdW"
+    },
+    {
+      "id": "f621da13e105",
+      "title": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 1, casse moteur pour Isack Hadjar, Esteban Ocon commence bien, séance difficile pour Pierre Gasly - Turbo.fr",
+      "title_fr": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 1, casse moteur pour Isack Hadjar, Esteban Ocon commence bien, séance difficile pour Pierre Gasly - Turbo.fr",
+      "title_en": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 1, casse moteur pour Isack Hadjar, Esteban Ocon commence bien, séance difficile pour Pierre Gasly - Turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTG0yTFBfVTFyWmlCcE84bUhtM2xLNXJSVDJqR3VaLVdhbjFSa1NLbEV4MWVpdnJkWm1SQy15SWJIM0hNSkx6UE90dzhTdjhYZW5OYm42N3QwT3FMZkdiRndXbnhwaUdGS1JEOThMaTl4SHRpMXZOby10OThha2xOUkVEZlRta2N6aFFEWXFNbDJBYUN2NFJkeElpbzJuMU5fQnRUT1c4eGpIOEVlZmVKd2EwWTBUWlNXYUd6YXhvcFJuVGpPQm1IQk1mZFczQWgzbFBrYnV5X1VDc3YyRlplcHdhNGRQcnpia2wtc1hja1g5NmVXT3dxRnpkNVhGdEZKcDJoOTVqanBQMTFpYUhQMWxVbDhvY2poN0dEeDl2enJ0UTQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T13:23:17+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQTG0yTFBfVTFyWmlCcE84bUhtM2xLNXJSVDJqR3VaLVdhbjFSa1NLbEV4MWVpdnJkWm1SQy15SWJIM0hNSkx6UE90dzhTdjhYZW5OYm42N3QwT3FMZkdiRndXbnhwaUdGS1JEOThMaT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQTG0yTFBfVTFyWmlCcE84bUhtM2xLNXJSVDJqR3VaLVdhbjFSa1NLbEV4MWVpdnJkWm1SQy15SWJIM0hNSkx6UE90dzhTdjhYZW5OYm42N3QwT3FMZkdiRndXbnhwaUdGS1JEOThMaT"
+    },
+    {
       "id": "de7afa967869",
       "title": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 2, Mercedes assomme déjà la concurrence, Top 10 pour Pierre Gasly, Isack Hadjar et Esteban Ocon - Turbo.fr",
       "title_fr": "GP d'Azerbaïdjan de F1 : le classement des Essais Libres 2, Mercedes assomme déjà la concurrence, Top 10 pour Pierre Gasly, Isack Hadjar et Esteban Ocon - Turbo.fr",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes driver George Russell has beaten Charles Leclerc to take a dominant pole at Formula 1's Azerbaijan Grand Prix, while team-mate and title favourite Kimi Antonelli is set for a comeback race fr",
       "summary_en": "Mercedes driver George Russell has beaten Charles Leclerc to take a dominant pole at Formula 1's Azerbaijan Grand Prix, while team-mate and title favourite Kimi Antonelli is set for a comeback race fr"
-    },
-    {
-      "id": "a13c5835b393",
-      "title": "F1 Azerbaijan GP: George Russell takes dominant pole as Kimi Antonelli crashes out",
-      "title_fr": "F1 Azerbaijan GP: George Russell takes dominant pole as Kimi Antonelli crashes out",
-      "title_en": "F1 Azerbaijan GP: George Russell takes dominant pole as Kimi Antonelli crashes out",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-qualifying-report/10858880/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0qgKlN4Y/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-09-25T13:14:46+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes driver George Russell has beaten Charles Leclerc to take a dominant pole at F1's Azerbaijan GP, while team-mate and title favourite Kimi Antonelli crashed out of Q1.<br />At the 6km Baku City",
-      "summary_en": "Mercedes driver George Russell has beaten Charles Leclerc to take a dominant pole at F1's Azerbaijan GP, while team-mate and title favourite Kimi Antonelli crashed out of Q1.<br />At the 6km Baku City"
-    },
-    {
-      "id": "e75b100173aa",
-      "title": "Russell dominates Baku qualifying for pole after Antonelli crashes in Q1 | 2026 Azerbaijan Grand Prix qualifying report",
-      "title_fr": "Russell dominates Baku qualifying for pole after Antonelli crashes in Q1 | 2026 Azerbaijan Grand Prix qualifying report",
-      "title_en": "Russell dominates Baku qualifying for pole after Antonelli crashes in Q1 | 2026 Azerbaijan Grand Prix qualifying report",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/25/russell-dominates-baku-qualifying-for-pole-after-antonelli-crashes-in-q1/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-17-29-40-5-M631014_F1_Grand_Prix_of_Azerbaijan_Practice.jpg",
-      "published_at": "2026-09-25T13:12:10+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell took a dominant pole position in Baku after his team mate and championship rival Andrea Kimi Antonelli crashed out in Q1.",
-      "summary_en": "George Russell took a dominant pole position in Baku after his team mate and championship rival Andrea Kimi Antonelli crashed out in Q1."
-    },
-    {
-      "id": "b88bf90b8b3e",
-      "title": "GP d'Azerbaïdjan de F1 : la grille de départ, superbe 2e ligne pour Isack Hadjar, Max Verstappen passe au travers - Turbo.fr",
-      "title_fr": "GP d'Azerbaïdjan de F1 : la grille de départ, superbe 2e ligne pour Isack Hadjar, Max Verstappen passe au travers - Turbo.fr",
-      "title_en": "GP d'Azerbaïdjan de F1 : la grille de départ, superbe 2e ligne pour Isack Hadjar, Max Verstappen passe au travers - Turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmRvOUdLZUJUODFUMWdoci1vLURMVkF0YjliR25NNnlwcmQwUkRGSThJTl9LeWZsT0VfQTlMOHFubzd4UEhHOXJQUGlSR3VhOU1YdXdVaGlvbFJITEpqdHNjQzIyam1rVkk2T083am9mYl93R0x3Qkg3dEZPQWhpelJhN1FQWTg2eno5Q1dQMVUwZjJmRUlYeXVBbEZiZmFhZnhwMkVTNlBhY2IyS1lSbmZzREY0eUltUjJTbEJEWWJQeHZRMUV6OVBtNkVzdHpLNEpXTC1kVkgtVk5nak5RN2h2RVpoVjFHODF1THZB?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-25T13:09:33+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmRvOUdLZUJUODFUMWdoci1vLURMVkF0YjliR25NNnlwcmQwUkRGSThJTl9LeWZsT0VfQTlMOHFubzd4UEhHOXJQUGlSR3VhOU1YdXdVaGlvbFJITEpqdHNjQzIyam1rVkk2T083am",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZmRvOUdLZUJUODFUMWdoci1vLURMVkF0YjliR25NNnlwcmQwUkRGSThJTl9LeWZsT0VfQTlMOHFubzd4UEhHOXJQUGlSR3VhOU1YdXdVaGlvbFJITEpqdHNjQzIyam1rVkk2T083am"
-    },
-    {
-      "id": "192f68526e8d",
-      "title": "2026 Azerbaijan Grand Prix grid | Formula 1",
-      "title_fr": "2026 Azerbaijan Grand Prix grid | Formula 1",
-      "title_en": "2026 Azerbaijan Grand Prix grid | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/25/2026-azerbaijan-grand-prix-grid/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-17-29-40-11-M631131_F1_AZERBAIJAIN_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-09-25T13:07:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell has taken provisional pole position for the Azerbaijan Grand Prix for Mercedes ahead of Charles Leclerc and Oscar Piastri.",
-      "summary_en": "George Russell has taken provisional pole position for the Azerbaijan Grand Prix for Mercedes ahead of Charles Leclerc and Oscar Piastri."
     }
   ]
 }
