@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T01:39:25Z",
+  "last_updated": "2026-09-26T04:44:48Z",
   "model": "llama-3.1-8b-instant",
   "articles": [
     {
@@ -573,6 +573,25 @@
       "summary_en": "Max Verstappen revealed a problem with his power unit left him at a disadvantage in qualifying for the Azerbaijan Grand Prix."
     },
     {
+      "id": "955526c8716a",
+      "title": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications, Russell inflige une claque à la concurrence, Antonelli part à la faute - L'Automobile Magazine",
+      "title_fr": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications, Russell inflige une claque à la concurrence, Antonelli part à la faute - L'Automobile Magazine",
+      "title_en": "Grand Prix d'Azerbaïdjan 2026 : résultats des qualifications, Russell inflige une claque à la concurrence, Antonelli part à la faute - L'Automobile Magazine",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZVNWbXFPRC1EVjBfZ1RGLWZoT0tjNDlJeVNHdTdaTEswZlBIMUp6UG1WazhMR3dMUHVnSS10NklVTER6dzhlMjVMc09QZm8zcVU?oc=5",
+      "image_url": null,
+      "published_at": "2026-09-25T13:47:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZV",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXprby1YdjJ3RUIwZGd0VHNOeF9BNjV5UDBkeEdIUnBuVENDeEZYN1k0N29wdXBKc19MQm50dTFrYmNheXRnZHg1MVBpMG5kWnNaTVRUZHNxdldUWG9yRXVyZVRvZ1Q2V1dBUjVDZV"
+    },
+    {
       "id": "3ca89797b042",
       "title": "Sainz summoned over second yellow flag infringement after qualifying | Formula 1",
       "title_fr": "Sainz summoned over second yellow flag infringement after qualifying | Formula 1",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaG55RFNXUUlaZmljUm5FVXFfLTJ1NEp2Y2xTMHFzM1JJZjBlSWx2RThyak0zTWU2bmlueXZxeVJYTjVwX3YxdF92b3phbDRUb1lWeVRMaURQZFEzYm1lcmU1VHFyNHBNOTcySXRQcj",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaG55RFNXUUlaZmljUm5FVXFfLTJ1NEp2Y2xTMHFzM1JJZjBlSWx2RThyak0zTWU2bmlueXZxeVJYTjVwX3YxdF92b3phbDRUb1lWeVRMaURQZFEzYm1lcmU1VHFyNHBNOTcySXRQcj"
-    },
-    {
-      "id": "f58c718de474",
-      "title": "F1 Azerbaijan GP: Russell dominates to pole after Antonelli crashes out in qualifying",
-      "title_fr": "F1 Azerbaijan GP: Russell dominates to pole after Antonelli crashes out in qualifying",
-      "title_en": "F1 Azerbaijan GP: Russell dominates to pole after Antonelli crashes out in qualifying",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-azerbaijan-gp-qualifying-report/10858882/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZXl1V6/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-09-25T13:14:55+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes driver George Russell has beaten Charles Leclerc to take a dominant pole at Formula 1's Azerbaijan Grand Prix, while team-mate and title favourite Kimi Antonelli is set for a comeback race fr",
-      "summary_en": "Mercedes driver George Russell has beaten Charles Leclerc to take a dominant pole at Formula 1's Azerbaijan Grand Prix, while team-mate and title favourite Kimi Antonelli is set for a comeback race fr"
     }
   ]
 }
