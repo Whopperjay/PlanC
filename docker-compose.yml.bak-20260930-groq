@@ -16,8 +16,7 @@ services:
       - GIT_SSH_COMMAND=ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no
       - OLLAMA_URL=http://host.docker.internal:11434   # fallback only (LLM_PROVIDER=ollama)
       - LLM_PROVIDER=groq
-      - GROQ_MODEL=openai/gpt-oss-120b
-      - GROQ_PRED_MODEL=openai/gpt-oss-120b
+      - GROQ_MODEL=llama-3.3-70b-versatile
       - DATA_DIR=data
     extra_hosts:
       - host.docker.internal:host-gateway
