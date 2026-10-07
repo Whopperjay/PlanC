@@ -15,14 +15,14 @@ GITHUB_BRANCH = "main"
 ENDPOINTS = {
     "current_schedule": "https://api.jolpi.ca/ergast/f1/current/",
     "last_results": "https://api.jolpi.ca/ergast/f1/current/last/results/",
-    "current_results": "https://api.jolpi.ca/ergast/f1/current/results/?limit=100",
+    "current_results": "https://api.jolpi.ca/ergast/f1/current/results/",
     "next_race": "https://api.jolpi.ca/ergast/f1/current/next/",
     "driver_standings": "https://api.jolpi.ca/ergast/f1/current/driverStandings/",
     "constructor_standings": "https://api.jolpi.ca/ergast/f1/current/constructorStandings/",
     "drivers": "https://api.jolpi.ca/ergast/f1/current/drivers/?limit=100",
     "constructors": "https://api.jolpi.ca/ergast/f1/current/constructors/?limit=100",
-    "qualifying": "https://api.jolpi.ca/ergast/f1/current/qualifying/?limit=100",
-    "sprint": "https://api.jolpi.ca/ergast/f1/current/sprint/?limit=100"
+    "qualifying": "https://api.jolpi.ca/ergast/f1/current/qualifying/",
+    "sprint": "https://api.jolpi.ca/ergast/f1/current/sprint/"
 }
 # The data/ artifacts this job owns: the endpoint dumps above plus everything the
 # generators below write. Every OTHER file in data/ (news.json, ai_predictions.json,
@@ -109,6 +109,108 @@ def fetch_and_save(name, url, retries=3, backoff=15):
             else:
                 print(f"Error fetching {name}: {e}")
                 return None
+
+# Endpoints dont la reponse est paginee PAR LIGNE DE RESULTAT, pas par course.
+#
+# C'est le piege qui a fige le scoring de l'app a la manche 5 pendant toute la
+# saison : avec ~22 pilotes par course, un `limit=100` ne ramene que 5 manches
+# — et coupe la cinquieme au milieu (le GP du Canada est sorti avec 12 lignes
+# sur 22). Rien ne le signalait : le fichier etait valide, juste tronque.
+# Au 2026-10-04 l'API annonce 330 resultats de course sur 15 manches et 347
+# qualifications sur 16, donc 4 pages chacun.
+PAGINATED_ENDPOINTS = {
+    "current_results": ["Results"],
+    "qualifying": ["QualifyingResults"],
+    "sprint": ["SprintResults"],
+}
+
+def fetch_all_pages(name, url, result_keys, retries=3, backoff=15, max_pages=30):
+    """Suit la pagination et recolle les courses coupees entre deux pages.
+
+    Une course peut etre a cheval sur deux pages : ses lignes sont alors
+    concatenees dans l'ordre d'arrivee, qui est l'ordre de l'API. Le fichier
+    ecrit garde exactement la forme d'une reponse simple, pour que
+    `merge_results_into_schedule()` et les autres consommateurs ne changent pas.
+    """
+    races_by_round = {}
+    order = []
+    offset = 0
+    total = None
+    pages = 0
+    header = None
+
+    while True:
+        sep = "&" if "?" in url else "?"
+        page_url = "{}{}limit=100&offset={}".format(url, sep, offset)
+
+        data = None
+        for attempt in range(1, retries + 1):
+            try:
+                print("Fetching {} page {} from {}...".format(name, pages + 1, page_url))
+                response = requests.get(page_url, timeout=20)
+                if response.status_code == 429 and attempt < retries:
+                    wait = backoff * attempt
+                    print("  Rate limited (429) for {}. Retrying in {}s...".format(name, wait))
+                    time.sleep(wait)
+                    continue
+                response.raise_for_status()
+                data = response.json()
+                break
+            except Exception as e:
+                if attempt < retries:
+                    wait = backoff * attempt
+                    print("  Error fetching {}: {}. Retrying in {}s...".format(name, e, wait))
+                    time.sleep(wait)
+                else:
+                    print("Error fetching {}: {}".format(name, e))
+                    return None
+
+        md = data.get("MRData", {})
+        if header is None:
+            header = {k: v for k, v in md.items() if k != "RaceTable"}
+        try:
+            total = int(md.get("total", 0))
+            limit = int(md.get("limit", 100))
+        except (TypeError, ValueError):
+            print("  {}: pagination illisible, on s'arrete".format(name))
+            return None
+
+        for race in md.get("RaceTable", {}).get("Races", []):
+            rnd = race.get("round")
+            if rnd is None:
+                continue
+            if rnd not in races_by_round:
+                races_by_round[rnd] = race
+                order.append(rnd)
+            else:
+                for key in result_keys:
+                    if key in race:
+                        races_by_round[rnd].setdefault(key, []).extend(race[key])
+
+        pages += 1
+        offset += limit
+        if offset >= total or pages >= max_pages:
+            break
+        time.sleep(0.4)
+
+    if pages >= max_pages and offset < total:
+        # Tronquer en silence est precisement le defaut qu'on corrige ici.
+        print("  WARNING {}: arrete a {} pages, {}/{} lignes recuperees".format(
+            name, pages, offset, total))
+
+    race_table = md.get("RaceTable", {})
+    out_table = {k: v for k, v in race_table.items() if k != "Races"}
+    out_table["Races"] = [races_by_round[r] for r in order]
+    payload = {"MRData": dict(header or {}, RaceTable=out_table)}
+
+    file_path = os.path.join(DATA_DIR, "{}.json".format(name))
+    with open(file_path, "w") as f:
+        json.dump(payload, f, indent=2)
+
+    lines = sum(len(races_by_round[r].get(k, [])) for r in order for k in result_keys)
+    print("Saved {} to {} ({} manches, {} lignes, {} pages)".format(
+        name, file_path, len(order), lines, pages))
+    return payload
 
 def transform_result(entry, is_qualy=False):
     """
@@ -487,7 +589,11 @@ def job():
     
     success_count = 0
     for name, url in ENDPOINTS.items():
-        if fetch_and_save(name, url) is not None:
+        if name in PAGINATED_ENDPOINTS:
+            result = fetch_all_pages(name, url, PAGINATED_ENDPOINTS[name])
+        else:
+            result = fetch_and_save(name, url)
+        if result is not None:
             success_count += 1
             
     if success_count > 0:
@@ -507,6 +613,9 @@ def job():
         fetch_sprint_qualifying_from_openf1()
         # Merge all data into current_schedule.json for the app
         merge_results_into_schedule()
+        # Score the prediction leagues from the results we just published.
+        # Isolated: a scoring failure must never stop the data from shipping.
+        score_prediction_leagues()
         git_commit_and_push()
     
     print("Job finished.")
@@ -777,6 +886,28 @@ def fetch_driver_teams():
     except Exception as e:
         print(f"Error generating driver teams: {e}")
         return False
+
+
+
+def score_prediction_leagues():
+    """Calcule les scores des ligues et les ecrit dans CloudKit.
+
+    Le serveur est le seul endroit qui voit les resultats au moment ou ils sont
+    publies, et le seul a pouvoir ecrire sans donner a chaque joueur le droit de
+    modifier le score des autres. Voir scripts/score_predictions.py.
+
+    Tout est capture : la publication des donnees passe avant. Un echec se lit
+    dans les logs du conteneur et n'empeche rien d'autre de partir.
+    """
+    if not os.environ.get("CLOUDKIT_KEY_ID"):
+        print("Scoring: CLOUDKIT_KEY_ID absent, etape ignoree.")
+        return
+    try:
+        import score_predictions
+        code = score_predictions.main_for_job()
+        print(f"Scoring: termine (code {code}).")
+    except Exception as exc:  # noqa: BLE001 - journaliser et continuer
+        print(f"Scoring: echec - {exc}")
 
 
 def main():

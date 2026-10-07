@@ -1,6 +1,7 @@
 {
   "confirmed": [
     "australia",
+    "bahrain",
     "china",
     "japan",
     "miami",
@@ -24,7 +25,6 @@
     "abudhabi"
   ],
   "cancelled": [
-    "bahrain",
     "saudi"
   ]
 }

@@ -5,9 +5,13 @@ services:
     restart: unless-stopped
     env_file:
       - groq.env
+      - cloudkit.env
     volumes:
       # Mount the host's SSH keys so the container can authenticate with GitHub
       - /root/.ssh:/root/.ssh:ro
+      # Cle server-to-server CloudKit. Elle vit hors du dossier du projet :
+      # celui-ci est publie sur un depot GitHub PUBLIC.
+      - /root/.cloudkit:/root/.cloudkit:ro
       # Sync timezone
       - /etc/timezone:/etc/timezone:ro
       - /etc/localtime:/etc/localtime:ro
@@ -19,5 +23,8 @@ services:
       - GROQ_MODEL=openai/gpt-oss-120b
       - GROQ_PRED_MODEL=openai/gpt-oss-120b
       - DATA_DIR=data
+      - CLOUDKIT_CONTAINER=iCloud.Planc
+      - CLOUDKIT_ENV=production
+      - CLOUDKIT_KEY_PATH=/root/.cloudkit/eckey.pem
     extra_hosts:
       - host.docker.internal:host-gateway

@@ -24,10 +24,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -49,10 +49,10 @@
                 "nationality": "Italian"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -74,10 +74,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -99,10 +99,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -124,10 +124,10 @@
                 "nationality": "Australian"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -149,10 +149,10 @@
                 "nationality": "Monegasque"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -174,10 +174,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -199,10 +199,10 @@
                 "nationality": "Dutch"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -224,10 +224,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -249,10 +249,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -274,10 +274,10 @@
                 "nationality": "German"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -299,10 +299,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -324,10 +324,10 @@
                 "nationality": "New Zealander"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -349,10 +349,10 @@
                 "nationality": "Brazilian"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -374,10 +374,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "rb",
-                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                "name": "RB F1 Team",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -399,10 +399,10 @@
                 "nationality": "Argentine"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -424,10 +424,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -449,10 +449,10 @@
                 "nationality": "Thai"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -474,10 +474,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -499,10 +499,10 @@
                 "nationality": "Canadian"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -524,10 +524,10 @@
                 "nationality": "Finnish"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -549,10 +549,10 @@
                 "nationality": "Mexican"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             }
           ]
@@ -579,10 +579,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -604,10 +604,10 @@
                 "nationality": "Italian"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -629,10 +629,10 @@
                 "nationality": "Australian"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -654,10 +654,10 @@
                 "nationality": "Monegasque"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -679,10 +679,10 @@
                 "nationality": "Dutch"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -704,10 +704,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -729,10 +729,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -754,10 +754,10 @@
                 "nationality": "Argentine"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -779,10 +779,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -804,10 +804,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -829,10 +829,10 @@
                 "nationality": "Brazilian"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -854,10 +854,10 @@
                 "nationality": "German"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -879,10 +879,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -904,10 +904,10 @@
                 "nationality": "Thai"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -929,10 +929,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -954,10 +954,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "rb",
-                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                "name": "RB F1 Team",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -979,10 +979,10 @@
                 "nationality": "New Zealander"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1004,10 +1004,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1029,10 +1029,10 @@
                 "nationality": "Mexican"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1054,10 +1054,10 @@
                 "nationality": "Finnish"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1079,10 +1079,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1104,10 +1104,10 @@
                 "nationality": "Canadian"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             }
           ]
@@ -1134,10 +1134,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1159,10 +1159,10 @@
                 "nationality": "Italian"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1184,10 +1184,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1209,10 +1209,10 @@
                 "nationality": "Australian"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1234,10 +1234,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1259,10 +1259,10 @@
                 "nationality": "Monegasque"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1284,10 +1284,10 @@
                 "nationality": "Dutch"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1309,10 +1309,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1334,10 +1334,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "rb",
-                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                "name": "RB F1 Team",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1359,10 +1359,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1384,10 +1384,10 @@
                 "nationality": "German"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1409,10 +1409,10 @@
                 "nationality": "Brazilian"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1434,10 +1434,10 @@
                 "nationality": "Argentine"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1459,10 +1459,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1484,10 +1484,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1509,10 +1509,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1534,10 +1534,10 @@
                 "nationality": "Mexican"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1559,10 +1559,10 @@
                 "nationality": "Canadian"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1584,10 +1584,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1609,10 +1609,10 @@
                 "nationality": "Finnish"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1634,10 +1634,10 @@
                 "nationality": "Thai"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1659,10 +1659,10 @@
                 "nationality": "New Zealander"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             }
           ]
@@ -1689,10 +1689,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1714,10 +1714,10 @@
                 "nationality": "Italian"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1739,10 +1739,10 @@
                 "nationality": "Dutch"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1764,10 +1764,10 @@
                 "nationality": "Monegasque"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1789,10 +1789,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1814,10 +1814,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1839,10 +1839,10 @@
                 "nationality": "Australian"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1864,10 +1864,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1889,10 +1889,10 @@
                 "nationality": "New Zealander"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1914,10 +1914,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "rb",
-                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                "name": "RB F1 Team",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1939,10 +1939,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1964,10 +1964,10 @@
                 "nationality": "Brazilian"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -1989,10 +1989,10 @@
                 "nationality": "German"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2014,10 +2014,10 @@
                 "nationality": "Argentine"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2039,10 +2039,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2064,10 +2064,10 @@
                 "nationality": "Thai"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2089,10 +2089,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2114,10 +2114,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2139,10 +2139,10 @@
                 "nationality": "Mexican"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2164,10 +2164,10 @@
                 "nationality": "Finnish"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2189,10 +2189,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2214,10 +2214,10 @@
                 "nationality": "Canadian"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             }
           ]
@@ -2244,10 +2244,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2269,10 +2269,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2294,10 +2294,10 @@
                 "nationality": "Monegasque"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2319,10 +2319,10 @@
                 "nationality": "Australian"
               },
               "Constructor": {
-                "constructorId": "mclaren",
-                "url": "https://en.wikipedia.org/wiki/McLaren",
-                "name": "McLaren",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2344,10 +2344,10 @@
                 "nationality": "Italian"
               },
               "Constructor": {
-                "constructorId": "mercedes",
-                "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                "name": "Mercedes",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2369,10 +2369,10 @@
                 "nationality": "Dutch"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2394,10 +2394,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "ferrari",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                "name": "Ferrari",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2419,10 +2419,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2444,10 +2444,10 @@
                 "nationality": "Brazilian"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2469,10 +2469,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "rb",
-                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                "name": "RB F1 Team",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2494,10 +2494,10 @@
                 "nationality": "New Zealander"
               },
               "Constructor": {
-                "constructorId": "red_bull",
-                "url": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
-                "name": "Red Bull",
-                "nationality": "Austrian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2519,10 +2519,10 @@
                 "nationality": "Japanese"
               },
               "Constructor": {
-                "constructorId": "rb",
-                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                "name": "RB F1 Team",
-                "nationality": "Italian"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2544,10 +2544,10 @@
                 "nationality": "Argentine"
               },
               "Constructor": {
-                "constructorId": "alpine",
-                "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
-                "name": "Alpine F1 Team",
-                "nationality": "French"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2569,10 +2569,10 @@
                 "nationality": "German"
               },
               "Constructor": {
-                "constructorId": "audi",
-                "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
-                "name": "Audi",
-                "nationality": "German"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2594,10 +2594,10 @@
                 "nationality": "French"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2619,10 +2619,10 @@
                 "nationality": "Thai"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2644,10 +2644,10 @@
                 "nationality": "British"
               },
               "Constructor": {
-                "constructorId": "haas",
-                "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
-                "name": "Haas F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2669,10 +2669,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "williams",
-                "url": "https://en.wikipedia.org/wiki/Williams_Racing",
-                "name": "Williams",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2694,10 +2694,10 @@
                 "nationality": "Canadian"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2719,10 +2719,10 @@
                 "nationality": "Finnish"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2744,10 +2744,10 @@
                 "nationality": "Mexican"
               },
               "Constructor": {
-                "constructorId": "cadillac",
-                "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
-                "name": "Cadillac F1 Team",
-                "nationality": "American"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             },
             {
@@ -2769,10 +2769,10 @@
                 "nationality": "Spanish"
               },
               "Constructor": {
-                "constructorId": "aston_martin",
-                "url": "https://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One",
-                "name": "Aston Martin",
-                "nationality": "British"
+                "constructorId": "",
+                "url": null,
+                "name": "",
+                "nationality": ""
               }
             }
           ]
