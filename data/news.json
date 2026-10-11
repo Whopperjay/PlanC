@@ -1,263 +1,54 @@
 {
-  "last_updated": "2026-09-26T10:57:53Z",
-  "model": "llama-3.1-8b-instant",
+  "last_updated": "2026-10-11T09:05:44Z",
+  "model": "openai/gpt-oss-20b",
   "articles": [
     {
-      "id": "5e1bf3ae6c66",
-      "title": "Alex Albon and Carlos Sainz reveal F1 boys' trip plans",
-      "title_fr": "Alex Albon and Carlos Sainz reveal F1 boys' trip plans",
-      "title_en": "Alex Albon and Carlos Sainz reveal F1 boys' trip plans",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/alex-albon-and-carlos-sainz-reveal-f1-boys-trip-plans/10859204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0arEXxy2/s6/alexander-albon-williams-carlo.jpg",
-      "published_at": "2026-09-26T10:43:25+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams team-mates Alex Albon and Carlos Sainz have revealed that a small group of Formula 1 drivers will be using the time between the Bahrain Grand Prix (in Malaysia) and the Singapore Grand Prix t",
-      "summary_en": "Williams team-mates Alex Albon and Carlos Sainz have revealed that a small group of Formula 1 drivers will be using the time between the Bahrain Grand Prix (in Malaysia) and the Singapore Grand Prix t"
-    },
-    {
-      "id": "6348388e91dd",
-      "title": "How McLaren’s major F1 upgrade has been working in Baku",
-      "title_fr": "How McLaren’s major F1 upgrade has been working in Baku",
-      "title_en": "How McLaren’s major F1 upgrade has been working in Baku",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-mclarens-major-f1-upgrade-has-been-working-in-baku/10859110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/27NoGke0/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-09-26T09:20:02+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "After three pole positions in the last four rounds, qualifying for the Azerbaijan Grand Prix was underwhelming for the McLaren Formula 1 team, which has struggled all weekend.<br />The MCL40 was descr",
-      "summary_en": "After three pole positions in the last four rounds, qualifying for the Azerbaijan Grand Prix was underwhelming for the McLaren Formula 1 team, which has struggled all weekend.<br />The MCL40 was descr"
-    },
-    {
-      "id": "534728fc076d",
-      "title": "Max Verstappen backs Kimi Antonelli after Baku F1 qualifying crash: “People forget how young he is”",
-      "title_fr": "Max Verstappen backs Kimi Antonelli after Baku F1 qualifying crash: “People forget how young he is”",
-      "title_en": "Max Verstappen backs Kimi Antonelli after Baku F1 qualifying crash: “People forget how young he is”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-backs-kimi-antonelli-after-baku-f1-qualifying-crash-people-forget-how-young-he-is/10859160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6x7LLGmY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-26T08:47:28+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "After a very strong European leg of the Formula 1 season – which was actually an Achilles’ heel last year – Kimi Antonelli made a rare mistake during qualifying in Baku.<br />The championship leader h",
-      "summary_en": "After a very strong European leg of the Formula 1 season – which was actually an Achilles’ heel last year – Kimi Antonelli made a rare mistake during qualifying in Baku.<br />The championship leader h"
-    },
-    {
-      "id": "1a7affa2f196",
-      "title": "Lando Norris : \"Je dois tout tenter, quitte à y laisser ma peau\" - Motorsport.com France",
-      "title_fr": "Lando Norris : \"Je dois tout tenter, quitte à y laisser ma peau\" - Motorsport.com France",
-      "title_en": "Lando Norris : \"Je dois tout tenter, quitte à y laisser ma peau\" - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3lkeVFHbzdQMkZBLWZTRjF2Zm1haHZoQTBIYV83YjBpbDZsMW5VWUU0NmtCRVlMa1pJa3lGY3VvejdPbVR3MUhBTTc1aENBV2VVSVFVOFpPWEktOFJSMEx4UHpxbHBjSWpEa3pYRHIyT18yc3k1ZlBVR1dhdkFqaDRXMHZOemRVTmc?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T08:46:38+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3lkeVFHbzdQMkZBLWZTRjF2Zm1haHZoQTBIYV83YjBpbDZsMW5VWUU0NmtCRVlMa1pJa3lGY3VvejdPbVR3MUhBTTc1aENBV2VVSVFVOFpPWEktOFJSMEx4UHpxbHBjSWpEa3pYRH",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3lkeVFHbzdQMkZBLWZTRjF2Zm1haHZoQTBIYV83YjBpbDZsMW5VWUU0NmtCRVlMa1pJa3lGY3VvejdPbVR3MUhBTTc1aENBV2VVSVFVOFpPWEktOFJSMEx4UHpxbHBjSWpEa3pYRH"
-    },
-    {
-      "id": "195cee43a8cc",
-      "title": "Baku specialist Leclerc says car feels too “unpredictable” to take risks in qualifying | Formula 1",
-      "title_fr": "Baku specialist Leclerc says car feels too “unpredictable” to take risks in qualifying | Formula 1",
-      "title_en": "Baku specialist Leclerc says car feels too “unpredictable” to take risks in qualifying | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/26/baku-specialist-leclerc-says-car-feels-too-unpredictable-to-take-risks-in-qualifying/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-10-59-47-9-260924_R15_BAKU_DP_XR1_6187.jpg",
-      "published_at": "2026-09-26T08:36:26+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Four-times Baku pole-winner Charles Leclerc> said he couldn't drive with his usual commitment around the track as he lacks confidence in his car.",
-      "summary_en": "Four-times Baku pole-winner Charles Leclerc> said he couldn't drive with his usual commitment around the track as he lacks confidence in his car."
-    },
-    {
-      "id": "f9fafde9dc1c",
-      "title": "Prêt à tout pour revenir en F1, Christian Horner encense la Scuderia : « Ferrari est la plus grande marque de la Formule 1, c'est le rêve » - L'Équipe",
-      "title_fr": "Prêt à tout pour revenir en F1, Christian Horner encense la Scuderia : « Ferrari est la plus grande marque de la Formule 1, c'est le rêve » - L'Équipe",
-      "title_en": "Prêt à tout pour revenir en F1, Christian Horner encense la Scuderia : « Ferrari est la plus grande marque de la Formule 1, c'est le rêve » - L'Équipe",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY3E4N2dJOGl5YXpjN29GcUZBVUxkX0xMYm9pWV9jOHVXM0VQUDBSbm5mQUJTTUk3VFBDanFYR0Z6WGkwYW82WkFtX3Yway1FekxYUnhvallNa3BtdGUtM09od3JJSUF5WTk1djg4cjdaRHdYTGozTmVfRXRfOFZ4VWpMQi1lQVRJNFBFVjRnVzFPUWhZZ2tNbjdnOGhsOGNEbFZPZElheHMtUTRtUEY1SzB2eVpLWktYLTJNWTNRZHdSTGdtY3BPN29XNFZRZU53MDF2N1pINWRZOWppR0xhWWlIUUhtSGxqb213Q1hxOW9jWW5FR1hsM1dGMXVTaWM1aHBqSDR3QjZHeTQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T08:20:57+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY3E4N2dJOGl5YXpjN29GcUZBVUxkX0xMYm9pWV9jOHVXM0VQUDBSbm5mQUJTTUk3VFBDanFYR0Z6WGkwYW82WkFtX3Yway1FekxYUnhvallNa3BtdGUtM09od3JJSUF5WTk1djg4cj",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY3E4N2dJOGl5YXpjN29GcUZBVUxkX0xMYm9pWV9jOHVXM0VQUDBSbm5mQUJTTUk3VFBDanFYR0Z6WGkwYW82WkFtX3Yway1FekxYUnhvallNa3BtdGUtM09od3JJSUF5WTk1djg4cj"
-    },
-    {
-      "id": "ffb7bef3adc7",
-      "title": "Verstappen and Antonelli still a threat for victory despite qualifying setbacks – Russell | Formula 1",
-      "title_fr": "Verstappen and Antonelli still a threat for victory despite qualifying setbacks – Russell | Formula 1",
-      "title_en": "Verstappen and Antonelli still a threat for victory despite qualifying setbacks – Russell | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/26/verstappen-and-antonelli-still-a-threat-for-victory-despite-qualifying-setbacks-russell/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-21-09-26-09-07-11-2.jpg",
-      "published_at": "2026-09-26T08:14:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell believes the biggest threat to his chance of winning the Azerbaijan Grand Prix will come from two drivers who qualified outside the first three rows.",
-      "summary_en": "George Russell believes the biggest threat to his chance of winning the Azerbaijan Grand Prix will come from two drivers who qualified outside the first three rows."
-    },
-    {
-      "id": "f374ee1d82d1",
-      "title": "Qualifications F1 2026 : les face-à-face entre équipiers - GP d'Azerbaïdjan - Motorsport.com France",
-      "title_fr": "Qualifications F1 2026 : les face-à-face entre équipiers - GP d'Azerbaïdjan - Motorsport.com France",
-      "title_en": "Qualifications F1 2026 : les face-à-face entre équipiers - GP d'Azerbaïdjan - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORmlXa1RpSFN0MXdVc3B0ekZPc0Y3RGZ3NDU3c2VvWFllbk9CWmlKU0NhaTdoVjJ5T1BnWVg4cDhIMlhta1VyZ2dfbmgzcDBfRWx5aUVWb1ItWE5mMENma2RtbDVMU3d4VXdDTUlWRGhTb2xNUEtDSjhOeElXYUhhLUg3b1NyY3VqVlFHenlLR1drZzEx?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T08:10:46+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORmlXa1RpSFN0MXdVc3B0ekZPc0Y3RGZ3NDU3c2VvWFllbk9CWmlKU0NhaTdoVjJ5T1BnWVg4cDhIMlhta1VyZ2dfbmgzcDBfRWx5aUVWb1ItWE5mMENma2RtbDVMU3d4VXdDTUlWRG",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORmlXa1RpSFN0MXdVc3B0ekZPc0Y3RGZ3NDU3c2VvWFllbk9CWmlKU0NhaTdoVjJ5T1BnWVg4cDhIMlhta1VyZ2dfbmgzcDBfRWx5aUVWb1ItWE5mMENma2RtbDVMU3d4VXdDTUlWRG"
-    },
-    {
-      "id": "b69540cff223",
-      "title": "Jacques Villeneuve delivers verdict on Esteban Ocon's F1 future",
-      "title_fr": "Jacques Villeneuve delivers verdict on Esteban Ocon's F1 future",
-      "title_en": "Jacques Villeneuve delivers verdict on Esteban Ocon's F1 future",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-delivers-verdict-on-esteban-ocons-f1-future/10858886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2GdKvyMY/s6/esteban-ocon-haas.jpg",
-      "published_at": "2026-09-26T08:00:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "1997 Formula 1 champion Jacques Villeneuve believes Esteban Ocon's grand prix career will end when his time with Haas concludes, arguing the Frenchman is running out of options on the grid.<br />Ocon ",
-      "summary_en": "1997 Formula 1 champion Jacques Villeneuve believes Esteban Ocon's grand prix career will end when his time with Haas concludes, arguing the Frenchman is running out of options on the grid.<br />Ocon "
-    },
-    {
-      "id": "4edce0e53e06",
-      "title": "Lando Norris: ‘I have to go for it or die trying’ to win 2026 F1 title",
-      "title_fr": "Lando Norris: ‘I have to go for it or die trying’ to win 2026 F1 title",
-      "title_en": "Lando Norris: ‘I have to go for it or die trying’ to win 2026 F1 title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-i-have-to-go-for-it-or-die-trying-to-win-2026-f1-title/10859120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxyO9Y/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-26T07:37:46+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris believes he now must give it all to have the slightest chance of winning the 2026 Formula 1 world title – hence a driving error in qualifying for the Azerbaijan Grand Prix.<br />Norris ha",
-      "summary_en": "Lando Norris believes he now must give it all to have the slightest chance of winning the 2026 Formula 1 world title – hence a driving error in qualifying for the Azerbaijan Grand Prix.<br />Norris ha"
-    },
-    {
-      "id": "c1a2f38db24b",
-      "title": "Le Grand Prix d’Azerbaïdjan, un rendez-vous potentiellement décisif dans la saison de formule 1 - Le Monde.fr",
-      "title_fr": "Le Grand Prix d’Azerbaïdjan, un rendez-vous potentiellement décisif dans la saison de formule 1 - Le Monde.fr",
-      "title_en": "Le Grand Prix d’Azerbaïdjan, un rendez-vous potentiellement décisif dans la saison de formule 1 - Le Monde.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX0gzRTZxSkFfenA5ZElEOGJfN2lwMFh3OFhrVzJYTXNhUC13UjNOaUN5SW81aWRvRXdBb0tXdVJURVlYcmJoeVBtVUNxZjcyTWhXdnlmSzZvdXVCcEhudUxHVGw4Qk9LeG5GNllVbzBITmRqdVJwSzZBNHJEQU5RaU1kOW0yZktXUDF3amYwUTFXaU54enE4QTZTalJWamNTOVladXFFQno2Zk53Q1g2MmF3WXdNaTBPbko1V1ZfSlh3UnVZRERsOEk2b3V1cnB1RTliUm94TlZfS0dCblhPa1Ywd1VJekVmcEQ3enZnNldSdw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T07:00:08+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX0gzRTZxSkFfenA5ZElEOGJfN2lwMFh3OFhrVzJYTXNhUC13UjNOaUN5SW81aWRvRXdBb0tXdVJURVlYcmJoeVBtVUNxZjcyTWhXdnlmSzZvdXVCcEhudUxHVGw4Qk9LeG5GNllVbz",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX0gzRTZxSkFfenA5ZElEOGJfN2lwMFh3OFhrVzJYTXNhUC13UjNOaUN5SW81aWRvRXdBb0tXdVJURVlYcmJoeVBtVUNxZjcyTWhXdnlmSzZvdXVCcEhudUxHVGw4Qk9LeG5GNllVbz"
-    },
-    {
-      "id": "a2a80536ca5c",
-      "title": "Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026",
-      "title_fr": "Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026",
-      "title_en": "Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026",
+      "id": "b9222bc3a536",
+      "title": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
+      "title_fr": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
+      "title_en": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
       "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-verstappen-feels-baku-was-red-bulls-best-chance-to-win-in-f1-2026/10859128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6AlvyDDY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-09-26T06:54:55+00:00",
-      "race_id": "azerbaijan",
+      "url": "https://www.autosport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arE17P2/s6/franco-colapinto-alpine-pierre-2.jpg",
+      "published_at": "2026-10-11T07:02:49+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "A problem with the internal combustion engine cost Max Verstappen a good starting position for the Formula 1 Azerbaijan Grand Prix. The four-time world champion readily acknowledged that he probably c",
-      "summary_en": "A problem with the internal combustion engine cost Max Verstappen a good starting position for the Formula 1 Azerbaijan Grand Prix. The four-time world champion readily acknowledged that he probably c"
+      "summary_fr": "The FIA has again owned up to its human error at Formula 1’s Singapore Grand Prix, with its single-seater director Nikolas Tombazis describing it as “the worst thing” for the federation.<br />After sp",
+      "summary_en": "The FIA has again owned up to its human error at Formula 1’s Singapore Grand Prix, with its single-seater director Nikolas Tombazis describing it as “the worst thing” for the federation.<br />After sp"
     },
     {
-      "id": "db8246aaa3b3",
-      "title": "\"Great job messing it up\" – Why Max Verstappen feels Baku was Red Bull's best chance to win",
-      "title_fr": "\"Great job messing it up\" – Why Max Verstappen feels Baku was Red Bull's best chance to win",
-      "title_en": "\"Great job messing it up\" – Why Max Verstappen feels Baku was Red Bull's best chance to win",
+      "id": "2941bc2a1c7c",
+      "title": "FIA admits fairness was compromised in Singapore F1 sprint qualifying “mess”",
+      "title_fr": "FIA reconnaît l'irrégularité du sprint à Singapour",
+      "title_en": "FIA admits sprint qualifying mess in Singapore",
       "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/great-job-messing-it-up-why-max-verstappen-feels-baku-was-red-bulls-best-chance-to-win/10859123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6n7bL8m0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-09-26T06:53:02+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
+      "url": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVPvzd0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-11T06:59:21+00:00",
+      "race_id": "singapore",
+      "category": "réglementation",
       "tags": [
-        "rumeur"
+        "réglementation"
       ],
-      "importance": 30,
+      "importance": 50,
       "is_breaking": false,
-      "summary_fr": "A problem with the internal combustion engine cost Max Verstappen a good starting position for the Formula 1 Azerbaijan Grand Prix. The four-time world champion readily acknowledged that he probably c",
-      "summary_en": "A problem with the internal combustion engine cost Max Verstappen a good starting position for the Formula 1 Azerbaijan Grand Prix. The four-time world champion readily acknowledged that he probably c"
+      "summary_fr": "La FIA reconnaît que la qualification sprint à Singapour a été entachée par des erreurs humaines, notamment l'activation tardive du mode dépassement.",
+      "summary_en": "The FIA admits that the Singapore sprint qualifying was marred by human error, including delayed reactivation of overtaking mode."
     },
     {
-      "id": "cb2b867df533",
-      "title": "Grand Prix d'Azerbaïdjan 2026 : à quelle heure débute la course de F1 ce samedi ? - f1i.autojournal.fr",
-      "title_fr": "Grand Prix d'Azerbaïdjan 2026 : à quelle heure débute la course de F1 ce samedi ? - f1i.autojournal.fr",
-      "title_en": "Grand Prix d'Azerbaïdjan 2026 : à quelle heure débute la course de F1 ce samedi ? - f1i.autojournal.fr",
+      "id": "b1d6ba2e7d65",
+      "title": "Formule 1. La grille de départ du Grand Prix de Singapour, pire qualification de la saison pour Isack Hadjar - Ouest-France",
+      "title_fr": "Formule 1. La grille de départ du Grand Prix de Singapour, pire qualification de la saison pour Isack Hadjar - Ouest-France",
+      "title_en": "Formule 1. La grille de départ du Grand Prix de Singapour, pire qualification de la saison pour Isack Hadjar - Ouest-France",
       "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkpmX1VIMF9NN1FrcElkMGw4TXlJMkNJTnhHQ1JwRWVxNVRBOXBMcW9UeHRJaFppS1NpUzRHMnZWakl1TTlaa244Umk3anllYTRNS2lNeXl2VUtCb0RkVF9jQlZLUzMzUnZmcnZUaTBUdXpZQzFMdlltYkVGaVhRUHMtNTNjU0pxSWhtdXltckU4Z2t4Y0JXcXdNc0dNQmtzeTZQRFM5Yl85TER6N1p2SVl2VC03WjdpMkhlT2pQelZ0NDg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQc1lJUTZRdTcxcjBBZkhEbG9oelk0bTA5VW1ibFlxeUJyS3dHSmRBcEZrTE40MWdHZzlLWk8xQ1o0bFNNeXR1MHUwclZ6OVF3emduM2lRZHl1UU9PSnlKbUN4UW03N1NPbXF1eFg1NDJqSmdmV3pzUVNKNVhOTDNMS3B2WlBvcDNTbUtkdFdsSG1VMTNpcWN2ZURzdC1fdHVYUmxlck14YXRyTVI2Z21qbkRkTmR0NV9NZHg2Vl83OElCd2FqMXB3UXhibjhzNmFEV0thb3FmY1VNNkk3Y0Y1ZjdCWl9TeW5VZ3BOaTg0TG1NdXR0OXpoUUFMM3dad0JUVWhtX3FPWlhQZGhpMXM3TXR4MmFUZw?oc=5",
       "image_url": null,
-      "published_at": "2026-09-26T06:46:00+00:00",
+      "published_at": "2026-10-11T06:47:03+00:00",
       "race_id": null,
       "category": "rumeur",
       "tags": [
@@ -265,38 +56,570 @@
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkpmX1VIMF9NN1FrcElkMGw4TXlJMkNJTnhHQ1JwRWVxNVRBOXBMcW9UeHRJaFppS1NpUzRHMnZWakl1TTlaa244Umk3anllYTRNS2lNeXl2VUtCb0RkVF9jQlZLUzMzUnZmcnZUaT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkpmX1VIMF9NN1FrcElkMGw4TXlJMkNJTnhHQ1JwRWVxNVRBOXBMcW9UeHRJaFppS1NpUzRHMnZWakl1TTlaa244Umk3anllYTRNS2lNeXl2VUtCb0RkVF9jQlZLUzMzUnZmcnZUaT"
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQc1lJUTZRdTcxcjBBZkhEbG9oelk0bTA5VW1ibFlxeUJyS3dHSmRBcEZrTE40MWdHZzlLWk8xQ1o0bFNNeXR1MHUwclZ6OVF3emduM2lRZHl1UU9PSnlKbUN4UW03N1NPbXF1eFg1ND",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQc1lJUTZRdTcxcjBBZkhEbG9oelk0bTA5VW1ibFlxeUJyS3dHSmRBcEZrTE40MWdHZzlLWk8xQ1o0bFNNeXR1MHUwclZ6OVF3emduM2lRZHl1UU9PSnlKbUN4UW03N1NPbXF1eFg1ND"
     },
     {
-      "id": "8b67c33ed38a",
-      "title": "Fernando Alonso's only goal in no-hope Baku: Save parts for F1's triple-header",
-      "title_fr": "Fernando Alonso's only goal in no-hope Baku: Save parts for F1's triple-header",
-      "title_en": "Fernando Alonso's only goal in no-hope Baku: Save parts for F1's triple-header",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonsos-only-baku-goal-save-parts-for-f1s-triple-header/10859064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YP74dD32/s6/fernando-alonso-aston-martin.jpg",
-      "published_at": "2026-09-26T06:29:58+00:00",
-      "race_id": "azerbaijan",
+      "id": "48457e6fc0fb",
+      "title": "GP de Singapour F1 2026 : à quelle heure débute la course ce dimanche ? - f1i.autojournal.fr",
+      "title_fr": "Heure de début de la course de Singapour 2026",
+      "title_en": "Singapore GP 2026 start time",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaFp5OXlydmk2UVlrR1ltWVFvQ0lFUXBHOGpGYUlHYWVZU2lLU01yMGtaMW4tVjhtTkRkMEdyN256bmFIN0lDX0pGdlNvSG9hWDlHa0FmY2gydGg0N1VNZFFrRTBtQWtXOXdEek5INVRuZFhrdEZLcDNiN0d5OEJleG1obzZmTDJ3ejBraldUVDdLOW1fQnh3Nk9ENzF3Z2ZWdFlUak1UZTlwaTdLRDRPQ25qRDk2dlE?oc=5",
+      "image_url": null,
+      "published_at": "2026-10-11T06:45:00+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La course de Formule 1 à Singapour 2026 débutera à 20h30, heure locale, après le sprint et les essais. Les fans peuvent se préparer pour le spectacle nocturne.",
+      "summary_en": "The 2026 Singapore Formula 1 race will start at 8:30 p.m. local time, following the sprint and practice sessions. Fans can gear up for the night-time spectacle."
+    },
+    {
+      "id": "0adb01158abf",
+      "title": "Formule 1 : la grille de départ du Grand Prix de Singapour - CNews",
+      "title_fr": "Formule 1 : la grille de départ du Grand Prix de Singapour - CNews",
+      "title_en": "Formule 1 : la grille de départ du Grand Prix de Singapour - CNews",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjBSbHFSaGZHUHRxaGhxdGZXY2NNQmlObkQzdFJjZjY0ak1WZWNlLVZsX29CdjVtM2xBWklEOVdOR1lwUFgwN01QNDVma0NsYThBZ1luUm9Ic05QMW1nZWNKVnQ3elhXWEY4aGJ3MTE5RXlCQVRYWjlWekhoVkoyVUhtTUNsNVIwaUVtS0FRVkZtNk1SckRocTdHTWZqS2V5ZVdHSdIBqgFBVV95cUxNNTF4cXFqaG9DT0NjckdsTE9zb3ZEX1FUcnNTeGkxaDE2ODVZVjNMeFIwSEI5TFkzbTBlXy1FU0Raa0k2djRZQjFGMG1ZcEFINDFXTEd0QjkyclFEcGc1bGZRZ1dtd2hWMVhhWjJ2dk44SGkxSVJOOFpubV96R3VhZXR5LWxVS0E4MFlIX2Q2WEkwcGZwWU9UMlBGRXVIb1l5MzY4NDV1dkJEUQ?oc=5",
+      "image_url": null,
+      "published_at": "2026-10-11T05:36:04+00:00",
+      "race_id": null,
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Despite a wretched campaign with Aston Martin and its new engine partner Honda, or perhaps because of it, Fernando Alonso hasn't lost his biting sense of humour.<br />\"I pushed into Turn 15 and I lock",
-      "summary_en": "Despite a wretched campaign with Aston Martin and its new engine partner Honda, or perhaps because of it, Fernando Alonso hasn't lost his biting sense of humour.<br />\"I pushed into Turn 15 and I lock"
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjBSbHFSaGZHUHRxaGhxdGZXY2NNQmlObkQzdFJjZjY0ak1WZWNlLVZsX29CdjVtM2xBWklEOVdOR1lwUFgwN01QNDVma0NsYThBZ1luUm9Ic05QMW1nZWNKVnQ3elhXWEY4aGJ3MT",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjBSbHFSaGZHUHRxaGhxdGZXY2NNQmlObkQzdFJjZjY0ak1WZWNlLVZsX29CdjVtM2xBWklEOVdOR1lwUFgwN01QNDVma0NsYThBZ1luUm9Ic05QMW1nZWNKVnQ3elhXWEY4aGJ3MT"
     },
     {
-      "id": "be950460e9da",
-      "title": "F1 2026 qualifying head-to-head: Azerbaijan GP",
-      "title_fr": "F1 2026 qualifying head-to-head: Azerbaijan GP",
-      "title_en": "F1 2026 qualifying head-to-head: Azerbaijan GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-azerbaijan-gp/10858855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0arEBbG2/s6/qualifying-sessions.jpg",
-      "published_at": "2026-09-26T06:11:42+00:00",
+      "id": "f4703725101a",
+      "title": "Grand Prix de Singapour : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
+      "title_fr": "Grand Prix de Singapour : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
+      "title_en": "Grand Prix de Singapour : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0d3ZzVPQjhuTzhILWtHYTIzMzNQbDJJbnYyNjNGRkZJZ2t3TC11dFhESjZQczgzdjF6X0dYc1RBajN2R2UzT0dzcUsyZmJXUWZqNDkxby01UU96anljMDktTkhUd0xHdzc4WlR1TnBFZ1NoXzV1VGZwRXcwa0ZhNElOemNWRjF3Mk5ZVW1p?oc=5",
+      "image_url": null,
+      "published_at": "2026-10-11T04:00:00+00:00",
       "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0"
+    },
+    {
+      "id": "502f037e8bf4",
+      "title": "Why McLaren considers Norris-Piastri Singapore clash so “serious”",
+      "title_fr": "Why McLaren considers Norris-Piastri Singapore clash so “serious”",
+      "title_en": "Why McLaren considers Norris-Piastri Singapore clash so “serious”",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/25dLLLQ0/s6/andrea-stella-mclaren-2.jpg",
+      "published_at": "2026-10-10T19:54:03+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "If you thought you'd never have to hear the term \"Papaya Rules\" again now that McLaren is no longer F1's dominant team, a new flashpoint over the 2026 Singapore Grand Prix weekend provided McLaren wit",
+      "summary_en": "If you thought you'd never have to hear the term \"Papaya Rules\" again now that McLaren is no longer F1's dominant team, a new flashpoint over the 2026 Singapore Grand Prix weekend provided McLaren wit"
+    },
+    {
+      "id": "c053e601441e",
+      "title": "F1 Singapore GP: Sunday schedule, weather forecast and how to watch",
+      "title_fr": "Verstappen en pole pour le Grand Prix de Singapour",
+      "title_en": "Verstappen secures pole for Singapore Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-singapore-gp-sunday-schedule-weather-forecast-and-how-to-watch/10863995/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXGzA6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-10T19:19:12+00:00",
+      "race_id": "singapore",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a pris le pole après une séance de qualification dominée, battant Charles Leclerc de 0,054s. Le pilote Red Bull attend le weekend à Marina Bay.",
+      "summary_en": "Max Verstappen secured pole for the Singapore Grand Prix, beating Charles Leclerc by 0.054 seconds in qualifying. The Red Bull driver will head into the weekend at Marina Bay."
+    },
+    {
+      "id": "04b44702fd63",
+      "title": "Lewis Hamilton plots Ferrari ambush on Max Verstappen after frustrating qualifying",
+      "title_fr": "Lewis Hamilton plots Ferrari ambush on Max Verstappen after frustrating qualifying",
+      "title_en": "Lewis Hamilton plots Ferrari ambush on Max Verstappen after frustrating qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-plots-massive-ferrari-ambush-on-verstappen-after-frustrating-qualifying/10863953/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2QedNqO2/s6/untitled-design-81-2.jpg",
+      "published_at": "2026-10-10T18:53:32+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Following an incredibly intense qualifying session under the floodlights of the Marina Bay Street Circuit, Scuderia Ferrari driver Lewis Hamilton will start Sunday's Singapore Grand Prix from the seco",
+      "summary_en": "Following an incredibly intense qualifying session under the floodlights of the Marina Bay Street Circuit, Scuderia Ferrari driver Lewis Hamilton will start Sunday's Singapore Grand Prix from the seco"
+    },
+    {
+      "id": "9776fc843871",
+      "title": "Toto Wolff defends George Russell after costly sprint crash in Singapore",
+      "title_fr": "Wolff défend Russell après accident coûteux à Singapour",
+      "title_en": "Wolff defends Russell after costly crash in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-defends-george-russell-after-costly-sprint-crash-in-singapore/10863986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6AlvbjqY/s6/untitled-design-80-3.jpg",
+      "published_at": "2026-10-10T18:48:08+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "George Russell a quitté la tête du sprint de Singapour en heurtant les barrières, obligeant l’équipe Mercedes à reconstruire son W17 en urgence. Toto Wolff a réaffirmé son soutien au pilote.",
+      "summary_en": "George Russell left the sprint lead in Singapore after crashing into the barriers, forcing Mercedes to rebuild his W17 in a hurry. Toto Wolff reaffirmed his support for the driver."
+    },
+    {
+      "id": "758f24ab71ab",
+      "title": "What Verstappen will change after Red Bull’s poor F1 starts in Malaysia and Singapore",
+      "title_fr": "Verstappen envisage un changement après les débuts décevants de Red Bull",
+      "title_en": "Verstappen hints at change after Red Bull's poor starts",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-hints-at-change-after-red-bulls-poor-f1-starts-in-malaysia-and-singapore/10864060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEoGn3Y/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-10T18:35:02+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote néerlandais Max Verstappen, qui célèbre son 250e Grand Prix et son 50e pole position, a déclaré qu'il envisagerait des ajustements après les débuts médiocres de Red Bull à Malaisie et Singapour.",
+      "summary_en": "Max Verstappen, celebrating his 250th Grand Prix and 50th pole, said he might make changes after Red Bull's poor starts in Malaysia and Singapore."
+    },
+    {
+      "id": "635fa72a55e7",
+      "title": "What's so \"serious\" for McLaren about the Norris-Piastri Singapore collision",
+      "title_fr": "McLaren secoue par la collision Norris-Piastri a Singapour",
+      "title_en": "McLaren rattled by Norris-Piastri collision at Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0JXRvxOY/s6/lando-norris-mclaren-oscar-pia.jpg",
+      "published_at": "2026-10-10T18:27:59+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "McLaren est de nouveau rappele a l'issue d'une collision entre Norris et Piastri lors du Grand Prix de Singapour 2026, rappelant l'incident de 2025. Aucun dommage majeur n'a ete signale.",
+      "summary_en": "McLaren is rattled again by a collision between Norris and Piastri at the 2026 Singapore Grand Prix, echoing the 2025 incident. No major damage was reported."
+    },
+    {
+      "id": "f351d64d60af",
+      "title": "Max Verstappen hints at change after Red Bull's poor F1 starts in Malaysia and Singapore",
+      "title_fr": "Max Verstappen hints at change after Red Bull's poor F1 starts in Malaysia and Singapore",
+      "title_en": "Max Verstappen hints at change after Red Bull's poor F1 starts in Malaysia and Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-hints-at-change-after-red-bulls-poor-f1-starts-in-malaysia-and-singapore/10864048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2dEoGn3Y/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-10T17:50:18+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Singapore weekend is one of milestones for Verstappen. The Dutchman is contesting his 250th Formula 1 Grand Prix this weekend and has claimed his 50th pole position in the process.<br />Verstappen",
+      "summary_en": "The Singapore weekend is one of milestones for Verstappen. The Dutchman is contesting his 250th Formula 1 Grand Prix this weekend and has claimed his 50th pole position in the process.<br />Verstappen"
+    },
+    {
+      "id": "eb05aec413ae",
+      "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
+      "title_fr": "Verstappen building major momentum as 'no-one very happy' at McLaren",
+      "title_en": "Verstappen building major momentum as 'no-one very happy' at McLaren",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f27d/live/f357fbe0-c4cf-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-10T17:46:36+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
+      "summary_en": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson."
+    },
+    {
+      "id": "7f1027400164",
+      "title": "A \"better job\" or more engine power? Verstappen's Singapore pole unpicked",
+      "title_fr": "A \"better job\" or more engine power? Verstappen's Singapore pole unpicked",
+      "title_en": "A \"better job\" or more engine power? Verstappen's Singapore pole unpicked",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/a-better-job-or-more-engine-power-verstappens-singapore-pole-unpicked/10864047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwagD2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-10T17:45:04+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "There's many a slip twixt cup and lip – and the ifs, buts and maybes nag even more insistently when the gap between pole position and P2 is measured in the thousandths of a second.<br />\"I think there",
+      "summary_en": "There's many a slip twixt cup and lip – and the ifs, buts and maybes nag even more insistently when the gap between pole position and P2 is measured in the thousandths of a second.<br />\"I think there"
+    },
+    {
+      "id": "909bca429250",
+      "title": "Featured Comment: F1’s latest technical glitch shows its power unit rules are too intrusive | Briefs",
+      "title_fr": "Featured Comment: F1’s latest technical glitch shows its power unit rules are too intrusive | Briefs",
+      "title_en": "Featured Comment: F1’s latest technical glitch shows its power unit rules are too intrusive | Briefs",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/10/featured-comment-f1s-latest-technical-glitch-shows-its-power-unit-rules-are-too-intrusive/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-09-20-33-41-1.jpg",
+      "published_at": "2026-10-10T16:56:05+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Singapore qualifying glitch shows FIA has too much control over F1 cars",
+      "summary_en": "Singapore qualifying glitch shows FIA has too much control over F1 cars"
+    },
+    {
+      "id": "96d19087f172",
+      "title": "How Mercedes’ tricky F1 upgrade has been working at Singapore GP",
+      "title_fr": "Mercedes sépare ses upgrades à Singapour",
+      "title_en": "Mercedes splits upgrades at Singapore GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-mercedes-tricky-f1-upgrade-has-been-working-at-singapore-gp/10864023/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8yKV6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-10T16:47:30+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli estime que la Mercedes W17 mise à jour fonctionne mieux, malgré l’incertitude sur les performances réelles des nouvelles pièces. Mercedes a décidé de séparer les voitures en termes de mise à jour à Singapour.",
+      "summary_en": "Kimi Antonelli says the upgraded Mercedes W17 works better, despite uncertainty over the new parts' performance. Mercedes chose to split upgrades between cars at Singapore."
+    },
+    {
+      "id": "ffd84855ef27",
+      "title": "GP de Singapour de F1 : chaînes TV et horaires du dernier week-end Sprint de l'année 2026 - Turbo.fr",
+      "title_fr": "GP de Singapour de F1 : chaînes TV et horaires du dernier week-end Sprint de l'année 2026 - Turbo.fr",
+      "title_en": "GP de Singapour de F1 : chaînes TV et horaires du dernier week-end Sprint de l'année 2026 - Turbo.fr",
+      "source": "Google News FR",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1VfZ3VLdFZHbXctWjhhX0t1dm1meGNsRkRrRzd2RUFpWndnckYtTmN6MTlUYWlIQ3hJV0RtbGRZUzVBQ0haNWM4TEpXZjMtMUZjcHQwUElyWkgtQ3JuV2V2Q0JvZVRpNmpr?oc=5",
+      "image_url": null,
+      "published_at": "2026-10-10T16:45:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1"
+    },
+    {
+      "id": "ee0bf0170a9c",
+      "title": "Hamilton admits set-up change spoiled car balance after missing out on pole position | Formula 1",
+      "title_fr": "Hamilton admits set-up change spoiled car balance after missing out on pole position | Formula 1",
+      "title_en": "Hamilton admits set-up change spoiled car balance after missing out on pole position | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/10/hamilton-admits-set-up-change-spoiled-car-balance-after-missing-out-on-pole-position/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-14-37-42-5-261009_R17_SINGAPORE_DP_VA1_4350.jpg",
+      "published_at": "2026-10-10T16:41:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton was quickest in Q1 and Q2 but only qualified third after a set-up change \"tipped it over the edge\".",
+      "summary_en": "Lewis Hamilton was quickest in Q1 and Q2 but only qualified third after a set-up change \"tipped it over the edge\"."
+    },
+    {
+      "id": "dbd661c08885",
+      "title": "Russell aiming for sixth from back of grid in Singapore | Formula 1",
+      "title_fr": "Russell aiming for sixth from back of grid in Singapore | Formula 1",
+      "title_en": "Russell aiming for sixth from back of grid in Singapore | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/10/russell-aiming-for-sixth-from-back-of-grid-in-singapore/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-17-02-09-10-13-friday-singapore-2026.jpg",
+      "published_at": "2026-10-10T16:35:42+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell hopes he can salvage a top-six finish starting from the back of the grid in Sunday's Singapore Grand Prix.",
+      "summary_en": "George Russell hopes he can salvage a top-six finish starting from the back of the grid in Sunday's Singapore Grand Prix."
+    },
+    {
+      "id": "3c2323aeec45",
+      "title": "McLaren to talk internally after \"simply not acceptable\" Norris-Piastri clash",
+      "title_fr": "McLaren to talk internally after \"simply not acceptable\" Norris-Piastri clash",
+      "title_en": "McLaren to talk internally after \"simply not acceptable\" Norris-Piastri clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/andrea-stella-singapore-f1-sprint-collision-between-lando-norris-and-oscar-piastri-simply-not-accep/10864014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/01QN4ve0/s6/lando-norris-mclaren-oscar-pia.jpg",
+      "published_at": "2026-10-10T16:34:34+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "On the final lap of a wet 20-lap sprint, Lando Norris made a lunge on Oscar Piastri on the inside of Turn 5, unsuccessfully backing out of a closing gap and striking his McLarne team-mate's right-rear",
+      "summary_en": "On the final lap of a wet 20-lap sprint, Lando Norris made a lunge on Oscar Piastri on the inside of Turn 5, unsuccessfully backing out of a closing gap and striking his McLarne team-mate's right-rear"
+    },
+    {
+      "id": "3db2734928d1",
+      "title": "Andrea Stella: Singapore F1 sprint collision between Lando Norris and Oscar Piastri \"simply not acceptable\"",
+      "title_fr": "Norris touche Piastri à Singapour, élimination",
+      "title_en": "Norris hits Piastri in Singapore sprint, Piastri eliminated",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/andrea-stella-singapore-f1-sprint-collision-between-lando-norris-and-oscar-piastri-simply-not-accep/10864011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YpbAGnX0/s6/lando-norris-mclaren-oscar-pia.jpg",
+      "published_at": "2026-10-10T16:32:40+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": true,
+      "summary_fr": "Lors du dernier tour d'un sprint mouillé, Lando Norris a percuté Oscar Piastri à l'intérieur du virage 5, provoquant une perte de contrôle et l'élimination de Piastri, tandis que Norris descendait à la huitième place.",
+      "summary_en": "On the final lap of a wet sprint, Lando Norris clipped Oscar Piastri inside Turn 5, sending both cars spinning. Piastri was eliminated and Norris fell to eighth."
+    },
+    {
+      "id": "1262145557ea",
+      "title": "How to follow Singapore Grand Prix on the BBC",
+      "title_fr": "How to follow Singapore Grand Prix on the BBC",
+      "title_en": "How to follow Singapore Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc6/live/b3ef3060-c4c3-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-10T16:15:45+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October.",
+      "summary_en": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October."
+    },
+    {
+      "id": "93fa78949205",
+      "title": "How Hamilton \"tipped it over the edge\" with a setup change too far in Singapore GP qualifying",
+      "title_fr": "How Hamilton \"tipped it over the edge\" with a setup change too far in Singapore GP qualifying",
+      "title_en": "How Hamilton \"tipped it over the edge\" with a setup change too far in Singapore GP qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-hamilton-tipped-it-over-the-edge-with-a-setup-change-too-far-in-singapore-gp-qualifying/10863998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0mXyKrX6/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-10-10T16:10:45+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari will be pondering whether both its cars should have been on the front row for the Singapore Grand Prix. Lewis Hamilton set an impressive pace through the opening segments of qualifying and tea",
+      "summary_en": "Ferrari will be pondering whether both its cars should have been on the front row for the Singapore Grand Prix. Lewis Hamilton set an impressive pace through the opening segments of qualifying and tea"
+    },
+    {
+      "id": "82960c93f5ab",
+      "title": "F1: Chequered Flag",
+      "title_fr": "F1: Chequered Flag",
+      "title_en": "F1: Chequered Flag",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pg23b2?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": "2026-10-10T15:57:00+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Could Max Verstappen continue his fine form and take victory in the Singapore sprint?",
+      "summary_en": "Could Max Verstappen continue his fine form and take victory in the Singapore sprint?"
+    },
+    {
+      "id": "c331fd1c3c26",
+      "title": "Russell bemoans \"very bad\" Saturday at Singapore GP",
+      "title_fr": "Russell déplore son crash à Singapour",
+      "title_en": "Russell laments 'very bad' Saturday at Singapore GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/russell-bemoans-very-bad-saturday-at-singapore-gp/10863982/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNg3X2/s6/george-russell-mercedes-3.jpg",
+      "published_at": "2026-10-10T15:52:51+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "George Russell a admis que son propre erreur l'a fait sortir du sprint de Singapour, ce qui a pu nuire à sa qualification. Il a perdu le contrôle sur la piste mouillée de Marina Bay.",
+      "summary_en": "George Russell admitted his own mistake caused him to crash out of the Singapore sprint, potentially hurting his qualifying. He lost control on the wet Marina Bay track."
+    },
+    {
+      "id": "9ef7c6f0e2f4",
+      "title": "George Russell: ‘A very bad day because of my own mistake’",
+      "title_fr": "Russell s'excuse après sa collision à Singapour",
+      "title_en": "Russell apologises after crash in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-owns-up-to-singapore-f1-crash-a-very-bad-day-because-of-my-own-mistake/10863974/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/24QGlVqY/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-10-10T15:48:58+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "George Russell a admis que son erreur l'a fait sortir du sprint du Grand Prix de Singapour, ce qui a pu nuire à sa qualification.",
+      "summary_en": "George Russell admitted his own mistake caused him to crash out of the Singapore sprint, potentially affecting his qualifying performance."
+    },
+    {
+      "id": "237d6fc736b8",
+      "title": "Isack Hadjar demands massive red Bull engine changes: “Everything is breaking apart”",
+      "title_fr": "Isack Hadjar demands massive red Bull engine changes: “Everything is breaking apart”",
+      "title_en": "Isack Hadjar demands massive red Bull engine changes: “Everything is breaking apart”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-demands-massive-red-bull-engine-changes-everything-is-breaking-apart/10863966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/27Nogzv0/s6/untitled-design-78-2.jpg",
+      "published_at": "2026-10-10T15:44:11+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull Racing is experiencing massively contrasting fortunes at the 2026 Singapore Grand Prix. While Max Verstappen successfully secured pole position for Sunday's main event, his team-mate, Isack H",
+      "summary_en": "Red Bull Racing is experiencing massively contrasting fortunes at the 2026 Singapore Grand Prix. While Max Verstappen successfully secured pole position for Sunday's main event, his team-mate, Isack H"
+    },
+    {
+      "id": "a99edabfe884",
+      "title": "Verstappen beats Ferraris to Singapore pole",
+      "title_fr": "Verstappen beats Ferraris to Singapore pole",
+      "title_en": "Verstappen beats Ferraris to Singapore pole",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2084/live/95f182b0-c4ba-11f1-9ce9-55293bd7f0d9.jpg",
+      "published_at": "2026-10-10T15:29:12+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
+      "summary_en": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix."
+    },
+    {
+      "id": "67e5defee176",
+      "title": "Kim Kardashian's private jet makes 6,700-mile journey for Lewis Hamilton's Singapore GP",
+      "title_fr": "Kim Kardashian vole 6,700 mi pour Singapour",
+      "title_en": "Kim Kardashian flies 6,700 miles for Singapore GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/hamilton-gets-massive-6700-mile-boost-as-kim-kardashian-touches-down-for-singapore-gp/10863940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXbNmV2/s6/untitled-design-79-4.jpg",
+      "published_at": "2026-10-10T15:28:01+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kim Kardashian a fait le trajet de 6,700 mi en Gulfstream G650ER pour assister au Grand Prix de Singapour. Le pilote Lewis Hamilton a reçu un soutien logistique inattendu.",
+      "summary_en": "Kim Kardashian flew a Gulfstream G650ER across 6,700 miles to support Lewis Hamilton at the Singapore Grand Prix, providing unexpected logistical assistance."
+    },
+    {
+      "id": "611fdf198135",
+      "title": "Collision between Norris and Piastri was “simply not acceptable” – Stella | Formula 1",
+      "title_fr": "Collision entre Norris et Piastri jugée inacceptable par Stella",
+      "title_en": "Stella deems Norris-Piastri collision unacceptable",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/10/collision-between-norris-and-piastri-was-simply-not-acceptable-stella/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-10-18-01-23-1-2299499981.jpg",
+      "published_at": "2026-10-10T15:26:32+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de McLaren, Andrea Stella, a déclaré que la collision entre le pilote Norris et Piastri lors du sprint ne pouvait être acceptée. L'équipe souligne l'importance de la sécurité et du respect des règles.",
+      "summary_en": "McLaren team principal Andrea Stella said the collision between Norris and Piastri in the sprint race was simply unacceptable. The team stresses the importance of safety and adherence to the rules."
+    },
+    {
+      "id": "f0afc7c542f7",
+      "title": "Starting grid for the 2026 F1 Singapore GP",
+      "title_fr": "Starting grid for the 2026 F1 Singapore GP",
+      "title_en": "Starting grid for the 2026 F1 Singapore GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/2026-f1-singapore-grand-prix-starting-grid/10863947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6AlvbNkY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-10T15:00:45+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/2026-f1-singapore-grand-prix-starting-grid/10863947/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;ut",
+      "summary_en": "...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/2026-f1-singapore-grand-prix-starting-grid/10863947/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;ut"
+    },
+    {
+      "id": "8c827ef843fe",
+      "title": "F1 2026 qualifying head-to-head: Singapore GP",
+      "title_fr": "F1 2026 qualifying head-to-head: Singapore GP",
+      "title_en": "F1 2026 qualifying head-to-head: Singapore GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-singapore-gp/10863288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKAEeBY/s6/nico-hulkenberg-audi-f1-team-6.jpg",
+      "published_at": "2026-10-10T14:44:49+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
@@ -307,394 +630,109 @@
       "summary_en": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles.<br />This record is based exclusively on qualifying results so that grid"
     },
     {
-      "id": "c9731056abe2",
-      "title": "Chadwick says driving F1 car 'top of bucket list'",
-      "title_fr": "Chadwick says driving F1 car 'top of bucket list'",
-      "title_en": "Chadwick says driving F1 car 'top of bucket list'",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a6/live/97982900-b8e1-11f1-ba42-19e1456ae537.jpg",
-      "published_at": "2026-09-26T06:09:46+00:00",
-      "race_id": null,
+      "id": "e438b2695d0c",
+      "title": "F1 Singapore GP: Max Verstappen overcomes Ferrari challenge for pole",
+      "title_fr": "F1 Singapore GP: Max Verstappen overcomes Ferrari challenge for pole",
+      "title_en": "F1 Singapore GP: Max Verstappen overcomes Ferrari challenge for pole",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-singapore-gp-qualifying-report/10863917/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbAGEA0/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-10T14:44:06+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
-      "summary_en": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career."
+      "summary_fr": "Max Verstappen clinched pole position for Formula 1’s Singapore Grand Prix, outpacing the Ferraris of Charles Leclerc and Lewis Hamilton as Mercedes struggled.<br />The four-time champion set a best e",
+      "summary_en": "Max Verstappen clinched pole position for Formula 1’s Singapore Grand Prix, outpacing the Ferraris of Charles Leclerc and Lewis Hamilton as Mercedes struggled.<br />The four-time champion set a best e"
     },
     {
-      "id": "b26084aee823",
-      "title": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
-      "title_fr": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
-      "title_en": "F1 : le programme TV très spécial du Grand Prix d'Azerbaïdjan 2026 - f1i.autojournal.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWdpdlJyQ3JGdHFSQkZsd1d1REszTm1RXzVDZmphTnZxbXluWVpMQTJEdDM5S0l0dU1oNlowVUJZLXhWcXk5Q2xXbjZma1JsVmFtOGpJbnRnYjF0Xzd2LXc2dXAtR19mSXBxVnZCWUxYaUJfUGd2OXVaV2hQREFmNktGWkJ6bF9XX1lsUWFFMkY5YjVISlE?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T06:08:47+00:00",
-      "race_id": null,
+      "id": "12d3ccbbd977",
+      "title": "F1 Singapore GP: Verstappen continues recent dominance with pole",
+      "title_fr": "F1 Singapore GP: Verstappen continues recent dominance with pole",
+      "title_en": "F1 Singapore GP: Verstappen continues recent dominance with pole",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-singapore-gp-verstappen-on-pole/10863921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKNaVY/s6/max-verstappen-red-bull-racing-3.jpg",
+      "published_at": "2026-10-10T14:41:05+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWdpdlJyQ3JGdHFSQkZsd1d1REszTm1RXzVDZmphTnZxbXluWVpMQTJEdDM5S0l0dU1oNlowVUJZLXhWcXk5Q2xXbjZma1JsVmFtOGpJbnRnYjF0Xzd2LXc2dXAtR19mSXBxVnZCWU",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWdpdlJyQ3JGdHFSQkZsd1d1REszTm1RXzVDZmphTnZxbXluWVpMQTJEdDM5S0l0dU1oNlowVUJZLXhWcXk5Q2xXbjZma1JsVmFtOGpJbnRnYjF0Xzd2LXc2dXAtR19mSXBxVnZCWU"
+      "summary_fr": "Max Verstappen clinched pole position for Formula 1’s Singapore Grand Prix, outpacing the Ferraris of Charles Leclerc and Lewis Hamilton as Mercedes struggled.<br />Championship leader Kimi Antonelli ",
+      "summary_en": "Max Verstappen clinched pole position for Formula 1’s Singapore Grand Prix, outpacing the Ferraris of Charles Leclerc and Lewis Hamilton as Mercedes struggled.<br />Championship leader Kimi Antonelli "
     },
     {
-      "id": "1360ab6680b7",
-      "title": "Grand Prix d’Azerbaïdjan de F1 2026 – Le programme de samedi - AutoHebdo",
-      "title_fr": "Grand Prix d’Azerbaïdjan de F1 2026 – Le programme de samedi - AutoHebdo",
-      "title_en": "Grand Prix d’Azerbaïdjan de F1 2026 – Le programme de samedi - AutoHebdo",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1FieHFmTFdvUkdaTGthRnJWN3VUd3ZkYmw1MEd2RW5xM3NZOGM3Q0hUSGxVczBETXRUS3E5NzFxQTBRZWt0ZmpQRWNQWEFIMkl0UGwzbG9rSW8tWUN6WC05Sk14R3hwQmtnbUswNDkxcFh4dnJ3dVRnY3hnLVVNUU13QzhRV0NpTE8zSVBmQkYycEQ5MGxkQUE3TnY0LVQ3Sng0?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T06:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1FieHFmTFdvUkdaTGthRnJWN3VUd3ZkYmw1MEd2RW5xM3NZOGM3Q0hUSGxVczBETXRUS3E5NzFxQTBRZWt0ZmpQRWNQWEFIMkl0UGwzbG9rSW8tWUN6WC05Sk14R3hwQmtnbUswND",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1FieHFmTFdvUkdaTGthRnJWN3VUd3ZkYmw1MEd2RW5xM3NZOGM3Q0hUSGxVczBETXRUS3E5NzFxQTBRZWt0ZmpQRWNQWEFIMkl0UGwzbG9rSW8tWUN6WC05Sk14R3hwQmtnbUswND"
-    },
-    {
-      "id": "54833aff01ca",
-      "title": "Formule 1 : à quelle heure et sur quelle chaîne regarder le GP d’Azerbaïdjan ? - Le Parisien",
-      "title_fr": "Formule 1 : à quelle heure et sur quelle chaîne regarder le GP d’Azerbaïdjan ? - Le Parisien",
-      "title_en": "Formule 1 : à quelle heure et sur quelle chaîne regarder le GP d’Azerbaïdjan ? - Le Parisien",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSTNjclhzYW5peUMtVjFLZTZEV1BGV1loeDc5QXpMT09KMUdGc0RIQU5MZjBpLWZwRjdKMHlzMWFsZzZ1M1lGOFFKTEh0THhVa2VTelJRV2IwZ013WTlzcjFfYkpwLUlWM1FlcHBFcXlPd2QteTdya2NCOVdPQlp6S1JTTXhLcTN4bXhFdEpvcjRVVDZvQ0k3REJOYnhGUWFGX1lTanE0czZQT21iNTZJMU9xMjg3SHJtMGtjMzM2a2RWVjlBb2FEU0wwdzRiWEdzVjVFRUhxVHIzRnE1VDk4ZUZrSlhDd2NDYmV1RWJqUllUeGlhbnNfZ285US1YQQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T06:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSTNjclhzYW5peUMtVjFLZTZEV1BGV1loeDc5QXpMT09KMUdGc0RIQU5MZjBpLWZwRjdKMHlzMWFsZzZ1M1lGOFFKTEh0THhVa2VTelJRV2IwZ013WTlzcjFfYkpwLUlWM1FlcHBFcX",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSTNjclhzYW5peUMtVjFLZTZEV1BGV1loeDc5QXpMT09KMUdGc0RIQU5MZjBpLWZwRjdKMHlzMWFsZzZ1M1lGOFFKTEh0THhVa2VTelJRV2IwZ013WTlzcjFfYkpwLUlWM1FlcHBFcX"
-    },
-    {
-      "id": "41a2b26d7acf",
-      "title": "F1 - GP d'Azerbaïdjan : la nouvelle grille de départ après le verdict FIA, qui pénalise 2 pilotes (Sainz, Perez) - lemagsportauto.ouest-france.fr",
-      "title_fr": "F1 - GP d'Azerbaïdjan : la nouvelle grille de départ après le verdict FIA, qui pénalise 2 pilotes (Sainz, Perez) - lemagsportauto.ouest-france.fr",
-      "title_en": "F1 - GP d'Azerbaïdjan : la nouvelle grille de départ après le verdict FIA, qui pénalise 2 pilotes (Sainz, Perez) - lemagsportauto.ouest-france.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzhhU0ZQRUw1MmM1Zm9DUTFYUGpmSzVGS29vejlzZFU0V0FXNTJnWWgyUjA0NHBnSGR5RVVqRnhNUVVPaU1KTDVlWDdxSVZRLVdBYTYwLWoweGVVcXlXQi02ZGdHSVdsYmtJd3BFTFVkOTZNT2FMd054UmRFX0p1U1FKclliQ2JQSTZjN2ZqT0t6aEx1cHU1R19sdksxUDlCYldySFNyUmtyeVRCZkh5bXh4eEUxSlM1cDVjRlU1VlN4TXJoUjhEUWFuX0hXRG1LQ3ZsekdjcHlzN3gyOXcxMmllS3M?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T04:10:20+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzhhU0ZQRUw1MmM1Zm9DUTFYUGpmSzVGS29vejlzZFU0V0FXNTJnWWgyUjA0NHBnSGR5RVVqRnhNUVVPaU1KTDVlWDdxSVZRLVdBYTYwLWoweGVVcXlXQi02ZGdHSVdsYmtJd3BFTF",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzhhU0ZQRUw1MmM1Zm9DUTFYUGpmSzVGS29vejlzZFU0V0FXNTJnWWgyUjA0NHBnSGR5RVVqRnhNUVVPaU1KTDVlWDdxSVZRLVdBYTYwLWoweGVVcXlXQi02ZGdHSVdsYmtJd3BFTF"
-    },
-    {
-      "id": "14f963d01874",
-      "title": "Grand Prix d'Azerbaïdjan : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
-      "title_fr": "Grand Prix d'Azerbaïdjan : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
-      "title_en": "Grand Prix d'Azerbaïdjan : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR2ZZRzNiWGZNdmV6cGU2UDM5dHRmcU1FclFtVUx0VFA1azExR2tVZ29JTEhldVlMYnBhUkx1TXVnSUEtQ1Jfc3FzWHV3MTRZZ2NfbFR0eWVKQlJOaXgyQ3RZaWNycW12ZVJMdWhkZktCVER0TXkwS2tqS3NycS1qN0x1azFEZEl2R2JHamVaSlZtS3dTaTVucDNMb0tqZGtOYy1KcHhVcjRaQXFyU0YyTV9zZzlMN212WFo3OGZwTEdyY184eW1SZkgzbWhwTnRGYXRsN0NMbXpOdW9vcG5GV3VjVlRVNG1MNGFRN3dNZ0Izd3JWVVE?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T04:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR2ZZRzNiWGZNdmV6cGU2UDM5dHRmcU1FclFtVUx0VFA1azExR2tVZ29JTEhldVlMYnBhUkx1TXVnSUEtQ1Jfc3FzWHV3MTRZZ2NfbFR0eWVKQlJOaXgyQ3RZaWNycW12ZVJMdWhkZk",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR2ZZRzNiWGZNdmV6cGU2UDM5dHRmcU1FclFtVUx0VFA1azExR2tVZ29JTEhldVlMYnBhUkx1TXVnSUEtQ1Jfc3FzWHV3MTRZZ2NfbFR0eWVKQlJOaXgyQ3RZaWNycW12ZVJMdWhkZk"
-    },
-    {
-      "id": "c9e78302debb",
-      "title": "F1 - Le départ du GP d'Azerbaïdjan aujourd'hui (et non dimanche) : quelle heure (Paris), quelle chaîne - Le Mag Sport Auto",
-      "title_fr": "F1 - Le départ du GP d'Azerbaïdjan aujourd'hui (et non dimanche) : quelle heure (Paris), quelle chaîne - Le Mag Sport Auto",
-      "title_en": "F1 - Le départ du GP d'Azerbaïdjan aujourd'hui (et non dimanche) : quelle heure (Paris), quelle chaîne - Le Mag Sport Auto",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEtHYUxjR0pETDNyeWZjYlVnb1pjd3pWT2FpaVRyQ1JmeThOckdIQUhNcF9oUmVGNjJyTHliQUI4aGx4TlNZLW9YVGRRdUFWaG5vRVJqbkxROE9FemhKVWtpZzlWUW82MlJVX2ZaSlZkeGdZYWxCUG9LT0FlV1Bpb1FxY0QtVDRVSW53emZtcDVmTjFzMzgwbHRIQWpSYmpVVGx6WlNYWE5FelVFSlZscEtqdzVDSFBkM0JnMjl5ZWdVTVhVbWJYY0RaMGJHeWdoVUhQTw?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-26T03:45:44+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEtHYUxjR0pETDNyeWZjYlVnb1pjd3pWT2FpaVRyQ1JmeThOckdIQUhNcF9oUmVGNjJyTHliQUI4aGx4TlNZLW9YVGRRdUFWaG5vRVJqbkxROE9FemhKVWtpZzlWUW82MlJVX2ZaSl",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEtHYUxjR0pETDNyeWZjYlVnb1pjd3pWT2FpaVRyQ1JmeThOckdIQUhNcF9oUmVGNjJyTHliQUI4aGx4TlNZLW9YVGRRdUFWaG5vRVJqbkxROE9FemhKVWtpZzlWUW82MlJVX2ZaSl"
-    },
-    {
-      "id": "b09fbda6ed13",
-      "title": "On This Day: Hamilton scores 100th F1 win as Norris throws away his first | Brief",
-      "title_fr": "On This Day: Hamilton scores 100th F1 win as Norris throws away his first | Brief",
-      "title_en": "On This Day: Hamilton scores 100th F1 win as Norris throws away his first | Brief",
+      "id": "ffab03b8ace0",
+      "title": "Verstappen takes second pole position in Singapore ahead of the Ferraris | 2026 Singapore Grand Prix qualifying report",
+      "title_fr": "Verstappen takes second pole position in Singapore ahead of the Ferraris | 2026 Singapore Grand Prix qualifying report",
+      "title_en": "Verstappen takes second pole position in Singapore ahead of the Ferraris | 2026 Singapore Grand Prix qualifying report",
       "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/09/26/on-this-day-norriss-tyre-error-costs-him-breakthrough-formula-1-win/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2021/10/racefansdotnet-21-10-04-21-59-23-1.jpg",
-      "published_at": "2026-09-25T23:01:56+00:00",
-      "race_id": null,
+      "url": "https://www.racefans.net/2026/10/10/verstappen-takes-second-pole-position-in-singapore-ahead-of-the-ferraris/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-10-16-14-43-2-SI202610100408.jpg",
+      "published_at": "2026-10-10T14:38:39+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Heartbroken Norris loses first F1 win to Hamilton after tyre error",
-      "summary_en": "Heartbroken Norris loses first F1 win to Hamilton after tyre error"
+      "summary_fr": "Max Verstappen claimed his second pole position of the Singapore Grand Prix weekend, ahead of the Ferrari drivers.",
+      "summary_en": "Max Verstappen claimed his second pole position of the Singapore Grand Prix weekend, ahead of the Ferrari drivers."
     },
     {
-      "id": "188a2919cf40",
-      "title": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
-      "title_fr": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
-      "title_en": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-i-need-a-tow-bar-to-hook-onto-mercedes-to-fight-for-baku-win/10859038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YXyKvvx6/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-09-25T23:00:02+00:00",
-      "race_id": "australia",
+      "id": "fa2305019751",
+      "title": "2026 Singapore Grand Prix grid | Formula 1",
+      "title_fr": "2026 Singapore Grand Prix grid | Formula 1",
+      "title_en": "2026 Singapore Grand Prix grid | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/10/2026-singapore-grand-prix-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-15-35-59-3-SI202610090626.jpg",
+      "published_at": "2026-10-10T14:33:08+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand Prix.<br />However, t",
-      "summary_en": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand Prix.<br />However, t"
+      "summary_fr": "Max Verstappen has taken provisional pole position for the Singapore Grand Prix for Red Bull ahead of Charles Leclerc and Lewis Hamilton.",
+      "summary_en": "Max Verstappen has taken provisional pole position for the Singapore Grand Prix for Red Bull ahead of Charles Leclerc and Lewis Hamilton."
     },
     {
-      "id": "7e3f1c1db18b",
-      "title": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
-      "title_fr": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
-      "title_en": "Guenther Steiner calls out Williams over F1 infrastructure complaints: \"Crocodile tears\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-calls-out-williams-over-f1-infrastructure-complaints-crocodile-tears/10859062/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2GdKO7EY/s6/guenther-steiner.jpg",
-      "published_at": "2026-09-25T20:23:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has labelled Williams's complaints regarding capital expenditure limits \"crocodile tears\", questioning team boss James Vowles for continually movi",
-      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has labelled Williams's complaints regarding capital expenditure limits \"crocodile tears\", questioning team boss James Vowles for continually movi"
-    },
-    {
-      "id": "88e0e57a858a",
-      "title": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
-      "title_fr": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
-      "title_en": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/stefano-domenicali-reveals-bizarre-jimmy-fallon-prank-at-miami-gp-michelin-starred-dinner/10859056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZAMEj6/s6/jimmy-fallon.jpg",
-      "published_at": "2026-09-25T19:58:49+00:00",
-      "race_id": "miami",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 CEO Stefano Domenicali has detailed a bizarre off-track encounter with American television host Jimmy Fallon, who interrupted his business dinner at a Michelin-starred restaurant by sending ",
-      "summary_en": "Formula 1 CEO Stefano Domenicali has detailed a bizarre off-track encounter with American television host Jimmy Fallon, who interrupted his business dinner at a Michelin-starred restaurant by sending "
-    },
-    {
-      "id": "a231c97ceee9",
-      "title": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
-      "title_fr": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
-      "title_en": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-closing-in-on-1-billion-fans-as-stefano-domenicali-hails-female-audience-growth/10859054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YWKwnQOY/s6/stefano-domenicali-ceo-of-the-.jpg",
-      "published_at": "2026-09-25T19:31:31+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 CEO Stefano Domenicali says the championship is closing in on 1 billion global fans, driven by a younger audience, an increase in female viewership and more access to driver personalities.<b",
-      "summary_en": "Formula 1 CEO Stefano Domenicali says the championship is closing in on 1 billion global fans, driven by a younger audience, an increase in female viewership and more access to driver personalities.<b"
-    },
-    {
-      "id": "b6f853336c41",
-      "title": "Williams’ long-awaited F1 upgrade is delivering in Baku – but was Q3 an “overachievement”?",
-      "title_fr": "Williams’ long-awaited F1 upgrade is delivering in Baku – but was Q3 an “overachievement”?",
-      "title_en": "Williams’ long-awaited F1 upgrade is delivering in Baku – but was Q3 an “overachievement”?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-upgrade-delivering-baku-overachievement/10859048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7vp3e6/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-25T18:36:43+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams’ 2026 car had infamously been overweight after Formula 1 switched to a new technical ruleset, but a brand-new chassis introduced at the Azerbaijan Grand Prix has provided substantial performa",
-      "summary_en": "Williams’ 2026 car had infamously been overweight after Formula 1 switched to a new technical ruleset, but a brand-new chassis introduced at the Azerbaijan Grand Prix has provided substantial performa"
-    },
-    {
-      "id": "68d300817a62",
-      "title": "Esteban Ocon fed up after Baku mishap: ‘I don’t deserve all this sh*t’",
-      "title_fr": "Esteban Ocon fed up after Baku mishap: ‘I don’t deserve all this sh*t’",
-      "title_en": "Esteban Ocon fed up after Baku mishap: ‘I don’t deserve all this sh*t’",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/shit-esteban-ocon-baku-mishap/10859022/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0kZXlZo6/s6/esteban-ocon-haas-f1-team-3.jpg",
-      "published_at": "2026-09-25T17:04:07+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon has blamed his Q2 exit at the Azerbaijan Grand Prix on yellow flags – and rued “all the s**t” he’s been dealing with across a tough 2026 Formula 1 campaign at Haas.<br />Ocon has infamous",
-      "summary_en": "Esteban Ocon has blamed his Q2 exit at the Azerbaijan Grand Prix on yellow flags – and rued “all the s**t” he’s been dealing with across a tough 2026 Formula 1 campaign at Haas.<br />Ocon has infamous"
-    },
-    {
-      "id": "3d73d70e628f",
-      "title": "What’s behind Norris’ top-speed issue in Baku – and why McLaren itself is down on Mercedes",
-      "title_fr": "What’s behind Norris’ top-speed issue in Baku – and why McLaren itself is down on Mercedes",
-      "title_en": "What’s behind Norris’ top-speed issue in Baku – and why McLaren itself is down on Mercedes",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/whats-behind-lando-norris-top-speed-problem-in-baku-and-why-mclaren-itself-is-down-on-mercedes/10859014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68Vwkl42/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-09-25T16:26:12+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "A technical problem caused a lack of top speed on Lando Norris’ McLaren Formula 1 car in Azerbaijan Grand Prix qualifying, with the reigning world champion down in fifth.<br />Despite having outqualif",
-      "summary_en": "A technical problem caused a lack of top speed on Lando Norris’ McLaren Formula 1 car in Azerbaijan Grand Prix qualifying, with the reigning world champion down in fifth.<br />Despite having outqualif"
-    },
-    {
-      "id": "3069c9b88da0",
-      "title": "What was Lando Norris' top-speed problem in Baku qualifying?",
-      "title_fr": "What was Lando Norris' top-speed problem in Baku qualifying?",
-      "title_en": "What was Lando Norris' top-speed problem in Baku qualifying?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/whats-behind-lando-norris-top-speed-problem-in-baku-and-why-mclaren-itself-is-down-on-mercedes/10859012/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAlXP0/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-09-25T16:24:46+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "A technical problem caused a lack of top speed on Lando Norris’ McLaren Formula 1 car in Azerbaijan Grand Prix qualifying, with the reigning world champion down in fifth.<br />Despite having outqualif",
-      "summary_en": "A technical problem caused a lack of top speed on Lando Norris’ McLaren Formula 1 car in Azerbaijan Grand Prix qualifying, with the reigning world champion down in fifth.<br />Despite having outqualif"
-    },
-    {
-      "id": "f89c9b4b3565",
-      "title": "GP d'Azerbaïdjan de F1 : la grille de départ, superbe 2e ligne pour Isack Hadjar, grosse faute pour Kimi Antonelli - Turbo.fr",
-      "title_fr": "GP d'Azerbaïdjan de F1 : la grille de départ, superbe 2e ligne pour Isack Hadjar, grosse faute pour Kimi Antonelli - Turbo.fr",
-      "title_en": "GP d'Azerbaïdjan de F1 : la grille de départ, superbe 2e ligne pour Isack Hadjar, grosse faute pour Kimi Antonelli - Turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVC1MZ2NKb3dfNzZ2cmJIc2NuMGFlV1R0R24ya3BxYXhHczJJWmVuUU91VUkydkhfblItMnBRTkVGUkRxRXlKV2Rrc2Q1TmJ0OVhfU2g4b2NvaUtUT0RnY09jcFB3cFVSWVVyOVA2WExuUWo4VV9MdktLM3djRnJqVGNtYlN3NzJmNVRkT3YxOHlrbUNxOGRCaWs5ZlY2U1diM1dVcmt2UmUyNW9HSkRWNWhGUzlubjBGbDhPWG9tcFd4ZDllaWRrSmVZbW43OG56U1JicHVUTTZMZnNJRkdvY2NNSi1HOGVnSGxJT3AxSQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-25T16:23:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVC1MZ2NKb3dfNzZ2cmJIc2NuMGFlV1R0R24ya3BxYXhHczJJWmVuUU91VUkydkhfblItMnBRTkVGUkRxRXlKV2Rrc2Q1TmJ0OVhfU2g4b2NvaUtUT0RnY09jcFB3cFVSWVVyOVA2WE",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVC1MZ2NKb3dfNzZ2cmJIc2NuMGFlV1R0R24ya3BxYXhHczJJWmVuUU91VUkydkhfblItMnBRTkVGUkRxRXlKV2Rrc2Q1TmJ0OVhfU2g4b2NvaUtUT0RnY09jcFB3cFVSWVVyOVA2WE"
-    },
-    {
-      "id": "d4a24c20b4f2",
-      "title": "Antonelli 'comes back to earth' with qualifying crash",
-      "title_fr": "Antonelli 'comes back to earth' with qualifying crash",
-      "title_en": "Antonelli 'comes back to earth' with qualifying crash",
+      "id": "9371935ab86d",
+      "title": "Verstappen wins sprint after Russell crashes out",
+      "title_fr": "Verstappen wins sprint after Russell crashes out",
+      "title_en": "Verstappen wins sprint after Russell crashes out",
       "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqd0885k3d28o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebce/live/3da116c0-b8fd-11f1-83cd-2998f68d9572.jpg",
-      "published_at": "2026-09-25T16:19:04+00:00",
-      "race_id": null,
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e8/live/97e81b00-c498-11f1-b094-cb5c335b015a.jpg",
+      "published_at": "2026-10-10T13:43:47+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Kimi Antonelli says he is \"very mad\" about his crash in qualifying at the Azerbaijan Grand Prix, which means he will start from 16th on the grid.",
-      "summary_en": "Kimi Antonelli says he is \"very mad\" about his crash in qualifying at the Azerbaijan Grand Prix, which means he will start from 16th on the grid."
+      "summary_fr": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
+      "summary_en": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead."
     },
     {
-      "id": "76608dc5e3fe",
-      "title": "F1: Chequered Flag",
-      "title_fr": "F1: Chequered Flag",
-      "title_en": "F1: Chequered Flag",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pcjgv0?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": "2026-09-25T16:15:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The team review a mixed day for the two Mercedes drivers.",
-      "summary_en": "The team review a mixed day for the two Mercedes drivers."
-    },
-    {
-      "id": "2c306e97f382",
-      "title": "Carlos Sainz handed Azerbaijan F1 grid drop for yellow flag breach",
-      "title_fr": "Carlos Sainz handed Azerbaijan F1 grid drop for yellow flag breach",
-      "title_en": "Carlos Sainz handed Azerbaijan F1 grid drop for yellow flag breach",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-handed-azerbaijan-f1-grid-drop-for-yellow-flag-breach/10859007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YXyKvyK6/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-09-25T16:07:53+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams driver Carlos Sainz has been handed a five-place grid drop for Saturday's Azerbaijan GP in Baku as a punishment for speeding under yellow flags in qualifying.<br />At the end of Q3, Sainz was",
-      "summary_en": "Williams driver Carlos Sainz has been handed a five-place grid drop for Saturday's Azerbaijan GP in Baku as a punishment for speeding under yellow flags in qualifying.<br />At the end of Q3, Sainz was"
-    },
-    {
-      "id": "9aca5652a454",
-      "title": "à quelle heure et sur quelle chaîne suivre le Grand Prix de Fomule 1 d'Azerbaidjan ? - lequipe.fr",
-      "title_fr": "à quelle heure et sur quelle chaîne suivre le Grand Prix de Fomule 1 d'Azerbaidjan ? - lequipe.fr",
-      "title_en": "à quelle heure et sur quelle chaîne suivre le Grand Prix de Fomule 1 d'Azerbaidjan ? - lequipe.fr",
+      "id": "55919c4433d0",
+      "title": "F1 – La grille de départ complète du Grand Prix de Singapour 2026 - Dicodusport",
+      "title_fr": "F1 – La grille de départ complète du Grand Prix de Singapour 2026 - Dicodusport",
+      "title_en": "F1 – La grille de départ complète du Grand Prix de Singapour 2026 - Dicodusport",
       "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGo0U3VDUzhvTzZTV0ZKck1ZeWZkN2xuSVFzcktybElMS0lsdGJTaUFtcEotNUVlY3pDZ01FX1ViUXlZa3EybGZ2V2JxQkVVMFBFS0tGOWl2cVBkQ3ZkYnN4S1JaOXg4UEdjN25RRVFvMDJtcFpkQmw3R2xyWDdHRUZHVFo4LU1UNlQ3RW9NckZKVDR2WVJvQjB5SzBRa2VTMTQxaHlDRFVqNS00OGtoNXh6bkxfT3BPQ0tEMVBDTDdKNFlQdkRGZkQxQks5VGNo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVEFIc3FCSFpmOWVDdy1TY2twZ2xYb2g5c05EMUpibngzN1VEVzNiajNZ?oc=5",
       "image_url": null,
-      "published_at": "2026-09-25T15:50:00+00:00",
+      "published_at": "2026-10-10T13:04:17+00:00",
       "race_id": null,
       "category": "rumeur",
       "tags": [
@@ -702,65 +740,27 @@
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGo0U3VDUzhvTzZTV0ZKck1ZeWZkN2xuSVFzcktybElMS0lsdGJTaUFtcEotNUVlY3pDZ01FX1ViUXlZa3EybGZ2V2JxQkVVMFBFS0tGOWl2cVBkQ3ZkYnN4S1JaOXg4UEdjN25RRV",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGo0U3VDUzhvTzZTV0ZKck1ZeWZkN2xuSVFzcktybElMS0lsdGJTaUFtcEotNUVlY3pDZ01FX1ViUXlZa3EybGZ2V2JxQkVVMFBFS0tGOWl2cVBkQ3ZkYnN4S1JaOXg4UEdjN25RRV"
+      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVE",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVE"
     },
     {
-      "id": "6e6f6947b078",
-      "title": "La grille de départ du Grand Prix d'Azerbaïdjan F1 2026 - Motorsport.com France",
-      "title_fr": "La grille de départ du Grand Prix d'Azerbaïdjan F1 2026 - Motorsport.com France",
-      "title_en": "La grille de départ du Grand Prix d'Azerbaïdjan F1 2026 - Motorsport.com France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUV8welNtaUw1ZmN5aTlpeXBuNXVsZDA0ZmJ4NDBhTDVDeUxpRHRtN180Xy1ER3RQSGpMOG42cmJwTTB6bC1DdkgzY19FU0JmampibjBGcW45M1p4QUFsRmV2c2JWd1RROEtjU00zb3p2V3E4dy1ydTlEOUpyRzdnY3ZodUoxcG8?oc=5",
-      "image_url": null,
-      "published_at": "2026-09-25T15:43:17+00:00",
-      "race_id": null,
+      "id": "5356e473352e",
+      "title": "2026 Singapore Grand Prix qualifying and sprint race day in pictures | F1 Pictures",
+      "title_fr": "2026 Singapore Grand Prix qualifying and sprint race day in pictures | F1 Pictures",
+      "title_en": "2026 Singapore Grand Prix qualifying and sprint race day in pictures | F1 Pictures",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/10/2026-singapore-grand-prix-qualifying-and-sprint-race-day-in-pictures/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-10-14-39-56-5-M638214_F1_SINGAPORE_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-10-10T12:45:48+00:00",
+      "race_id": "singapore",
       "category": "rumeur",
       "tags": [
         "rumeur"
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUV8welNtaUw1ZmN5aTlpeXBuNXVsZDA0ZmJ4NDBhTDVDeUxpRHRtN180Xy1ER3RQSGpMOG42cmJwTTB6bC1DdkgzY19FU0JmampibjBGcW45M1p4QUFsRmV2c2JWd1RROEtjU00zb3",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUV8welNtaUw1ZmN5aTlpeXBuNXVsZDA0ZmJ4NDBhTDVDeUxpRHRtN180Xy1ER3RQSGpMOG42cmJwTTB6bC1DdkgzY19FU0JmampibjBGcW45M1p4QUFsRmV2c2JWd1RROEtjU00zb3"
-    },
-    {
-      "id": "aed6bd3c3767",
-      "title": "Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed",
-      "title_fr": "Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed",
-      "title_en": "Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyK4R7Y/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-09-25T15:38:42+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "After setting the fastest time in final practice and feeling good about the upgrades, Verstappen hoped to pull off a surprise in Baku, but an engine problem threw a spanner in the works.<br />Initiall",
-      "summary_en": "After setting the fastest time in final practice and feeling good about the upgrades, Verstappen hoped to pull off a surprise in Baku, but an engine problem threw a spanner in the works.<br />Initiall"
-    },
-    {
-      "id": "df9a62972d8b",
-      "title": "Russell takes pole in Baku as Antonelli hits wall",
-      "title_fr": "Russell takes pole in Baku as Antonelli hits wall",
-      "title_en": "Russell takes pole in Baku as Antonelli hits wall",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/c82a1a20-b8e5-11f1-ba42-19e1456ae537.jpg",
-      "published_at": "2026-09-25T15:38:11+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
-      "summary_en": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out."
+      "summary_fr": "Pictures from sprint race day for the 2026 Singapore Grand Prix at Singapore.",
+      "summary_en": "Pictures from sprint race day for the 2026 Singapore Grand Prix at Singapore."
     }
   ]
 }
