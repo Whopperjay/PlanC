@@ -1,8 +1,16 @@
-.claude/
-__pycache__/
-*.pyc
-*.pyo
-.env
-.dockerignore
-groq.env
-cloudkit.env
+# Ce depot est PUBLIC et ne contient que `data/` : les artefacts JSON que lit
+# l'app Overtaker, via
+# https://raw.githubusercontent.com/Whopperjay/PlanC/master/data/
+#
+# Le code des deux conteneurs qui les produisent (f1-data-updater,
+# f1-news-updater) a ete retire d'ici le 2026-10-11 et vit desormais dans leurs
+# depots PRIVES. Sa presence ici n'etait pas seulement inutile, elle causait une
+# panne : chaque producteur supprimait du depot les scripts de l'autre a chaque
+# cycle, et celui qui se remettait a jour dessus perdait son code en cours
+# d'execution.
+#
+# On ignore donc tout, sauf data/ : si un dossier de stack redevenait un clone
+# de ce depot, un `git add -A` ne pourrait plus y renvoyer de code.
+/*
+!.gitignore
+!data/
