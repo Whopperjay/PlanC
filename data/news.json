@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-10-11T16:20:41Z",
+  "last_updated": "2026-10-11T19:22:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e74164755ed7",
+      "title": "Lando Norris: ‘I owe everyone at McLaren an apology” for Oscar Piastri clash",
+      "title_fr": "Norris s'excuse après le choc avec Piastri à Singapour",
+      "title_en": "Norris apologises after clash with Piastri at Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-i-owe-everyone-at-mclaren-an-apology-for-oscar-piastri-clash/10864465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-10-11T18:14:08+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a reconnu avoir déçu l’équipe McLaren après avoir heurté Oscar Piastri lors du sprint du Grand Prix de Singapour. Le pilote a exprimé ses regrets.",
+      "summary_en": "Lando Norris admitted he let the McLaren team down after colliding with Oscar Piastri in the Singapore sprint. The driver apologized for the incident."
+    },
+    {
+      "id": "76872d28fc9b",
+      "title": "Verstappen jokes about coded messages as Red Bull phases in Lambiase’s successor",
+      "title_fr": "Verstappen jokes about coded messages as Red Bull phases in Lambiase’s successor",
+      "title_en": "Verstappen jokes about coded messages as Red Bull phases in Lambiase’s successor",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-gianpiero-lambiases-suc/10864455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2Qed4eP2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-11T17:30:02+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "There were still two races on the current Formula 1 calendar missing from Max Verstappen's list of victories: the Madring and the Marina Bay Street Circuit. Given that F1 only visited the street circu",
+      "summary_en": "There were still two races on the current Formula 1 calendar missing from Max Verstappen's list of victories: the Madring and the Marina Bay Street Circuit. Given that F1 only visited the street circu"
+    },
+    {
+      "id": "3cc770d24ffd",
+      "title": "Max Verstappen jokes about coded messages as Red Bull plans first races for Gianpiero Lambiase’s successor",
+      "title_fr": "Verstappen se moque de messages codés alors que Red Bull prépare la première course de son successeur",
+      "title_en": "Verstappen jokes about coded messages as Red Bull gears up for successor's debut",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-lambiases-successor/10864449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2Qed4eP2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-11T17:17:47+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a plaisanté sur des messages codés alors que Red Bull prépare la première course de son successeur, Gianpiero Lambiase. Le pilote reste dominant malgré les défis de Singapore.",
+      "summary_en": "Max Verstappen joked about coded messages as Red Bull prepares the first race for its successor, Gianpiero Lambiase. The driver remains dominant despite Singapore's long-standing challenges."
+    },
+    {
+      "id": "10d63200ea82",
+      "title": "Winners and losers from F1's Singapore Grand Prix",
+      "title_fr": "Gianpiero Lambiase triomphe à Singapour",
+      "title_en": "Gianpiero Lambiase wins at Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-singapore-grand-prix/10864434/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAobq0/s6/charles-leclerc-ferrari-max-ve.jpg",
+      "published_at": "2026-10-11T17:09:09+00:00",
+      "race_id": "singapore",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Gianpiero Lambiase a remporté le Grand Prix de Singapour, tandis que d'autres pilotes regrettent leurs choix. Le weekend a été marqué par une fatigue accrue et quelques tensions.",
+      "summary_en": "Gianpiero Lambiase won the Singapore Grand Prix, while other drivers lament their decisions. The weekend was marked by fatigue and some tensions."
+    },
+    {
+      "id": "223d630e36d8",
+      "title": "Toto Wolff explains the strict transparency keeping Mercedes F1 united",
+      "title_fr": "Wolff explique la transparence stricte qui unit Mercedes",
+      "title_en": "Wolff explains strict transparency that keeps Mercedes united",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-strict-f1-transparency-keeping-mercedes-united/10864411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YN7vqdP6/s6/untitled-design-91-2.jpg",
+      "published_at": "2026-10-11T16:35:43+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff détaille la politique de transparence stricte instaurée chez Mercedes afin de préserver l'unité de l'equipe, malgré les tensions entre Kimi Antonelli et George Russell.",
+      "summary_en": "Toto Wolff outlines the strict transparency policy at Mercedes to keep the team united amid tensions between Kimi Antonelli and George Russell."
+    },
+    {
+      "id": "20225c531b4c",
+      "title": "Toto Wolff praises Red Bull as Mercedes faces upgrade concerns",
+      "title_fr": "Wolff loue Red Bull alors que Mercedes cherche des améliorations",
+      "title_en": "Wolff praises Red Bull as Mercedes seeks upgrades",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-praises-max-verstappen-and-red-bull-as-mercedes-faces-upgrade-concerns/10864424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyodg6/s6/untitled-design-90-2.jpg",
+      "published_at": "2026-10-11T16:28:39+00:00",
+      "race_id": "austria",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff félicite Red Bull pour ses gains récents, tandis que Mercedes analyse une nouvelle mise à jour pour rester compétitive.",
+      "summary_en": "Toto Wolff praised Red Bull for its recent gains, while Mercedes reviews a new upgrade to stay competitive."
+    },
+    {
+      "id": "2f9563f00075",
+      "title": "Ferrari explains Hamilton’s failed Singapore GP gamble",
+      "title_fr": "Ferrari explique la chute de Hamilton à Singapour",
+      "title_en": "Ferrari explains Hamilton’s failed Singapore gamble",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ferrari-explains-hamiltons-failed-singapore-gp-gamble/10864421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2eZxnMlY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-11T16:23:39+00:00",
+      "race_id": "singapore",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a expliqué pourquoi Lewis Hamilton a perdu la troisième place à Singapour, en restant sur pneus mous pendant 44 tours sous VSC.",
+      "summary_en": "Ferrari explained why Lewis Hamilton lost third place in Singapore, staying on soft tyres for 44 laps under VSC."
+    },
+    {
+      "id": "80e39984d285",
+      "title": "Why Ferrari caved in to Lewis Hamilton’s failed Singapore F1 gamble",
+      "title_fr": "Ferrari capitule face à l'échec de la stratégie de Hamilton à Singapour",
+      "title_en": "Ferrari capitulates to Hamilton's failed Singapore gamble",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-ferrari-caved-in-to-lewis-hamiltons-failed-singapore-f1-gamble/10864417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKv5pY/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-10-11T16:19:57+00:00",
+      "race_id": "singapore",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Après le Grand Prix de Singapour, l'équipe Ferrari a admis que la stratégie de Lewis Hamilton, qui l'a fait passer de la troisième à la sixième place, a échoué. Le directeur technique Fred Vasseur a critiqué la décision.",
+      "summary_en": "After Singapore, Ferrari admitted that Lewis Hamilton's strategy, which dropped him from third to sixth, failed. Team principal Fred Vasseur criticized the decision."
+    },
     {
       "id": "f5987e88c6b5",
       "title": "How Kimi Antonelli will cope with pressure of clinching F1 title at US GP",
@@ -39,6 +191,25 @@
       "is_breaking": true,
       "summary_fr": "Lewis Hamilton a été envoyé à l’équipe médicale FIA après le Grand Prix de Singapour, suite à une bataille épuisante de 62 tours sous une chaleur extrême.",
       "summary_en": "Lewis Hamilton was rushed to the FIA medical team after the Singapore GP, following a grueling 62-lap battle in extreme heat."
+    },
+    {
+      "id": "f44efcde57ac",
+      "title": "How can Antonelli become F1 world champion at US GP?",
+      "title_fr": "Antonelli, champion du monde en vue après cinq victoires consécutives",
+      "title_en": "Antonelli poised to become world champion after five straight wins",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/how-can-antonelli-become-f1-world-champion-at-us-gp/10864377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6n7boQg0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-10-11T15:19:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, 20 ans, a dominé la saison 2025 avec cinq victoires consécutives, ouvrant la voie à un titre mondial en 2026. Sa performance a fait de lui le pilote à battre.",
+      "summary_en": "Kimi Antonelli, 20, has dominated the 2025 season with five consecutive wins, positioning him to become world champion in 2026. His performance makes him the driver to beat."
     },
     {
       "id": "3f61a1d397fd",
@@ -134,6 +305,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a enfin remporté le Grand Prix de Singapour, brisant une série de déceptions. Le pilote de Red Bull s’est hissé sur le podium après plusieurs tentatives infructueuses.",
       "summary_en": "Max Verstappen finally wins the Singapore Grand Prix, ending a long streak of near misses. The Red Bull driver takes the top step after years of heartbreak."
+    },
+    {
+      "id": "6771e553f0f6",
+      "title": "Hamilton takes blame for poor Singapore GP strategy call",
+      "title_fr": "Hamilton assume la faute sur la stratégie à Singapour",
+      "title_en": "Hamilton blames strategy at Singapore GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8Zode2/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-11T14:24:02+00:00",
+      "race_id": "singapore",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a reconnu l'erreur de stratégie qui l'a pénalisé à Singapour, après avoir refusé de changer de pneus sous le VSC. La décision a coûté des places au pilote.",
+      "summary_en": "Lewis Hamilton admitted the strategic mistake that cost him positions at Singapore after refusing to pit under the VSC. The decision left him behind the leaders."
     },
     {
       "id": "6a45e5cefd7c",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1"
-    },
-    {
-      "id": "ee0bf0170a9c",
-      "title": "Hamilton admits set-up change spoiled car balance after missing out on pole position | Formula 1",
-      "title_fr": "Hamilton admits set-up change spoiled car balance after missing out on pole position | Formula 1",
-      "title_en": "Hamilton admits set-up change spoiled car balance after missing out on pole position | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/10/hamilton-admits-set-up-change-spoiled-car-balance-after-missing-out-on-pole-position/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-14-37-42-5-261009_R17_SINGAPORE_DP_VA1_4350.jpg",
-      "published_at": "2026-10-10T16:41:53+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton was quickest in Q1 and Q2 but only qualified third after a set-up change \"tipped it over the edge\".",
-      "summary_en": "Lewis Hamilton was quickest in Q1 and Q2 but only qualified third after a set-up change \"tipped it over the edge\"."
-    },
-    {
-      "id": "dbd661c08885",
-      "title": "Russell aiming for sixth from back of grid in Singapore | Formula 1",
-      "title_fr": "Russell aiming for sixth from back of grid in Singapore | Formula 1",
-      "title_en": "Russell aiming for sixth from back of grid in Singapore | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/10/russell-aiming-for-sixth-from-back-of-grid-in-singapore/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-17-02-09-10-13-friday-singapore-2026.jpg",
-      "published_at": "2026-10-10T16:35:42+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell hopes he can salvage a top-six finish starting from the back of the grid in Sunday's Singapore Grand Prix.",
-      "summary_en": "George Russell hopes he can salvage a top-six finish starting from the back of the grid in Sunday's Singapore Grand Prix."
-    },
-    {
-      "id": "3c2323aeec45",
-      "title": "McLaren to talk internally after \"simply not acceptable\" Norris-Piastri clash",
-      "title_fr": "McLaren to talk internally after \"simply not acceptable\" Norris-Piastri clash",
-      "title_en": "McLaren to talk internally after \"simply not acceptable\" Norris-Piastri clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/andrea-stella-singapore-f1-sprint-collision-between-lando-norris-and-oscar-piastri-simply-not-accep/10864014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/01QN4ve0/s6/lando-norris-mclaren-oscar-pia.jpg",
-      "published_at": "2026-10-10T16:34:34+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "On the final lap of a wet 20-lap sprint, Lando Norris made a lunge on Oscar Piastri on the inside of Turn 5, unsuccessfully backing out of a closing gap and striking his McLarne team-mate's right-rear",
-      "summary_en": "On the final lap of a wet 20-lap sprint, Lando Norris made a lunge on Oscar Piastri on the inside of Turn 5, unsuccessfully backing out of a closing gap and striking his McLarne team-mate's right-rear"
-    },
-    {
-      "id": "3db2734928d1",
-      "title": "Andrea Stella: Singapore F1 sprint collision between Lando Norris and Oscar Piastri \"simply not acceptable\"",
-      "title_fr": "Norris touche Piastri à Singapour, élimination",
-      "title_en": "Norris hits Piastri in Singapore sprint, Piastri eliminated",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/andrea-stella-singapore-f1-sprint-collision-between-lando-norris-and-oscar-piastri-simply-not-accep/10864011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YpbAGnX0/s6/lando-norris-mclaren-oscar-pia.jpg",
-      "published_at": "2026-10-10T16:32:40+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": true,
-      "summary_fr": "Lors du dernier tour d'un sprint mouillé, Lando Norris a percuté Oscar Piastri à l'intérieur du virage 5, provoquant une perte de contrôle et l'élimination de Piastri, tandis que Norris descendait à la huitième place.",
-      "summary_en": "On the final lap of a wet sprint, Lando Norris clipped Oscar Piastri inside Turn 5, sending both cars spinning. Piastri was eliminated and Norris fell to eighth."
-    },
-    {
-      "id": "1262145557ea",
-      "title": "How to follow Singapore Grand Prix on the BBC",
-      "title_fr": "How to follow Singapore Grand Prix on the BBC",
-      "title_en": "How to follow Singapore Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2d6p4e3y93o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc6/live/b3ef3060-c4c3-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-10T16:15:45+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October.",
-      "summary_en": "All the key BBC coverage details for the Singapore Grand Prix, the sixth and final sprint event of the season, which takes place from 9-11 October."
-    },
-    {
-      "id": "93fa78949205",
-      "title": "How Hamilton \"tipped it over the edge\" with a setup change too far in Singapore GP qualifying",
-      "title_fr": "How Hamilton \"tipped it over the edge\" with a setup change too far in Singapore GP qualifying",
-      "title_en": "How Hamilton \"tipped it over the edge\" with a setup change too far in Singapore GP qualifying",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-hamilton-tipped-it-over-the-edge-with-a-setup-change-too-far-in-singapore-gp-qualifying/10863998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0mXyKrX6/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-10-10T16:10:45+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari will be pondering whether both its cars should have been on the front row for the Singapore Grand Prix. Lewis Hamilton set an impressive pace through the opening segments of qualifying and tea",
-      "summary_en": "Ferrari will be pondering whether both its cars should have been on the front row for the Singapore Grand Prix. Lewis Hamilton set an impressive pace through the opening segments of qualifying and tea"
-    },
-    {
-      "id": "82960c93f5ab",
-      "title": "F1: Chequered Flag",
-      "title_fr": "F1: Chequered Flag",
-      "title_en": "F1: Chequered Flag",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pg23b2?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": "2026-10-10T15:57:00+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Could Max Verstappen continue his fine form and take victory in the Singapore sprint?",
-      "summary_en": "Could Max Verstappen continue his fine form and take victory in the Singapore sprint?"
-    },
-    {
-      "id": "c331fd1c3c26",
-      "title": "Russell bemoans \"very bad\" Saturday at Singapore GP",
-      "title_fr": "Russell déplore son crash à Singapour",
-      "title_en": "Russell laments 'very bad' Saturday at Singapore GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/russell-bemoans-very-bad-saturday-at-singapore-gp/10863982/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNg3X2/s6/george-russell-mercedes-3.jpg",
-      "published_at": "2026-10-10T15:52:51+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "George Russell a admis que son propre erreur l'a fait sortir du sprint de Singapour, ce qui a pu nuire à sa qualification. Il a perdu le contrôle sur la piste mouillée de Marina Bay.",
-      "summary_en": "George Russell admitted his own mistake caused him to crash out of the Singapore sprint, potentially hurting his qualifying. He lost control on the wet Marina Bay track."
-    },
-    {
-      "id": "9ef7c6f0e2f4",
-      "title": "George Russell: ‘A very bad day because of my own mistake’",
-      "title_fr": "Russell s'excuse après sa collision à Singapour",
-      "title_en": "Russell apologises after crash in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-owns-up-to-singapore-f1-crash-a-very-bad-day-because-of-my-own-mistake/10863974/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/24QGlVqY/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-10-10T15:48:58+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "George Russell a admis que son erreur l'a fait sortir du sprint du Grand Prix de Singapour, ce qui a pu nuire à sa qualification.",
-      "summary_en": "George Russell admitted his own mistake caused him to crash out of the Singapore sprint, potentially affecting his qualifying performance."
-    },
-    {
-      "id": "237d6fc736b8",
-      "title": "Isack Hadjar demands massive red Bull engine changes: “Everything is breaking apart”",
-      "title_fr": "Isack Hadjar demands massive red Bull engine changes: “Everything is breaking apart”",
-      "title_en": "Isack Hadjar demands massive red Bull engine changes: “Everything is breaking apart”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-demands-massive-red-bull-engine-changes-everything-is-breaking-apart/10863966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/27Nogzv0/s6/untitled-design-78-2.jpg",
-      "published_at": "2026-10-10T15:44:11+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull Racing is experiencing massively contrasting fortunes at the 2026 Singapore Grand Prix. While Max Verstappen successfully secured pole position for Sunday's main event, his team-mate, Isack H",
-      "summary_en": "Red Bull Racing is experiencing massively contrasting fortunes at the 2026 Singapore Grand Prix. While Max Verstappen successfully secured pole position for Sunday's main event, his team-mate, Isack H"
     }
   ]
 }
