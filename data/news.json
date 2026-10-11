@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-11T09:05:44Z",
+  "last_updated": "2026-10-11T10:42:02Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b522db7144f0",
+      "title": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
+      "title_fr": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
+      "title_en": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-pissed-off-after-mechanical-problems-strike-at-singapore-gp/10864184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8y786/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-10-11T08:51:23+00:00",
+      "race_id": "austria",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar was left “pissed off” after various mechanical problems disrupted his Saturday at the Singapore Grand Prix - leaving him with a back row start for Sunday’s Formula 1 race.<br />A track li",
+      "summary_en": "Isack Hadjar was left “pissed off” after various mechanical problems disrupted his Saturday at the Singapore Grand Prix - leaving him with a back row start for Sunday’s Formula 1 race.<br />A track li"
+    },
     {
       "id": "b9222bc3a536",
       "title": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVE",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVE"
-    },
-    {
-      "id": "5356e473352e",
-      "title": "2026 Singapore Grand Prix qualifying and sprint race day in pictures | F1 Pictures",
-      "title_fr": "2026 Singapore Grand Prix qualifying and sprint race day in pictures | F1 Pictures",
-      "title_en": "2026 Singapore Grand Prix qualifying and sprint race day in pictures | F1 Pictures",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/10/2026-singapore-grand-prix-qualifying-and-sprint-race-day-in-pictures/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-10-14-39-56-5-M638214_F1_SINGAPORE_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-10-10T12:45:48+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Pictures from sprint race day for the 2026 Singapore Grand Prix at Singapore.",
-      "summary_en": "Pictures from sprint race day for the 2026 Singapore Grand Prix at Singapore."
     }
   ]
 }
