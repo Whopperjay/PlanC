@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-11T11:40:58Z",
+  "last_updated": "2026-10-11T13:54:46Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "20a0005dd258",
+      "title": "Five quick takeaways from Singapore GP",
+      "title_fr": "Red Bull boosté, Piastri sourit",
+      "title_en": "Red Bull boosted, Piastri smiles",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-quick-conclusions-from-singapore-gp/10864297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgoB9Y/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-10-11T13:49:27+00:00",
+      "race_id": "azerbaijan",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a amélioré son RB22, le pilote Piastri de McLaren le juge \"bon matériel\". Le nouveau moteur est plus rapide et plus prévisible.",
+      "summary_en": "Red Bull upgraded its RB22, McLaren's Piastri calls it \"good stuff\". The new engine is faster and more predictable."
+    },
     {
       "id": "b522db7144f0",
       "title": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead.",
       "summary_en": "Red Bull's Max Verstappen wins an incident-packed sprint race at the Singapore Grand Prix after George Russell crashes out of the lead."
-    },
-    {
-      "id": "55919c4433d0",
-      "title": "F1 – La grille de départ complète du Grand Prix de Singapour 2026 - Dicodusport",
-      "title_fr": "F1 – La grille de départ complète du Grand Prix de Singapour 2026 - Dicodusport",
-      "title_en": "F1 – La grille de départ complète du Grand Prix de Singapour 2026 - Dicodusport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVEFIc3FCSFpmOWVDdy1TY2twZ2xYb2g5c05EMUpibngzN1VEVzNiajNZ?oc=5",
-      "image_url": null,
-      "published_at": "2026-10-10T13:04:17+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVE",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2dpbVhfRG1TSkU3d3B0QVNaWGFxQ1VkWll1bnRnRkRQYkY5emVMRWlRWE1IQzhvVWxqcGFQVmwwMUE5QUh1bkNlM1liSlFpRmFqVHF2Nl9xNm1LVkZCZDhlLUlYQ2owUjBqZkZUVE"
     }
   ]
 }
