@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T05:00:04Z",
-  "model": "claude",
+  "generated_at": "2026-10-11T10:42:11Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -61,6 +61,21 @@
       "key_factor_fr": "Domination Mercedes 2026 + crash Hamilton en FP3",
       "news_used_ids": [],
       "generated_at": "2026-09-12T13:00:24Z"
+    },
+    {
+      "event_id": "singapore_grand_prix",
+      "race_id": "singapore",
+      "session_type": "grand_prix",
+      "session_date": "2026-10-11T12:00:00+00:00",
+      "p1": "max_verstappen",
+      "p2": "leclerc",
+      "p3": "hamilton",
+      "reasoning_fr": "Sur le circuit urbain de Singapour, dépasser est très difficile ; la grille devient donc le critère principal. Verstappen part en pole, suivi de près par Leclerc et Hamilton, tous deux en excellente forme et avec des stratégies de pneus éprouvées. Antonelli, bien que champion, démarre 4e et devra compter sur un arrêt optimal, ce qui reste incertain. Les problèmes mécaniques de Hadjar et les tensio",
+      "reasoning_en": "Singapore’s street layout makes overtaking extremely hard, so starting position is paramount. Verstappen leads from pole, with Leclerc and Hamilton right behind, both in strong recent form and with proven tyre strategies. Antonelli, despite leading the championship, starts fourth and would need a flawless pit stop to challenge, which is not guaranteed. Hadjar’s mechanical woes and McLaren’s intern",
+      "confidence": "high",
+      "key_factor_fr": "Position sur la grille décisive à Singapour",
+      "news_used_ids": [],
+      "generated_at": "2026-10-11T10:42:10Z"
     }
   ]
 }
