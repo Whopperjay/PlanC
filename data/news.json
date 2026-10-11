@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-11T19:22:38Z",
+  "last_updated": "2026-10-11T22:24:36Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b35b07f769de",
+      "title": "Charles Leclerc's private jet drama sparked last-minute change of plans",
+      "title_fr": "Leclerc subit un contretemps de jet privé avant Singapour",
+      "title_en": "Leclerc faces jet‑private hiccup before Singapore GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclercs-private-jet-drama-sparked-last-minute-change-of-plans/10864489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6b8Z3lr2/s6/untitled-design-92-2.jpg",
+      "published_at": "2026-10-11T21:57:51+00:00",
+      "race_id": "singapore",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Ferrari Charles Leclerc a dû abandonner son jet privé, qui a été contraint de retourner en Malaisie, et a voyagé en voiture vers Singapour. Ce contretemps a retardé son arrivée.",
+      "summary_en": "Ferrari driver Charles Leclerc had to abandon his private jet, which was forced to return to Malaysia, and instead travelled by road to Singapore. The last‑minute change delayed his arrival."
+    },
     {
       "id": "e74164755ed7",
       "title": "Lando Norris: ‘I owe everyone at McLaren an apology” for Oscar Piastri clash",
@@ -136,6 +155,25 @@
       "summary_en": "Ferrari explained why Lewis Hamilton lost third place in Singapore, staying on soft tyres for 44 laps under VSC."
     },
     {
+      "id": "70e514745f6b",
+      "title": "Norris incorrectly believed Hamilton “would have to let me past” after turn one move | Formula 1",
+      "title_fr": "Norris contesté son dépassement de Hamilton après le premier virage",
+      "title_en": "Norris challenges his overtaking of Hamilton after first corner",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/norris-incorrectly-believed-hamilton-would-have-to-let-me-past-after-turn-one-move/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-21-32-06-2-2299668924.jpg",
+      "published_at": "2026-10-11T16:21:37+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a tenté de dépasser Lewis Hamilton après le premier virage, mais les commissaires ont jugé son mouvement illégitime.",
+      "summary_en": "Lando Norris attempted to overtake Lewis Hamilton after the first corner, but stewards ruled his move illegitimate."
+    },
+    {
       "id": "80e39984d285",
       "title": "Why Ferrari caved in to Lewis Hamilton’s failed Singapore F1 gamble",
       "title_fr": "Ferrari capitule face à l'échec de la stratégie de Hamilton à Singapour",
@@ -172,6 +210,25 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 championship leader Kimi Antonelli has vowed to keep the same mindset for the United States Grand Prix, where he could clinch his maiden world title.<br />The Mercedes driver has been the do",
       "summary_en": "Formula 1 championship leader Kimi Antonelli has vowed to keep the same mindset for the United States Grand Prix, where he could clinch his maiden world title.<br />The Mercedes driver has been the do"
+    },
+    {
+      "id": "81c10851376f",
+      "title": "2026 Singapore Grand Prix interactive data: lap charts, times and tyres | 2026 Singapore Grand Prix interactive data",
+      "title_fr": "Hamilton vulnérable après arrêt prématuré à Singapour",
+      "title_en": "Hamilton vulnerable after early pit stop at Singapore",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/2026-singapore-grand-prix-interactive-data-lap-charts-times-and-tyres/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/singaporegp-Lap-chart-frame.jpg",
+      "published_at": "2026-10-11T15:46:41+00:00",
+      "race_id": "singapore",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a subi un arrêt de service trop tôt, le rendant vulnérable lorsqu’il n’a pas fait le deuxième arrêt demandé par Ferrari.",
+      "summary_en": "Lewis Hamilton's early pit stop left him vulnerable when he missed Ferrari's second stop call."
     },
     {
       "id": "1dab2e3b9df1",
@@ -345,6 +402,25 @@
       "summary_en": "Lewis Hamilton took responsibility for his team's strategy at the Singapore Grand Prix after the decision not to pit under the virtual safety car cost him dearly."
     },
     {
+      "id": "d4f802602c3f",
+      "title": "How Antonelli can clinch the F1 world championship at the next race in Austin | Formula 1",
+      "title_fr": "How Antonelli can clinch the F1 world championship at the next race in Austin | Formula 1",
+      "title_en": "How Antonelli can clinch the F1 world championship at the next race in Austin | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/how-antonelli-can-clinch-the-f1-world-championship-at-the-next-race-in-austin/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-20-33-44-5-2299662842.jpg",
+      "published_at": "2026-10-11T14:15:03+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli can win the world championship in the next round depending on where he, George Russell and Lewis Hamilton finish.",
+      "summary_en": "Andrea Kimi Antonelli can win the world championship in the next round depending on where he, George Russell and Lewis Hamilton finish."
+    },
+    {
       "id": "a3d02bf4f295",
       "title": "Kimi Antonelli caught off guard by major F1 title news after Singapore GP",
       "title_fr": "Antonelli décroche un podium à Singapour",
@@ -381,6 +457,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a remporté le Grand Prix de Singapour, battant Charles Leclerc et Kimi Antonelli. La stratégie d'Hamilton a coûté cher, laissant Antonelli sur le podium et renforçant son avance en championnat.",
       "summary_en": "Max Verstappen won the Singapore Grand Prix, beating Charles Leclerc and Kimi Antonelli. Hamilton's strategy cost him, leaving Antonelli on the podium and extending his championship lead."
+    },
+    {
+      "id": "8b633503f014",
+      "title": "F1 Singapore GP: Verstappen takes comfortable victory from Leclerc and Antonelli",
+      "title_fr": "Verstappen remporte son premier Grand Prix de Singapour",
+      "title_en": "Verstappen wins his first Singapore GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-singapore-gp-report/10864312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2GdKqjzY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-11T13:53:45+00:00",
+      "race_id": "singapore",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a remporté son premier Grand Prix de Singapour, battant Charles Leclerc et Kimi Antonelli. La stratégie de Lewis Hamilton a coûté cher, laissant Antonelli sur le podium et renforçant son avance au championnat.",
+      "summary_en": "Max Verstappen secured his first Singapore GP victory, beating Charles Leclerc and Kimi Antonelli. Lewis Hamilton's strategy cost him, allowing Antonelli to podium and extend his championship lead."
     },
     {
       "id": "20a0005dd258",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The Singapore weekend is one of milestones for Verstappen. The Dutchman is contesting his 250th Formula 1 Grand Prix this weekend and has claimed his 50th pole position in the process.<br />Verstappen",
       "summary_en": "The Singapore weekend is one of milestones for Verstappen. The Dutchman is contesting his 250th Formula 1 Grand Prix this weekend and has claimed his 50th pole position in the process.<br />Verstappen"
-    },
-    {
-      "id": "eb05aec413ae",
-      "title": "Verstappen building major momentum as 'no-one very happy' at McLaren",
-      "title_fr": "Verstappen building major momentum as 'no-one very happy' at McLaren",
-      "title_en": "Verstappen building major momentum as 'no-one very happy' at McLaren",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f27d/live/f357fbe0-c4cf-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-10T17:46:36+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson.",
-      "summary_en": "Max Verstappen's revival might not be a serious issue for Kimi Antonelli but it is for McLaren, who had a bad Saturday in Singapore, writes Andrew Benson."
-    },
-    {
-      "id": "7f1027400164",
-      "title": "A \"better job\" or more engine power? Verstappen's Singapore pole unpicked",
-      "title_fr": "A \"better job\" or more engine power? Verstappen's Singapore pole unpicked",
-      "title_en": "A \"better job\" or more engine power? Verstappen's Singapore pole unpicked",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/a-better-job-or-more-engine-power-verstappens-singapore-pole-unpicked/10864047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwagD2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-10T17:45:04+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "There's many a slip twixt cup and lip – and the ifs, buts and maybes nag even more insistently when the gap between pole position and P2 is measured in the thousandths of a second.<br />\"I think there",
-      "summary_en": "There's many a slip twixt cup and lip – and the ifs, buts and maybes nag even more insistently when the gap between pole position and P2 is measured in the thousandths of a second.<br />\"I think there"
-    },
-    {
-      "id": "909bca429250",
-      "title": "Featured Comment: F1’s latest technical glitch shows its power unit rules are too intrusive | Briefs",
-      "title_fr": "Featured Comment: F1’s latest technical glitch shows its power unit rules are too intrusive | Briefs",
-      "title_en": "Featured Comment: F1’s latest technical glitch shows its power unit rules are too intrusive | Briefs",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/10/featured-comment-f1s-latest-technical-glitch-shows-its-power-unit-rules-are-too-intrusive/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-09-20-33-41-1.jpg",
-      "published_at": "2026-10-10T16:56:05+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Singapore qualifying glitch shows FIA has too much control over F1 cars",
-      "summary_en": "Singapore qualifying glitch shows FIA has too much control over F1 cars"
-    },
-    {
-      "id": "96d19087f172",
-      "title": "How Mercedes’ tricky F1 upgrade has been working at Singapore GP",
-      "title_fr": "Mercedes sépare ses upgrades à Singapour",
-      "title_en": "Mercedes splits upgrades at Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-mercedes-tricky-f1-upgrade-has-been-working-at-singapore-gp/10864023/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8yKV6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-10T16:47:30+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli estime que la Mercedes W17 mise à jour fonctionne mieux, malgré l’incertitude sur les performances réelles des nouvelles pièces. Mercedes a décidé de séparer les voitures en termes de mise à jour à Singapour.",
-      "summary_en": "Kimi Antonelli says the upgraded Mercedes W17 works better, despite uncertainty over the new parts' performance. Mercedes chose to split upgrades between cars at Singapore."
-    },
-    {
-      "id": "ffd84855ef27",
-      "title": "GP de Singapour de F1 : chaînes TV et horaires du dernier week-end Sprint de l'année 2026 - Turbo.fr",
-      "title_fr": "GP de Singapour de F1 : chaînes TV et horaires du dernier week-end Sprint de l'année 2026 - Turbo.fr",
-      "title_en": "GP de Singapour de F1 : chaînes TV et horaires du dernier week-end Sprint de l'année 2026 - Turbo.fr",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1VfZ3VLdFZHbXctWjhhX0t1dm1meGNsRkRrRzd2RUFpWndnckYtTmN6MTlUYWlIQ3hJV0RtbGRZUzVBQ0haNWM4TEpXZjMtMUZjcHQwUElyWkgtQ3JuV2V2Q0JvZVRpNmpr?oc=5",
-      "image_url": null,
-      "published_at": "2026-10-10T16:45:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRXMHk5R1Y5b1lYUkFtajRiOWk4RWhLTTM3dGpuNG5ONTJPY2RmVHVvTkw1SURlTzc3UHdLTUJ4dnhzRnpmSTVQc2hIR1BfRUtfd0xXcGwxSVpYbm8wV29KQlMydmphb3RYUi1TT1"
     }
   ]
 }
