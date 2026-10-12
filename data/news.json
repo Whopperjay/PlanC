@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-12T13:35:04Z",
+  "last_updated": "2026-10-12T16:37:26Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d4b6dd90d4bc",
+      "title": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
+      "title_fr": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
+      "title_en": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-to-watch-max-verstappen-race-gt-world-challenge-portimao-free-live-stream-start-time-and-schedu/10864757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq83vo6/s6/untitled-design-100-2.jpg",
+      "published_at": "2026-10-12T16:29:35+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "After a successful weekend in Singapore, Max Verstappen is now spending a rare week outside of Formula 1 behind the wheel of a Mercedes-AMG GT3. Apparently, the F1 schedule isn't punishing enough for ",
+      "summary_en": "After a successful weekend in Singapore, Max Verstappen is now spending a rare week outside of Formula 1 behind the wheel of a Mercedes-AMG GT3. Apparently, the F1 schedule isn't punishing enough for "
+    },
+    {
+      "id": "32b8af8e5c78",
+      "title": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
+      "title_fr": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
+      "title_en": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve.jpg",
+      "published_at": "2026-10-12T15:53:57+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to take the lead.<br />H",
+      "summary_en": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to take the lead.<br />H"
+    },
+    {
+      "id": "8573a494ea41",
+      "title": "Charles Leclerc admits he missed a chance against Max Verstappen – but not the obvious one",
+      "title_fr": "Leclerc avoue avoir manque une opportunite face a Verstappen",
+      "title_en": "Leclerc admits he missed a chance against Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVPo1P0/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-10-12T15:53:13+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a reconnu qu'il avait manque une occasion de prendre l'avantage sur Max Verstappen, mais pas la plus evidente, apres un depart favorable a Monaco",
+      "summary_en": "Charles Leclerc admitted he missed a chance to overtake Max Verstappen, but not the obvious one, after a strong start at Monaco"
+    },
+    {
+      "id": "d529ff5d6cb5",
+      "title": "“It’s so ridiculous, this engine”: Alonso’s dismay at Hadjar’s easy re-pass | Formula 1",
+      "title_fr": "Alonso déplore le moteur : Hadjar le dépasse à nouveau",
+      "title_en": "Alonso laments the engine: Hadjar easily re‑passes him",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/12/its-so-ridiculous-this-engine-alonsos-dismay-at-hadjars-easy-re-pass/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-16-36-5-SI202610110380.jpg",
+      "published_at": "2026-10-12T14:49:15+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Alonso a exprimé son mécontentement après avoir dépassé Isack Hadjar et l'avoir maintenu derrière pendant sept tours, mais a été surpris de la facilité avec laquelle Hadjar l'a repris lors du redémarrage.",
+      "summary_en": "Alonso expressed frustration after passing Isack Hadjar and keeping him back for seven laps, only to be surprised by how easily Hadjar re‑passes him at the restart."
+    },
+    {
+      "id": "20cdc9a09d83",
+      "title": "“The car started to brake on its own!” Leclerc shocked by mid-race Ferrari fault | Formula 1",
+      "title_fr": "Leclerc surpris par un freinage inattendu de la Ferrari",
+      "title_en": "Leclerc shocked by unexpected Ferrari brake",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/12/the-car-started-to-brake-on-its-own-leclerc-shocked-by-mid-race-ferrari-fault/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-10-47-47-3-261009_R17_SINGAPORE_DP_VA1_2665.jpg",
+      "published_at": "2026-10-12T13:17:40+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a été surpris lorsque sa Ferrari a soudainement freiné en course. Il a déclaré qu'il mettrait le véhicule dans le mur si cela se reproduisait.",
+      "summary_en": "Charles Leclerc was shocked when his Ferrari suddenly braked mid-race. He said he would wall the car if it happened again."
+    },
     {
       "id": "fc5fd3c5fca4",
       "title": "‘I’ll put a pillow under his butt’ – How Toto Wolff wants to solve Kimi Antonelli’s track limits problem",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a enfin remporté le Grand Prix de Singapour, brisant une série de déceptions. Le pilote de Red Bull s’est hissé sur le podium après plusieurs tentatives infructueuses.",
       "summary_en": "Max Verstappen finally wins the Singapore Grand Prix, ending a long streak of near misses. The Red Bull driver takes the top step after years of heartbreak."
-    },
-    {
-      "id": "6771e553f0f6",
-      "title": "Hamilton takes blame for poor Singapore GP strategy call",
-      "title_fr": "Hamilton assume la faute sur la stratégie à Singapour",
-      "title_en": "Hamilton blames strategy at Singapore GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8Zode2/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-10-11T14:24:02+00:00",
-      "race_id": "singapore",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a reconnu l'erreur de stratégie qui l'a pénalisé à Singapour, après avoir refusé de changer de pneus sous le VSC. La décision a coûté des places au pilote.",
-      "summary_en": "Lewis Hamilton admitted the strategic mistake that cost him positions at Singapore after refusing to pit under the VSC. The decision left him behind the leaders."
-    },
-    {
-      "id": "6a45e5cefd7c",
-      "title": "Lewis Hamilton takes blame for poor Singapore GP strategy",
-      "title_fr": "Hamilton assume la faute sur la stratégie de Singapour",
-      "title_en": "Hamilton Blames Strategy in Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVjKnJY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-10-11T14:22:13+00:00",
-      "race_id": "singapore",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a pris la responsabilité de la stratégie de son équipe lors du Grand Prix de Singapour, après que le choix de ne pas faire un arrêt sous le VSC l'ait pénalisé.",
-      "summary_en": "Lewis Hamilton took responsibility for his team's strategy at the Singapore Grand Prix after the decision not to pit under the virtual safety car cost him dearly."
-    },
-    {
-      "id": "d4f802602c3f",
-      "title": "How Antonelli can clinch the F1 world championship at the next race in Austin | Formula 1",
-      "title_fr": "How Antonelli can clinch the F1 world championship at the next race in Austin | Formula 1",
-      "title_en": "How Antonelli can clinch the F1 world championship at the next race in Austin | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/11/how-antonelli-can-clinch-the-f1-world-championship-at-the-next-race-in-austin/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-20-33-44-5-2299662842.jpg",
-      "published_at": "2026-10-11T14:15:03+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli can win the world championship in the next round depending on where he, George Russell and Lewis Hamilton finish.",
-      "summary_en": "Andrea Kimi Antonelli can win the world championship in the next round depending on where he, George Russell and Lewis Hamilton finish."
-    },
-    {
-      "id": "a3d02bf4f295",
-      "title": "Kimi Antonelli caught off guard by major F1 title news after Singapore GP",
-      "title_fr": "Antonelli décroche un podium à Singapour",
-      "title_en": "Antonelli secures podium in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-refuses-to-celebrate-his-imminent-f1-championship-after-the-singapore-gp/10864326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0kZXoZj6/s6/untitled-design-84-2.jpg",
-      "published_at": "2026-10-11T14:11:51+00:00",
-      "race_id": "singapore",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a terminé troisième à la course de Singapour, assurant un podium pour Mercedes AMG Petronas. Max Verstappen a remporté la victoire, tandis que Charles Leclerc s'est classé deuxième pour Ferrari.",
-      "summary_en": "Kimi Antonelli finished third in Singapore, securing a podium for Mercedes AMG Petronas. Max Verstappen won the race, with Charles Leclerc finishing second for Ferrari."
-    },
-    {
-      "id": "b81a65549f31",
-      "title": "Hamilton apologises to Ferrari after failing to pit when they told him to | Formula 1",
-      "title_fr": "Hamilton s'excuse auprès de Ferrari après avoir manqué l'entrée de pit",
-      "title_en": "Hamilton apologises to Ferrari after missing pit entry",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/11/hamilton-apologises-to-ferrari-after-missing-pit-entry-when-told-to-come-in/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-14-37-42-5-261009_R17_SINGAPORE_DP_VA1_4350.jpg",
-      "published_at": "2026-10-11T14:06:51+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Le pilote de Mercedes, Lewis Hamilton, a présenté ses excuses à l'équipe Ferrari après avoir raté l'entrée de pit alors que les instructions étaient claires. La décision a entraîné une pénalité.",
-      "summary_en": "Lewis Hamilton apologized to Ferrari after missing the pit entry when instructed, resulting in a penalty."
     }
   ]
 }
