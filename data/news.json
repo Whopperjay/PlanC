@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-11T22:24:36Z",
+  "last_updated": "2026-10-12T01:26:36Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7a9ecc6ca61c",
+      "title": "Wellness partnerships target F1 teams and their increasingly engaged fans",
+      "title_fr": "Wellness partnerships target F1 teams and their increasingly engaged fans",
+      "title_en": "Wellness partnerships target F1 teams and their increasingly engaged fans",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/wellness-partnerships-target-f1-teams-and-their-increasingly-engaged-fans/10864501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YMXbvzn2/s6/untitled-design-94-2.jpg",
+      "published_at": "2026-10-12T00:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Walk through the F1 paddock in 2026 and you will see logos for sleep trackers, hydration drinks and fitness wearables in places once reserved for banks, oil companies and tech giants.<br />Three teams",
+      "summary_en": "Walk through the F1 paddock in 2026 and you will see logos for sleep trackers, hydration drinks and fitness wearables in places once reserved for banks, oil companies and tech giants.<br />Three teams"
+    },
+    {
+      "id": "fbdf03a92441",
+      "title": "Fans can't get enough of Max Verstappen's floral race boots after Singapore win",
+      "title_fr": "Verstappen brille en bottes florales après la victoire à Singapour",
+      "title_en": "Verstappen dazzles in floral boots after Singapore win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fans-cant-get-enough-of-max-verstappens-floral-race-boots-after-singapore-win/10864491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7LqQjY/s6/untitled-design-93-2.jpg",
+      "published_at": "2026-10-11T23:15:02+00:00",
+      "race_id": "singapore",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a remporté le Grand Prix de Singapour en arborant de nouvelles bottes de course à motif floral. Les admirateurs ont salué son style unique.",
+      "summary_en": "Max Verstappen won the Singapore Grand Prix wearing new floral race boots, and fans praised his unique style."
+    },
     {
       "id": "b35b07f769de",
       "title": "Charles Leclerc's private jet drama sparked last-minute change of plans",
@@ -440,6 +478,44 @@
       "summary_en": "Kimi Antonelli finished third in Singapore, securing a podium for Mercedes AMG Petronas. Max Verstappen won the race, with Charles Leclerc finishing second for Ferrari."
     },
     {
+      "id": "b81a65549f31",
+      "title": "Hamilton apologises to Ferrari after failing to pit when they told him to | Formula 1",
+      "title_fr": "Hamilton s'excuse auprès de Ferrari après avoir manqué l'entrée de pit",
+      "title_en": "Hamilton apologises to Ferrari after missing pit entry",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/hamilton-apologises-to-ferrari-after-missing-pit-entry-when-told-to-come-in/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-14-37-42-5-261009_R17_SINGAPORE_DP_VA1_4350.jpg",
+      "published_at": "2026-10-11T14:06:51+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de Mercedes, Lewis Hamilton, a présenté ses excuses à l'équipe Ferrari après avoir raté l'entrée de pit alors que les instructions étaient claires. La décision a entraîné une pénalité.",
+      "summary_en": "Lewis Hamilton apologized to Ferrari after missing the pit entry when instructed, resulting in a penalty."
+    },
+    {
+      "id": "d6d221294640",
+      "title": "Vote for your 2026 Singapore Grand Prix Driver of the Weekend | Formula 1",
+      "title_fr": "Vote for your 2026 Singapore Grand Prix Driver of the Weekend | Formula 1",
+      "title_en": "Vote for your 2026 Singapore Grand Prix Driver of the Weekend | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/vote-for-your-2026-singapore-grand-prix-driver-of-the-weekend/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-20-04-06-4-2299659080-983.jpg",
+      "published_at": "2026-10-11T13:58:06+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Who was the best driver during the 2026 Singapore Grand Prix weekend? Compare how they did and vote for the best.",
+      "summary_en": "Who was the best driver during the 2026 Singapore Grand Prix weekend? Compare how they did and vote for the best."
+    },
+    {
       "id": "35235026636a",
       "title": "F1 Singapore GP: Max Verstappen dominates for Marina Bay double",
       "title_fr": "Verstappen remporte le Grand Prix de Singapour",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Following an incredibly intense qualifying session under the floodlights of the Marina Bay Street Circuit, Scuderia Ferrari driver Lewis Hamilton will start Sunday's Singapore Grand Prix from the seco",
       "summary_en": "Following an incredibly intense qualifying session under the floodlights of the Marina Bay Street Circuit, Scuderia Ferrari driver Lewis Hamilton will start Sunday's Singapore Grand Prix from the seco"
-    },
-    {
-      "id": "9776fc843871",
-      "title": "Toto Wolff defends George Russell after costly sprint crash in Singapore",
-      "title_fr": "Wolff défend Russell après accident coûteux à Singapour",
-      "title_en": "Wolff defends Russell after costly crash in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-defends-george-russell-after-costly-sprint-crash-in-singapore/10863986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6AlvbjqY/s6/untitled-design-80-3.jpg",
-      "published_at": "2026-10-10T18:48:08+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "George Russell a quitté la tête du sprint de Singapour en heurtant les barrières, obligeant l’équipe Mercedes à reconstruire son W17 en urgence. Toto Wolff a réaffirmé son soutien au pilote.",
-      "summary_en": "George Russell left the sprint lead in Singapore after crashing into the barriers, forcing Mercedes to rebuild his W17 in a hurry. Toto Wolff reaffirmed his support for the driver."
-    },
-    {
-      "id": "758f24ab71ab",
-      "title": "What Verstappen will change after Red Bull’s poor F1 starts in Malaysia and Singapore",
-      "title_fr": "Verstappen envisage un changement après les débuts décevants de Red Bull",
-      "title_en": "Verstappen hints at change after Red Bull's poor starts",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-hints-at-change-after-red-bulls-poor-f1-starts-in-malaysia-and-singapore/10864060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2dEoGn3Y/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-10T18:35:02+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote néerlandais Max Verstappen, qui célèbre son 250e Grand Prix et son 50e pole position, a déclaré qu'il envisagerait des ajustements après les débuts médiocres de Red Bull à Malaisie et Singapour.",
-      "summary_en": "Max Verstappen, celebrating his 250th Grand Prix and 50th pole, said he might make changes after Red Bull's poor starts in Malaysia and Singapore."
-    },
-    {
-      "id": "635fa72a55e7",
-      "title": "What's so \"serious\" for McLaren about the Norris-Piastri Singapore collision",
-      "title_fr": "McLaren secoue par la collision Norris-Piastri a Singapour",
-      "title_en": "McLaren rattled by Norris-Piastri collision at Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0JXRvxOY/s6/lando-norris-mclaren-oscar-pia.jpg",
-      "published_at": "2026-10-10T18:27:59+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "McLaren est de nouveau rappele a l'issue d'une collision entre Norris et Piastri lors du Grand Prix de Singapour 2026, rappelant l'incident de 2025. Aucun dommage majeur n'a ete signale.",
-      "summary_en": "McLaren is rattled again by a collision between Norris and Piastri at the 2026 Singapore Grand Prix, echoing the 2025 incident. No major damage was reported."
-    },
-    {
-      "id": "f351d64d60af",
-      "title": "Max Verstappen hints at change after Red Bull's poor F1 starts in Malaysia and Singapore",
-      "title_fr": "Max Verstappen hints at change after Red Bull's poor F1 starts in Malaysia and Singapore",
-      "title_en": "Max Verstappen hints at change after Red Bull's poor F1 starts in Malaysia and Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-hints-at-change-after-red-bulls-poor-f1-starts-in-malaysia-and-singapore/10864048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2dEoGn3Y/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-10T17:50:18+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Singapore weekend is one of milestones for Verstappen. The Dutchman is contesting his 250th Formula 1 Grand Prix this weekend and has claimed his 50th pole position in the process.<br />Verstappen",
-      "summary_en": "The Singapore weekend is one of milestones for Verstappen. The Dutchman is contesting his 250th Formula 1 Grand Prix this weekend and has claimed his 50th pole position in the process.<br />Verstappen"
     }
   ]
 }
