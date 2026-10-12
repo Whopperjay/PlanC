@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-12T19:39:44Z",
+  "last_updated": "2026-10-12T22:41:44Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8fb9d4052a5c",
+      "title": "Why Kimi Antonelli was left fighting his Mercedes brakes during the Singapore GP",
+      "title_fr": "Antonelli sur le podium malgré un frein défectueux à Singapour",
+      "title_en": "Antonelli podium finish despite faulty brakes in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BqJg2/s6/untitled-design-2026-10-12t230-2.jpg",
+      "published_at": "2026-10-12T22:35:02+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a terminé troisième à Singapour, gardant une avance de 102 points sur George Russell, malgré un frein défectueux qui l'a presque fait sortir de la piste.",
+      "summary_en": "Kimi Antonelli finished third in Singapore, keeping a 102‑point lead over George Russell, after a faulty brake nearly forced him off the track."
+    },
+    {
+      "id": "bbcff0737a77",
+      "title": "Lewis Hamilton sends message to fans after Singapore GP mistake",
+      "title_fr": "Lewis Hamilton sends message to fans after Singapore GP mistake",
+      "title_en": "Lewis Hamilton sends message to fans after Singapore GP mistake",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-fans-after-singapore-gp-mistake/10864782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNGXA2/s6/untitled-design-2026-10-12t223-2.jpg",
+      "published_at": "2026-10-12T21:32:12+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he cho",
+      "summary_en": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he cho"
+    },
+    {
+      "id": "b644e1d095a8",
+      "title": "Spotlight: Wolff claimed Red Bull power unit would be “completely s***” – Horner | Briefs",
+      "title_fr": "Horner accuse Wolff de dire que le moteur Red Bull serait « complètement de la merde »",
+      "title_en": "Horner claims Wolff said Red Bull engine would be 'completely s***'",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/12/spotlight-wolff-claimed-red-bull-power-unit-would-be-completely-s-horner/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-28-23-4-SI202610110490.jpg",
+      "published_at": "2026-10-12T21:07:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Red Bull, Christian Horner, a déclaré que Wolff aurait affirmé que le moteur de la Scuderia serait « complètement de la merde ». Cette affirmation alimente les rumeurs sur la fiabilité du moteur.",
+      "summary_en": "Red Bull team boss Christian Horner said Wolff claimed the Red Bull engine would be 'completely s***'. The remark fuels speculation about the power unit's reliability."
+    },
     {
       "id": "f6339bdcaf12",
       "title": "Oscar Piastri on his Singapore puncture: “Ironically, it probably helped”",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a subi un arrêt de service trop tôt, le rendant vulnérable lorsqu’il n’a pas fait le deuxième arrêt demandé par Ferrari.",
       "summary_en": "Lewis Hamilton's early pit stop left him vulnerable when he missed Ferrari's second stop call."
-    },
-    {
-      "id": "1dab2e3b9df1",
-      "title": "Lewis Hamilton sent to FIA medical team after grueling Singapore Grand Prix",
-      "title_fr": "Hamilton envoyé à l’équipe médicale FIA après le Grand Prix de Singapour",
-      "title_en": "Hamilton rushed to FIA medical team after Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-rushed-to-fia-medical-team-after-grueling-singapore-grand-prix/10864385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/63QaeWJ2/s6/untitled-design-89-3.jpg",
-      "published_at": "2026-10-11T15:27:15+00:00",
-      "race_id": "singapore",
-      "category": "breaking",
-      "tags": [
-        "breaking"
-      ],
-      "importance": 92,
-      "is_breaking": true,
-      "summary_fr": "Lewis Hamilton a été envoyé à l’équipe médicale FIA après le Grand Prix de Singapour, suite à une bataille épuisante de 62 tours sous une chaleur extrême.",
-      "summary_en": "Lewis Hamilton was rushed to the FIA medical team after the Singapore GP, following a grueling 62-lap battle in extreme heat."
-    },
-    {
-      "id": "f44efcde57ac",
-      "title": "How can Antonelli become F1 world champion at US GP?",
-      "title_fr": "Antonelli, champion du monde en vue après cinq victoires consécutives",
-      "title_en": "Antonelli poised to become world champion after five straight wins",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/how-can-antonelli-become-f1-world-champion-at-us-gp/10864377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6n7boQg0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-10-11T15:19:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, 20 ans, a dominé la saison 2025 avec cinq victoires consécutives, ouvrant la voie à un titre mondial en 2026. Sa performance a fait de lui le pilote à battre.",
-      "summary_en": "Kimi Antonelli, 20, has dominated the 2025 season with five consecutive wins, positioning him to become world champion in 2026. His performance makes him the driver to beat."
-    },
-    {
-      "id": "3f61a1d397fd",
-      "title": "How can Kimi Antonelli become world champion at F1 US GP?",
-      "title_fr": "How can Kimi Antonelli become world champion at F1 US GP?",
-      "title_en": "How can Kimi Antonelli become world champion at F1 US GP?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-can-kimi-antonelli-become-world-champion-at-f1-us-gp/10864359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVjplMY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-11T15:18:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It has been very clear from early on that Kimi Antonelli will become Formula 1 world champion in 2026 after an impressively dominant year for the Mercedes driver.<br />The 20-year-old has made a huge ",
-      "summary_en": "It has been very clear from early on that Kimi Antonelli will become Formula 1 world champion in 2026 after an impressively dominant year for the Mercedes driver.<br />The 20-year-old has made a huge "
     }
   ]
 }
