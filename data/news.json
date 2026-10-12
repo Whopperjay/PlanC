@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T01:26:36Z",
+  "last_updated": "2026-10-12T04:28:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -535,6 +535,25 @@
       "summary_en": "Max Verstappen won the Singapore Grand Prix, beating Charles Leclerc and Kimi Antonelli. Hamilton's strategy cost him, leaving Antonelli on the podium and extending his championship lead."
     },
     {
+      "id": "c8f8ee94348c",
+      "title": "2026 Singapore Grand Prix race result and championship points | Formula 1",
+      "title_fr": "Verstappen remporte le Grand Prix de Singapour",
+      "title_en": "Verstappen wins Singapore Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/2026-singapore-grand-prix-race-result-and-championship-points/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-17-05-2-SI202610110373.jpg",
+      "published_at": "2026-10-11T13:53:52+00:00",
+      "race_id": "singapore",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a remporté le Grand Prix de Singapour pour Red Bull, tandis qu'Andrea Kimi Antonelli a accru son avance au championnat à 102 points.",
+      "summary_en": "Max Verstappen won the Singapore Grand Prix for Red Bull, while Andrea Kimi Antonelli extended his championship lead to 102 points."
+    },
+    {
       "id": "8b633503f014",
       "title": "F1 Singapore GP: Verstappen takes comfortable victory from Leclerc and Antonelli",
       "title_fr": "Verstappen remporte son premier Grand Prix de Singapour",
@@ -554,6 +573,25 @@
       "summary_en": "Max Verstappen secured his first Singapore GP victory, beating Charles Leclerc and Kimi Antonelli. Lewis Hamilton's strategy cost him, allowing Antonelli to podium and extend his championship lead."
     },
     {
+      "id": "46597ef6ad52",
+      "title": "Verstappen cruises to Singapore Grand Prix victory as Ferrari threat fades | 2026 Singapore Grand Prix report",
+      "title_fr": "Verstappen remporte le Grand Prix de Singapour",
+      "title_en": "Verstappen cruises to Singapore Grand Prix victory",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/verstappen-cruises-to-singapore-grand-prix-victory-as-ferrari-threat-fades/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-17-13-1-SI202610110369.jpg",
+      "published_at": "2026-10-11T13:53:05+00:00",
+      "race_id": "singapore",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a dominé le Grand Prix de Singapour, remportant sa première victoire dans l'événement. La menace de Ferrari s'est estompée.",
+      "summary_en": "Max Verstappen dominated the Singapore Grand Prix, taking his first win at the event as Ferrari's threat faded."
+    },
+    {
       "id": "20a0005dd258",
       "title": "Five quick takeaways from Singapore GP",
       "title_fr": "Red Bull boosté, Piastri sourit",
@@ -571,6 +609,25 @@
       "is_breaking": false,
       "summary_fr": "Red Bull a amélioré son RB22, le pilote Piastri de McLaren le juge \"bon matériel\". Le nouveau moteur est plus rapide et plus prévisible.",
       "summary_en": "Red Bull upgraded its RB22, McLaren's Piastri calls it \"good stuff\". The new engine is faster and more predictable."
+    },
+    {
+      "id": "1be4faba285a",
+      "title": "Rate the race: 2026 Singapore Grand Prix | Formula 1",
+      "title_fr": "Rate the race: 2026 Singapore Grand Prix | Formula 1",
+      "title_en": "Rate the race: 2026 Singapore Grand Prix | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/11/rate-the-race-2026-singapore-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-15-13-11-SI202610110383.jpg",
+      "published_at": "2026-10-11T13:47:04+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "What did you think of today's race? Share your verdict on the 2026 Singapore Grand Prix.",
+      "summary_en": "What did you think of today's race? Share your verdict on the 2026 Singapore Grand Prix."
     },
     {
       "id": "b522db7144f0",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0",
       "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0"
-    },
-    {
-      "id": "502f037e8bf4",
-      "title": "Why McLaren considers Norris-Piastri Singapore clash so “serious”",
-      "title_fr": "Why McLaren considers Norris-Piastri Singapore clash so “serious”",
-      "title_en": "Why McLaren considers Norris-Piastri Singapore clash so “serious”",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/25dLLLQ0/s6/andrea-stella-mclaren-2.jpg",
-      "published_at": "2026-10-10T19:54:03+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "If you thought you'd never have to hear the term \"Papaya Rules\" again now that McLaren is no longer F1's dominant team, a new flashpoint over the 2026 Singapore Grand Prix weekend provided McLaren wit",
-      "summary_en": "If you thought you'd never have to hear the term \"Papaya Rules\" again now that McLaren is no longer F1's dominant team, a new flashpoint over the 2026 Singapore Grand Prix weekend provided McLaren wit"
-    },
-    {
-      "id": "c053e601441e",
-      "title": "F1 Singapore GP: Sunday schedule, weather forecast and how to watch",
-      "title_fr": "Verstappen en pole pour le Grand Prix de Singapour",
-      "title_en": "Verstappen secures pole for Singapore Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-singapore-gp-sunday-schedule-weather-forecast-and-how-to-watch/10863995/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXGzA6/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-10T19:19:12+00:00",
-      "race_id": "singapore",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a pris le pole après une séance de qualification dominée, battant Charles Leclerc de 0,054s. Le pilote Red Bull attend le weekend à Marina Bay.",
-      "summary_en": "Max Verstappen secured pole for the Singapore Grand Prix, beating Charles Leclerc by 0.054 seconds in qualifying. The Red Bull driver will head into the weekend at Marina Bay."
-    },
-    {
-      "id": "04b44702fd63",
-      "title": "Lewis Hamilton plots Ferrari ambush on Max Verstappen after frustrating qualifying",
-      "title_fr": "Lewis Hamilton plots Ferrari ambush on Max Verstappen after frustrating qualifying",
-      "title_en": "Lewis Hamilton plots Ferrari ambush on Max Verstappen after frustrating qualifying",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-plots-massive-ferrari-ambush-on-verstappen-after-frustrating-qualifying/10863953/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2QedNqO2/s6/untitled-design-81-2.jpg",
-      "published_at": "2026-10-10T18:53:32+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Following an incredibly intense qualifying session under the floodlights of the Marina Bay Street Circuit, Scuderia Ferrari driver Lewis Hamilton will start Sunday's Singapore Grand Prix from the seco",
-      "summary_en": "Following an incredibly intense qualifying session under the floodlights of the Marina Bay Street Circuit, Scuderia Ferrari driver Lewis Hamilton will start Sunday's Singapore Grand Prix from the seco"
     }
   ]
 }
