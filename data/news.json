@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-12T07:30:40Z",
+  "last_updated": "2026-10-12T10:32:42Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d21c590bdb47",
+      "title": "McLaren boss Andrea Stella lays down the law after “unacceptable” F1 Sprint clash",
+      "title_fr": "Stella réprimande l'intercollision de Sprint à Singapour",
+      "title_en": "Stella reprimands Sprint collision at Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-boss-andrea-stella-lays-down-the-law-after-unacceptable-f1-sprint-clash/10864605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/63Qaewb2/s6/untitled-design-96-2.jpg",
+      "published_at": "2026-10-12T10:15:25+00:00",
+      "race_id": "singapore",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Après la collision interne de Sprint à Singapour, le directeur technique McLaren, Andrea Stella, a réprimandé les pilotes, soulignant que l'accident était inacceptable et qu'il y aurait des mesures disciplinaires.",
+      "summary_en": "Following the internal Sprint collision at Singapore, McLaren's technical director Andrea Stella reprimanded the drivers, stating the incident was unacceptable and that disciplinary measures would follow."
+    },
+    {
+      "id": "93f287451eff",
+      "title": "Oscar Piastri: How a slow puncture set up thrilling Lewis Hamilton pass",
+      "title_fr": "Oscar Piastri: How a slow puncture set up thrilling Lewis Hamilton pass",
+      "title_en": "Oscar Piastri: How a slow puncture set up thrilling Lewis Hamilton pass",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-explains-how-a-slow-puncture-set-up-his-thrilling-f1-pass-on-hamilton/10864613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7LqGRY/s6/untitled-design-95-2.jpg",
+      "published_at": "2026-10-12T10:06:58+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The 2026 Singapore Grand Prix was an exhausting war of attrition for the entire paddock, but McLaren's Oscar Piastri walked away from the Marina Bay Street Circuit with a hard-fought fifth-place finis",
+      "summary_en": "The 2026 Singapore Grand Prix was an exhausting war of attrition for the entire paddock, but McLaren's Oscar Piastri walked away from the Marina Bay Street Circuit with a hard-fought fifth-place finis"
+    },
+    {
+      "id": "4b7bc0602d8b",
+      "title": "Why Charles Leclerc failed to outbrake Max Verstappen in Turn 1 at Singapore GP",
+      "title_fr": "Leclerc échoue à dépasser Verstappen à Singapour",
+      "title_en": "Leclerc fails to outbrake Verstappen at Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-failed-to-outbrake-max-verstappen-in-turn-1-at-singapore-gp/10864594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve-3.jpg",
+      "published_at": "2026-10-12T09:30:31+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Leclerc, lancé du côté sale, a presque aligné son essieu avant avec celui de Verstappen, mais a manqué l'opportunité de le dépasser à l'entrée du premier virage. Verstappen a conservé la tête.",
+      "summary_en": "Leclerc, starting from the dirty side, nearly aligned his front axle with Verstappen's at the first corner but failed to outbrake him. Verstappen maintained the lead."
+    },
+    {
+      "id": "3b38e89892ca",
+      "title": "Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP",
+      "title_fr": "Antonelli évite pénalité à Singapour",
+      "title_en": "Antonelli avoids penalty at Singapore",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8yKV6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-12T08:53:15+00:00",
+      "race_id": "singapore",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a franchi quatre fois les limites de piste lors du Grand Prix de Singapour, mais n'a pas reçu de pénalité. Sa troisième place, 15,9 secondes devant Lando Norris, n'aurait pas changé avec une pénalité de cinq secondes.",
+      "summary_en": "Kimi Antonelli crossed the track limits four times during the Singapore Grand Prix but avoided a penalty. His third-place finish, 15.9 seconds ahead of Lando Norris, would not have been affected by a standard five‑second penalty."
+    },
+    {
+      "id": "5992df7fde16",
+      "title": "George Russell calls Red Bull \"the team to beat\" in F1, but Kimi Antonelli adds a key caveat",
+      "title_fr": "George Russell calls Red Bull \"the team to beat\" in F1, but Kimi Antonelli adds a key caveat",
+      "title_en": "George Russell calls Red Bull \"the team to beat\" in F1, but Kimi Antonelli adds a key caveat",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-calls-red-bull-the-team-to-beat-in-f1-but-kimi-antonelli-adds-a-key-caveat/10864572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vqbj6/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-10-12T08:17:13+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1’s Asian triple-header has gone particularly well for Max Verstappen. The Red Bull driver finished 0.196 seconds behind Russell in Baku before going on to claim convincing victories in Malays",
+      "summary_en": "Formula 1’s Asian triple-header has gone particularly well for Max Verstappen. The Red Bull driver finished 0.196 seconds behind Russell in Baku before going on to claim convincing victories in Malays"
+    },
     {
       "id": "bceb32560a38",
       "title": "Who slept worst last night: Nikola Tsolov",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "What did you think of today's race? Share your verdict on the 2026 Singapore Grand Prix.",
       "summary_en": "What did you think of today's race? Share your verdict on the 2026 Singapore Grand Prix."
-    },
-    {
-      "id": "b522db7144f0",
-      "title": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
-      "title_fr": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
-      "title_en": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-pissed-off-after-mechanical-problems-strike-at-singapore-gp/10864184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8y786/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-10-11T08:51:23+00:00",
-      "race_id": "austria",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar was left “pissed off” after various mechanical problems disrupted his Saturday at the Singapore Grand Prix - leaving him with a back row start for Sunday’s Formula 1 race.<br />A track li",
-      "summary_en": "Isack Hadjar was left “pissed off” after various mechanical problems disrupted his Saturday at the Singapore Grand Prix - leaving him with a back row start for Sunday’s Formula 1 race.<br />A track li"
-    },
-    {
-      "id": "b9222bc3a536",
-      "title": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
-      "title_fr": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
-      "title_en": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arE17P2/s6/franco-colapinto-alpine-pierre-2.jpg",
-      "published_at": "2026-10-11T07:02:49+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The FIA has again owned up to its human error at Formula 1’s Singapore Grand Prix, with its single-seater director Nikolas Tombazis describing it as “the worst thing” for the federation.<br />After sp",
-      "summary_en": "The FIA has again owned up to its human error at Formula 1’s Singapore Grand Prix, with its single-seater director Nikolas Tombazis describing it as “the worst thing” for the federation.<br />After sp"
-    },
-    {
-      "id": "2941bc2a1c7c",
-      "title": "FIA admits fairness was compromised in Singapore F1 sprint qualifying “mess”",
-      "title_fr": "FIA reconnaît l'irrégularité du sprint à Singapour",
-      "title_en": "FIA admits sprint qualifying mess in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVPvzd0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-11T06:59:21+00:00",
-      "race_id": "singapore",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA reconnaît que la qualification sprint à Singapour a été entachée par des erreurs humaines, notamment l'activation tardive du mode dépassement.",
-      "summary_en": "The FIA admits that the Singapore sprint qualifying was marred by human error, including delayed reactivation of overtaking mode."
-    },
-    {
-      "id": "b1d6ba2e7d65",
-      "title": "Formule 1. La grille de départ du Grand Prix de Singapour, pire qualification de la saison pour Isack Hadjar - Ouest-France",
-      "title_fr": "Formule 1. La grille de départ du Grand Prix de Singapour, pire qualification de la saison pour Isack Hadjar - Ouest-France",
-      "title_en": "Formule 1. La grille de départ du Grand Prix de Singapour, pire qualification de la saison pour Isack Hadjar - Ouest-France",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQc1lJUTZRdTcxcjBBZkhEbG9oelk0bTA5VW1ibFlxeUJyS3dHSmRBcEZrTE40MWdHZzlLWk8xQ1o0bFNNeXR1MHUwclZ6OVF3emduM2lRZHl1UU9PSnlKbUN4UW03N1NPbXF1eFg1NDJqSmdmV3pzUVNKNVhOTDNMS3B2WlBvcDNTbUtkdFdsSG1VMTNpcWN2ZURzdC1fdHVYUmxlck14YXRyTVI2Z21qbkRkTmR0NV9NZHg2Vl83OElCd2FqMXB3UXhibjhzNmFEV0thb3FmY1VNNkk3Y0Y1ZjdCWl9TeW5VZ3BOaTg0TG1NdXR0OXpoUUFMM3dad0JUVWhtX3FPWlhQZGhpMXM3TXR4MmFUZw?oc=5",
-      "image_url": null,
-      "published_at": "2026-10-11T06:47:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQc1lJUTZRdTcxcjBBZkhEbG9oelk0bTA5VW1ibFlxeUJyS3dHSmRBcEZrTE40MWdHZzlLWk8xQ1o0bFNNeXR1MHUwclZ6OVF3emduM2lRZHl1UU9PSnlKbUN4UW03N1NPbXF1eFg1ND",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQc1lJUTZRdTcxcjBBZkhEbG9oelk0bTA5VW1ibFlxeUJyS3dHSmRBcEZrTE40MWdHZzlLWk8xQ1o0bFNNeXR1MHUwclZ6OVF3emduM2lRZHl1UU9PSnlKbUN4UW03N1NPbXF1eFg1ND"
-    },
-    {
-      "id": "48457e6fc0fb",
-      "title": "GP de Singapour F1 2026 : à quelle heure débute la course ce dimanche ? - f1i.autojournal.fr",
-      "title_fr": "Heure de début de la course de Singapour 2026",
-      "title_en": "Singapore GP 2026 start time",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaFp5OXlydmk2UVlrR1ltWVFvQ0lFUXBHOGpGYUlHYWVZU2lLU01yMGtaMW4tVjhtTkRkMEdyN256bmFIN0lDX0pGdlNvSG9hWDlHa0FmY2gydGg0N1VNZFFrRTBtQWtXOXdEek5INVRuZFhrdEZLcDNiN0d5OEJleG1obzZmTDJ3ejBraldUVDdLOW1fQnh3Nk9ENzF3Z2ZWdFlUak1UZTlwaTdLRDRPQ25qRDk2dlE?oc=5",
-      "image_url": null,
-      "published_at": "2026-10-11T06:45:00+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La course de Formule 1 à Singapour 2026 débutera à 20h30, heure locale, après le sprint et les essais. Les fans peuvent se préparer pour le spectacle nocturne.",
-      "summary_en": "The 2026 Singapore Formula 1 race will start at 8:30 p.m. local time, following the sprint and practice sessions. Fans can gear up for the night-time spectacle."
     }
   ]
 }
