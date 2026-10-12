@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-12T04:28:38Z",
+  "last_updated": "2026-10-12T07:30:40Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "bceb32560a38",
+      "title": "Who slept worst last night: Nikola Tsolov",
+      "title_fr": "Norris s'est écrasé sur son coéquipier en sprint",
+      "title_en": "Norris crashes into teammate in Singapore sprint",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-nikola-tsolov/10864543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXwLxEY/s6/nikola-tsolov-campos-racing.jpg",
+      "published_at": "2026-10-12T06:26:42+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lors du sprint de Singapour, Lando Norris a percuté son coéquipier sur le dernier tour, perdant un point crucial. L'accident a secoué la grille et a laissé les fans perplexes.",
+      "summary_en": "During the Singapore sprint, Lando Norris crashed into his teammate on the final lap, costing him a crucial point. The incident rattled the grid and left fans stunned."
+    },
+    {
+      "id": "83f2e2b3dc73",
+      "title": "Who slept best last night: Max Verstappen",
+      "title_fr": "Qui a dormi le mieux hier soir : Max Verstappen",
+      "title_en": "Who slept best last night: Max Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10864485/10864485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvplkY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-12T05:25:41+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le championnat reste terne, Kimi Antonelli mène sans laisser de place à la compétition. Max Verstappen ne semble pas avoir trouvé de raisons de se démarquer.",
+      "summary_en": "The championship has been dull, with Kimi Antonelli taking the lead and refusing to let anyone touch it. Max Verstappen seems to have found no reason to stand out."
+    },
     {
       "id": "7a9ecc6ca61c",
       "title": "Wellness partnerships target F1 teams and their increasingly engaged fans",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La course de Formule 1 à Singapour 2026 débutera à 20h30, heure locale, après le sprint et les essais. Les fans peuvent se préparer pour le spectacle nocturne.",
       "summary_en": "The 2026 Singapore Formula 1 race will start at 8:30 p.m. local time, following the sprint and practice sessions. Fans can gear up for the night-time spectacle."
-    },
-    {
-      "id": "0adb01158abf",
-      "title": "Formule 1 : la grille de départ du Grand Prix de Singapour - CNews",
-      "title_fr": "Formule 1 : la grille de départ du Grand Prix de Singapour - CNews",
-      "title_en": "Formule 1 : la grille de départ du Grand Prix de Singapour - CNews",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjBSbHFSaGZHUHRxaGhxdGZXY2NNQmlObkQzdFJjZjY0ak1WZWNlLVZsX29CdjVtM2xBWklEOVdOR1lwUFgwN01QNDVma0NsYThBZ1luUm9Ic05QMW1nZWNKVnQ3elhXWEY4aGJ3MTE5RXlCQVRYWjlWekhoVkoyVUhtTUNsNVIwaUVtS0FRVkZtNk1SckRocTdHTWZqS2V5ZVdHSdIBqgFBVV95cUxNNTF4cXFqaG9DT0NjckdsTE9zb3ZEX1FUcnNTeGkxaDE2ODVZVjNMeFIwSEI5TFkzbTBlXy1FU0Raa0k2djRZQjFGMG1ZcEFINDFXTEd0QjkyclFEcGc1bGZRZ1dtd2hWMVhhWjJ2dk44SGkxSVJOOFpubV96R3VhZXR5LWxVS0E4MFlIX2Q2WEkwcGZwWU9UMlBGRXVIb1l5MzY4NDV1dkJEUQ?oc=5",
-      "image_url": null,
-      "published_at": "2026-10-11T05:36:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjBSbHFSaGZHUHRxaGhxdGZXY2NNQmlObkQzdFJjZjY0ak1WZWNlLVZsX29CdjVtM2xBWklEOVdOR1lwUFgwN01QNDVma0NsYThBZ1luUm9Ic05QMW1nZWNKVnQ3elhXWEY4aGJ3MT",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjBSbHFSaGZHUHRxaGhxdGZXY2NNQmlObkQzdFJjZjY0ak1WZWNlLVZsX29CdjVtM2xBWklEOVdOR1lwUFgwN01QNDVma0NsYThBZ1luUm9Ic05QMW1nZWNKVnQ3elhXWEY4aGJ3MT"
-    },
-    {
-      "id": "f4703725101a",
-      "title": "Grand Prix de Singapour : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
-      "title_fr": "Grand Prix de Singapour : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
-      "title_en": "Grand Prix de Singapour : à quelle heure et sur quelle chaîne regarder la course de Formule 1 en direct ? - RMC Sport",
-      "source": "Google News FR",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0d3ZzVPQjhuTzhILWtHYTIzMzNQbDJJbnYyNjNGRkZJZ2t3TC11dFhESjZQczgzdjF6X0dYc1RBajN2R2UzT0dzcUsyZmJXUWZqNDkxby01UU96anljMDktTkhUd0xHdzc4WlR1TnBFZ1NoXzV1VGZwRXcwa0ZhNElOemNWRjF3Mk5ZVW1p?oc=5",
-      "image_url": null,
-      "published_at": "2026-10-11T04:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0",
-      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRjJHR3BtQXRIR3ZOY1JqQl9SWmhxS2o2UFdxNlZiUXUxb2J1RFZyX19lR2F6LVBzQ3V5NWEzaHA4ZFNzQ2VfZUJrX214MzNrRXV4M01BYjBkdW40RnhVWGZLX2ZUVzlPNEl0NFU3Y0"
     }
   ]
 }
