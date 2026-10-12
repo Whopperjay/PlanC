@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-12T16:37:26Z",
+  "last_updated": "2026-10-12T19:39:44Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f6339bdcaf12",
+      "title": "Oscar Piastri on his Singapore puncture: “Ironically, it probably helped”",
+      "title_fr": "Piastri profite d’une crevaison pour dépasser Hamilton à Singapour",
+      "title_en": "Piastri uses puncture to overtake Hamilton in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vqve6/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-10-12T19:05:03+00:00",
+      "race_id": "singapore",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri a tiré parti d’une crevaison à Singapour pour dépasser Lewis Hamilton et se placer à la cinquième place. Le pilote Aston Martin a ainsi transformé un problème en opportunité.",
+      "summary_en": "Oscar Piastri turned a Singapore puncture into an advantage, passing Lewis Hamilton to finish fifth. The Aston Martin driver capitalised on the mishap to climb the order."
+    },
     {
       "id": "d4b6dd90d4bc",
       "title": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
@@ -212,6 +231,25 @@
       "summary_en": "Mercedes confirmed that Antonelli's upgrades are clearly faster after testing a split strategy in Singapore. The data will help refine performance for the season's final stretch."
     },
     {
+      "id": "8318ebe248a5",
+      "title": "Why was there no radio of the VSC message which prompted Hamilton’s apology? | Formula 1",
+      "title_fr": "Hamilton s'excuse après l'absence de radio VSC",
+      "title_en": "Hamilton apologises after missing VSC radio",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/12/why-was-there-no-radio-of-the-vsc-message-which-prompted-hamiltons-apology/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-15-25-18-4-261011_R17_SINGAPORE_DP_AV1_7807.jpg",
+      "published_at": "2026-10-12T11:08:09+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a présenté ses excuses à Ferrari après avoir refusé de faire un arrêt sous VSC, alors qu'aucune discussion n'a été entendue sur la radio. La décision soulève des questions sur la communication des équipes.",
+      "summary_en": "Lewis Hamilton apologized to Ferrari after refusing to pit under VSC, yet no radio chatter was heard. The move raises questions about team communication."
+    },
+    {
       "id": "9b9e37cb3fb0",
       "title": "Andrea Stella praises Lando Norris for reaction to Singapore GP sprint clash",
       "title_fr": "Stella loue Norris après l'accident à Singapour",
@@ -288,6 +326,25 @@
       "summary_en": "Leclerc, starting from the dirty side, nearly aligned his front axle with Verstappen's at the first corner but failed to outbrake him. Verstappen maintained the lead."
     },
     {
+      "id": "988b14501272",
+      "title": "Hamilton repeatedly urged Ferrari to let him past Leclerc after “hold position” order | Formula 1",
+      "title_fr": "Hamilton presse Ferrari pour dépasser Leclerc après l'ordre de maintien",
+      "title_en": "Hamilton pushes Ferrari to let him overtake Leclerc after hold position order",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/12/hamilton-repeatedly-urged-ferrari-to-let-him-past-leclerc-after-hold-position-order/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-15-06-55-6-261011_R17_SINGAPORE_DP_FGOO3601.jpg",
+      "published_at": "2026-10-12T09:08:27+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a sollicité à plusieurs reprises Ferrari afin de le laisser dépasser son coéquipier Charles Leclerc, après que les deux pilotes aient effectué leurs premiers arrêts aux boxes.",
+      "summary_en": "Lewis Hamilton repeatedly asked Ferrari to let him overtake teammate Charles Leclerc after both made their first pit stops."
+    },
+    {
       "id": "3b38e89892ca",
       "title": "Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP",
       "title_fr": "Antonelli évite pénalité à Singapour",
@@ -324,6 +381,25 @@
       "is_breaking": false,
       "summary_fr": "Formula 1’s Asian triple-header has gone particularly well for Max Verstappen. The Red Bull driver finished 0.196 seconds behind Russell in Baku before going on to claim convincing victories in Malays",
       "summary_en": "Formula 1’s Asian triple-header has gone particularly well for Max Verstappen. The Red Bull driver finished 0.196 seconds behind Russell in Baku before going on to claim convincing victories in Malays"
+    },
+    {
+      "id": "b6e72385972d",
+      "title": "Red Bull’s “exceptionally fast” car alarms its rivals after Verstappen dominates again | Formula 1",
+      "title_fr": "Red Bull inquiète ses rivaux après la domination de Verstappen",
+      "title_en": "Red Bull’s rivals alarmed after Verstappen’s dominance",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/12/red-bulls-exceptionally-fast-car-alarms-its-rivals-after-verstappen-dominates-again/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-28-49-3-SI202610110451.jpg",
+      "published_at": "2026-10-12T07:23:46+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a une fois de plus imposé la domination de Red Bull sur les trois derniers Grands Prix, suscitant l’inquiétude des concurrents. Les équipes rivales se demandent comment contrer cette performance écrasante.",
+      "summary_en": "Max Verstappen once again imposed Red Bull’s dominance over the last three Grands Prix, raising rivals’ concerns. Teams are wondering how to counter this overwhelming performance."
     },
     {
       "id": "bceb32560a38",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "It has been very clear from early on that Kimi Antonelli will become Formula 1 world champion in 2026 after an impressively dominant year for the Mercedes driver.<br />The 20-year-old has made a huge ",
       "summary_en": "It has been very clear from early on that Kimi Antonelli will become Formula 1 world champion in 2026 after an impressively dominant year for the Mercedes driver.<br />The 20-year-old has made a huge "
-    },
-    {
-      "id": "7e222c49bae6",
-      "title": "Toto Wolff delivers brutal verdict on F1’s overtaking after Russell’s Singapore nightmare",
-      "title_fr": "Wolff dénonce les failles de dépassement après la nuit de Russell",
-      "title_en": "Wolff blasts overtaking flaws after Russell's Singapore nightmare",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-delivers-brutal-verdict-on-f1s-overtaking-flaws-after-russells-singapore-nightmare/10864368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXoQj6/s6/untitled-design-88-2.jpg",
-      "published_at": "2026-10-11T15:11:14+00:00",
-      "race_id": "singapore",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a dénoncé les failles du système de dépassement après la performance catastrophique de George Russell à Singapour. Le directeur de Mercedes estime que les règles actuelles favorisent les pilotes en tête.",
-      "summary_en": "Toto Wolff blasted the overtaking system after George Russell's disastrous Singapore race. The Mercedes chief said current rules favor front-running drivers."
-    },
-    {
-      "id": "a76ca3769e8d",
-      "title": "Charles Leclerc demands Ferrari upgrades after agonising Singapore GP",
-      "title_fr": "Leclerc réclame des upgrades après la fin de la GP de Singapour",
-      "title_en": "Leclerc demands upgrades after Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/leclerc-demands-more-ferrari-upgrades-after-agonizing-singapore-gp-p2/10864334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2eZxn91Y/s6/untitled-design-87-2.jpg",
-      "published_at": "2026-10-11T15:06:05+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a terminé deuxième à Singapour, mais réclame des upgrades après une course marquée par une forte usure des pneus et une stratégie de pit agressive.",
-      "summary_en": "Charles Leclerc finished second in Singapore but is demanding upgrades after a race hampered by high tyre wear and an aggressive pit strategy."
-    },
-    {
-      "id": "4fcdb7433804",
-      "title": "Ferrari boss reveals Lewis Hamilton deliberately ignored Singapore GP pit orders",
-      "title_fr": "Ferrari révèle que Hamilton a ignoré les ordres de ravitaillement à Singapour",
-      "title_en": "Ferrari boss says Hamilton deliberately ignored pit orders at Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-boss-reveals-lewis-hamilton-deliberately-ignored-singapore-gp-pit-orders/10864361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/25dL7El0/s6/untitled-design-86-2.jpg",
-      "published_at": "2026-10-11T14:57:22+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Ferrari affirme que Lewis Hamilton a volontairement ignoré les ordres de ravitaillement à Singapour, ce qui a contribué à son classement final en sixième",
-      "summary_en": "Ferrari's chief claims Lewis Hamilton deliberately ignored pit orders at Singapore, a move that helped explain his drop to sixth place"
-    },
-    {
-      "id": "ea4925eb5027",
-      "title": "Max Verstappen reacts to breaking Singapore GP curse after years of heartbreak",
-      "title_fr": "Verstappen rompt la malédiction de Singapour",
-      "title_en": "Verstappen breaks Singapore curse",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-breaking-singapore-gp-curse-after-years-of-heartbreak/10864353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq83WR6/s6/untitled-design-85.jpg",
-      "published_at": "2026-10-11T14:33:55+00:00",
-      "race_id": "azerbaijan",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a enfin remporté le Grand Prix de Singapour, brisant une série de déceptions. Le pilote de Red Bull s’est hissé sur le podium après plusieurs tentatives infructueuses.",
-      "summary_en": "Max Verstappen finally wins the Singapore Grand Prix, ending a long streak of near misses. The Red Bull driver takes the top step after years of heartbreak."
     }
   ]
 }
