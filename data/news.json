@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-13T19:55:16Z",
+  "last_updated": "2026-10-13T22:56:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0872ddbb443a",
+      "title": "The watches worn at the Singapore GP: From $400 to $430,000",
+      "title_fr": "GP de Singapour : montres de 400 à 430 $",
+      "title_en": "Singapore GP watches range from $400 to $430,000",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-watches-worn-at-the-singapore-gp-from-400-to-430000/10865040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/27NolgX0/s6/untitled-design-2026-10-13t233-2.jpg",
+      "published_at": "2026-10-13T22:40:59+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "À Singapour, les pilotes et dirigeants ont arboré des montres allant de 400 $ à 430 000 $, illustrant l’écart de prix spectaculaire dans le paddock.",
+      "summary_en": "At Singapore, drivers and team leaders wore watches ranging from $400 to $430,000, highlighting the dramatic price gap in the paddock."
+    },
+    {
+      "id": "e8198215b2ae",
+      "title": "FIA could outlaw Red Bull’s clever sidepod loophole ahead of 2027 season",
+      "title_fr": "FIA interdit la faille aérodynamique de Red Bull avant 2027",
+      "title_en": "FIA bans Red Bull's sidepod loophole ahead of 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zqNX6/s6/untitled-design-2026-10-13t224-2.jpg",
+      "published_at": "2026-10-13T21:50:37+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a décidé de fermer la faille aérodynamique exploitée par Red Bull Racing, mettant fin à l'astuce de sidepod qui a amélioré la performance. La mesure sera effective dès la saison 2027.",
+      "summary_en": "The FIA has decided to close the aerodynamic loophole used by Red Bull Racing, ending the sidepod trick that boosted performance. The rule will take effect from the 2027 season."
+    },
+    {
+      "id": "198d928c9427",
+      "title": "Christian Horner questions Red Bull’s “Maverick” identity under Laurent Mekies",
+      "title_fr": "Horner remet en cause l'identité 'Maverick' de Red Bull",
+      "title_en": "Horner questions Red Bull’s 'Maverick' identity",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-questions-red-bulls-maverick-identity-under-laurent-mekies-era/10864837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/01QNa4o0/s6/untitled-design-2026-10-13t224-3.jpg",
+      "published_at": "2026-10-13T21:41:17+00:00",
+      "race_id": "austria",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner, directeur de Red Bull Racing, exprime des doutes sur la philosophie de l’équipe, qui a longtemps été perçue comme un disrupteur de la F1.",
+      "summary_en": "Christian Horner, Red Bull Racing’s team principal, questions the team’s long‑standing 'Maverick' identity that has defined it as a disruptor in Formula 1."
+    },
     {
       "id": "96db218db268",
       "title": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "With two victories in the last three Grands Prix and a deficit of just 0.196 seconds in Baku, Verstappen and Red Bull are firmly back at the front in Formula 1. The resurgence has understandably come ",
       "summary_en": "With two victories in the last three Grands Prix and a deficit of just 0.196 seconds in Baku, Verstappen and Red Bull are firmly back at the front in Formula 1. The resurgence has understandably come "
-    },
-    {
-      "id": "7f024ac975b5",
-      "title": "Mercedes confirms Kimi Antonelli’s upgrades are “clearly faster” after Singapore split strategy",
-      "title_fr": "Mercedes confirme la supériorité des améliorations d'Antonelli après stratégie de division à Singapour",
-      "title_en": "Mercedes confirms Antonelli upgrades are faster after split strategy in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-confirms-kimi-antonellis-upgrades-are-clearly-faster-after-singapore-split-strategy/10864619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxny9Y/s6/untitled-design-97-2.jpg",
-      "published_at": "2026-10-12T11:08:37+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Mercedes a confirmé que les mises à jour d'Antonelli sont nettement plus rapides après avoir testé une stratégie de division à Singapour. Les données recueillies permettront d'affiner la performance en fin de saison.",
-      "summary_en": "Mercedes confirmed that Antonelli's upgrades are clearly faster after testing a split strategy in Singapore. The data will help refine performance for the season's final stretch."
-    },
-    {
-      "id": "8318ebe248a5",
-      "title": "Why was there no radio of the VSC message which prompted Hamilton’s apology? | Formula 1",
-      "title_fr": "Hamilton s'excuse après l'absence de radio VSC",
-      "title_en": "Hamilton apologises after missing VSC radio",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/12/why-was-there-no-radio-of-the-vsc-message-which-prompted-hamiltons-apology/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-15-25-18-4-261011_R17_SINGAPORE_DP_AV1_7807.jpg",
-      "published_at": "2026-10-12T11:08:09+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a présenté ses excuses à Ferrari après avoir refusé de faire un arrêt sous VSC, alors qu'aucune discussion n'a été entendue sur la radio. La décision soulève des questions sur la communication des équipes.",
-      "summary_en": "Lewis Hamilton apologized to Ferrari after refusing to pit under VSC, yet no radio chatter was heard. The move raises questions about team communication."
-    },
-    {
-      "id": "9b9e37cb3fb0",
-      "title": "Andrea Stella praises Lando Norris for reaction to Singapore GP sprint clash",
-      "title_fr": "Stella loue Norris après l'accident à Singapour",
-      "title_en": "Stella praises Norris after Singapore sprint clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/andrea-stella-praises-lando-norris-for-reaction-to-singapore-gp-sprint-clash/10864621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPoG50/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-10-12T10:31:47+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de McLaren, Andrea Stella, a salué la réaction de Lando Norris après son choc avec Oscar Piastri lors du sprint de Singapour, qui a entraîné la retraite de Piastri.",
-      "summary_en": "McLaren boss Andrea Stella praised Lando Norris for his reaction after the clash with Oscar Piastri in the Singapore sprint, which forced Piastri to retire."
     }
   ]
 }
