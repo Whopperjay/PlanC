@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-13T16:54:37Z",
+  "last_updated": "2026-10-13T19:55:16Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "96db218db268",
+      "title": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
+      "title_fr": "Lancement du Grand Prix d’Afrique au Rwanda : Kigali accueille la F1",
+      "title_en": "Rwanda hosts F1 African Grand Prix launch",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0o5AoeaY/s6/stefano-domenicali-at-african-.jpg",
+      "published_at": "2026-10-13T18:19:27+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le président rwandais Paul Kagame a assisté à la présentation du nouveau Grand Prix d’Afrique à Kigali, avec Stefano Domenicali et Mohammed Ben Sulayem. La F1 a signé un accord de 10 ans pour le pays.",
+      "summary_en": "Rwandan President Paul Kagame attended the launch of the new African Grand Prix in Kigali, joined by F1 chief Stefano Domenicali and FIA president Mohammed Ben Sulayem. F1 has signed a 10‑year deal to host the race in Rwanda."
+    },
+    {
+      "id": "06cb2ae648e4",
+      "title": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
+      "title_fr": "Rwanda accueille le nouveau Grand Prix africain",
+      "title_en": "Rwanda to host new African Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865012/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AoeaY/s6/stefano-domenicali-at-african-.jpg",
+      "published_at": "2026-10-13T18:19:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le président rwandais Paul Kagame, Stefano Domenicali et Mohammed Ben Sulayem ont assisté au lancement du nouveau Grand Prix africain à Kigali. La Formule 1 a signé un accord de 10 ans pour l'événement.",
+      "summary_en": "Rwandan President Paul Kagame, F1 chief Stefano Domenicali and FIA president Mohammed Ben Sulayem attended the launch of the new African Grand Prix in Kigali. Formula 1 signed a 10-year deal to host the event."
+    },
     {
       "id": "0db354494515",
       "title": "GT World Challenge Portimao: All you need to know about season finale featuring Max Verstappen",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur de McLaren, Andrea Stella, a salué la réaction de Lando Norris après son choc avec Oscar Piastri lors du sprint de Singapour, qui a entraîné la retraite de Piastri.",
       "summary_en": "McLaren boss Andrea Stella praised Lando Norris for his reaction after the clash with Oscar Piastri in the Singapore sprint, which forced Piastri to retire."
-    },
-    {
-      "id": "d21c590bdb47",
-      "title": "McLaren boss Andrea Stella lays down the law after “unacceptable” F1 Sprint clash",
-      "title_fr": "Stella réprimande l'intercollision de Sprint à Singapour",
-      "title_en": "Stella reprimands Sprint collision at Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-boss-andrea-stella-lays-down-the-law-after-unacceptable-f1-sprint-clash/10864605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/63Qaewb2/s6/untitled-design-96-2.jpg",
-      "published_at": "2026-10-12T10:15:25+00:00",
-      "race_id": "singapore",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Après la collision interne de Sprint à Singapour, le directeur technique McLaren, Andrea Stella, a réprimandé les pilotes, soulignant que l'accident était inacceptable et qu'il y aurait des mesures disciplinaires.",
-      "summary_en": "Following the internal Sprint collision at Singapore, McLaren's technical director Andrea Stella reprimanded the drivers, stating the incident was unacceptable and that disciplinary measures would follow."
-    },
-    {
-      "id": "93f287451eff",
-      "title": "Oscar Piastri: How a slow puncture set up thrilling Lewis Hamilton pass",
-      "title_fr": "Oscar Piastri: How a slow puncture set up thrilling Lewis Hamilton pass",
-      "title_en": "Oscar Piastri: How a slow puncture set up thrilling Lewis Hamilton pass",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-explains-how-a-slow-puncture-set-up-his-thrilling-f1-pass-on-hamilton/10864613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7LqGRY/s6/untitled-design-95-2.jpg",
-      "published_at": "2026-10-12T10:06:58+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The 2026 Singapore Grand Prix was an exhausting war of attrition for the entire paddock, but McLaren's Oscar Piastri walked away from the Marina Bay Street Circuit with a hard-fought fifth-place finis",
-      "summary_en": "The 2026 Singapore Grand Prix was an exhausting war of attrition for the entire paddock, but McLaren's Oscar Piastri walked away from the Marina Bay Street Circuit with a hard-fought fifth-place finis"
     }
   ]
 }
