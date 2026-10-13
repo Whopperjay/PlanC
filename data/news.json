@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T01:43:40Z",
+  "last_updated": "2026-10-13T04:45:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -611,6 +611,25 @@
       "summary_en": "Ferrari driver Charles Leclerc had to abandon his private jet, which was forced to return to Malaysia, and instead travelled by road to Singapore. The last‑minute change delayed his arrival."
     },
     {
+      "id": "454699efe0ba",
+      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
+      "title_fr": "Hamilton s'excuse, Antonelli proche du titre",
+      "title_en": "Hamilton apologises, Antonelli close to title",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b41/live/020a6f30-c5a5-11f1-8ef2-31c45d39a4c9.jpg",
+      "published_at": "2026-10-11T18:32:19+00:00",
+      "race_id": "singapore",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a admis une erreur de stratégie à Singapour, ouvrant la voie à Kimi Antonelli pour remporter le championnat lors du prochain Grand Prix d'Austin.",
+      "summary_en": "Lewis Hamilton admitted a strategy mistake in Singapore, opening the door for Kimi Antonelli to win the championship at the next race in Austin."
+    },
+    {
       "id": "e74164755ed7",
       "title": "Lando Norris: ‘I owe everyone at McLaren an apology” for Oscar Piastri clash",
       "title_fr": "Norris s'excuse après le choc avec Piastri à Singapour",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari a expliqué pourquoi Lewis Hamilton a perdu la troisième place à Singapour, en restant sur pneus mous pendant 44 tours sous VSC.",
       "summary_en": "Ferrari explained why Lewis Hamilton lost third place in Singapore, staying on soft tyres for 44 laps under VSC."
-    },
-    {
-      "id": "70e514745f6b",
-      "title": "Norris incorrectly believed Hamilton “would have to let me past” after turn one move | Formula 1",
-      "title_fr": "Norris contesté son dépassement de Hamilton après le premier virage",
-      "title_en": "Norris challenges his overtaking of Hamilton after first corner",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/11/norris-incorrectly-believed-hamilton-would-have-to-let-me-past-after-turn-one-move/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-21-32-06-2-2299668924.jpg",
-      "published_at": "2026-10-11T16:21:37+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a tenté de dépasser Lewis Hamilton après le premier virage, mais les commissaires ont jugé son mouvement illégitime.",
-      "summary_en": "Lando Norris attempted to overtake Lewis Hamilton after the first corner, but stewards ruled his move illegitimate."
     }
   ]
 }
