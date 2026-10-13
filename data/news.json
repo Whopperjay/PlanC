@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-13T04:45:38Z",
+  "last_updated": "2026-10-13T07:47:34Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "573fdf4c12db",
+      "title": "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
+      "title_fr": "Accident Norris-Piastri soulève les règles papaye",
+      "title_en": "Norris-Piastri crash raises questions about papaya rules",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9846/live/95e68220-c5aa-11f1-bea7-1dc95e2ed033.jpg",
+      "published_at": "2026-10-13T06:54:13+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Après le Grand Prix de Singapour, Andrew Benson répond aux questions sur l'accident de Norris et Piastri, soulignant les limites des règles papaye et les implications pour la sécurité.",
+      "summary_en": "After the Singapore Grand Prix, Andrew Benson answers questions about the Norris-Piastri crash, highlighting the shortcomings of the papaya rule and its implications for safety."
+    },
+    {
+      "id": "671d99dca28a",
+      "title": "“I knew this guy would be a pain in the a***”: Hadjar’s slog from pits to points | Formula 1",
+      "title_fr": "“I knew this guy would be a pain in the a***”: Hadjar’s slog from pits to points | Formula 1",
+      "title_en": "“I knew this guy would be a pain in the a***”: Hadjar’s slog from pits to points | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/13/i-knew-this-guy-would-be-a-pain-in-the-a-hadjars-slog-from-pits-to-points/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-16-08-8-SI202610110390.jpg",
+      "published_at": "2026-10-13T06:15:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar had a stressful race but was rewarded with a point after slogging his way through the field from the pit lane.",
+      "summary_en": "Isack Hadjar had a stressful race but was rewarded with a point after slogging his way through the field from the pit lane."
+    },
     {
       "id": "b13323063616",
       "title": "Toto Wolff reveals problem behind George Russell's Singapore GP recovery",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Toto Wolff détaille la politique de transparence stricte instaurée chez Mercedes afin de préserver l'unité de l'equipe, malgré les tensions entre Kimi Antonelli et George Russell.",
       "summary_en": "Toto Wolff outlines the strict transparency policy at Mercedes to keep the team united amid tensions between Kimi Antonelli and George Russell."
-    },
-    {
-      "id": "20225c531b4c",
-      "title": "Toto Wolff praises Red Bull as Mercedes faces upgrade concerns",
-      "title_fr": "Wolff loue Red Bull alors que Mercedes cherche des améliorations",
-      "title_en": "Wolff praises Red Bull as Mercedes seeks upgrades",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-praises-max-verstappen-and-red-bull-as-mercedes-faces-upgrade-concerns/10864424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyodg6/s6/untitled-design-90-2.jpg",
-      "published_at": "2026-10-11T16:28:39+00:00",
-      "race_id": "austria",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff félicite Red Bull pour ses gains récents, tandis que Mercedes analyse une nouvelle mise à jour pour rester compétitive.",
-      "summary_en": "Toto Wolff praised Red Bull for its recent gains, while Mercedes reviews a new upgrade to stay competitive."
-    },
-    {
-      "id": "2f9563f00075",
-      "title": "Ferrari explains Hamilton’s failed Singapore GP gamble",
-      "title_fr": "Ferrari explique la chute de Hamilton à Singapour",
-      "title_en": "Ferrari explains Hamilton’s failed Singapore gamble",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ferrari-explains-hamiltons-failed-singapore-gp-gamble/10864421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2eZxnMlY/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-10-11T16:23:39+00:00",
-      "race_id": "singapore",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a expliqué pourquoi Lewis Hamilton a perdu la troisième place à Singapour, en restant sur pneus mous pendant 44 tours sous VSC.",
-      "summary_en": "Ferrari explained why Lewis Hamilton lost third place in Singapore, staying on soft tyres for 44 laps under VSC."
     }
   ]
 }
