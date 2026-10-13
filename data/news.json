@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-10-13T10:49:34Z",
+  "last_updated": "2026-10-13T13:52:40Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "672824a8c29f",
+      "title": "Why McLaren cannot fix its F1 car handling until 2027",
+      "title_fr": "McLaren ne pourra pas améliorer sa manoeuvrabilité avant 2027",
+      "title_en": "McLaren Cannot Fix Car Handling Until 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-for-its-driver-until-2027/10864907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdKNrKY/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-10-13T13:11:51+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique Andrea Stella a déclaré que McLaren ne pourra pas corriger les caractéristiques de maniement de son monoplane sans changements fondamentaux, ce qui ne sera possible qu'en 2027.",
+      "summary_en": "Team principal Andrea Stella said McLaren cannot improve the car's handling without fundamental changes, which won't be possible until 2027."
+    },
+    {
+      "id": "5d49730e8be3",
+      "title": "Why McLaren cannot fix its F1 car handling until 2027",
+      "title_fr": "McLaren ne pourra pas améliorer son comportement de voiture avant 2027",
+      "title_en": "McLaren cannot fix car handling until 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7BNPM2/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": "2026-10-13T13:11:49+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique Andrea Stella a admis que McLaren ne pourra pas améliorer les caractéristiques de maniabilité de son monoplace sans changements fondamentaux, impossibles avant 2027.",
+      "summary_en": "Team principal Andrea Stella admitted McLaren cannot improve its car's handling without fundamental changes, which won't be possible until 2027."
+    },
+    {
+      "id": "2e9974b08720",
+      "title": "Kim Kardashian revives hilarious F1 towel drama with Mercedes' Kimi Antonelli",
+      "title_fr": "Kim Kardashian ravive le drame de serviette à Singapour",
+      "title_en": "Kim Kardashian revives towel drama at Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kim-kardashian-revives-hilarious-f1-towel-drama-with-mercedes-star-kimi-antonelli/10864866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq83bL6/s6/untitled-design-2026-10-13t140-3.jpg",
+      "published_at": "2026-10-13T13:06:26+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kim Kardashian a ravivé le drame de serviette à Singapour en rencontrant le jeune champion Mercedes, Kimi Antonelli, alors qu'elle soutenait Lewis Hamilton de Ferrari.",
+      "summary_en": "Kim Kardashian revived the towel drama at the Singapore Grand Prix by meeting Mercedes' young champion Kimi Antonelli while cheering for Ferrari's Lewis Hamilton."
+    },
+    {
+      "id": "059c0d163bfd",
+      "title": "Christian Horner clears air on “dream job” Ferrari rumours and sets return terms",
+      "title_fr": "Horner dissipe les rumeurs de Ferrari",
+      "title_en": "Horner clears Ferrari rumours",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9Eqj1Y/s6/untitled-design-2026-10-13t135-2.jpg",
+      "published_at": "2026-10-13T12:51:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a déclaré que les rumeurs de son passage à Ferrari étaient infondées et a précisé les conditions de son retour chez Red Bull.",
+      "summary_en": "Christian Horner dismissed Ferrari rumors as unfounded and outlined the terms for his return to Red Bull."
+    },
+    {
+      "id": "4bda0d9708e5",
+      "title": "Toto Wolff spotted cruising Monaco in a $10million Mercedes Unicorn",
+      "title_fr": "Toto Wolff spotted cruising Monaco in a $10million Mercedes Unicorn",
+      "title_en": "Toto Wolff spotted cruising Monaco in a $10million Mercedes Unicorn",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-spotted-cruising-monaco-in-a-10-million-mercedes-unicorn/10864881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/24QGgDAY/s6/untitled-design-2026-10-13t123-3.jpg",
+      "published_at": "2026-10-13T11:32:51+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Managing the immense pressure of a Formula 1 championship battle requires finding ways to disconnect between race weekends. For Mercedes team principal Toto Wolff, unwinding ahead of the United States",
+      "summary_en": "Managing the immense pressure of a Formula 1 championship battle requires finding ways to disconnect between race weekends. For Mercedes team principal Toto Wolff, unwinding ahead of the United States"
+    },
+    {
+      "id": "8c5cb41e499f",
+      "title": "Classic F1 turns Port of Nice into street circuit for Bradley Cooper's \"Ocean's\" Prequel",
+      "title_fr": "Classic F1 transforme le port de Nice en circuit urbain pour le préquel d'Ocean's",
+      "title_en": "Classic F1 turns Port of Nice into street circuit for Ocean's prequel",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/classic-f1-turns-port-of-nice-into-street-circuit-for-bradley-coopers-oceans-prequel/10864892/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0LdeKMJ0/s6/untitled-design-2026-10-13t122-2.jpg",
+      "published_at": "2026-10-13T11:29:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Des voitures de Formule 1 classiques roulent autour du port de Nice, qui devient circuit urbain pour le préquel d'Ocean's de Bradley Cooper.",
+      "summary_en": "Classic Formula 1 cars race around Nice's port, turned into a street circuit for Bradley Cooper's Ocean's prequel."
+    },
     {
       "id": "04135707bc3f",
       "title": "Christian Horner blames Dietrich Mateschitz’s death for the “painful” end of his F1 reign",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a une fois de plus imposé la domination de Red Bull sur les trois derniers Grands Prix, suscitant l’inquiétude des concurrents. Les équipes rivales se demandent comment contrer cette performance écrasante.",
       "summary_en": "Max Verstappen once again imposed Red Bull’s dominance over the last three Grands Prix, raising rivals’ concerns. Teams are wondering how to counter this overwhelming performance."
-    },
-    {
-      "id": "bceb32560a38",
-      "title": "Who slept worst last night: Nikola Tsolov",
-      "title_fr": "Norris s'est écrasé sur son coéquipier en sprint",
-      "title_en": "Norris crashes into teammate in Singapore sprint",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-nikola-tsolov/10864543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXwLxEY/s6/nikola-tsolov-campos-racing.jpg",
-      "published_at": "2026-10-12T06:26:42+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Lors du sprint de Singapour, Lando Norris a percuté son coéquipier sur le dernier tour, perdant un point crucial. L'accident a secoué la grille et a laissé les fans perplexes.",
-      "summary_en": "During the Singapore sprint, Lando Norris crashed into his teammate on the final lap, costing him a crucial point. The incident rattled the grid and left fans stunned."
-    },
-    {
-      "id": "83f2e2b3dc73",
-      "title": "Who slept best last night: Max Verstappen",
-      "title_fr": "Qui a dormi le mieux hier soir : Max Verstappen",
-      "title_en": "Who slept best last night: Max Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10864485/10864485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvplkY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-12T05:25:41+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le championnat reste terne, Kimi Antonelli mène sans laisser de place à la compétition. Max Verstappen ne semble pas avoir trouvé de raisons de se démarquer.",
-      "summary_en": "The championship has been dull, with Kimi Antonelli taking the lead and refusing to let anyone touch it. Max Verstappen seems to have found no reason to stand out."
-    },
-    {
-      "id": "7a9ecc6ca61c",
-      "title": "Wellness partnerships target F1 teams and their increasingly engaged fans",
-      "title_fr": "Wellness partnerships target F1 teams and their increasingly engaged fans",
-      "title_en": "Wellness partnerships target F1 teams and their increasingly engaged fans",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/wellness-partnerships-target-f1-teams-and-their-increasingly-engaged-fans/10864501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YMXbvzn2/s6/untitled-design-94-2.jpg",
-      "published_at": "2026-10-12T00:00:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Walk through the F1 paddock in 2026 and you will see logos for sleep trackers, hydration drinks and fitness wearables in places once reserved for banks, oil companies and tech giants.<br />Three teams",
-      "summary_en": "Walk through the F1 paddock in 2026 and you will see logos for sleep trackers, hydration drinks and fitness wearables in places once reserved for banks, oil companies and tech giants.<br />Three teams"
-    },
-    {
-      "id": "fbdf03a92441",
-      "title": "Fans can't get enough of Max Verstappen's floral race boots after Singapore win",
-      "title_fr": "Verstappen brille en bottes florales après la victoire à Singapour",
-      "title_en": "Verstappen dazzles in floral boots after Singapore win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fans-cant-get-enough-of-max-verstappens-floral-race-boots-after-singapore-win/10864491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7LqQjY/s6/untitled-design-93-2.jpg",
-      "published_at": "2026-10-11T23:15:02+00:00",
-      "race_id": "singapore",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a remporté le Grand Prix de Singapour en arborant de nouvelles bottes de course à motif floral. Les admirateurs ont salué son style unique.",
-      "summary_en": "Max Verstappen won the Singapore Grand Prix wearing new floral race boots, and fans praised his unique style."
-    },
-    {
-      "id": "b35b07f769de",
-      "title": "Charles Leclerc's private jet drama sparked last-minute change of plans",
-      "title_fr": "Leclerc subit un contretemps de jet privé avant Singapour",
-      "title_en": "Leclerc faces jet‑private hiccup before Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclercs-private-jet-drama-sparked-last-minute-change-of-plans/10864489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6b8Z3lr2/s6/untitled-design-92-2.jpg",
-      "published_at": "2026-10-11T21:57:51+00:00",
-      "race_id": "singapore",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Ferrari Charles Leclerc a dû abandonner son jet privé, qui a été contraint de retourner en Malaisie, et a voyagé en voiture vers Singapour. Ce contretemps a retardé son arrivée.",
-      "summary_en": "Ferrari driver Charles Leclerc had to abandon his private jet, which was forced to return to Malaysia, and instead travelled by road to Singapore. The last‑minute change delayed his arrival."
-    },
-    {
-      "id": "454699efe0ba",
-      "title": "Hamilton apologises to Ferrari as Antonelli moves to brink of title",
-      "title_fr": "Hamilton s'excuse, Antonelli proche du titre",
-      "title_en": "Hamilton apologises, Antonelli close to title",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c65yn9kn47eko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b41/live/020a6f30-c5a5-11f1-8ef2-31c45d39a4c9.jpg",
-      "published_at": "2026-10-11T18:32:19+00:00",
-      "race_id": "singapore",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a admis une erreur de stratégie à Singapour, ouvrant la voie à Kimi Antonelli pour remporter le championnat lors du prochain Grand Prix d'Austin.",
-      "summary_en": "Lewis Hamilton admitted a strategy mistake in Singapore, opening the door for Kimi Antonelli to win the championship at the next race in Austin."
     }
   ]
 }
