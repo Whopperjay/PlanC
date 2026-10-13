@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-13T07:47:34Z",
+  "last_updated": "2026-10-13T10:49:34Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "04135707bc3f",
+      "title": "Christian Horner blames Dietrich Mateschitz’s death for the “painful” end of his F1 reign",
+      "title_fr": "Horner blâme la mort de Mateschitz pour son départ",
+      "title_en": "Horner blames Mateschitz’s death for his Red Bull exit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-blames-dietrich-mateschitzs-death-for-the-painful-end-of-his-f1-reign/10864830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmAoO40/s6/untitled-design-2026-10-13t105-2.jpg",
+      "published_at": "2026-10-13T09:54:44+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner explique que la mort de Dietrich Mateschitz a conduit à son licenciement de Red Bull Racing en juillet 2025. Le directeur général affirme que la perte de l’investisseur a fragilisé la structure de l’équipe.",
+      "summary_en": "Christian Horner says Dietrich Mateschitz’s death triggered his July 2025 dismissal from Red Bull Racing. The team principal claims the loss of the investor weakened the organisation, leading to his abrupt exit."
+    },
+    {
+      "id": "34796466f1a9",
+      "title": "Formula 1 announces it will race in Rwanda from “early 2030s” | Formula 1",
+      "title_fr": "F1 s'apprête à revenir en Afrique avec un Grand Prix rwandais",
+      "title_en": "F1 to race in Rwanda from early 2030s",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/13/formula-1-announces-it-will-race-in-rwanda-from-early-2030s/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-13-10-26-19-1-rwanda.jpg",
+      "published_at": "2026-10-13T09:31:54+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 a annoncé un contrat de dix ans pour organiser un Grand Prix au Rwanda, marquant son retour sur le continent africain depuis 1993. La course débutera dès le début des années 2030.",
+      "summary_en": "Formula 1 has signed a ten-year deal to host a Grand Prix in Rwanda, marking its first race in Africa since 1993. The event will take place in the early 2030s."
+    },
+    {
+      "id": "d8456e5485ea",
+      "title": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
+      "title_fr": "F1 signe un accord historique de 10 ans avec le Rwanda pour un Grand Prix africain",
+      "title_en": "F1 signs historic 10‑year deal with Rwanda for African Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0qgKodEY/s6/kigali-track-2.jpg",
+      "published_at": "2026-10-13T09:20:13+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 a conclu un contrat de 10 ans avec le Rwanda pour accueillir un Grand Prix africain à Kigali, dès 2030. Le circuit naturel, situé à 40 km du centre‑ville, sera construit à côté de l'aéroport international Bugesera.",
+      "summary_en": "Formula 1 has signed a 10‑year deal with Rwanda to host an African Grand Prix in Kigali from 2030. The new natural road course, 40 km south of the capital, will be built beside the under‑construction Bugesera international airport."
+    },
+    {
+      "id": "c9a1c480311f",
+      "title": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
+      "title_fr": "F1 signe un accord historique de 10 ans avec le Rwanda pour un Grand Prix africain",
+      "title_en": "F1 signs historic 10-year deal with Rwanda for African Grand Prix",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2GdKqV1Y/s6/rwanda-f1-track-for-african-gp-3.jpg",
+      "published_at": "2026-10-13T09:20:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "La Fédération de la Formule 1 et le gouvernement rwandais ont conclu un contrat de 10 ans pour accueillir un Grand Prix africain à Kigali, la première édition prévue en 2030.",
+      "summary_en": "Formula 1 and the Rwandan government have signed a 10-year deal to host an African Grand Prix in Kigali, with the first race slated for 2030."
+    },
+    {
+      "id": "141e38dc852a",
+      "title": "Fred Vasseur \"not sure\" if Red Bull is currently F1's best team",
+      "title_fr": "Vasseur doute de la suprématie de Red Bull",
+      "title_en": "Vasseur Uncertain About Red Bull's Dominance",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-not-sure-if-red-bull-is-currently-f1s-best-team/10864684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAoQZ0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-13T08:07:55+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fred Vasseur ne considère pas encore Red Bull comme l'équipe dominante, malgré les victoires de Verstappen en Malaisie et à Singapour.",
+      "summary_en": "Fred Vasseur remains uncertain about Red Bull's dominance, even after Verstappen's wins in Malaysia and Singapore."
+    },
     {
       "id": "573fdf4c12db",
       "title": "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a admis une erreur de stratégie à Singapour, ouvrant la voie à Kimi Antonelli pour remporter le championnat lors du prochain Grand Prix d'Austin.",
       "summary_en": "Lewis Hamilton admitted a strategy mistake in Singapore, opening the door for Kimi Antonelli to win the championship at the next race in Austin."
-    },
-    {
-      "id": "e74164755ed7",
-      "title": "Lando Norris: ‘I owe everyone at McLaren an apology” for Oscar Piastri clash",
-      "title_fr": "Norris s'excuse après le choc avec Piastri à Singapour",
-      "title_en": "Norris apologises after clash with Piastri at Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-i-owe-everyone-at-mclaren-an-apology-for-oscar-piastri-clash/10864465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-10-11T18:14:08+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a reconnu avoir déçu l’équipe McLaren après avoir heurté Oscar Piastri lors du sprint du Grand Prix de Singapour. Le pilote a exprimé ses regrets.",
-      "summary_en": "Lando Norris admitted he let the McLaren team down after colliding with Oscar Piastri in the Singapore sprint. The driver apologized for the incident."
-    },
-    {
-      "id": "76872d28fc9b",
-      "title": "Verstappen jokes about coded messages as Red Bull phases in Lambiase’s successor",
-      "title_fr": "Verstappen jokes about coded messages as Red Bull phases in Lambiase’s successor",
-      "title_en": "Verstappen jokes about coded messages as Red Bull phases in Lambiase’s successor",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-gianpiero-lambiases-suc/10864455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2Qed4eP2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-11T17:30:02+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "There were still two races on the current Formula 1 calendar missing from Max Verstappen's list of victories: the Madring and the Marina Bay Street Circuit. Given that F1 only visited the street circu",
-      "summary_en": "There were still two races on the current Formula 1 calendar missing from Max Verstappen's list of victories: the Madring and the Marina Bay Street Circuit. Given that F1 only visited the street circu"
-    },
-    {
-      "id": "3cc770d24ffd",
-      "title": "Max Verstappen jokes about coded messages as Red Bull plans first races for Gianpiero Lambiase’s successor",
-      "title_fr": "Verstappen se moque de messages codés alors que Red Bull prépare la première course de son successeur",
-      "title_en": "Verstappen jokes about coded messages as Red Bull gears up for successor's debut",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-lambiases-successor/10864449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2Qed4eP2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-11T17:17:47+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a plaisanté sur des messages codés alors que Red Bull prépare la première course de son successeur, Gianpiero Lambiase. Le pilote reste dominant malgré les défis de Singapore.",
-      "summary_en": "Max Verstappen joked about coded messages as Red Bull prepares the first race for its successor, Gianpiero Lambiase. The driver remains dominant despite Singapore's long-standing challenges."
-    },
-    {
-      "id": "10d63200ea82",
-      "title": "Winners and losers from F1's Singapore Grand Prix",
-      "title_fr": "Gianpiero Lambiase triomphe à Singapour",
-      "title_en": "Gianpiero Lambiase wins at Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-singapore-grand-prix/10864434/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAobq0/s6/charles-leclerc-ferrari-max-ve.jpg",
-      "published_at": "2026-10-11T17:09:09+00:00",
-      "race_id": "singapore",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Gianpiero Lambiase a remporté le Grand Prix de Singapour, tandis que d'autres pilotes regrettent leurs choix. Le weekend a été marqué par une fatigue accrue et quelques tensions.",
-      "summary_en": "Gianpiero Lambiase won the Singapore Grand Prix, while other drivers lament their decisions. The weekend was marked by fatigue and some tensions."
-    },
-    {
-      "id": "223d630e36d8",
-      "title": "Toto Wolff explains the strict transparency keeping Mercedes F1 united",
-      "title_fr": "Wolff explique la transparence stricte qui unit Mercedes",
-      "title_en": "Wolff explains strict transparency that keeps Mercedes united",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-strict-f1-transparency-keeping-mercedes-united/10864411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YN7vqdP6/s6/untitled-design-91-2.jpg",
-      "published_at": "2026-10-11T16:35:43+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff détaille la politique de transparence stricte instaurée chez Mercedes afin de préserver l'unité de l'equipe, malgré les tensions entre Kimi Antonelli et George Russell.",
-      "summary_en": "Toto Wolff outlines the strict transparency policy at Mercedes to keep the team united amid tensions between Kimi Antonelli and George Russell."
     }
   ]
 }
