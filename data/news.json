@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-13T13:52:40Z",
+  "last_updated": "2026-10-13T16:54:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0db354494515",
+      "title": "GT World Challenge Portimao: All you need to know about season finale featuring Max Verstappen",
+      "title_fr": "Verstappen fait son entrée dans le GT World Challenge Europe",
+      "title_en": "Verstappen to debut in GT World Challenge Europe",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/gtwce-endurance/news/gtwce-europe-max-verstappen-info-debut-portimao/10864990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/b6n4m4w2/s6/gtwc-europe-portimao-alle-infos-zum-finalrennen-mit-max-verstappen-26101301.jpg",
+      "published_at": "2026-10-13T16:23:39+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen fera son premier départ dans le GT World Challenge Europe à Portimão, en prenant le volant de la Verstappen Racing. Les pilotes Daniel Juncadella et Jules Gounon seront absents pour la course WEC à Barcelone.",
+      "summary_en": "Max Verstappen will make his GT World Challenge Europe debut at Portimão, taking the wheel for Verstappen Racing. Daniel Juncadella and Jules Gounon will miss the event as they compete in the rescheduled WEC round in Barcelona."
+    },
+    {
+      "id": "5ed7886cd630",
+      "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+      "title_fr": "Rwanda choisi pour accueillir le Grand Prix d'Afrique, un tournant majeur",
+      "title_en": "Rwanda chosen to host African Grand Prix, a landmark moment",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c63/live/b5e87b10-c702-11f1-b4dd-e786ec6f11b1.jpg",
+      "published_at": "2026-10-13T15:01:17+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le Rwanda a obtenu le droit d'accueillir le Grand Prix d'Afrique, une décision qui dépasse les échecs du Maroc et de l'Afrique du Sud. Le pays a conclu un accord pour organiser la course.",
+      "summary_en": "Rwanda has secured the right to host the African Grand Prix, a move that outshines Morocco and South Africa's failed bids. The country has signed a deal to stage the race."
+    },
+    {
+      "id": "8bdf3f169fc0",
+      "title": "Cadillac’s F1 brakes are still a problem: ‘I had to lift and coast on lap two’",
+      "title_fr": "Bottas freiné par les problèmes de freinage de Cadillac à Singapour",
+      "title_en": "Bottas hampered by Cadillac brake issues at Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/cadillacs-f1-brakes-are-still-a-problem-i-had-to-lift-and-coast-on-lap-two/10864720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0qgKoQQY/s6/sergio-perez-cadillac-racing.jpg",
+      "published_at": "2026-10-13T14:41:29+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Valtteri Bottas a de nouveau été freiné par la surchauffe des freins du Cadillac MAC-26 lors du Grand Prix de Singapour. Le pilote estime que la situation est \"presque résolue\", mais les défaillances ont déjà entraîné quatre retirements.",
+      "summary_en": "Valtteri Bottas was again hampered by Cadillac's MAC-26 brake overheating at the Singapore Grand Prix. The driver says the issue is 'almost solved', but the failures have already caused four retirements."
+    },
+    {
+      "id": "02d1f0c59891",
+      "title": "What are 'papaya rules' in Formula 1?",
+      "title_fr": "Les 'règles papaye' expliquées pour McLaren",
+      "title_en": "Explaining McLaren's 'Papaya Rules'",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/crl5ge8dle4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e37/live/eb202500-a5c8-11f0-928c-71dbb8619e94.jpg",
+      "published_at": "2026-10-13T14:28:10+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les 'règles papaye' sont un ensemble de directives internes de McLaren visant à optimiser la performance des pilotes et de l'équipe. Elles couvrent la gestion des données, la communication et la prise de décision en course.",
+      "summary_en": "The 'Papaya Rules' are McLaren's internal guidelines designed to enhance driver performance and team efficiency. They cover data management, communication protocols, and decision-making processes during races."
+    },
+    {
+      "id": "84c0ccb08fef",
+      "title": "Rwanda to host F1's first race in Africa since 1993",
+      "title_fr": "Le Rwanda s’engage à accueillir la F1 dès le début des années 2030",
+      "title_en": "Rwanda to host F1 races from early 2030s",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/0fc085e0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
+      "published_at": "2026-10-13T13:21:02+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le Rwanda a signé un contrat de dix ans avec la Formule 1 pour accueillir des courses sur son territoire, à partir du début des années 2030. C’est la première présence de la F1 en Afrique depuis 1993.",
+      "summary_en": "Rwanda has signed a ten‑year deal with Formula 1 to host races on its soil from the early 2030s, marking the first F1 presence in Africa since 1993."
+    },
     {
       "id": "672824a8c29f",
       "title": "Why McLaren cannot fix its F1 car handling until 2027",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The 2026 Singapore Grand Prix was an exhausting war of attrition for the entire paddock, but McLaren's Oscar Piastri walked away from the Marina Bay Street Circuit with a hard-fought fifth-place finis",
       "summary_en": "The 2026 Singapore Grand Prix was an exhausting war of attrition for the entire paddock, but McLaren's Oscar Piastri walked away from the Marina Bay Street Circuit with a hard-fought fifth-place finis"
-    },
-    {
-      "id": "4b7bc0602d8b",
-      "title": "Why Charles Leclerc failed to outbrake Max Verstappen in Turn 1 at Singapore GP",
-      "title_fr": "Leclerc échoue à dépasser Verstappen à Singapour",
-      "title_en": "Leclerc fails to outbrake Verstappen at Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-failed-to-outbrake-max-verstappen-in-turn-1-at-singapore-gp/10864594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve-3.jpg",
-      "published_at": "2026-10-12T09:30:31+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Leclerc, lancé du côté sale, a presque aligné son essieu avant avec celui de Verstappen, mais a manqué l'opportunité de le dépasser à l'entrée du premier virage. Verstappen a conservé la tête.",
-      "summary_en": "Leclerc, starting from the dirty side, nearly aligned his front axle with Verstappen's at the first corner but failed to outbrake him. Verstappen maintained the lead."
-    },
-    {
-      "id": "988b14501272",
-      "title": "Hamilton repeatedly urged Ferrari to let him past Leclerc after “hold position” order | Formula 1",
-      "title_fr": "Hamilton presse Ferrari pour dépasser Leclerc après l'ordre de maintien",
-      "title_en": "Hamilton pushes Ferrari to let him overtake Leclerc after hold position order",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/12/hamilton-repeatedly-urged-ferrari-to-let-him-past-leclerc-after-hold-position-order/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-15-06-55-6-261011_R17_SINGAPORE_DP_FGOO3601.jpg",
-      "published_at": "2026-10-12T09:08:27+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a sollicité à plusieurs reprises Ferrari afin de le laisser dépasser son coéquipier Charles Leclerc, après que les deux pilotes aient effectué leurs premiers arrêts aux boxes.",
-      "summary_en": "Lewis Hamilton repeatedly asked Ferrari to let him overtake teammate Charles Leclerc after both made their first pit stops."
-    },
-    {
-      "id": "3b38e89892ca",
-      "title": "Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP",
-      "title_fr": "Antonelli évite pénalité à Singapour",
-      "title_en": "Antonelli avoids penalty at Singapore",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8yKV6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-12T08:53:15+00:00",
-      "race_id": "singapore",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a franchi quatre fois les limites de piste lors du Grand Prix de Singapour, mais n'a pas reçu de pénalité. Sa troisième place, 15,9 secondes devant Lando Norris, n'aurait pas changé avec une pénalité de cinq secondes.",
-      "summary_en": "Kimi Antonelli crossed the track limits four times during the Singapore Grand Prix but avoided a penalty. His third-place finish, 15.9 seconds ahead of Lando Norris, would not have been affected by a standard five‑second penalty."
-    },
-    {
-      "id": "5992df7fde16",
-      "title": "George Russell calls Red Bull \"the team to beat\" in F1, but Kimi Antonelli adds a key caveat",
-      "title_fr": "George Russell calls Red Bull \"the team to beat\" in F1, but Kimi Antonelli adds a key caveat",
-      "title_en": "George Russell calls Red Bull \"the team to beat\" in F1, but Kimi Antonelli adds a key caveat",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-calls-red-bull-the-team-to-beat-in-f1-but-kimi-antonelli-adds-a-key-caveat/10864572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vqbj6/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-10-12T08:17:13+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1’s Asian triple-header has gone particularly well for Max Verstappen. The Red Bull driver finished 0.196 seconds behind Russell in Baku before going on to claim convincing victories in Malays",
-      "summary_en": "Formula 1’s Asian triple-header has gone particularly well for Max Verstappen. The Red Bull driver finished 0.196 seconds behind Russell in Baku before going on to claim convincing victories in Malays"
-    },
-    {
-      "id": "b6e72385972d",
-      "title": "Red Bull’s “exceptionally fast” car alarms its rivals after Verstappen dominates again | Formula 1",
-      "title_fr": "Red Bull inquiète ses rivaux après la domination de Verstappen",
-      "title_en": "Red Bull’s rivals alarmed after Verstappen’s dominance",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/12/red-bulls-exceptionally-fast-car-alarms-its-rivals-after-verstappen-dominates-again/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-28-49-3-SI202610110451.jpg",
-      "published_at": "2026-10-12T07:23:46+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a une fois de plus imposé la domination de Red Bull sur les trois derniers Grands Prix, suscitant l’inquiétude des concurrents. Les équipes rivales se demandent comment contrer cette performance écrasante.",
-      "summary_en": "Max Verstappen once again imposed Red Bull’s dominance over the last three Grands Prix, raising rivals’ concerns. Teams are wondering how to counter this overwhelming performance."
     }
   ]
 }
