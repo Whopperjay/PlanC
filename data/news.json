@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-14T14:00:19Z",
+  "last_updated": "2026-10-14T17:01:34Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "3beee4f2f6e7",
+      "title": "Mekies extends contract as Red Bull's F1 team boss",
+      "title_fr": "Mekies prolonge son contrat chez Red Bull jusqu'en 2031",
+      "title_en": "Mekies extends contract with Red Bull until 2031",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YMXbOEv2/s6/laurent-mekies-red-bull-racing-2.jpg",
+      "published_at": "2026-10-14T16:36:46+00:00",
+      "race_id": "austria",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Laurent Mekies, directeur de l'équipe Red Bull, a signé un nouveau contrat qui le lie à l'Austria jusqu'à la fin de 2031. Il succède à Christian Horner après son départ en 2025.",
+      "summary_en": "Laurent Mekies, Red Bull's team principal, has signed a new contract keeping him at the Austrian outfit until the end of 2031. He takes over from Christian Horner after the 2025 departure."
+    },
+    {
+      "id": "dbce5f2d111b",
+      "title": "Laurent Mekies extends contract as Red Bull's F1 team boss",
+      "title_fr": "Mekies prolonge son contrat chez Red Bull jusqu'en 2031",
+      "title_en": "Mekies extends contract with Red Bull until 2031",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGdxeY/s6/laurent-mekies-red-bull-racing.jpg",
+      "published_at": "2026-10-14T16:35:01+00:00",
+      "race_id": "austria",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Laurent Mekies a signé un nouveau contrat de directeur de l'équipe Red Bull, le portant jusqu'à la fin de 2031. Il dirigera l'Austroïen pendant au moins six saisons.",
+      "summary_en": "Laurent Mekies has signed a new contract as Red Bull's team principal, extending his tenure until the end of 2031. He will lead the Austrian outfit for at least six seasons."
+    },
+    {
+      "id": "0f2883348e4c",
+      "title": "Social Media: Mekies extends contract to lead Red Bull until 2031 | Brief",
+      "title_fr": "Mekies prolonge son contrat avec Red Bull jusqu'en 2031",
+      "title_en": "Mekies extends contract with Red Bull until 2031",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/14/social-media-mekies-extends-contract-to-lead-red-bull-until-2031/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/SI202606260307.jpg",
+      "published_at": "2026-10-14T16:17:44+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Mekies signe un nouveau contrat pour rester chez Red Bull jusqu'en 2031, consolidant son rôle de pilote principal.",
+      "summary_en": "Mekies signs a new deal to stay with Red Bull until 2031, solidifying his role as lead driver."
+    },
+    {
+      "id": "7868185d3318",
+      "title": "Christian Horner reveals why he chose 2021 Abu Dhabi GP to open his memoir",
+      "title_fr": "Horner dévoile le choix du GP d'Abu Dhabi 2021 pour son mémoire",
+      "title_en": "Horner Reveals Why He Opened His Memoir with the 2021 Abu Dhabi GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-why-he-chose-2021-abu-dhabi-gp-to-open-his-memoir/10865209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2wlKwwWY/s6/untitled-design-21-2.jpg",
+      "published_at": "2026-10-14T15:36:19+00:00",
+      "race_id": "abudhabi",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner explique pourquoi il a choisi le Grand Prix d'Abu Dhabi 2021 pour ouvrir son mémoire, rappelant la victoire de Max Verstappen",
+      "summary_en": "Christian Horner explains why he chose the 2021 Abu Dhabi Grand Prix to open his memoir, recalling Max Verstappen's championship win"
+    },
+    {
+      "id": "a575d2bdce1d",
+      "title": "Martin Brundle reacts to \"bizarre\" Lewis Hamilton Singapore GP strategy choice",
+      "title_fr": "Brundle critique la stratégie « bizarre » de Hamilton à Singapour",
+      "title_en": "Brundle calls Hamilton's Singapore strategy \"bizarre\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-reacts-to-bizarre-lewis-hamilton-singapore-gp-strategy-choice/10865194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyooa6/s6/untitled-design-20-3.jpg",
+      "published_at": "2026-10-14T14:22:25+00:00",
+      "race_id": "singapore",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a terminé sixième à Singapour après avoir refusé de faire un arrêt, ce qui a coûté un podium à Ferrari. Martin Brundle a qualifié la décision de stratégie de « bizarre ».",
+      "summary_en": "Lewis Hamilton finished sixth in Singapore after refusing a pit stop, costing Ferrari a podium. Martin Brundle called the strategy decision \"bizarre\"."
+    },
     {
       "id": "12e4cb01053a",
       "title": "Christian Horner opens up on Red Bull F1 exit: “Perhaps it was perceived I had too much influence over the team”",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar had a stressful race but was rewarded with a point after slogging his way through the field from the pit lane.",
       "summary_en": "Isack Hadjar had a stressful race but was rewarded with a point after slogging his way through the field from the pit lane."
-    },
-    {
-      "id": "b13323063616",
-      "title": "Toto Wolff reveals problem behind George Russell's Singapore GP recovery",
-      "title_fr": "Wolff explique pourquoi Russell n'a pas pu dépasser à Singapour",
-      "title_en": "Wolff explains why Russell couldn't overtake in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-the-problem-behind-george-russells-singapore-gp-recovery/10864793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6zoDkLp0/s6/untitled-design-2026-10-13t003-2.jpg",
-      "published_at": "2026-10-13T01:35:02+00:00",
-      "race_id": "singapore",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a détaillé les difficultés de dépassement sur le circuit de Marina Bay, qui pénalise les pilotes proches de l'avant. Russell est monté de 19e à 9e, mais la course n'a pas répondu aux attentes de Mercedes.",
-      "summary_en": "Toto Wolff explained why Singapore's Marina Bay circuit punishes drivers who get close to the car ahead, making overtaking difficult. Russell climbed from 19th to 9th, but the result fell short of Mercedes' expectations."
-    },
-    {
-      "id": "10140d07708d",
-      "title": "McLaren to phase upgrades for 2026 fight and next year's F1 development",
-      "title_fr": "McLaren lance son plan d'amélioration 2026",
-      "title_en": "McLaren Unveils 2026 Upgrade Plan",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/25dL7Gx0/s6/untitled-design-2026-10-12t234-2.jpg",
-      "published_at": "2026-10-13T00:35:03+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "McLaren veut réduire l'écart avec les leaders tout en définissant la direction aérodynamique pour 2026. Le directeur Andrea Stella a détaillé le plan après le Grand Prix de Singapour, avec la participation de Lando Norris.",
-      "summary_en": "McLaren aims to close the gap to the front while shaping its aerodynamic strategy for 2026. Team principal Andrea Stella outlined the upgrade plan after Singapore, with Lando Norris weighing in."
-    },
-    {
-      "id": "691b5cd9d2a7",
-      "title": "On This Day: Hill claims emotional championship victory for Williams at Suzuka | Briefs",
-      "title_fr": "Hill remporte le titre 1996 à Suzuka",
-      "title_en": "Hill claims 1996 title at Suzuka",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/13/on-this-day-hill-claims-emotional-championship-victory-for-williams-at-suzuka/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2024/05/racefansdotnet-21-10-26-22-58-12-4-b.jpg",
-      "published_at": "2026-10-12T23:01:32+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le pilote britannique Hill a remporté le championnat de 1996 pour Williams lors de la course de Suzuka, malgré les critiques de l'équipe qui l'ont marginalisé.",
-      "summary_en": "British driver Hill secured the 1996 championship for Williams at Suzuka, even as the team had sidelined him."
-    },
-    {
-      "id": "8fb9d4052a5c",
-      "title": "Why Kimi Antonelli was left fighting his Mercedes brakes during the Singapore GP",
-      "title_fr": "Antonelli sur le podium malgré un frein défectueux à Singapour",
-      "title_en": "Antonelli podium finish despite faulty brakes in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BqJg2/s6/untitled-design-2026-10-12t230-2.jpg",
-      "published_at": "2026-10-12T22:35:02+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a terminé troisième à Singapour, gardant une avance de 102 points sur George Russell, malgré un frein défectueux qui l'a presque fait sortir de la piste.",
-      "summary_en": "Kimi Antonelli finished third in Singapore, keeping a 102‑point lead over George Russell, after a faulty brake nearly forced him off the track."
-    },
-    {
-      "id": "bbcff0737a77",
-      "title": "Lewis Hamilton sends message to fans after Singapore GP mistake",
-      "title_fr": "Lewis Hamilton sends message to fans after Singapore GP mistake",
-      "title_en": "Lewis Hamilton sends message to fans after Singapore GP mistake",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-fans-after-singapore-gp-mistake/10864782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNGXA2/s6/untitled-design-2026-10-12t223-2.jpg",
-      "published_at": "2026-10-12T21:32:12+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he cho",
-      "summary_en": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he cho"
     }
   ]
 }
