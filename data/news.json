@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-13T22:56:04Z",
+  "last_updated": "2026-10-14T01:56:52Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b461414d4993",
+      "title": "Red Bull sends warning to F1 rivals with engine development admission",
+      "title_fr": "Red Bull avertit la grille sur son moteur maison",
+      "title_en": "Red Bull warns rivals on in-house engine progress",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-sends-warning-to-f1-rivals-with-engine-development-admission/10865049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0qgKovBY/s6/untitled-design-18-2.jpg",
+      "published_at": "2026-10-14T00:42:06+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a admis que son moteur développé en interne n'est qu'à 40-50% de son potentiel complet, ce qui reste encore beaucoup à faire avant d'être compétitif.",
+      "summary_en": "Red Bull admitted its in-house engine is only 40-50% toward full potential, signalling that it still has a long way to go before it can compete."
+    },
+    {
+      "id": "4fa3d07e93ab",
+      "title": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
+      "title_fr": "Zara lance une collection inspirée d’Ayrton Senna",
+      "title_en": "Zara launches new Ayrton Senna clothing collection",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/zara-launches-new-ayrton-senna-clothing-collection-inspired-by-f1-legend/10865047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2dEo3GBY/s6/untitled-design-16-2.jpg",
+      "published_at": "2026-10-13T23:51:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Zara a dévoilé la collection « Ayrton Senna – Senna Brands », disponible dès aujourd’hui dans ses magasins et en ligne, dans plusieurs pays.",
+      "summary_en": "Zara has unveiled the Ayrton Senna – Senna Brands collection, now available in stores and online across the UK, Brazil, the US, Portugal and Spain."
+    },
+    {
+      "id": "ac0c8df7a176",
+      "title": "Lando Norris makes big business move with investment in £500m hospitality company",
+      "title_fr": "Norris investit dans Seat Unique, société de VIP",
+      "title_en": "Norris invests in Seat Unique, VIP experience provider",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-makes-big-business-move-with-investment-in-500m-hospitality-company/10865045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vq4W6/s6/untitled-design-2026-10-14t001-2.jpg",
+      "published_at": "2026-10-13T23:19:25+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote McLaren Lando Norris a pris une participation dans Seat Unique, une société britannique de billetterie et d’expériences VIP, dans le cadre d’un tour de financement de 20 millions de livres sterling.",
+      "summary_en": "McLaren driver Lando Norris has taken a stake in Seat Unique, a UK-based ticketing and VIP experience provider, as part of a £20 million funding round."
+    },
     {
       "id": "0872ddbb443a",
       "title": "The watches worn at the Singapore GP: From $400 to $430,000",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le champion Andrea Kimi Antonelli a accumulé quatre infractions aux limites de piste lors du Grand Prix de Singapour 2026, mais a échappé à la pénalité prévue par la FIA.",
       "summary_en": "Championship leader Andrea Kimi Antonelli accumulated four track-limit violations at the 2026 Singapore GP, yet avoided the FIA-mandated penalty."
-    },
-    {
-      "id": "2c1f63a52c40",
-      "title": "Kimi Antonelli’s title hopes boosted by proposed F1 calendar overhaul",
-      "title_fr": "F1 annule Qatar et Abu Dhabi en raison de menaces sécuritaires",
-      "title_en": "F1 scrubs Qatar and Abu Dhabi races amid security threats",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/formula-1-prepares-to-trigger-imola-season-finale-amid-escalating-regional-security-threats/10864677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6lmAolx0/s6/untitled-design-98-3.jpg",
-      "published_at": "2026-10-12T12:14:04+00:00",
-      "race_id": "qatar",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 88,
-      "is_breaking": true,
-      "summary_fr": "La Formule 1 a annoncé l'annulation des Grands Prix de Qatar et d'Abu Dhabi, suite à des menaces sécuritaires au Moyen-Orient. Le calendrier 2026 sera ainsi révisé pour la fin de saison.",
-      "summary_en": "Formula 1 has scrapped the Qatar and Abu Dhabi Grands Prix following security threats in the Middle East, reshaping the 2026 calendar for the season finale."
-    },
-    {
-      "id": "e5bf1f853ac2",
-      "title": "The hidden factor that gives Max Verstappen and Red Bull extra hope for 2027",
-      "title_fr": "Verstappen et Red Bull trouvent un espoir 2027 grâce à un facteur caché",
-      "title_en": "Verstappen and Red Bull find 2027 hope thanks to hidden factor",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbAG3d0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-12T12:01:17+00:00",
-      "race_id": "azerbaijan",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen et Red Bull regagnent la tête grâce à un facteur caché, après deux victoires en trois Grands Prix et un écart de 0,196 seconde à Baku. L'espoir de 2027 se renforce, même si la bataille du titre reste",
-      "summary_en": "Max Verstappen and Red Bull are back at the front after two wins in three Grands Prix and a 0.196-second deficit in Baku. The hidden factor gives them extra hope for 2027, though the title fight remains too late."
-    },
-    {
-      "id": "b4ab8488e704",
-      "title": "The hidden factor that gives Verstappen and Red Bull extra hope for 2027",
-      "title_fr": "The hidden factor that gives Verstappen and Red Bull extra hope for 2027",
-      "title_en": "The hidden factor that gives Verstappen and Red Bull extra hope for 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YpbAG3d0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-12T12:01:12+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "With two victories in the last three Grands Prix and a deficit of just 0.196 seconds in Baku, Verstappen and Red Bull are firmly back at the front in Formula 1. The resurgence has understandably come ",
-      "summary_en": "With two victories in the last three Grands Prix and a deficit of just 0.196 seconds in Baku, Verstappen and Red Bull are firmly back at the front in Formula 1. The resurgence has understandably come "
     }
   ]
 }
