@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-14T10:59:31Z",
+  "last_updated": "2026-10-14T14:00:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "12e4cb01053a",
+      "title": "Christian Horner opens up on Red Bull F1 exit: “Perhaps it was perceived I had too much influence over the team”",
+      "title_fr": "Horner explique son départ de Red Bull",
+      "title_en": "Horner explains his exit from Red Bull",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-opens-up-on-red-bull-f1-exit-perhaps-it-was-perceived-i-had-too-much-influence-ove/10864999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVjpKlY/s6/christian-horner.jpg",
+      "published_at": "2026-10-14T13:45:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a déclaré que son influence sur l’équipe aurait été perçue comme trop forte, ce qui a conduit à son départ de Red Bull en 2023.",
+      "summary_en": "Christian Horner said his influence over the team was seen as too strong, leading to his 2023 exit from Red Bull."
+    },
+    {
+      "id": "b2701e4fcd82",
+      "title": "Valentino Rossi wary of Max Verstappen threat at Portimao: \"Big problem\"",
+      "title_fr": "Rossi craint la menace de Verstappen à Portimão",
+      "title_en": "Rossi wary of Verstappen threat at Portimão",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/valentino-rossi-wary-of-max-verstappen-threat-at-portimao-big-problem/10865174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LqqrY/s6/untitled-design-19-2.jpg",
+      "published_at": "2026-10-14T13:41:25+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion MotoGP Valentino Rossi exprime ses inquiétudes face à Max Verstappen, qui débute en GT World Challenge Europe à Portimão. Les deux pilotes se préparent à un duel sur le circuit.",
+      "summary_en": "MotoGP legend Valentino Rossi voices concerns about facing Max Verstappen, who is making his GT World Challenge Europe debut at Portimão. The two drivers are bracing for a showdown on the track."
+    },
     {
       "id": "baee83964f17",
       "title": "Christian Horner reveals secret battle with panic attacks during F1 career",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he cho",
       "summary_en": "Lewis Hamilton spent his time following the difficult Singapore Grand Prix pointing his finger not at his team, but at himself. The Ferrari driver finished sixth at the Marina Bay Circuit after he cho"
-    },
-    {
-      "id": "b644e1d095a8",
-      "title": "Spotlight: Wolff claimed Red Bull power unit would be “completely s***” – Horner | Briefs",
-      "title_fr": "Horner accuse Wolff de dire que le moteur Red Bull serait « complètement de la merde »",
-      "title_en": "Horner claims Wolff said Red Bull engine would be 'completely s***'",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/12/spotlight-wolff-claimed-red-bull-power-unit-would-be-completely-s-horner/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-28-23-4-SI202610110490.jpg",
-      "published_at": "2026-10-12T21:07:19+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Red Bull, Christian Horner, a déclaré que Wolff aurait affirmé que le moteur de la Scuderia serait « complètement de la merde ». Cette affirmation alimente les rumeurs sur la fiabilité du moteur.",
-      "summary_en": "Red Bull team boss Christian Horner said Wolff claimed the Red Bull engine would be 'completely s***'. The remark fuels speculation about the power unit's reliability."
-    },
-    {
-      "id": "f6339bdcaf12",
-      "title": "Oscar Piastri on his Singapore puncture: “Ironically, it probably helped”",
-      "title_fr": "Piastri profite d’une crevaison pour dépasser Hamilton à Singapour",
-      "title_en": "Piastri uses puncture to overtake Hamilton in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vqve6/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-10-12T19:05:03+00:00",
-      "race_id": "singapore",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri a tiré parti d’une crevaison à Singapour pour dépasser Lewis Hamilton et se placer à la cinquième place. Le pilote Aston Martin a ainsi transformé un problème en opportunité.",
-      "summary_en": "Oscar Piastri turned a Singapore puncture into an advantage, passing Lewis Hamilton to finish fifth. The Aston Martin driver capitalised on the mishap to climb the order."
     }
   ]
 }
