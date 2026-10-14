@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-14T07:57:44Z",
+  "last_updated": "2026-10-14T10:59:31Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "baee83964f17",
+      "title": "Christian Horner reveals secret battle with panic attacks during F1 career",
+      "title_fr": "Horner confie ses attaques de panique",
+      "title_en": "Horner reveals his panic attacks",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-secret-battle-with-panic-attacks-during-high-pressure-f1-career/10864876/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKwvWY/s6/untitled-design-17-2.jpg",
+      "published_at": "2026-10-14T10:52:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner, directeur de Red Bull Racing, a avoué subir des attaques de panique durant sa carrière de F1, révélant la pression intense derrière les podiums.",
+      "summary_en": "Christian Horner, Red Bull Racing's team principal, admitted to experiencing panic attacks during his F1 career, exposing the intense pressure behind the podiums."
+    },
+    {
+      "id": "b39b0e27b514",
+      "title": "Verstappen says Red Bull’s car was “scary” to drive early in 2026 | Formula 1",
+      "title_fr": "Verstappen qualifie la Red Bull de 'terrifiant' en début de saison 2026",
+      "title_en": "Verstappen calls Red Bull car 'scary' early in 2026 season",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/14/verstappen-says-red-bulls-car-was-scary-to-drive-early-in-2026/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-08-07-07-16-1-SI202603080146.jpg",
+      "published_at": "2026-10-14T10:48:46+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a déclaré que la voiture de Red Bull était 'terrifiant' au début de la saison 2026, soulignant les progrès réalisés.",
+      "summary_en": "Max Verstappen said the Red Bull car felt 'scary' early in the 2026 season, highlighting the team's progress."
+    },
+    {
+      "id": "6cceb799b4f9",
+      "title": "Spotlight: Cadillac already has better facilities than Mercedes, says Bottas | Brief",
+      "title_fr": "Bottas affirme que Cadillac pose de meilleures installations que Mercedes",
+      "title_en": "Bottas claims Cadillac has better facilities than Mercedes",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/14/spotlight-cadillac-already-has-better-facilities-than-mercedes-says-bottas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-14-11-15-12-1-CadillacF1Team_16500_HiRes.jpg",
+      "published_at": "2026-10-14T10:22:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de Formule 1 Bottas a declare que l usine de Cadillac offre des installations superieures a celles de Mercedes. Cette remarque soulve des questions sur les infrastructures des constructeurs.",
+      "summary_en": "Valtteri Bottas said that Cadillac's factory has better facilities than Mercedes'. The comment raises questions about the infrastructure of the constructors."
+    },
+    {
+      "id": "7c04eba48542",
+      "title": "‘I’m sideways all the time’ – How Alpine’s feral F1 car plagued Pierre Gasly in Singapore",
+      "title_fr": "Gasly dénonce le comportement erratique de l'Alpine à Singapour",
+      "title_en": "Gasly blames Alpine car's erratic behaviour in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/im-sideways-all-the-time-how-alpines-feral-f1-car-plagued-pierre-gasly-in-singapore/10864744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6grQGV7Y/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-10-14T09:19:00+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Pierre Gasly a expliqué les problèmes de comportement de l'Alpine lors du Grand Prix de Singapour, où il n'a pas réussi à marquer de points malgré une place de septième sur le grid.",
+      "summary_en": "Pierre Gasly explained the erratic behaviour of the Alpine car at the Singapore Grand Prix, where he failed to score points despite starting seventh on the grid."
+    },
+    {
+      "id": "d000ecd72868",
+      "title": "“Just a disaster” – How Isack Hadjar’s nightmare Singapore F1 weekend unfolded",
+      "title_fr": "Hadjar subit un week-end catastrophique à Singapour",
+      "title_en": "Hadjar suffers disastrous weekend in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/just-a-disaster-how-isack-hadjars-nightmare-singapore-f1-weekend-unfolded/10864759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8y786/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "published_at": "2026-10-14T08:06:40+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a connu un week-end désastreux à Singapour, avec une première séance de pratique en 8e position et des problèmes de freinage et de pédale de gaz.",
+      "summary_en": "Isack Hadjar endured a disastrous weekend in Singapore, starting FP1 in eighth place and complaining about excessive braking and a slippery throttle."
+    },
     {
       "id": "b461414d4993",
       "title": "Red Bull sends warning to F1 rivals with engine development admission",
@@ -20,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "Red Bull a admis que son moteur développé en interne n'est qu'à 40-50% de son potentiel complet, ce qui reste encore beaucoup à faire avant d'être compétitif.",
       "summary_en": "Red Bull admitted its in-house engine is only 40-50% toward full potential, signalling that it still has a long way to go before it can compete."
+    },
+    {
+      "id": "57b58c6309ed",
+      "title": "Formula 1 teams need decision ‘by mid-October’ on whether final races will go ahead | Formula 1",
+      "title_fr": "Formula 1 teams need decision ‘by mid-October’ on whether final races will go ahead | Formula 1",
+      "title_en": "Formula 1 teams need decision ‘by mid-October’ on whether final races will go ahead | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/14/formula-1-teams-need-decision-on-whether-final-races-will-go-ahead-by-mid-october/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-30-19-03-20-10-2249194246.jpg",
+      "published_at": "2026-10-14T00:01:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 team bosses say they need to know by the middle of this month whether the series' final two races will go ahead as planned.",
+      "summary_en": "Formula 1 team bosses say they need to know by the middle of this month whether the series' final two races will go ahead as planned."
     },
     {
       "id": "4fa3d07e93ab",
@@ -115,6 +229,25 @@
       "is_breaking": false,
       "summary_fr": "Christian Horner, directeur de Red Bull Racing, exprime des doutes sur la philosophie de l’équipe, qui a longtemps été perçue comme un disrupteur de la F1.",
       "summary_en": "Christian Horner, Red Bull Racing’s team principal, questions the team’s long‑standing 'Maverick' identity that has defined it as a disruptor in Formula 1."
+    },
+    {
+      "id": "726d1ea6359b",
+      "title": "Featured Comment: F1’s sportswashing roster grows with addition of race in Rwanda | Briefs",
+      "title_fr": "F1 ajoute un Grand Prix au Rwanda, polémique de lavage sportif",
+      "title_en": "F1 adds a Grand Prix in Rwanda, sportswashing controversy",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/13/featured-comment-f1s-sportswashing-roster-grows-with-addition-of-race-in-rwanda/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/04/racefansdotnet-24-04-13-18-00-10-16-2210067920.jpg",
+      "published_at": "2026-10-13T20:09:33+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le Rwanda rejoint le palmarès de F1 en ajoutant un Grand Prix, alimentant les critiques de lavage sportif.",
+      "summary_en": "Rwanda joins F1's roster of Grand Prix, fueling sportswashing criticism."
     },
     {
       "id": "96db218db268",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Oscar Piastri a tiré parti d’une crevaison à Singapour pour dépasser Lewis Hamilton et se placer à la cinquième place. Le pilote Aston Martin a ainsi transformé un problème en opportunité.",
       "summary_en": "Oscar Piastri turned a Singapore puncture into an advantage, passing Lewis Hamilton to finish fifth. The Aston Martin driver capitalised on the mishap to climb the order."
-    },
-    {
-      "id": "d4b6dd90d4bc",
-      "title": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
-      "title_fr": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
-      "title_en": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-to-watch-max-verstappen-race-gt-world-challenge-portimao-free-live-stream-start-time-and-schedu/10864757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq83vo6/s6/untitled-design-100-2.jpg",
-      "published_at": "2026-10-12T16:29:35+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "After a successful weekend in Singapore, Max Verstappen is now spending a rare week outside of Formula 1 behind the wheel of a Mercedes-AMG GT3. Apparently, the F1 schedule isn't punishing enough for ",
-      "summary_en": "After a successful weekend in Singapore, Max Verstappen is now spending a rare week outside of Formula 1 behind the wheel of a Mercedes-AMG GT3. Apparently, the F1 schedule isn't punishing enough for "
-    },
-    {
-      "id": "32b8af8e5c78",
-      "title": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
-      "title_fr": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
-      "title_en": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/25dL7LJ0/s6/charles-leclerc-ferrari-max-ve.jpg",
-      "published_at": "2026-10-12T15:53:57+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to take the lead.<br />H",
-      "summary_en": "When Charles Leclerc had a better start than Max Verstappen and claimed the inside line for Turn 1, many in the media centre thought the Monegasque should have held his ground to take the lead.<br />H"
-    },
-    {
-      "id": "8573a494ea41",
-      "title": "Charles Leclerc admits he missed a chance against Max Verstappen – but not the obvious one",
-      "title_fr": "Leclerc avoue avoir manque une opportunite face a Verstappen",
-      "title_en": "Leclerc admits he missed a chance against Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVPo1P0/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-10-12T15:53:13+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a reconnu qu'il avait manque une occasion de prendre l'avantage sur Max Verstappen, mais pas la plus evidente, apres un depart favorable a Monaco",
-      "summary_en": "Charles Leclerc admitted he missed a chance to overtake Max Verstappen, but not the obvious one, after a strong start at Monaco"
-    },
-    {
-      "id": "d529ff5d6cb5",
-      "title": "“It’s so ridiculous, this engine”: Alonso’s dismay at Hadjar’s easy re-pass | Formula 1",
-      "title_fr": "Alonso déplore le moteur : Hadjar le dépasse à nouveau",
-      "title_en": "Alonso laments the engine: Hadjar easily re‑passes him",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/12/its-so-ridiculous-this-engine-alonsos-dismay-at-hadjars-easy-re-pass/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-16-36-5-SI202610110380.jpg",
-      "published_at": "2026-10-12T14:49:15+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Alonso a exprimé son mécontentement après avoir dépassé Isack Hadjar et l'avoir maintenu derrière pendant sept tours, mais a été surpris de la facilité avec laquelle Hadjar l'a repris lors du redémarrage.",
-      "summary_en": "Alonso expressed frustration after passing Isack Hadjar and keeping him back for seven laps, only to be surprised by how easily Hadjar re‑passes him at the restart."
-    },
-    {
-      "id": "20cdc9a09d83",
-      "title": "“The car started to brake on its own!” Leclerc shocked by mid-race Ferrari fault | Formula 1",
-      "title_fr": "Leclerc surpris par un freinage inattendu de la Ferrari",
-      "title_en": "Leclerc shocked by unexpected Ferrari brake",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/12/the-car-started-to-brake-on-its-own-leclerc-shocked-by-mid-race-ferrari-fault/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-09-10-47-47-3-261009_R17_SINGAPORE_DP_VA1_2665.jpg",
-      "published_at": "2026-10-12T13:17:40+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a été surpris lorsque sa Ferrari a soudainement freiné en course. Il a déclaré qu'il mettrait le véhicule dans le mur si cela se reproduisait.",
-      "summary_en": "Charles Leclerc was shocked when his Ferrari suddenly braked mid-race. He said he would wall the car if it happened again."
-    },
-    {
-      "id": "fc5fd3c5fca4",
-      "title": "‘I’ll put a pillow under his butt’ – How Toto Wolff wants to solve Kimi Antonelli’s track limits problem",
-      "title_fr": "Wolff suggère un coussin pour Kimi Antonelli",
-      "title_en": "Wolff jokes a pillow could fix Kimi Antonelli's track‑limit issues",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ill-put-a-pillow-under-his-butt-how-toto-wolff-wants-to-solve-kimi-antonellis-track-limits-problem/10864563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedNkP2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-12T13:02:34+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Mercedes, Toto Wolff, a plaisanté en disant que Kimi Antonelli aurait besoin d’un coussin sous le fessier pour mieux voir les lignes blanches après avoir franchi les limites de piste à Singapour. Le pilote a évité la pénalité.",
-      "summary_en": "Mercedes team principal Toto Wolff joked that Kimi Antonelli needs a pillow under his butt to better spot the white lines after breaching track limits at Singapore. The driver avoided the penalty."
-    },
-    {
-      "id": "b5cb11f21922",
-      "title": "How Kimi Antonelli escaped a Singapore GP track limits penalty despite four violations",
-      "title_fr": "Antonelli échappe à la pénalité de limites de piste à Singapour",
-      "title_en": "Antonelli evades track limits penalty at Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-escaped-a-singapore-gp-track-limits-penalty-despite-four-violations/10864634/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6n7bolo0/s6/untitled-design-99-2.jpg",
-      "published_at": "2026-10-12T12:42:21+00:00",
-      "race_id": "singapore",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Le champion Andrea Kimi Antonelli a accumulé quatre infractions aux limites de piste lors du Grand Prix de Singapour 2026, mais a échappé à la pénalité prévue par la FIA.",
-      "summary_en": "Championship leader Andrea Kimi Antonelli accumulated four track-limit violations at the 2026 Singapore GP, yet avoided the FIA-mandated penalty."
     }
   ]
 }
