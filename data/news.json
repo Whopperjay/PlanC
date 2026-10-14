@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-14T17:01:34Z",
+  "last_updated": "2026-10-14T20:02:42Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "449c4498f0ea",
+      "title": "Christian Horner wanted Fernando Alonso and Charles Leclerc at Red Bull",
+      "title_fr": "Horner voulait Alonso et Leclerc pour Red Bull 2025",
+      "title_en": "Horner wanted Alonso and Leclerc for Red Bull 2025",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-wanted-fernando-alonso-and-charles-leclerc-at-red-bull/10865251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6AlvppoY/s6/untitled-design-22-2.jpg",
+      "published_at": "2026-10-14T18:46:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a déclaré vouloir que Fernando Alonso et Charles Leclerc rejoignent Red Bull en 2025, mais il n'a pas pu les convaincre.",
+      "summary_en": "Christian Horner said he wanted Fernando Alonso and Charles Leclerc to join Red Bull in 2025, but he couldn't persuade them."
+    },
+    {
+      "id": "522e79bc4f0c",
+      "title": "Why Christian Horner banned Mercedes' name as Red Bull built its own F1 engine",
+      "title_fr": "Horner interdit l’usage du nom Mercedes chez Red Bull",
+      "title_en": "Horner bans Mercedes name at Red Bull",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-horner-banned-mercedes-name-as-red-bull-built-its-own-f1-engine/10864996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6zQpajeY/s6/christian-horner-team-principa.jpg",
+      "published_at": "2026-10-14T18:00:02+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a interdit aux employés de la division des moteurs de Red Bull d’utiliser le nom Mercedes. Il explique que cette décision vise à protéger la marque et à éviter toute confusion avec le rival.",
+      "summary_en": "Christian Horner has banned Red Bull powertrain staff from using the Mercedes name, saying the move protects the brand and avoids confusion with the rival."
+    },
+    {
+      "id": "688f9bdaa6f7",
+      "title": "Red Bull F1 boss Mekies gets new deal to 2031",
+      "title_fr": "Mekies prolonge son contrat chez Red Bull jusqu'en 2031",
+      "title_en": "Red Bull's Mekies secures contract extension until 2031",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1rxr0dpno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a86/live/3ed1d980-c7ee-11f1-9bb8-8794f734d112.jpg",
+      "published_at": "2026-10-14T17:02:47+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Laurent Mekies, le directeur de l'équipe Red Bull, voit son contrat prolongé jusqu'à la fin de 2031 après avoir succédé à Christian Horner.",
+      "summary_en": "Laurent Mekies, Red Bull's team principal, has his contract extended through the end of 2031 after taking over from Christian Horner."
+    },
     {
       "id": "3beee4f2f6e7",
       "title": "Mekies extends contract as Red Bull's F1 team boss",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La Fédération de la Formule 1 et le gouvernement rwandais ont conclu un contrat de 10 ans pour accueillir un Grand Prix africain à Kigali, la première édition prévue en 2030.",
       "summary_en": "Formula 1 and the Rwandan government have signed a 10-year deal to host an African Grand Prix in Kigali, with the first race slated for 2030."
-    },
-    {
-      "id": "141e38dc852a",
-      "title": "Fred Vasseur \"not sure\" if Red Bull is currently F1's best team",
-      "title_fr": "Vasseur doute de la suprématie de Red Bull",
-      "title_en": "Vasseur Uncertain About Red Bull's Dominance",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-not-sure-if-red-bull-is-currently-f1s-best-team/10864684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAoQZ0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-13T08:07:55+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fred Vasseur ne considère pas encore Red Bull comme l'équipe dominante, malgré les victoires de Verstappen en Malaisie et à Singapour.",
-      "summary_en": "Fred Vasseur remains uncertain about Red Bull's dominance, even after Verstappen's wins in Malaysia and Singapore."
-    },
-    {
-      "id": "573fdf4c12db",
-      "title": "Does Norris-Piastri crash show 'papaya rules' failing? - F1 Q&A",
-      "title_fr": "Accident Norris-Piastri soulève les règles papaye",
-      "title_en": "Norris-Piastri crash raises questions about papaya rules",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck3wv14n070eo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9846/live/95e68220-c5aa-11f1-bea7-1dc95e2ed033.jpg",
-      "published_at": "2026-10-13T06:54:13+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Après le Grand Prix de Singapour, Andrew Benson répond aux questions sur l'accident de Norris et Piastri, soulignant les limites des règles papaye et les implications pour la sécurité.",
-      "summary_en": "After the Singapore Grand Prix, Andrew Benson answers questions about the Norris-Piastri crash, highlighting the shortcomings of the papaya rule and its implications for safety."
-    },
-    {
-      "id": "671d99dca28a",
-      "title": "“I knew this guy would be a pain in the a***”: Hadjar’s slog from pits to points | Formula 1",
-      "title_fr": "“I knew this guy would be a pain in the a***”: Hadjar’s slog from pits to points | Formula 1",
-      "title_en": "“I knew this guy would be a pain in the a***”: Hadjar’s slog from pits to points | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/13/i-knew-this-guy-would-be-a-pain-in-the-a-hadjars-slog-from-pits-to-points/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-16-08-8-SI202610110390.jpg",
-      "published_at": "2026-10-13T06:15:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar had a stressful race but was rewarded with a point after slogging his way through the field from the pit lane.",
-      "summary_en": "Isack Hadjar had a stressful race but was rewarded with a point after slogging his way through the field from the pit lane."
     }
   ]
 }
