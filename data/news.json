@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T17:08:53Z",
+  "last_updated": "2026-10-15T20:09:45Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -20,6 +20,25 @@
       "is_breaking": false,
       "summary_fr": "Rafael Camara a été sélectionné par Haas pour la saison 2027 après avoir démontré une vitesse et une adaptabilité supérieures lors des tests avec la voiture 2025. Les concurrents Fornaroli et Hirakawa n'ont pas été retenus.",
       "summary_en": "Rafael Camara was chosen by Haas for the 2027 seat after showing superior speed and adaptability during tests with the 2025 car. Fornaroli and Hirakawa were not selected."
+    },
+    {
+      "id": "46b72c48f8a6",
+      "title": "Brazilian Camara to join Haas for F1 debut in 2027",
+      "title_fr": "Camara rejoint Haas pour son entrée en F1 en 2027",
+      "title_en": "Camara joins Haas for F1 debut in 2027",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15jn74l0pdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea0/live/2edf3e60-c874-11f1-971b-634f423608e9.jpg",
+      "published_at": "2026-10-15T15:41:27+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le Brésilien Rafael Camara intégrera l'équipe américaine Haas pour sa première saison de Formule 1 en 2027.",
+      "summary_en": "Brazilian Rafael Camara will join the US-based Haas team for his debut Formula 1 season in 2027."
     },
     {
       "id": "0007fcbdeb19",
@@ -58,6 +77,25 @@
       "is_breaking": false,
       "summary_fr": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.<br />The Williams F1 team will be putting a painted show car in the ",
       "summary_en": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.<br />The Williams F1 team will be putting a painted show car in the "
+    },
+    {
+      "id": "32416dbc47ce",
+      "title": "Camara over Ocon - did Haas make the correct call for F1 2027?",
+      "title_fr": "Camara remplace Ocon chez Haas pour 2027",
+      "title_en": "Camara replaces Ocon at Haas for 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/camara-over-ocon-did-haas-make-the-correct-call-for-f1-2027/10865424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0kZXG7q6/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-10-15T14:21:18+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara, champion du Formula Regional Europe 2024 et du Formula 3 2025, rejoint Haas en 2027 pour succéder à Esteban Ocon. Le Brésilien de 21 ans fera son entrée en Formule 1.",
+      "summary_en": "Rafael Camara, 2024 Formula Regional Europe and 2025 Formula 3 champion, joins Haas for 2027 to replace Esteban Ocon. The 21-year-old Brazilian will make his Formula 1 debut."
     },
     {
       "id": "33bad72a926e",
@@ -229,6 +267,44 @@
       "is_breaking": false,
       "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner says 2025 champion Lando Norris's crash with his McLaren team-mate during the Singapore Grand Prix sprint race was \"not a world champion move\".<br",
       "summary_en": "Former Haas Formula 1 team principal Guenther Steiner says 2025 champion Lando Norris's crash with his McLaren team-mate during the Singapore Grand Prix sprint race was \"not a world champion move\".<br"
+    },
+    {
+      "id": "4389c51aa2ac",
+      "title": "Max Verstappen’s Portimao team-mates: who are Chris Lulham and Ben Barnicoat?",
+      "title_fr": "Verstappen rejoint l’équipe Portimão en GT3 avec Lulham et Barnicoat",
+      "title_en": "Verstappen joins Portimão GT3 team with Lulham and Barnicoat",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-portimao-team-mates-who-are-chris-lulham-and-ben-barnicoat/10865368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/63QaeLg2/s6/untitled-design-27-2.jpg",
+      "published_at": "2026-10-15T11:50:03+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen, pilote de Formule 1, prendra la barre du No. 3 Mercedes-AMG GT3 EVO à Portimão, aux côtés de Chris Lulham et Ben Barnicoat, deux pilotes expérimentés de la catégorie GT3.",
+      "summary_en": "Max Verstappen, Formula 1 driver, will take the wheel of the No. 3 Mercedes-AMG GT3 EVO at Portimão, alongside experienced GT3 drivers Chris Lulham and Ben Barnicoat."
+    },
+    {
+      "id": "b61a66335e2c",
+      "title": "Max Verstappen vs Valentino Rossi: How their GT3 cars compare",
+      "title_fr": "Max Verstappen vs Valentino Rossi: How their GT3 cars compare",
+      "title_en": "Max Verstappen vs Valentino Rossi: How their GT3 cars compare",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-vs-valentino-rossi-how-their-gt3-cars-compare/10865344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAo3g0/s6/untitled-design-26-3.jpg",
+      "published_at": "2026-10-15T11:15:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen's Mercedes-AMG and Valentino Rossi's BMW is very different cars with a different number of turbos and a totally different soundtrack. But the rulebook is designed to make them equally f",
+      "summary_en": "Max Verstappen's Mercedes-AMG and Valentino Rossi's BMW is very different cars with a different number of turbos and a totally different soundtrack. But the rulebook is designed to make them equally f"
     },
     {
       "id": "cfcbc2e87656",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Red Bull a admis que son moteur développé en interne n'est qu'à 40-50% de son potentiel complet, ce qui reste encore beaucoup à faire avant d'être compétitif.",
       "summary_en": "Red Bull admitted its in-house engine is only 40-50% toward full potential, signalling that it still has a long way to go before it can compete."
-    },
-    {
-      "id": "57b58c6309ed",
-      "title": "Formula 1 teams need decision ‘by mid-October’ on whether final races will go ahead | Formula 1",
-      "title_fr": "Formula 1 teams need decision ‘by mid-October’ on whether final races will go ahead | Formula 1",
-      "title_en": "Formula 1 teams need decision ‘by mid-October’ on whether final races will go ahead | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/14/formula-1-teams-need-decision-on-whether-final-races-will-go-ahead-by-mid-october/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-30-19-03-20-10-2249194246.jpg",
-      "published_at": "2026-10-14T00:01:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 team bosses say they need to know by the middle of this month whether the series' final two races will go ahead as planned.",
-      "summary_en": "Formula 1 team bosses say they need to know by the middle of this month whether the series' final two races will go ahead as planned."
-    },
-    {
-      "id": "4fa3d07e93ab",
-      "title": "Zara launches new Ayrton Senna clothing collection inspired by F1 legend",
-      "title_fr": "Zara lance une collection inspirée d’Ayrton Senna",
-      "title_en": "Zara launches new Ayrton Senna clothing collection",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/zara-launches-new-ayrton-senna-clothing-collection-inspired-by-f1-legend/10865047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2dEo3GBY/s6/untitled-design-16-2.jpg",
-      "published_at": "2026-10-13T23:51:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Zara a dévoilé la collection « Ayrton Senna – Senna Brands », disponible dès aujourd’hui dans ses magasins et en ligne, dans plusieurs pays.",
-      "summary_en": "Zara has unveiled the Ayrton Senna – Senna Brands collection, now available in stores and online across the UK, Brazil, the US, Portugal and Spain."
-    },
-    {
-      "id": "ac0c8df7a176",
-      "title": "Lando Norris makes big business move with investment in £500m hospitality company",
-      "title_fr": "Norris investit dans Seat Unique, société de VIP",
-      "title_en": "Norris invests in Seat Unique, VIP experience provider",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-makes-big-business-move-with-investment-in-500m-hospitality-company/10865045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vq4W6/s6/untitled-design-2026-10-14t001-2.jpg",
-      "published_at": "2026-10-13T23:19:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote McLaren Lando Norris a pris une participation dans Seat Unique, une société britannique de billetterie et d’expériences VIP, dans le cadre d’un tour de financement de 20 millions de livres sterling.",
-      "summary_en": "McLaren driver Lando Norris has taken a stake in Seat Unique, a UK-based ticketing and VIP experience provider, as part of a £20 million funding round."
-    },
-    {
-      "id": "0872ddbb443a",
-      "title": "The watches worn at the Singapore GP: From $400 to $430,000",
-      "title_fr": "GP de Singapour : montres de 400 à 430 $",
-      "title_en": "Singapore GP watches range from $400 to $430,000",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-watches-worn-at-the-singapore-gp-from-400-to-430000/10865040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/27NolgX0/s6/untitled-design-2026-10-13t233-2.jpg",
-      "published_at": "2026-10-13T22:40:59+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "À Singapour, les pilotes et dirigeants ont arboré des montres allant de 400 $ à 430 000 $, illustrant l’écart de prix spectaculaire dans le paddock.",
-      "summary_en": "At Singapore, drivers and team leaders wore watches ranging from $400 to $430,000, highlighting the dramatic price gap in the paddock."
     }
   ]
 }
