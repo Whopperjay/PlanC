@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-15T14:06:33Z",
+  "last_updated": "2026-10-15T17:08:53Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5bc1221cc870",
+      "title": "Ayao Komatsu: Rafael Camara chosen for F1 2027 seat on speed, not Ferrari links",
+      "title_fr": "Camara choisi par Haas pour 2027 grâce à sa vitesse",
+      "title_en": "Camara chosen by Haas for 2027 seat on speed",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/komatsu-camara-chosen-for-f1-2027-seat-on-speed-not-ferrari-links/10865447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/25dL7on0/s6/rafael-camara-and-ayao-komatsu.jpg",
+      "published_at": "2026-10-15T16:08:44+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara a été sélectionné par Haas pour la saison 2027 après avoir démontré une vitesse et une adaptabilité supérieures lors des tests avec la voiture 2025. Les concurrents Fornaroli et Hirakawa n'ont pas été retenus.",
+      "summary_en": "Rafael Camara was chosen by Haas for the 2027 seat after showing superior speed and adaptability during tests with the 2025 car. Fornaroli and Hirakawa were not selected."
+    },
+    {
+      "id": "0007fcbdeb19",
+      "title": "Bernie Collins on what Max Verstappen's Singapore radio failure revealed about him",
+      "title_fr": "Verstappen domine à Singapour malgré la panne radio",
+      "title_en": "Verstappen dominates Singapore GP despite radio failure",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/bernie-collins-on-what-max-verstappens-singapore-radio-failure-revealed-about-him/10865430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7BqRO2/s6/untitled-design-50.jpg",
+      "published_at": "2026-10-15T15:06:00+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Bernie Collins félicite Max Verstappen pour sa domination du Grand Prix de Singapour, même après une panne radio unidirectionnelle. Le pilote a remporté le sprint et le GP, gardant la tête malgré les problèmes de communication.",
+      "summary_en": "Bernie Collins praised Max Verstappen for dominating the Singapore Grand Prix despite a one-way radio failure. Verstappen won the sprint and the main race, maintaining the lead even with communication issues."
+    },
+    {
+      "id": "e915ac02543c",
+      "title": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
+      "title_fr": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
+      "title_en": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNG4x2/s6/untitled-design-30-2.jpg",
+      "published_at": "2026-10-15T15:04:58+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.<br />The Williams F1 team will be putting a painted show car in the ",
+      "summary_en": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.<br />The Williams F1 team will be putting a painted show car in the "
+    },
+    {
+      "id": "33bad72a926e",
+      "title": "Did Haas make the correct decision in signing Rafael Camara for F1 2027?",
+      "title_fr": "Haas signe Rafael Camara pour 2027",
+      "title_en": "Haas signs Rafael Camara for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/did-haas-make-the-correct-decision-in-signing-rafael-camara-for-f1-2027/10865413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6VyKK1lY/s6/rafael-camara-invicta-racing.jpg",
+      "published_at": "2026-10-15T14:15:43+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara, 21 ans, remplace Esteban Ocon chez Haas pour la saison 2027. Le Brésilien a remporté le championnat Formula Regional Europe 2024 et la F3 2025, et mène actuellement la F2.",
+      "summary_en": "Rafael Camara, 21, will replace Esteban Ocon at Haas for the 2027 season. The Brazilian won the 2024 Formula Regional European Championship and the 2025 Formula 3 title, and currently leads the Formula 2 standings."
+    },
     {
       "id": "d02f3aaf31b2",
       "title": "Camara to make F1 debut as Ocon's replacement at Haas in 2027",
@@ -22,6 +98,25 @@
       "summary_en": "Formula 2 champion Rafael Camara will join Haas in 2027, replacing Esteban Ocon. The 21-year-old Brazilian will race alongside Oliver Bearman."
     },
     {
+      "id": "13f277a612b6",
+      "title": "Rafael Camara to replace Esteban Ocon at Haas for F1 2027",
+      "title_fr": "Camara rejoint Haas pour 2027",
+      "title_en": "Camara joins Haas for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/rafael-camara-to-replace-esteban-ocon-at-haas-for-f1-2027/10865192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZZqe2/s6/rafael-camara-invicta-racing.jpg",
+      "published_at": "2026-10-15T14:01:00+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le champion du championnat de Formule 2, Rafael Camara, intégrera l'écurie Haas en 2027, remplaçant Esteban Ocon. Le Brésilien de 21 ans coursera aux côtés d'Oliver Bearman.",
+      "summary_en": "Formula 2 champion Rafael Camara will join Haas for the 2027 season, replacing Esteban Ocon. The 21‑year‑old Brazilian will race alongside Oliver Bearman."
+    },
+    {
       "id": "550858195fa2",
       "title": "Official: Camara to make Formula 1 debut with Haas in 2027 | Formula 1",
       "title_fr": "Camara rejoint Haas pour la saison 2027",
@@ -39,6 +134,101 @@
       "is_breaking": false,
       "summary_fr": "Rafael Camara, pilote du programme junior de Ferrari, s'engage chez Haas pour la saison 2027, aux côtés d'Oliver Bearman.",
       "summary_en": "Rafael Camara, a Ferrari junior program driver, will race for Haas in 2027 alongside Oliver Bearman."
+    },
+    {
+      "id": "5258bb38dfdc",
+      "title": "Lando Norris's business empire explained: Quadrant, LN4 Fusion and Seat Unique",
+      "title_fr": "Norris dévoile son empire commercial : Quadrant, LN4 Fusion et Seat Unique",
+      "title_en": "Norris unveils his business empire: Quadrant, LN4 Fusion and Seat Unique",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norriss-business-empire-explained-quadrant-ln4-fusion-and-seat-unique/10865417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0JXRqrMY/s6/untitled-design-29-2.jpg",
+      "published_at": "2026-10-15T13:55:18+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a élargi son portefeuille avec une marque de jeux, une équipe de course junior et une participation à une plateforme de billetterie. Ces projets montrent son ambition de préparer l'après-F1.",
+      "summary_en": "Lando Norris expands his portfolio with a gaming brand, a junior racing team and a stake in a ticketing platform. These ventures illustrate his plan to build a future beyond Formula One."
+    },
+    {
+      "id": "6a504474be28",
+      "title": "Max Verstappen reflects on \"very special\" Singapore GP moment with Gianpiero Lambiase",
+      "title_fr": "Verstappen qualifie le partage de sa victoire à Singapour de très spécial",
+      "title_en": "Verstappen calls sharing Singapore win with Lambiase very special",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-reflects-on-very-special-singapore-gp-moment-with-gianpiero-lambiase/10865394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0qgKo38Y/s6/untitled-design-49.jpg",
+      "published_at": "2026-10-15T13:08:21+00:00",
+      "race_id": "netherlands",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a qualifié le partage de sa première victoire à Singapour avec son ingénieur de course sortant, Gianpiero Lambiase, comme très spécial. Il a également obtenu la pole pour le sprint et le Grand Prix, remportant les deux courses.",
+      "summary_en": "Verstappen calls sharing his first Singapore win with departing race engineer Gianpiero Lambiase very special. He also secured pole for both the sprint and the Grand Prix, winning both races."
+    },
+    {
+      "id": "53a90f758a03",
+      "title": "Christian Horner takes cheeky swipe at Guenther Steiner: 'He never achieved an F1 podium'",
+      "title_fr": "Horner raide sur Steiner : « Il n’a jamais eu de podium »",
+      "title_en": "Horner snubs Steiner: 'He never had a podium'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-takes-cheeky-swipe-at-guenther-steiner-he-never-achieved-an-f1-podium/10865132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0a9eqzk0/s6/guenther-steiner-team-principa.jpg",
+      "published_at": "2026-10-15T12:46:33+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a critiqué Guenther Steiner, ancien directeur de Haas, en le qualifiant de « sans podium » malgré sa notoriété sur Netflix. Le commentaire souligne la différence entre la popularité et les résultats.",
+      "summary_en": "Christian Horner criticized former Haas boss Guenther Steiner, calling him a 'podium-less' figure despite his Netflix fame. The remark highlights the gap between popularity and on-track success."
+    },
+    {
+      "id": "069d4d6e629b",
+      "title": "Every Record Kimi Antonelli breaks if he wins the F1 title in Austin",
+      "title_fr": "Antonelli pourrait devenir champion à Austin",
+      "title_en": "Antonelli could become champion at Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/every-record-kimi-antonelli-breaks-if-he-wins-f1-title-in-austin/10865385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YN7vqAa6/s6/untitled-design-28-2.jpg",
+      "published_at": "2026-10-15T12:44:03+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Si Kimi Antonelli remporte le Grand Prix des États-Unis, il deviendra le plus jeune champion du monde de Formule 1 et rompt le blocage de 73 ans des champions italiens. Il le ferait à 20 ans, en deuxième saison.",
+      "summary_en": "If Kimi Antonelli wins the United States Grand Prix, he will become the youngest Formula 1 world champion and end a 73-year drought of Italian champions. He would do it at 20, in just his second season."
+    },
+    {
+      "id": "8c295986982c",
+      "title": "Lando Norris slammed by Guenther Steiner for \"not a world champion move\"",
+      "title_fr": "Lando Norris slammed by Guenther Steiner for \"not a world champion move\"",
+      "title_en": "Lando Norris slammed by Guenther Steiner for \"not a world champion move\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-slammed-by-guenther-steiner-for-not-a-world-champion-move/10865380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0mXyo356/s6/untitled-design-48.jpg",
+      "published_at": "2026-10-15T12:24:39+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner says 2025 champion Lando Norris's crash with his McLaren team-mate during the Singapore Grand Prix sprint race was \"not a world champion move\".<br",
+      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner says 2025 champion Lando Norris's crash with his McLaren team-mate during the Singapore Grand Prix sprint race was \"not a world champion move\".<br"
     },
     {
       "id": "cfcbc2e87656",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "À Singapour, les pilotes et dirigeants ont arboré des montres allant de 400 $ à 430 000 $, illustrant l’écart de prix spectaculaire dans le paddock.",
       "summary_en": "At Singapore, drivers and team leaders wore watches ranging from $400 to $430,000, highlighting the dramatic price gap in the paddock."
-    },
-    {
-      "id": "e8198215b2ae",
-      "title": "FIA could outlaw Red Bull’s clever sidepod loophole ahead of 2027 season",
-      "title_fr": "FIA interdit la faille aérodynamique de Red Bull avant 2027",
-      "title_en": "FIA bans Red Bull's sidepod loophole ahead of 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zqNX6/s6/untitled-design-2026-10-13t224-2.jpg",
-      "published_at": "2026-10-13T21:50:37+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a décidé de fermer la faille aérodynamique exploitée par Red Bull Racing, mettant fin à l'astuce de sidepod qui a amélioré la performance. La mesure sera effective dès la saison 2027.",
-      "summary_en": "The FIA has decided to close the aerodynamic loophole used by Red Bull Racing, ending the sidepod trick that boosted performance. The rule will take effect from the 2027 season."
-    },
-    {
-      "id": "198d928c9427",
-      "title": "Christian Horner questions Red Bull’s “Maverick” identity under Laurent Mekies",
-      "title_fr": "Horner remet en cause l'identité 'Maverick' de Red Bull",
-      "title_en": "Horner questions Red Bull’s 'Maverick' identity",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-questions-red-bulls-maverick-identity-under-laurent-mekies-era/10864837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/01QNa4o0/s6/untitled-design-2026-10-13t224-3.jpg",
-      "published_at": "2026-10-13T21:41:17+00:00",
-      "race_id": "austria",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner, directeur de Red Bull Racing, exprime des doutes sur la philosophie de l’équipe, qui a longtemps été perçue comme un disrupteur de la F1.",
-      "summary_en": "Christian Horner, Red Bull Racing’s team principal, questions the team’s long‑standing 'Maverick' identity that has defined it as a disruptor in Formula 1."
-    },
-    {
-      "id": "726d1ea6359b",
-      "title": "Featured Comment: F1’s sportswashing roster grows with addition of race in Rwanda | Briefs",
-      "title_fr": "F1 ajoute un Grand Prix au Rwanda, polémique de lavage sportif",
-      "title_en": "F1 adds a Grand Prix in Rwanda, sportswashing controversy",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/13/featured-comment-f1s-sportswashing-roster-grows-with-addition-of-race-in-rwanda/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/04/racefansdotnet-24-04-13-18-00-10-16-2210067920.jpg",
-      "published_at": "2026-10-13T20:09:33+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le Rwanda rejoint le palmarès de F1 en ajoutant un Grand Prix, alimentant les critiques de lavage sportif.",
-      "summary_en": "Rwanda joins F1's roster of Grand Prix, fueling sportswashing criticism."
-    },
-    {
-      "id": "96db218db268",
-      "title": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
-      "title_fr": "Lancement du Grand Prix d’Afrique au Rwanda : Kigali accueille la F1",
-      "title_en": "Rwanda hosts F1 African Grand Prix launch",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0o5AoeaY/s6/stefano-domenicali-at-african-.jpg",
-      "published_at": "2026-10-13T18:19:27+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le président rwandais Paul Kagame a assisté à la présentation du nouveau Grand Prix d’Afrique à Kigali, avec Stefano Domenicali et Mohammed Ben Sulayem. La F1 a signé un accord de 10 ans pour le pays.",
-      "summary_en": "Rwandan President Paul Kagame attended the launch of the new African Grand Prix in Kigali, joined by F1 chief Stefano Domenicali and FIA president Mohammed Ben Sulayem. F1 has signed a 10‑year deal to host the race in Rwanda."
-    },
-    {
-      "id": "06cb2ae648e4",
-      "title": "Five key takeaways from F1's big African Grand Prix reveal in Rwanda",
-      "title_fr": "Rwanda accueille le nouveau Grand Prix africain",
-      "title_en": "Rwanda to host new African Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865012/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AoeaY/s6/stefano-domenicali-at-african-.jpg",
-      "published_at": "2026-10-13T18:19:19+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le président rwandais Paul Kagame, Stefano Domenicali et Mohammed Ben Sulayem ont assisté au lancement du nouveau Grand Prix africain à Kigali. La Formule 1 a signé un accord de 10 ans pour l'événement.",
-      "summary_en": "Rwandan President Paul Kagame, F1 chief Stefano Domenicali and FIA president Mohammed Ben Sulayem attended the launch of the new African Grand Prix in Kigali. Formula 1 signed a 10-year deal to host the event."
-    },
-    {
-      "id": "0db354494515",
-      "title": "GT World Challenge Portimao: All you need to know about season finale featuring Max Verstappen",
-      "title_fr": "Verstappen fait son entrée dans le GT World Challenge Europe",
-      "title_en": "Verstappen to debut in GT World Challenge Europe",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/gtwce-endurance/news/gtwce-europe-max-verstappen-info-debut-portimao/10864990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/b6n4m4w2/s6/gtwc-europe-portimao-alle-infos-zum-finalrennen-mit-max-verstappen-26101301.jpg",
-      "published_at": "2026-10-13T16:23:39+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen fera son premier départ dans le GT World Challenge Europe à Portimão, en prenant le volant de la Verstappen Racing. Les pilotes Daniel Juncadella et Jules Gounon seront absents pour la course WEC à Barcelone.",
-      "summary_en": "Max Verstappen will make his GT World Challenge Europe debut at Portimão, taking the wheel for Verstappen Racing. Daniel Juncadella and Jules Gounon will miss the event as they compete in the rescheduled WEC round in Barcelona."
-    },
-    {
-      "id": "5ed7886cd630",
-      "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
-      "title_fr": "Rwanda choisi pour accueillir le Grand Prix d'Afrique, un tournant majeur",
-      "title_en": "Rwanda chosen to host African Grand Prix, a landmark moment",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c63/live/b5e87b10-c702-11f1-b4dd-e786ec6f11b1.jpg",
-      "published_at": "2026-10-13T15:01:17+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le Rwanda a obtenu le droit d'accueillir le Grand Prix d'Afrique, une décision qui dépasse les échecs du Maroc et de l'Afrique du Sud. Le pays a conclu un accord pour organiser la course.",
-      "summary_en": "Rwanda has secured the right to host the African Grand Prix, a move that outshines Morocco and South Africa's failed bids. The country has signed a deal to stage the race."
-    },
-    {
-      "id": "8bdf3f169fc0",
-      "title": "Cadillac’s F1 brakes are still a problem: ‘I had to lift and coast on lap two’",
-      "title_fr": "Bottas freiné par les problèmes de freinage de Cadillac à Singapour",
-      "title_en": "Bottas hampered by Cadillac brake issues at Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillacs-f1-brakes-are-still-a-problem-i-had-to-lift-and-coast-on-lap-two/10864720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0qgKoQQY/s6/sergio-perez-cadillac-racing.jpg",
-      "published_at": "2026-10-13T14:41:29+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas a de nouveau été freiné par la surchauffe des freins du Cadillac MAC-26 lors du Grand Prix de Singapour. Le pilote estime que la situation est \"presque résolue\", mais les défaillances ont déjà entraîné quatre retirements.",
-      "summary_en": "Valtteri Bottas was again hampered by Cadillac's MAC-26 brake overheating at the Singapore Grand Prix. The driver says the issue is 'almost solved', but the failures have already caused four retirements."
-    },
-    {
-      "id": "02d1f0c59891",
-      "title": "What are 'papaya rules' in Formula 1?",
-      "title_fr": "Les 'règles papaye' expliquées pour McLaren",
-      "title_en": "Explaining McLaren's 'Papaya Rules'",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/crl5ge8dle4o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e37/live/eb202500-a5c8-11f0-928c-71dbb8619e94.jpg",
-      "published_at": "2026-10-13T14:28:10+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les 'règles papaye' sont un ensemble de directives internes de McLaren visant à optimiser la performance des pilotes et de l'équipe. Elles couvrent la gestion des données, la communication et la prise de décision en course.",
-      "summary_en": "The 'Papaya Rules' are McLaren's internal guidelines designed to enhance driver performance and team efficiency. They cover data management, communication protocols, and decision-making processes during races."
-    },
-    {
-      "id": "84c0ccb08fef",
-      "title": "Rwanda to host F1's first race in Africa since 1993",
-      "title_fr": "Le Rwanda s’engage à accueillir la F1 dès le début des années 2030",
-      "title_en": "Rwanda to host F1 races from early 2030s",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ca3/live/0fc085e0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
-      "published_at": "2026-10-13T13:21:02+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le Rwanda a signé un contrat de dix ans avec la Formule 1 pour accueillir des courses sur son territoire, à partir du début des années 2030. C’est la première présence de la F1 en Afrique depuis 1993.",
-      "summary_en": "Rwanda has signed a ten‑year deal with Formula 1 to host races on its soil from the early 2030s, marking the first F1 presence in Africa since 1993."
     }
   ]
 }
