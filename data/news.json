@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-15T11:05:40Z",
+  "last_updated": "2026-10-15T14:06:33Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d02f3aaf31b2",
+      "title": "Camara to make F1 debut as Ocon's replacement at Haas in 2027",
+      "title_fr": "Camara fait ses débuts en F1 chez Haas en 2027",
+      "title_en": "Camara to debut in F1 with Haas in 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/camara-to-make-f1-debut-at-haas-replacing-ocon/10865325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/01WVnzmY/s6/f3-drivers-champion-and-race-w-2.jpg",
+      "published_at": "2026-10-15T14:01:00+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le champion du championnat de Formule 2, Rafael Camara, rejoindra Haas en 2027, remplaçant Esteban Ocon. Le Brésilien de 21 ans sera aux côtés d'Oliver Bearman.",
+      "summary_en": "Formula 2 champion Rafael Camara will join Haas in 2027, replacing Esteban Ocon. The 21-year-old Brazilian will race alongside Oliver Bearman."
+    },
+    {
+      "id": "550858195fa2",
+      "title": "Official: Camara to make Formula 1 debut with Haas in 2027 | Formula 1",
+      "title_fr": "Camara rejoint Haas pour la saison 2027",
+      "title_en": "Camara to join Haas for 2027 season",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/15/official-camara-to-make-formula-1-debut-with-haas-in-2027/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-25-09-24-50-1-19-scuderia-ferrari-bra-gp-friday_ba7d056b-849a-43df-882e-c8e751a706c1.jpg",
+      "published_at": "2026-10-15T14:00:07+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara, pilote du programme junior de Ferrari, s'engage chez Haas pour la saison 2027, aux côtés d'Oliver Bearman.",
+      "summary_en": "Rafael Camara, a Ferrari junior program driver, will race for Haas in 2027 alongside Oliver Bearman."
+    },
     {
       "id": "cfcbc2e87656",
       "title": "Max Verstappen: FAQ on his GTWC Europe debut",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le Rwanda a signé un contrat de dix ans avec la Formule 1 pour accueillir des courses sur son territoire, à partir du début des années 2030. C’est la première présence de la F1 en Afrique depuis 1993.",
       "summary_en": "Rwanda has signed a ten‑year deal with Formula 1 to host races on its soil from the early 2030s, marking the first F1 presence in Africa since 1993."
-    },
-    {
-      "id": "672824a8c29f",
-      "title": "Why McLaren cannot fix its F1 car handling until 2027",
-      "title_fr": "McLaren ne pourra pas améliorer sa manoeuvrabilité avant 2027",
-      "title_en": "McLaren Cannot Fix Car Handling Until 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-for-its-driver-until-2027/10864907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdKNrKY/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-10-13T13:11:51+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique Andrea Stella a déclaré que McLaren ne pourra pas corriger les caractéristiques de maniement de son monoplane sans changements fondamentaux, ce qui ne sera possible qu'en 2027.",
-      "summary_en": "Team principal Andrea Stella said McLaren cannot improve the car's handling without fundamental changes, which won't be possible until 2027."
-    },
-    {
-      "id": "5d49730e8be3",
-      "title": "Why McLaren cannot fix its F1 car handling until 2027",
-      "title_fr": "McLaren ne pourra pas améliorer son comportement de voiture avant 2027",
-      "title_en": "McLaren cannot fix car handling until 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7BNPM2/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": "2026-10-13T13:11:49+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique Andrea Stella a admis que McLaren ne pourra pas améliorer les caractéristiques de maniabilité de son monoplace sans changements fondamentaux, impossibles avant 2027.",
-      "summary_en": "Team principal Andrea Stella admitted McLaren cannot improve its car's handling without fundamental changes, which won't be possible until 2027."
     }
   ]
 }
