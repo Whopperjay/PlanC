@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-15T05:04:02Z",
+  "last_updated": "2026-10-15T08:04:28Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ccd51d529f65",
+      "title": "Colapinto tells his supporters to stop abusing rival drivers: “They don’t help me” | Formula 1",
+      "title_fr": "Colapinto demande aux fans d'arrêter d'insulter les rivaux",
+      "title_en": "Colapinto urges fans to stop abusing rivals",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/15/colapinto-tells-his-supporters-to-stop-abusing-rival-drivers-they-dont-help-me/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/08/2025-05-18_132011.jpg",
+      "published_at": "2026-10-15T07:47:03+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Franco Colapinto a appelé ses supporters à cesser d'insulter ses concurrents et les autres participants de la série sur les réseaux sociaux.",
+      "summary_en": "Driver Franco Colapinto has urged his fans to stop abusing rivals and other participants in the series online."
+    },
+    {
+      "id": "a3ae6e0fa8c6",
+      "title": "The F1 pit stop that helped save lives",
+      "title_fr": "Un arrêt technique en Formule 1 qui sauve des vies",
+      "title_en": "An F1 pit stop that saves lives",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89b3/live/288628a0-c7cd-11f1-9e10-4dcbd31d4273.jpg",
+      "published_at": "2026-10-15T05:56:53+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Un arrêt technique en Formule 1 a inspiré des améliorations dans les soins hospitaliers, réduisant les temps de réponse et sauvant des vies depuis. Les protocoles de secours ont été révisés à la lumière de cette expérience.",
+      "summary_en": "An F1 pit stop inspired changes in hospital care, cutting response times and saving lives ever since. Protocols were revised after the event."
+    },
     {
       "id": "449c4498f0ea",
       "title": "Christian Horner wanted Fernando Alonso and Charles Leclerc at Red Bull",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 a annoncé un contrat de dix ans pour organiser un Grand Prix au Rwanda, marquant son retour sur le continent africain depuis 1993. La course débutera dès le début des années 2030.",
       "summary_en": "Formula 1 has signed a ten-year deal to host a Grand Prix in Rwanda, marking its first race in Africa since 1993. The event will take place in the early 2030s."
-    },
-    {
-      "id": "d8456e5485ea",
-      "title": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
-      "title_fr": "F1 signe un accord historique de 10 ans avec le Rwanda pour un Grand Prix africain",
-      "title_en": "F1 signs historic 10‑year deal with Rwanda for African Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0qgKodEY/s6/kigali-track-2.jpg",
-      "published_at": "2026-10-13T09:20:13+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 a conclu un contrat de 10 ans avec le Rwanda pour accueillir un Grand Prix africain à Kigali, dès 2030. Le circuit naturel, situé à 40 km du centre‑ville, sera construit à côté de l'aéroport international Bugesera.",
-      "summary_en": "Formula 1 has signed a 10‑year deal with Rwanda to host an African Grand Prix in Kigali from 2030. The new natural road course, 40 km south of the capital, will be built beside the under‑construction Bugesera international airport."
-    },
-    {
-      "id": "c9a1c480311f",
-      "title": "F1 signs historic 10-year Rwanda deal to host African Grand Prix",
-      "title_fr": "F1 signe un accord historique de 10 ans avec le Rwanda pour un Grand Prix africain",
-      "title_en": "F1 signs historic 10-year deal with Rwanda for African Grand Prix",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2GdKqV1Y/s6/rwanda-f1-track-for-african-gp-3.jpg",
-      "published_at": "2026-10-13T09:20:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "La Fédération de la Formule 1 et le gouvernement rwandais ont conclu un contrat de 10 ans pour accueillir un Grand Prix africain à Kigali, la première édition prévue en 2030.",
-      "summary_en": "Formula 1 and the Rwandan government have signed a 10-year deal to host an African Grand Prix in Kigali, with the first race slated for 2030."
     }
   ]
 }
