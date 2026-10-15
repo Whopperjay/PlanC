@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-10-15T08:04:28Z",
+  "last_updated": "2026-10-15T11:05:40Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "cfcbc2e87656",
+      "title": "Max Verstappen: FAQ on his GTWC Europe debut",
+      "title_fr": "Verstappen fait ses débuts en GTWC Europe à Portimão",
+      "title_en": "Verstappen makes his GTWC Europe debut in Portimão",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-faq-on-his-gtwc-europe-debut/10865181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/n6g414b0/s6/max-verstappen-faq-zu-seinem-start-in-der-gtwc-europe-26101402.jpg",
+      "published_at": "2026-10-15T10:09:31+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le champion du monde de Formule 1, Max Verstappen, s'apprête à débuter en GT World Challenge Europe lors de la finale de la saison à Portimão. Le pilote Red Bull retournera dans le cockpit de la Mercedes-AMG GT3.",
+      "summary_en": "Four-time Formula One world champion Max Verstappen is set to debut in the GT World Challenge Europe during this weekend's season finale in Portimão. The Red Bull driver will return to the cockpit of the Mercedes-AMG GT3."
+    },
+    {
+      "id": "8e42b199386a",
+      "title": "George Russell forced to race with used Mercedes parts after Singapore GP crash",
+      "title_fr": "Russell contraint de rouler avec des pièces usagées après l'accident de Singapour",
+      "title_en": "Russell forced to race on used Mercedes parts after Singapore crash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russells-singapore-sprint-crash-forced-mercedes-to-use-second-hand-parts/10865313/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7BqAO2/s6/untitled-design-25-3.jpg",
+      "published_at": "2026-10-15T10:05:02+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": true,
+      "summary_fr": "George Russell a dû se contenter de pièces usagées de Mercedes après un accident de sprint à Singapour, entraînant un retard de 60 places et des problèmes de freinage.",
+      "summary_en": "George Russell was forced to use second‑hand Mercedes parts after a sprint crash in Singapore, suffering a 60‑place penalty and brake issues."
+    },
+    {
+      "id": "30a04dbc3dae",
+      "title": "Red Bull reveals striking white F1 race suits for US GP as fans call for matching livery",
+      "title_fr": "Red Bull dévoile des combinaisons blanches pour le Grand Prix des États-Unis",
+      "title_en": "Red Bull unveils white race suits for US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-reveals-striking-white-f1-race-suits-for-us-gp-as-fans-call-for-matching-livery/10865331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/25dL7mn0/s6/untitled-design-47.jpg",
+      "published_at": "2026-10-15T09:38:09+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a présenté des combinaisons blanches pour le prochain Grand Prix des États-Unis à Austin, laissant entendre qu’une version unique pourrait être introduite au Circuit des Amériques.",
+      "summary_en": "Red Bull has unveiled all-white race suits for the upcoming United States Grand Prix in Austin, hinting that a one-off livery could also appear at the Circuit of the Americas."
+    },
+    {
+      "id": "fcb7da910f00",
+      "title": "McLaren’s Oscar Piastri conquers the dirt in F1 and MotoGP crossover",
+      "title_fr": "Piastri conquiert la terre dans un croisement F1-MotoGP",
+      "title_en": "Piastri conquers dirt in F1-MotoGP crossover",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclarens-oscar-piastri-conquers-the-dirt-in-high-stakes-f1-and-motogp-crossover/10865289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNGWx2/s6/untitled-design-24.jpg",
+      "published_at": "2026-10-15T09:35:02+00:00",
+      "race_id": "monaco",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri, pilote McLaren, a affronté un véhicule tout-terrain contre le champion MotoGP Pedro Acosta, démontrant son esprit de compétition hors circuit.",
+      "summary_en": "McLaren's Oscar Piastri faced a dirt buggy against MotoGP star Pedro Acosta, showcasing his competitive spirit off the track."
+    },
+    {
+      "id": "989a57fb0dea",
+      "title": "George Russell targets US race for looming Mercedes engine grid penalty",
+      "title_fr": "Russell vise Las Vegas pour éviter la pénalité de grille",
+      "title_en": "Russell targets Las Vegas to dodge grid penalty",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-targets-las-vegas-gp-for-looming-mercedes-engine-grid-penalty/10865295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgomOY/s6/untitled-design-23-3.jpg",
+      "published_at": "2026-10-15T08:29:43+00:00",
+      "race_id": "uk",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "George Russell cherche à éviter la pénalité de grille de 60 places à Las Vegas, après son énorme chute à Singapour. Le pilote britannique veut rester loin du dos de la grille.",
+      "summary_en": "George Russell is targeting the Las Vegas GP to avoid a 60-place grid penalty after the massive drop at Singapore. The British driver wants to stay far from the back of the grid."
+    },
+    {
+      "id": "835de627d4e9",
+      "title": "Christian Horner admits that F1 rivalry with Toto Wolff became \"theatre\"",
+      "title_fr": "Horner avoue que la rivalité avec Wolff est devenue théâtre",
+      "title_en": "Horner admits F1 rivalry with Wolff turned into theatre",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-admits-that-f1-rivalry-with-toto-wolff-became-theatre/10865113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0qXVaG86/s6/toto-wolff-team-principal-and-.jpg",
+      "published_at": "2026-10-15T08:08:35+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a admis que la rivalité entre Red Bull et Mercedes s’est transformée en véritable théâtre, tout en affirmant qu’elle reste authentique. Les deux équipes ont dominé les championnats depuis 2010.",
+      "summary_en": "Christian Horner admitted that the rivalry between Red Bull and Mercedes has become a kind of theatre, yet he insists it remains authentic. The two teams have dominated the championships since 2010."
+    },
     {
       "id": "ccd51d529f65",
       "title": "Colapinto tells his supporters to stop abusing rival drivers: “They don’t help me” | Formula 1",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur technique Andrea Stella a admis que McLaren ne pourra pas améliorer les caractéristiques de maniabilité de son monoplace sans changements fondamentaux, impossibles avant 2027.",
       "summary_en": "Team principal Andrea Stella admitted McLaren cannot improve its car's handling without fundamental changes, which won't be possible until 2027."
-    },
-    {
-      "id": "2e9974b08720",
-      "title": "Kim Kardashian revives hilarious F1 towel drama with Mercedes' Kimi Antonelli",
-      "title_fr": "Kim Kardashian ravive le drame de serviette à Singapour",
-      "title_en": "Kim Kardashian revives towel drama at Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kim-kardashian-revives-hilarious-f1-towel-drama-with-mercedes-star-kimi-antonelli/10864866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq83bL6/s6/untitled-design-2026-10-13t140-3.jpg",
-      "published_at": "2026-10-13T13:06:26+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kim Kardashian a ravivé le drame de serviette à Singapour en rencontrant le jeune champion Mercedes, Kimi Antonelli, alors qu'elle soutenait Lewis Hamilton de Ferrari.",
-      "summary_en": "Kim Kardashian revived the towel drama at the Singapore Grand Prix by meeting Mercedes' young champion Kimi Antonelli while cheering for Ferrari's Lewis Hamilton."
-    },
-    {
-      "id": "059c0d163bfd",
-      "title": "Christian Horner clears air on “dream job” Ferrari rumours and sets return terms",
-      "title_fr": "Horner dissipe les rumeurs de Ferrari",
-      "title_en": "Horner clears Ferrari rumours",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9Eqj1Y/s6/untitled-design-2026-10-13t135-2.jpg",
-      "published_at": "2026-10-13T12:51:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a déclaré que les rumeurs de son passage à Ferrari étaient infondées et a précisé les conditions de son retour chez Red Bull.",
-      "summary_en": "Christian Horner dismissed Ferrari rumors as unfounded and outlined the terms for his return to Red Bull."
-    },
-    {
-      "id": "4bda0d9708e5",
-      "title": "Toto Wolff spotted cruising Monaco in a $10million Mercedes Unicorn",
-      "title_fr": "Toto Wolff spotted cruising Monaco in a $10million Mercedes Unicorn",
-      "title_en": "Toto Wolff spotted cruising Monaco in a $10million Mercedes Unicorn",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-spotted-cruising-monaco-in-a-10-million-mercedes-unicorn/10864881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/24QGgDAY/s6/untitled-design-2026-10-13t123-3.jpg",
-      "published_at": "2026-10-13T11:32:51+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Managing the immense pressure of a Formula 1 championship battle requires finding ways to disconnect between race weekends. For Mercedes team principal Toto Wolff, unwinding ahead of the United States",
-      "summary_en": "Managing the immense pressure of a Formula 1 championship battle requires finding ways to disconnect between race weekends. For Mercedes team principal Toto Wolff, unwinding ahead of the United States"
-    },
-    {
-      "id": "8c5cb41e499f",
-      "title": "Classic F1 turns Port of Nice into street circuit for Bradley Cooper's \"Ocean's\" Prequel",
-      "title_fr": "Classic F1 transforme le port de Nice en circuit urbain pour le préquel d'Ocean's",
-      "title_en": "Classic F1 turns Port of Nice into street circuit for Ocean's prequel",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/classic-f1-turns-port-of-nice-into-street-circuit-for-bradley-coopers-oceans-prequel/10864892/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0LdeKMJ0/s6/untitled-design-2026-10-13t122-2.jpg",
-      "published_at": "2026-10-13T11:29:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Des voitures de Formule 1 classiques roulent autour du port de Nice, qui devient circuit urbain pour le préquel d'Ocean's de Bradley Cooper.",
-      "summary_en": "Classic Formula 1 cars race around Nice's port, turned into a street circuit for Bradley Cooper's Ocean's prequel."
-    },
-    {
-      "id": "04135707bc3f",
-      "title": "Christian Horner blames Dietrich Mateschitz’s death for the “painful” end of his F1 reign",
-      "title_fr": "Horner blâme la mort de Mateschitz pour son départ",
-      "title_en": "Horner blames Mateschitz’s death for his Red Bull exit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-blames-dietrich-mateschitzs-death-for-the-painful-end-of-his-f1-reign/10864830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmAoO40/s6/untitled-design-2026-10-13t105-2.jpg",
-      "published_at": "2026-10-13T09:54:44+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner explique que la mort de Dietrich Mateschitz a conduit à son licenciement de Red Bull Racing en juillet 2025. Le directeur général affirme que la perte de l’investisseur a fragilisé la structure de l’équipe.",
-      "summary_en": "Christian Horner says Dietrich Mateschitz’s death triggered his July 2025 dismissal from Red Bull Racing. The team principal claims the loss of the investor weakened the organisation, leading to his abrupt exit."
-    },
-    {
-      "id": "34796466f1a9",
-      "title": "Formula 1 announces it will race in Rwanda from “early 2030s” | Formula 1",
-      "title_fr": "F1 s'apprête à revenir en Afrique avec un Grand Prix rwandais",
-      "title_en": "F1 to race in Rwanda from early 2030s",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/13/formula-1-announces-it-will-race-in-rwanda-from-early-2030s/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-13-10-26-19-1-rwanda.jpg",
-      "published_at": "2026-10-13T09:31:54+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 a annoncé un contrat de dix ans pour organiser un Grand Prix au Rwanda, marquant son retour sur le continent africain depuis 1993. La course débutera dès le début des années 2030.",
-      "summary_en": "Formula 1 has signed a ten-year deal to host a Grand Prix in Rwanda, marking its first race in Africa since 1993. The event will take place in the early 2030s."
     }
   ]
 }
