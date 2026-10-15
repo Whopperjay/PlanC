@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-15T20:09:45Z",
+  "last_updated": "2026-10-15T23:10:35Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2fff6502b2da",
+      "title": "On This Day: Stroll wins final race before becoming a Formula 1 driver | Brief",
+      "title_fr": "Stroll remporte sa dernière course avant d'entrer en F1",
+      "title_en": "Stroll wins final race before joining F1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/16/on-this-day-european-formula-three-hockenheimring-race-three/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2021/07/racefansdotnet-21-05-22-11-44-53-1.jpg",
+      "published_at": "2026-10-15T23:01:00+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Stroll a remporté sa dernière course avant de rejoindre la Formule 1. Sa victoire marque la fin de sa carrière de pré‑F1.",
+      "summary_en": "Stroll clinched his final pre‑F1 race, sealing the end of his pre‑F1 career before stepping into Formula 1."
+    },
+    {
+      "id": "f8127c3aace8",
+      "title": "Valtteri Bottas makes surprising Mercedes comparison as Cadillac builds F1 future",
+      "title_fr": "Bottas compare Cadillac à Mercedes, affirme supériorité des installations",
+      "title_en": "Bottas compares Cadillac to Mercedes, claims better facilities",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/25dL7Dn0/s6/untitled-design-35-2.jpg",
+      "published_at": "2026-10-15T21:42:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Valtteri Bottas, ancien pilote Mercedes, déclare que les installations de Cadillac surpassent celles de Brackley, malgré l'absence de points cette saison. Le pilote souligne la supériorité des infrastructures de la marque américaine.",
+      "summary_en": "Valtteri Bottas, former Mercedes driver, says Cadillac's facilities outshine those of Brackley, even though the team has yet to score points this season. The driver highlights the American marque's superior infrastructure."
+    },
+    {
+      "id": "2edbe0b1b692",
+      "title": "F1 could make call to move finale to Imola as late as ‘mid-November’ – report | Briefs",
+      "title_fr": "F1 pourrait déplacer la finale à Imola jusqu'à mi‑novembre",
+      "title_en": "F1 could move finale to Imola as late as mid‑November",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/15/f1-could-make-call-to-move-finale-to-imola-as-late-as-mid-november-report/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-15-10-12-39-20-testpirelliimola-lewishamilton4.jpg",
+      "published_at": "2026-10-15T21:23:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Selon un rapport, la Formule 1 pourrait reporter la finale à Imola jusqu'à la mi‑novembre, laissant la décision aux organisateurs.",
+      "summary_en": "According to a report, Formula 1 could postpone the finale to Imola until mid‑November, leaving the decision to the organisers."
+    },
     {
       "id": "5bc1221cc870",
       "title": "Ayao Komatsu: Rafael Camara chosen for F1 2027 seat on speed, not Ferrari links",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote de Formule 1 Bottas a declare que l usine de Cadillac offre des installations superieures a celles de Mercedes. Cette remarque soulve des questions sur les infrastructures des constructeurs.",
       "summary_en": "Valtteri Bottas said that Cadillac's factory has better facilities than Mercedes'. The comment raises questions about the infrastructure of the constructors."
-    },
-    {
-      "id": "7c04eba48542",
-      "title": "‘I’m sideways all the time’ – How Alpine’s feral F1 car plagued Pierre Gasly in Singapore",
-      "title_fr": "Gasly dénonce le comportement erratique de l'Alpine à Singapour",
-      "title_en": "Gasly blames Alpine car's erratic behaviour in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/im-sideways-all-the-time-how-alpines-feral-f1-car-plagued-pierre-gasly-in-singapore/10864744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6grQGV7Y/s6/pierre-gasly-alpine.jpg",
-      "published_at": "2026-10-14T09:19:00+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Pierre Gasly a expliqué les problèmes de comportement de l'Alpine lors du Grand Prix de Singapour, où il n'a pas réussi à marquer de points malgré une place de septième sur le grid.",
-      "summary_en": "Pierre Gasly explained the erratic behaviour of the Alpine car at the Singapore Grand Prix, where he failed to score points despite starting seventh on the grid."
-    },
-    {
-      "id": "d000ecd72868",
-      "title": "“Just a disaster” – How Isack Hadjar’s nightmare Singapore F1 weekend unfolded",
-      "title_fr": "Hadjar subit un week-end catastrophique à Singapour",
-      "title_en": "Hadjar suffers disastrous weekend in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/just-a-disaster-how-isack-hadjars-nightmare-singapore-f1-weekend-unfolded/10864759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8y786/s6/isack-hadjar-red-bull-racing-2.jpg",
-      "published_at": "2026-10-14T08:06:40+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a connu un week-end désastreux à Singapour, avec une première séance de pratique en 8e position et des problèmes de freinage et de pédale de gaz.",
-      "summary_en": "Isack Hadjar endured a disastrous weekend in Singapore, starting FP1 in eighth place and complaining about excessive braking and a slippery throttle."
-    },
-    {
-      "id": "b461414d4993",
-      "title": "Red Bull sends warning to F1 rivals with engine development admission",
-      "title_fr": "Red Bull avertit la grille sur son moteur maison",
-      "title_en": "Red Bull warns rivals on in-house engine progress",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-sends-warning-to-f1-rivals-with-engine-development-admission/10865049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0qgKovBY/s6/untitled-design-18-2.jpg",
-      "published_at": "2026-10-14T00:42:06+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a admis que son moteur développé en interne n'est qu'à 40-50% de son potentiel complet, ce qui reste encore beaucoup à faire avant d'être compétitif.",
-      "summary_en": "Red Bull admitted its in-house engine is only 40-50% toward full potential, signalling that it still has a long way to go before it can compete."
     }
   ]
 }
