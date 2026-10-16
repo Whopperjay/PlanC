@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-10-16T08:11:13Z",
+  "last_updated": "2026-10-16T11:12:35Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "05b23f59a8b6",
+      "title": "Why Toto Wolff wore two watches at the Singapore Grand Prix",
+      "title_fr": "Wolff porte deux montres à Singapour pour suivre les fuseaux horaires",
+      "title_en": "Wolff wears two watches at Singapore GP to keep track of time zones",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-toto-wolff-wore-two-watches-at-the-singapore-grand-prix/10865603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0Zq83O86/s6/untitled-design-38-2.jpg",
+      "published_at": "2026-10-16T11:00:32+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a arboré deux montres à Singapour, l'une réglée sur l'heure locale et l'autre sur l'heure européenne, afin de gérer les fuseaux horaires pendant la course.",
+      "summary_en": "Toto Wolff wore two watches at the Singapore Grand Prix, one set to local time and the other to European time, to keep track of time zones during the race."
+    },
+    {
+      "id": "2f5f74af5489",
+      "title": "Who will win this year’s ultimate F1 dream ticket? You decide…",
+      "title_fr": "Qui gagnera le ticket de rêve F1 cette année ?",
+      "title_en": "Who will win the F1 Dream Ticket this year?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YE9EqVPY/s6/heineken-season-ticket-2027.jpg",
+      "published_at": "2026-10-16T11:00:11+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Six candidats issus du Royaume-Uni, de la Nouvelle-Zélande, de Singapour, de la République tchèque et des États-Unis se présentent pour le ticket de rêve F1. Les fans peuvent désormais voter pour choisir le gagnant.",
+      "summary_en": "Six finalists from the UK, New Zealand, Singapore, Czechia and the USA are vying for the Heineken x F1 Season Ticket. Fans can now vote to decide the winner."
+    },
+    {
+      "id": "1bdc22b4bd11",
+      "title": "Who will win this year’s ultimate F1 dream ticket? You decide…",
+      "title_fr": "Qui remportera le ticket de rêve F1 ?",
+      "title_en": "Who Will Win the F1 Dream Ticket?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EqVPY/s6/heineken-season-ticket-2027.jpg",
+      "published_at": "2026-10-16T11:00:05+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Six candidats, issus du Royaume-Uni, de la Nouvelle-Zélande, de Singapour, de la République tchèque et des États-Unis, se présentent pour le ticket de rêve Heineken x F1. Les fans peuvent désormais voter pour choisir le gagnant.",
+      "summary_en": "Six finalists from the UK, New Zealand, Singapore, Czechia and the USA are vying for the Heineken x F1 Season Ticket. Fans can now vote to decide the winner."
+    },
+    {
+      "id": "b23f34a37496",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "title_fr": "Andrew Benson lance une Q&A hebdomadaire – posez vos questions",
+      "title_en": "Andrew Benson launches weekly Q&A – ask your questions",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": "2026-10-16T10:46:21+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le correspondant F1 Andrew Benson propose une séance de questions-réponses chaque semaine. Les fans sont invités à soumettre leurs questions dès maintenant.",
+      "summary_en": "F1 correspondent Andrew Benson is hosting a weekly Q&A. Fans are encouraged to submit their questions now."
+    },
+    {
+      "id": "2b5d68e65877",
+      "title": "Isack Hadjar on reality of racing alongside \"prime of the prime\" Max Verstappen",
+      "title_fr": "Hadjar se réjouit de partager la piste avec le \"prime du prime\" Verstappen",
+      "title_en": "Hadjar thrilled to race alongside \"prime of the prime\" Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-on-reality-of-racing-alongside-prime-of-the-prime-max-verstappen-/10861847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq83V46/s6/untitled-design-51.jpg",
+      "published_at": "2026-10-16T10:24:51+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar, pilote de Red Bull, se dit très chanceux de courir aux côtés de Max Verstappen, qu’il décrit comme étant à son apogée. Il a récemment prolongé son contrat jusqu’en 2027.",
+      "summary_en": "Red Bull driver Isack Hadjar says he feels very lucky to race alongside Max Verstappen, whom he calls the \"prime of the prime\". He has just extended his contract through 2027."
+    },
+    {
+      "id": "ab66e7c0df57",
+      "title": "Ferrari promotes F2 racer to F1 reserve driver role",
+      "title_fr": "Ferrari nomme Beganovic pilote de réserve F1",
+      "title_en": "Ferrari promotes Beganovic to F1 reserve driver",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-promotes-f2-racer-to-f1-reserve-driver-role/10865590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2wlEdyWY/s6/dino-beganovic-ferrari.jpg",
+      "published_at": "2026-10-16T10:21:30+00:00",
+      "race_id": "italy",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a nommé Dino Beganovic, pilote de l'Académie Ferrari, comme pilote de réserve pour la saison 2027. Le jeune talent, champion de karting en Italie et en Suède, rejoint l’équipe de Formule 1.",
+      "summary_en": "Ferrari has promoted Dino Beganovic, a long-time member of its Driver Academy, to its 2027 Formula 1 reserve driver. The young driver, a former karting champion in Italy and Sweden, will join the team."
+    },
+    {
+      "id": "2990b9b6d6b2",
+      "title": "F2 rebuffs suggestion its title race might be over because of the Iran war",
+      "title_fr": "F2 refuse de suspendre les finales 2026 malgré la guerre en Iran",
+      "title_en": "F2 rejects cancellation of 2026 finale amid Iran war",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/fia-f2/news/f2-rebuffs-suggestion-it-might-already-have-a-2026-champion-because-of-the-iran-war/10865537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAAzN0/s6/rafael-camara-invicta-racing.jpg",
+      "published_at": "2026-10-16T08:10:54+00:00",
+      "race_id": "bahrain",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de la F2, Bruno Michel, a confirmé que les finales 2026 à Qatar et Abu Dhabi ne seront pas annulées, malgré les tensions liées à la guerre en Iran.",
+      "summary_en": "F2 CEO Bruno Michel has confirmed that the 2026 finale races in Qatar and Abu Dhabi will not be cancelled, despite tensions stemming from the Iran war."
+    },
     {
       "id": "f456f3ca61c7",
       "title": "Singapore victory leaves Verstappen one win away from a full set – but not for long | 2026 Singapore Grand Prix stats and facts",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Laurent Mekies a signé un nouveau contrat de directeur de l'équipe Red Bull, le portant jusqu'à la fin de 2031. Il dirigera l'Austroïen pendant au moins six saisons.",
       "summary_en": "Laurent Mekies has signed a new contract as Red Bull's team principal, extending his tenure until the end of 2031. He will lead the Austrian outfit for at least six seasons."
-    },
-    {
-      "id": "0f2883348e4c",
-      "title": "Social Media: Mekies extends contract to lead Red Bull until 2031 | Brief",
-      "title_fr": "Mekies prolonge son contrat avec Red Bull jusqu'en 2031",
-      "title_en": "Mekies extends contract with Red Bull until 2031",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/14/social-media-mekies-extends-contract-to-lead-red-bull-until-2031/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/SI202606260307.jpg",
-      "published_at": "2026-10-14T16:17:44+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Mekies signe un nouveau contrat pour rester chez Red Bull jusqu'en 2031, consolidant son rôle de pilote principal.",
-      "summary_en": "Mekies signs a new deal to stay with Red Bull until 2031, solidifying his role as lead driver."
-    },
-    {
-      "id": "7868185d3318",
-      "title": "Christian Horner reveals why he chose 2021 Abu Dhabi GP to open his memoir",
-      "title_fr": "Horner dévoile le choix du GP d'Abu Dhabi 2021 pour son mémoire",
-      "title_en": "Horner Reveals Why He Opened His Memoir with the 2021 Abu Dhabi GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-why-he-chose-2021-abu-dhabi-gp-to-open-his-memoir/10865209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2wlKwwWY/s6/untitled-design-21-2.jpg",
-      "published_at": "2026-10-14T15:36:19+00:00",
-      "race_id": "abudhabi",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner explique pourquoi il a choisi le Grand Prix d'Abu Dhabi 2021 pour ouvrir son mémoire, rappelant la victoire de Max Verstappen",
-      "summary_en": "Christian Horner explains why he chose the 2021 Abu Dhabi Grand Prix to open his memoir, recalling Max Verstappen's championship win"
-    },
-    {
-      "id": "a575d2bdce1d",
-      "title": "Martin Brundle reacts to \"bizarre\" Lewis Hamilton Singapore GP strategy choice",
-      "title_fr": "Brundle critique la stratégie « bizarre » de Hamilton à Singapour",
-      "title_en": "Brundle calls Hamilton's Singapore strategy \"bizarre\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-reacts-to-bizarre-lewis-hamilton-singapore-gp-strategy-choice/10865194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyooa6/s6/untitled-design-20-3.jpg",
-      "published_at": "2026-10-14T14:22:25+00:00",
-      "race_id": "singapore",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a terminé sixième à Singapour après avoir refusé de faire un arrêt, ce qui a coûté un podium à Ferrari. Martin Brundle a qualifié la décision de stratégie de « bizarre ».",
-      "summary_en": "Lewis Hamilton finished sixth in Singapore after refusing a pit stop, costing Ferrari a podium. Martin Brundle called the strategy decision \"bizarre\"."
-    },
-    {
-      "id": "12e4cb01053a",
-      "title": "Christian Horner opens up on Red Bull F1 exit: “Perhaps it was perceived I had too much influence over the team”",
-      "title_fr": "Horner explique son départ de Red Bull",
-      "title_en": "Horner explains his exit from Red Bull",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-opens-up-on-red-bull-f1-exit-perhaps-it-was-perceived-i-had-too-much-influence-ove/10864999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVjpKlY/s6/christian-horner.jpg",
-      "published_at": "2026-10-14T13:45:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a déclaré que son influence sur l’équipe aurait été perçue comme trop forte, ce qui a conduit à son départ de Red Bull en 2023.",
-      "summary_en": "Christian Horner said his influence over the team was seen as too strong, leading to his 2023 exit from Red Bull."
-    },
-    {
-      "id": "b2701e4fcd82",
-      "title": "Valentino Rossi wary of Max Verstappen threat at Portimao: \"Big problem\"",
-      "title_fr": "Rossi craint la menace de Verstappen à Portimão",
-      "title_en": "Rossi wary of Verstappen threat at Portimão",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/valentino-rossi-wary-of-max-verstappen-threat-at-portimao-big-problem/10865174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LqqrY/s6/untitled-design-19-2.jpg",
-      "published_at": "2026-10-14T13:41:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion MotoGP Valentino Rossi exprime ses inquiétudes face à Max Verstappen, qui débute en GT World Challenge Europe à Portimão. Les deux pilotes se préparent à un duel sur le circuit.",
-      "summary_en": "MotoGP legend Valentino Rossi voices concerns about facing Max Verstappen, who is making his GT World Challenge Europe debut at Portimão. The two drivers are bracing for a showdown on the track."
-    },
-    {
-      "id": "baee83964f17",
-      "title": "Christian Horner reveals secret battle with panic attacks during F1 career",
-      "title_fr": "Horner confie ses attaques de panique",
-      "title_en": "Horner reveals his panic attacks",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-secret-battle-with-panic-attacks-during-high-pressure-f1-career/10864876/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKwvWY/s6/untitled-design-17-2.jpg",
-      "published_at": "2026-10-14T10:52:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner, directeur de Red Bull Racing, a avoué subir des attaques de panique durant sa carrière de F1, révélant la pression intense derrière les podiums.",
-      "summary_en": "Christian Horner, Red Bull Racing's team principal, admitted to experiencing panic attacks during his F1 career, exposing the intense pressure behind the podiums."
-    },
-    {
-      "id": "b39b0e27b514",
-      "title": "Verstappen says Red Bull’s car was “scary” to drive early in 2026 | Formula 1",
-      "title_fr": "Verstappen qualifie la Red Bull de 'terrifiant' en début de saison 2026",
-      "title_en": "Verstappen calls Red Bull car 'scary' early in 2026 season",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/14/verstappen-says-red-bulls-car-was-scary-to-drive-early-in-2026/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-08-07-07-16-1-SI202603080146.jpg",
-      "published_at": "2026-10-14T10:48:46+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a déclaré que la voiture de Red Bull était 'terrifiant' au début de la saison 2026, soulignant les progrès réalisés.",
-      "summary_en": "Max Verstappen said the Red Bull car felt 'scary' early in the 2026 season, highlighting the team's progress."
     }
   ]
 }
