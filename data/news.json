@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-16T11:12:35Z",
+  "last_updated": "2026-10-16T14:13:49Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2cd4f81ea5eb",
+      "title": "F1 fan brings Rwanda's future grand prix circuit to life in \"Assetto Corsa\" simulation",
+      "title_fr": "F1 fan brings Rwanda's future grand prix circuit to life in \"Assetto Corsa\" simulation",
+      "title_en": "F1 fan brings Rwanda's future grand prix circuit to life in \"Assetto Corsa\" simulation",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-fan-brings-rwandas-future-grand-prix-circuit-to-life-in-assetto-corsa-simulation/10865657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0kZXokK6/s6/untitled-design-2026-10-16t145-2.jpg",
+      "published_at": "2026-10-16T13:54:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Within 72 hours of Formula 1 revealing a decade-long deal to race in Africa, footage from a user-created onboard camera recording of Rwanda’s future grand prix venue began circulating online.<br />It’",
+      "summary_en": "Within 72 hours of Formula 1 revealing a decade-long deal to race in Africa, footage from a user-created onboard camera recording of Rwanda’s future grand prix venue began circulating online.<br />It’"
+    },
+    {
+      "id": "33ceabc03197",
+      "title": "Ollie Bearman spotted driving 1,000hp+ Ferrari supercar through Monaco",
+      "title_fr": "Bearman conduit une Ferrari 849 à 1 000 chevaux à Monaco",
+      "title_en": "Bearman drives 1,000hp Ferrari 849 through Monaco",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ollie-bearman-spotted-driving-1000hp-ferrari-supercar-through-monaco/10865638/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zqEm6/s6/untitled-design-2026-10-16t135-2.jpg",
+      "published_at": "2026-10-16T13:01:31+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Haas, Ollie Bearman, a été vu au volant d’une Ferrari 849 Testarossa à plus de 1 000 chevaux, traversant Monaco. La vidéo a suscité plus de 5 600 j'aime.",
+      "summary_en": "Haas driver Ollie Bearman was seen behind the wheel of a 1,000‑hp Ferrari 849 Testarossa, cruising through Monaco. The clip has gathered over 5,600 likes."
+    },
+    {
+      "id": "2a7022bfc899",
+      "title": "The United States Grand Prix is getting a bizarre new attraction",
+      "title_fr": "The United States Grand Prix is getting a bizarre new attraction",
+      "title_en": "The United States Grand Prix is getting a bizarre new attraction",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-united-states-grand-prix-is-getting-a-bizarre-new-attraction/10865626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/25dL7zE0/s6/untitled-design-39-2.jpg",
+      "published_at": "2026-10-16T12:33:56+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 has given us street circuits between casinos, a pitlane tunnel, and a paddock with a fake marina. Now the Circuit of the Americas wants the world's largest cowboy hat, complete with a bar in",
+      "summary_en": "Formula 1 has given us street circuits between casinos, a pitlane tunnel, and a paddock with a fake marina. Now the Circuit of the Americas wants the world's largest cowboy hat, complete with a bar in"
+    },
+    {
+      "id": "aff034c26b47",
+      "title": "Karun Chandhok raises concerns about Mercedes F1 upgrade performance",
+      "title_fr": "Chandhok dénonce les performances de la Mercedes",
+      "title_en": "Chandhok criticises Mercedes' upgrade performance",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/karun-chandhok-raises-concerns-about-mercedes-f1-upgrade-performance/10865623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAokE0/s6/untitled-design-52.jpg",
+      "published_at": "2026-10-16T12:07:19+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Karun Chandhok, ancien pilote et commentateur, estime que la Mercedes doit s'inquiéter de son dernier pack d'upgrade, qui n'a pas apporté l'amélioration attendue.",
+      "summary_en": "Karun Chandhok, former F1 driver and pundit, says Mercedes should be concerned about its latest upgrade package, which failed to deliver the expected performance boost."
+    },
     {
       "id": "05b23f59a8b6",
       "title": "Why Toto Wolff wore two watches at the Singapore Grand Prix",
@@ -229,6 +305,25 @@
       "is_breaking": false,
       "summary_fr": "Rafael Camara a été sélectionné par Haas pour la saison 2027 après avoir démontré une vitesse et une adaptabilité supérieures lors des tests avec la voiture 2025. Les concurrents Fornaroli et Hirakawa n'ont pas été retenus.",
       "summary_en": "Rafael Camara was chosen by Haas for the 2027 seat after showing superior speed and adaptability during tests with the 2025 car. Fornaroli and Hirakawa were not selected."
+    },
+    {
+      "id": "96c099f32668",
+      "title": "The Chequered Flag Podcast",
+      "title_fr": "Podcast Chequered Flag : interview d'Alisha Palmowski",
+      "title_en": "Chequered Flag Podcast: Interview with Alisha Palmowski",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032vkn?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgv8f2.png",
+      "published_at": "2026-10-15T16:00:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Harry Benjamin a interviewé Alisha Palmowski, leader du championnat F1 Academy, pour parler de sa saison. La discussion couvre ses performances, ses objectifs et les défis rencontrés.",
+      "summary_en": "Harry Benjamin interviewed Alisha Palmowski, the F1 Academy champion, discussing her season. The conversation covers her performances, goals, and challenges faced."
     },
     {
       "id": "46b72c48f8a6",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Un arrêt technique en Formule 1 a inspiré des améliorations dans les soins hospitaliers, réduisant les temps de réponse et sauvant des vies depuis. Les protocoles de secours ont été révisés à la lumière de cette expérience.",
       "summary_en": "An F1 pit stop inspired changes in hospital care, cutting response times and saving lives ever since. Protocols were revised after the event."
-    },
-    {
-      "id": "449c4498f0ea",
-      "title": "Christian Horner wanted Fernando Alonso and Charles Leclerc at Red Bull",
-      "title_fr": "Horner voulait Alonso et Leclerc pour Red Bull 2025",
-      "title_en": "Horner wanted Alonso and Leclerc for Red Bull 2025",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-wanted-fernando-alonso-and-charles-leclerc-at-red-bull/10865251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6AlvppoY/s6/untitled-design-22-2.jpg",
-      "published_at": "2026-10-14T18:46:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a déclaré vouloir que Fernando Alonso et Charles Leclerc rejoignent Red Bull en 2025, mais il n'a pas pu les convaincre.",
-      "summary_en": "Christian Horner said he wanted Fernando Alonso and Charles Leclerc to join Red Bull in 2025, but he couldn't persuade them."
-    },
-    {
-      "id": "522e79bc4f0c",
-      "title": "Why Christian Horner banned Mercedes' name as Red Bull built its own F1 engine",
-      "title_fr": "Horner interdit l’usage du nom Mercedes chez Red Bull",
-      "title_en": "Horner bans Mercedes name at Red Bull",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-horner-banned-mercedes-name-as-red-bull-built-its-own-f1-engine/10864996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6zQpajeY/s6/christian-horner-team-principa.jpg",
-      "published_at": "2026-10-14T18:00:02+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a interdit aux employés de la division des moteurs de Red Bull d’utiliser le nom Mercedes. Il explique que cette décision vise à protéger la marque et à éviter toute confusion avec le rival.",
-      "summary_en": "Christian Horner has banned Red Bull powertrain staff from using the Mercedes name, saying the move protects the brand and avoids confusion with the rival."
-    },
-    {
-      "id": "688f9bdaa6f7",
-      "title": "Red Bull F1 boss Mekies gets new deal to 2031",
-      "title_fr": "Mekies prolonge son contrat chez Red Bull jusqu'en 2031",
-      "title_en": "Red Bull's Mekies secures contract extension until 2031",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1rxr0dpno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a86/live/3ed1d980-c7ee-11f1-9bb8-8794f734d112.jpg",
-      "published_at": "2026-10-14T17:02:47+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies, le directeur de l'équipe Red Bull, voit son contrat prolongé jusqu'à la fin de 2031 après avoir succédé à Christian Horner.",
-      "summary_en": "Laurent Mekies, Red Bull's team principal, has his contract extended through the end of 2031 after taking over from Christian Horner."
-    },
-    {
-      "id": "3beee4f2f6e7",
-      "title": "Mekies extends contract as Red Bull's F1 team boss",
-      "title_fr": "Mekies prolonge son contrat chez Red Bull jusqu'en 2031",
-      "title_en": "Mekies extends contract with Red Bull until 2031",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YMXbOEv2/s6/laurent-mekies-red-bull-racing-2.jpg",
-      "published_at": "2026-10-14T16:36:46+00:00",
-      "race_id": "austria",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies, directeur de l'équipe Red Bull, a signé un nouveau contrat qui le lie à l'Austria jusqu'à la fin de 2031. Il succède à Christian Horner après son départ en 2025.",
-      "summary_en": "Laurent Mekies, Red Bull's team principal, has signed a new contract keeping him at the Austrian outfit until the end of 2031. He takes over from Christian Horner after the 2025 departure."
-    },
-    {
-      "id": "dbce5f2d111b",
-      "title": "Laurent Mekies extends contract as Red Bull's F1 team boss",
-      "title_fr": "Mekies prolonge son contrat chez Red Bull jusqu'en 2031",
-      "title_en": "Mekies extends contract with Red Bull until 2031",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGdxeY/s6/laurent-mekies-red-bull-racing.jpg",
-      "published_at": "2026-10-14T16:35:01+00:00",
-      "race_id": "austria",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies a signé un nouveau contrat de directeur de l'équipe Red Bull, le portant jusqu'à la fin de 2031. Il dirigera l'Austroïen pendant au moins six saisons.",
-      "summary_en": "Laurent Mekies has signed a new contract as Red Bull's team principal, extending his tenure until the end of 2031. He will lead the Austrian outfit for at least six seasons."
     }
   ]
 }
