@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-16T17:14:54Z",
+  "last_updated": "2026-10-16T20:15:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "882ff193f98e",
+      "title": "Colapinto urges fans to stop online abuse: “You’re not helping me or my future”",
+      "title_fr": "Colapinto appelle les fans argentins à cesser les abus en ligne",
+      "title_en": "Colapinto urges fans to stop online abuse",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2jEAoKq0/s6/franco-colapinto-alpine-2.jpg",
+      "published_at": "2026-10-16T15:32:39+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Franco Colapinto a demandé aux supporters argentins de cesser les propos haineux qui ont ciblé des officiels, Pierre Gasly et Lando Norris après les courses de Zandvoort, Madrid et Baku.",
+      "summary_en": "Driver Franco Colapinto has asked Argentine fans to stop hateful online comments that targeted officials, Pierre Gasly and Lando Norris after the Zandvoort, Madrid and Baku races."
+    },
     {
       "id": "0b8336ceb83d",
       "title": "Franco Colapinto urges fans to stop the abuse: “You’re not helping me or my future”",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Red Bull a présenté des combinaisons blanches pour le prochain Grand Prix des États-Unis à Austin, laissant entendre qu’une version unique pourrait être introduite au Circuit des Amériques.",
       "summary_en": "Red Bull has unveiled all-white race suits for the upcoming United States Grand Prix in Austin, hinting that a one-off livery could also appear at the Circuit of the Americas."
-    },
-    {
-      "id": "fcb7da910f00",
-      "title": "McLaren’s Oscar Piastri conquers the dirt in F1 and MotoGP crossover",
-      "title_fr": "Piastri conquiert la terre dans un croisement F1-MotoGP",
-      "title_en": "Piastri conquers dirt in F1-MotoGP crossover",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclarens-oscar-piastri-conquers-the-dirt-in-high-stakes-f1-and-motogp-crossover/10865289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNGWx2/s6/untitled-design-24.jpg",
-      "published_at": "2026-10-15T09:35:02+00:00",
-      "race_id": "monaco",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri, pilote McLaren, a affronté un véhicule tout-terrain contre le champion MotoGP Pedro Acosta, démontrant son esprit de compétition hors circuit.",
-      "summary_en": "McLaren's Oscar Piastri faced a dirt buggy against MotoGP star Pedro Acosta, showcasing his competitive spirit off the track."
     }
   ]
 }
