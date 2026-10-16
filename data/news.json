@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-16T05:10:58Z",
+  "last_updated": "2026-10-16T08:11:13Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f456f3ca61c7",
+      "title": "Singapore victory leaves Verstappen one win away from a full set – but not for long | 2026 Singapore Grand Prix stats and facts",
+      "title_fr": "Victoire à Singapour rapproche Verstappen d'un set complet",
+      "title_en": "Singapore win brings Verstappen one race away from a full set",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/16/singapore-victory-leaves-verstappen-one-win-away-from-a-full-set-but-not-for-long/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-29-18-1-SI202610110401.jpg",
+      "published_at": "2026-10-16T06:15:27+00:00",
+      "race_id": "singapore",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a remporté le Grand Prix de Singapour, se rapprochant d'un set complet de victoires. Il ne lui reste plus qu'un circuit à conquérir, mais l'année prochaine trois nouveaux circuits seront disponibles.",
+      "summary_en": "Max Verstappen won the Singapore Grand Prix, moving one race closer to a complete set of victories. He now has only one circuit left to conquer, but next year three new tracks will be added to the calendar."
+    },
     {
       "id": "2fff6502b2da",
       "title": "On This Day: Stroll wins final race before becoming a Formula 1 driver | Brief",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a déclaré que la voiture de Red Bull était 'terrifiant' au début de la saison 2026, soulignant les progrès réalisés.",
       "summary_en": "Max Verstappen said the Red Bull car felt 'scary' early in the 2026 season, highlighting the team's progress."
-    },
-    {
-      "id": "6cceb799b4f9",
-      "title": "Spotlight: Cadillac already has better facilities than Mercedes, says Bottas | Brief",
-      "title_fr": "Bottas affirme que Cadillac pose de meilleures installations que Mercedes",
-      "title_en": "Bottas claims Cadillac has better facilities than Mercedes",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/14/spotlight-cadillac-already-has-better-facilities-than-mercedes-says-bottas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-14-11-15-12-1-CadillacF1Team_16500_HiRes.jpg",
-      "published_at": "2026-10-14T10:22:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote de Formule 1 Bottas a declare que l usine de Cadillac offre des installations superieures a celles de Mercedes. Cette remarque soulve des questions sur les infrastructures des constructeurs.",
-      "summary_en": "Valtteri Bottas said that Cadillac's factory has better facilities than Mercedes'. The comment raises questions about the infrastructure of the constructors."
     }
   ]
 }
