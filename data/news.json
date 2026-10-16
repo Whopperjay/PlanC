@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-16T20:15:38Z",
+  "last_updated": "2026-10-16T23:17:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ad543d0ef1c1",
+      "title": "Bernie Collins warns of growing trust issues between Lewis Hamilton and Ferrari",
+      "title_fr": "Bernie Collins pointe les problèmes de confiance entre Hamilton et Ferrari",
+      "title_en": "Bernie Collins warns of trust issues between Hamilton and Ferrari",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/bernie-collins-warns-of-growing-trust-issues-between-lewis-hamilton-and-ferrari/10865751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmAoeL0/s6/untitled-design-57.jpg",
+      "published_at": "2026-10-16T21:59:48+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Bernie Collins, ancien stratège de Formule 1, affirme que Lewis Hamilton souffre d'un manque de confiance envers la Ferrari après le Grand Prix de Singapour. Le pilote Mercedes, Kimi Antonelli, se rapproche du titre.",
+      "summary_en": "Bernie Collins, former F1 strategist, says Lewis Hamilton is suffering from a lack of trust in Ferrari after Singapore. Mercedes' Kimi Antonelli is closing on the championship."
+    },
+    {
+      "id": "ba4f66c7e019",
+      "title": "Ferrari releases chaotic footage of Lewis Hamilton and Charles Leclerc's social media takeover",
+      "title_fr": "Hamilton et Leclerc prennent d'assaut les réseaux de Ferrari",
+      "title_en": "Hamilton and Leclerc hijack Ferrari's social media",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-releases-chaotic-footage-of-lewis-hamilton-and-charles-leclercs-social-media-takeover/10865748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdKq9rY/s6/untitled-design-56.jpg",
+      "published_at": "2026-10-16T21:21:49+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a publié des images montrant Lewis Hamilton et Charles Leclerc prendre le contrôle des comptes de l'équipe pendant le week-end du Grand Prix de Singapour. Les pilotes ont profité d'une fenêtre de 20 minutes pour publier leurs contenus.",
+      "summary_en": "Ferrari released behind-the-scenes footage showing Lewis Hamilton and Charles Leclerc hijacking the team's social media accounts during the Singapore Grand Prix weekend. The drivers used a 20-minute window to post their own content."
+    },
+    {
+      "id": "5263021212cf",
+      "title": "Liam Lawson unveils limited-edition guitar ahead of Austin live performance",
+      "title_fr": "Liam Lawson dévoile une guitare édition limitée avant son concert à Austin",
+      "title_en": "Liam Lawson unveils limited‑edition guitar ahead of Austin performance",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZXoK86/s6/untitled-design-55.jpg",
+      "published_at": "2026-10-16T20:45:24+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de la Racing Bulls, Liam Lawson, a présenté une guitare signature en collaboration avec Taylor Guitars avant son spectacle live à Austin, prévu le 22 octobre.",
+      "summary_en": "Liam Lawson, Racing Bulls driver, unveiled a signature guitar with Taylor Guitars ahead of his live show in Austin on 22 October."
+    },
     {
       "id": "882ff193f98e",
       "title": "Colapinto urges fans to stop online abuse: “You’re not helping me or my future”",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen's Mercedes-AMG and Valentino Rossi's BMW is very different cars with a different number of turbos and a totally different soundtrack. But the rulebook is designed to make them equally f",
       "summary_en": "Max Verstappen's Mercedes-AMG and Valentino Rossi's BMW is very different cars with a different number of turbos and a totally different soundtrack. But the rulebook is designed to make them equally f"
-    },
-    {
-      "id": "cfcbc2e87656",
-      "title": "Max Verstappen: FAQ on his GTWC Europe debut",
-      "title_fr": "Verstappen fait ses débuts en GTWC Europe à Portimão",
-      "title_en": "Verstappen makes his GTWC Europe debut in Portimão",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-faq-on-his-gtwc-europe-debut/10865181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/n6g414b0/s6/max-verstappen-faq-zu-seinem-start-in-der-gtwc-europe-26101402.jpg",
-      "published_at": "2026-10-15T10:09:31+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le champion du monde de Formule 1, Max Verstappen, s'apprête à débuter en GT World Challenge Europe lors de la finale de la saison à Portimão. Le pilote Red Bull retournera dans le cockpit de la Mercedes-AMG GT3.",
-      "summary_en": "Four-time Formula One world champion Max Verstappen is set to debut in the GT World Challenge Europe during this weekend's season finale in Portimão. The Red Bull driver will return to the cockpit of the Mercedes-AMG GT3."
-    },
-    {
-      "id": "8e42b199386a",
-      "title": "George Russell forced to race with used Mercedes parts after Singapore GP crash",
-      "title_fr": "Russell contraint de rouler avec des pièces usagées après l'accident de Singapour",
-      "title_en": "Russell forced to race on used Mercedes parts after Singapore crash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russells-singapore-sprint-crash-forced-mercedes-to-use-second-hand-parts/10865313/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7BqAO2/s6/untitled-design-25-3.jpg",
-      "published_at": "2026-10-15T10:05:02+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": true,
-      "summary_fr": "George Russell a dû se contenter de pièces usagées de Mercedes après un accident de sprint à Singapour, entraînant un retard de 60 places et des problèmes de freinage.",
-      "summary_en": "George Russell was forced to use second‑hand Mercedes parts after a sprint crash in Singapore, suffering a 60‑place penalty and brake issues."
-    },
-    {
-      "id": "30a04dbc3dae",
-      "title": "Red Bull reveals striking white F1 race suits for US GP as fans call for matching livery",
-      "title_fr": "Red Bull dévoile des combinaisons blanches pour le Grand Prix des États-Unis",
-      "title_en": "Red Bull unveils white race suits for US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-reveals-striking-white-f1-race-suits-for-us-gp-as-fans-call-for-matching-livery/10865331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/25dL7mn0/s6/untitled-design-47.jpg",
-      "published_at": "2026-10-15T09:38:09+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a présenté des combinaisons blanches pour le prochain Grand Prix des États-Unis à Austin, laissant entendre qu’une version unique pourrait être introduite au Circuit des Amériques.",
-      "summary_en": "Red Bull has unveiled all-white race suits for the upcoming United States Grand Prix in Austin, hinting that a one-off livery could also appear at the Circuit of the Americas."
     }
   ]
 }
