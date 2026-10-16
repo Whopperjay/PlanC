@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-16T14:13:49Z",
+  "last_updated": "2026-10-16T17:14:54Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0b8336ceb83d",
+      "title": "Franco Colapinto urges fans to stop the abuse: “You’re not helping me or my future”",
+      "title_fr": "Colapinto appelle les fans à cesser les abus",
+      "title_en": "Colapinto urges fans to stop abuse",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YP74NK32/s6/franco-colapinto-alpine.jpg",
+      "published_at": "2026-10-16T15:29:36+00:00",
+      "race_id": "spain-madrid",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Franco Colapinto a demandé aux supporters argentins d’arrêter les propos haineux qui ont ciblé des officiels, Pierre Gasly et Lando Norris après les courses de Zandvoort, Madrid et Baku.",
+      "summary_en": "Driver Franco Colapinto has asked Argentine fans to stop hateful online comments aimed at officials, Pierre Gasly and Lando Norris following the Zandvoort, Madrid and Baku races."
+    },
+    {
+      "id": "3ba01f57d8b4",
+      "title": "Liam Lawson to perform live music set ahead of F1 United States Grand Prix in Austin",
+      "title_fr": "Liam Lawson se produit à Austin avant le Grand Prix des États-Unis",
+      "title_en": "Liam Lawson to perform live in Austin before US Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-to-perform-live-music-set-ahead-of-f1-united-states-grand-prix-in-austin/10865675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EqrwY/s6/untitled-design-54.jpg",
+      "published_at": "2026-10-16T15:11:06+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote néo-zélandais Liam Lawson se produira en live à Austin, au sein du VCARB Garage Sessions, avant le Grand Prix des États-Unis. Il sera accompagné de son frère Marcus et d'amis d'enfance.",
+      "summary_en": "New Zealand driver Liam Lawson will headline a live VCARB Garage Sessions in Austin before the United States Grand Prix, joined by his brother Marcus and childhood friends."
+    },
+    {
+      "id": "c85bae4b5cfe",
+      "title": "Colton Herta eyes potential Indy 500 return and IMSA enduros as 2027 plans remain in flux",
+      "title_fr": "Herta cible Indy 500 et IMSA 2027",
+      "title_en": "Herta targets Indy 500 and IMSA 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-eyes-potential-indy-500-return-and-imsa-enduros-as-2027-plans-remain-in-flux/10865671/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZgPdKY/s6/colton-herta-hitech-gp.jpg",
+      "published_at": "2026-10-16T14:56:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta, pilote de test Cadillac en F1, n'a pas encore fixé son programme 2027. Il souhaite revenir à l'Indy 500 et aux courses d'endurance IMSA si son calendrier le permet.",
+      "summary_en": "Colton Herta, the Cadillac F1 test driver, has yet to set his 2027 schedule. He aims to return to the Indy 500 and IMSA endurance races if his calendar allows."
+    },
+    {
+      "id": "76c8ab392c80",
+      "title": "Why Mercedes switched George Russell to its old F1 car spec in Singapore",
+      "title_fr": "Mercedes fait revenir Russell à l’ancien modèle à Singapour",
+      "title_en": "Mercedes reverts Russell to old spec in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-mercedes-switched-george-russell-to-its-old-f1-car-spec-in-singapore/10865660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAGaN0/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-10-16T14:14:09+00:00",
+      "race_id": "bahrain",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Après un Bahreïn décevant, Mercedes a choisi de faire revenir George Russell à la version précédente du monocoque pour le Grand Prix de Singapour, espérant regagner en performance.",
+      "summary_en": "After a disappointing Bahrain, Mercedes switched George Russell back to the previous car spec for Singapore, hoping to regain performance."
+    },
     {
       "id": "2cd4f81ea5eb",
       "title": "F1 fan brings Rwanda's future grand prix circuit to life in \"Assetto Corsa\" simulation",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Oscar Piastri, pilote McLaren, a affronté un véhicule tout-terrain contre le champion MotoGP Pedro Acosta, démontrant son esprit de compétition hors circuit.",
       "summary_en": "McLaren's Oscar Piastri faced a dirt buggy against MotoGP star Pedro Acosta, showcasing his competitive spirit off the track."
-    },
-    {
-      "id": "989a57fb0dea",
-      "title": "George Russell targets US race for looming Mercedes engine grid penalty",
-      "title_fr": "Russell vise Las Vegas pour éviter la pénalité de grille",
-      "title_en": "Russell targets Las Vegas to dodge grid penalty",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-targets-las-vegas-gp-for-looming-mercedes-engine-grid-penalty/10865295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgomOY/s6/untitled-design-23-3.jpg",
-      "published_at": "2026-10-15T08:29:43+00:00",
-      "race_id": "uk",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "George Russell cherche à éviter la pénalité de grille de 60 places à Las Vegas, après son énorme chute à Singapour. Le pilote britannique veut rester loin du dos de la grille.",
-      "summary_en": "George Russell is targeting the Las Vegas GP to avoid a 60-place grid penalty after the massive drop at Singapore. The British driver wants to stay far from the back of the grid."
-    },
-    {
-      "id": "835de627d4e9",
-      "title": "Christian Horner admits that F1 rivalry with Toto Wolff became \"theatre\"",
-      "title_fr": "Horner avoue que la rivalité avec Wolff est devenue théâtre",
-      "title_en": "Horner admits F1 rivalry with Wolff turned into theatre",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-admits-that-f1-rivalry-with-toto-wolff-became-theatre/10865113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0qXVaG86/s6/toto-wolff-team-principal-and-.jpg",
-      "published_at": "2026-10-15T08:08:35+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a admis que la rivalité entre Red Bull et Mercedes s’est transformée en véritable théâtre, tout en affirmant qu’elle reste authentique. Les deux équipes ont dominé les championnats depuis 2010.",
-      "summary_en": "Christian Horner admitted that the rivalry between Red Bull and Mercedes has become a kind of theatre, yet he insists it remains authentic. The two teams have dominated the championships since 2010."
-    },
-    {
-      "id": "ccd51d529f65",
-      "title": "Colapinto tells his supporters to stop abusing rival drivers: “They don’t help me” | Formula 1",
-      "title_fr": "Colapinto demande aux fans d'arrêter d'insulter les rivaux",
-      "title_en": "Colapinto urges fans to stop abusing rivals",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/15/colapinto-tells-his-supporters-to-stop-abusing-rival-drivers-they-dont-help-me/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/08/2025-05-18_132011.jpg",
-      "published_at": "2026-10-15T07:47:03+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Franco Colapinto a appelé ses supporters à cesser d'insulter ses concurrents et les autres participants de la série sur les réseaux sociaux.",
-      "summary_en": "Driver Franco Colapinto has urged his fans to stop abusing rivals and other participants in the series online."
-    },
-    {
-      "id": "a3ae6e0fa8c6",
-      "title": "The F1 pit stop that helped save lives",
-      "title_fr": "Un arrêt technique en Formule 1 qui sauve des vies",
-      "title_en": "An F1 pit stop that saves lives",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89b3/live/288628a0-c7cd-11f1-9e10-4dcbd31d4273.jpg",
-      "published_at": "2026-10-15T05:56:53+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Un arrêt technique en Formule 1 a inspiré des améliorations dans les soins hospitaliers, réduisant les temps de réponse et sauvant des vies depuis. Les protocoles de secours ont été révisés à la lumière de cette expérience.",
-      "summary_en": "An F1 pit stop inspired changes in hospital care, cutting response times and saving lives ever since. Protocols were revised after the event."
     }
   ]
 }
