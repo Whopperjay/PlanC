@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-17T17:22:58Z",
+  "last_updated": "2026-10-17T20:23:31Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2d4989e05856",
+      "title": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
+      "title_fr": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
+      "title_en": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/alpines-2024-f1-car-has-been-turned-into-the-ultimate-collectors-display/10865939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPoW50/s6/untitled-design-40.jpg",
+      "published_at": "2026-10-17T17:44:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "A piece of Alpine's 2024 Formula 1 car is about to go up for auction, and it has been turned into something you could actually put in your living room.<br />F1 Authentics, the official memorabilia pla",
+      "summary_en": "A piece of Alpine's 2024 Formula 1 car is about to go up for auction, and it has been turned into something you could actually put in your living room.<br />F1 Authentics, the official memorabilia pla"
+    },
     {
       "id": "5689e96bdf55",
       "title": "Lewis Hamilton's Brazilian GP cap unveiled with release date confirmed",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a remporté le Grand Prix de Singapour, se rapprochant d'un set complet de victoires. Il ne lui reste plus qu'un circuit à conquérir, mais l'année prochaine trois nouveaux circuits seront disponibles.",
       "summary_en": "Max Verstappen won the Singapore Grand Prix, moving one race closer to a complete set of victories. He now has only one circuit left to conquer, but next year three new tracks will be added to the calendar."
-    },
-    {
-      "id": "2fff6502b2da",
-      "title": "On This Day: Stroll wins final race before becoming a Formula 1 driver | Brief",
-      "title_fr": "Stroll remporte sa dernière course avant d'entrer en F1",
-      "title_en": "Stroll wins final race before joining F1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/16/on-this-day-european-formula-three-hockenheimring-race-three/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2021/07/racefansdotnet-21-05-22-11-44-53-1.jpg",
-      "published_at": "2026-10-15T23:01:00+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Stroll a remporté sa dernière course avant de rejoindre la Formule 1. Sa victoire marque la fin de sa carrière de pré‑F1.",
-      "summary_en": "Stroll clinched his final pre‑F1 race, sealing the end of his pre‑F1 career before stepping into Formula 1."
     }
   ]
 }
