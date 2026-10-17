@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-10-17T11:19:38Z",
+  "last_updated": "2026-10-17T14:22:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0d4962c0ce84",
+      "title": "Mercedes shares emotional call between Joshua Durksen and Paraguay president",
+      "title_fr": "Durksen reçoit l'appel du président paraguayen",
+      "title_en": "Durksen receives call from Paraguayan president",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-shares-emotional-call-between-joshua-durksen-and-paraguay-president/10865884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGgoe9Y/s6/untitled-design-62.jpg",
+      "published_at": "2026-10-17T14:15:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Mercedes a partagé un appel vidéo entre le pilote de test Joshua Durksen et le président du Paraguay, Santiago Peña, qui l'a félicité pour son premier essai en Formule 1. Un moment de fierté nationale.",
+      "summary_en": "Mercedes shared a video call between test driver Joshua Durksen and Paraguay’s president, Santiago Peña, who congratulated him on his first Formula 1 test. A proud moment for the country."
+    },
+    {
+      "id": "2414d70359fd",
+      "title": "Mercedes reveals why it rejected the Macarena wing over a year ago",
+      "title_fr": "Mercedes reveals why it rejected the Macarena wing over a year ago",
+      "title_en": "Mercedes reveals why it rejected the Macarena wing over a year ago",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-reveals-why-it-rejected-f1s-macarena-wing-over-a-year-ago/10865869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EqGLY/s6/untitled-design-2026-10-17t145-3.jpg",
+      "published_at": "2026-10-17T14:02:31+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Mercedes Formula 1 team looked at building its own Macarena rear wing long before it was seen running on a circuit by a rival outfit. But according to deputy technical director Simone Resta, it de",
+      "summary_en": "The Mercedes Formula 1 team looked at building its own Macarena rear wing long before it was seen running on a circuit by a rival outfit. But according to deputy technical director Simone Resta, it de"
+    },
+    {
+      "id": "f173df9cfc0a",
+      "title": "What drives Bortoleto as his junior rivals hit new heights in F1",
+      "title_fr": "Bortoleto observe la montée de ses rivaux juniors en F1",
+      "title_en": "Bortoleto watches his junior rivals reach new heights in F1",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/what-drives-bortoleto-as-his-junior-rivals-hit-new-heights-in-f1/10865865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/24vPom46/s6/gabriel-bortoleto-invicta-raci.jpg",
+      "published_at": "2026-10-17T13:15:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Gabriel Bortoleto, qui a battu Kimi Antonelli et Isack Hadjar dans les catégories juniors, observe leurs premiers podiums en Formule 1. Les deux pilotes de sa génération ont brillé sur le circuit, tandis que Bortoleto reste hors de la grille.",
+      "summary_en": "Gabriel Bortoleto, who beat Kimi Antonelli and Isack Hadjar in junior categories, watches their first Formula 1 podiums. The two drivers from his generation have already shone on the track, while Bortoleto remains off the grid."
+    },
+    {
+      "id": "698b8c22f152",
+      "title": "Lando Norris sparks controversy after appearing to mock Lance Stroll in viral video",
+      "title_fr": "Norris déclenche polémique en se moquant de Stroll",
+      "title_en": "Norris sparks controversy by mocking Stroll",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-sparks-controversy-after-appearing-to-mock-lance-stroll-in-viral-video/10865840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2eZxnEpY/s6/untitled-design-2026-10-17t122-2.jpg",
+      "published_at": "2026-10-17T13:05:02+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a déclenché une polémique après avoir semblé se moquer de Lance Stroll dans une vidéo virale diffusée après le Grand Prix de Singapour. Le clip a dépassé trois millions de vues sur X.",
+      "summary_en": "Lando Norris sparked controversy after a clip appeared to show him mocking Lance Stroll during a night out after the Singapore Grand Prix. The video has amassed over three million views on X."
+    },
+    {
+      "id": "14f23ff75d6e",
+      "title": "Gabriel Bortoleto on Kimi Antonelli and Isack Hadjar's F1 success: 'Let's see where we are in 20 years'",
+      "title_fr": "Gabriel Bortoleto on Kimi Antonelli and Isack Hadjar's F1 success: 'Let's see where we are in 20 years'",
+      "title_en": "Gabriel Bortoleto on Kimi Antonelli and Isack Hadjar's F1 success: 'Let's see where we are in 20 years'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-on-kimi-antonelli-and-isack-hadjars-f1-success-lets-see-where-we-are-in-20-years/10865704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/24vPom46/s6/gabriel-bortoleto-invicta-raci.jpg",
+      "published_at": "2026-10-17T13:05:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Gabriel Bortoleto has watched Kimi Antonelli and Isack Hadjar celebrate their first Formula 1 podiums. Both are from his generation of drivers, having competed against him throughout the junior catego",
+      "summary_en": "Gabriel Bortoleto has watched Kimi Antonelli and Isack Hadjar celebrate their first Formula 1 podiums. Both are from his generation of drivers, having competed against him throughout the junior catego"
+    },
+    {
+      "id": "96f1ca554b0d",
+      "title": "Nicki Thiim's cheeky F1 jab: \"Max Verstappen just wants to drive a proper race car!\"",
+      "title_fr": "Thiim se moque de Verstappen lors du GT",
+      "title_en": "Thiim teases Verstappen at GT event",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/gtwce-endurance/news/thiim-stichelt-gegen-f1-verstappen-will-nur-mal-richtiges-rennauto-fahren/10865861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/Q2jgVREY/s6/thiim-stichelt-gegen-f1-verstappen-will-nur-mal-richtiges-rennauto-fahren-26101701.jpg",
+      "published_at": "2026-10-17T13:01:55+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Nicki Thiim, vétéran d’Aston Martin, a taquiné Max Verstappen lors de la finale GT World Challenge Europe à Portimão, soulignant les difficultés de la Formule 1 avec ses nouvelles règles de 2026.",
+      "summary_en": "Nicki Thiim, Aston Martin veteran, teased Max Verstappen during the GT World Challenge Europe finale in Portimão, highlighting F1's struggles with its 2026 power unit regulations."
+    },
+    {
+      "id": "7c824c0e7b71",
+      "title": "Daniel Ricciardo hints at F1 paddock return amid Ford Raptor road trip to Austin",
+      "title_fr": "Daniel Ricciardo hints at F1 paddock return amid Ford Raptor road trip to Austin",
+      "title_en": "Daniel Ricciardo hints at F1 paddock return amid Ford Raptor road trip to Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-hints-at-f1-paddock-return-amid-ford-raptor-road-trip-to-austin/10865852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/25dL7VJ0/s6/untitled-design-61.jpg",
+      "published_at": "2026-10-17T12:16:46+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver Daniel Ricciardo is taking on an intense road trip across America, starting in the Arizona desert for Ford's Raptor Rally this weekend and ending in Austin, Texas, for the Unit",
+      "summary_en": "Former Formula 1 driver Daniel Ricciardo is taking on an intense road trip across America, starting in the Arizona desert for Ford's Raptor Rally this weekend and ending in Austin, Texas, for the Unit"
+    },
+    {
+      "id": "3935310c0dd7",
+      "title": "Red Bull explains how AI is influencing its F1 race strategy",
+      "title_fr": "Red Bull dévoile l'IA qui façonne sa stratégie de course",
+      "title_en": "Red Bull reveals AI shaping its race strategy",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-explains-how-ai-is-influencing-its-f1-race-strategy/10865843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2y7Qwdy6/s6/untitled-design-60.jpg",
+      "published_at": "2026-10-17T11:39:02+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull utilise un système d'intelligence artificielle, développé avec Oracle, qui recommande des actions en temps réel pendant les Grands Prix. Le dispositif, né d'un outil de recherche, aide les ingénieurs à interpréter les règlements et décisions passées.",
+      "summary_en": "Red Bull is using an AI system, built with Oracle, that recommends real‑time actions during Grand Prix races. The tool, originally a search aid for interpreting regulations and past rulings, now guides strategy decisions."
+    },
     {
       "id": "634e133a0013",
       "title": "Max Verstappen unveils special Texas-themed helmet for F1 United States GP",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Rafael Camara a été sélectionné par Haas pour la saison 2027 après avoir démontré une vitesse et une adaptabilité supérieures lors des tests avec la voiture 2025. Les concurrents Fornaroli et Hirakawa n'ont pas été retenus.",
       "summary_en": "Rafael Camara was chosen by Haas for the 2027 seat after showing superior speed and adaptability during tests with the 2025 car. Fornaroli and Hirakawa were not selected."
-    },
-    {
-      "id": "96c099f32668",
-      "title": "The Chequered Flag Podcast",
-      "title_fr": "Podcast Chequered Flag : interview d'Alisha Palmowski",
-      "title_en": "Chequered Flag Podcast: Interview with Alisha Palmowski",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032vkn?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgv8f2.png",
-      "published_at": "2026-10-15T16:00:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Harry Benjamin a interviewé Alisha Palmowski, leader du championnat F1 Academy, pour parler de sa saison. La discussion couvre ses performances, ses objectifs et les défis rencontrés.",
-      "summary_en": "Harry Benjamin interviewed Alisha Palmowski, the F1 Academy champion, discussing her season. The conversation covers her performances, goals, and challenges faced."
-    },
-    {
-      "id": "46b72c48f8a6",
-      "title": "Brazilian Camara to join Haas for F1 debut in 2027",
-      "title_fr": "Camara rejoint Haas pour son entrée en F1 en 2027",
-      "title_en": "Camara joins Haas for F1 debut in 2027",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15jn74l0pdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea0/live/2edf3e60-c874-11f1-971b-634f423608e9.jpg",
-      "published_at": "2026-10-15T15:41:27+00:00",
-      "race_id": "brazil",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le Brésilien Rafael Camara intégrera l'équipe américaine Haas pour sa première saison de Formule 1 en 2027.",
-      "summary_en": "Brazilian Rafael Camara will join the US-based Haas team for his debut Formula 1 season in 2027."
-    },
-    {
-      "id": "0007fcbdeb19",
-      "title": "Bernie Collins on what Max Verstappen's Singapore radio failure revealed about him",
-      "title_fr": "Verstappen domine à Singapour malgré la panne radio",
-      "title_en": "Verstappen dominates Singapore GP despite radio failure",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/bernie-collins-on-what-max-verstappens-singapore-radio-failure-revealed-about-him/10865430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7BqRO2/s6/untitled-design-50.jpg",
-      "published_at": "2026-10-15T15:06:00+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Bernie Collins félicite Max Verstappen pour sa domination du Grand Prix de Singapour, même après une panne radio unidirectionnelle. Le pilote a remporté le sprint et le GP, gardant la tête malgré les problèmes de communication.",
-      "summary_en": "Bernie Collins praised Max Verstappen for dominating the Singapore Grand Prix despite a one-way radio failure. Verstappen won the sprint and the main race, maintaining the lead even with communication issues."
-    },
-    {
-      "id": "e915ac02543c",
-      "title": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
-      "title_fr": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
-      "title_en": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lNG4x2/s6/untitled-design-30-2.jpg",
-      "published_at": "2026-10-15T15:04:58+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.<br />The Williams F1 team will be putting a painted show car in the ",
-      "summary_en": "Williams is bringing its Marvel livery to the 2026 United States Grand Prix, but Alex Albon and Carlos Sainz won't be racing in it.<br />The Williams F1 team will be putting a painted show car in the "
-    },
-    {
-      "id": "32416dbc47ce",
-      "title": "Camara over Ocon - did Haas make the correct call for F1 2027?",
-      "title_fr": "Camara remplace Ocon chez Haas pour 2027",
-      "title_en": "Camara replaces Ocon at Haas for 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/camara-over-ocon-did-haas-make-the-correct-call-for-f1-2027/10865424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0kZXG7q6/s6/esteban-ocon-haas-f1-team.jpg",
-      "published_at": "2026-10-15T14:21:18+00:00",
-      "race_id": "brazil",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara, champion du Formula Regional Europe 2024 et du Formula 3 2025, rejoint Haas en 2027 pour succéder à Esteban Ocon. Le Brésilien de 21 ans fera son entrée en Formule 1.",
-      "summary_en": "Rafael Camara, 2024 Formula Regional Europe and 2025 Formula 3 champion, joins Haas for 2027 to replace Esteban Ocon. The 21-year-old Brazilian will make his Formula 1 debut."
-    },
-    {
-      "id": "33bad72a926e",
-      "title": "Did Haas make the correct decision in signing Rafael Camara for F1 2027?",
-      "title_fr": "Haas signe Rafael Camara pour 2027",
-      "title_en": "Haas signs Rafael Camara for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/did-haas-make-the-correct-decision-in-signing-rafael-camara-for-f1-2027/10865413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6VyKK1lY/s6/rafael-camara-invicta-racing.jpg",
-      "published_at": "2026-10-15T14:15:43+00:00",
-      "race_id": "brazil",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara, 21 ans, remplace Esteban Ocon chez Haas pour la saison 2027. Le Brésilien a remporté le championnat Formula Regional Europe 2024 et la F3 2025, et mène actuellement la F2.",
-      "summary_en": "Rafael Camara, 21, will replace Esteban Ocon at Haas for the 2027 season. The Brazilian won the 2024 Formula Regional European Championship and the 2025 Formula 3 title, and currently leads the Formula 2 standings."
-    },
-    {
-      "id": "d02f3aaf31b2",
-      "title": "Camara to make F1 debut as Ocon's replacement at Haas in 2027",
-      "title_fr": "Camara fait ses débuts en F1 chez Haas en 2027",
-      "title_en": "Camara to debut in F1 with Haas in 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/camara-to-make-f1-debut-at-haas-replacing-ocon/10865325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/01WVnzmY/s6/f3-drivers-champion-and-race-w-2.jpg",
-      "published_at": "2026-10-15T14:01:00+00:00",
-      "race_id": "brazil",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le champion du championnat de Formule 2, Rafael Camara, rejoindra Haas en 2027, remplaçant Esteban Ocon. Le Brésilien de 21 ans sera aux côtés d'Oliver Bearman.",
-      "summary_en": "Formula 2 champion Rafael Camara will join Haas in 2027, replacing Esteban Ocon. The 21-year-old Brazilian will race alongside Oliver Bearman."
-    },
-    {
-      "id": "13f277a612b6",
-      "title": "Rafael Camara to replace Esteban Ocon at Haas for F1 2027",
-      "title_fr": "Camara rejoint Haas pour 2027",
-      "title_en": "Camara joins Haas for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/rafael-camara-to-replace-esteban-ocon-at-haas-for-f1-2027/10865192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZZqe2/s6/rafael-camara-invicta-racing.jpg",
-      "published_at": "2026-10-15T14:01:00+00:00",
-      "race_id": "brazil",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le champion du championnat de Formule 2, Rafael Camara, intégrera l'écurie Haas en 2027, remplaçant Esteban Ocon. Le Brésilien de 21 ans coursera aux côtés d'Oliver Bearman.",
-      "summary_en": "Formula 2 champion Rafael Camara will join Haas for the 2027 season, replacing Esteban Ocon. The 21‑year‑old Brazilian will race alongside Oliver Bearman."
     }
   ]
 }
