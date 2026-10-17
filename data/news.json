@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-17T14:22:07Z",
+  "last_updated": "2026-10-17T17:22:58Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5689e96bdf55",
+      "title": "Lewis Hamilton's Brazilian GP cap unveiled with release date confirmed",
+      "title_fr": "Hamilton porte la casquette brésilienne à Interlagos",
+      "title_en": "Hamilton to wear Brazil cap at Interlagos",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-brazilian-gp-cap-unveiled-with-release-date-confirmed/10865933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6grQoW7Y/s6/untitled-design-63.jpg",
+      "published_at": "2026-10-17T16:34:04+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a dévoilé une casquette brésilienne que Lewis Hamilton portera à Interlagos. Les fans pourront l'acheter le 3 novembre.",
+      "summary_en": "Ferrari unveiled a Brazil‑themed cap that Lewis Hamilton will wear at Interlagos. Fans can buy it on November 3."
+    },
+    {
+      "id": "c71c2d7b7fc9",
+      "title": "Colton Herta “maybe underestimated the difference” from IndyCar – F2 boss",
+      "title_fr": "Herta sous-estimé la différence entre IndyCar et F2, déclare Michel",
+      "title_en": "Herta 'maybe underestimated the difference' between IndyCar and F2, says Michel",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-maybe-underestimated-the-difference-from-indycar-f2-boss/10865706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg",
+      "published_at": "2026-10-17T16:00:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Bruno Michel, directeur général de la F2, estime que Colton Herta a peut‑être sous‑estimé la différence entre la série d’appoint de la F1 et IndyCar, après son retour en Europe en 2026.",
+      "summary_en": "Bruno Michel, F2 CEO, says Colton Herta may have underestimated the gap between IndyCar and the F1 feeder series after his 2026 return to Europe."
+    },
+    {
+      "id": "8abf4b47656c",
+      "title": "Cadillac F1 goes full Texas with new Tommy Hilfiger collection for US Grand Prix",
+      "title_fr": "Cadillac F1 lance collection Texas avec Tommy Hilfiger pour le Grand Prix des États-Unis",
+      "title_en": "Cadillac F1 launches Texas-themed collection with Tommy Hilfiger for US Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/cadillac-f1-goes-full-texas-with-new-tommy-hilfiger-collection-for-us-grand-prix/10865849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2jEAoRq0/s6/untitled-design-2026-10-17t131-2.jpg",
+      "published_at": "2026-10-17T15:05:02+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "La Cadillac Formula 1 et Tommy Hilfiger dévoilent une collection de vêtements inspirée du Texas pour le Grand Prix des États-Unis à Austin. La collection est disponible depuis mardi.",
+      "summary_en": "Cadillac Formula 1 and Tommy Hilfiger unveil a Texas‑themed apparel line for the United States Grand Prix in Austin. The collection went on sale earlier this week."
+    },
     {
       "id": "0d4962c0ce84",
       "title": "Mercedes shares emotional call between Joshua Durksen and Paraguay president",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Stroll a remporté sa dernière course avant de rejoindre la Formule 1. Sa victoire marque la fin de sa carrière de pré‑F1.",
       "summary_en": "Stroll clinched his final pre‑F1 race, sealing the end of his pre‑F1 career before stepping into Formula 1."
-    },
-    {
-      "id": "f8127c3aace8",
-      "title": "Valtteri Bottas makes surprising Mercedes comparison as Cadillac builds F1 future",
-      "title_fr": "Bottas compare Cadillac à Mercedes, affirme supériorité des installations",
-      "title_en": "Bottas compares Cadillac to Mercedes, claims better facilities",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/25dL7Dn0/s6/untitled-design-35-2.jpg",
-      "published_at": "2026-10-15T21:42:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas, ancien pilote Mercedes, déclare que les installations de Cadillac surpassent celles de Brackley, malgré l'absence de points cette saison. Le pilote souligne la supériorité des infrastructures de la marque américaine.",
-      "summary_en": "Valtteri Bottas, former Mercedes driver, says Cadillac's facilities outshine those of Brackley, even though the team has yet to score points this season. The driver highlights the American marque's superior infrastructure."
-    },
-    {
-      "id": "2edbe0b1b692",
-      "title": "F1 could make call to move finale to Imola as late as ‘mid-November’ – report | Briefs",
-      "title_fr": "F1 pourrait déplacer la finale à Imola jusqu'à mi‑novembre",
-      "title_en": "F1 could move finale to Imola as late as mid‑November",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/15/f1-could-make-call-to-move-finale-to-imola-as-late-as-mid-november-report/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-15-10-12-39-20-testpirelliimola-lewishamilton4.jpg",
-      "published_at": "2026-10-15T21:23:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Selon un rapport, la Formule 1 pourrait reporter la finale à Imola jusqu'à la mi‑novembre, laissant la décision aux organisateurs.",
-      "summary_en": "According to a report, Formula 1 could postpone the finale to Imola until mid‑November, leaving the decision to the organisers."
-    },
-    {
-      "id": "5bc1221cc870",
-      "title": "Ayao Komatsu: Rafael Camara chosen for F1 2027 seat on speed, not Ferrari links",
-      "title_fr": "Camara choisi par Haas pour 2027 grâce à sa vitesse",
-      "title_en": "Camara chosen by Haas for 2027 seat on speed",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/komatsu-camara-chosen-for-f1-2027-seat-on-speed-not-ferrari-links/10865447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/25dL7on0/s6/rafael-camara-and-ayao-komatsu.jpg",
-      "published_at": "2026-10-15T16:08:44+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara a été sélectionné par Haas pour la saison 2027 après avoir démontré une vitesse et une adaptabilité supérieures lors des tests avec la voiture 2025. Les concurrents Fornaroli et Hirakawa n'ont pas été retenus.",
-      "summary_en": "Rafael Camara was chosen by Haas for the 2027 seat after showing superior speed and adaptability during tests with the 2025 car. Fornaroli and Hirakawa were not selected."
     }
   ]
 }
