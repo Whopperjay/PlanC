@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-17T20:23:31Z",
+  "last_updated": "2026-10-17T23:23:48Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e9c376b314a3",
+      "title": "Aston Martin's F1-inspired monster spotted testing as record-breaking claims emerge",
+      "title_fr": "Aston Martin teste son monstre F1 à Paul Ricard",
+      "title_en": "Aston Martin tests its F1-inspired monster at Paul Ricard",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/culture/news/aston-martins-f1-inspired-monster-spotted-testing-as-record-breaking-claims-emerge/10865964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAoWP0/s6/untitled-design-2026-10-17t232-2.jpg",
+      "published_at": "2026-10-17T22:25:43+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Un monstre à un siège inspiré de la F1 d'Aston Martin a été vu tester à Paul Ricard, après des apparitions à l'aéroport privé et à Portimao. Le véhicule reste un mystère sur le circuit.",
+      "summary_en": "A single-seat F1-inspired monster from Aston Martin was spotted testing at Paul Ricard, following earlier appearances at a private airfield and Portimao. The vehicle remains a mystery on the circuit."
+    },
     {
       "id": "2d4989e05856",
       "title": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur général de la F2, Bruno Michel, a confirmé que les finales 2026 à Qatar et Abu Dhabi ne seront pas annulées, malgré les tensions liées à la guerre en Iran.",
       "summary_en": "F2 CEO Bruno Michel has confirmed that the 2026 finale races in Qatar and Abu Dhabi will not be cancelled, despite tensions stemming from the Iran war."
-    },
-    {
-      "id": "f456f3ca61c7",
-      "title": "Singapore victory leaves Verstappen one win away from a full set – but not for long | 2026 Singapore Grand Prix stats and facts",
-      "title_fr": "Victoire à Singapour rapproche Verstappen d'un set complet",
-      "title_en": "Singapore win brings Verstappen one race away from a full set",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/16/singapore-victory-leaves-verstappen-one-win-away-from-a-full-set-but-not-for-long/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-29-18-1-SI202610110401.jpg",
-      "published_at": "2026-10-16T06:15:27+00:00",
-      "race_id": "singapore",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a remporté le Grand Prix de Singapour, se rapprochant d'un set complet de victoires. Il ne lui reste plus qu'un circuit à conquérir, mais l'année prochaine trois nouveaux circuits seront disponibles.",
-      "summary_en": "Max Verstappen won the Singapore Grand Prix, moving one race closer to a complete set of victories. He now has only one circuit left to conquer, but next year three new tracks will be added to the calendar."
     }
   ]
 }
