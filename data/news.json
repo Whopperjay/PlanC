@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-17T05:18:00Z",
+  "last_updated": "2026-10-17T08:18:26Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "c29bdb8952e7",
+      "title": "Did Max Verstappen already know the impact of Red Bull’s big upgrade when he signed his new deal?",
+      "title_fr": "Verstappen connaît déjà l'upgrade de Red Bull avant de signer",
+      "title_en": "Verstappen already knew Red Bull's upgrade before signing his new deal",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6zoDkQ70/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-17T08:15:22+00:00",
+      "race_id": "azerbaijan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen, alors réflexion sur une saison victoire à Monza, aurait déjà anticipé l'impact de la grosse mise à jour de Red Bull avant de signer son nouveau contrat. Il a fini par remporter les courses de Malaisie et Singapour",
+      "summary_en": "Max Verstappen, still weighing a winless season at Monza, reportedly knew the impact of Red Bull's major upgrade before signing his new contract. He went on to win the Malaysian and Singapore races"
+    },
+    {
+      "id": "e98e77c9dc31",
+      "title": "Russell and Leclerc are the joint ‘sprint race champions’ of 2026 | Formula 1",
+      "title_fr": "Russell and Leclerc are the joint ‘sprint race champions’ of 2026 | Formula 1",
+      "title_en": "Russell and Leclerc are the joint ‘sprint race champions’ of 2026 | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/17/russell-and-leclerc-are-the-joint-sprint-race-champions-of-2026/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/07/racefansdotnet-24-07-06-23-25-42-8-M613370_F1_Grand_Prix_of_Great_Britain.jpg",
+      "published_at": "2026-10-17T07:15:52+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "If Formula 1 had a 'sprint race championship', it would have enjoyed an exciting conclusion in Singapore.",
+      "summary_en": "If Formula 1 had a 'sprint race championship', it would have enjoyed an exciting conclusion in Singapore."
+    },
     {
       "id": "ad543d0ef1c1",
       "title": "Bernie Collins warns of growing trust issues between Lewis Hamilton and Ferrari",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner says 2025 champion Lando Norris's crash with his McLaren team-mate during the Singapore Grand Prix sprint race was \"not a world champion move\".<br",
       "summary_en": "Former Haas Formula 1 team principal Guenther Steiner says 2025 champion Lando Norris's crash with his McLaren team-mate during the Singapore Grand Prix sprint race was \"not a world champion move\".<br"
-    },
-    {
-      "id": "4389c51aa2ac",
-      "title": "Max Verstappen’s Portimao team-mates: who are Chris Lulham and Ben Barnicoat?",
-      "title_fr": "Verstappen rejoint l’équipe Portimão en GT3 avec Lulham et Barnicoat",
-      "title_en": "Verstappen joins Portimão GT3 team with Lulham and Barnicoat",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-portimao-team-mates-who-are-chris-lulham-and-ben-barnicoat/10865368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/63QaeLg2/s6/untitled-design-27-2.jpg",
-      "published_at": "2026-10-15T11:50:03+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen, pilote de Formule 1, prendra la barre du No. 3 Mercedes-AMG GT3 EVO à Portimão, aux côtés de Chris Lulham et Ben Barnicoat, deux pilotes expérimentés de la catégorie GT3.",
-      "summary_en": "Max Verstappen, Formula 1 driver, will take the wheel of the No. 3 Mercedes-AMG GT3 EVO at Portimão, alongside experienced GT3 drivers Chris Lulham and Ben Barnicoat."
-    },
-    {
-      "id": "b61a66335e2c",
-      "title": "Max Verstappen vs Valentino Rossi: How their GT3 cars compare",
-      "title_fr": "Max Verstappen vs Valentino Rossi: How their GT3 cars compare",
-      "title_en": "Max Verstappen vs Valentino Rossi: How their GT3 cars compare",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-vs-valentino-rossi-how-their-gt3-cars-compare/10865344/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAo3g0/s6/untitled-design-26-3.jpg",
-      "published_at": "2026-10-15T11:15:50+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen's Mercedes-AMG and Valentino Rossi's BMW is very different cars with a different number of turbos and a totally different soundtrack. But the rulebook is designed to make them equally f",
-      "summary_en": "Max Verstappen's Mercedes-AMG and Valentino Rossi's BMW is very different cars with a different number of turbos and a totally different soundtrack. But the rulebook is designed to make them equally f"
     }
   ]
 }
