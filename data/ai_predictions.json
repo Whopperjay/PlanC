@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:42:11Z",
+  "generated_at": "2026-10-17T11:20:10Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -76,6 +76,21 @@
       "key_factor_fr": "Position sur la grille décisive à Singapour",
       "news_used_ids": [],
       "generated_at": "2026-10-11T10:42:10Z"
+    },
+    {
+      "event_id": "united_states_qualifying",
+      "race_id": "united_states",
+      "session_type": "qualifying",
+      "session_date": "2026-10-24T21:00:00+00:00",
+      "p1": "max_verstappen",
+      "p2": "leclerc",
+      "p3": "hamilton",
+      "reasoning_fr": "Max Verstappen bénéficie de la grande mise à jour de Red Bull, combinée à son rythme exceptionnel sur un tour et à son expérience sur le Circuit of the Americas. Leclerc profite du nouveau plancher Ferrari et a montré une excellente vitesse en qualification à Singapour, se plaçant deuxième. Hamilton, désormais chez Ferrari, a confirmé son rythme en se classant troisième à Singapour et sait exploit",
+      "reasoning_en": "Max Verstappen gains a huge advantage from Red Bull's major upgrade, his one‑lap speed and his familiarity with COTA. Leclerc benefits from Ferrari's new floor and demonstrated top‑class qualifying pace in Singapore, finishing second. Hamilton, now with Ferrari, proved his pace by qualifying third in Singapore and can extract performance from the rapidly improving track at Austin, making these thr",
+      "confidence": "high",
+      "key_factor_fr": "Mise à jour Red Bull, évolution piste, forme en qualification",
+      "news_used_ids": [],
+      "generated_at": "2026-10-17T11:20:09Z"
     }
   ]
 }
