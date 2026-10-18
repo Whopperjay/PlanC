@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-18T20:27:07Z",
+  "last_updated": "2026-10-18T23:27:26Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "63267c0aa0fd",
+      "title": "Documentary on Lewis Hamilton and Fernando Alonso's F1 rivalry reportedly in the works",
+      "title_fr": "La chaîne britannique prépare un documentaire sur la rivalité 2007 Hamilton-Alonso",
+      "title_en": "BBC plans documentary on 2007 Hamilton-Alonso rivalry",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-fernando-alonsos-infamous-mclaren-rivalry-set-for-bbc-documentary/10866138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15qZr0/s6/72945935.jpg",
+      "published_at": "2026-10-18T22:55:58+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Selon Antonio Lobato, la chaîne britannique prépare un film sur la saison chaotique 2007 de Hamilton et Alonso à McLaren. Le projet n'est pas encore confirmé.",
+      "summary_en": "According to Antonio Lobato, the BBC is reportedly developing a documentary on the chaotic 2007 season of Hamilton and Alonso at McLaren. The project has not yet been confirmed."
+    },
     {
       "id": "a66a4f72261f",
       "title": "Spotlight: Fornaroli tests for McLaren again alongside Hughes at Paul Ricard | Spotlight",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Within 72 hours of Formula 1 revealing a decade-long deal to race in Africa, footage from a user-created onboard camera recording of Rwanda’s future grand prix venue began circulating online.<br />It’",
       "summary_en": "Within 72 hours of Formula 1 revealing a decade-long deal to race in Africa, footage from a user-created onboard camera recording of Rwanda’s future grand prix venue began circulating online.<br />It’"
-    },
-    {
-      "id": "33ceabc03197",
-      "title": "Ollie Bearman spotted driving 1,000hp+ Ferrari supercar through Monaco",
-      "title_fr": "Bearman conduit une Ferrari 849 à 1 000 chevaux à Monaco",
-      "title_en": "Bearman drives 1,000hp Ferrari 849 through Monaco",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ollie-bearman-spotted-driving-1000hp-ferrari-supercar-through-monaco/10865638/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zqEm6/s6/untitled-design-2026-10-16t135-2.jpg",
-      "published_at": "2026-10-16T13:01:31+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Haas, Ollie Bearman, a été vu au volant d’une Ferrari 849 Testarossa à plus de 1 000 chevaux, traversant Monaco. La vidéo a suscité plus de 5 600 j'aime.",
-      "summary_en": "Haas driver Ollie Bearman was seen behind the wheel of a 1,000‑hp Ferrari 849 Testarossa, cruising through Monaco. The clip has gathered over 5,600 likes."
     }
   ]
 }
