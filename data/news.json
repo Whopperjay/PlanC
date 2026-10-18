@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-18T17:26:46Z",
+  "last_updated": "2026-10-18T20:27:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a66a4f72261f",
+      "title": "Spotlight: Fornaroli tests for McLaren again alongside Hughes at Paul Ricard | Spotlight",
+      "title_fr": "Spotlight: Fornaroli tests for McLaren again alongside Hughes at Paul Ricard | Spotlight",
+      "title_en": "Spotlight: Fornaroli tests for McLaren again alongside Hughes at Paul Ricard | Spotlight",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/18/spotlight-fornaroli-tests-for-mclaren-again-alongside-hughes-at-paul-ricard/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-18-20-31-27-4.jpg",
+      "published_at": "2026-10-18T19:36:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Fornaroli and Hughes test for McLaren at Paul Ricard",
+      "summary_en": "Fornaroli and Hughes test for McLaren at Paul Ricard"
+    },
     {
       "id": "165d0ca39434",
       "title": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Haas, Ollie Bearman, a été vu au volant d’une Ferrari 849 Testarossa à plus de 1 000 chevaux, traversant Monaco. La vidéo a suscité plus de 5 600 j'aime.",
       "summary_en": "Haas driver Ollie Bearman was seen behind the wheel of a 1,000‑hp Ferrari 849 Testarossa, cruising through Monaco. The clip has gathered over 5,600 likes."
-    },
-    {
-      "id": "2a7022bfc899",
-      "title": "The United States Grand Prix is getting a bizarre new attraction",
-      "title_fr": "The United States Grand Prix is getting a bizarre new attraction",
-      "title_en": "The United States Grand Prix is getting a bizarre new attraction",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-united-states-grand-prix-is-getting-a-bizarre-new-attraction/10865626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/25dL7zE0/s6/untitled-design-39-2.jpg",
-      "published_at": "2026-10-16T12:33:56+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 has given us street circuits between casinos, a pitlane tunnel, and a paddock with a fake marina. Now the Circuit of the Americas wants the world's largest cowboy hat, complete with a bar in",
-      "summary_en": "Formula 1 has given us street circuits between casinos, a pitlane tunnel, and a paddock with a fake marina. Now the Circuit of the Americas wants the world's largest cowboy hat, complete with a bar in"
     }
   ]
 }
