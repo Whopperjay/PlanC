@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:28:33Z",
+  "generated_at": "2026-10-18T23:29:05Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -85,12 +85,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "hamilton",
-      "reasoning_fr": "Sur le circuit de COTA, la puissance moteur et le rythme sur un tour sont décisifs. Max Verstappen a affiché le meilleur temps en qualification à Singapour et bénéficie d’une motorisation Red Bull très compétitive sur les longues lignes droites. Charles Leclerc, deuxième à Singapour, possède une bonne vitesse de pointe et la Ferrari a retrouvé du rythme, surtout en qualification. Lewis Hamilton, t",
-      "reasoning_en": "At COTA, engine power and a single‑lap pace are crucial. Max Verstappen posted the fastest qualifying time in Singapore and enjoys a very competitive Red Bull power unit on the long straights. Charles Leclerc, second in Singapore, has strong top‑speed and Ferrari has regained qualifying rhythm, especially on high‑speed circuits. Lewis Hamilton, third in Singapore, leverages his experience and Merc",
-      "confidence": "medium",
-      "key_factor_fr": "Puissance moteur + rythme sur un tour",
+      "reasoning_fr": "Sur le Circuit of the Americas, la progression du grip est très rapide, favorisant les pilotes qui maîtrisent le tour unique. Max Verstappen a affiché le meilleur rythme en qualification à Singapour et possède une Red Bull adaptée aux longues lignes droites. Charles Leclerc, en forme et avec une Ferrari qui a bien évolué, a confirmé son rythme en pole à Singapour. Lewis Hamilton, malgré la mise à ",
+      "reasoning_en": "At COTA the track evolves quickly, rewarding drivers who can extract a perfect single lap. Max Verstappen posted the fastest qualifying time in Singapore and his Red Bull suits the long straights. Charles Leclerc, in good form and with a Ferrari that has improved, confirmed his pace by taking pole in Singapore. Lewis Hamilton, despite Mercedes' tougher update, remains extremely quick over one lap ",
+      "confidence": "high",
+      "key_factor_fr": "Évolution rapide du circuit + rythme sur un tour",
       "news_used_ids": [],
-      "generated_at": "2026-10-18T11:26:26Z"
+      "generated_at": "2026-10-18T23:29:04Z"
     },
     {
       "event_id": "united_states_grand_prix",
