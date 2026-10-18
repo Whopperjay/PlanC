@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T05:00:03Z",
-  "model": "claude",
+  "generated_at": "2026-10-18T08:25:33Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -91,6 +91,21 @@
       "key_factor_fr": "Performance sur un tour et évolution de piste",
       "news_used_ids": [],
       "generated_at": "2026-10-17T23:23:57Z"
+    },
+    {
+      "event_id": "united_states_grand_prix",
+      "race_id": "united_states",
+      "session_type": "grand_prix",
+      "session_date": "2026-10-25T20:00:00+00:00",
+      "p1": "max_verstappen",
+      "p2": "leclerc",
+      "p3": "antonelli",
+      "reasoning_fr": "Le Grand Prix des États‑Unis à CoTA favorise la position de départ ; Max Verstappen a dominé la qualification et la course à Singapour, montrant un rythme de pointe. Charles Leclerc, deuxième en qualification et deuxième à Singapour, conserve une excellente forme. Andrea Kimi Antonelli, quatrième en qualification et troisième à Singapour, bénéficie d’une stratégie Mercedes solide et d’une bonne ge",
+      "reasoning_en": "The US Grand Prix at CoTA rewards grid position; Max Verstappen topped qualifying and won in Singapore, demonstrating top‑level pace. Charles Leclerc, second in qualifying and second in Singapore, maintains strong form. Andrea Kimi Antonelli, fourth in qualifying and third in Singapore, enjoys a solid Mercedes race strategy and effective tyre management, putting him in a strong podium‑contending s",
+      "confidence": "medium",
+      "key_factor_fr": "Position de départ + rythme récent",
+      "news_used_ids": [],
+      "generated_at": "2026-10-18T08:25:32Z"
     }
   ]
 }
