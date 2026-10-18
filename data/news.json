@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-18T08:25:23Z",
+  "last_updated": "2026-10-18T11:25:48Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "bcbbe158f33f",
+      "title": "How Geri Halliwell helped Christian Horner deal with fan hate",
+      "title_fr": "How Geri Halliwell helped Christian Horner deal with fan hate",
+      "title_en": "How Geri Halliwell helped Christian Horner deal with fan hate",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-geri-halliwell-helped-christian-horner-deal-with-fan-hate/10865211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2wB9xN30/s6/geri-horner-with-christian-hor.jpg",
+      "published_at": "2026-10-18T11:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner has explained how his celebrity wife Geri Halliwell helped him overcome the hate that came with his rise in fame thanks to Formula 1 drama Drive to Survive.<br />Since 2015 Horner has",
+      "summary_en": "Christian Horner has explained how his celebrity wife Geri Halliwell helped him overcome the hate that came with his rise in fame thanks to Formula 1 drama Drive to Survive.<br />Since 2015 Horner has"
+    },
+    {
+      "id": "2a22502dd62e",
+      "title": "Mercedes explains why its upgrade made its F1 car harder to drive",
+      "title_fr": "Mercedes explique pourquoi sa mise à jour rend le F1 plus difficile à piloter",
+      "title_en": "Mercedes explains why its upgrade made the F1 car harder to drive",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2jEAGLp0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-18T11:00:03+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Après le Grand Prix de Singapour, Mercedes a détaillé les raisons pour lesquelles sa nouvelle mise à jour rend la voiture plus difficile à piloter. Les données recueillies lors du sprint ont permis de mieux comprendre les défis techniques.",
+      "summary_en": "After Singapore, Mercedes explained why its new upgrade makes the car harder to drive. Data from the sprint weekend helped the team pinpoint technical challenges."
+    },
     {
       "id": "da3e9401461e",
       "title": "The maths behind when Mercedes could become F1 world champions in 2026",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Toto Wolff a arboré deux montres à Singapour, l'une réglée sur l'heure locale et l'autre sur l'heure européenne, afin de gérer les fuseaux horaires pendant la course.",
       "summary_en": "Toto Wolff wore two watches at the Singapore Grand Prix, one set to local time and the other to European time, to keep track of time zones during the race."
-    },
-    {
-      "id": "2f5f74af5489",
-      "title": "Who will win this year’s ultimate F1 dream ticket? You decide…",
-      "title_fr": "Qui gagnera le ticket de rêve F1 cette année ?",
-      "title_en": "Who will win the F1 Dream Ticket this year?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YE9EqVPY/s6/heineken-season-ticket-2027.jpg",
-      "published_at": "2026-10-16T11:00:11+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Six candidats issus du Royaume-Uni, de la Nouvelle-Zélande, de Singapour, de la République tchèque et des États-Unis se présentent pour le ticket de rêve F1. Les fans peuvent désormais voter pour choisir le gagnant.",
-      "summary_en": "Six finalists from the UK, New Zealand, Singapore, Czechia and the USA are vying for the Heineken x F1 Season Ticket. Fans can now vote to decide the winner."
-    },
-    {
-      "id": "1bdc22b4bd11",
-      "title": "Who will win this year’s ultimate F1 dream ticket? You decide…",
-      "title_fr": "Qui remportera le ticket de rêve F1 ?",
-      "title_en": "Who Will Win the F1 Dream Ticket?",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EqVPY/s6/heineken-season-ticket-2027.jpg",
-      "published_at": "2026-10-16T11:00:05+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Six candidats, issus du Royaume-Uni, de la Nouvelle-Zélande, de Singapour, de la République tchèque et des États-Unis, se présentent pour le ticket de rêve Heineken x F1. Les fans peuvent désormais voter pour choisir le gagnant.",
-      "summary_en": "Six finalists from the UK, New Zealand, Singapore, Czechia and the USA are vying for the Heineken x F1 Season Ticket. Fans can now vote to decide the winner."
     }
   ]
 }
