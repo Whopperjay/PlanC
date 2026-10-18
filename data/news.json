@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-18T05:24:45Z",
+  "last_updated": "2026-10-18T08:25:23Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "da3e9401461e",
+      "title": "The maths behind when Mercedes could become F1 world champions in 2026",
+      "title_fr": "Mercedes vise son premier double titre depuis 2020",
+      "title_en": "Mercedes eyes first double title since 2020",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-maths-behind-when-mercedes-could-become-f1-world-champions-in-2026/10866008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Ld53Zj0/s6/george-russell-mercedes-andrea-2.jpg",
+      "published_at": "2026-10-18T08:13:32+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Mercedes se remet en tête du championnat, Kimi Antonelli et George Russell dominent les pilotes, tandis que l’équipe dépasse Ferrari de 134 points. Le calcul montre que la voiture pourrait remporter le double titre en 2026.",
+      "summary_en": "Mercedes is back on top, with Kimi Antonelli and George Russell leading the drivers' standings, and the team outpacing Ferrari by 134 points. Calculations suggest the car could secure the double title in 2026."
+    },
+    {
+      "id": "3e930fccb471",
+      "title": "When will Mercedes become F1 world champions in 2026?",
+      "title_fr": "Mercedes vise double titre de champion en 2026",
+      "title_en": "Mercedes targets double championship in 2026",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/when-can-mercedes-become-f1-world-champions-in-2026/10865358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2jED8MM0/s6/george-russell-mercedes-andrea.jpg",
+      "published_at": "2026-10-18T08:07:18+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Mercedes regagne la domination en Formule 1, mené par Kimi Antonelli et George Russell, qui dominent le classement des pilotes. L’équipe dépasse Ferrari de 134 points dans le championnat des constructeurs.",
+      "summary_en": "Mercedes is back on top in Formula 1, led by Kimi Antonelli and George Russell who dominate the drivers' standings. The team is 134 points ahead of Ferrari in the constructors' championship."
+    },
+    {
+      "id": "453a55c6e8c1",
+      "title": "Poll: Does F1 needs its cost cap – or is it just holding back the smaller teams? | Debates and Polls",
+      "title_fr": "Les équipes déplorent le plafond de dépenses, Ben Sulayem ne voit pas l'intérêt",
+      "title_en": "Teams upset over cost cap, Ben Sulayem doubts its purpose",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/18/poll-does-f1-needs-its-cost-cap-or-is-it-just-holding-back-the-smaller-teams/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-04-10-42-21-1-Williams-Sepang-Sunday_PRN0590_n61b0GLm_20261004070047.jpg",
+      "published_at": "2026-10-18T07:30:07+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les équipes de Formule 1 expriment leur mécontentement face au plafond de dépenses. Ben Sulayem affirme ne pas voir l'intérêt de cette mesure, remettant en question la nécessité d'un budget cap.",
+      "summary_en": "Teams are unhappy with the cost cap. Ben Sulayem says he doesn't see the point of it, questioning whether Formula 1 really needs a budget cap."
+    },
     {
       "id": "014797a041ee",
       "title": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Six candidats, issus du Royaume-Uni, de la Nouvelle-Zélande, de Singapour, de la République tchèque et des États-Unis, se présentent pour le ticket de rêve Heineken x F1. Les fans peuvent désormais voter pour choisir le gagnant.",
       "summary_en": "Six finalists from the UK, New Zealand, Singapore, Czechia and the USA are vying for the Heineken x F1 Season Ticket. Fans can now vote to decide the winner."
-    },
-    {
-      "id": "b23f34a37496",
-      "title": "Andrew Benson Q&A: Send us your questions",
-      "title_fr": "Andrew Benson lance une Q&A hebdomadaire – posez vos questions",
-      "title_en": "Andrew Benson launches weekly Q&A – ask your questions",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
-      "published_at": "2026-10-16T10:46:21+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le correspondant F1 Andrew Benson propose une séance de questions-réponses chaque semaine. Les fans sont invités à soumettre leurs questions dès maintenant.",
-      "summary_en": "F1 correspondent Andrew Benson is hosting a weekly Q&A. Fans are encouraged to submit their questions now."
-    },
-    {
-      "id": "2b5d68e65877",
-      "title": "Isack Hadjar on reality of racing alongside \"prime of the prime\" Max Verstappen",
-      "title_fr": "Hadjar se réjouit de partager la piste avec le \"prime du prime\" Verstappen",
-      "title_en": "Hadjar thrilled to race alongside \"prime of the prime\" Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-on-reality-of-racing-alongside-prime-of-the-prime-max-verstappen-/10861847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq83V46/s6/untitled-design-51.jpg",
-      "published_at": "2026-10-16T10:24:51+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar, pilote de Red Bull, se dit très chanceux de courir aux côtés de Max Verstappen, qu’il décrit comme étant à son apogée. Il a récemment prolongé son contrat jusqu’en 2027.",
-      "summary_en": "Red Bull driver Isack Hadjar says he feels very lucky to race alongside Max Verstappen, whom he calls the \"prime of the prime\". He has just extended his contract through 2027."
-    },
-    {
-      "id": "ab66e7c0df57",
-      "title": "Ferrari promotes F2 racer to F1 reserve driver role",
-      "title_fr": "Ferrari nomme Beganovic pilote de réserve F1",
-      "title_en": "Ferrari promotes Beganovic to F1 reserve driver",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-promotes-f2-racer-to-f1-reserve-driver-role/10865590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2wlEdyWY/s6/dino-beganovic-ferrari.jpg",
-      "published_at": "2026-10-16T10:21:30+00:00",
-      "race_id": "italy",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a nommé Dino Beganovic, pilote de l'Académie Ferrari, comme pilote de réserve pour la saison 2027. Le jeune talent, champion de karting en Italie et en Suède, rejoint l’équipe de Formule 1.",
-      "summary_en": "Ferrari has promoted Dino Beganovic, a long-time member of its Driver Academy, to its 2027 Formula 1 reserve driver. The young driver, a former karting champion in Italy and Sweden, will join the team."
     }
   ]
 }
