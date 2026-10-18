@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T23:23:58Z",
-  "model": "openai/gpt-oss-120b",
+  "generated_at": "2026-10-18T05:00:03Z",
+  "model": "claude",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
