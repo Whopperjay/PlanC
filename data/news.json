@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-17T23:23:48Z",
+  "last_updated": "2026-10-18T02:24:30Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "014797a041ee",
+      "title": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
+      "title_fr": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
+      "title_en": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6VyKwD7Y/s6/72945935.jpg",
+      "published_at": "2026-10-17T23:35:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris's new racing team, LN4 Fusion, will soon find out whether or not it's got a place on the Formula 2 grid next year. CEO of FIA Formula 2, Bruno Michel, has confirmed that the championship ",
+      "summary_en": "Lando Norris's new racing team, LN4 Fusion, will soon find out whether or not it's got a place on the Formula 2 grid next year. CEO of FIA Formula 2, Bruno Michel, has confirmed that the championship "
+    },
     {
       "id": "e9c376b314a3",
       "title": "Aston Martin's F1-inspired monster spotted testing as record-breaking claims emerge",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari a nommé Dino Beganovic, pilote de l'Académie Ferrari, comme pilote de réserve pour la saison 2027. Le jeune talent, champion de karting en Italie et en Suède, rejoint l’équipe de Formule 1.",
       "summary_en": "Ferrari has promoted Dino Beganovic, a long-time member of its Driver Academy, to its 2027 Formula 1 reserve driver. The young driver, a former karting champion in Italy and Sweden, will join the team."
-    },
-    {
-      "id": "2990b9b6d6b2",
-      "title": "F2 rebuffs suggestion its title race might be over because of the Iran war",
-      "title_fr": "F2 refuse de suspendre les finales 2026 malgré la guerre en Iran",
-      "title_en": "F2 rejects cancellation of 2026 finale amid Iran war",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/fia-f2/news/f2-rebuffs-suggestion-it-might-already-have-a-2026-champion-because-of-the-iran-war/10865537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAAzN0/s6/rafael-camara-invicta-racing.jpg",
-      "published_at": "2026-10-16T08:10:54+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur général de la F2, Bruno Michel, a confirmé que les finales 2026 à Qatar et Abu Dhabi ne seront pas annulées, malgré les tensions liées à la guerre en Iran.",
-      "summary_en": "F2 CEO Bruno Michel has confirmed that the 2026 finale races in Qatar and Abu Dhabi will not be cancelled, despite tensions stemming from the Iran war."
     }
   ]
 }
