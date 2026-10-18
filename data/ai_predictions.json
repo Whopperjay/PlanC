@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:25:33Z",
+  "generated_at": "2026-10-18T11:26:27Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -85,12 +85,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "hamilton",
-      "reasoning_fr": "Sur le Circuit of the Americas, la qualification repose sur la vitesse d’un tour unique. Max Verstappen a dominé la dernière séance à Singapour, montrant la supériorité de la RB18 sur les longues lignes droites. Leclerc, deuxième en qualification à Singapour, bénéficie d’une Ferrari bien équilibrée et d’une bonne accroche en virage 1, crucial à COTA. Hamilton, troisième à Singapour, possède l’expé",
-      "reasoning_en": "At the United States Grand Prix, qualifying is decided by a single fast lap, and COTA rewards cars with strong straight‑line speed and high‑rpm power. Max Verstappen topped the Singapore qualifying and his Red Bull shows excellent top‑end performance on the long straights, making him the clear favourite for pole. Charles Leclerc, who was second in Singapore, benefits from a well‑balanced Ferrari t",
+      "reasoning_fr": "Sur le circuit de COTA, la puissance moteur et le rythme sur un tour sont décisifs. Max Verstappen a affiché le meilleur temps en qualification à Singapour et bénéficie d’une motorisation Red Bull très compétitive sur les longues lignes droites. Charles Leclerc, deuxième à Singapour, possède une bonne vitesse de pointe et la Ferrari a retrouvé du rythme, surtout en qualification. Lewis Hamilton, t",
+      "reasoning_en": "At COTA, engine power and a single‑lap pace are crucial. Max Verstappen posted the fastest qualifying time in Singapore and enjoys a very competitive Red Bull power unit on the long straights. Charles Leclerc, second in Singapore, has strong top‑speed and Ferrari has regained qualifying rhythm, especially on high‑speed circuits. Lewis Hamilton, third in Singapore, leverages his experience and Merc",
       "confidence": "medium",
-      "key_factor_fr": "Performance sur un tour et évolution de piste",
+      "key_factor_fr": "Puissance moteur + rythme sur un tour",
       "news_used_ids": [],
-      "generated_at": "2026-10-17T23:23:57Z"
+      "generated_at": "2026-10-18T11:26:26Z"
     },
     {
       "event_id": "united_states_grand_prix",
