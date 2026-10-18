@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-18T11:25:48Z",
+  "last_updated": "2026-10-18T14:26:26Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "165d0ca39434",
+      "title": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
+      "title_fr": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
+      "title_en": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/bbc-could-lose-f1-radio-rights-after-32-years-as-rival-broadcaster-considers-bid/10866051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0arE7qX2/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-10-18T12:05:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "talkSPORT is considering a bid for the UK radio rights to Formula 1, which could end the BBC's long run as the sport's home on radio in the country.<br />The station's head, Liam Fisher, told The Tele",
+      "summary_en": "talkSPORT is considering a bid for the UK radio rights to Formula 1, which could end the BBC's long run as the sport's home on radio in the country.<br />The station's head, Liam Fisher, told The Tele"
+    },
+    {
+      "id": "99b47222e8a0",
+      "title": "Max Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
+      "title_fr": "Max Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
+      "title_en": "Max Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-hits-back-at-former-f1-drivers-over-criticism-of-2026-regulations/10866045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVjpbvY/s6/72945935-2-2.jpg",
+      "published_at": "2026-10-18T11:35:02+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull driver Max Verstappen has spoken out on the criticism he has received from former drivers, with the four-time champion believing this negativity stems from the pundits not understanding the 2",
+      "summary_en": "Red Bull driver Max Verstappen has spoken out on the criticism he has received from former drivers, with the four-time champion believing this negativity stems from the pundits not understanding the 2"
+    },
     {
       "id": "bcbbe158f33f",
       "title": "How Geri Halliwell helped Christian Horner deal with fan hate",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 has given us street circuits between casinos, a pitlane tunnel, and a paddock with a fake marina. Now the Circuit of the Americas wants the world's largest cowboy hat, complete with a bar in",
       "summary_en": "Formula 1 has given us street circuits between casinos, a pitlane tunnel, and a paddock with a fake marina. Now the Circuit of the Americas wants the world's largest cowboy hat, complete with a bar in"
-    },
-    {
-      "id": "aff034c26b47",
-      "title": "Karun Chandhok raises concerns about Mercedes F1 upgrade performance",
-      "title_fr": "Chandhok dénonce les performances de la Mercedes",
-      "title_en": "Chandhok criticises Mercedes' upgrade performance",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/karun-chandhok-raises-concerns-about-mercedes-f1-upgrade-performance/10865623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAokE0/s6/untitled-design-52.jpg",
-      "published_at": "2026-10-16T12:07:19+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Karun Chandhok, ancien pilote et commentateur, estime que la Mercedes doit s'inquiéter de son dernier pack d'upgrade, qui n'a pas apporté l'amélioration attendue.",
-      "summary_en": "Karun Chandhok, former F1 driver and pundit, says Mercedes should be concerned about its latest upgrade package, which failed to deliver the expected performance boost."
-    },
-    {
-      "id": "05b23f59a8b6",
-      "title": "Why Toto Wolff wore two watches at the Singapore Grand Prix",
-      "title_fr": "Wolff porte deux montres à Singapour pour suivre les fuseaux horaires",
-      "title_en": "Wolff wears two watches at Singapore GP to keep track of time zones",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-toto-wolff-wore-two-watches-at-the-singapore-grand-prix/10865603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0Zq83O86/s6/untitled-design-38-2.jpg",
-      "published_at": "2026-10-16T11:00:32+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a arboré deux montres à Singapour, l'une réglée sur l'heure locale et l'autre sur l'heure européenne, afin de gérer les fuseaux horaires pendant la course.",
-      "summary_en": "Toto Wolff wore two watches at the Singapore Grand Prix, one set to local time and the other to European time, to keep track of time zones during the race."
     }
   ]
 }
