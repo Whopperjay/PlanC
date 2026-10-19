@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-19T20:33:55Z",
+  "last_updated": "2026-10-19T23:34:40Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "62e96768b804",
+      "title": "Christian Horner: Building Red Bull’s F1 engine was “scary as hell”",
+      "title_fr": "Horner révèle que bâtir le moteur Red Bull était \"effrayant\"",
+      "title_en": "Horner says building Red Bull's engine was \"scary\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-receives-unexpected-call-from-red-bull-after-breakthrough/10866228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6VyKwqdY/s6/72945935-4-2.jpg",
+      "published_at": "2026-10-19T21:13:42+00:00",
+      "race_id": "uk",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner, ancien directeur de l'équipe Red Bull, a admis que la création de la motorisation interne était \"effrayante\". Le pilote a quitté l'équipe l'année dernière, mais le moteur a déjà remporté des victoires.",
+      "summary_en": "Former Red Bull team principal Christian Horner admitted that building the team's in-house engine was \"scary as hell\". He was dismissed last year, yet the power unit has already secured race wins."
+    },
+    {
+      "id": "418e400cb718",
+      "title": "How soon can Mercedes win the 2026 F1 constructors' championship?",
+      "title_fr": "How soon can Mercedes win the 2026 F1 constructors' championship?",
+      "title_en": "How soon can Mercedes win the 2026 F1 constructors' championship?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-soon-can-mercedes-win-the-2026-f1-constructors-championship/10866296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyo5M6/s6/72945935-6.jpg",
+      "published_at": "2026-10-19T21:03:36+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes has had a dominant start to the new regulations in 2026, but while its driver Kimi Antonelli could technically seal his Formula 1 championship win this coming Sunday at the United States Gran",
+      "summary_en": "Mercedes has had a dominant start to the new regulations in 2026, but while its driver Kimi Antonelli could technically seal his Formula 1 championship win this coming Sunday at the United States Gran"
+    },
     {
       "id": "6992ecc564e5",
       "title": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Bruno Michel, directeur général de la F2, estime que Colton Herta a peut‑être sous‑estimé la différence entre la série d’appoint de la F1 et IndyCar, après son retour en Europe en 2026.",
       "summary_en": "Bruno Michel, F2 CEO, says Colton Herta may have underestimated the gap between IndyCar and the F1 feeder series after his 2026 return to Europe."
-    },
-    {
-      "id": "8abf4b47656c",
-      "title": "Cadillac F1 goes full Texas with new Tommy Hilfiger collection for US Grand Prix",
-      "title_fr": "Cadillac F1 lance collection Texas avec Tommy Hilfiger pour le Grand Prix des États-Unis",
-      "title_en": "Cadillac F1 launches Texas-themed collection with Tommy Hilfiger for US Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-f1-goes-full-texas-with-new-tommy-hilfiger-collection-for-us-grand-prix/10865849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2jEAoRq0/s6/untitled-design-2026-10-17t131-2.jpg",
-      "published_at": "2026-10-17T15:05:02+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "La Cadillac Formula 1 et Tommy Hilfiger dévoilent une collection de vêtements inspirée du Texas pour le Grand Prix des États-Unis à Austin. La collection est disponible depuis mardi.",
-      "summary_en": "Cadillac Formula 1 and Tommy Hilfiger unveil a Texas‑themed apparel line for the United States Grand Prix in Austin. The collection went on sale earlier this week."
-    },
-    {
-      "id": "0d4962c0ce84",
-      "title": "Mercedes shares emotional call between Joshua Durksen and Paraguay president",
-      "title_fr": "Durksen reçoit l'appel du président paraguayen",
-      "title_en": "Durksen receives call from Paraguayan president",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-shares-emotional-call-between-joshua-durksen-and-paraguay-president/10865884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGgoe9Y/s6/untitled-design-62.jpg",
-      "published_at": "2026-10-17T14:15:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Mercedes a partagé un appel vidéo entre le pilote de test Joshua Durksen et le président du Paraguay, Santiago Peña, qui l'a félicité pour son premier essai en Formule 1. Un moment de fierté nationale.",
-      "summary_en": "Mercedes shared a video call between test driver Joshua Durksen and Paraguay’s president, Santiago Peña, who congratulated him on his first Formula 1 test. A proud moment for the country."
     }
   ]
 }
