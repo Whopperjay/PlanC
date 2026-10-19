@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T13:00:03Z",
-  "model": "claude",
+  "generated_at": "2026-10-19T20:34:44Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -100,12 +100,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "antonelli",
-      "reasoning_fr": "Verstappen part en pole et a montré une excellente gestion des pneus à Singapour, ce qui le rend favori sur le COTA. Leclerc, deuxième en qualification et deuxième en course à Singapour, bénéficie d'une Ferrari bien équilibrée et d'une stratégie de pit‑stop efficace. Antonelli, quatrième en qualif et troisième à Singapour, combine vitesse pure et fiabilité Mercedes, ce qui le place bien pour profi",
-      "reasoning_en": "Verstappen starts from pole and demonstrated superb tire management in Singapore, making him the favorite at COTA. Leclerc, second in qualifying and second in Singapore, has a well‑balanced Ferrari and can execute an optimal pit‑stop strategy. Antonelli, fourth on the grid and third in Singapore, blends raw speed with Mercedes reliability, positioning him to capitalize on overtaking chances during",
+      "reasoning_fr": "Max Verstappen part en pole ; son Red Bull excelle sur les longues lignes droites de COTA et gère très bien la dégradation des pneus, lui assurant un rythme constant malgré les arrêts aux stands. Charles Leclerc, en Ferrari, a affiché une forte vitesse en qualification et maîtrise le freinage dans les virages serrés, ce qui le rend compétitif sur le circuit. Andrea Kimi Antonelli, champion avec Me",
+      "reasoning_en": "Max Verstappen starts from pole and his Red Bull is superb on COTA’s long straights, while its tyre‑degradation management keeps lap times stable through multiple pit stops. Charles Leclerc in the Ferrari showed strong one‑lap pace and excellent braking in the tight corners, giving him race‑pace advantage on this circuit. Andrea Kimi Antonelli, the championship leader with Mercedes, combines a hig",
       "confidence": "medium",
-      "key_factor_fr": "Position de grille et rythme en qualification",
+      "key_factor_fr": "Quali forte et gestion pneus",
       "news_used_ids": [],
-      "generated_at": "2026-10-19T08:30:05Z"
+      "generated_at": "2026-10-19T20:34:43Z"
     }
   ]
 }
