@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T05:00:04Z",
-  "model": "claude",
+  "generated_at": "2026-10-19T08:30:06Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -97,15 +97,15 @@
       "race_id": "united_states",
       "session_type": "grand_prix",
       "session_date": "2026-10-25T20:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "leclerc",
-      "reasoning_fr": "Antonelli mène le championnat et a montré une constance remarquable, avec une 4e en qualification à Singapour et une victoire en course. La mise à jour Mercedes, bien que plus exigeante, renforce la vitesse en ligne droite, crucial sur le Circuit of the Americas. Verstappen garde son rythme de pointe et sa maîtrise de la pression, tandis que Leclerc, deuxième en qualification à Singapour, bénéfici",
-      "reasoning_en": "Antonelli tops the championship and has displayed strong consistency, posting a P4 in Singapore qualifying and a race win. Mercedes' new update, while harder to drive, boosts straight‑line speed, a key advantage at COTA. Verstappen retains his blistering pace and pressure handling, and Leclerc, who qualified second in Singapore, enjoys Ferrari's aero suited to the long straights. These elements ma",
+      "p1": "max_verstappen",
+      "p2": "leclerc",
+      "p3": "antonelli",
+      "reasoning_fr": "Verstappen part en pole et a montré une excellente gestion des pneus à Singapour, ce qui le rend favori sur le COTA. Leclerc, deuxième en qualification et deuxième en course à Singapour, bénéficie d'une Ferrari bien équilibrée et d'une stratégie de pit‑stop efficace. Antonelli, quatrième en qualif et troisième à Singapour, combine vitesse pure et fiabilité Mercedes, ce qui le place bien pour profi",
+      "reasoning_en": "Verstappen starts from pole and demonstrated superb tire management in Singapore, making him the favorite at COTA. Leclerc, second in qualifying and second in Singapore, has a well‑balanced Ferrari and can execute an optimal pit‑stop strategy. Antonelli, fourth on the grid and third in Singapore, blends raw speed with Mercedes reliability, positioning him to capitalize on overtaking chances during",
       "confidence": "medium",
-      "key_factor_fr": "Quali forte Mercedes sur COTA",
+      "key_factor_fr": "Position de grille et rythme en qualification",
       "news_used_ids": [],
-      "generated_at": "2026-10-18T20:28:31Z"
+      "generated_at": "2026-10-19T08:30:05Z"
     }
   ]
 }
