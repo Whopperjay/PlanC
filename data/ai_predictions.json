@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:30:06Z",
+  "generated_at": "2026-10-19T11:31:54Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -85,12 +85,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "hamilton",
-      "reasoning_fr": "Sur le Circuit of the Americas, la progression du grip est très rapide, favorisant les pilotes qui maîtrisent le tour unique. Max Verstappen a affiché le meilleur rythme en qualification à Singapour et possède une Red Bull adaptée aux longues lignes droites. Charles Leclerc, en forme et avec une Ferrari qui a bien évolué, a confirmé son rythme en pole à Singapour. Lewis Hamilton, malgré la mise à ",
-      "reasoning_en": "At COTA the track evolves quickly, rewarding drivers who can extract a perfect single lap. Max Verstappen posted the fastest qualifying time in Singapore and his Red Bull suits the long straights. Charles Leclerc, in good form and with a Ferrari that has improved, confirmed his pace by taking pole in Singapore. Lewis Hamilton, despite Mercedes' tougher update, remains extremely quick over one lap ",
+      "reasoning_fr": "Sur le circuit de COTA, la qualification repose sur un seul tour. Max Verstappen a dominé la dernière séance à Singapour, montrant un rythme de pointe exceptionnel et une bonne maîtrise du tracé. Charles Leclerc, deuxième à Singapour, bénéficie d’une Ferrari très stable et d’une évolution de piste favorable. Lewis Hamilton, troisième en qualif à Singapour, combine expérience et vitesse pure, ce qu",
+      "reasoning_en": "COTA qualifying is a single‑lap sprint, so recent one‑lap pace is decisive. Max Verstappen topped Singapore qualifying, proving he can extract maximum performance on a fresh track. Charles Leclerc, second in Singapore, has a very stable Ferrari and will benefit from the track’s evolution. Lewis Hamilton, third in Singapore, blends experience with outright speed, securing a top‑three spot. While ot",
       "confidence": "high",
-      "key_factor_fr": "Évolution rapide du circuit + rythme sur un tour",
+      "key_factor_fr": "Rythme récent en qualification",
       "news_used_ids": [],
-      "generated_at": "2026-10-18T23:29:04Z"
+      "generated_at": "2026-10-19T11:31:53Z"
     },
     {
       "event_id": "united_states_grand_prix",
