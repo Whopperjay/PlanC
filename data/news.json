@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-19T08:28:57Z",
+  "last_updated": "2026-10-19T11:31:15Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "fb0c7e8d7514",
+      "title": "Spa 24 Hours emerges as Max Verstappen’s likely 2027 GT target",
+      "title_fr": "Verstappen vise Spa 24h comme cible GT 2027",
+      "title_en": "Verstappen targets Spa 24h as 2027 GT goal",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/spa-24-hours-emerges-as-max-verstappens-likely-2027-gt-target/10866254/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbAo1j0/s6/72945935-5.jpg",
+      "published_at": "2026-10-19T11:03:11+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Après une performance impressionnante à Portimão, Max Verstappen souhaite poursuivre ses courses GT à Spa-Francorchamps, son circuit favori, en partageant la Mercedes Team Verstappen avec Chris Lulham et Ben Barnicoat.",
+      "summary_en": "After an impressive outing at Portimão, Max Verstappen aims to continue his GT racing at Spa-Francorchamps, his favourite track, sharing the Team Verstappen Mercedes with Chris Lulham and Ben Barnicoat."
+    },
+    {
+      "id": "261791f8d265",
+      "title": "McLaren retains Leonardo Fornaroli in F1 as Italian adds WEC programme for 2027",
+      "title_fr": "McLaren garde Fornaroli en F1, l'italien s'ouvre au WEC",
+      "title_en": "McLaren keeps Fornaroli in F1, Italian adds WEC programme",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-retains-fornaroli-in-f1-as-italian-adds-wec-programme-for-2027/10866224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/25dL7gx0/s6/leonardo-fornaroli-mclaren.jpg",
+      "published_at": "2026-10-19T11:01:59+00:00",
+      "race_id": "italy",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "McLaren a confirmé Leonardo Fornaroli comme pilote de réserve et troisième pilote pour 2027, tout en l'inscrivant au championnat du monde d'endurance. Le pilote italien débutera en Hypercar avec l'équipe.",
+      "summary_en": "McLaren has confirmed Leonardo Fornaroli as its reserve and third driver for 2027, while also adding him to the World Endurance Championship. The Italian will debut in the Hypercar with the team."
+    },
+    {
+      "id": "eb0763288989",
+      "title": "McLaren retains Fornaroli as F1 reserve and hands him WEC programme for 2027",
+      "title_fr": "Fornaroli reste pilote de réserve chez McLaren et s'apprête à débuter en WEC",
+      "title_en": "Fornaroli stays McLaren reserve and set for WEC debut",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mclaren-retains-fornaroli-as-f1-reserve-and-hands-him-wec-programme-for-2027/10866226/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/25dL7gx0/s6/leonardo-fornaroli-mclaren.jpg",
+      "published_at": "2026-10-19T11:01:36+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "McLaren confirme Leonardo Fornaroli comme pilote de réserve et troisième pilote pour 2027, tout en lui confiant un programme WEC. Le pilote italien débutera en Hypercar McLaren en 2027.",
+      "summary_en": "McLaren confirms Leonardo Fornaroli as its reserve and third driver for 2027, while also assigning him a WEC programme. The Italian will debut in McLaren's Hypercar in 2027."
+    },
+    {
+      "id": "f36f03104ea9",
+      "title": "Max Verstappen jokes he will need a \"new spine\" after \"incredibly bumpy\" US GP circuit",
+      "title_fr": "Max Verstappen jokes he will need a \"new spine\" after \"incredibly bumpy\" US GP circuit",
+      "title_en": "Max Verstappen jokes he will need a \"new spine\" after \"incredibly bumpy\" US GP circuit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-he-will-need-a-new-spine-after-incredibly-bumpy-us-gp-circuit/10866242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/01QNaeQ0/s6/72945935.jpg",
+      "published_at": "2026-10-19T10:44:58+00:00",
+      "race_id": "bahrain",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne",
+      "summary_en": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne"
+    },
+    {
+      "id": "feab562e6412",
+      "title": "George Russell hints at hidden struggles behind 2025 Singapore GP victory",
+      "title_fr": "Russell révèle des difficultés cachées derrière sa victoire à Singapour",
+      "title_en": "Russell hints at hidden struggles behind Singapore win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-hints-at-hidden-struggles-behind-2025-singapore-gp-victory/10866231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YXyKqkR6/s6/72945935-2.jpg",
+      "published_at": "2026-10-19T10:12:32+00:00",
+      "race_id": "austria",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a admis qu’il traversait des difficultés importantes pendant son week-end de victoire à Singapour 2025, affirmant que peu de gens en étaient informés.",
+      "summary_en": "George Russell admitted he faced significant struggles during his Singapore 2025 victory weekend, saying only a few people were aware of what was happening off the track."
+    },
+    {
+      "id": "7c0082b4dc6d",
+      "title": "Gabriel Bortoleto seeks Red Bull lessons from Max Verstappen during gaming sessions",
+      "title_fr": "Bortoleto cherche les secrets de Red Bull auprès de Verstappen",
+      "title_en": "Bortoleto seeks Red Bull lessons from Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-seeks-red-bull-lessons-from-max-verstappen-during-gaming-sessions/10866220/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9Eqn1Y/s6/72945935-3.jpg",
+      "published_at": "2026-10-19T09:45:07+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Audi Gabriel Bortoleto, ami de Max Verstappen, lui demande comment Red Bull est devenu champion pour appliquer ces enseignements à Audi.",
+      "summary_en": "Audi driver Gabriel Bortoleto, a friend of Max Verstappen, asks the four-time champion how Red Bull became a champion to apply the lessons to Audi."
+    },
+    {
+      "id": "a7e464c107a6",
+      "title": "George Russell claims unofficial 2026 F1 sprint title",
+      "title_fr": "George Russell claims unofficial 2026 F1 sprint title",
+      "title_en": "George Russell claims unofficial 2026 F1 sprint title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-claims-unofficial-2026-f1-sprint-title/10866218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwdNl2/s6/72945935-1.jpg",
+      "published_at": "2026-10-19T09:43:20+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell would have been crowned sprint champion in 2026, if F1 had awarded such a title, after Lando Norris's last-lap clash with his McLaren team-mate Oscar Piastri in Singapore.<br />While Ru",
+      "summary_en": "George Russell would have been crowned sprint champion in 2026, if F1 had awarded such a title, after Lando Norris's last-lap clash with his McLaren team-mate Oscar Piastri in Singapore.<br />While Ru"
+    },
+    {
+      "id": "5c7534ca6d6f",
+      "title": "What Red Bull needs to pass McLaren at the United States Grand Prix",
+      "title_fr": "Red Bull doit tout donner pour dépasser McLaren aux États-Unis",
+      "title_en": "Red Bull must push to overtake McLaren at the United States Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/what-red-bull-needs-to-pass-mclaren-at-the-united-states-grand-prix/10866208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoDkOp0/s6/72945935-2-2.jpg",
+      "published_at": "2026-10-19T09:15:48+00:00",
+      "race_id": "usa",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Red Bull se trouve à 332 points, à sept de McLaren. Pour franchir la barre, Verstappen et Hadjar devront maximiser leurs performances afin de remonter au troisième rang.",
+      "summary_en": "Red Bull sits at 332 points, seven behind McLaren. Verstappen and Hadjar must push hard to climb back into third place."
+    },
+    {
+      "id": "9a810f485747",
+      "title": "Inside the competition building F1’s future engineering talent",
+      "title_fr": "Lynx Racing, champion du STEM Racing, fait sensation à Singapour",
+      "title_en": "Team Lynx Racing wins STEM Racing World Finals in Singapore",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/68VwdPX2/s6/stem-racing-world-final-2026-s.jpg",
+      "published_at": "2026-10-19T08:37:56+00:00",
+      "race_id": "saudi",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Six lycéens saoudiens, membres de Team Lynx Racing, ont remporté le championnat annuel STEM Racing World Finals à Singapour. Le groupe, composé de quatre garçons et deux filles, se promène désormais dans le paddock de la Formule 1.",
+      "summary_en": "Six Saudi high-school students from Team Lynx Racing won the annual STEM Racing World Finals in Singapore. The four-boy, two-girl team is now touring the Formula 1 paddock, showcasing the next generation of engineering talent."
+    },
+    {
+      "id": "cb0f97dc9e7d",
+      "title": "Inside the competition building F1’s future engineering talent",
+      "title_fr": "Lynx Racing, champion du STEM Racing World Finals, fait sensation à Singapour",
+      "title_en": "Team Lynx Racing wins STEM Racing World Finals in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866186/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwdPX2/s6/stem-racing-world-final-2026-s.jpg",
+      "published_at": "2026-10-19T08:27:35+00:00",
+      "race_id": "saudi",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Six lycéens saoudiens, membres de Lynx Racing, ont remporté le STEM Racing World Finals à Singapour, démontrant le potentiel de la prochaine génération d'ingénieurs F1",
+      "summary_en": "Six Saudi high‑school students from Lynx Racing won the STEM Racing World Finals in Singapore, showcasing the future of F1 engineering talent"
+    },
     {
       "id": "ace03de53393",
       "title": "Max Verstappen and Anthony Hamilton's \"wholesome\" reunion earns F1 fan praise",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Zak Brown a averti Lando Norris et Oscar Piastri après leur collision lors du sprint du Grand Prix de Singapour. Le directeur de McLaren insiste sur la nécessité de ne pas répéter l'incident.",
       "summary_en": "Zak Brown warned McLaren drivers Lando Norris and Oscar Piastri after their collision in the Singapore sprint. The team principal stresses the importance of avoiding a repeat of the incident."
-    },
-    {
-      "id": "4476c23f7523",
-      "title": "Christian Horner calls for F1 budget cap rethink: \"Teams are spending $500 or $600m\"",
-      "title_fr": "Horner réclame une hausse du plafond budgétaire F1",
-      "title_en": "Horner calls for higher F1 budget cap",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-calls-for-f1-budget-cap-rethink-teams-are-spending-500-or-600m/10865680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/68VwdaV2/s6/christian-horner.jpg",
-      "published_at": "2026-10-17T10:34:41+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner demande d'augmenter le plafond budgétaire de 215 m$ à 500–600 m$ pour refléter les dépenses réelles des équipes.",
-      "summary_en": "Christian Horner urges Formula 1 to raise the $215 million budget cap to match teams’ real spending of $500–600 million."
-    },
-    {
-      "id": "fd4ff31f8806",
-      "title": "Mercedes F1 accounts reveal £633m revenue and £125m payout to shareholders",
-      "title_fr": "Mercedes F1 réalise 633 m£ de revenus et verse 125 m£ de dividendes",
-      "title_en": "Mercedes F1 posts £633m revenue, pays £125m dividends",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-f1-accounts-reveal-633m-revenue-and-125m-payout-to-shareholders/10865823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/25dL7nJ0/s6/untitled-design-2026-10-17t112.jpg",
-      "published_at": "2026-10-17T10:27:45+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Mercedes F1 a généré 633,4 m£ de revenus en 2025 et a versé 125 m£ de dividendes à ses actionnaires, selon ses comptes annuels déposés à Companies House. L’équipe a terminé deuxième du championnat des constructeurs.",
-      "summary_en": "Mercedes Formula 1 reported £633.4 million in revenue for 2025 and paid £125 million in dividends to shareholders, according to its annual accounts filed at Companies House. The team finished second in the constructors' championship."
-    },
-    {
-      "id": "d7bb4fe45ef3",
-      "title": "Ferrari expected to introduce major upgrade package at United States GP",
-      "title_fr": "Ferrari dévoilera un nouveau plancher aux États-Unis",
-      "title_en": "Ferrari to unveil new floor at United States GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEAo3q0/s6/untitled-design-58.jpg",
-      "published_at": "2026-10-17T10:27:45+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Ferrari prévoit d'installer un nouveau plancher lors du Grand Prix des États-Unis, dans le cadre de son ultime mise à jour de la saison 2026. L'équipe de Maranello se concentre déjà sur 2027.",
-      "summary_en": "Ferrari is expected to introduce a new floor at the United States Grand Prix as part of its final major upgrade for the 2026 season, while already shifting focus to 2027."
-    },
-    {
-      "id": "9cf380fd5fb2",
-      "title": "What Verstappen knew about Red Bull’s big upgrade when he signed his new F1 deal",
-      "title_fr": "Verstappen connaît déjà l’impact de la mise à jour de Red Bull",
-      "title_en": "Verstappen already knew the impact of Red Bull’s big upgrade",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdKNQ1Y/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-17T08:17:38+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen, incertain de finir la saison victoire à Monza, aurait déjà anticipé l’impact de la grande mise à jour de Red Bull lorsqu’il a signé son contrat. Il a fini par gagner à Baku, puis à Malaisie et Singapour",
-      "summary_en": "Max Verstappen, still unsure of ending the season without a win at Monza, reportedly knew the impact of Red Bull’s major upgrade when he signed his new contract. He went on to win in Baku, then Malaysia and Singapore"
-    },
-    {
-      "id": "c29bdb8952e7",
-      "title": "Did Max Verstappen already know the impact of Red Bull’s big upgrade when he signed his new deal?",
-      "title_fr": "Verstappen connaît déjà l'upgrade de Red Bull avant de signer",
-      "title_en": "Verstappen already knew Red Bull's upgrade before signing his new deal",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6zoDkQ70/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-17T08:15:22+00:00",
-      "race_id": "azerbaijan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen, alors réflexion sur une saison victoire à Monza, aurait déjà anticipé l'impact de la grosse mise à jour de Red Bull avant de signer son nouveau contrat. Il a fini par remporter les courses de Malaisie et Singapour",
-      "summary_en": "Max Verstappen, still weighing a winless season at Monza, reportedly knew the impact of Red Bull's major upgrade before signing his new contract. He went on to win the Malaysian and Singapore races"
-    },
-    {
-      "id": "e98e77c9dc31",
-      "title": "Russell and Leclerc are the joint ‘sprint race champions’ of 2026 | Formula 1",
-      "title_fr": "Russell and Leclerc are the joint ‘sprint race champions’ of 2026 | Formula 1",
-      "title_en": "Russell and Leclerc are the joint ‘sprint race champions’ of 2026 | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/17/russell-and-leclerc-are-the-joint-sprint-race-champions-of-2026/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/07/racefansdotnet-24-07-06-23-25-42-8-M613370_F1_Grand_Prix_of_Great_Britain.jpg",
-      "published_at": "2026-10-17T07:15:52+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "If Formula 1 had a 'sprint race championship', it would have enjoyed an exciting conclusion in Singapore.",
-      "summary_en": "If Formula 1 had a 'sprint race championship', it would have enjoyed an exciting conclusion in Singapore."
-    },
-    {
-      "id": "ad543d0ef1c1",
-      "title": "Bernie Collins warns of growing trust issues between Lewis Hamilton and Ferrari",
-      "title_fr": "Bernie Collins pointe les problèmes de confiance entre Hamilton et Ferrari",
-      "title_en": "Bernie Collins warns of trust issues between Hamilton and Ferrari",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/bernie-collins-warns-of-growing-trust-issues-between-lewis-hamilton-and-ferrari/10865751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmAoeL0/s6/untitled-design-57.jpg",
-      "published_at": "2026-10-16T21:59:48+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Bernie Collins, ancien stratège de Formule 1, affirme que Lewis Hamilton souffre d'un manque de confiance envers la Ferrari après le Grand Prix de Singapour. Le pilote Mercedes, Kimi Antonelli, se rapproche du titre.",
-      "summary_en": "Bernie Collins, former F1 strategist, says Lewis Hamilton is suffering from a lack of trust in Ferrari after Singapore. Mercedes' Kimi Antonelli is closing on the championship."
-    },
-    {
-      "id": "ba4f66c7e019",
-      "title": "Ferrari releases chaotic footage of Lewis Hamilton and Charles Leclerc's social media takeover",
-      "title_fr": "Hamilton et Leclerc prennent d'assaut les réseaux de Ferrari",
-      "title_en": "Hamilton and Leclerc hijack Ferrari's social media",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-releases-chaotic-footage-of-lewis-hamilton-and-charles-leclercs-social-media-takeover/10865748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdKq9rY/s6/untitled-design-56.jpg",
-      "published_at": "2026-10-16T21:21:49+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a publié des images montrant Lewis Hamilton et Charles Leclerc prendre le contrôle des comptes de l'équipe pendant le week-end du Grand Prix de Singapour. Les pilotes ont profité d'une fenêtre de 20 minutes pour publier leurs contenus.",
-      "summary_en": "Ferrari released behind-the-scenes footage showing Lewis Hamilton and Charles Leclerc hijacking the team's social media accounts during the Singapore Grand Prix weekend. The drivers used a 20-minute window to post their own content."
-    },
-    {
-      "id": "5263021212cf",
-      "title": "Liam Lawson unveils limited-edition guitar ahead of Austin live performance",
-      "title_fr": "Liam Lawson dévoile une guitare édition limitée avant son concert à Austin",
-      "title_en": "Liam Lawson unveils limited‑edition guitar ahead of Austin performance",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZXoK86/s6/untitled-design-55.jpg",
-      "published_at": "2026-10-16T20:45:24+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote de la Racing Bulls, Liam Lawson, a présenté une guitare signature en collaboration avec Taylor Guitars avant son spectacle live à Austin, prévu le 22 octobre.",
-      "summary_en": "Liam Lawson, Racing Bulls driver, unveiled a signature guitar with Taylor Guitars ahead of his live show in Austin on 22 October."
-    },
-    {
-      "id": "882ff193f98e",
-      "title": "Colapinto urges fans to stop online abuse: “You’re not helping me or my future”",
-      "title_fr": "Colapinto appelle les fans argentins à cesser les abus en ligne",
-      "title_en": "Colapinto urges fans to stop online abuse",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2jEAoKq0/s6/franco-colapinto-alpine-2.jpg",
-      "published_at": "2026-10-16T15:32:39+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Franco Colapinto a demandé aux supporters argentins de cesser les propos haineux qui ont ciblé des officiels, Pierre Gasly et Lando Norris après les courses de Zandvoort, Madrid et Baku.",
-      "summary_en": "Driver Franco Colapinto has asked Argentine fans to stop hateful online comments that targeted officials, Pierre Gasly and Lando Norris after the Zandvoort, Madrid and Baku races."
     }
   ]
 }
