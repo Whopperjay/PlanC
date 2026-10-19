@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-10-19T11:31:15Z",
+  "last_updated": "2026-10-19T17:33:35Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6992ecc564e5",
+      "title": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
+      "title_fr": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
+      "title_en": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-raises-almost-50000-for-rhino-charity-with-f1-helmet-fundraiser/10866360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BqaB2/s6/72945935-4.jpg",
+      "published_at": "2026-10-19T17:15:06+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Valtteri Bottas has revealed the winner of the race-worn rhino helmet he used at the Azerbaijan Grand Prix after a fundraising drive for a South African rhino charity.<br />The Cadillac driver reveale",
+      "summary_en": "Valtteri Bottas has revealed the winner of the race-worn rhino helmet he used at the Azerbaijan Grand Prix after a fundraising drive for a South African rhino charity.<br />The Cadillac driver reveale"
+    },
+    {
+      "id": "eb4c4f926900",
+      "title": "Sergio Perez: Debut Cadillac season \"without a doubt one of my best years\"",
+      "title_fr": "Sergio Perez: Debut Cadillac season \"without a doubt one of my best years\"",
+      "title_en": "Sergio Perez: Debut Cadillac season \"without a doubt one of my best years\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-debut-cadillac-season-without-a-doubt-one-of-my-best-years/10866353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QlAg6/s6/sergio-perez-cadillac-racing.jpg",
+      "published_at": "2026-10-19T16:42:07+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "If one looks at Sergio Perez's numbers in the 2026 Formula 1 season, the campaign could be classified as disastrous.<br />So far, Cadillac has not scored a point, although the Mexican came close to ac",
+      "summary_en": "If one looks at Sergio Perez's numbers in the 2026 Formula 1 season, the campaign could be classified as disastrous.<br />So far, Cadillac has not scored a point, although the Mexican came close to ac"
+    },
+    {
+      "id": "9c3311b99428",
+      "title": "Lewis Hamilton grandstand returns to Las Vegas GP with expanded access for fans",
+      "title_fr": "Hamilton retrouve sa tribune à Las Vegas",
+      "title_en": "Hamilton returns to Las Vegas with new grandstand",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-grandstand-returns-to-las-vegas-gp-with-expanded-access-for-fans/10866351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/68Vwdll2/s6/72945935-3.jpg",
+      "published_at": "2026-10-19T16:40:09+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton retrouve sa tribune à Las Vegas pour le GP 2026, offrant des places assignées, boissons, accès aux zones de spectateurs et entretiens. Le package inclut également la visualisation de toutes les sessions.",
+      "summary_en": "Lewis Hamilton brings back his grandstand to the 2026 Las Vegas GP, offering assigned seats, drinks, fan zone access, driver interviews, and full track session viewing."
+    },
+    {
+      "id": "f7ac8cdb1fb7",
+      "title": "Fernando Alonso auctions off rare hot lap experience for charity",
+      "title_fr": "Alonso vend un tour de rêve pour la charité",
+      "title_en": "Alonso sells hot lap for charity",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-auctions-off-rare-hot-lap-experience-for-charity/10866347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVPoby0/s6/72945935-2.jpg",
+      "published_at": "2026-10-19T16:11:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso propose un tour de circuit à un fan pour soutenir sa fondation. L'expérience, offerte à la vente aux enchères, est estimée entre 12 000 et 18 000 dollars.",
+      "summary_en": "Fernando Alonso offers a hot lap experience to a fan to support his foundation. The event, part of a charity auction, is valued between $12,000 and $18,000."
+    },
+    {
+      "id": "e0c35be32e53",
+      "title": "McLaren to use final 2026 developments to test 2027 F1 car concepts",
+      "title_fr": "McLaren to use final 2026 developments to test 2027 F1 car concepts",
+      "title_en": "McLaren to use final 2026 developments to test 2027 F1 car concepts",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-to-use-final-2026-developments-to-test-2027-f1-car-concepts/10866094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdKNrKY/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-10-19T16:11:26+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren has revealed that its last run of upgrades for its 2026 Formula 1 car will also act as tests for “fundamental concepts that will carry into next year’s car”.<br />After the Singapore Grand Pri",
+      "summary_en": "McLaren has revealed that its last run of upgrades for its 2026 Formula 1 car will also act as tests for “fundamental concepts that will carry into next year’s car”.<br />After the Singapore Grand Pri"
+    },
+    {
+      "id": "0427b1afd7ea",
+      "title": "Lewis Hamilton and Max Verstappen call for Singapore F1 track changes",
+      "title_fr": "Hamilton et Verstappen réclament des changements au circuit de Singapour",
+      "title_en": "Hamilton and Verstappen call for changes to Singapore circuit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-call-for-singapore-f1-track-changes/10866335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0arE7Pw2/s6/72945935-1.jpg",
+      "published_at": "2026-10-19T14:51:30+00:00",
+      "race_id": "singapore",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton et Max Verstappen demandent une modification du circuit de Marina Bay, souhaitant une ligne droite plus longue ou un véritable virage en épingle pour améliorer la course à Singapour.",
+      "summary_en": "Lewis Hamilton and Max Verstappen are calling for changes to Singapore's Marina Bay Street Circuit, requesting a longer straight or a proper hairpin to make the race more exciting."
+    },
+    {
+      "id": "64a9af3c6340",
+      "title": "Honda ADUO engine upgrade pegged driveability back near Spec 1 level",
+      "title_fr": "Honda ramène la maniabilité de son moteur ADUO à l'ancienne",
+      "title_en": "Honda brings ADUO engine drivability back to Spec 1 level",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/honda-aduo-engine-upgrade-pegged-driveability-back-near-spec-1-level/10866261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YN7v4Q46/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-10-19T14:05:26+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le président de Honda Racing Corporation, Koji Watanabe, a déclaré que la mise à jour du moteur ADUO a rapproché la maniabilité de l’équipe de son niveau de la première spécification, longtemps problématique.",
+      "summary_en": "Honda Racing Corporation president Koji Watanabe said the ADUO engine upgrade has brought the team's drivability close to its troubled first-spec level."
+    },
+    {
+      "id": "87fed201c922",
+      "title": "Williams has better cooling vests than anyone – Alex Albon",
+      "title_fr": "Williams has better cooling vests than anyone – Alex Albon",
+      "title_en": "Williams has better cooling vests than anyone – Alex Albon",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/williams-best-cooling-vests-albon/10866233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBvmE6/s6/alexander-albon-williams-carlo.jpg",
+      "published_at": "2026-10-19T12:34:16+00:00",
+      "race_id": "uk",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Alex Albon has branded Williams’ cooling vest as “the best on the grid”, following a comfortable Singapore Grand Prix for the British-Thai driver.<br />A Heat Hazard was declared for the Marina Bay ra",
+      "summary_en": "Alex Albon has branded Williams’ cooling vest as “the best on the grid”, following a comfortable Singapore Grand Prix for the British-Thai driver.<br />A Heat Hazard was declared for the Marina Bay ra"
+    },
     {
       "id": "fb0c7e8d7514",
       "title": "Spa 24 Hours emerges as Max Verstappen’s likely 2027 GT target",
@@ -77,6 +229,25 @@
       "is_breaking": false,
       "summary_fr": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne",
       "summary_en": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne"
+    },
+    {
+      "id": "76d3de19ec67",
+      "title": "Video: WEC teams title decided in relocated finale in Spain | Formula 1",
+      "title_fr": "WEC : le titre des équipes décidé lors de la finale relocalisée en Espagne",
+      "title_en": "WEC teams title decided in relocated finale in Spain",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/19/video-wec-teams-title-decided-in-relocated-finale-in-spain/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/wec_181026_1016-1.jpg",
+      "published_at": "2026-10-19T10:26:30+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le championnat des équipes WEC a été scellé lors de la finale relocalisée en Espagne. Les points décisifs ont été attribués après une course intense, confirmant le champion du titre.",
+      "summary_en": "The WEC teams' championship was decided in the relocated finale in Spain. The decisive points were awarded after a tense race, confirming the title winner."
     },
     {
       "id": "feab562e6412",
@@ -590,177 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes a partagé un appel vidéo entre le pilote de test Joshua Durksen et le président du Paraguay, Santiago Peña, qui l'a félicité pour son premier essai en Formule 1. Un moment de fierté nationale.",
       "summary_en": "Mercedes shared a video call between test driver Joshua Durksen and Paraguay’s president, Santiago Peña, who congratulated him on his first Formula 1 test. A proud moment for the country."
-    },
-    {
-      "id": "2414d70359fd",
-      "title": "Mercedes reveals why it rejected the Macarena wing over a year ago",
-      "title_fr": "Mercedes reveals why it rejected the Macarena wing over a year ago",
-      "title_en": "Mercedes reveals why it rejected the Macarena wing over a year ago",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-reveals-why-it-rejected-f1s-macarena-wing-over-a-year-ago/10865869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EqGLY/s6/untitled-design-2026-10-17t145-3.jpg",
-      "published_at": "2026-10-17T14:02:31+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Mercedes Formula 1 team looked at building its own Macarena rear wing long before it was seen running on a circuit by a rival outfit. But according to deputy technical director Simone Resta, it de",
-      "summary_en": "The Mercedes Formula 1 team looked at building its own Macarena rear wing long before it was seen running on a circuit by a rival outfit. But according to deputy technical director Simone Resta, it de"
-    },
-    {
-      "id": "f173df9cfc0a",
-      "title": "What drives Bortoleto as his junior rivals hit new heights in F1",
-      "title_fr": "Bortoleto observe la montée de ses rivaux juniors en F1",
-      "title_en": "Bortoleto watches his junior rivals reach new heights in F1",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/what-drives-bortoleto-as-his-junior-rivals-hit-new-heights-in-f1/10865865/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/24vPom46/s6/gabriel-bortoleto-invicta-raci.jpg",
-      "published_at": "2026-10-17T13:15:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Gabriel Bortoleto, qui a battu Kimi Antonelli et Isack Hadjar dans les catégories juniors, observe leurs premiers podiums en Formule 1. Les deux pilotes de sa génération ont brillé sur le circuit, tandis que Bortoleto reste hors de la grille.",
-      "summary_en": "Gabriel Bortoleto, who beat Kimi Antonelli and Isack Hadjar in junior categories, watches their first Formula 1 podiums. The two drivers from his generation have already shone on the track, while Bortoleto remains off the grid."
-    },
-    {
-      "id": "698b8c22f152",
-      "title": "Lando Norris sparks controversy after appearing to mock Lance Stroll in viral video",
-      "title_fr": "Norris déclenche polémique en se moquant de Stroll",
-      "title_en": "Norris sparks controversy by mocking Stroll",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-sparks-controversy-after-appearing-to-mock-lance-stroll-in-viral-video/10865840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2eZxnEpY/s6/untitled-design-2026-10-17t122-2.jpg",
-      "published_at": "2026-10-17T13:05:02+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a déclenché une polémique après avoir semblé se moquer de Lance Stroll dans une vidéo virale diffusée après le Grand Prix de Singapour. Le clip a dépassé trois millions de vues sur X.",
-      "summary_en": "Lando Norris sparked controversy after a clip appeared to show him mocking Lance Stroll during a night out after the Singapore Grand Prix. The video has amassed over three million views on X."
-    },
-    {
-      "id": "14f23ff75d6e",
-      "title": "Gabriel Bortoleto on Kimi Antonelli and Isack Hadjar's F1 success: 'Let's see where we are in 20 years'",
-      "title_fr": "Gabriel Bortoleto on Kimi Antonelli and Isack Hadjar's F1 success: 'Let's see where we are in 20 years'",
-      "title_en": "Gabriel Bortoleto on Kimi Antonelli and Isack Hadjar's F1 success: 'Let's see where we are in 20 years'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-on-kimi-antonelli-and-isack-hadjars-f1-success-lets-see-where-we-are-in-20-years/10865704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/24vPom46/s6/gabriel-bortoleto-invicta-raci.jpg",
-      "published_at": "2026-10-17T13:05:01+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Gabriel Bortoleto has watched Kimi Antonelli and Isack Hadjar celebrate their first Formula 1 podiums. Both are from his generation of drivers, having competed against him throughout the junior catego",
-      "summary_en": "Gabriel Bortoleto has watched Kimi Antonelli and Isack Hadjar celebrate their first Formula 1 podiums. Both are from his generation of drivers, having competed against him throughout the junior catego"
-    },
-    {
-      "id": "96f1ca554b0d",
-      "title": "Nicki Thiim's cheeky F1 jab: \"Max Verstappen just wants to drive a proper race car!\"",
-      "title_fr": "Thiim se moque de Verstappen lors du GT",
-      "title_en": "Thiim teases Verstappen at GT event",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/gtwce-endurance/news/thiim-stichelt-gegen-f1-verstappen-will-nur-mal-richtiges-rennauto-fahren/10865861/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Q2jgVREY/s6/thiim-stichelt-gegen-f1-verstappen-will-nur-mal-richtiges-rennauto-fahren-26101701.jpg",
-      "published_at": "2026-10-17T13:01:55+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Nicki Thiim, vétéran d’Aston Martin, a taquiné Max Verstappen lors de la finale GT World Challenge Europe à Portimão, soulignant les difficultés de la Formule 1 avec ses nouvelles règles de 2026.",
-      "summary_en": "Nicki Thiim, Aston Martin veteran, teased Max Verstappen during the GT World Challenge Europe finale in Portimão, highlighting F1's struggles with its 2026 power unit regulations."
-    },
-    {
-      "id": "7c824c0e7b71",
-      "title": "Daniel Ricciardo hints at F1 paddock return amid Ford Raptor road trip to Austin",
-      "title_fr": "Daniel Ricciardo hints at F1 paddock return amid Ford Raptor road trip to Austin",
-      "title_en": "Daniel Ricciardo hints at F1 paddock return amid Ford Raptor road trip to Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-hints-at-f1-paddock-return-amid-ford-raptor-road-trip-to-austin/10865852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/25dL7VJ0/s6/untitled-design-61.jpg",
-      "published_at": "2026-10-17T12:16:46+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver Daniel Ricciardo is taking on an intense road trip across America, starting in the Arizona desert for Ford's Raptor Rally this weekend and ending in Austin, Texas, for the Unit",
-      "summary_en": "Former Formula 1 driver Daniel Ricciardo is taking on an intense road trip across America, starting in the Arizona desert for Ford's Raptor Rally this weekend and ending in Austin, Texas, for the Unit"
-    },
-    {
-      "id": "3935310c0dd7",
-      "title": "Red Bull explains how AI is influencing its F1 race strategy",
-      "title_fr": "Red Bull dévoile l'IA qui façonne sa stratégie de course",
-      "title_en": "Red Bull reveals AI shaping its race strategy",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-explains-how-ai-is-influencing-its-f1-race-strategy/10865843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2y7Qwdy6/s6/untitled-design-60.jpg",
-      "published_at": "2026-10-17T11:39:02+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull utilise un système d'intelligence artificielle, développé avec Oracle, qui recommande des actions en temps réel pendant les Grands Prix. Le dispositif, né d'un outil de recherche, aide les ingénieurs à interpréter les règlements et décisions passées.",
-      "summary_en": "Red Bull is using an AI system, built with Oracle, that recommends real‑time actions during Grand Prix races. The tool, originally a search aid for interpreting regulations and past rulings, now guides strategy decisions."
-    },
-    {
-      "id": "634e133a0013",
-      "title": "Max Verstappen unveils special Texas-themed helmet for F1 United States GP",
-      "title_fr": "Max Verstappen unveils special Texas-themed helmet for F1 United States GP",
-      "title_en": "Max Verstappen unveils special Texas-themed helmet for F1 United States GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-unveils-special-texas-themed-helmet-for-f1-united-states-gp/10865834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKobQY/s6/untitled-design-59.jpg",
-      "published_at": "2026-10-17T11:06:03+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Four-time Formula 1 champion Max Verstappen has revealed a special helmet for the United States Grand Prix, giving his usual design an Austin, Texas, makeover ahead of the race at the Circuit of the A",
-      "summary_en": "Four-time Formula 1 champion Max Verstappen has revealed a special helmet for the United States Grand Prix, giving his usual design an Austin, Texas, makeover ahead of the race at the Circuit of the A"
-    },
-    {
-      "id": "fbe4ef8826a1",
-      "title": "Zak Brown gives stern warning to Lando Norris and Oscar Piastri after Singapore collision",
-      "title_fr": "Zak Brown avertit Norris et Piastri après collision à Singapour",
-      "title_en": "Zak Brown warns McLaren drivers after Singapore collision",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/zak-brown-orders-mclaren-drivers-not-to-repeat-singapore-sprint-collision/10865830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6O7zqWP6/s6/untitled-design-2026-10-17t115-2.jpg",
-      "published_at": "2026-10-17T10:54:03+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Zak Brown a averti Lando Norris et Oscar Piastri après leur collision lors du sprint du Grand Prix de Singapour. Le directeur de McLaren insiste sur la nécessité de ne pas répéter l'incident.",
-      "summary_en": "Zak Brown warned McLaren drivers Lando Norris and Oscar Piastri after their collision in the Singapore sprint. The team principal stresses the importance of avoiding a repeat of the incident."
     }
   ]
 }
