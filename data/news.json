@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-19T05:28:09Z",
+  "last_updated": "2026-10-19T08:28:57Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ace03de53393",
+      "title": "Max Verstappen and Anthony Hamilton's \"wholesome\" reunion earns F1 fan praise",
+      "title_fr": "Verstappen retrouve le père de Hamilton à Portimão",
+      "title_en": "Verstappen reunites with Hamilton's father at Portimão",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/gtwce-endurance/news/max-verstappen-and-anthony-hamiltons-wholesome-reunion-earns-f1-fan-praise/10866143/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AoElY/s6/72945935.jpg",
+      "published_at": "2026-10-19T08:00:04+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a surpris les fans en retrouvant le père de Lewis Hamilton, Anthony Hamilton, lors d'un arrêt de paddock à Portimão. Le pilote néerlandais a également couru en GT World Challenge Europe, terminant neuvième.",
+      "summary_en": "Max Verstappen surprised fans by meeting Lewis Hamilton's father, Anthony Hamilton, during a paddock stop at Portimão. The Dutch driver also raced in the GT World Challenge Europe finale, finishing ninth."
+    },
+    {
+      "id": "fc04b1ead641",
+      "title": "How to follow US Grand Prix on the BBC",
+      "title_fr": "Suivez le Grand Prix des États-Unis via la BBC",
+      "title_en": "How to follow the US Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/30ae1920-c58e-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-19T06:42:58+00:00",
+      "race_id": "usa",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La BBC propose une couverture complète du Grand Prix des États-Unis du 23 au 25 octobre. Voici comment accéder aux diffusions en direct, aux commentaires et aux analyses.",
+      "summary_en": "The BBC offers comprehensive coverage of the US Grand Prix from 23 to 25 October. Here’s how to access live streams, commentary and analysis."
+    },
+    {
+      "id": "765381676612",
+      "title": "Best images of F1 in the US through the years",
+      "title_fr": "Images emblématiques de la F1 aux États-Unis à travers les décennies",
+      "title_en": "Best F1 images in the US across the years",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a53/live/373fc7a0-c941-11f1-8c38-abe947e72d6d.jpg",
+      "published_at": "2026-10-19T06:17:28+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Une sélection d’images marquantes de courses américaines, de l’Indianapolis aux rues de Dallas, en passant par Watkins Glen, Long Beach et le parking du Caesars Palace.",
+      "summary_en": "A selection of iconic images from American F1 races, from Indianapolis to Dallas streets, including Watkins Glen, Long Beach and the Caesars Palace parking lot."
+    },
+    {
+      "id": "5f7d38630952",
+      "title": "How to watch the 2026 United States Grand Prix live this weekend | TV Times",
+      "title_fr": "Suivre le Grand Prix des États-Unis 2026 en direct",
+      "title_en": "How to watch the 2026 United States Grand Prix live this weekend",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/19/how-to-watch-the-2026-united-states-grand-prix-live-this-weekend/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/10/racefansdotnet-24-10-19-20-25-08-4-SI202510191138.jpg",
+      "published_at": "2026-10-19T06:15:54+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La semaine de course approche et le Grand Prix des États-Unis 2026 pourrait décider du titre. Voici comment suivre la course au Circuit of the Americas en direct.",
+      "summary_en": "Race week is here and the 2026 United States Grand Prix could decide the title. Here’s how to watch the event live at the Circuit of the Americas."
+    },
     {
       "id": "0a989095eb93",
       "title": "Stray Kids' Felix sends fans into frenzy with behind-the-scenes Ferrari F1 photos",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Franco Colapinto a demandé aux supporters argentins de cesser les propos haineux qui ont ciblé des officiels, Pierre Gasly et Lando Norris après les courses de Zandvoort, Madrid et Baku.",
       "summary_en": "Driver Franco Colapinto has asked Argentine fans to stop hateful online comments that targeted officials, Pierre Gasly and Lando Norris after the Zandvoort, Madrid and Baku races."
-    },
-    {
-      "id": "0b8336ceb83d",
-      "title": "Franco Colapinto urges fans to stop the abuse: “You’re not helping me or my future”",
-      "title_fr": "Colapinto appelle les fans à cesser les abus",
-      "title_en": "Colapinto urges fans to stop abuse",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YP74NK32/s6/franco-colapinto-alpine.jpg",
-      "published_at": "2026-10-16T15:29:36+00:00",
-      "race_id": "spain-madrid",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Franco Colapinto a demandé aux supporters argentins d’arrêter les propos haineux qui ont ciblé des officiels, Pierre Gasly et Lando Norris après les courses de Zandvoort, Madrid et Baku.",
-      "summary_en": "Driver Franco Colapinto has asked Argentine fans to stop hateful online comments aimed at officials, Pierre Gasly and Lando Norris following the Zandvoort, Madrid and Baku races."
-    },
-    {
-      "id": "3ba01f57d8b4",
-      "title": "Liam Lawson to perform live music set ahead of F1 United States Grand Prix in Austin",
-      "title_fr": "Liam Lawson se produit à Austin avant le Grand Prix des États-Unis",
-      "title_en": "Liam Lawson to perform live in Austin before US Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-to-perform-live-music-set-ahead-of-f1-united-states-grand-prix-in-austin/10865675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EqrwY/s6/untitled-design-54.jpg",
-      "published_at": "2026-10-16T15:11:06+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote néo-zélandais Liam Lawson se produira en live à Austin, au sein du VCARB Garage Sessions, avant le Grand Prix des États-Unis. Il sera accompagné de son frère Marcus et d'amis d'enfance.",
-      "summary_en": "New Zealand driver Liam Lawson will headline a live VCARB Garage Sessions in Austin before the United States Grand Prix, joined by his brother Marcus and childhood friends."
-    },
-    {
-      "id": "c85bae4b5cfe",
-      "title": "Colton Herta eyes potential Indy 500 return and IMSA enduros as 2027 plans remain in flux",
-      "title_fr": "Herta cible Indy 500 et IMSA 2027",
-      "title_en": "Herta targets Indy 500 and IMSA 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-eyes-potential-indy-500-return-and-imsa-enduros-as-2027-plans-remain-in-flux/10865671/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZgPdKY/s6/colton-herta-hitech-gp.jpg",
-      "published_at": "2026-10-16T14:56:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta, pilote de test Cadillac en F1, n'a pas encore fixé son programme 2027. Il souhaite revenir à l'Indy 500 et aux courses d'endurance IMSA si son calendrier le permet.",
-      "summary_en": "Colton Herta, the Cadillac F1 test driver, has yet to set his 2027 schedule. He aims to return to the Indy 500 and IMSA endurance races if his calendar allows."
-    },
-    {
-      "id": "76c8ab392c80",
-      "title": "Why Mercedes switched George Russell to its old F1 car spec in Singapore",
-      "title_fr": "Mercedes fait revenir Russell à l’ancien modèle à Singapour",
-      "title_en": "Mercedes reverts Russell to old spec in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-mercedes-switched-george-russell-to-its-old-f1-car-spec-in-singapore/10865660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAGaN0/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-10-16T14:14:09+00:00",
-      "race_id": "bahrain",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Après un Bahreïn décevant, Mercedes a choisi de faire revenir George Russell à la version précédente du monocoque pour le Grand Prix de Singapour, espérant regagner en performance.",
-      "summary_en": "After a disappointing Bahrain, Mercedes switched George Russell back to the previous car spec for Singapore, hoping to regain performance."
     }
   ]
 }
