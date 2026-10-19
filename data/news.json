@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-18T23:27:26Z",
+  "last_updated": "2026-10-19T02:27:57Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0a989095eb93",
+      "title": "Stray Kids' Felix sends fans into frenzy with behind-the-scenes Ferrari F1 photos",
+      "title_fr": "Felix Stray Kids partage des photos inédites de la Ferrari à Singapour",
+      "title_en": "Felix Stray Kids Shares Behind‑the‑Scenes Ferrari Photos",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/stray-kids-felix-sends-fans-into-frenzy-with-behind-the-scenes-ferrari-f1-photos/10866141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YvKBw5L6/s6/72945935-1-2.jpg",
+      "published_at": "2026-10-19T00:05:02+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le membre de Stray Kids, Felix, a publié des images de son passage chez Ferrari à l’Grand Prix de Singapour. La Scuderia a également partagé des vidéos de l’artiste dans son garage.",
+      "summary_en": "Stray Kids member Felix posted behind‑the‑scenes photos from his stint with Ferrari at the Singapore Grand Prix, and the team shared its own footage of the K‑pop star in the garage."
+    },
     {
       "id": "63267c0aa0fd",
       "title": "Documentary on Lewis Hamilton and Fernando Alonso's F1 rivalry reportedly in the works",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Après un Bahreïn décevant, Mercedes a choisi de faire revenir George Russell à la version précédente du monocoque pour le Grand Prix de Singapour, espérant regagner en performance.",
       "summary_en": "After a disappointing Bahrain, Mercedes switched George Russell back to the previous car spec for Singapore, hoping to regain performance."
-    },
-    {
-      "id": "2cd4f81ea5eb",
-      "title": "F1 fan brings Rwanda's future grand prix circuit to life in \"Assetto Corsa\" simulation",
-      "title_fr": "F1 fan brings Rwanda's future grand prix circuit to life in \"Assetto Corsa\" simulation",
-      "title_en": "F1 fan brings Rwanda's future grand prix circuit to life in \"Assetto Corsa\" simulation",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-fan-brings-rwandas-future-grand-prix-circuit-to-life-in-assetto-corsa-simulation/10865657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0kZXokK6/s6/untitled-design-2026-10-16t145-2.jpg",
-      "published_at": "2026-10-16T13:54:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Within 72 hours of Formula 1 revealing a decade-long deal to race in Africa, footage from a user-created onboard camera recording of Rwanda’s future grand prix venue began circulating online.<br />It’",
-      "summary_en": "Within 72 hours of Formula 1 revealing a decade-long deal to race in Africa, footage from a user-created onboard camera recording of Rwanda’s future grand prix venue began circulating online.<br />It’"
     }
   ]
 }
