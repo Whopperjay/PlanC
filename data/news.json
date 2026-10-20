@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-20T11:37:03Z",
+  "last_updated": "2026-10-20T14:37:30Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5ba205284562",
+      "title": "Spotlight: Haas produces another Godzilla livery for United States GP | Briefs",
+      "title_fr": "Haas lance une nouvelle version de son livery Godzilla pour le GP des États-Unis",
+      "title_en": "Haas unveils another Godzilla livery for the United States GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/20/spotlight-haas-produces-another-godzilla-livery-for-united-states-gp/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-20-12-51-32-1b.jpg",
+      "published_at": "2026-10-20T11:53:19+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Haas a annoncé qu'il utilisera une nouvelle version de son livery Godzilla lors du Grand Prix des États-Unis à Circuit of the Americas. Le design reprend les éléments emblématiques de la série Godzilla.",
+      "summary_en": "Haas announced it will run a new version of its Godzilla livery at the United States Grand Prix at Circuit of the Americas. The design incorporates iconic elements from the Godzilla series."
+    },
     {
       "id": "a59c1eaacfe1",
       "title": "F1’s former fuel flow meter supplier sues its replacement in Texas",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Après le Grand Prix de Singapour, Mercedes a détaillé les raisons pour lesquelles sa nouvelle mise à jour rend la voiture plus difficile à piloter. Les données recueillies lors du sprint ont permis de mieux comprendre les défis techniques.",
       "summary_en": "After Singapore, Mercedes explained why its new upgrade makes the car harder to drive. Data from the sprint weekend helped the team pinpoint technical challenges."
-    },
-    {
-      "id": "da3e9401461e",
-      "title": "The maths behind when Mercedes could become F1 world champions in 2026",
-      "title_fr": "Mercedes vise son premier double titre depuis 2020",
-      "title_en": "Mercedes eyes first double title since 2020",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-maths-behind-when-mercedes-could-become-f1-world-champions-in-2026/10866008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Ld53Zj0/s6/george-russell-mercedes-andrea-2.jpg",
-      "published_at": "2026-10-18T08:13:32+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Mercedes se remet en tête du championnat, Kimi Antonelli et George Russell dominent les pilotes, tandis que l’équipe dépasse Ferrari de 134 points. Le calcul montre que la voiture pourrait remporter le double titre en 2026.",
-      "summary_en": "Mercedes is back on top, with Kimi Antonelli and George Russell leading the drivers' standings, and the team outpacing Ferrari by 134 points. Calculations suggest the car could secure the double title in 2026."
     }
   ]
 }
