@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:36:58Z",
+  "generated_at": "2026-10-20T11:37:41Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -84,13 +84,13 @@
       "session_date": "2026-10-24T21:00:00+00:00",
       "p1": "max_verstappen",
       "p2": "leclerc",
-      "p3": "hamilton",
-      "reasoning_fr": "Sur le Circuit of the Americas, la qualification repose sur la vitesse pure d’un tour. Mercedes montre une forte évolution du pneu, mais Red Bull conserve le meilleur rythme, comme le prouve la pole à Singapour. Ferrari, avec Leclerc et Hamilton, a confirmé son aptitude à exploiter le virage 11 et la ligne droite. Antonelli, champion, reste solide mais son Q à Singapour était 4e. Ainsi, Verstappen",
-      "reasoning_en": "At COTA the qualifying session is decided by a single fast lap, and the track gains grip quickly. Red Bull still delivers the highest one‑lap pace, as shown by Verstappen’s pole in Singapore, while Ferrari’s Leclerc and Hamilton have demonstrated excellent performance through the technical sections and the long straight. Mercedes is improving, but Antonelli’s fourth place in Singapore suggests he ",
-      "confidence": "medium",
-      "key_factor_fr": "Vitesse pure d’un tour rapide et évolution du tracé",
+      "p3": "antonelli",
+      "reasoning_fr": "Verstappen conserve son avantage sur COTA grâce à la puissance de son moteur et à une excellente évolution de piste. Leclerc, en bonne forme et avec une Ferrari bien adaptée au circuit, se place naturellement deuxième. Antonelli, leader du championnat et soutenu par Mercedes, a montré une progression constante en qualification, passant de la 4e à Singapour à une place de tête potentielle ici.",
+      "reasoning_en": "Verstappen retains his COTA edge with strong engine power and rapid track evolution. Leclerc, in good form and with a Ferrari suited to the circuit, naturally slots second. Antonelli, championship leader backed by Mercedes, has shown steady qualifying progress, moving from fourth in Singapore to a potential podium spot here.",
+      "confidence": "high",
+      "key_factor_fr": "Évolution rapide de la piste + puissance moteur",
       "news_used_ids": [],
-      "generated_at": "2026-10-19T23:35:49Z"
+      "generated_at": "2026-10-20T11:37:40Z"
     },
     {
       "event_id": "united_states_grand_prix",
