@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T05:00:04Z",
-  "model": "claude",
+  "generated_at": "2026-10-20T08:36:58Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -100,12 +100,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "antonelli",
-      "reasoning_fr": "Max Verstappen part en pole ; son Red Bull excelle sur les longues lignes droites de COTA et gère très bien la dégradation des pneus, lui assurant un rythme constant malgré les arrêts aux stands. Charles Leclerc, en Ferrari, a affiché une forte vitesse en qualification et maîtrise le freinage dans les virages serrés, ce qui le rend compétitif sur le circuit. Andrea Kimi Antonelli, champion avec Me",
-      "reasoning_en": "Max Verstappen starts from pole and his Red Bull is superb on COTA’s long straights, while its tyre‑degradation management keeps lap times stable through multiple pit stops. Charles Leclerc in the Ferrari showed strong one‑lap pace and excellent braking in the tight corners, giving him race‑pace advantage on this circuit. Andrea Kimi Antonelli, the championship leader with Mercedes, combines a hig",
-      "confidence": "medium",
-      "key_factor_fr": "Quali forte et gestion pneus",
+      "reasoning_fr": "Le circuit de COTA favorise la puissance en ligne droite et l'aérodynamique, la grille de départ reste décisive. Max Verstappen a dominé la course et la qualification à Singapour, montrant une excellente gestion des pneus et une vitesse de pointe supérieure, ce qui le place en pole probable. Charles Leclerc, très rapide en qualification et solide en course, devrait se placer juste derrière. Andrea",
+      "reasoning_en": "COTA rewards straight‑line power and aero efficiency, making the starting grid crucial. Max Verstappen showed dominant race pace and qualifying speed in Singapore, handling tyre wear excellently and possessing superior top speed, likely securing pole. Charles Leclerc, consistently fast in qualifying and strong in race conditions, should line up right behind him. Andrea Kimi Antonelli, championship",
+      "confidence": "high",
+      "key_factor_fr": "Grille de départ décisive",
       "news_used_ids": [],
-      "generated_at": "2026-10-19T20:34:43Z"
+      "generated_at": "2026-10-20T08:36:57Z"
     }
   ]
 }
