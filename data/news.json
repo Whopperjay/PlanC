@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-20T05:35:22Z",
+  "last_updated": "2026-10-20T08:35:48Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "3059e02c1cc1",
+      "title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
+      "title_fr": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
+      "title_en": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae8/live/a1c9a300-cbc8-11f1-aba9-2bb2608f11d9.jpg",
+      "published_at": "2026-10-20T06:59:17+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix.",
+      "summary_en": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix."
+    },
+    {
+      "id": "9a7933138018",
+      "title": "Early coronation for Antonelli? Five talking points for the United States Grand Prix | Formula 1",
+      "title_fr": "Antonelli en tete du championnat pour l'USA",
+      "title_en": "Antonelli poised for championship at US GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/20/early-coronation-for-antonelli-five-talking-points-for-the-united-states-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-02-14-11-54-3-M634025.jpg",
+      "published_at": "2026-10-20T06:15:02+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli pourrait remporter le championnat lors du Grand Prix des Etats-Unis. Le pilote de Red Bull est en tete du classement et les experts analysent ses chances.",
+      "summary_en": "Andrea Kimi Antonelli could clinch the title at the United States Grand Prix. The Red Bull driver leads the standings and experts weigh his chances."
+    },
     {
       "id": "62e96768b804",
       "title": "Christian Horner: Building Red Bull’s F1 engine was “scary as hell”",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "A piece of Alpine's 2024 Formula 1 car is about to go up for auction, and it has been turned into something you could actually put in your living room.<br />F1 Authentics, the official memorabilia pla",
       "summary_en": "A piece of Alpine's 2024 Formula 1 car is about to go up for auction, and it has been turned into something you could actually put in your living room.<br />F1 Authentics, the official memorabilia pla"
-    },
-    {
-      "id": "5689e96bdf55",
-      "title": "Lewis Hamilton's Brazilian GP cap unveiled with release date confirmed",
-      "title_fr": "Hamilton porte la casquette brésilienne à Interlagos",
-      "title_en": "Hamilton to wear Brazil cap at Interlagos",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-brazilian-gp-cap-unveiled-with-release-date-confirmed/10865933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6grQoW7Y/s6/untitled-design-63.jpg",
-      "published_at": "2026-10-17T16:34:04+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a dévoilé une casquette brésilienne que Lewis Hamilton portera à Interlagos. Les fans pourront l'acheter le 3 novembre.",
-      "summary_en": "Ferrari unveiled a Brazil‑themed cap that Lewis Hamilton will wear at Interlagos. Fans can buy it on November 3."
-    },
-    {
-      "id": "c71c2d7b7fc9",
-      "title": "Colton Herta “maybe underestimated the difference” from IndyCar – F2 boss",
-      "title_fr": "Herta sous-estimé la différence entre IndyCar et F2, déclare Michel",
-      "title_en": "Herta 'maybe underestimated the difference' between IndyCar and F2, says Michel",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-maybe-underestimated-the-difference-from-indycar-f2-boss/10865706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg",
-      "published_at": "2026-10-17T16:00:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Bruno Michel, directeur général de la F2, estime que Colton Herta a peut‑être sous‑estimé la différence entre la série d’appoint de la F1 et IndyCar, après son retour en Europe en 2026.",
-      "summary_en": "Bruno Michel, F2 CEO, says Colton Herta may have underestimated the gap between IndyCar and the F1 feeder series after his 2026 return to Europe."
     }
   ]
 }
