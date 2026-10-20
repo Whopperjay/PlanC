@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-20T20:38:52Z",
+  "last_updated": "2026-10-20T23:39:57Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "c11c9604f4ea",
+      "title": "Aston Martin F1's latest merchandise collection comes with eye-watering prices",
+      "title_fr": "Aston Martin F1's latest merchandise collection comes with eye-watering prices",
+      "title_en": "Aston Martin F1's latest merchandise collection comes with eye-watering prices",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-f1s-latest-merchandise-collection-comes-with-eye-watering-prices/10866584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zqdX6/s6/72945935-10-2.jpg",
+      "published_at": "2026-10-20T23:25:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Aston Martin Formula 1 team may have only just confirmed its padel partnership, but that won't stop it from revealing a range of stationery and travel products alongside Bond Street brand Smythson",
+      "summary_en": "The Aston Martin Formula 1 team may have only just confirmed its padel partnership, but that won't stop it from revealing a range of stationery and travel products alongside Bond Street brand Smythson"
+    },
+    {
+      "id": "222e7cdf27e5",
+      "title": "Max Verstappen backs Isack Hadjar to take over Red Bull F1 role",
+      "title_fr": "Verstappen soutient Hadjar pour succéder à Red Bull",
+      "title_en": "Verstappen backs Hadjar to succeed at Red Bull",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-backs-isack-hadjar-to-take-over-red-bull-f1-role/10866581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/01QNalo0/s6/72945935-6.jpg",
+      "published_at": "2026-10-20T22:24:02+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Max Verstappen a exprimé son soutien à Isack Hadjar, qui pourrait le remplacer chez Red Bull. Hadjar a rejoint l’équipe en 2026 après une saison prometteuse avec Racing Bulls.",
+      "summary_en": "Max Verstappen has voiced support for Isack Hadjar, who could take over his role at Red Bull. Hadjar joined the team in 2026 after a promising rookie season with Racing Bulls."
+    },
+    {
+      "id": "e2bc497ccda8",
+      "title": "Ferrari development driver reveals confirmed F1 test plans",
+      "title_fr": "Fenestraz confirme son test F1 2027 chez Ferrari",
+      "title_en": "Fenestraz confirms 2027 F1 test with Ferrari",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-development-driver-reveals-confirmed-f1-test-plans/10866579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6VyKwvwY/s6/72945935-9-2.jpg",
+      "published_at": "2026-10-20T22:10:38+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Sacha Fenestraz, pilote de simulation et de développement chez Ferrari, a confirmé qu'il participera à un test de Formule 1 en 2027 après son transfert de Mercedes à Maranello.",
+      "summary_en": "Sacha Fenestraz, Ferrari's simulator and development driver, confirmed he will take part in a 2027 Formula 1 test after moving from Mercedes to Maranello. He announced this during the Fuji Super Formula weekend."
+    },
+    {
+      "id": "4f5f32764b34",
+      "title": "Aston Martin announces first-of-its-kind F1 partnership ahead of US GP",
+      "title_fr": "Aston Martin s'associe à Padeltek avant le Grand Prix d'Amérique",
+      "title_en": "Aston Martin partners with Padeltek ahead of US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-announces-first-of-its-kind-f1-partnership-ahead-of-us-gp/10866576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/25dL7WQ0/s6/72945935-5.jpg",
+      "published_at": "2026-10-20T22:05:28+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "L’équipe Aston Martin devient la première en F1 à collaborer avec une marque de padel et de pickleball. Le partenariat avec Padeltek inclut des raquettes qui seront mises en vente cette semaine.",
+      "summary_en": "Aston Martin becomes the first F1 team to partner with a padel and pickleball brand. The deal with Padeltek includes rackets that will go on sale this week."
+    },
     {
       "id": "88cc31a2fe38",
       "title": "FIA expects F1 races in Qatar and Abu Dhabi to run as planned",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La BBC propose une couverture complète du Grand Prix des États-Unis du 23 au 25 octobre. Voici comment accéder aux diffusions en direct, aux commentaires et aux analyses.",
       "summary_en": "The BBC offers comprehensive coverage of the US Grand Prix from 23 to 25 October. Here’s how to access live streams, commentary and analysis."
-    },
-    {
-      "id": "765381676612",
-      "title": "Best images of F1 in the US through the years",
-      "title_fr": "Images emblématiques de la F1 aux États-Unis à travers les décennies",
-      "title_en": "Best F1 images in the US across the years",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a53/live/373fc7a0-c941-11f1-8c38-abe947e72d6d.jpg",
-      "published_at": "2026-10-19T06:17:28+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Une sélection d’images marquantes de courses américaines, de l’Indianapolis aux rues de Dallas, en passant par Watkins Glen, Long Beach et le parking du Caesars Palace.",
-      "summary_en": "A selection of iconic images from American F1 races, from Indianapolis to Dallas streets, including Watkins Glen, Long Beach and the Caesars Palace parking lot."
-    },
-    {
-      "id": "5f7d38630952",
-      "title": "How to watch the 2026 United States Grand Prix live this weekend | TV Times",
-      "title_fr": "Suivre le Grand Prix des États-Unis 2026 en direct",
-      "title_en": "How to watch the 2026 United States Grand Prix live this weekend",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/19/how-to-watch-the-2026-united-states-grand-prix-live-this-weekend/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/10/racefansdotnet-24-10-19-20-25-08-4-SI202510191138.jpg",
-      "published_at": "2026-10-19T06:15:54+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La semaine de course approche et le Grand Prix des États-Unis 2026 pourrait décider du titre. Voici comment suivre la course au Circuit of the Americas en direct.",
-      "summary_en": "Race week is here and the 2026 United States Grand Prix could decide the title. Here’s how to watch the event live at the Circuit of the Americas."
-    },
-    {
-      "id": "0a989095eb93",
-      "title": "Stray Kids' Felix sends fans into frenzy with behind-the-scenes Ferrari F1 photos",
-      "title_fr": "Felix Stray Kids partage des photos inédites de la Ferrari à Singapour",
-      "title_en": "Felix Stray Kids Shares Behind‑the‑Scenes Ferrari Photos",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/stray-kids-felix-sends-fans-into-frenzy-with-behind-the-scenes-ferrari-f1-photos/10866141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YvKBw5L6/s6/72945935-1-2.jpg",
-      "published_at": "2026-10-19T00:05:02+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le membre de Stray Kids, Felix, a publié des images de son passage chez Ferrari à l’Grand Prix de Singapour. La Scuderia a également partagé des vidéos de l’artiste dans son garage.",
-      "summary_en": "Stray Kids member Felix posted behind‑the‑scenes photos from his stint with Ferrari at the Singapore Grand Prix, and the team shared its own footage of the K‑pop star in the garage."
-    },
-    {
-      "id": "63267c0aa0fd",
-      "title": "Documentary on Lewis Hamilton and Fernando Alonso's F1 rivalry reportedly in the works",
-      "title_fr": "La chaîne britannique prépare un documentaire sur la rivalité 2007 Hamilton-Alonso",
-      "title_en": "BBC plans documentary on 2007 Hamilton-Alonso rivalry",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-fernando-alonsos-infamous-mclaren-rivalry-set-for-bbc-documentary/10866138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15qZr0/s6/72945935.jpg",
-      "published_at": "2026-10-18T22:55:58+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Selon Antonio Lobato, la chaîne britannique prépare un film sur la saison chaotique 2007 de Hamilton et Alonso à McLaren. Le projet n'est pas encore confirmé.",
-      "summary_en": "According to Antonio Lobato, the BBC is reportedly developing a documentary on the chaotic 2007 season of Hamilton and Alonso at McLaren. The project has not yet been confirmed."
     }
   ]
 }
