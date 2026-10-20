@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T13:00:04Z",
-  "model": "claude",
+  "generated_at": "2026-10-20T20:39:31Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -100,12 +100,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "antonelli",
-      "reasoning_fr": "Le circuit de COTA favorise la puissance en ligne droite et l'aérodynamique, la grille de départ reste décisive. Max Verstappen a dominé la course et la qualification à Singapour, montrant une excellente gestion des pneus et une vitesse de pointe supérieure, ce qui le place en pole probable. Charles Leclerc, très rapide en qualification et solide en course, devrait se placer juste derrière. Andrea",
-      "reasoning_en": "COTA rewards straight‑line power and aero efficiency, making the starting grid crucial. Max Verstappen showed dominant race pace and qualifying speed in Singapore, handling tyre wear excellently and possessing superior top speed, likely securing pole. Charles Leclerc, consistently fast in qualifying and strong in race conditions, should line up right behind him. Andrea Kimi Antonelli, championship",
-      "confidence": "high",
-      "key_factor_fr": "Grille de départ décisive",
+      "reasoning_fr": "Le Grand Prix des États‑Unis à Austin reste très sensible à la grille de départ. Max Verstappen, vainqueur et pole à Singapour, montre une vitesse pure exceptionnelle et une stratégie de pneus maîtrisée, le plaçant en tête. Charles Leclerc, deuxième à Singapour et deuxième en qualification, combine un bon rythme et une gestion fiable de la gomme, assurant une place sur le podium. Andrea Kimi Anton",
+      "reasoning_en": "The Austin circuit still heavily rewards qualifying position. Max Verstappen, winner and pole sitter in Singapore, demonstrates outstanding outright speed and tyre‑strategy control, putting him at the front. Charles Leclerc, second in Singapore and second in qualifying, blends strong pace with reliable tyre management, securing a podium spot. Andrea Kimi Antonelli, championship leader, has shown c",
+      "confidence": "medium",
+      "key_factor_fr": "Quali + rythme récent",
       "news_used_ids": [],
-      "generated_at": "2026-10-20T08:36:57Z"
+      "generated_at": "2026-10-20T20:39:30Z"
     }
   ]
 }
