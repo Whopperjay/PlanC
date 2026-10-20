@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-20T08:35:48Z",
+  "last_updated": "2026-10-20T11:37:03Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a59c1eaacfe1",
+      "title": "F1’s former fuel flow meter supplier sues its replacement in Texas",
+      "title_fr": "Sentronics poursuit son remplaçant en Texas",
+      "title_en": "Sentronics sues its replacement in Texas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1s-former-fuel-flow-meter-supplier-sues-its-replacement-in-texas/10866487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0LdeKaJ0/s6/72945935-8-2.jpg",
+      "published_at": "2026-10-20T11:35:28+00:00",
+      "race_id": "uk",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Sentronics Holdings Ltd, ancien fournisseur de débitmètres de carburant de la F1, a assigné Allengra GmbH en Texas, affirmant que les capteurs utilisés par chaque voiture violent son brevet.",
+      "summary_en": "Sentronics Holdings Ltd, the former fuel flow meter supplier for Formula 1, has sued Allengra GmbH in Texas, claiming the sensors used by every car infringe its patent."
+    },
+    {
+      "id": "5d83141017d8",
+      "title": "Formula 1’s move to shorter grands prix in 2027 will not be permanent | Formula 1",
+      "title_fr": "F1 rétablit les distances complètes en 2028",
+      "title_en": "F1 to restore full race distances in 2028",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/20/formula-1s-move-to-shorter-grands-prix-in-2027-will-not-be-permanent/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-15-46-36-4-13-sunday-monza-2026.jpg",
+      "published_at": "2026-10-20T11:21:36+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 reprendra les distances complètes des grands prix en 2028 après avoir réduit les courses cette année, confirme la FIA.",
+      "summary_en": "Formula 1 will return to full race distances in 2028 after shortening races this year, the FIA confirmed."
+    },
+    {
+      "id": "8060f00abb0d",
+      "title": "Christian Horner: Kimi Antonelli has 'earned' the right to be Mercedes' number one",
+      "title_fr": "Christian Horner: Kimi Antonelli has 'earned' the right to be Mercedes' number one",
+      "title_en": "Christian Horner: Kimi Antonelli has 'earned' the right to be Mercedes' number one",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-kimi-antonelli-has-earned-the-right-to-be-mercedes-number-one/10865153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QJVX6/s6/kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-20T11:16:58+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner reckons the soon-to-be Formula 1 world champion Kimi Antonelli has ‘earned’ his right to become the outright number-one driver at Mercedes after a dominant 2026.<br />The 20-year-old ",
+      "summary_en": "Christian Horner reckons the soon-to-be Formula 1 world champion Kimi Antonelli has ‘earned’ his right to become the outright number-one driver at Mercedes after a dominant 2026.<br />The 20-year-old "
+    },
+    {
+      "id": "9b84bf248771",
+      "title": "Lando Norris suffers defeat to F1 rivals in hilarious UNO showdown",
+      "title_fr": "Lando Norris suffers defeat to F1 rivals in hilarious UNO showdown",
+      "title_en": "Lando Norris suffers defeat to F1 rivals in hilarious UNO showdown",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-suffers-embarrassing-defeat-to-f1-rivals-in-hilarious-uno-showdown/10866475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YP74qao2/s6/72945935-7.jpg",
+      "published_at": "2026-10-20T10:56:26+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 drivers Pierre Gasly, Lando Norris and Oscar Piastri went head to head at a super-sized game of UNO in a video that has quickly racked up more than 320,000 views in less than a day.<br />For",
+      "summary_en": "Formula 1 drivers Pierre Gasly, Lando Norris and Oscar Piastri went head to head at a super-sized game of UNO in a video that has quickly racked up more than 320,000 views in less than a day.<br />For"
+    },
+    {
+      "id": "86cd7db24c53",
+      "title": "Featured Comment: Budget cap not to blame for lack of winning teams in F1 | Brief",
+      "title_fr": "Budget cap : pas la cause du manque de champions en F1",
+      "title_en": "Budget cap not to blame for lack of winning teams in F1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/20/featured-comment-budget-cap-not-to-blame-for-lack-of-winning-teams-in-f1/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2020/12/racefansdotnet-2020-12-06-19-06-33-2.jpg",
+      "published_at": "2026-10-20T10:51:30+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le budget cap ne saurait expliquer l’absence de nouvelles équipes victorieuses en Formule 1. Les experts suggèrent d’autres facteurs, comme la stratégie et la performance technique, pour rééquilibrer la compétition.",
+      "summary_en": "The budget cap is not the culprit behind the lack of new winning teams in Formula 1. Analysts point to other factors such as strategy and technical performance to level the playing field."
+    },
     {
       "id": "3059e02c1cc1",
       "title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes se remet en tête du championnat, Kimi Antonelli et George Russell dominent les pilotes, tandis que l’équipe dépasse Ferrari de 134 points. Le calcul montre que la voiture pourrait remporter le double titre en 2026.",
       "summary_en": "Mercedes is back on top, with Kimi Antonelli and George Russell leading the drivers' standings, and the team outpacing Ferrari by 134 points. Calculations suggest the car could secure the double title in 2026."
-    },
-    {
-      "id": "3e930fccb471",
-      "title": "When will Mercedes become F1 world champions in 2026?",
-      "title_fr": "Mercedes vise double titre de champion en 2026",
-      "title_en": "Mercedes targets double championship in 2026",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/when-can-mercedes-become-f1-world-champions-in-2026/10865358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jED8MM0/s6/george-russell-mercedes-andrea.jpg",
-      "published_at": "2026-10-18T08:07:18+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Mercedes regagne la domination en Formule 1, mené par Kimi Antonelli et George Russell, qui dominent le classement des pilotes. L’équipe dépasse Ferrari de 134 points dans le championnat des constructeurs.",
-      "summary_en": "Mercedes is back on top in Formula 1, led by Kimi Antonelli and George Russell who dominate the drivers' standings. The team is 134 points ahead of Ferrari in the constructors' championship."
-    },
-    {
-      "id": "453a55c6e8c1",
-      "title": "Poll: Does F1 needs its cost cap – or is it just holding back the smaller teams? | Debates and Polls",
-      "title_fr": "Les équipes déplorent le plafond de dépenses, Ben Sulayem ne voit pas l'intérêt",
-      "title_en": "Teams upset over cost cap, Ben Sulayem doubts its purpose",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/18/poll-does-f1-needs-its-cost-cap-or-is-it-just-holding-back-the-smaller-teams/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-04-10-42-21-1-Williams-Sepang-Sunday_PRN0590_n61b0GLm_20261004070047.jpg",
-      "published_at": "2026-10-18T07:30:07+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les équipes de Formule 1 expriment leur mécontentement face au plafond de dépenses. Ben Sulayem affirme ne pas voir l'intérêt de cette mesure, remettant en question la nécessité d'un budget cap.",
-      "summary_en": "Teams are unhappy with the cost cap. Ben Sulayem says he doesn't see the point of it, questioning whether Formula 1 really needs a budget cap."
-    },
-    {
-      "id": "014797a041ee",
-      "title": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
-      "title_fr": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
-      "title_en": "Lando Norris faces anxious wait as F2 prepares to decide future of his racing team",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6VyKwD7Y/s6/72945935.jpg",
-      "published_at": "2026-10-17T23:35:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris's new racing team, LN4 Fusion, will soon find out whether or not it's got a place on the Formula 2 grid next year. CEO of FIA Formula 2, Bruno Michel, has confirmed that the championship ",
-      "summary_en": "Lando Norris's new racing team, LN4 Fusion, will soon find out whether or not it's got a place on the Formula 2 grid next year. CEO of FIA Formula 2, Bruno Michel, has confirmed that the championship "
-    },
-    {
-      "id": "e9c376b314a3",
-      "title": "Aston Martin's F1-inspired monster spotted testing as record-breaking claims emerge",
-      "title_fr": "Aston Martin teste son monstre F1 à Paul Ricard",
-      "title_en": "Aston Martin tests its F1-inspired monster at Paul Ricard",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/culture/news/aston-martins-f1-inspired-monster-spotted-testing-as-record-breaking-claims-emerge/10865964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAoWP0/s6/untitled-design-2026-10-17t232-2.jpg",
-      "published_at": "2026-10-17T22:25:43+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Un monstre à un siège inspiré de la F1 d'Aston Martin a été vu tester à Paul Ricard, après des apparitions à l'aéroport privé et à Portimao. Le véhicule reste un mystère sur le circuit.",
-      "summary_en": "A single-seat F1-inspired monster from Aston Martin was spotted testing at Paul Ricard, following earlier appearances at a private airfield and Portimao. The vehicle remains a mystery on the circuit."
-    },
-    {
-      "id": "2d4989e05856",
-      "title": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
-      "title_fr": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
-      "title_en": "Alpine's 2024 F1 car has been turned into the ultimate collector's display",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/alpines-2024-f1-car-has-been-turned-into-the-ultimate-collectors-display/10865939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPoW50/s6/untitled-design-40.jpg",
-      "published_at": "2026-10-17T17:44:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "A piece of Alpine's 2024 Formula 1 car is about to go up for auction, and it has been turned into something you could actually put in your living room.<br />F1 Authentics, the official memorabilia pla",
-      "summary_en": "A piece of Alpine's 2024 Formula 1 car is about to go up for auction, and it has been turned into something you could actually put in your living room.<br />F1 Authentics, the official memorabilia pla"
     }
   ]
 }
