@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:39:31Z",
+  "generated_at": "2026-10-20T23:40:38Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -84,13 +84,13 @@
       "session_date": "2026-10-24T21:00:00+00:00",
       "p1": "max_verstappen",
       "p2": "leclerc",
-      "p3": "antonelli",
-      "reasoning_fr": "Verstappen conserve son avantage sur COTA grâce à la puissance de son moteur et à une excellente évolution de piste. Leclerc, en bonne forme et avec une Ferrari bien adaptée au circuit, se place naturellement deuxième. Antonelli, leader du championnat et soutenu par Mercedes, a montré une progression constante en qualification, passant de la 4e à Singapour à une place de tête potentielle ici.",
-      "reasoning_en": "Verstappen retains his COTA edge with strong engine power and rapid track evolution. Leclerc, in good form and with a Ferrari suited to the circuit, naturally slots second. Antonelli, championship leader backed by Mercedes, has shown steady qualifying progress, moving from fourth in Singapore to a potential podium spot here.",
+      "p3": "hamilton",
+      "reasoning_fr": "Le dernier Q du Grand Prix de Singapour montre le rythme des leaders : Max Verstappen a dominé, suivi de Charles Leclerc et Lewis Hamilton, qui ont respectivement occupé la 2ᵉ et la 3ᵉ place. Ces performances récentes s’ajoutent à la bonne adéquation de leurs voitures avec le Circuit of the Americas, où puissance en ligne droite et appui aérodynamique sont décisifs. Mercedes reste compétitif, mais",
+      "reasoning_en": "The most recent qualifying session in Singapore clearly highlighted the single‑lap pace of the front‑runners: Max Verstappen topped the times, with Charles Leclerc and Lewis Hamilton in second and third. Their strong results combine with cars that suit the high‑speed, high‑downforce layout of the Circuit of the Americas, where straight‑line power and aerodynamic grip are crucial. Mercedes remains ",
       "confidence": "high",
-      "key_factor_fr": "Évolution rapide de la piste + puissance moteur",
+      "key_factor_fr": "Rythme récent en qualification et adéquation voiture‑circuit",
       "news_used_ids": [],
-      "generated_at": "2026-10-20T11:37:40Z"
+      "generated_at": "2026-10-20T23:40:37Z"
     },
     {
       "event_id": "united_states_grand_prix",
