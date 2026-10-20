@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-20T14:37:30Z",
+  "last_updated": "2026-10-20T17:38:31Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "88cc31a2fe38",
+      "title": "FIA expects F1 races in Qatar and Abu Dhabi to run as planned",
+      "title_fr": "FIA confie la tenue des courses au Qatar et à Abu Dhabi",
+      "title_en": "FIA expects Qatar and Abu Dhabi races to go ahead",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-run-as-planned/10866553/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVxVem0/s6/lando-norris-mclaren-max-verst-2.jpg",
+      "published_at": "2026-10-20T17:10:41+00:00",
+      "race_id": "bahrain",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le président de la FIA, Mohammed Ben Sulayem, déclare que les Grands Prix du Qatar et d'Abu Dhabi se dérouleront comme prévu, malgré les tensions actuelles au Moyen-Orient.",
+      "summary_en": "FIA president Mohammed Ben Sulayem says the Qatar and Abu Dhabi Grands Prix will run as scheduled, despite current Middle East tensions."
+    },
+    {
+      "id": "431bb53039f6",
+      "title": "FIA expects F1 races in Qatar and Abu Dhabi to continue as planned",
+      "title_fr": "FIA confie la tenue des courses au Qatar et à Abu Dhabi",
+      "title_en": "FIA expects Qatar and Abu Dhabi races to go ahead",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-continue-as-planned/10866547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6grBrLmY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-20T17:02:26+00:00",
+      "race_id": "bahrain",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le président de la FIA, Mohammed Ben Sulayem, déclare que les Grands Prix du Qatar et d'Abu Dhabi resteront sur le calendrier malgré les tensions au Moyen-Orient. Les courses de Bahreïn et de l'Arabie saoudite ont été annulées.",
+      "summary_en": "FIA president Mohammed Ben Sulayem says the Qatar and Abu Dhabi Grands Prix will stay on the calendar despite Middle East tensions. Bahrain and Saudi Arabia races were cancelled earlier this year."
+    },
+    {
+      "id": "f0db1db2ea1f",
+      "title": "Why Isack Hadjar doesn’t like F1 sprints anymore",
+      "title_fr": "Hadjar dénonce les sprints après Singapour",
+      "title_en": "Hadjar criticises sprint races after Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-isack-hadjar-doesnt-like-f1-sprints-anymore/10866320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGlOAY/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-10-20T16:40:03+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar, pilote de Red Bull, a exprimé son mécontentement envers les sprints de Formule 1 après la fin difficile du Grand Prix de Singapour. Il a souligné les problèmes de freinage et la lenteur de son monoplane.",
+      "summary_en": "Isack Hadjar, Red Bull driver, voiced his frustration with F1 sprint races after a tough weekend at the Singapore Grand Prix. He cited braking issues and his car's sluggish pace."
+    },
+    {
+      "id": "ba362b89188b",
+      "title": "Mercedes: “We had people who hadn’t done a live pitstop for 15 years” in Singapore GP",
+      "title_fr": "Mercedes: “We had people who hadn’t done a live pitstop for 15 years” in Singapore GP",
+      "title_en": "Mercedes: “We had people who hadn’t done a live pitstop for 15 years” in Singapore GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-we-had-people-who-hadnt-done-a-live-pitstop-for-15-years-in-singapore-gp/10866416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zqeO6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-20T14:51:22+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes has revealed some of its pitcrew members at the Singapore Grand Prix were doing their first live Formula 1 pitstops in 15 years.<br />F1 recently completed its first of (provisionally) three ",
+      "summary_en": "Mercedes has revealed some of its pitcrew members at the Singapore Grand Prix were doing their first live Formula 1 pitstops in 15 years.<br />F1 recently completed its first of (provisionally) three "
+    },
     {
       "id": "5ba205284562",
       "title": "Spotlight: Haas produces another Godzilla livery for United States GP | Briefs",
@@ -20,6 +96,25 @@
       "is_breaking": false,
       "summary_fr": "Haas a annoncé qu'il utilisera une nouvelle version de son livery Godzilla lors du Grand Prix des États-Unis à Circuit of the Americas. Le design reprend les éléments emblématiques de la série Godzilla.",
       "summary_en": "Haas announced it will run a new version of its Godzilla livery at the United States Grand Prix at Circuit of the Americas. The design incorporates iconic elements from the Godzilla series."
+    },
+    {
+      "id": "8ea6a442a6c1",
+      "title": "Cadillac and Haas reveal special liveries for home race in Austin | Formula 1",
+      "title_fr": "Cadillac et Haas dévoilent des carrosseries spéciales pour le Grand Prix d'Austin",
+      "title_en": "Cadillac and Haas unveil special liveries for Austin GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/20/cadillac-and-haas-reveal-special-liveries-for-home-race-in-austin/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/cadillac-cota-scaled.jpg",
+      "published_at": "2026-10-20T11:53:19+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Les deux équipes américaines, Cadillac et Haas, présenteront des carrosseries uniques lors du Grand Prix des États-Unis d'Austin",
+      "summary_en": "The two American teams, Cadillac and Haas, will showcase special liveries at the United States Grand Prix in Austin"
     },
     {
       "id": "a59c1eaacfe1",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Selon Antonio Lobato, la chaîne britannique prépare un film sur la saison chaotique 2007 de Hamilton et Alonso à McLaren. Le projet n'est pas encore confirmé.",
       "summary_en": "According to Antonio Lobato, the BBC is reportedly developing a documentary on the chaotic 2007 season of Hamilton and Alonso at McLaren. The project has not yet been confirmed."
-    },
-    {
-      "id": "a66a4f72261f",
-      "title": "Spotlight: Fornaroli tests for McLaren again alongside Hughes at Paul Ricard | Spotlight",
-      "title_fr": "Spotlight: Fornaroli tests for McLaren again alongside Hughes at Paul Ricard | Spotlight",
-      "title_en": "Spotlight: Fornaroli tests for McLaren again alongside Hughes at Paul Ricard | Spotlight",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/18/spotlight-fornaroli-tests-for-mclaren-again-alongside-hughes-at-paul-ricard/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-18-20-31-27-4.jpg",
-      "published_at": "2026-10-18T19:36:53+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Fornaroli and Hughes test for McLaren at Paul Ricard",
-      "summary_en": "Fornaroli and Hughes test for McLaren at Paul Ricard"
-    },
-    {
-      "id": "165d0ca39434",
-      "title": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
-      "title_fr": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
-      "title_en": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/bbc-could-lose-f1-radio-rights-after-32-years-as-rival-broadcaster-considers-bid/10866051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0arE7qX2/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-10-18T12:05:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "talkSPORT is considering a bid for the UK radio rights to Formula 1, which could end the BBC's long run as the sport's home on radio in the country.<br />The station's head, Liam Fisher, told The Tele",
-      "summary_en": "talkSPORT is considering a bid for the UK radio rights to Formula 1, which could end the BBC's long run as the sport's home on radio in the country.<br />The station's head, Liam Fisher, told The Tele"
-    },
-    {
-      "id": "99b47222e8a0",
-      "title": "Max Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
-      "title_fr": "Max Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
-      "title_en": "Max Verstappen hits back at ex-F1 drivers over criticism of 2026 regulations",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-hits-back-at-former-f1-drivers-over-criticism-of-2026-regulations/10866045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVjpbvY/s6/72945935-2-2.jpg",
-      "published_at": "2026-10-18T11:35:02+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull driver Max Verstappen has spoken out on the criticism he has received from former drivers, with the four-time champion believing this negativity stems from the pundits not understanding the 2",
-      "summary_en": "Red Bull driver Max Verstappen has spoken out on the criticism he has received from former drivers, with the four-time champion believing this negativity stems from the pundits not understanding the 2"
-    },
-    {
-      "id": "bcbbe158f33f",
-      "title": "How Geri Halliwell helped Christian Horner deal with fan hate",
-      "title_fr": "How Geri Halliwell helped Christian Horner deal with fan hate",
-      "title_en": "How Geri Halliwell helped Christian Horner deal with fan hate",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-geri-halliwell-helped-christian-horner-deal-with-fan-hate/10865211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2wB9xN30/s6/geri-horner-with-christian-hor.jpg",
-      "published_at": "2026-10-18T11:00:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner has explained how his celebrity wife Geri Halliwell helped him overcome the hate that came with his rise in fame thanks to Formula 1 drama Drive to Survive.<br />Since 2015 Horner has",
-      "summary_en": "Christian Horner has explained how his celebrity wife Geri Halliwell helped him overcome the hate that came with his rise in fame thanks to Formula 1 drama Drive to Survive.<br />Since 2015 Horner has"
-    },
-    {
-      "id": "2a22502dd62e",
-      "title": "Mercedes explains why its upgrade made its F1 car harder to drive",
-      "title_fr": "Mercedes explique pourquoi sa mise à jour rend le F1 plus difficile à piloter",
-      "title_en": "Mercedes explains why its upgrade made the F1 car harder to drive",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2jEAGLp0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-18T11:00:03+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Après le Grand Prix de Singapour, Mercedes a détaillé les raisons pour lesquelles sa nouvelle mise à jour rend la voiture plus difficile à piloter. Les données recueillies lors du sprint ont permis de mieux comprendre les défis techniques.",
-      "summary_en": "After Singapore, Mercedes explained why its new upgrade makes the car harder to drive. Data from the sprint weekend helped the team pinpoint technical challenges."
     }
   ]
 }
