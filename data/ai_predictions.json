@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T08:44:05Z",
+  "generated_at": "2026-10-21T11:45:40Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -85,12 +85,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "hamilton",
-      "reasoning_fr": "Le dernier Q du Grand Prix de Singapour montre le rythme des leaders : Max Verstappen a dominé, suivi de Charles Leclerc et Lewis Hamilton, qui ont respectivement occupé la 2ᵉ et la 3ᵉ place. Ces performances récentes s’ajoutent à la bonne adéquation de leurs voitures avec le Circuit of the Americas, où puissance en ligne droite et appui aérodynamique sont décisifs. Mercedes reste compétitif, mais",
-      "reasoning_en": "The most recent qualifying session in Singapore clearly highlighted the single‑lap pace of the front‑runners: Max Verstappen topped the times, with Charles Leclerc and Lewis Hamilton in second and third. Their strong results combine with cars that suit the high‑speed, high‑downforce layout of the Circuit of the Americas, where straight‑line power and aerodynamic grip are crucial. Mercedes remains ",
-      "confidence": "high",
-      "key_factor_fr": "Rythme récent en qualification et adéquation voiture‑circuit",
+      "reasoning_fr": "Sur le COTA, la puissance sur les longues lignes droites et la stabilité en virage sont décisives. Max Verstappen a montré le meilleur rythme en qualification à Singapour et bénéficie d’une Red Bull bien adaptée aux nouvelles règles, conservant un avantage aérodynamique. Leclerc, malgré la faiblesse brute signalée par Ferrari, a réalisé une excellente Q2 à Singapour, prouvant que la mise à jour ré",
+      "reasoning_en": "At the Circuit of the Americas, straight‑line power and corner stability are crucial. Max Verstappen displayed the fastest qualifying pace in Singapore and his Red Bull is well suited to the new regulations, keeping an aerodynamic edge. Leclerc, despite Ferrari’s reported lack of raw power, posted a strong Q2 in Singapore, indicating the recent upgrade is effective. Hamilton remains consistent in ",
+      "confidence": "medium",
+      "key_factor_fr": "Puissance moteur + évolution de la piste",
       "news_used_ids": [],
-      "generated_at": "2026-10-20T23:40:37Z"
+      "generated_at": "2026-10-21T11:45:39Z"
     },
     {
       "event_id": "united_states_grand_prix",
