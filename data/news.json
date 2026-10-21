@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-21T15:45:41Z",
+  "last_updated": "2026-10-21T18:46:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b4f9f30cf39e",
+      "title": "Mercedes F1 unveils dramatic new look for United States Grand Prix",
+      "title_fr": "Mercedes dévoile un look bleu inédit pour le Grand Prix des États-Unis",
+      "title_en": "Mercedes unveils dramatic blue livery for United States Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-f1-unveils-dramatic-new-look-for-united-states-grand-prix/10866765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BqXM2/s6/72945935-18-2.jpg",
+      "published_at": "2026-10-21T16:48:18+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Mercedes présente une carrosserie bleue unique pour le Grand Prix des États-Unis, espérant que Kimi Antonelli l'emporte en championnat. Le design, réalisé avec MANUFAKTUR, remplace le gris argenté habituel du W17.",
+      "summary_en": "Mercedes unveils a unique blue livery for the United States Grand Prix, hoping Kimi Antonelli will win the championship. The design, created with MANUFAKTUR, swaps the usual silver of the W17 for blue."
+    },
+    {
+      "id": "eaefe0c8efa3",
+      "title": "F1 teams reveal special United States GP collections with denim, cowboy hats and Godzilla",
+      "title_fr": "Les équipes dévoilent des collections US GP à thème western",
+      "title_en": "Teams unveil US GP western-themed collections",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-teams-reveal-special-united-states-gp-collections-with-denim-cowboy-hats-and-godzilla/10866761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgoJ7Y/s6/72945935-17.jpg",
+      "published_at": "2026-10-21T16:07:37+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Les équipes de F1 présentent des collections spéciales pour le Grand Prix des États-Unis, incluant denim, chapeaux de cow-boy et motifs Godzilla, pour célébrer l'événement à Austin.",
+      "summary_en": "F1 teams unveil special US GP collections featuring denim, cowboy hats and Godzilla motifs to celebrate the Austin race."
+    },
+    {
+      "id": "10da3cb35111",
+      "title": "Five things to watch out for at the F1 United States GP",
+      "title_fr": "5 points clés à surveiller au Grand Prix des États-Unis",
+      "title_en": "5 key points to watch at the United States GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-united-states-gp/10866706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/254MqXD0/s6/atmosphere.jpg",
+      "published_at": "2026-10-21T16:01:34+00:00",
+      "race_id": "usa",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix des États-Unis à Austin marque le début d'une triple‑série avec le Mexique et São Paulo. Six manches restent, et les équipes ajustent stratégie et pneus pour la fin de saison.",
+      "summary_en": "The United States Grand Prix in Austin kicks off a triple‑header with Mexico City and São Paulo. Six rounds remain, and teams are fine‑tuning strategy and tires for the season finale."
+    },
     {
       "id": "5bb7379bb711",
       "title": "Hockenheim in talks with F1 despite “virtually zero” public funding",
@@ -478,6 +535,25 @@
       "summary_en": "The two American teams, Cadillac and Haas, will showcase special liveries at the United States Grand Prix in Austin"
     },
     {
+      "id": "ea79d839ff76",
+      "title": "Cadillac, Haas and Aston Martin reveal special liveries for United States Grand Prix | Formula 1",
+      "title_fr": "Cadillac, Haas et Aston Martin arborent des carrosseries inédites pour le Grand Prix des États-Unis",
+      "title_en": "Cadillac, Haas and Aston Martin unveil special liveries for the United States Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/20/cadillac-haas-and-aston-martin-reveal-special-liveries-for-united-states-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/cadillac-cota-scaled.jpg",
+      "published_at": "2026-10-20T11:53:19+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Les équipes américaines Cadillac et Haas, ainsi que Aston Martin, présenteront des carrosseries uniques lors du Grand Prix des États-Unis. Les couleurs distinctives marqueront la grille de départ.",
+      "summary_en": "Cadillac, Haas and Aston Martin will showcase unique liveries at the United States Grand Prix, adding distinctive colors to the grid."
+    },
+    {
       "id": "a59c1eaacfe1",
       "title": "F1’s former fuel flow meter supplier sues its replacement in Texas",
       "title_fr": "Sentronics poursuit son remplaçant en Texas",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "If one looks at Sergio Perez's numbers in the 2026 Formula 1 season, the campaign could be classified as disastrous.<br />So far, Cadillac has not scored a point, although the Mexican came close to ac",
       "summary_en": "If one looks at Sergio Perez's numbers in the 2026 Formula 1 season, the campaign could be classified as disastrous.<br />So far, Cadillac has not scored a point, although the Mexican came close to ac"
-    },
-    {
-      "id": "9c3311b99428",
-      "title": "Lewis Hamilton grandstand returns to Las Vegas GP with expanded access for fans",
-      "title_fr": "Hamilton retrouve sa tribune à Las Vegas",
-      "title_en": "Hamilton returns to Las Vegas with new grandstand",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-grandstand-returns-to-las-vegas-gp-with-expanded-access-for-fans/10866351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/68Vwdll2/s6/72945935-3.jpg",
-      "published_at": "2026-10-19T16:40:09+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton retrouve sa tribune à Las Vegas pour le GP 2026, offrant des places assignées, boissons, accès aux zones de spectateurs et entretiens. Le package inclut également la visualisation de toutes les sessions.",
-      "summary_en": "Lewis Hamilton brings back his grandstand to the 2026 Las Vegas GP, offering assigned seats, drinks, fan zone access, driver interviews, and full track session viewing."
-    },
-    {
-      "id": "f7ac8cdb1fb7",
-      "title": "Fernando Alonso auctions off rare hot lap experience for charity",
-      "title_fr": "Alonso vend un tour de rêve pour la charité",
-      "title_en": "Alonso sells hot lap for charity",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-auctions-off-rare-hot-lap-experience-for-charity/10866347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVPoby0/s6/72945935-2.jpg",
-      "published_at": "2026-10-19T16:11:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso propose un tour de circuit à un fan pour soutenir sa fondation. L'expérience, offerte à la vente aux enchères, est estimée entre 12 000 et 18 000 dollars.",
-      "summary_en": "Fernando Alonso offers a hot lap experience to a fan to support his foundation. The event, part of a charity auction, is valued between $12,000 and $18,000."
-    },
-    {
-      "id": "e0c35be32e53",
-      "title": "McLaren to use final 2026 developments to test 2027 F1 car concepts",
-      "title_fr": "McLaren to use final 2026 developments to test 2027 F1 car concepts",
-      "title_en": "McLaren to use final 2026 developments to test 2027 F1 car concepts",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-to-use-final-2026-developments-to-test-2027-f1-car-concepts/10866094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdKNrKY/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-10-19T16:11:26+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren has revealed that its last run of upgrades for its 2026 Formula 1 car will also act as tests for “fundamental concepts that will carry into next year’s car”.<br />After the Singapore Grand Pri",
-      "summary_en": "McLaren has revealed that its last run of upgrades for its 2026 Formula 1 car will also act as tests for “fundamental concepts that will carry into next year’s car”.<br />After the Singapore Grand Pri"
-    },
-    {
-      "id": "0427b1afd7ea",
-      "title": "Lewis Hamilton and Max Verstappen call for Singapore F1 track changes",
-      "title_fr": "Hamilton et Verstappen réclament des changements au circuit de Singapour",
-      "title_en": "Hamilton and Verstappen call for changes to Singapore circuit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-call-for-singapore-f1-track-changes/10866335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0arE7Pw2/s6/72945935-1.jpg",
-      "published_at": "2026-10-19T14:51:30+00:00",
-      "race_id": "singapore",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton et Max Verstappen demandent une modification du circuit de Marina Bay, souhaitant une ligne droite plus longue ou un véritable virage en épingle pour améliorer la course à Singapour.",
-      "summary_en": "Lewis Hamilton and Max Verstappen are calling for changes to Singapore's Marina Bay Street Circuit, requesting a longer straight or a proper hairpin to make the race more exciting."
     }
   ]
 }
