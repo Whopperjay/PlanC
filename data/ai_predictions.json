@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T05:00:04Z",
-  "model": "claude",
+  "generated_at": "2026-10-21T08:44:05Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -100,12 +100,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "antonelli",
-      "reasoning_fr": "Le Grand Prix des États‑Unis à Austin reste très sensible à la grille de départ. Max Verstappen, vainqueur et pole à Singapour, montre une vitesse pure exceptionnelle et une stratégie de pneus maîtrisée, le plaçant en tête. Charles Leclerc, deuxième à Singapour et deuxième en qualification, combine un bon rythme et une gestion fiable de la gomme, assurant une place sur le podium. Andrea Kimi Anton",
-      "reasoning_en": "The Austin circuit still heavily rewards qualifying position. Max Verstappen, winner and pole sitter in Singapore, demonstrates outstanding outright speed and tyre‑strategy control, putting him at the front. Charles Leclerc, second in Singapore and second in qualifying, blends strong pace with reliable tyre management, securing a podium spot. Andrea Kimi Antonelli, championship leader, has shown c",
+      "reasoning_fr": "Verstappen partira probablement en pole, son rythme récent est excellent et il gère bien la dégradation sur COTA. Leclerc bénéficie d'un upgrade majeur de la Ferrari, corrigeant la faiblesse brute signalée, et il a montré une forme constante (2e à Singapour). Antonelli, leader du championnat, a terminé 3e à Singapour et était 4e en qualification, montrant constance et fiabilité, atouts décisifs su",
+      "reasoning_en": "Verstappen is expected to qualify on pole, his recent pace is superb and he handles tire wear well on the bumpy COTA layout. Leclerc will run a major Ferrari upgrade that addresses the power deficit, and his recent form (2nd in Singapore) is strong. Antonelli, championship leader, finished 3rd in Singapore and qualified 4th, showing consistency and reliability – crucial for a 50‑plus lap race.",
       "confidence": "medium",
-      "key_factor_fr": "Quali + rythme récent",
+      "key_factor_fr": "Quali, forme récente, upgrade Ferrari",
       "news_used_ids": [],
-      "generated_at": "2026-10-20T20:39:30Z"
+      "generated_at": "2026-10-21T08:44:04Z"
     }
   ]
 }
