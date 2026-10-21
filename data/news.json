@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-21T18:46:37Z",
+  "last_updated": "2026-10-21T21:47:27Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8f64b6bb37b7",
+      "title": "Lando Norris launches new clothing collection ahead of United States Grand Prix",
+      "title_fr": "Norris lance sa nouvelle collection de vêtements avant le Grand Prix des États-Unis",
+      "title_en": "Norris launches new clothing line ahead of United States Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-launches-new-clothing-collection-ahead-of-united-states-grand-prix/10866798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2Qed4A32/s6/72945935-20.jpg",
+      "published_at": "2026-10-21T21:28:02+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote McLaren Lando Norris a lancé sa collection de vêtements LN4, inspirée des garages de course des années 70, dans un ancien poste-service Austin aux États-Unis, juste avant le Grand Prix.",
+      "summary_en": "McLaren driver Lando Norris has unveiled his LN4 clothing line, inspired by 1970s racing garages, in a pop‑up at an old Austin fuel station in the United States ahead of the United States Grand Prix."
+    },
+    {
+      "id": "cf6d1e93621f",
+      "title": "Kimi Antonelli reveals down-to-earth habit ahead of potential F1 title win",
+      "title_fr": "Antonelli lave sa voiture à la main avant le titre",
+      "title_en": "Antonelli washes his car by hand ahead of title bid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-down-to-earth-habit-ahead-of-potential-f1-title-win/10866796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmAorm0/s6/72945935-7.jpg",
+      "published_at": "2026-10-21T20:59:49+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, en tête du championnat, a révélé qu'il lave sa voiture à la main. Ce geste simple contraste avec son ambition de champion.",
+      "summary_en": "Kimi Antonelli, leading the championship, revealed he washes his car by hand. The simple habit contrasts with his title ambitions."
+    },
+    {
+      "id": "2f2eac4be0f7",
+      "title": "Where to find free F1 fan zones across Austin this week",
+      "title_fr": "Zones F1 gratuites à Austin cette semaine",
+      "title_en": "Free F1 fan zones across Austin this week",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6AlvprEY/s6/72945935-19.jpg",
+      "published_at": "2026-10-21T20:44:10+00:00",
+      "race_id": "usa",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les fans sans billet pour le Grand Prix des États-Unis peuvent profiter de zones F1 gratuites organisées par les équipes et sponsors à Austin, de lundi à samedi.",
+      "summary_en": "Fans without tickets for the U.S. Grand Prix can enjoy free F1 fan zones set up by teams and sponsors in Austin from Monday to Saturday."
+    },
     {
       "id": "b4f9f30cf39e",
       "title": "Mercedes F1 unveils dramatic new look for United States Grand Prix",
@@ -554,6 +611,25 @@
       "summary_en": "Cadillac, Haas and Aston Martin will showcase unique liveries at the United States Grand Prix, adding distinctive colors to the grid."
     },
     {
+      "id": "5bb4e893464c",
+      "title": "Ferrari, Cadillac, Haas and Aston Martin reveal special liveries for United States Grand Prix | Formula 1",
+      "title_fr": "Ferrari, Cadillac, Haas et Aston Martin dévoilent des carrosseries spéciales pour le Grand Prix des États-Unis",
+      "title_en": "Ferrari, Cadillac, Haas and Aston Martin unveil special liveries for United States Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/20/ferrari-cadillac-haas-and-aston-martin-reveal-special-liveries-for-united-states-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-21-21-25-30-2.jpg",
+      "published_at": "2026-10-20T11:53:19+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Ferrari, Cadillac, Haas et Aston Martin présenteront des carrosseries uniques pour le Grand Prix des États-Unis. Chaque équipe met en avant son identité américaine dans un design distinctif.",
+      "summary_en": "Ferrari, Cadillac, Haas and Aston Martin will showcase unique liveries for the United States Grand Prix. Each team highlights its American identity with a distinctive design."
+    },
+    {
       "id": "a59c1eaacfe1",
       "title": "F1’s former fuel flow meter supplier sues its replacement in Texas",
       "title_fr": "Sentronics poursuit son remplaçant en Texas",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Andrea Kimi Antonelli pourrait remporter le championnat lors du Grand Prix des Etats-Unis. Le pilote de Red Bull est en tete du classement et les experts analysent ses chances.",
       "summary_en": "Andrea Kimi Antonelli could clinch the title at the United States Grand Prix. The Red Bull driver leads the standings and experts weigh his chances."
-    },
-    {
-      "id": "62e96768b804",
-      "title": "Christian Horner: Building Red Bull’s F1 engine was “scary as hell”",
-      "title_fr": "Horner révèle que bâtir le moteur Red Bull était \"effrayant\"",
-      "title_en": "Horner says building Red Bull's engine was \"scary\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-receives-unexpected-call-from-red-bull-after-breakthrough/10866228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6VyKwqdY/s6/72945935-4-2.jpg",
-      "published_at": "2026-10-19T21:13:42+00:00",
-      "race_id": "uk",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner, ancien directeur de l'équipe Red Bull, a admis que la création de la motorisation interne était \"effrayante\". Le pilote a quitté l'équipe l'année dernière, mais le moteur a déjà remporté des victoires.",
-      "summary_en": "Former Red Bull team principal Christian Horner admitted that building the team's in-house engine was \"scary as hell\". He was dismissed last year, yet the power unit has already secured race wins."
-    },
-    {
-      "id": "418e400cb718",
-      "title": "How soon can Mercedes win the 2026 F1 constructors' championship?",
-      "title_fr": "How soon can Mercedes win the 2026 F1 constructors' championship?",
-      "title_en": "How soon can Mercedes win the 2026 F1 constructors' championship?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-soon-can-mercedes-win-the-2026-f1-constructors-championship/10866296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyo5M6/s6/72945935-6.jpg",
-      "published_at": "2026-10-19T21:03:36+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes has had a dominant start to the new regulations in 2026, but while its driver Kimi Antonelli could technically seal his Formula 1 championship win this coming Sunday at the United States Gran",
-      "summary_en": "Mercedes has had a dominant start to the new regulations in 2026, but while its driver Kimi Antonelli could technically seal his Formula 1 championship win this coming Sunday at the United States Gran"
-    },
-    {
-      "id": "6992ecc564e5",
-      "title": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
-      "title_fr": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
-      "title_en": "Valtteri Bottas raises almost €50,000 for rhino charity with F1 helmet fundraiser",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-raises-almost-50000-for-rhino-charity-with-f1-helmet-fundraiser/10866360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BqaB2/s6/72945935-4.jpg",
-      "published_at": "2026-10-19T17:15:06+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas has revealed the winner of the race-worn rhino helmet he used at the Azerbaijan Grand Prix after a fundraising drive for a South African rhino charity.<br />The Cadillac driver reveale",
-      "summary_en": "Valtteri Bottas has revealed the winner of the race-worn rhino helmet he used at the Azerbaijan Grand Prix after a fundraising drive for a South African rhino charity.<br />The Cadillac driver reveale"
-    },
-    {
-      "id": "eb4c4f926900",
-      "title": "Sergio Perez: Debut Cadillac season \"without a doubt one of my best years\"",
-      "title_fr": "Sergio Perez: Debut Cadillac season \"without a doubt one of my best years\"",
-      "title_en": "Sergio Perez: Debut Cadillac season \"without a doubt one of my best years\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/sergio-perez-debut-cadillac-season-without-a-doubt-one-of-my-best-years/10866353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QlAg6/s6/sergio-perez-cadillac-racing.jpg",
-      "published_at": "2026-10-19T16:42:07+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "If one looks at Sergio Perez's numbers in the 2026 Formula 1 season, the campaign could be classified as disastrous.<br />So far, Cadillac has not scored a point, although the Mexican came close to ac",
-      "summary_en": "If one looks at Sergio Perez's numbers in the 2026 Formula 1 season, the campaign could be classified as disastrous.<br />So far, Cadillac has not scored a point, although the Mexican came close to ac"
     }
   ]
 }
