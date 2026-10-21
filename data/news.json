@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-20T23:39:57Z",
+  "last_updated": "2026-10-21T02:40:48Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "45298dd715a1",
+      "title": "Max Verstappen receives fresh Formula E invitation ahead of Gen4 debut",
+      "title_fr": "Verstappen invité à la Formule E pour le Gen4",
+      "title_en": "Verstappen invited to Formula E for Gen4",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-receives-fresh-formula-e-invitation-ahead-of-gen4-debut/10866587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAopX0/s6/72945935-11.jpg",
+      "published_at": "2026-10-21T00:35:02+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de la Formule E, Jeff Dodds, a exprimé son souhait de voir Max Verstappen piloter le nouveau Gen4, le véhicule le plus puissant du championnat. Le pilote n'a pas encore été contacté.",
+      "summary_en": "Formula E chief executive Jeff Dodds said he would love to see Max Verstappen drive the new Gen4 car, the most powerful yet in the championship. He has not yet spoken to the Dutchman."
+    },
     {
       "id": "c11c9604f4ea",
       "title": "Aston Martin F1's latest merchandise collection comes with eye-watering prices",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a surpris les fans en retrouvant le père de Lewis Hamilton, Anthony Hamilton, lors d'un arrêt de paddock à Portimão. Le pilote néerlandais a également couru en GT World Challenge Europe, terminant neuvième.",
       "summary_en": "Max Verstappen surprised fans by meeting Lewis Hamilton's father, Anthony Hamilton, during a paddock stop at Portimão. The Dutch driver also raced in the GT World Challenge Europe finale, finishing ninth."
-    },
-    {
-      "id": "fc04b1ead641",
-      "title": "How to follow US Grand Prix on the BBC",
-      "title_fr": "Suivez le Grand Prix des États-Unis via la BBC",
-      "title_en": "How to follow the US Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/30ae1920-c58e-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-19T06:42:58+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La BBC propose une couverture complète du Grand Prix des États-Unis du 23 au 25 octobre. Voici comment accéder aux diffusions en direct, aux commentaires et aux analyses.",
-      "summary_en": "The BBC offers comprehensive coverage of the US Grand Prix from 23 to 25 October. Here’s how to access live streams, commentary and analysis."
     }
   ]
 }
