@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-10-21T05:41:35Z",
+  "last_updated": "2026-10-21T08:42:59Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "42d6371c16bb",
+      "title": "FIA enforces new rule to close F1 cost cap loophole",
+      "title_fr": "FIA ferme la faille du plafond de coûts en F1",
+      "title_en": "FIA closes F1 cost-cap loophole",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-enforces-new-rule-to-close-f1-cost-cap-loophole/10866642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0ZqAL586/s6/grid-2.jpg",
+      "published_at": "2026-10-21T08:31:18+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le Conseil mondial du sport automobile a approuvé de nouvelles règles empêchant les équipes de faire travailler leur personnel hors F1 sur des projets de Formule 1 afin de respecter le plafond de coûts.",
+      "summary_en": "The FIA's World Motor Sport Council approved new rules that stop teams from using non-F1 staff on Formula 1 projects, tightening the cost-cap."
+    },
+    {
+      "id": "ee68f6bed256",
+      "title": "FIA’s new Formula 1 Race Operations Centre opens at FOM’s Biggin Hill base | Formula 1",
+      "title_fr": "FIA ouvre son nouveau centre d'opérations à Biggin Hill",
+      "title_en": "FIA opens new Race Operations Centre at Biggin Hill",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/fia-roc.jpg",
+      "published_at": "2026-10-21T08:02:13+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La FIA a établi son nouveau centre d'opérations de course à la base de Biggin Hill, en Angleterre, en utilisant les installations de la FOM",
+      "summary_en": "The FIA has set up its new Race Operations Centre at the FOM base in Biggin Hill, UK, using the Formula 1 facilities"
+    },
+    {
+      "id": "29725b5d09cf",
+      "title": "Charles Leclerc makes worrying Ferrari admission ahead of major F1 upgrade",
+      "title_fr": "Leclerc avoue la faiblesse brute de la Ferrari avant l'upgrade majeur",
+      "title_en": "Leclerc admits Ferrari's raw performance lacking before major upgrade",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-makes-worrying-ferrari-admission-ahead-of-major-f1-upgrade/10866596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YMXbvm12/s6/72945935-14.jpg",
+      "published_at": "2026-10-21T08:00:04+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a déclaré que la Ferrari manque de performance brute plutôt que de réglage, avant d'apporter son gros upgrade de la saison aux États-Unis. Le pilote note que la voiture est compétitive en formation mais recule en qualification",
+      "summary_en": "Charles Leclerc said Ferrari's issue is raw performance, not setup, before bringing its biggest upgrade of the season to the United States Grand Prix. He noted the car is competitive in practice but falls back in qualifying"
+    },
+    {
+      "id": "668fa90e5c19",
+      "title": "McLaren held fresh talks after Singapore GP clash as Norris promises to \"make better decisions\"",
+      "title_fr": "McLaren held fresh talks after Singapore GP clash as Norris promises to \"make better decisions\"",
+      "title_en": "McLaren held fresh talks after Singapore GP clash as Norris promises to \"make better decisions\"",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mclaren-held-fresh-talks-after-singapore-gp-clash-as-lando-norris-promises-to-make-better-decisions/10866627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2GdKqDzY/s6/oscar-piastri-mclaren-lando-no.jpg",
+      "published_at": "2026-10-21T07:17:51+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris has conceded he needs to make \"better decisions\" as McLaren aims to draw a line under his clash with team-mate Oscar Piastri in Singapore.<br />Norris drew the ire of his team management ",
+      "summary_en": "Lando Norris has conceded he needs to make \"better decisions\" as McLaren aims to draw a line under his clash with team-mate Oscar Piastri in Singapore.<br />Norris drew the ire of his team management "
+    },
+    {
+      "id": "2d331ffbcdc9",
+      "title": "McLaren held fresh talks after Singapore GP clash as Lando Norris promises to \"make better decisions\"",
+      "title_fr": "Norris promet de mieux choisir après l'affrontement à Singapour",
+      "title_en": "Norris vows better decisions after clash in Singapore",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-held-fresh-talks-after-singapore-gp-clash-as-lando-norris-promises-to-make-better-decisions/10866551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2GdKqDzY/s6/oscar-piastri-mclaren-lando-no.jpg",
+      "published_at": "2026-10-21T07:12:23+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a admis qu'il doit prendre de meilleures décisions après avoir heurté Oscar Piastri lors du sprint de Singapour, coûtant des points à McLaren.",
+      "summary_en": "Lando Norris admitted he needs to make better decisions after colliding with Oscar Piastri in the Singapore sprint, costing McLaren valuable points."
+    },
+    {
+      "id": "f2489a6448bd",
+      "title": "Christian Horner reveals new details of controversial 2021 Abu Dhabi GP",
+      "title_fr": "Horner révèle les coulisses du GP d'Abu Dhabi 2021",
+      "title_en": "Horner reveals behind‑the‑scenes of the 2021 Abu Dhabi GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-new-details-of-controversial-2021-abu-dhabi-gp/10866594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/63QaenD2/s6/72945935-13.jpg",
+      "published_at": "2026-10-21T07:05:03+00:00",
+      "race_id": "abudhabi",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner confie qu'il a exercé une pression sur Michael Masi pour relancer la course après l'accident de Nicholas Latifi, révélant ainsi les raisons de la décision controversée.",
+      "summary_en": "Christian Horner admits he pressured Michael Masi to restart the race after Nicholas Latifi's crash, exposing the reasons behind the controversial decision."
+    },
+    {
+      "id": "aaafbad2146a",
+      "title": "“I’ll probably need to order a new spine” – Verstappen braced for bumpy weekend at COTA | Formula 1",
+      "title_fr": "Verstappen s'attend à la piste bouillonnante de COTA",
+      "title_en": "Verstappen braces for bumpy weekend at COTA",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-01-10-01-13-3-SI202610010131.jpg",
+      "published_at": "2026-10-21T06:16:23+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen s'attend à une conduite difficile sur les bosses du Circuit des Amériques ce week-end. Le pilote Red Bull prévoit de gérer les irrégularités de la piste.",
+      "summary_en": "Max Verstappen expects a rough ride from the notorious bumps at the Circuit of the Americas this weekend."
+    },
     {
       "id": "5c69050ab780",
       "title": "Lewis Hamilton's \"secret\" Red Bull meeting revealed after 14 years",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne",
       "summary_en": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne"
-    },
-    {
-      "id": "76d3de19ec67",
-      "title": "Video: WEC teams title decided in relocated finale in Spain | Formula 1",
-      "title_fr": "WEC : le titre des équipes décidé lors de la finale relocalisée en Espagne",
-      "title_en": "WEC teams title decided in relocated finale in Spain",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/19/video-wec-teams-title-decided-in-relocated-finale-in-spain/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/wec_181026_1016-1.jpg",
-      "published_at": "2026-10-19T10:26:30+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le championnat des équipes WEC a été scellé lors de la finale relocalisée en Espagne. Les points décisifs ont été attribués après une course intense, confirmant le champion du titre.",
-      "summary_en": "The WEC teams' championship was decided in the relocated finale in Spain. The decisive points were awarded after a tense race, confirming the title winner."
-    },
-    {
-      "id": "feab562e6412",
-      "title": "George Russell hints at hidden struggles behind 2025 Singapore GP victory",
-      "title_fr": "Russell révèle des difficultés cachées derrière sa victoire à Singapour",
-      "title_en": "Russell hints at hidden struggles behind Singapore win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-hints-at-hidden-struggles-behind-2025-singapore-gp-victory/10866231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YXyKqkR6/s6/72945935-2.jpg",
-      "published_at": "2026-10-19T10:12:32+00:00",
-      "race_id": "austria",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell a admis qu’il traversait des difficultés importantes pendant son week-end de victoire à Singapour 2025, affirmant que peu de gens en étaient informés.",
-      "summary_en": "George Russell admitted he faced significant struggles during his Singapore 2025 victory weekend, saying only a few people were aware of what was happening off the track."
-    },
-    {
-      "id": "7c0082b4dc6d",
-      "title": "Gabriel Bortoleto seeks Red Bull lessons from Max Verstappen during gaming sessions",
-      "title_fr": "Bortoleto cherche les secrets de Red Bull auprès de Verstappen",
-      "title_en": "Bortoleto seeks Red Bull lessons from Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/gabriel-bortoleto-seeks-red-bull-lessons-from-max-verstappen-during-gaming-sessions/10866220/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9Eqn1Y/s6/72945935-3.jpg",
-      "published_at": "2026-10-19T09:45:07+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Audi Gabriel Bortoleto, ami de Max Verstappen, lui demande comment Red Bull est devenu champion pour appliquer ces enseignements à Audi.",
-      "summary_en": "Audi driver Gabriel Bortoleto, a friend of Max Verstappen, asks the four-time champion how Red Bull became a champion to apply the lessons to Audi."
-    },
-    {
-      "id": "a7e464c107a6",
-      "title": "George Russell claims unofficial 2026 F1 sprint title",
-      "title_fr": "George Russell claims unofficial 2026 F1 sprint title",
-      "title_en": "George Russell claims unofficial 2026 F1 sprint title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-claims-unofficial-2026-f1-sprint-title/10866218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwdNl2/s6/72945935-1.jpg",
-      "published_at": "2026-10-19T09:43:20+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell would have been crowned sprint champion in 2026, if F1 had awarded such a title, after Lando Norris's last-lap clash with his McLaren team-mate Oscar Piastri in Singapore.<br />While Ru",
-      "summary_en": "George Russell would have been crowned sprint champion in 2026, if F1 had awarded such a title, after Lando Norris's last-lap clash with his McLaren team-mate Oscar Piastri in Singapore.<br />While Ru"
-    },
-    {
-      "id": "5c7534ca6d6f",
-      "title": "What Red Bull needs to pass McLaren at the United States Grand Prix",
-      "title_fr": "Red Bull doit tout donner pour dépasser McLaren aux États-Unis",
-      "title_en": "Red Bull must push to overtake McLaren at the United States Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-red-bull-needs-to-pass-mclaren-at-the-united-states-grand-prix/10866208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoDkOp0/s6/72945935-2-2.jpg",
-      "published_at": "2026-10-19T09:15:48+00:00",
-      "race_id": "usa",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Red Bull se trouve à 332 points, à sept de McLaren. Pour franchir la barre, Verstappen et Hadjar devront maximiser leurs performances afin de remonter au troisième rang.",
-      "summary_en": "Red Bull sits at 332 points, seven behind McLaren. Verstappen and Hadjar must push hard to climb back into third place."
-    },
-    {
-      "id": "9a810f485747",
-      "title": "Inside the competition building F1’s future engineering talent",
-      "title_fr": "Lynx Racing, champion du STEM Racing, fait sensation à Singapour",
-      "title_en": "Team Lynx Racing wins STEM Racing World Finals in Singapore",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/68VwdPX2/s6/stem-racing-world-final-2026-s.jpg",
-      "published_at": "2026-10-19T08:37:56+00:00",
-      "race_id": "saudi",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Six lycéens saoudiens, membres de Team Lynx Racing, ont remporté le championnat annuel STEM Racing World Finals à Singapour. Le groupe, composé de quatre garçons et deux filles, se promène désormais dans le paddock de la Formule 1.",
-      "summary_en": "Six Saudi high-school students from Team Lynx Racing won the annual STEM Racing World Finals in Singapore. The four-boy, two-girl team is now touring the Formula 1 paddock, showcasing the next generation of engineering talent."
-    },
-    {
-      "id": "cb0f97dc9e7d",
-      "title": "Inside the competition building F1’s future engineering talent",
-      "title_fr": "Lynx Racing, champion du STEM Racing World Finals, fait sensation à Singapour",
-      "title_en": "Team Lynx Racing wins STEM Racing World Finals in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/inside-the-competition-building-f1s-future-engineering-talent/10866186/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwdPX2/s6/stem-racing-world-final-2026-s.jpg",
-      "published_at": "2026-10-19T08:27:35+00:00",
-      "race_id": "saudi",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Six lycéens saoudiens, membres de Lynx Racing, ont remporté le STEM Racing World Finals à Singapour, démontrant le potentiel de la prochaine génération d'ingénieurs F1",
-      "summary_en": "Six Saudi high‑school students from Lynx Racing won the STEM Racing World Finals in Singapore, showcasing the future of F1 engineering talent"
     }
   ]
 }
