@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-21T08:42:59Z",
+  "last_updated": "2026-10-21T11:44:29Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "673efd5d9d13",
+      "title": "The figures that show Mercedes has lost its supremacy in F1 2026",
+      "title_fr": "Mercedes perd sa suprématie en 2026",
+      "title_en": "Mercedes loses its supremacy in 2026",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVPwOP0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-21T11:28:56+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Mercedes, confiant de revenir sur le podium, constate que les nouvelles règles techniques ont réduit son avantage. Après six victoires consécutives, Ferrari et McLaren ont repris le dessus.",
+      "summary_en": "Mercedes, confident of a return to the podium, sees new technical regulations erode its advantage. After six consecutive wins, Ferrari and McLaren have taken the lead."
+    },
+    {
+      "id": "503b379fe209",
+      "title": "Oscar Piastri delivers worrying McLaren verdict with six races remaining",
+      "title_fr": "Piastri prédit la fin de la saison 2026 pour McLaren",
+      "title_en": "Piastri predicts McLaren's 2026 season will end",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-delivers-worrying-mclaren-verdict-with-six-races-remaining/10866598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/27NolzX0/s6/72945935-15.jpg",
+      "published_at": "2026-10-21T10:05:02+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri a déclaré que McLaren ne trouvera probablement pas de solution avant la fin de la saison 2026, soulignant que la voiture a atteint ses limites avec seulement six courses restantes.",
+      "summary_en": "Oscar Piastri said McLaren likely won’t find a fix before the end of the 2026 season, noting the car has reached its limits with only six races left."
+    },
+    {
+      "id": "a4f934ceb6c6",
+      "title": "FIA set to close F1 cost cap loophole with new rules",
+      "title_fr": "FIA set to close F1 cost cap loophole with new rules",
+      "title_en": "FIA set to close F1 cost cap loophole with new rules",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6AErNjN6/s6/f1-and-fia-logo-2.jpg",
+      "published_at": "2026-10-21T08:52:58+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The FIA’s World Motor Sport Council has approved new regulations to prevent teams’ non-F1 staff from working on Formula 1 projects.<br />F1's governing body has likely intervened because some had mana",
+      "summary_en": "The FIA’s World Motor Sport Council has approved new regulations to prevent teams’ non-F1 staff from working on Formula 1 projects.<br />F1's governing body has likely intervened because some had mana"
+    },
     {
       "id": "42d6371c16bb",
       "title": "FIA enforces new rule to close F1 cost cap loophole",
@@ -77,6 +134,25 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris has conceded he needs to make \"better decisions\" as McLaren aims to draw a line under his clash with team-mate Oscar Piastri in Singapore.<br />Norris drew the ire of his team management ",
       "summary_en": "Lando Norris has conceded he needs to make \"better decisions\" as McLaren aims to draw a line under his clash with team-mate Oscar Piastri in Singapore.<br />Norris drew the ire of his team management "
+    },
+    {
+      "id": "2e5925d49db5",
+      "title": "Norris promises to make \"better decisions\" following fresh talks over Singapore GP clash",
+      "title_fr": "Norris s’engage à mieux décider après l’incident à Singapour",
+      "title_en": "Norris vows better decisions after Singapore clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/norris-promises-to-make-better-decisions-following-fresh-talks-over-singapore-gp-clash/10866627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-10-21T07:17:51+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a admis qu’il doit prendre de meilleures décisions après avoir heurté Oscar Piastri lors de la course sprint de Marina Bay, ce qui a coûté huit points à McLaren.",
+      "summary_en": "Lando Norris admitted he needs to make better decisions after colliding with teammate Oscar Piastri in the Marina Bay sprint, costing McLaren eight points."
     },
     {
       "id": "2d331ffbcdc9",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Alex Albon has branded Williams’ cooling vest as “the best on the grid”, following a comfortable Singapore Grand Prix for the British-Thai driver.<br />A Heat Hazard was declared for the Marina Bay ra",
       "summary_en": "Alex Albon has branded Williams’ cooling vest as “the best on the grid”, following a comfortable Singapore Grand Prix for the British-Thai driver.<br />A Heat Hazard was declared for the Marina Bay ra"
-    },
-    {
-      "id": "fb0c7e8d7514",
-      "title": "Spa 24 Hours emerges as Max Verstappen’s likely 2027 GT target",
-      "title_fr": "Verstappen vise Spa 24h comme cible GT 2027",
-      "title_en": "Verstappen targets Spa 24h as 2027 GT goal",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/spa-24-hours-emerges-as-max-verstappens-likely-2027-gt-target/10866254/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YpbAo1j0/s6/72945935-5.jpg",
-      "published_at": "2026-10-19T11:03:11+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Après une performance impressionnante à Portimão, Max Verstappen souhaite poursuivre ses courses GT à Spa-Francorchamps, son circuit favori, en partageant la Mercedes Team Verstappen avec Chris Lulham et Ben Barnicoat.",
-      "summary_en": "After an impressive outing at Portimão, Max Verstappen aims to continue his GT racing at Spa-Francorchamps, his favourite track, sharing the Team Verstappen Mercedes with Chris Lulham and Ben Barnicoat."
-    },
-    {
-      "id": "261791f8d265",
-      "title": "McLaren retains Leonardo Fornaroli in F1 as Italian adds WEC programme for 2027",
-      "title_fr": "McLaren garde Fornaroli en F1, l'italien s'ouvre au WEC",
-      "title_en": "McLaren keeps Fornaroli in F1, Italian adds WEC programme",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-retains-fornaroli-in-f1-as-italian-adds-wec-programme-for-2027/10866224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/25dL7gx0/s6/leonardo-fornaroli-mclaren.jpg",
-      "published_at": "2026-10-19T11:01:59+00:00",
-      "race_id": "italy",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "McLaren a confirmé Leonardo Fornaroli comme pilote de réserve et troisième pilote pour 2027, tout en l'inscrivant au championnat du monde d'endurance. Le pilote italien débutera en Hypercar avec l'équipe.",
-      "summary_en": "McLaren has confirmed Leonardo Fornaroli as its reserve and third driver for 2027, while also adding him to the World Endurance Championship. The Italian will debut in the Hypercar with the team."
-    },
-    {
-      "id": "eb0763288989",
-      "title": "McLaren retains Fornaroli as F1 reserve and hands him WEC programme for 2027",
-      "title_fr": "Fornaroli reste pilote de réserve chez McLaren et s'apprête à débuter en WEC",
-      "title_en": "Fornaroli stays McLaren reserve and set for WEC debut",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mclaren-retains-fornaroli-as-f1-reserve-and-hands-him-wec-programme-for-2027/10866226/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/25dL7gx0/s6/leonardo-fornaroli-mclaren.jpg",
-      "published_at": "2026-10-19T11:01:36+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "McLaren confirme Leonardo Fornaroli comme pilote de réserve et troisième pilote pour 2027, tout en lui confiant un programme WEC. Le pilote italien débutera en Hypercar McLaren en 2027.",
-      "summary_en": "McLaren confirms Leonardo Fornaroli as its reserve and third driver for 2027, while also assigning him a WEC programme. The Italian will debut in McLaren's Hypercar in 2027."
-    },
-    {
-      "id": "f36f03104ea9",
-      "title": "Max Verstappen jokes he will need a \"new spine\" after \"incredibly bumpy\" US GP circuit",
-      "title_fr": "Max Verstappen jokes he will need a \"new spine\" after \"incredibly bumpy\" US GP circuit",
-      "title_en": "Max Verstappen jokes he will need a \"new spine\" after \"incredibly bumpy\" US GP circuit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-he-will-need-a-new-spine-after-incredibly-bumpy-us-gp-circuit/10866242/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/01QNaeQ0/s6/72945935.jpg",
-      "published_at": "2026-10-19T10:44:58+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne",
-      "summary_en": "Four-time Formula 1 champion Max Verstappen has warned that the Circuit of the Americas (COTA) is \"incredibly bumpy\" ahead of this weekend's United States Grand Prix, joking he may need to \"order a ne"
     }
   ]
 }
