@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-21T11:44:29Z",
+  "last_updated": "2026-10-21T14:45:40Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5bb7379bb711",
+      "title": "Hockenheim in talks with F1 despite “virtually zero” public funding",
+      "title_fr": "Hockenheim discute de retour en F1 malgré un financement public quasi nul",
+      "title_en": "Hockenheim talks F1 return despite almost no public funding",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/hockenheim-in-talks-with-f1-despite-virtually-zero-public-funding/10866729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2GdKqMQY/s6/robert-kubica-williams.jpg",
+      "published_at": "2026-10-21T13:59:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le circuit de Hockenheim est en pourparlers avec la Formule 1 pour un éventuel retour, mais le projet reste largement théorique. Les directeurs Joern Teske et Jochen Nerpel ont détaillé les enjeux.",
+      "summary_en": "The Hockenheimring is in talks with Formula 1 about a possible return, but the project remains largely theoretical. Directors Joern Teske and Jochen Nerpel outlined the challenges."
+    },
+    {
+      "id": "0fce46dbf4d7",
+      "title": "F1 races to return to standard distance in 2028",
+      "title_fr": "F1 reviendra à la distance standard en 2028",
+      "title_en": "F1 will return to standard race distance in 2028",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91ea/live/bf1f64b0-cd41-11f1-ad2d-43fff3ff842f.jpg",
+      "published_at": "2026-10-21T11:41:56+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les Grands Prix de Formule 1 reprendront leur distance habituelle en 2028, après une réduction de la longueur maximale pour la saison prochaine.",
+      "summary_en": "Formula 1 Grand Prix will return to their standard race distance in 2028, after the maximum length was shortened for the upcoming season."
+    },
     {
       "id": "673efd5d9d13",
       "title": "The figures that show Mercedes has lost its supremacy in F1 2026",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton et Max Verstappen demandent une modification du circuit de Marina Bay, souhaitant une ligne droite plus longue ou un véritable virage en épingle pour améliorer la course à Singapour.",
       "summary_en": "Lewis Hamilton and Max Verstappen are calling for changes to Singapore's Marina Bay Street Circuit, requesting a longer straight or a proper hairpin to make the race more exciting."
-    },
-    {
-      "id": "64a9af3c6340",
-      "title": "Honda ADUO engine upgrade pegged driveability back near Spec 1 level",
-      "title_fr": "Honda ramène la maniabilité de son moteur ADUO à l'ancienne",
-      "title_en": "Honda brings ADUO engine drivability back to Spec 1 level",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/honda-aduo-engine-upgrade-pegged-driveability-back-near-spec-1-level/10866261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YN7v4Q46/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-10-19T14:05:26+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le président de Honda Racing Corporation, Koji Watanabe, a déclaré que la mise à jour du moteur ADUO a rapproché la maniabilité de l’équipe de son niveau de la première spécification, longtemps problématique.",
-      "summary_en": "Honda Racing Corporation president Koji Watanabe said the ADUO engine upgrade has brought the team's drivability close to its troubled first-spec level."
-    },
-    {
-      "id": "87fed201c922",
-      "title": "Williams has better cooling vests than anyone – Alex Albon",
-      "title_fr": "Williams has better cooling vests than anyone – Alex Albon",
-      "title_en": "Williams has better cooling vests than anyone – Alex Albon",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-best-cooling-vests-albon/10866233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBvmE6/s6/alexander-albon-williams-carlo.jpg",
-      "published_at": "2026-10-19T12:34:16+00:00",
-      "race_id": "uk",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Alex Albon has branded Williams’ cooling vest as “the best on the grid”, following a comfortable Singapore Grand Prix for the British-Thai driver.<br />A Heat Hazard was declared for the Marina Bay ra",
-      "summary_en": "Alex Albon has branded Williams’ cooling vest as “the best on the grid”, following a comfortable Singapore Grand Prix for the British-Thai driver.<br />A Heat Hazard was declared for the Marina Bay ra"
     }
   ]
 }
