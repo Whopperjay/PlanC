@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-21T02:40:48Z",
+  "last_updated": "2026-10-21T05:41:35Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5c69050ab780",
+      "title": "Lewis Hamilton's \"secret\" Red Bull meeting revealed after 14 years",
+      "title_fr": "Rencontre secrète de Hamilton avec Red Bull révélée après 14 ans",
+      "title_en": "Hamilton's secret Red Bull meeting revealed after 14 years",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-secret-red-bull-meeting-revealed-after-14-years/10866590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LqgrY/s6/72945935-12.jpg",
+      "published_at": "2026-10-21T03:05:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Dans son prochain livre Drive, Christian Horner affirme que Lewis Hamilton aurait voulu rejoindre Red Bull avant de signer avec Mercedes. Une rencontre secrète aurait eu lieu chez Adrian Newey en 2012.",
+      "summary_en": "In his upcoming book Drive, Christian Horner claims Lewis Hamilton wanted to join Red Bull before moving to Mercedes. A secret meeting allegedly took place at Adrian Newey's home in 2012."
+    },
     {
       "id": "45298dd715a1",
       "title": "Max Verstappen receives fresh Formula E invitation ahead of Gen4 debut",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Six lycéens saoudiens, membres de Lynx Racing, ont remporté le STEM Racing World Finals à Singapour, démontrant le potentiel de la prochaine génération d'ingénieurs F1",
       "summary_en": "Six Saudi high‑school students from Lynx Racing won the STEM Racing World Finals in Singapore, showcasing the future of F1 engineering talent"
-    },
-    {
-      "id": "ace03de53393",
-      "title": "Max Verstappen and Anthony Hamilton's \"wholesome\" reunion earns F1 fan praise",
-      "title_fr": "Verstappen retrouve le père de Hamilton à Portimão",
-      "title_en": "Verstappen reunites with Hamilton's father at Portimão",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/gtwce-endurance/news/max-verstappen-and-anthony-hamiltons-wholesome-reunion-earns-f1-fan-praise/10866143/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AoElY/s6/72945935.jpg",
-      "published_at": "2026-10-19T08:00:04+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a surpris les fans en retrouvant le père de Lewis Hamilton, Anthony Hamilton, lors d'un arrêt de paddock à Portimão. Le pilote néerlandais a également couru en GT World Challenge Europe, terminant neuvième.",
-      "summary_en": "Max Verstappen surprised fans by meeting Lewis Hamilton's father, Anthony Hamilton, during a paddock stop at Portimão. The Dutch driver also raced in the GT World Challenge Europe finale, finishing ninth."
     }
   ]
 }
