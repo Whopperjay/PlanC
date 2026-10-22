@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T00:49:02Z",
-  "model": "openai/gpt-oss-120b",
+  "generated_at": "2026-10-22T05:00:14Z",
+  "model": "claude",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -97,15 +97,15 @@
       "race_id": "united_states",
       "session_type": "grand_prix",
       "session_date": "2026-10-25T20:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "leclerc",
-      "p3": "antonelli",
-      "reasoning_fr": "Le pole de Max Verstappen à Singapour montre son rythme de qualification supérieur, crucial sur le COTA où le dépassement reste difficile. Leclerc, deuxième en qualif et deuxième à Singapour, conserve une forte performance en course. Antonelli, quatrième en qualif mais troisième à Singapour, combine vitesse et constance, et bénéficie d'une stratégie pneus maîtrisée. Norris, bien parti, manque tout",
-      "reasoning_en": "Max Verstappen’s pole in Singapore demonstrates his superior one‑lap pace, vital at COTA where overtaking is limited. Leclerc, second in qualifying and second in Singapore, maintains strong race performance. Antonelli, fourth on the grid but third in Singapore, blends speed with consistency and can execute a solid tyre strategy. Norris, while well‑placed, lacks the outright pace to overtake Versta",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance, et Mercedes reste la référence en 2026. Russell confirme la force de l'équipe et a de bonnes chances de faire le doublé. Verstappen a souvent brillé à COTA, un circuit technique et bosselé où son pilotage fait la différence. Il devrait devancer de peu les Ferrari de Hamilton et Leclerc.",
+      "reasoning_en": "Antonelli dominates the championship with a 102-point lead, and Mercedes remains the benchmark in 2026. Russell confirms the team's strength and has a good chance of completing a one-two. Verstappen has often excelled at COTA, a technical, bumpy circuit where his driving makes the difference. He should narrowly beat the Ferraris of Hamilton and Leclerc.",
       "confidence": "medium",
-      "key_factor_fr": "Position de grille et gestion des pneus",
+      "key_factor_fr": "Domination Mercedes et maîtrise de Verstappen à COTA",
       "news_used_ids": [],
-      "generated_at": "2026-10-21T21:47:35Z"
+      "generated_at": "2026-10-22T05:00:14Z"
     }
   ]
 }
