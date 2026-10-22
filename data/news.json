@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-22T12:52:13Z",
+  "last_updated": "2026-10-22T15:53:17Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "746be48d6d4d",
+      "title": "Slater set for F1 practice debut with Audi in Mexico",
+      "title_fr": "Freddie Slater fait ses premiers essais F1 avec Audi au Mexique",
+      "title_en": "Freddie Slater to debut in F1 practice with Audi in Mexico",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/slater-set-for-f1-practice-debut/10867005/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyKAZVY/s6/freddie-slater-audi.jpg",
+      "published_at": "2026-10-22T15:02:14+00:00",
+      "race_id": "italy",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le pilote junior Freddie Slater, issu de la nouvelle académie Audi, effectuera ses premiers essais libres en Formule 1 pour Audi lors des séances de Mexico City et Sao Paulo",
+      "summary_en": "Audi junior Freddie Slater will make his first Formula 1 free practice appearances for Audi in Mexico City and Sao Paulo"
+    },
+    {
+      "id": "fe37249dcc92",
+      "title": "Audi hands F3 runner-up Freddie Slater F1 practice debut",
+      "title_fr": "Freddie Slater fait son entrée en F1 avec Audi",
+      "title_en": "Freddie Slater makes F1 debut with Audi",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/audi-hands-f3-runner-up-freddie-slater-f1-practice-debut/10867002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6VyKAZVY/s6/freddie-slater-audi.jpg",
+      "published_at": "2026-10-22T15:02:11+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Audi a annoncé que Freddie Slater, coureur F3, débutera en F1 lors de deux séances de pratique libre 1 à Mexico City et Sao Paulo. Le pilote, issu de la Formule Régionale, représentera la nouvelle équipe Audi Sauber en 2026",
+      "summary_en": "Audi announced that Freddie Slater, a F3 driver, will debut in F1 during two free practice 1 sessions in Mexico City and Sao Paulo. The driver, coming from Formula Regional, will represent the new Audi Sauber team in 2026"
+    },
+    {
+      "id": "81cd9e4fda8e",
+      "title": "On this day: Fernando Alonso wins the world title, Michael Schumacher retires from F1",
+      "title_fr": "Alonso remporte le titre mondial, Schumacher se retire",
+      "title_en": "Alonso wins world title, Schumacher retires",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/2006-brazilian-gp-alonso-wins-title-schumacher-retires-f1/10866737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgoX7Y/s6/fernando-alonso-renault-michae.jpg",
+      "published_at": "2026-10-22T13:38:58+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le 22 octobre 2006, Fernando Alonso a couronné champion du monde après la retraite de Michael Schumacher en Formule 1.",
+      "summary_en": "On 22 October 2006, Fernando Alonso clinched the world championship after Michael Schumacher retired from Formula 1."
+    },
+    {
+      "id": "fc04b1ead641",
+      "title": "How to follow US Grand Prix on the BBC",
+      "title_fr": "Suivre le Grand Prix des États-Unis sur la BBC",
+      "title_en": "How to follow the US Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/30ae1920-c58e-11f1-a64c-550be9e3c66b.jpg",
+      "published_at": "2026-10-22T13:32:33+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La BBC propose une couverture complète du Grand Prix des États-Unis, du 23 au 25 octobre. Suivez les diffusions en direct, les commentaires et les analyses sur les chaînes et plateformes numériques.",
+      "summary_en": "BBC offers comprehensive coverage of the US Grand Prix from 23 to 25 October. Follow live broadcasts, commentary, and analysis across TV channels and digital platforms."
+    },
     {
       "id": "1358dcad66c1",
       "title": "MotoGP \"can’t just copy\" F1’s Drive to Survive success – Chase Carey",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Sacha Fenestraz, pilote de simulation et de développement chez Ferrari, a confirmé qu'il participera à un test de Formule 1 en 2027 après son transfert de Mercedes à Maranello.",
       "summary_en": "Sacha Fenestraz, Ferrari's simulator and development driver, confirmed he will take part in a 2027 Formula 1 test after moving from Mercedes to Maranello. He announced this during the Fuji Super Formula weekend."
-    },
-    {
-      "id": "4f5f32764b34",
-      "title": "Aston Martin announces first-of-its-kind F1 partnership ahead of US GP",
-      "title_fr": "Aston Martin s'associe à Padeltek avant le Grand Prix d'Amérique",
-      "title_en": "Aston Martin partners with Padeltek ahead of US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-announces-first-of-its-kind-f1-partnership-ahead-of-us-gp/10866576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/25dL7WQ0/s6/72945935-5.jpg",
-      "published_at": "2026-10-20T22:05:28+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "L’équipe Aston Martin devient la première en F1 à collaborer avec une marque de padel et de pickleball. Le partenariat avec Padeltek inclut des raquettes qui seront mises en vente cette semaine.",
-      "summary_en": "Aston Martin becomes the first F1 team to partner with a padel and pickleball brand. The deal with Padeltek includes rackets that will go on sale this week."
-    },
-    {
-      "id": "88cc31a2fe38",
-      "title": "FIA expects F1 races in Qatar and Abu Dhabi to run as planned",
-      "title_fr": "FIA confie la tenue des courses au Qatar et à Abu Dhabi",
-      "title_en": "FIA expects Qatar and Abu Dhabi races to go ahead",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-run-as-planned/10866553/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVxVem0/s6/lando-norris-mclaren-max-verst-2.jpg",
-      "published_at": "2026-10-20T17:10:41+00:00",
-      "race_id": "bahrain",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le président de la FIA, Mohammed Ben Sulayem, déclare que les Grands Prix du Qatar et d'Abu Dhabi se dérouleront comme prévu, malgré les tensions actuelles au Moyen-Orient.",
-      "summary_en": "FIA president Mohammed Ben Sulayem says the Qatar and Abu Dhabi Grands Prix will run as scheduled, despite current Middle East tensions."
-    },
-    {
-      "id": "431bb53039f6",
-      "title": "FIA expects F1 races in Qatar and Abu Dhabi to continue as planned",
-      "title_fr": "FIA confie la tenue des courses au Qatar et à Abu Dhabi",
-      "title_en": "FIA expects Qatar and Abu Dhabi races to go ahead",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-continue-as-planned/10866547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6grBrLmY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-20T17:02:26+00:00",
-      "race_id": "bahrain",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le président de la FIA, Mohammed Ben Sulayem, déclare que les Grands Prix du Qatar et d'Abu Dhabi resteront sur le calendrier malgré les tensions au Moyen-Orient. Les courses de Bahreïn et de l'Arabie saoudite ont été annulées.",
-      "summary_en": "FIA president Mohammed Ben Sulayem says the Qatar and Abu Dhabi Grands Prix will stay on the calendar despite Middle East tensions. Bahrain and Saudi Arabia races were cancelled earlier this year."
-    },
-    {
-      "id": "f0db1db2ea1f",
-      "title": "Why Isack Hadjar doesn’t like F1 sprints anymore",
-      "title_fr": "Hadjar dénonce les sprints après Singapour",
-      "title_en": "Hadjar criticises sprint races after Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-isack-hadjar-doesnt-like-f1-sprints-anymore/10866320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGlOAY/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-10-20T16:40:03+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar, pilote de Red Bull, a exprimé son mécontentement envers les sprints de Formule 1 après la fin difficile du Grand Prix de Singapour. Il a souligné les problèmes de freinage et la lenteur de son monoplane.",
-      "summary_en": "Isack Hadjar, Red Bull driver, voiced his frustration with F1 sprint races after a tough weekend at the Singapore Grand Prix. He cited braking issues and his car's sluggish pace."
     }
   ]
 }
