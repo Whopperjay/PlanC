@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:47:36Z",
+  "generated_at": "2026-10-22T00:49:02Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -85,12 +85,12 @@
       "p1": "max_verstappen",
       "p2": "leclerc",
       "p3": "hamilton",
-      "reasoning_fr": "Sur le COTA, la puissance sur les longues lignes droites et la stabilité en virage sont décisives. Max Verstappen a montré le meilleur rythme en qualification à Singapour et bénéficie d’une Red Bull bien adaptée aux nouvelles règles, conservant un avantage aérodynamique. Leclerc, malgré la faiblesse brute signalée par Ferrari, a réalisé une excellente Q2 à Singapour, prouvant que la mise à jour ré",
-      "reasoning_en": "At the Circuit of the Americas, straight‑line power and corner stability are crucial. Max Verstappen displayed the fastest qualifying pace in Singapore and his Red Bull is well suited to the new regulations, keeping an aerodynamic edge. Leclerc, despite Ferrari’s reported lack of raw power, posted a strong Q2 in Singapore, indicating the recent upgrade is effective. Hamilton remains consistent in ",
-      "confidence": "medium",
-      "key_factor_fr": "Puissance moteur + évolution de la piste",
+      "reasoning_fr": "Le pilote max_verstappen montre une excellente vitesse sur un tour, confirmé par sa pole à Singapour et sa victoire en course. Leclerc, en bonne forme, a été deuxième en qualification à Singapour et bénéficie d’une voiture Ferrari adaptée aux virages rapides de COTA. Hamilton, troisième à Singapour, possède une expérience solide sur le circuit et un rythme d’un tour compétitif, ce qui le place nat",
+      "reasoning_en": "Max Verstappen demonstrates top‑one‑lap speed, confirmed by his pole in Singapore and race win, indicating strong low‑downforce performance suited to COTA’s long straights. Charles Leclerc, fresh from a second‑place qualifying in Singapore, benefits from a Ferrari chassis that excels in the fast‑changing corners of the circuit. Lewis Hamilton, third in Singapore qualifying, brings extensive experi",
+      "confidence": "high",
+      "key_factor_fr": "Rythme sur un tour, forme récente en qualification et performance aérodynamique",
       "news_used_ids": [],
-      "generated_at": "2026-10-21T11:45:39Z"
+      "generated_at": "2026-10-22T00:49:01Z"
     },
     {
       "event_id": "united_states_grand_prix",
