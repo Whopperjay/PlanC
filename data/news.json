@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-22T18:54:43Z",
+  "last_updated": "2026-10-22T21:56:57Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "efe5fa15b037",
+      "title": "Kimi Antonelli ready to \"finish the job\" as first F1 title chance beckons at US GP",
+      "title_fr": "Antonelli vise le titre à l'US GP",
+      "title_en": "Antonelli ready to finish the job at US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-22T21:15:16+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, 20 ans, veut terminer le travail en visant le titre de champion du monde à l'US GP. Il pourrait devenir le plus jeune champion de l'histoire de la F1 si l'opportunité se concrétise.",
+      "summary_en": "Kimi Antonelli, 20, aims to finish the job by clinching the world title at the US GP. He could become the youngest champion in F1 history if the opportunity materialises."
+    },
+    {
+      "id": "a4c73f56b0cd",
+      "title": "Kimi Antonelli opens up on father's fears over his F1 racing career",
+      "title_fr": "Kimi Antonelli révèle les craintes de son père sur sa carrière de pilote",
+      "title_en": "Kimi Antonelli opens up about his father's fears over his racing career",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/68Vwmkx2/s6/72945935-15.jpg",
+      "published_at": "2026-10-22T20:44:19+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, en tête du championnat, a expliqué que son père, Marco, ne voulait pas qu'il devienne pilote après avoir vu sa propre carrière se terminer faute d'argent. Arrivant à Austin, il est à 102 points d'avance.",
+      "summary_en": "Kimi Antonelli, the current championship leader, said his father Marco feared a racing career after his own ended due to lack of money. Arriving in Austin, he is 102 points clear and could become the youngest F1 champion."
+    },
+    {
+      "id": "897c32f4cd94",
+      "title": "'Lines were crossed' – Franco Colapinto speaks out after online abuse targeting Alpine F1 staff",
+      "title_fr": "Colapinto dénonce l'abus en ligne contre le personnel Alpine",
+      "title_en": "Colapinto condemns online abuse targeting Alpine staff",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lines-were-crossed-franco-colapinto-speaks-out-after-online-abuse-targeting-alpine-f1-staff/10867144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoDkDj0/s6/franco-colapinto-alpine-2.jpg",
+      "published_at": "2026-10-22T20:38:41+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote argentin Franco Colapinto a dénoncé l'abus en ligne visant le personnel d'Alpine lors d'une interview à Monaco. Il appelle à plus de respect sur les réseaux sociaux",
+      "summary_en": "Argentine driver Franco Colapinto condemned online abuse aimed at Alpine staff during an interview in Monaco, calling for greater respect on social media"
+    },
+    {
+      "id": "92f7a6791f1b",
+      "title": "Lewis Hamilton “forced to stay a lot longer” in F1 amid African Grand Prix hopes",
+      "title_fr": "Hamilton ravi de la venue du Grand Prix africain",
+      "title_en": "Hamilton thrilled by African Grand Prix announcement",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-forced-to-stay-a-lot-longer-in-f1-after-african-grand-prix-announcement/10867142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDqm70/s6/72945935-33-2.jpg",
+      "published_at": "2026-10-22T20:28:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton s'enthousiasme à l'annonce d'un Grand Prix en Afrique, prévu au Rwanda dans les années 2030. Le pilote espère rester en F1 pour y participer.",
+      "summary_en": "Lewis Hamilton is thrilled by the announcement of an African Grand Prix in Rwanda, slated for the early 2030s. The driver hopes to stay in F1 to compete there."
+    },
+    {
+      "id": "3477a5ff7651",
+      "title": "Red Bull is now F1's “most consistently quick car” says Oscar Piastri",
+      "title_fr": "Piastri qualifie Red Bull de la voiture la plus rapide",
+      "title_en": "Piastri calls Red Bull the fastest car",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-is-now-f1s-most-consistently-quick-car-says-oscar-piastri/10867135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arEdgp2/s6/72945935-32.jpg",
+      "published_at": "2026-10-22T20:03:49+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri pilote de McLaren affirme que Red Bull est désormais la voiture la plus rapide et la plus constante du championnat grace a ses recentes ameliorations. La Red Bull se trouve en tete des temps.",
+      "summary_en": "McLaren's Oscar Piastri says Red Bull is now the most consistently fast car on the grid thanks to recent upgrades, topping the timesheets."
+    },
+    {
+      "id": "1b3254b9cbb8",
+      "title": "Isack Hadjar: Max Verstappen would have won Singapore GP by more in a Ferrari",
+      "title_fr": "Hadjar : Verstappen aurait gagné plus à Singapour en Ferrari",
+      "title_en": "Hadjar: Verstappen would have won more at Singapore in a Ferrari",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-max-verstappen-would-have-won-singapore-gp-by-more-in-a-ferrari/10867119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6Alvq59Y/s6/72945935-14.jpg",
+      "published_at": "2026-10-22T19:34:28+00:00",
+      "race_id": "bahrain",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar soutient que Red Bull n'avait pas la voiture la plus rapide à Singapour et que Max Verstappen aurait remporté la course avec un plus grand écart s'il avait conduit une Ferrari.",
+      "summary_en": "Isack Hadjar claims Red Bull lacked the fastest car at Singapore and that Max Verstappen would have won by a larger margin if he had driven a Ferrari."
+    },
+    {
+      "id": "b1baf211d8cc",
+      "title": "Carlos Sainz: \"Difficult to be convinced\" that F1 2026 can finish in the Middle East",
+      "title_fr": "Sainz doute de la fin de la saison 2026 au Moyen-Orient",
+      "title_en": "Sainz doubts F1 2026 finale in Middle East",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/difficult-to-be-convinced-f1-can-finish-2026-in-the-middle-east/10867098/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBva16/s6/carlos-sainz-williams.jpg",
+      "published_at": "2026-10-22T19:25:26+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz a déclaré qu'il est difficile d'être convaincu que la Formule 1 puisse terminer la saison 2026 au Qatar et à Abu Dhabi, malgré le conflit en cours.",
+      "summary_en": "Carlos Sainz says it's hard to be convinced that Formula 1 can finish the 2026 season in Qatar and Abu Dhabi amid the ongoing Middle Eastern conflict."
+    },
+    {
+      "id": "29f524a96185",
+      "title": "Oscar Piastri: What made me fast last season is now my “downfall”",
+      "title_fr": "Oscar Piastri: What made me fast last season is now my “downfall”",
+      "title_en": "Oscar Piastri: What made me fast last season is now my “downfall”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-what-made-me-fast-last-season-is-now-my-downfall/10867108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0o5ANmwY/s6/72945935-31.jpg",
+      "published_at": "2026-10-22T19:23:15+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren driver Oscar Piastri has admitted that the strengths that made him a title contender during the 2025 Formula 1 season have become his biggest weaknesses as he battles to adapt to this year's r",
+      "summary_en": "McLaren driver Oscar Piastri has admitted that the strengths that made him a title contender during the 2025 Formula 1 season have become his biggest weaknesses as he battles to adapt to this year's r"
+    },
+    {
+      "id": "e7e8f0cba4d3",
+      "title": "Jim Beam reveals sales impact of Cadillac F1 partnership",
+      "title_fr": "Jim Beam reveals sales impact of Cadillac F1 partnership",
+      "title_en": "Jim Beam reveals sales impact of Cadillac F1 partnership",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/jim-beam-reveals-sales-impact-of-cadillac-f1-partnership/10867093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YK15Ar80/s6/72945935-13.jpg",
+      "published_at": "2026-10-22T19:12:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Jim Beam says its partnership with the Cadillac Formula 1 team has already led to a rise in sales.<br />The Kentucky bourbon brand, owned by Suntory Global Spirits, is a founding partner of Cadillac F",
+      "summary_en": "Jim Beam says its partnership with the Cadillac Formula 1 team has already led to a rise in sales.<br />The Kentucky bourbon brand, owned by Suntory Global Spirits, is a founding partner of Cadillac F"
+    },
+    {
+      "id": "ede178ce8456",
+      "title": "F1 United States GP: Friday schedule, weather forecast and how to watch",
+      "title_fr": "F1 United States GP: Friday schedule, weather forecast and how to watch",
+      "title_en": "F1 United States GP: Friday schedule, weather forecast and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-friday-schedule-weather-forecast-and-how-to-watch/10867077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNWab2/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-10-22T19:04:56+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 heads to Austin this weekend for the United States Grand Prix, with Kimi Antonelli arriving at the Circuit of the Americas with his first opportunity to clinch the 2026 world championship.<b",
+      "summary_en": "Formula 1 heads to Austin this weekend for the United States Grand Prix, with Kimi Antonelli arriving at the Circuit of the Americas with his first opportunity to clinch the 2026 world championship.<b"
+    },
     {
       "id": "95c22421904b",
       "title": "Martin Brundle unveils incredible 860hp Porsche 911 creation with daughter Charlie",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le circuit de Hockenheim est en pourparlers avec la Formule 1 pour un éventuel retour, mais le projet reste largement théorique. Les directeurs Joern Teske et Jochen Nerpel ont détaillé les enjeux.",
       "summary_en": "The Hockenheimring is in talks with Formula 1 about a possible return, but the project remains largely theoretical. Directors Joern Teske and Jochen Nerpel outlined the challenges."
-    },
-    {
-      "id": "0fce46dbf4d7",
-      "title": "F1 races to return to standard distance in 2028",
-      "title_fr": "F1 reviendra à la distance standard en 2028",
-      "title_en": "F1 will return to standard race distance in 2028",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91ea/live/bf1f64b0-cd41-11f1-ad2d-43fff3ff842f.jpg",
-      "published_at": "2026-10-21T11:41:56+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les Grands Prix de Formule 1 reprendront leur distance habituelle en 2028, après une réduction de la longueur maximale pour la saison prochaine.",
-      "summary_en": "Formula 1 Grand Prix will return to their standard race distance in 2028, after the maximum length was shortened for the upcoming season."
-    },
-    {
-      "id": "673efd5d9d13",
-      "title": "The figures that show Mercedes has lost its supremacy in F1 2026",
-      "title_fr": "Mercedes perd sa suprématie en 2026",
-      "title_en": "Mercedes loses its supremacy in 2026",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVPwOP0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-21T11:28:56+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Mercedes, confiant de revenir sur le podium, constate que les nouvelles règles techniques ont réduit son avantage. Après six victoires consécutives, Ferrari et McLaren ont repris le dessus.",
-      "summary_en": "Mercedes, confident of a return to the podium, sees new technical regulations erode its advantage. After six consecutive wins, Ferrari and McLaren have taken the lead."
-    },
-    {
-      "id": "503b379fe209",
-      "title": "Oscar Piastri delivers worrying McLaren verdict with six races remaining",
-      "title_fr": "Piastri prédit la fin de la saison 2026 pour McLaren",
-      "title_en": "Piastri predicts McLaren's 2026 season will end",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-delivers-worrying-mclaren-verdict-with-six-races-remaining/10866598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27NolzX0/s6/72945935-15.jpg",
-      "published_at": "2026-10-21T10:05:02+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri a déclaré que McLaren ne trouvera probablement pas de solution avant la fin de la saison 2026, soulignant que la voiture a atteint ses limites avec seulement six courses restantes.",
-      "summary_en": "Oscar Piastri said McLaren likely won’t find a fix before the end of the 2026 season, noting the car has reached its limits with only six races left."
-    },
-    {
-      "id": "a4f934ceb6c6",
-      "title": "FIA set to close F1 cost cap loophole with new rules",
-      "title_fr": "FIA set to close F1 cost cap loophole with new rules",
-      "title_en": "FIA set to close F1 cost cap loophole with new rules",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6AErNjN6/s6/f1-and-fia-logo-2.jpg",
-      "published_at": "2026-10-21T08:52:58+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The FIA’s World Motor Sport Council has approved new regulations to prevent teams’ non-F1 staff from working on Formula 1 projects.<br />F1's governing body has likely intervened because some had mana",
-      "summary_en": "The FIA’s World Motor Sport Council has approved new regulations to prevent teams’ non-F1 staff from working on Formula 1 projects.<br />F1's governing body has likely intervened because some had mana"
-    },
-    {
-      "id": "42d6371c16bb",
-      "title": "FIA enforces new rule to close F1 cost cap loophole",
-      "title_fr": "FIA ferme la faille du plafond de coûts en F1",
-      "title_en": "FIA closes F1 cost-cap loophole",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-enforces-new-rule-to-close-f1-cost-cap-loophole/10866642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0ZqAL586/s6/grid-2.jpg",
-      "published_at": "2026-10-21T08:31:18+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le Conseil mondial du sport automobile a approuvé de nouvelles règles empêchant les équipes de faire travailler leur personnel hors F1 sur des projets de Formule 1 afin de respecter le plafond de coûts.",
-      "summary_en": "The FIA's World Motor Sport Council approved new rules that stop teams from using non-F1 staff on Formula 1 projects, tightening the cost-cap."
-    },
-    {
-      "id": "ee68f6bed256",
-      "title": "FIA’s new Formula 1 Race Operations Centre opens at FOM’s Biggin Hill base | Formula 1",
-      "title_fr": "FIA ouvre son nouveau centre d'opérations à Biggin Hill",
-      "title_en": "FIA opens new Race Operations Centre at Biggin Hill",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/fia-roc.jpg",
-      "published_at": "2026-10-21T08:02:13+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La FIA a établi son nouveau centre d'opérations de course à la base de Biggin Hill, en Angleterre, en utilisant les installations de la FOM",
-      "summary_en": "The FIA has set up its new Race Operations Centre at the FOM base in Biggin Hill, UK, using the Formula 1 facilities"
-    },
-    {
-      "id": "29725b5d09cf",
-      "title": "Charles Leclerc makes worrying Ferrari admission ahead of major F1 upgrade",
-      "title_fr": "Leclerc avoue la faiblesse brute de la Ferrari avant l'upgrade majeur",
-      "title_en": "Leclerc admits Ferrari's raw performance lacking before major upgrade",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-makes-worrying-ferrari-admission-ahead-of-major-f1-upgrade/10866596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YMXbvm12/s6/72945935-14.jpg",
-      "published_at": "2026-10-21T08:00:04+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a déclaré que la Ferrari manque de performance brute plutôt que de réglage, avant d'apporter son gros upgrade de la saison aux États-Unis. Le pilote note que la voiture est compétitive en formation mais recule en qualification",
-      "summary_en": "Charles Leclerc said Ferrari's issue is raw performance, not setup, before bringing its biggest upgrade of the season to the United States Grand Prix. He noted the car is competitive in practice but falls back in qualifying"
-    },
-    {
-      "id": "668fa90e5c19",
-      "title": "McLaren held fresh talks after Singapore GP clash as Norris promises to \"make better decisions\"",
-      "title_fr": "McLaren held fresh talks after Singapore GP clash as Norris promises to \"make better decisions\"",
-      "title_en": "McLaren held fresh talks after Singapore GP clash as Norris promises to \"make better decisions\"",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mclaren-held-fresh-talks-after-singapore-gp-clash-as-lando-norris-promises-to-make-better-decisions/10866627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2GdKqDzY/s6/oscar-piastri-mclaren-lando-no.jpg",
-      "published_at": "2026-10-21T07:17:51+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris has conceded he needs to make \"better decisions\" as McLaren aims to draw a line under his clash with team-mate Oscar Piastri in Singapore.<br />Norris drew the ire of his team management ",
-      "summary_en": "Lando Norris has conceded he needs to make \"better decisions\" as McLaren aims to draw a line under his clash with team-mate Oscar Piastri in Singapore.<br />Norris drew the ire of his team management "
-    },
-    {
-      "id": "2e5925d49db5",
-      "title": "Norris promises to make \"better decisions\" following fresh talks over Singapore GP clash",
-      "title_fr": "Norris s’engage à mieux décider après l’incident à Singapour",
-      "title_en": "Norris vows better decisions after Singapore clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/norris-promises-to-make-better-decisions-following-fresh-talks-over-singapore-gp-clash/10866627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-10-21T07:17:51+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a admis qu’il doit prendre de meilleures décisions après avoir heurté Oscar Piastri lors de la course sprint de Marina Bay, ce qui a coûté huit points à McLaren.",
-      "summary_en": "Lando Norris admitted he needs to make better decisions after colliding with teammate Oscar Piastri in the Marina Bay sprint, costing McLaren eight points."
-    },
-    {
-      "id": "2d331ffbcdc9",
-      "title": "McLaren held fresh talks after Singapore GP clash as Lando Norris promises to \"make better decisions\"",
-      "title_fr": "Norris promet de mieux choisir après l'affrontement à Singapour",
-      "title_en": "Norris vows better decisions after clash in Singapore",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-held-fresh-talks-after-singapore-gp-clash-as-lando-norris-promises-to-make-better-decisions/10866551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2GdKqDzY/s6/oscar-piastri-mclaren-lando-no.jpg",
-      "published_at": "2026-10-21T07:12:23+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a admis qu'il doit prendre de meilleures décisions après avoir heurté Oscar Piastri lors du sprint de Singapour, coûtant des points à McLaren.",
-      "summary_en": "Lando Norris admitted he needs to make better decisions after colliding with Oscar Piastri in the Singapore sprint, costing McLaren valuable points."
     }
   ]
 }
