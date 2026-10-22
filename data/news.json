@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-10-22T15:53:17Z",
+  "last_updated": "2026-10-22T18:54:43Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "95c22421904b",
+      "title": "Martin Brundle unveils incredible 860hp Porsche 911 creation with daughter Charlie",
+      "title_fr": "Brundle et sa fille présentent une Porsche 911 Turbo 860 chevaux",
+      "title_en": "Brundle and daughter unveil a 860-hp Porsche 911 Turbo",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/martin-brundle-unveils-incredible-860hp-porsche-911-creation-with-daughter-charlie/10867079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/68VwmKx2/s6/72945935-29.jpg",
+      "published_at": "2026-10-22T18:26:02+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Martin Brundle et sa fille Charlie ont dévoilé la Brundle Edition Turbo, une Porsche 911 Turbo relookée par Gunther Werks, limitée à cinq exemplaires et propulsée par 860 chevaux.",
+      "summary_en": "Martin Brundle and his daughter Charlie unveil the Brundle Edition Turbo, a reworked Porsche 911 Turbo by Gunther Werks, limited to five units and powered by 860 hp."
+    },
+    {
+      "id": "2c7ee2afee2a",
+      "title": "Esteban Ocon responds to Haas signing Rafael Camara for F1 2027",
+      "title_fr": "Esteban Ocon responds to Haas signing Rafael Camara for F1 2027",
+      "title_en": "Esteban Ocon responds to Haas signing Rafael Camara for F1 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/esteban-ocon-responds-to-rafael-camara-signing/10867069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YN7vAde6/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-10-22T18:08:13+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon agrees that his Haas replacement Rafael Camara deserves his chance to be in Formula 1, but feels he does not deserve to be without a seat for 2027.<br />Camara's signing was confirmed las",
+      "summary_en": "Esteban Ocon agrees that his Haas replacement Rafael Camara deserves his chance to be in Formula 1, but feels he does not deserve to be without a seat for 2027.<br />Camara's signing was confirmed las"
+    },
+    {
+      "id": "ea202912b7a2",
+      "title": "Former F1 CEO reveals third US city targeted alongside Miami and Las Vegas",
+      "title_fr": "Chase Carey révèle que New York est la troisième ville américaine ciblée",
+      "title_en": "Chase Carey reveals New York as third US city targeted",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/former-f1-ceo-reveals-third-us-city-targeted-alongside-miami-and-las-vegas/10867067/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPq750/s6/72945935-12.jpg",
+      "published_at": "2026-10-22T18:01:49+00:00",
+      "race_id": "miami",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le défunt directeur général de la Formule 1, Chase Carey, a annoncé que New York faisait partie des trois villes américaines envisagées pour accueillir une course, aux côtés de Miami et Las Vegas.",
+      "summary_en": "Former Formula 1 CEO Chase Carey said New York was one of three U.S. cities considered for a race, alongside Miami and Las Vegas."
+    },
+    {
+      "id": "e1d5a9b36614",
+      "title": "Christian Horner reveals what led up to his 'abrupt and brutal' Red Bull F1 exit",
+      "title_fr": "Horner quitte Red Bull après 20 ans",
+      "title_en": "Horner leaves Red Bull after 20 years",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-what-led-up-to-his-abrupt-and-brutal-red-bull-f1-exit/10867047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alvql1Y/s6/72945935-11.jpg",
+      "published_at": "2026-10-22T17:07:54+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a quitté son poste de directeur général de Red Bull Racing en juillet 2025, après 20 ans à la tête de l’équipe. Il a déclaré que son départ était « abrupt et brutal ».",
+      "summary_en": "Christian Horner stepped down as Red Bull Racing CEO in July 2025 after 20 years. He said his exit was 'abrupt and brutal'."
+    },
+    {
+      "id": "6d2fb784f800",
+      "title": "This 1,639-piece LEGO Red Bull RB20 is packed with working F1 technology",
+      "title_fr": "LEGO Red Bull RB20 : 1639 pièces et technologie F1 fonctionnelle",
+      "title_en": "LEGO Red Bull RB20: 1,639 pieces with working F1 tech",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/this-1639-piece-lego-red-bull-rb20-is-packed-with-working-f1-technology/10867049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0o5AN5bY/s6/72945935-27-2.jpg",
+      "published_at": "2026-10-22T16:50:02+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le set LEGO Technic Red Bull RB20, composé de 1639 pièces, reproduit la voiture championne de 2024 avec des éléments fonctionnels inspirés de la Formule 1. Il est disponible à la vente pour les collectionneurs.",
+      "summary_en": "The LEGO Technic Red Bull RB20 set, featuring 1,639 pieces, recreates the 2024 champion car with functional F1-inspired elements. It is on sale for collectors."
+    },
+    {
+      "id": "e0b78f19393b",
+      "title": "Cadillac reveals date for F1 engine factory debut, thanks drivers for being “patient”",
+      "title_fr": "Cadillac ouvre son usine moteur F1 le 18 décembre",
+      "title_en": "Cadillac to open F1 engine factory on December 18",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/cadillac-reveals-date-for-f1-engine-factory-debut-thanks-drivers-for-being-patient/10867013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoJmJk0/s6/general-motors-president-mark-.jpg",
+      "published_at": "2026-10-22T16:01:31+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Cadillac a annoncé l’ouverture de son usine moteur F1 à Charlotte, le 18 décembre, après l’approbation de la FIA en 2025. Les pilotes ont été remerciés pour leur patience.",
+      "summary_en": "Cadillac announced the opening of its F1 engine factory in Charlotte on December 18, following FIA approval in 2025. Drivers were thanked for their patience."
+    },
+    {
+      "id": "de61a976dd7a",
+      "title": "When Cadillac will open its F1 engine factory",
+      "title_fr": "Cadillac ouvre son usine moteur F1 à Charlotte",
+      "title_en": "Cadillac opens its F1 engine factory",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/when-cadillac-will-open-f1-engine-factory/10867020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/27NolvK0/s6/sergio-perez-cadillac-racing-2.jpg",
+      "published_at": "2026-10-22T16:00:02+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Cadillac a annoncé l'ouverture de son usine moteur Formule 1 à Charlotte, au 18 décembre, après l'approbation de la FIA en 2025.",
+      "summary_en": "Cadillac has announced the opening of its Formula 1 engine factory in Charlotte on December 18, following FIA approval in 2025."
+    },
     {
       "id": "746be48d6d4d",
       "title": "Slater set for F1 practice debut with Audi in Mexico",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a admis qu'il doit prendre de meilleures décisions après avoir heurté Oscar Piastri lors du sprint de Singapour, coûtant des points à McLaren.",
       "summary_en": "Lando Norris admitted he needs to make better decisions after colliding with Oscar Piastri in the Singapore sprint, costing McLaren valuable points."
-    },
-    {
-      "id": "f2489a6448bd",
-      "title": "Christian Horner reveals new details of controversial 2021 Abu Dhabi GP",
-      "title_fr": "Horner révèle les coulisses du GP d'Abu Dhabi 2021",
-      "title_en": "Horner reveals behind‑the‑scenes of the 2021 Abu Dhabi GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-new-details-of-controversial-2021-abu-dhabi-gp/10866594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/63QaenD2/s6/72945935-13.jpg",
-      "published_at": "2026-10-21T07:05:03+00:00",
-      "race_id": "abudhabi",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner confie qu'il a exercé une pression sur Michael Masi pour relancer la course après l'accident de Nicholas Latifi, révélant ainsi les raisons de la décision controversée.",
-      "summary_en": "Christian Horner admits he pressured Michael Masi to restart the race after Nicholas Latifi's crash, exposing the reasons behind the controversial decision."
-    },
-    {
-      "id": "aaafbad2146a",
-      "title": "“I’ll probably need to order a new spine” – Verstappen braced for bumpy weekend at COTA | Formula 1",
-      "title_fr": "Verstappen s'attend à la piste bouillonnante de COTA",
-      "title_en": "Verstappen braces for bumpy weekend at COTA",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-01-10-01-13-3-SI202610010131.jpg",
-      "published_at": "2026-10-21T06:16:23+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen s'attend à une conduite difficile sur les bosses du Circuit des Amériques ce week-end. Le pilote Red Bull prévoit de gérer les irrégularités de la piste.",
-      "summary_en": "Max Verstappen expects a rough ride from the notorious bumps at the Circuit of the Americas this weekend."
-    },
-    {
-      "id": "5c69050ab780",
-      "title": "Lewis Hamilton's \"secret\" Red Bull meeting revealed after 14 years",
-      "title_fr": "Rencontre secrète de Hamilton avec Red Bull révélée après 14 ans",
-      "title_en": "Hamilton's secret Red Bull meeting revealed after 14 years",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamiltons-secret-red-bull-meeting-revealed-after-14-years/10866590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LqgrY/s6/72945935-12.jpg",
-      "published_at": "2026-10-21T03:05:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Dans son prochain livre Drive, Christian Horner affirme que Lewis Hamilton aurait voulu rejoindre Red Bull avant de signer avec Mercedes. Une rencontre secrète aurait eu lieu chez Adrian Newey en 2012.",
-      "summary_en": "In his upcoming book Drive, Christian Horner claims Lewis Hamilton wanted to join Red Bull before moving to Mercedes. A secret meeting allegedly took place at Adrian Newey's home in 2012."
-    },
-    {
-      "id": "45298dd715a1",
-      "title": "Max Verstappen receives fresh Formula E invitation ahead of Gen4 debut",
-      "title_fr": "Verstappen invité à la Formule E pour le Gen4",
-      "title_en": "Verstappen invited to Formula E for Gen4",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-receives-fresh-formula-e-invitation-ahead-of-gen4-debut/10866587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YpbAopX0/s6/72945935-11.jpg",
-      "published_at": "2026-10-21T00:35:02+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur général de la Formule E, Jeff Dodds, a exprimé son souhait de voir Max Verstappen piloter le nouveau Gen4, le véhicule le plus puissant du championnat. Le pilote n'a pas encore été contacté.",
-      "summary_en": "Formula E chief executive Jeff Dodds said he would love to see Max Verstappen drive the new Gen4 car, the most powerful yet in the championship. He has not yet spoken to the Dutchman."
-    },
-    {
-      "id": "c11c9604f4ea",
-      "title": "Aston Martin F1's latest merchandise collection comes with eye-watering prices",
-      "title_fr": "Aston Martin F1's latest merchandise collection comes with eye-watering prices",
-      "title_en": "Aston Martin F1's latest merchandise collection comes with eye-watering prices",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-f1s-latest-merchandise-collection-comes-with-eye-watering-prices/10866584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zqdX6/s6/72945935-10-2.jpg",
-      "published_at": "2026-10-20T23:25:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Aston Martin Formula 1 team may have only just confirmed its padel partnership, but that won't stop it from revealing a range of stationery and travel products alongside Bond Street brand Smythson",
-      "summary_en": "The Aston Martin Formula 1 team may have only just confirmed its padel partnership, but that won't stop it from revealing a range of stationery and travel products alongside Bond Street brand Smythson"
-    },
-    {
-      "id": "222e7cdf27e5",
-      "title": "Max Verstappen backs Isack Hadjar to take over Red Bull F1 role",
-      "title_fr": "Verstappen soutient Hadjar pour succéder à Red Bull",
-      "title_en": "Verstappen backs Hadjar to succeed at Red Bull",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-backs-isack-hadjar-to-take-over-red-bull-f1-role/10866581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/01QNalo0/s6/72945935-6.jpg",
-      "published_at": "2026-10-20T22:24:02+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen a exprimé son soutien à Isack Hadjar, qui pourrait le remplacer chez Red Bull. Hadjar a rejoint l’équipe en 2026 après une saison prometteuse avec Racing Bulls.",
-      "summary_en": "Max Verstappen has voiced support for Isack Hadjar, who could take over his role at Red Bull. Hadjar joined the team in 2026 after a promising rookie season with Racing Bulls."
-    },
-    {
-      "id": "e2bc497ccda8",
-      "title": "Ferrari development driver reveals confirmed F1 test plans",
-      "title_fr": "Fenestraz confirme son test F1 2027 chez Ferrari",
-      "title_en": "Fenestraz confirms 2027 F1 test with Ferrari",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-development-driver-reveals-confirmed-f1-test-plans/10866579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6VyKwvwY/s6/72945935-9-2.jpg",
-      "published_at": "2026-10-20T22:10:38+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Sacha Fenestraz, pilote de simulation et de développement chez Ferrari, a confirmé qu'il participera à un test de Formule 1 en 2027 après son transfert de Mercedes à Maranello.",
-      "summary_en": "Sacha Fenestraz, Ferrari's simulator and development driver, confirmed he will take part in a 2027 Formula 1 test after moving from Mercedes to Maranello. He announced this during the Fuji Super Formula weekend."
     }
   ]
 }
