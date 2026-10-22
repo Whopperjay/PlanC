@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-22T06:50:32Z",
+  "last_updated": "2026-10-22T09:51:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "07dbd8f8d371",
+      "title": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
+      "title_fr": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
+      "title_en": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/cadillac-unveils-222500-sergio-perez-special-edition-ahead-of-300th-f1-start/10866891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlK3PpY/s6/2027-cadillac-escalade-v-sergi.jpg",
+      "published_at": "2026-10-22T09:26:59+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Car manufacturer Cadillac has launched a special edition Escalade-V in the name of its Formula 1 driver Sergio Perez. Just 11 will be made, in celebration of the driver's race number.<br />Aptly named",
+      "summary_en": "Car manufacturer Cadillac has launched a special edition Escalade-V in the name of its Formula 1 driver Sergio Perez. Just 11 will be made, in celebration of the driver's race number.<br />Aptly named"
+    },
     {
       "id": "347183d3df9a",
       "title": "Ferrari reveals blueprint-style livery for United States GP",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari, Cadillac, Haas et Aston Martin présenteront des carrosseries uniques pour le Grand Prix des États-Unis. Chaque équipe met en avant son identité américaine dans un design distinctif.",
       "summary_en": "Ferrari, Cadillac, Haas and Aston Martin will showcase unique liveries for the United States Grand Prix. Each team highlights its American identity with a distinctive design."
-    },
-    {
-      "id": "a59c1eaacfe1",
-      "title": "F1’s former fuel flow meter supplier sues its replacement in Texas",
-      "title_fr": "Sentronics poursuit son remplaçant en Texas",
-      "title_en": "Sentronics sues its replacement in Texas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1s-former-fuel-flow-meter-supplier-sues-its-replacement-in-texas/10866487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0LdeKaJ0/s6/72945935-8-2.jpg",
-      "published_at": "2026-10-20T11:35:28+00:00",
-      "race_id": "uk",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Sentronics Holdings Ltd, ancien fournisseur de débitmètres de carburant de la F1, a assigné Allengra GmbH en Texas, affirmant que les capteurs utilisés par chaque voiture violent son brevet.",
-      "summary_en": "Sentronics Holdings Ltd, the former fuel flow meter supplier for Formula 1, has sued Allengra GmbH in Texas, claiming the sensors used by every car infringe its patent."
     }
   ]
 }
