@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T05:00:14Z",
-  "model": "claude",
+  "generated_at": "2026-10-22T12:52:22Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -84,13 +84,13 @@
       "session_date": "2026-10-24T21:00:00+00:00",
       "p1": "max_verstappen",
       "p2": "leclerc",
-      "p3": "hamilton",
-      "reasoning_fr": "Le pilote max_verstappen montre une excellente vitesse sur un tour, confirmé par sa pole à Singapour et sa victoire en course. Leclerc, en bonne forme, a été deuxième en qualification à Singapour et bénéficie d’une voiture Ferrari adaptée aux virages rapides de COTA. Hamilton, troisième à Singapour, possède une expérience solide sur le circuit et un rythme d’un tour compétitif, ce qui le place nat",
-      "reasoning_en": "Max Verstappen demonstrates top‑one‑lap speed, confirmed by his pole in Singapore and race win, indicating strong low‑downforce performance suited to COTA’s long straights. Charles Leclerc, fresh from a second‑place qualifying in Singapore, benefits from a Ferrari chassis that excels in the fast‑changing corners of the circuit. Lewis Hamilton, third in Singapore qualifying, brings extensive experi",
+      "p3": "antonelli",
+      "reasoning_fr": "Max a dominé la dernière course et a été 1er en qualif à Singapour, montrant un rythme excellent sur un circuit à forte puissance comme le COTA. Leclerc, deuxième en qualif à Singapour et en bonne forme, bénéficie d'un bon aérodynamisme Ferrari adapté aux virages rapides. Antonelli, champion en titre, a affiché une 4e place en qualif à Singapour et profite de la puissance Mercedes, le plaçant parm",
+      "reasoning_en": "Max Verstappen won the previous race and topped Singapore qualifying, proving top‑speed and one‑lap pace suited to COTA’s long straight. Leclerc, second in Singapore qualifying and in strong form, has a well‑balanced Ferrari for the circuit’s fast corners. Antonelli, championship leader, qualified fourth in Singapore and benefits from Mercedes’ power, positioning him solidly in the top three for t",
       "confidence": "high",
-      "key_factor_fr": "Rythme sur un tour, forme récente en qualification et performance aérodynamique",
+      "key_factor_fr": "Rythme récent en qualification + puissance Red Bull à COTA",
       "news_used_ids": [],
-      "generated_at": "2026-10-22T00:49:01Z"
+      "generated_at": "2026-10-22T12:52:21Z"
     },
     {
       "event_id": "united_states_grand_prix",
