@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-10-21T21:47:27Z",
+  "last_updated": "2026-10-22T00:48:52Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "347183d3df9a",
+      "title": "Ferrari reveals blueprint-style livery for United States GP",
+      "title_fr": "Ferrari présente un livery de type plan pour le Grand Prix des États-Unis",
+      "title_en": "Ferrari unveils blueprint‑style livery for United States GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-reveals-blueprint-style-livery-for-united-states-gp/10866813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0arE7my2/s6/72945935-10.jpg",
+      "published_at": "2026-10-21T23:18:26+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a dévoilé un livery unique, inspiré de plans techniques, pour le Grand Prix des États-Unis au Circuit of the Americas. Le design, réalisé avec HP, met en avant des esquisses et illustrations de type plan sur fond blanc.",
+      "summary_en": "Ferrari unveiled a one‑off blueprint‑style livery for the United States Grand Prix at the Circuit of the Americas. Designed with HP, the livery showcases sketches and technical drawings on a white background."
+    },
+    {
+      "id": "954cd9e41d3a",
+      "title": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
+      "title_fr": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
+      "title_en": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-unveils-limited-edition-leica-camera-with-eye-watering-9950-price-tag/10866811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXRq3MY/s6/72945935-26.jpg",
+      "published_at": "2026-10-21T23:13:11+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 had a busy few days. The championship finalised licensing partnership agreement with Leica Camera, resulting in a carbon-accented model priced at an eye-watering $9,950. It's a luxury toy fo",
+      "summary_en": "Formula 1 had a busy few days. The championship finalised licensing partnership agreement with Leica Camera, resulting in a carbon-accented model priced at an eye-watering $9,950. It's a luxury toy fo"
+    },
+    {
+      "id": "c3f0800535a9",
+      "title": "On This Day: Alonso takes title, Massa wins at home, Schumacher bids Ferrari farewell | Brief",
+      "title_fr": "Alonso remporte son deuxième titre, Schumacher s'achève chez Ferrari",
+      "title_en": "Alonso wins second title, Schumacher bows out of Ferrari",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/22/on-this-day-brazilian-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2023/04/racefansdotnet-21-04-12-07-07-52-1.jpg",
+      "published_at": "2026-10-21T23:01:00+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a remporté son deuxième championnat du monde, tandis que Michael Schumacher conclut sa carrière chez Ferrari. Le pilote Aston Martin a consolidé son palmarès, marquant une étape historique.",
+      "summary_en": "Fernando Alonso clinched his second world championship, while Michael Schumacher concluded his Ferrari career. The Aston Martin driver cemented his legacy, marking a historic moment."
+    },
+    {
+      "id": "dc8c6aaf98f6",
+      "title": "Carlos Sainz's \"Smooth Operator\" lounge returns for F1 Las Vegas GP",
+      "title_fr": "Sainz retrouve son lounge \"Smooth Operator\" à Las Vegas",
+      "title_en": "Sainz's \"Smooth Operator\" lounge returns to Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainzs-smooth-operator-lounge-returns-for-f1-las-vegas-gp/10866809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/24QGgxdY/s6/72945935-9.jpg",
+      "published_at": "2026-10-21T22:53:15+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Williams Carlos Sainz retrouve son lounge \"Smooth Operator\" sur le Strip de Las Vegas. Le concept, situé à l'hôtel ARIA, proposera vêtements et cocktails à son image.",
+      "summary_en": "Carlos Sainz’s ‘Smooth Operator’ lounge is back on the Las Vegas Strip. The ARIA‑based concept will sell Sainz‑themed apparel and cocktails."
+    },
+    {
+      "id": "e5e9720042fa",
+      "title": "TAG Heuer unveils special edition Red Bull F1 watch for 10-year celebration",
+      "title_fr": "TAG Heuer lance une montre édition spéciale Red Bull pour ses 10 ans de partenariat",
+      "title_en": "TAG Heuer launches special edition Red Bull F1 watch for 10th anniversary",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/tag-heuer-unveils-special-edition-red-bull-f1-watch-for-10-year-celebration/10866800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YP74qvB2/s6/72945935-8.jpg",
+      "published_at": "2026-10-21T22:13:46+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "TAG Heuer a dévoilé une montre Solargraph édition spéciale, célébrant dix ans de partenariat avec Red Bull Racing. Disponible dès le 20 octobre, elle coûte 1900 £ (≈2250 $).",
+      "summary_en": "TAG Heuer unveiled a special edition Solargraph watch to celebrate ten years of partnership with Red Bull Racing. The 1900 £ (≈2250 $) timepiece was available online from 20 October."
+    },
+    {
+      "id": "4c4a2a469238",
+      "title": "Lando Norris risks unwanted F1 record as disastrous title defence continues",
+      "title_fr": "Norris en danger de record négatif",
+      "title_en": "Norris Faces Unwanted Record After 2025 Title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-risks-unwanted-f1-record-as-disastrous-title-defence-continues/10866802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6n7boZm0/s6/72945935-21.jpg",
+      "published_at": "2026-10-21T22:04:40+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris, champion 2025, se trouve à la sixième place avec 201 points et six courses restantes. S'il termine sixième ou plus bas, il deviendra le premier champion en titre à finir hors du top cinq.",
+      "summary_en": "Lando Norris, the 2025 champion, sits sixth with 201 points and six races left. If he finishes sixth or lower, he will be the first reigning champion to finish outside the top five."
+    },
     {
       "id": "8f64b6bb37b7",
       "title": "Lando Norris launches new clothing collection ahead of United States Grand Prix",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Sentronics Holdings Ltd, ancien fournisseur de débitmètres de carburant de la F1, a assigné Allengra GmbH en Texas, affirmant que les capteurs utilisés par chaque voiture violent son brevet.",
       "summary_en": "Sentronics Holdings Ltd, the former fuel flow meter supplier for Formula 1, has sued Allengra GmbH in Texas, claiming the sensors used by every car infringe its patent."
-    },
-    {
-      "id": "5d83141017d8",
-      "title": "Formula 1’s move to shorter grands prix in 2027 will not be permanent | Formula 1",
-      "title_fr": "F1 rétablit les distances complètes en 2028",
-      "title_en": "F1 to restore full race distances in 2028",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/20/formula-1s-move-to-shorter-grands-prix-in-2027-will-not-be-permanent/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-15-46-36-4-13-sunday-monza-2026.jpg",
-      "published_at": "2026-10-20T11:21:36+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 reprendra les distances complètes des grands prix en 2028 après avoir réduit les courses cette année, confirme la FIA.",
-      "summary_en": "Formula 1 will return to full race distances in 2028 after shortening races this year, the FIA confirmed."
-    },
-    {
-      "id": "8060f00abb0d",
-      "title": "Christian Horner: Kimi Antonelli has 'earned' the right to be Mercedes' number one",
-      "title_fr": "Christian Horner: Kimi Antonelli has 'earned' the right to be Mercedes' number one",
-      "title_en": "Christian Horner: Kimi Antonelli has 'earned' the right to be Mercedes' number one",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-kimi-antonelli-has-earned-the-right-to-be-mercedes-number-one/10865153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7QJVX6/s6/kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-20T11:16:58+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner reckons the soon-to-be Formula 1 world champion Kimi Antonelli has ‘earned’ his right to become the outright number-one driver at Mercedes after a dominant 2026.<br />The 20-year-old ",
-      "summary_en": "Christian Horner reckons the soon-to-be Formula 1 world champion Kimi Antonelli has ‘earned’ his right to become the outright number-one driver at Mercedes after a dominant 2026.<br />The 20-year-old "
-    },
-    {
-      "id": "9b84bf248771",
-      "title": "Lando Norris suffers defeat to F1 rivals in hilarious UNO showdown",
-      "title_fr": "Lando Norris suffers defeat to F1 rivals in hilarious UNO showdown",
-      "title_en": "Lando Norris suffers defeat to F1 rivals in hilarious UNO showdown",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-suffers-embarrassing-defeat-to-f1-rivals-in-hilarious-uno-showdown/10866475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YP74qao2/s6/72945935-7.jpg",
-      "published_at": "2026-10-20T10:56:26+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 drivers Pierre Gasly, Lando Norris and Oscar Piastri went head to head at a super-sized game of UNO in a video that has quickly racked up more than 320,000 views in less than a day.<br />For",
-      "summary_en": "Formula 1 drivers Pierre Gasly, Lando Norris and Oscar Piastri went head to head at a super-sized game of UNO in a video that has quickly racked up more than 320,000 views in less than a day.<br />For"
-    },
-    {
-      "id": "86cd7db24c53",
-      "title": "Featured Comment: Budget cap not to blame for lack of winning teams in F1 | Brief",
-      "title_fr": "Budget cap : pas la cause du manque de champions en F1",
-      "title_en": "Budget cap not to blame for lack of winning teams in F1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/20/featured-comment-budget-cap-not-to-blame-for-lack-of-winning-teams-in-f1/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2020/12/racefansdotnet-2020-12-06-19-06-33-2.jpg",
-      "published_at": "2026-10-20T10:51:30+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le budget cap ne saurait expliquer l’absence de nouvelles équipes victorieuses en Formule 1. Les experts suggèrent d’autres facteurs, comme la stratégie et la performance technique, pour rééquilibrer la compétition.",
-      "summary_en": "The budget cap is not the culprit behind the lack of new winning teams in Formula 1. Analysts point to other factors such as strategy and technical performance to level the playing field."
-    },
-    {
-      "id": "3059e02c1cc1",
-      "title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
-      "title_fr": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
-      "title_en": "Will Lindblad and Lawson be retained by Racing Bulls? F1 Q&A",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae8/live/a1c9a300-cbc8-11f1-aba9-2bb2608f11d9.jpg",
-      "published_at": "2026-10-20T06:59:17+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix.",
-      "summary_en": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix."
-    },
-    {
-      "id": "9a7933138018",
-      "title": "Early coronation for Antonelli? Five talking points for the United States Grand Prix | Formula 1",
-      "title_fr": "Antonelli en tete du championnat pour l'USA",
-      "title_en": "Antonelli poised for championship at US GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/20/early-coronation-for-antonelli-five-talking-points-for-the-united-states-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-02-14-11-54-3-M634025.jpg",
-      "published_at": "2026-10-20T06:15:02+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli pourrait remporter le championnat lors du Grand Prix des Etats-Unis. Le pilote de Red Bull est en tete du classement et les experts analysent ses chances.",
-      "summary_en": "Andrea Kimi Antonelli could clinch the title at the United States Grand Prix. The Red Bull driver leads the standings and experts weigh his chances."
     }
   ]
 }
