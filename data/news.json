@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-22T09:51:11Z",
+  "last_updated": "2026-10-22T12:52:13Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "1358dcad66c1",
+      "title": "MotoGP \"can’t just copy\" F1’s Drive to Survive success – Chase Carey",
+      "title_fr": "MotoGP \"can’t just copy\" F1’s Drive to Survive success – Chase Carey",
+      "title_en": "MotoGP \"can’t just copy\" F1’s Drive to Survive success – Chase Carey",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/motogp/news/motogp-cant-simply-copy-f1s-drive-to-survive-success-chase-carey/10866969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGgmVKY/s6/liz-claman-and-chase-carey.jpg",
+      "published_at": "2026-10-22T12:11:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Liberty Media director Chase Carey believes MotoGP “can’t just copy” Netflix’s Formula 1 docuseries Drive to Survive to gain widespread recognition.<br />Liberty acquired F1 in January 2017, and one o",
+      "summary_en": "Liberty Media director Chase Carey believes MotoGP “can’t just copy” Netflix’s Formula 1 docuseries Drive to Survive to gain widespread recognition.<br />Liberty acquired F1 in January 2017, and one o"
+    },
+    {
+      "id": "a6d483cddaaa",
+      "title": "MotoGP can’t simply copy F1’s Drive to Survive success – Chase Carey",
+      "title_fr": "MotoGP ne peut pas copier le succès de Conduite pour Survivre",
+      "title_en": "MotoGP cannot simply copy F1's Drive to Survive success",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/motogp/news/motogp-cant-simply-copy-f1s-drive-to-survive-success-chase-carey/10866962/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgmVKY/s6/liz-claman-and-chase-carey.jpg",
+      "published_at": "2026-10-22T12:10:35+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Liberty Media, Chase Carey, affirme que MotoGP ne peut pas reproduire le succès de la série Netflix Conduite pour Survivre pour gagner en visibilité.",
+      "summary_en": "Liberty Media director Chase Carey says MotoGP cannot simply copy Netflix's Drive to Survive to boost its profile."
+    },
+    {
+      "id": "66e5717db3fc",
+      "title": "Horner reveals Red Bull call to thank him for F1 engine project after maiden win",
+      "title_fr": "Horner reçoit l’appel des actionnaires de Red Bull après la victoire du moteur",
+      "title_en": "Horner receives call from Red Bull shareholders after engine win",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/red-bull-called-christian-horner-to-thank-him-for-f1-engine-project-after-maiden-win/10866939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6grQdMbY/s6/errol-barnett-and-christian-ho-3.jpg",
+      "published_at": "2026-10-22T11:04:27+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a reçu un appel des actionnaires de Red Bull pour les remercier de son projet moteur après la victoire du moteur Red Bull Ford Powertrains en Formule 1 au Malaysia. Le directeur de l’équipe a confirmé la conversation.",
+      "summary_en": "Christian Horner received a call from Red Bull shareholders to thank him for the engine project after the Red Bull Ford Powertrains engine's maiden Formula 1 win in Malaysia. The team principal confirmed the conversation."
+    },
+    {
+      "id": "190824db3f5e",
+      "title": "Red Bull called Christian Horner to thank him for F1 engine project after maiden win",
+      "title_fr": "Red Bull remercie Christian Horner après la victoire du moteur en Malaisie",
+      "title_en": "Red Bull thanks Christian Horner after engine's maiden win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-called-christian-horner-to-thank-him-for-f1-engine-project-after-maiden-win/10866935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8dw46/s6/errol-barnett-and-christian-ho-2.jpg",
+      "published_at": "2026-10-22T11:02:26+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a appelé Christian Horner pour le remercier de son projet moteur après la première victoire du moteur Red Bull Ford en Malaisie. Le directeur de l'équipe a été remplacé en juillet 2025",
+      "summary_en": "Red Bull called Christian Horner to thank him for the engine project after the Red Bull Ford Powertrains engine's maiden Formula 1 victory in Malaysia. The team principal was replaced in July 2025"
+    },
     {
       "id": "07dbd8f8d371",
       "title": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
@@ -20,6 +96,25 @@
       "is_breaking": false,
       "summary_fr": "Car manufacturer Cadillac has launched a special edition Escalade-V in the name of its Formula 1 driver Sergio Perez. Just 11 will be made, in celebration of the driver's race number.<br />Aptly named",
       "summary_en": "Car manufacturer Cadillac has launched a special edition Escalade-V in the name of its Formula 1 driver Sergio Perez. Just 11 will be made, in celebration of the driver's race number.<br />Aptly named"
+    },
+    {
+      "id": "cefb224a6595",
+      "title": "F1's arrival in Austin could trigger staggering $1 billion economic boost",
+      "title_fr": "F1 à Austin : 1 billion de dollars d’impact économique",
+      "title_en": "F1 in Austin Could Trigger $1 Billion Economic Boost",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1s-arrival-in-austin-could-trigger-staggering-1-billion-economic-boost/10866804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YWKAN8BY/s6/72945935-22.jpg",
+      "published_at": "2026-10-21T23:35:02+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix des États-Unis à Austin pourrait générer près d’un milliard de dollars d’impact économique, selon le directeur du tourisme de la ville.",
+      "summary_en": "The United States Grand Prix in Austin could bring about a $1 billion economic boost, says Visit Austin's president Tom Noonan."
     },
     {
       "id": "347183d3df9a",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar, pilote de Red Bull, a exprimé son mécontentement envers les sprints de Formule 1 après la fin difficile du Grand Prix de Singapour. Il a souligné les problèmes de freinage et la lenteur de son monoplane.",
       "summary_en": "Isack Hadjar, Red Bull driver, voiced his frustration with F1 sprint races after a tough weekend at the Singapore Grand Prix. He cited braking issues and his car's sluggish pace."
-    },
-    {
-      "id": "ba362b89188b",
-      "title": "Mercedes: “We had people who hadn’t done a live pitstop for 15 years” in Singapore GP",
-      "title_fr": "Mercedes: “We had people who hadn’t done a live pitstop for 15 years” in Singapore GP",
-      "title_en": "Mercedes: “We had people who hadn’t done a live pitstop for 15 years” in Singapore GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-we-had-people-who-hadnt-done-a-live-pitstop-for-15-years-in-singapore-gp/10866416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zqeO6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-20T14:51:22+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes has revealed some of its pitcrew members at the Singapore Grand Prix were doing their first live Formula 1 pitstops in 15 years.<br />F1 recently completed its first of (provisionally) three ",
-      "summary_en": "Mercedes has revealed some of its pitcrew members at the Singapore Grand Prix were doing their first live Formula 1 pitstops in 15 years.<br />F1 recently completed its first of (provisionally) three "
-    },
-    {
-      "id": "5ba205284562",
-      "title": "Spotlight: Haas produces another Godzilla livery for United States GP | Briefs",
-      "title_fr": "Haas lance une nouvelle version de son livery Godzilla pour le GP des États-Unis",
-      "title_en": "Haas unveils another Godzilla livery for the United States GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/20/spotlight-haas-produces-another-godzilla-livery-for-united-states-gp/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-20-12-51-32-1b.jpg",
-      "published_at": "2026-10-20T11:53:19+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Haas a annoncé qu'il utilisera une nouvelle version de son livery Godzilla lors du Grand Prix des États-Unis à Circuit of the Americas. Le design reprend les éléments emblématiques de la série Godzilla.",
-      "summary_en": "Haas announced it will run a new version of its Godzilla livery at the United States Grand Prix at Circuit of the Americas. The design incorporates iconic elements from the Godzilla series."
-    },
-    {
-      "id": "8ea6a442a6c1",
-      "title": "Cadillac and Haas reveal special liveries for home race in Austin | Formula 1",
-      "title_fr": "Cadillac et Haas dévoilent des carrosseries spéciales pour le Grand Prix d'Austin",
-      "title_en": "Cadillac and Haas unveil special liveries for Austin GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/20/cadillac-and-haas-reveal-special-liveries-for-home-race-in-austin/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/cadillac-cota-scaled.jpg",
-      "published_at": "2026-10-20T11:53:19+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Les deux équipes américaines, Cadillac et Haas, présenteront des carrosseries uniques lors du Grand Prix des États-Unis d'Austin",
-      "summary_en": "The two American teams, Cadillac and Haas, will showcase special liveries at the United States Grand Prix in Austin"
-    },
-    {
-      "id": "ea79d839ff76",
-      "title": "Cadillac, Haas and Aston Martin reveal special liveries for United States Grand Prix | Formula 1",
-      "title_fr": "Cadillac, Haas et Aston Martin arborent des carrosseries inédites pour le Grand Prix des États-Unis",
-      "title_en": "Cadillac, Haas and Aston Martin unveil special liveries for the United States Grand Prix",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/20/cadillac-haas-and-aston-martin-reveal-special-liveries-for-united-states-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/cadillac-cota-scaled.jpg",
-      "published_at": "2026-10-20T11:53:19+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Les équipes américaines Cadillac et Haas, ainsi que Aston Martin, présenteront des carrosseries uniques lors du Grand Prix des États-Unis. Les couleurs distinctives marqueront la grille de départ.",
-      "summary_en": "Cadillac, Haas and Aston Martin will showcase unique liveries at the United States Grand Prix, adding distinctive colors to the grid."
-    },
-    {
-      "id": "5bb4e893464c",
-      "title": "Ferrari, Cadillac, Haas and Aston Martin reveal special liveries for United States Grand Prix | Formula 1",
-      "title_fr": "Ferrari, Cadillac, Haas et Aston Martin dévoilent des carrosseries spéciales pour le Grand Prix des États-Unis",
-      "title_en": "Ferrari, Cadillac, Haas and Aston Martin unveil special liveries for United States Grand Prix",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/20/ferrari-cadillac-haas-and-aston-martin-reveal-special-liveries-for-united-states-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-21-21-25-30-2.jpg",
-      "published_at": "2026-10-20T11:53:19+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Ferrari, Cadillac, Haas et Aston Martin présenteront des carrosseries uniques pour le Grand Prix des États-Unis. Chaque équipe met en avant son identité américaine dans un design distinctif.",
-      "summary_en": "Ferrari, Cadillac, Haas and Aston Martin will showcase unique liveries for the United States Grand Prix. Each team highlights its American identity with a distinctive design."
     }
   ]
 }
