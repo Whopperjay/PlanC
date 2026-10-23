@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-10-23T07:03:27Z",
+  "last_updated": "2026-10-23T10:05:27Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7a98f8299d92",
+      "title": "Norris “got plenty of telling-offs” from McLaren over Singapore collision with Piastri | Formula 1",
+      "title_fr": "Norris reproche à McLaren de la collision à Singapour",
+      "title_en": "Norris blames McLaren over Singapore collision",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/norris-got-plenty-of-telling-offs-from-mclaren-over-singapore-collision-with-piastri/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-22-16-22-22-2-2301539962.jpg",
+      "published_at": "2026-10-23T09:58:53+00:00",
+      "race_id": "singapore",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a déclaré que McLaren lui a fait comprendre qu'il ne doit pas répéter la collision qui a eu lieu à Singapour entre ses pilotes. Le constructeur insiste sur la sécurité.",
+      "summary_en": "Lando Norris said McLaren made it clear there must be no repeat of the collision that happened in Singapore between its drivers. The team stresses safety."
+    },
+    {
+      "id": "46cf1bdb0cd7",
+      "title": "Renault to sell former F1 engine facility in Viry",
+      "title_fr": "Renault vend son site d'outillage Viry-Chatillon",
+      "title_en": "Renault sells former F1 engine facility in Viry",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-3.jpg",
+      "published_at": "2026-10-23T09:39:18+00:00",
+      "race_id": "belgium",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Renault a accepté de céder son site d'outillage Viry-Chatillon à la société belge Dumarey Group, spécialisée dans les systèmes de propulsion. L'acquisition a déjà été soumise à Alpine Racing.",
+      "summary_en": "Renault has agreed to sell its Viry-Chatillon engine facility to Belgium's Dumarey Group, a specialist in powertrain technology. The deal has already been submitted to Alpine Racing."
+    },
+    {
+      "id": "4d83fa0ab5b7",
+      "title": "Belgian firm to take over Renault/Alpine engine facility in Viry",
+      "title_fr": "Dumarey Group acquiert l’usine de moteurs Alpine à Viry",
+      "title_en": "Belgian Dumarey Group to take over Alpine engine plant in Viry",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/wec/news/alpine-a424-could-be-on-the-2027-wec-grid-as-belgian-company-takes-over-viry/10867319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0L19edW2/s6/aerial-view-of-the-renault-fac-2.jpg",
+      "published_at": "2026-10-23T09:37:58+00:00",
+      "race_id": "belgium",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le groupe belge Dumarey Group a accepté d’acquérir l’usine de moteurs de Renault/Alpine à Viry-Chatillon. La transaction sera soumise à l’approbation d’Alpine Racing.",
+      "summary_en": "Belgian Dumarey Group has agreed to buy Renault/Alpine's engine plant in Viry-Chatillon. The deal is pending approval from Alpine Racing."
+    },
+    {
+      "id": "a267fba0b04b",
+      "title": "Russell is certain 2026 “won’t be my last shot” to win the championship | Formula 1",
+      "title_fr": "Russell affirme que 2026 ne sera pas son dernier coup de chance",
+      "title_en": "Russell says 2026 won’t be his last shot",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/russell-is-certain-2026-wont-be-my-last-shot-to-win-the-championship/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-10-24-58-1-M634943_F1_Grand_Prix_of_Bahrain_in_Malaysia_Qualifying.jpg",
+      "published_at": "2026-10-23T09:33:37+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell déclare que 2026 ne sera pas son dernier espoir de champion, même si Andrea Kimi Antonelli remporte le titre ce week-end.",
+      "summary_en": "George Russell says 2026 won’t be his last shot at the title, even if Andrea Kimi Antonelli clinches the championship this weekend."
+    },
+    {
+      "id": "d693cae1f090",
+      "title": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
+      "title_fr": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
+      "title_en": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-10-23T09:17:33+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Circuit of The Americas' bumpy surface remains a contentious issue even though the latest generation of Formula 1 cars were intended to ride less harshly. Ahead of the 2026 US GP, Max Verstappen d",
+      "summary_en": "The Circuit of The Americas' bumpy surface remains a contentious issue even though the latest generation of Formula 1 cars were intended to ride less harshly. Ahead of the 2026 US GP, Max Verstappen d"
+    },
+    {
+      "id": "ad9ad3ea0063",
+      "title": "Why it's now Oliver Bearman versus Rafael Camara for the next Ferrari vacancy",
+      "title_fr": "Bearman ou Camara, la prochaine recrue de Ferrari",
+      "title_en": "Bearman or Camara, Ferrari's next driver",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oliver-bearman-versus-rafael-camara-for-the-next-ferrari-vacancy/10867132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BN3v2/s6/oliver-bearman-haas-f1-team.jpg",
+      "published_at": "2026-10-23T07:48:54+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oliver Bearman, membre de l'Académie Ferrari, et Rafael Camara, pilote de l'Académie, se disputent la prochaine place de course chez Ferrari. Le moment de la succession reste incertain.",
+      "summary_en": "Oliver Bearman, a Ferrari Academy member, and Rafael Camara, a junior driver, vie for the next race seat at Ferrari. Timing of the succession remains uncertain."
+    },
+    {
+      "id": "308afe718171",
+      "title": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
+      "title_fr": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
+      "title_en": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-its-now-bearman-versus-camara-for-the-next-ferrari-vacancy/10867288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/25dLQGn0/s6/oliver-bearman-haas-f1-team-2.jpg",
+      "published_at": "2026-10-23T07:48:41+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Succession planning is one of the more subtle arts of the Formula 1 team boss. All the top teams maintain junior-driver programmes with the explicit intention of developing talent for when a race seat",
+      "summary_en": "Succession planning is one of the more subtle arts of the Formula 1 team boss. All the top teams maintain junior-driver programmes with the explicit intention of developing talent for when a race seat"
+    },
     {
       "id": "df5cb3bc0a60",
       "title": "Antonelli’s second-year title bid reminds Hamilton of his first seasons in F1 | Formula 1",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Esteban Ocon agrees that his Haas replacement Rafael Camara deserves his chance to be in Formula 1, but feels he does not deserve to be without a seat for 2027.<br />Camara's signing was confirmed las",
       "summary_en": "Esteban Ocon agrees that his Haas replacement Rafael Camara deserves his chance to be in Formula 1, but feels he does not deserve to be without a seat for 2027.<br />Camara's signing was confirmed las"
-    },
-    {
-      "id": "ea202912b7a2",
-      "title": "Former F1 CEO reveals third US city targeted alongside Miami and Las Vegas",
-      "title_fr": "Chase Carey révèle que New York est la troisième ville américaine ciblée",
-      "title_en": "Chase Carey reveals New York as third US city targeted",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/former-f1-ceo-reveals-third-us-city-targeted-alongside-miami-and-las-vegas/10867067/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPq750/s6/72945935-12.jpg",
-      "published_at": "2026-10-22T18:01:49+00:00",
-      "race_id": "miami",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le défunt directeur général de la Formule 1, Chase Carey, a annoncé que New York faisait partie des trois villes américaines envisagées pour accueillir une course, aux côtés de Miami et Las Vegas.",
-      "summary_en": "Former Formula 1 CEO Chase Carey said New York was one of three U.S. cities considered for a race, alongside Miami and Las Vegas."
-    },
-    {
-      "id": "e1d5a9b36614",
-      "title": "Christian Horner reveals what led up to his 'abrupt and brutal' Red Bull F1 exit",
-      "title_fr": "Horner quitte Red Bull après 20 ans",
-      "title_en": "Horner leaves Red Bull after 20 years",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-what-led-up-to-his-abrupt-and-brutal-red-bull-f1-exit/10867047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alvql1Y/s6/72945935-11.jpg",
-      "published_at": "2026-10-22T17:07:54+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a quitté son poste de directeur général de Red Bull Racing en juillet 2025, après 20 ans à la tête de l’équipe. Il a déclaré que son départ était « abrupt et brutal ».",
-      "summary_en": "Christian Horner stepped down as Red Bull Racing CEO in July 2025 after 20 years. He said his exit was 'abrupt and brutal'."
-    },
-    {
-      "id": "6d2fb784f800",
-      "title": "This 1,639-piece LEGO Red Bull RB20 is packed with working F1 technology",
-      "title_fr": "LEGO Red Bull RB20 : 1639 pièces et technologie F1 fonctionnelle",
-      "title_en": "LEGO Red Bull RB20: 1,639 pieces with working F1 tech",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/this-1639-piece-lego-red-bull-rb20-is-packed-with-working-f1-technology/10867049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0o5AN5bY/s6/72945935-27-2.jpg",
-      "published_at": "2026-10-22T16:50:02+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le set LEGO Technic Red Bull RB20, composé de 1639 pièces, reproduit la voiture championne de 2024 avec des éléments fonctionnels inspirés de la Formule 1. Il est disponible à la vente pour les collectionneurs.",
-      "summary_en": "The LEGO Technic Red Bull RB20 set, featuring 1,639 pieces, recreates the 2024 champion car with functional F1-inspired elements. It is on sale for collectors."
-    },
-    {
-      "id": "e0b78f19393b",
-      "title": "Cadillac reveals date for F1 engine factory debut, thanks drivers for being “patient”",
-      "title_fr": "Cadillac ouvre son usine moteur F1 le 18 décembre",
-      "title_en": "Cadillac to open F1 engine factory on December 18",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-reveals-date-for-f1-engine-factory-debut-thanks-drivers-for-being-patient/10867013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoJmJk0/s6/general-motors-president-mark-.jpg",
-      "published_at": "2026-10-22T16:01:31+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Cadillac a annoncé l’ouverture de son usine moteur F1 à Charlotte, le 18 décembre, après l’approbation de la FIA en 2025. Les pilotes ont été remerciés pour leur patience.",
-      "summary_en": "Cadillac announced the opening of its F1 engine factory in Charlotte on December 18, following FIA approval in 2025. Drivers were thanked for their patience."
-    },
-    {
-      "id": "de61a976dd7a",
-      "title": "When Cadillac will open its F1 engine factory",
-      "title_fr": "Cadillac ouvre son usine moteur F1 à Charlotte",
-      "title_en": "Cadillac opens its F1 engine factory",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/when-cadillac-will-open-f1-engine-factory/10867020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27NolvK0/s6/sergio-perez-cadillac-racing-2.jpg",
-      "published_at": "2026-10-22T16:00:02+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Cadillac a annoncé l'ouverture de son usine moteur Formule 1 à Charlotte, au 18 décembre, après l'approbation de la FIA en 2025.",
-      "summary_en": "Cadillac has announced the opening of its Formula 1 engine factory in Charlotte on December 18, following FIA approval in 2025."
-    },
-    {
-      "id": "746be48d6d4d",
-      "title": "Slater set for F1 practice debut with Audi in Mexico",
-      "title_fr": "Freddie Slater fait ses premiers essais F1 avec Audi au Mexique",
-      "title_en": "Freddie Slater to debut in F1 practice with Audi in Mexico",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/slater-set-for-f1-practice-debut/10867005/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyKAZVY/s6/freddie-slater-audi.jpg",
-      "published_at": "2026-10-22T15:02:14+00:00",
-      "race_id": "italy",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le pilote junior Freddie Slater, issu de la nouvelle académie Audi, effectuera ses premiers essais libres en Formule 1 pour Audi lors des séances de Mexico City et Sao Paulo",
-      "summary_en": "Audi junior Freddie Slater will make his first Formula 1 free practice appearances for Audi in Mexico City and Sao Paulo"
-    },
-    {
-      "id": "fe37249dcc92",
-      "title": "Audi hands F3 runner-up Freddie Slater F1 practice debut",
-      "title_fr": "Freddie Slater fait son entrée en F1 avec Audi",
-      "title_en": "Freddie Slater makes F1 debut with Audi",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/audi-hands-f3-runner-up-freddie-slater-f1-practice-debut/10867002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6VyKAZVY/s6/freddie-slater-audi.jpg",
-      "published_at": "2026-10-22T15:02:11+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Audi a annoncé que Freddie Slater, coureur F3, débutera en F1 lors de deux séances de pratique libre 1 à Mexico City et Sao Paulo. Le pilote, issu de la Formule Régionale, représentera la nouvelle équipe Audi Sauber en 2026",
-      "summary_en": "Audi announced that Freddie Slater, a F3 driver, will debut in F1 during two free practice 1 sessions in Mexico City and Sao Paulo. The driver, coming from Formula Regional, will represent the new Audi Sauber team in 2026"
     }
   ]
 }
