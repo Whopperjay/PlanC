@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-23T13:07:19Z",
+  "last_updated": "2026-10-23T16:09:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ff7125a4e7ef",
+      "title": "Lewis Hamilton: Kimi Antonelli “deserves to be the champion”",
+      "title_fr": "Hamilton félicite Antonelli, champion à portée",
+      "title_en": "Hamilton praises Antonelli, champion within reach",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6n7AJ7X0/s6/lewis-hamilton-ferrari-andrea-.jpg",
+      "published_at": "2026-10-23T15:19:21+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré que Kimi Antonelli est « massivement impressionnant » et « mérite d’être champion ». Avec un avantage de 102 points, l’italien pourrait remporter le titre dès le Grand Prix d’Austin.",
+      "summary_en": "Lewis Hamilton says Kimi Antonelli is “massively impressive” and “deserves to be champion”. With a 102‑point lead, the Italian could win the title as early as the United States Grand Prix."
+    },
+    {
+      "id": "311f884bb5c4",
+      "title": "Fernando Alonso backs IndyCar Barcelona race but warns against wider global expansion",
+      "title_fr": "Alonso soutient l’IndyCar à Barcelone, mais met en garde contre l’expansion mondiale",
+      "title_en": "Alonso backs IndyCar Barcelona race, warns against wider global expansion",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/indycar/news/fernando-alonso-backs-indycar-barcelona-race-but-warns-against-wider-global-expansion/10867420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EmmGY/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-10-23T14:28:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso, champion du monde de Formule 1 à deux titres, a salué la décision de l’IndyCar de se rendre à Barcelone en 2027, tout en avertissant la série américaine de ne pas s’étendre trop rapidement à l’international.",
+      "summary_en": "Two‑time Formula One world champion Fernando Alonso welcomed IndyCar’s move to Barcelona in 2027, but cautioned the American series against over‑expanding globally."
+    },
+    {
+      "id": "b016cc8115a8",
+      "title": "Palou gets home race as IndyCar adds new Spanish round to 2027 calendar | IndyCar",
+      "title_fr": "IndyCar ajoute un nouveau circuit espagnol à son calendrier 2027",
+      "title_en": "IndyCar adds new Spanish round to 2027 calendar",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/palou-gets-home-race-as-indycar-adds-new-spanish-round-to-2027-calendar/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-11-55-09-1-2610230151-scaled-1.jpg",
+      "published_at": "2026-10-23T14:07:24+00:00",
+      "race_id": "spain-barcelona",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le Circuit de Catalunya accueillera une course IndyCar en 2027, remplaçant son absence de Formule 1.",
+      "summary_en": "The Circuit de Catalunya will host an IndyCar race in 2027, filling the gap left by the loss of its Formula 1 Grand Prix."
+    },
     {
       "id": "6b07ca0d662e",
       "title": "George Russell: F1 2026 season a test of \"character and resilience\"",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "McLaren driver Oscar Piastri has admitted that the strengths that made him a title contender during the 2025 Formula 1 season have become his biggest weaknesses as he battles to adapt to this year's r",
       "summary_en": "McLaren driver Oscar Piastri has admitted that the strengths that made him a title contender during the 2025 Formula 1 season have become his biggest weaknesses as he battles to adapt to this year's r"
-    },
-    {
-      "id": "e7e8f0cba4d3",
-      "title": "Jim Beam reveals sales impact of Cadillac F1 partnership",
-      "title_fr": "Jim Beam reveals sales impact of Cadillac F1 partnership",
-      "title_en": "Jim Beam reveals sales impact of Cadillac F1 partnership",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/jim-beam-reveals-sales-impact-of-cadillac-f1-partnership/10867093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YK15Ar80/s6/72945935-13.jpg",
-      "published_at": "2026-10-22T19:12:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Jim Beam says its partnership with the Cadillac Formula 1 team has already led to a rise in sales.<br />The Kentucky bourbon brand, owned by Suntory Global Spirits, is a founding partner of Cadillac F",
-      "summary_en": "Jim Beam says its partnership with the Cadillac Formula 1 team has already led to a rise in sales.<br />The Kentucky bourbon brand, owned by Suntory Global Spirits, is a founding partner of Cadillac F"
-    },
-    {
-      "id": "ede178ce8456",
-      "title": "F1 United States GP: Friday schedule, weather forecast and how to watch",
-      "title_fr": "F1 United States GP: Friday schedule, weather forecast and how to watch",
-      "title_en": "F1 United States GP: Friday schedule, weather forecast and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-friday-schedule-weather-forecast-and-how-to-watch/10867077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNWab2/s6/pierre-gasly-alpine.jpg",
-      "published_at": "2026-10-22T19:04:56+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 heads to Austin this weekend for the United States Grand Prix, with Kimi Antonelli arriving at the Circuit of the Americas with his first opportunity to clinch the 2026 world championship.<b",
-      "summary_en": "Formula 1 heads to Austin this weekend for the United States Grand Prix, with Kimi Antonelli arriving at the Circuit of the Americas with his first opportunity to clinch the 2026 world championship.<b"
-    },
-    {
-      "id": "95c22421904b",
-      "title": "Martin Brundle unveils incredible 860hp Porsche 911 creation with daughter Charlie",
-      "title_fr": "Brundle et sa fille présentent une Porsche 911 Turbo 860 chevaux",
-      "title_en": "Brundle and daughter unveil a 860-hp Porsche 911 Turbo",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/martin-brundle-unveils-incredible-860hp-porsche-911-creation-with-daughter-charlie/10867079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/68VwmKx2/s6/72945935-29.jpg",
-      "published_at": "2026-10-22T18:26:02+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Martin Brundle et sa fille Charlie ont dévoilé la Brundle Edition Turbo, une Porsche 911 Turbo relookée par Gunther Werks, limitée à cinq exemplaires et propulsée par 860 chevaux.",
-      "summary_en": "Martin Brundle and his daughter Charlie unveil the Brundle Edition Turbo, a reworked Porsche 911 Turbo by Gunther Werks, limited to five units and powered by 860 hp."
     }
   ]
 }
