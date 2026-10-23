@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T13:00:18Z",
-  "model": "claude",
+  "generated_at": "2026-10-23T00:59:06Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -84,13 +84,13 @@
       "session_date": "2026-10-24T21:00:00+00:00",
       "p1": "max_verstappen",
       "p2": "leclerc",
-      "p3": "antonelli",
-      "reasoning_fr": "Max a dominé la dernière course et a été 1er en qualif à Singapour, montrant un rythme excellent sur un circuit à forte puissance comme le COTA. Leclerc, deuxième en qualif à Singapour et en bonne forme, bénéficie d'un bon aérodynamisme Ferrari adapté aux virages rapides. Antonelli, champion en titre, a affiché une 4e place en qualif à Singapour et profite de la puissance Mercedes, le plaçant parm",
-      "reasoning_en": "Max Verstappen won the previous race and topped Singapore qualifying, proving top‑speed and one‑lap pace suited to COTA’s long straight. Leclerc, second in Singapore qualifying and in strong form, has a well‑balanced Ferrari for the circuit’s fast corners. Antonelli, championship leader, qualified fourth in Singapore and benefits from Mercedes’ power, positioning him solidly in the top three for t",
+      "p3": "hamilton",
+      "reasoning_fr": "Verstappen a montré le meilleur rythme sur un tour à Singapour et reste le favori sur un circuit à haute charge aérodynamique comme COTA. Leclerc, deuxième en qualification à Singapour, bénéficie d'une Ferrari bien adaptée à la longue ligne droite et aux virages rapides. Hamilton, troisième à Singapour, possède une excellente maîtrise du tracé et profite de l'évolution rapide du grip sur le circui",
+      "reasoning_en": "Verstappen displayed the fastest single‑lap pace in Singapore and remains the favorite on a high‑downforce circuit like COTA. Leclerc, second in Singapore qualifying, benefits from a Ferrari suited to the long straight and fast corners. Hamilton, third in Singapore, has excellent track knowledge and gains from the rapid grip evolution at COTA. These three combine recent form and one‑lap speed, the",
       "confidence": "high",
-      "key_factor_fr": "Rythme récent en qualification + puissance Red Bull à COTA",
+      "key_factor_fr": "Rythme sur un tour + forme récente + évolution du grip",
       "news_used_ids": [],
-      "generated_at": "2026-10-22T12:52:21Z"
+      "generated_at": "2026-10-23T00:59:05Z"
     },
     {
       "event_id": "united_states_grand_prix",
