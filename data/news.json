@@ -1,7 +1,178 @@
 {
-  "last_updated": "2026-10-23T20:48:08Z",
+  "last_updated": "2026-10-23T23:50:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "92c98e1db629",
+      "title": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
+      "title_fr": "McLaren vise ses dernières améliorations 2026 alors que la forme décline",
+      "title_en": "McLaren targets final 2026 upgrades amid form decline",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0arEdGM2/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-10-23T23:04:52+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "McLaren cherche à finaliser ses dernières améliorations pour la saison 2026 alors que la performance du pilote Lando Norris reste en retrait. Les deux victoires de Norris ne suffisent pas à redresser la trajectoire de l’équipe.",
+      "summary_en": "McLaren is aiming to finalize its last 2026 upgrades as the team's performance dips. Lando Norris's two mid-season wins are seen as a brief bright spot rather than a sign of a full revival."
+    },
+    {
+      "id": "181c5c06f501",
+      "title": "Christian Horner admits he may never return to F1 after Red Bull exit",
+      "title_fr": "Horner envisage de quitter définitivement la F1",
+      "title_en": "Horner says he may never return to F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-admits-he-may-never-return-to-f1-after-red-bull-exit/10867605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0R7BAor2/s6/motorsport-com-graphics-4.jpg",
+      "published_at": "2026-10-23T23:00:28+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner, ancien directeur général de Red Bull Racing, a déclaré qu'il n'avait pas d'urgence à revenir en Formule 1 et qu'il pourrait accepter de ne plus travailler dans le paddock.",
+      "summary_en": "Christian Horner, former Red Bull Racing CEO, said he has no rush to return to Formula 1 and could live without working in the paddock again."
+    },
+    {
+      "id": "0af6405f6f80",
+      "title": "\"We're just a step behind\" - what McLaren is trying to solve with its final 2026 upgrades",
+      "title_fr": "Norris confie que McLaren reste un pas derrière",
+      "title_en": "Norris says McLaren is still a step behind",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/were-just-a-step-behind-what-mclaren-is-trying-to-solve-with-its-final-2026-upgrades-10867601/10867601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zAKm6/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-10-23T23:00:28+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a déclaré après les essais du Grand Prix des États-Unis que McLaren reste un pas derrière, malgré deux victoires de mi-saison qui semblent plus un patch que la renaissance attendue.",
+      "summary_en": "Lando Norris said after practice at the United States Grand Prix that McLaren is still a step behind, despite two mid-season wins that appear more like a patch than the expected renaissance."
+    },
+    {
+      "id": "e2e54ab50ca5",
+      "title": "Kimi Antonelli rookie card sells for staggering $878,400 ahead of F1 title opportunity",
+      "title_fr": "Carte de débutant de Kimi Antonelli vendue pour 878 000 $",
+      "title_en": "Kimi Antonelli rookie card sells for $878,400",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-rookie-card-sells-for-staggering-878400-ahead-of-f1-title-opportunity/10867588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/27Noe1e0/s6/motorsport-com-graphics-11-2.jpg",
+      "published_at": "2026-10-23T22:19:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "La carte de débutant Topps Chrome de Kimi Antonelli, numérotée 1/1 et certifiée GEM MINT 10, a été vendue aux enchères pour 878 000 $, la deuxième carte la plus chère de l’histoire de la Formule 1.",
+      "summary_en": "Kimi Antonelli’s 2025 Topps Chrome rookie card, numbered 1/1 and graded GEM MINT 10, fetched $878,400 at auction, making it the second most expensive Formula 1 card ever sold."
+    },
+    {
+      "id": "261835267025",
+      "title": "F1 United States GP: Leclerc pips Antonelli to top FP2 while McLaren struggles",
+      "title_fr": "Leclerc mène la séance FP2 à Austin, Antonelli à la seconde place",
+      "title_en": "Leclerc tops FP2 in Austin, Antonelli second",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-pips-antonelli/10867584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDqZk0/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-10-23T22:10:00+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a mené la deuxième séance de pratique du Grand Prix des États-Unis, franchissant de peu Kimi Antonelli pour la première place. McLaren a eu du mal à trouver de l'adhérence sur le Circuit des Amériques.",
+      "summary_en": "Charles Leclerc topped Friday's second practice at the United States Grand Prix, narrowly beating Kimi Antonelli for the pole position. McLaren struggled to find grip on the Circuit of the Americas."
+    },
+    {
+      "id": "40efd4c53aaf",
+      "title": "F1 United States GP: Charles Leclerc completes perfect Friday by topping FP2",
+      "title_fr": "Leclerc domine la FP2 à Austin, battant Antonelli",
+      "title_en": "Leclerc tops FP2 at Austin, beating Antonelli",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-tops-fp2/10867569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwmXD2/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-10-23T22:07:35+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a mené la séance de pratique FP2 à Austin, battant Kimi Antonelli de 0,1 seconde, avec un chrono de 1m35,291s, devant le benchmark initial de Max Verstappen.",
+      "summary_en": "Charles Leclerc topped FP2 at the Circuit of the Americas, beating Kimi Antonelli by 0.1 second with a 1m35.291s lap, ahead of Max Verstappen's initial benchmark."
+    },
+    {
+      "id": "995aa2019647",
+      "title": "Kimi Antonelli reacts to prospect of breaking Sebastian Vettel's F1 record",
+      "title_fr": "Antonelli évoque la possibilité de battre le record de Vettel",
+      "title_en": "Antonelli weighs possibility of breaking Vettel's record",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-prospect-of-breaking-sebastian-vettels-f1-record/10867577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zAvG6/s6/motorsport-com-graphics-3.jpg",
+      "published_at": "2026-10-23T21:59:26+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a déclaré ne pas se souvenir du record de Sebastian Vettel comme champion le plus jeune, tout en évoquant la perspective de le dépasser lors du Grand Prix des États-Unis.",
+      "summary_en": "Kimi Antonelli said he has no memory of Sebastian Vettel becoming the youngest F1 champion, while discussing the prospect of breaking the German's record at the United States Grand Prix."
+    },
+    {
+      "id": "7c2fc06ff5af",
+      "title": "Lewis Hamilton admits Red Bull achieved what he thought was impossible",
+      "title_fr": "Hamilton avoue que Red Bull a dépassé ses attentes",
+      "title_en": "Hamilton admits Red Bull surpassed his expectations",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-admits-red-bull-achieved-what-he-thought-was-impossible/10867572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0qgK34wY/s6/motorsport-com-graphics-9.jpg",
+      "published_at": "2026-10-23T21:36:19+00:00",
+      "race_id": "bahrain",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton reconnaît que Red Bull a construit un moteur supérieur à celui de Mercedes et Ferrari, prouvant qu'il était possible de dépasser ses attentes. Le partenariat avec Ford a permis de créer le moteur de référence de la FIA.",
+      "summary_en": "Lewis Hamilton admits that Red Bull built a superior engine to Mercedes and Ferrari, proving it was possible to exceed his expectations. The partnership with Ford enabled the creation of the FIA benchmark engine."
+    },
+    {
+      "id": "8a0e33fcfe59",
+      "title": "Lando Norris reveals “plenty of telling-offs” after Singapore Oscar Piastri crash",
+      "title_fr": "Lando Norris reveals “plenty of telling-offs” after Singapore Oscar Piastri crash",
+      "title_en": "Lando Norris reveals “plenty of telling-offs” after Singapore Oscar Piastri crash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-he-got-plenty-of-telling-offs-after-singapore-crash-with-piastri/10867463/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6VyKANGY/s6/motorsport-com-graphics-8-2.jpg",
+      "published_at": "2026-10-23T20:54:51+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Having two incredibly fast drivers in top-tier machinery is exactly what every Formula 1 team principal dreams of. But, as McLaren is quickly finding out, having two hyper-competitive alphas fighting ",
+      "summary_en": "Having two incredibly fast drivers in top-tier machinery is exactly what every Formula 1 team principal dreams of. But, as McLaren is quickly finding out, having two hyper-competitive alphas fighting "
+    },
     {
       "id": "e4c9f37cc044",
       "title": "The reasons behind Ferrari's US GP upgrades",
@@ -77,6 +248,25 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc, pilote Ferrari, déclare ne pas anticiper d'absence parmi les six courses restantes, malgré la naissance imminente de son premier enfant.",
       "summary_en": "Ferrari driver Charles Leclerc says he does not expect to miss any of the remaining six Formula 1 races, even though his first child is due soon."
+    },
+    {
+      "id": "0d8d56a3f14f",
+      "title": "F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari",
+      "title_fr": "Leclerc bat Verstappen en FP1 à Austin",
+      "title_en": "Leclerc beats Verstappen in FP1 at Austin",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2jEAvOg0/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-10-23T18:40:35+00:00",
+      "race_id": "netherlands",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a franchi la ligne d’arrivée en tête du premier entraînement du Grand Prix des États-Unis, dépassant Max Verstappen de moins d’un dixième de seconde dans une Ferrari améliorée.",
+      "summary_en": "Charles Leclerc topped the first practice at the United States Grand Prix in Austin, beating Max Verstappen by less than a tenth of a second in an upgraded Ferrari."
     },
     {
       "id": "07f2b7f99e8c",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a qualifié les bosses de la piste du Grand Prix des États-Unis de « inacceptables » et « hors de contrôle ». Le pilote a exprimé son mécontentement avant le début de la course.",
       "summary_en": "Max Verstappen called the bumps on the United States Grand Prix track \"unacceptable\" and \"out of control\", voicing his frustration before the race began."
-    },
-    {
-      "id": "10441e5cf0f7",
-      "title": "How Antonelli will manage the pressure as F1 coronation looms",
-      "title_fr": "Antonelli affronte la pression avant la couronne de F1",
-      "title_en": "Antonelli braces for pressure ahead of F1 coronation",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/how-antonelli-will-manage-the-pressure-as-f1-coronation-looms/10867178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6grQoqmY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-22T22:20:25+00:00",
-      "race_id": "abudhabi",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli prépare sa saison en gérant la pression qui l’attend pour le championnat. Le pilote ne devra pas revivre les drames de 2008 ou 2010.",
-      "summary_en": "Kimi Antonelli is preparing for the season by managing the pressure ahead of the championship. The driver will avoid repeating the drama of 2008 or 2010."
-    },
-    {
-      "id": "f278eba7d8b2",
-      "title": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
-      "title_fr": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
-      "title_en": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7Q4mX6/s6/72945935-34.jpg",
-      "published_at": "2026-10-22T22:15:26+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In",
-      "summary_en": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In"
-    },
-    {
-      "id": "a7e640a08ae3",
-      "title": "Charles Leclerc slams Isack Hadjar's Max Verstappen Ferrari claim as \"nonsense\"",
-      "title_fr": "Leclerc rejette la prétendue victoire de Verstappen en Ferrari à Singapour",
-      "title_en": "Leclerc dismisses claim that Verstappen would have won Singapore GP in Ferrari",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-slams-isack-hadjars-max-verstappen-ferrari-claim-as-nonsense/10867179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6DGgmE9Y/s6/72945935-16.jpg",
-      "published_at": "2026-10-22T22:13:44+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a rejeté la suggestion d'Isack Hadjar selon laquelle Max Verstappen aurait gagné le Grand Prix de Singapour en Ferrari, le qualifiant de \"absurde\". Le champion a dominé le weekend, remportant les deux courses.",
-      "summary_en": "Charles Leclerc dismissed Isack Hadjar's claim that Max Verstappen would have won the Singapore Grand Prix in a Ferrari, calling it \"nonsense.\" The champion dominated the weekend, winning both the sprint and the main race."
-    },
-    {
-      "id": "3417cf36879a",
-      "title": "Verstappen warns COTA bumps are “unacceptable” and “out of control”",
-      "title_fr": "Verstappen dénonce les bosses de COTA comme inacceptables",
-      "title_en": "Verstappen deems COTA bumps unacceptable",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/verstappen-warns-cota-bumps-are-unacceptable/10867175/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6zQG5BkY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-22T22:04:03+00:00",
-      "race_id": "singapore",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a déclaré que les bosses du circuit de COTA sont inacceptables et hors de contrôle, après avoir participé au Championnat du monde d'endurance à Texas.",
-      "summary_en": "Max Verstappen said the bumps at COTA are unacceptable and out of control, after competing in the World Endurance Championship in Texas."
-    },
-    {
-      "id": "0ca353b2514e",
-      "title": "Max Verstappen slams “unacceptable” bumps at Austin F1 track: “It's out of control”",
-      "title_fr": "Verstappen dénonce les bosses inacceptables de l'Austin Grand Prix",
-      "title_en": "Verstappen blasts Austin track bumps as 'unacceptable'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-slams-unacceptable-bumps-at-austin-f1-track-its-out-of-control/10867171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6b7dGyj0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-22T22:00:20+00:00",
-      "race_id": "singapore",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen a critiqué les bosses de la piste d'Austin, déclarant qu'elles étaient inacceptables et hors de contrôle. Il a plaisanté qu'il aurait besoin d'une nouvelle colonne vertébrale.",
-      "summary_en": "Max Verstappen slammed the Austin track bumps as 'unacceptable' and out of control, joking he would need a new spine after the US Grand Prix press conference in Singapore."
-    },
-    {
-      "id": "edc882f91b42",
-      "title": "F1: Chequered Flag",
-      "title_fr": "Antonelli en lice pour le titre, l’équipe se prépare aux États-Unis",
-      "title_en": "Antonelli in title hunt as team gears up for US GP",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pj4w7r?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": "2026-10-22T21:34:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Antonelli pourrait devenir champion après la fin de la saison. Rosanna et l’équipe se concentrent sur le Grand Prix d’Amérique, où ils visent à consolider leur position.",
-      "summary_en": "Antonelli could be crowned champion after the season ends. Rosanna and the team are focusing on the US Grand Prix, aiming to consolidate their position."
-    },
-    {
-      "id": "69f7e4df0638",
-      "title": "“Difficult to be convinced” F1’s Qatar and Abu Dhabi rounds will happen – Sainz | Formula 1",
-      "title_fr": "Sainz doute sur la tenue des deux derniers Grands Prix au Moyen-Orient",
-      "title_en": "Sainz doubts Qatar and Abu Dhabi races will go ahead",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/22/difficult-to-be-convinced-f1s-qatar-and-abu-dhabi-rounds-will-happen-sainz/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-30-19-03-18-6-2249194540.jpg",
-      "published_at": "2026-10-22T21:31:09+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Carlos Sainz Jnr exprime ses doutes quant à la tenue des deux derniers Grands Prix de la saison en Arabie Saoudite et aux Émirats arabes unis. Il questionne la viabilité des courses au Qatar et à Abu Dhabi.",
-      "summary_en": "Carlos Sainz Jr. expresses doubts about the two final races of the season in Qatar and Abu Dhabi, questioning their viability."
-    },
-    {
-      "id": "efe5fa15b037",
-      "title": "Kimi Antonelli ready to \"finish the job\" as first F1 title chance beckons at US GP",
-      "title_fr": "Antonelli vise le titre à l'US GP",
-      "title_en": "Antonelli ready to finish the job at US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-22T21:15:16+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, 20 ans, veut terminer le travail en visant le titre de champion du monde à l'US GP. Il pourrait devenir le plus jeune champion de l'histoire de la F1 si l'opportunité se concrétise.",
-      "summary_en": "Kimi Antonelli, 20, aims to finish the job by clinching the world title at the US GP. He could become the youngest champion in F1 history if the opportunity materialises."
-    },
-    {
-      "id": "7245c19faf80",
-      "title": "Slater to make F1 practice debut for Audi in Mexico | Formula 1",
-      "title_fr": "Slater fait ses premiers essais F1 pour Audi au Mexique",
-      "title_en": "Slater makes F1 practice debut for Audi in Mexico",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/22/slater-to-make-f1-practice-debut-for-audi-in-mexico/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-09-05-10-21-42-1-A2616393.jpg",
-      "published_at": "2026-10-22T21:04:35+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Freddie Slater, pilote junior d'Audi, effectuera son premier essai en Formule 1 lors du Grand Prix du Mexique la semaine prochaine.",
-      "summary_en": "Audi junior driver Freddie Slater will make his first Formula 1 practice session at the Mexican Grand Prix next week."
-    },
-    {
-      "id": "694ff89e6a9a",
-      "title": "Antonelli to 'just have fun' as he aims for title",
-      "title_fr": "Antonelli vise le titre en se disant juste s'amuser",
-      "title_en": "Antonelli aims for title while saying he'll just have fun",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795b/live/b07ecd20-ce58-11f1-a166-e30097724580.jpg",
-      "published_at": "2026-10-22T20:55:40+00:00",
-      "race_id": "usa",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a déclaré qu'il souhaite simplement s'amuser lors du Grand Prix des États-Unis alors qu'il se trouve sur le point de remporter le championnat du monde de Formule 1.",
-      "summary_en": "Kimi Antonelli said he will just have fun at the United States Grand Prix as he stands on the brink of winning the Formula 1 World Championship."
     }
   ]
 }
