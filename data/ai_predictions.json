@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:59:06Z",
+  "generated_at": "2026-10-23T04:01:20Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -97,15 +97,15 @@
       "race_id": "united_states",
       "session_type": "grand_prix",
       "session_date": "2026-10-25T20:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 102 points d'avance et une Mercedes de référence. Russell confirme le doublé potentiel des Flèches d'argent. Verstappen, très fort à Austin par le passé, porté par un moteur Red Bull victorieux récemment en Malaisie, devance de peu Hamilton et Leclerc dans la lutte pour le podium.",
-      "reasoning_en": "Antonelli dominates 2026 with a 102-point lead and the benchmark Mercedes. Russell backs up a potential Silver Arrows one-two. Verstappen, historically strong in Austin and boosted by Red Bull's recent engine win in Malaysia, narrowly edges Hamilton and Leclerc in the fight for the final podium spot.",
+      "p1": "max_verstappen",
+      "p2": "leclerc",
+      "p3": "antonelli",
+      "reasoning_fr": "Le Grand Prix de COTA favorise fortement la position sur la grille, le circuit étant difficile à dépasser. Max Verstappen a montré une excellente forme en remportant Singapour et en partant souvent en pole, ce qui le place en tête. Charles Leclerc, deuxième en qualification à Singapour et très constant, bénéficie d’une Ferrari compétitive. Andrea Kimi Antonelli, champion actuel et troisième à Sing",
+      "reasoning_en": "COTA heavily rewards the starting grid because overtaking is tough. Max Verstappen displayed top form by winning Singapore and usually qualifying on pole, putting him first. Charles Leclerc, second in Singapore qualifying and consistently fast, has a competitive Ferrari. Andrea Kimi Antonelli, the current champion and third in Singapore, blends speed with tyre management, making him a podium conte",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes, Verstappen en embuscade grâce au moteur Red Bull",
+      "key_factor_fr": "Grille de départ décisive sur COTA",
       "news_used_ids": [],
-      "generated_at": "2026-10-22T13:00:18Z"
+      "generated_at": "2026-10-23T04:01:19Z"
     }
   ]
 }
