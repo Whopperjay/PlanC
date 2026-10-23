@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-23T17:46:01Z",
+  "last_updated": "2026-10-23T20:48:08Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e4c9f37cc044",
+      "title": "The reasons behind Ferrari's US GP upgrades",
+      "title_fr": "Ferrari dévoile des mises à jour inédites pour le Grand Prix des États-Unis",
+      "title_en": "Ferrari unveils unique upgrades for the United States Grand Prix",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7Q4ag6/s6/ferrari-floor-detail-2.jpg",
+      "published_at": "2026-10-23T20:05:02+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a introduit des modifications inédites sur les 'fingers' du plancher avant, ainsi qu'un léger remodelage des sidepods et du plancher. Les pilotes minimisent l'importance de ces changements.",
+      "summary_en": "Ferrari introduced unique changes to the front 'fingers' of the floor and made minor tweaks to sidepods and the floor board. Drivers downplayed the significance of the new parts."
+    },
+    {
+      "id": "6ae74367b8c5",
+      "title": "Exploring Ferrari's 'less than a tenth' US GP update package",
+      "title_fr": "Exploring Ferrari's 'less than a tenth' US GP update package",
+      "title_en": "Exploring Ferrari's 'less than a tenth' US GP update package",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/exploring-ferraris-less-than-a-tenth-us-gp-update-package/10867537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNWxx2/s6/ferrari-sidepod-detail.jpg",
+      "published_at": "2026-10-23T20:02:03+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari's latest clutch of updates for the Formula 1 United States Grand Prix feature a unique approach to the 'fingers' situated at the front edge of the floor, although both drivers have played down",
+      "summary_en": "Ferrari's latest clutch of updates for the Formula 1 United States Grand Prix feature a unique approach to the 'fingers' situated at the front edge of the floor, although both drivers have played down"
+    },
+    {
+      "id": "4057a3a93543",
+      "title": "Ferrari drivers deliver disappointing verdict on much-hyped United States GP upgrade",
+      "title_fr": "Ferrari minimise l'impact de son upgrade aux États-Unis",
+      "title_en": "Ferrari downplays upgrade impact at United States GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EmDpY/s6/motorsport-com-graphics-7.jpg",
+      "published_at": "2026-10-23T19:14:14+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Les pilotes Ferrari, Lewis Hamilton et Charles Leclerc, ont déclaré que la mise à jour apportée pour le Grand Prix des États-Unis à Austin ne répondait pas aux attentes, malgré un package d'améliorations significatives.",
+      "summary_en": "Ferrari drivers Lewis Hamilton and Charles Leclerc said the upgrade for the United States GP in Austin fell short of expectations, despite a substantial package of improvements."
+    },
+    {
+      "id": "6822beb115c2",
+      "title": "Charles Leclerc addresses potential F1 race absence ahead of first child's birth",
+      "title_fr": "Leclerc assure qu'il ne manquera aucune course",
+      "title_en": "Leclerc says he will not miss any races",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVPqaq0/s6/motorsport-com-graphics-2.jpg",
+      "published_at": "2026-10-23T18:55:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc, pilote Ferrari, déclare ne pas anticiper d'absence parmi les six courses restantes, malgré la naissance imminente de son premier enfant.",
+      "summary_en": "Ferrari driver Charles Leclerc says he does not expect to miss any of the remaining six Formula 1 races, even though his first child is due soon."
+    },
+    {
+      "id": "07f2b7f99e8c",
+      "title": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
+      "title_fr": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
+      "title_en": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgmO7Y/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-10-23T18:38:10+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.<br />Leclerc was just under a tenth faster than Verstappen in a",
+      "summary_en": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.<br />Leclerc was just under a tenth faster than Verstappen in a"
+    },
+    {
+      "id": "90aca0dd2986",
+      "title": "Toto Wolff’s son walks away from a terrifying go-kart crash, demands to race tomorrow",
+      "title_fr": "Jack Wolff, 9 ans, sort d'un grave accident de kart",
+      "title_en": "Jack Wolff, 9, walks away from a terrifying go-kart crash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolffs-9-year-old-son-walks-away-from-a-terrifying-go-kart-crash-and-demands-to-race-tomorrow/10867498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXRA5MY/s6/motorsport-com-graphics-6-2.jpg",
+      "published_at": "2026-10-23T18:31:27+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": true,
+      "summary_fr": "Le fils de Toto Wolff, Jack, a survécu à un grave accident de kart lors de l'IAME Finale. Le jeune pilote de 9 ans exige déjà de reprendre la course le lendemain.",
+      "summary_en": "Jack Wolff's 9-year-old son survived a terrifying go-kart crash at the IAME Warrior Final and is already demanding to race again tomorrow."
+    },
+    {
+      "id": "2ee029b783c4",
+      "title": "Liam Lawson shares throwback video before first live performance in over a decade",
+      "title_fr": "Liam Lawson shares throwback video before first live performance in over a decade",
+      "title_en": "Liam Lawson shares throwback video before first live performance in over a decade",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-shares-throwback-video-before-first-live-performance-in-over-a-decade/10867500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGLXdY/s6/motorsport-com-graphics-5.jpg",
+      "published_at": "2026-10-23T18:23:05+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Liam Lawson isn't just in Austin to race behind the wheel of a Racing Bulls car, you know? On Thursday, he also played his first live music gig in over a decade. Before the show, he posted a throwback",
+      "summary_en": "Liam Lawson isn't just in Austin to race behind the wheel of a Racing Bulls car, you know? On Thursday, he also played his first live music gig in over a decade. Before the show, he posted a throwback"
+    },
+    {
+      "id": "edc66eae6263",
+      "title": "Fans lose it as Daniel Ricciardo spotted supporting Liam Lawson at Austin live performance",
+      "title_fr": "Ricciardo soutient Lawson à Austin",
+      "title_en": "Ricciardo supports Lawson at Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fans-lose-it-as-daniel-ricciardo-spotted-supporting-liam-lawson-at-austin-live-performance/10867496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaLMD2/s6/motorsport-com-graphics.jpg",
+      "published_at": "2026-10-23T18:12:55+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Daniel Ricciardo a été aperçu en train de soutenir Liam Lawson lors d'un concert à Austin, avant le Grand Prix d'USA.",
+      "summary_en": "Daniel Ricciardo was spotted cheering for Liam Lawson during a live performance in Austin ahead of the US Grand Prix."
+    },
+    {
+      "id": "248b3a928d9e",
+      "title": "Norris issues brutal warning to McLaren: “One of the hardest cars I’ve ever had to drive”",
+      "title_fr": "Norris issues brutal warning to McLaren: “One of the hardest cars I’ve ever had to drive”",
+      "title_en": "Norris issues brutal warning to McLaren: “One of the hardest cars I’ve ever had to drive”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LorrY/s6/motorsport-com-graphics-4-2.jpg",
+      "published_at": "2026-10-23T17:56:08+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "When a Formula 1 driver strings together a streak of pole positions and commanding race victories, the natural assumption is that their car is perfectly dialled in and driving like it's on rails. But ",
+      "summary_en": "When a Formula 1 driver strings together a streak of pole positions and commanding race victories, the natural assumption is that their car is perfectly dialled in and driving like it's on rails. But "
+    },
+    {
+      "id": "741670e0fd33",
+      "title": "George Russell reveals he lost sleep over his own driving, not the F1 championship",
+      "title_fr": "Russell avoue perdre son sommeil à cause de sa conduite",
+      "title_en": "Russell admits losing sleep over his driving",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-reveals-he-lost-sleep-over-his-own-driving-not-the-f1-championship/10867451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/27Noe3X0/s6/motorsport-com-graphics-3-2.jpg",
+      "published_at": "2026-10-23T17:49:14+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell a déclaré qu'il perdait son sommeil à cause de sa propre conduite, plutôt que de se soucier du championnat. Le pilote de Mercedes se plaint de problèmes mécaniques et d'un manque d'adaptation de la voiture.",
+      "summary_en": "George Russell said he was losing sleep over his own driving rather than the championship. The Mercedes driver cites mechanical failures and a car that doesn't suit his style."
+    },
     {
       "id": "4ae957f4d3c3",
       "title": "George Russell admits Mercedes still needs time to “fine-tune” problematic upgrade package",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a déclaré qu'il souhaite simplement s'amuser lors du Grand Prix des États-Unis alors qu'il se trouve sur le point de remporter le championnat du monde de Formule 1.",
       "summary_en": "Kimi Antonelli said he will just have fun at the United States Grand Prix as he stands on the brink of winning the Formula 1 World Championship."
-    },
-    {
-      "id": "a4c73f56b0cd",
-      "title": "Kimi Antonelli opens up on father's fears over his F1 racing career",
-      "title_fr": "Kimi Antonelli révèle les craintes de son père sur sa carrière de pilote",
-      "title_en": "Kimi Antonelli opens up about his father's fears over his racing career",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/68Vwmkx2/s6/72945935-15.jpg",
-      "published_at": "2026-10-22T20:44:19+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, en tête du championnat, a expliqué que son père, Marco, ne voulait pas qu'il devienne pilote après avoir vu sa propre carrière se terminer faute d'argent. Arrivant à Austin, il est à 102 points d'avance.",
-      "summary_en": "Kimi Antonelli, the current championship leader, said his father Marco feared a racing career after his own ended due to lack of money. Arriving in Austin, he is 102 points clear and could become the youngest F1 champion."
-    },
-    {
-      "id": "749ed49d8a7e",
-      "title": "Why Colapinto spoke out against abuse targeting his own F1 team",
-      "title_fr": "Colapinto dénonce les abus sur les réseaux sociaux",
-      "title_en": "Colapinto condemns online abuse",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-colapinto-spoke-out-against-online-abuse/10867150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YP74eaj2/s6/franco-colapinto-alpine-3.jpg",
-      "published_at": "2026-10-22T20:44:09+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote argentin Franco Colapinto a pris la parole à Monaco pour dénoncer les propos haineux qui ciblent son équipe. Il a appelé à plus de respect sur les réseaux.",
-      "summary_en": "Argentine driver Franco Colapinto spoke out at Monaco to condemn the hateful comments targeting his team. He urged greater respect on social media."
-    },
-    {
-      "id": "897c32f4cd94",
-      "title": "'Lines were crossed' – Franco Colapinto speaks out after online abuse targeting Alpine F1 staff",
-      "title_fr": "Colapinto dénonce l'abus en ligne contre le personnel Alpine",
-      "title_en": "Colapinto condemns online abuse targeting Alpine staff",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lines-were-crossed-franco-colapinto-speaks-out-after-online-abuse-targeting-alpine-f1-staff/10867144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoDkDj0/s6/franco-colapinto-alpine-2.jpg",
-      "published_at": "2026-10-22T20:38:41+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote argentin Franco Colapinto a dénoncé l'abus en ligne visant le personnel d'Alpine lors d'une interview à Monaco. Il appelle à plus de respect sur les réseaux sociaux",
-      "summary_en": "Argentine driver Franco Colapinto condemned online abuse aimed at Alpine staff during an interview in Monaco, calling for greater respect on social media"
-    },
-    {
-      "id": "92f7a6791f1b",
-      "title": "Lewis Hamilton “forced to stay a lot longer” in F1 amid African Grand Prix hopes",
-      "title_fr": "Hamilton ravi de la venue du Grand Prix africain",
-      "title_en": "Hamilton thrilled by African Grand Prix announcement",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-forced-to-stay-a-lot-longer-in-f1-after-african-grand-prix-announcement/10867142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDqm70/s6/72945935-33-2.jpg",
-      "published_at": "2026-10-22T20:28:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton s'enthousiasme à l'annonce d'un Grand Prix en Afrique, prévu au Rwanda dans les années 2030. Le pilote espère rester en F1 pour y participer.",
-      "summary_en": "Lewis Hamilton is thrilled by the announcement of an African Grand Prix in Rwanda, slated for the early 2030s. The driver hopes to stay in F1 to compete there."
-    },
-    {
-      "id": "6961f6ccf0f2",
-      "title": "“Free Congo!”: Hamilton welcomes F1’s return to Africa, with reservations over Rwanda | Formula 1",
-      "title_fr": "Hamilton applaudit le retour de la F1 en Afrique, mais réserve sur le Rwanda",
-      "title_en": "Hamilton welcomes F1's return to Africa, but has reservations about Rwanda",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/22/free-congo-hamilton-welcomes-f1s-return-to-africa-with-reservations-over-rwanda/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/05/racefansdotnet-21-05-17-08-33-14-1.jpg",
-      "published_at": "2026-10-22T20:12:07+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a exprimé ses réserves quant au choix du Rwanda pour le premier Grand Prix africain depuis 1993, tout en saluant le retour de la Formule 1 sur le continent.",
-      "summary_en": "Lewis Hamilton expressed mixed feelings about Rwanda hosting the first African Grand Prix since 1993, while welcoming Formula 1's return to the continent."
-    },
-    {
-      "id": "3477a5ff7651",
-      "title": "Red Bull is now F1's “most consistently quick car” says Oscar Piastri",
-      "title_fr": "Piastri qualifie Red Bull de la voiture la plus rapide",
-      "title_en": "Piastri calls Red Bull the fastest car",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-is-now-f1s-most-consistently-quick-car-says-oscar-piastri/10867135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0arEdgp2/s6/72945935-32.jpg",
-      "published_at": "2026-10-22T20:03:49+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri pilote de McLaren affirme que Red Bull est désormais la voiture la plus rapide et la plus constante du championnat grace a ses recentes ameliorations. La Red Bull se trouve en tete des temps.",
-      "summary_en": "McLaren's Oscar Piastri says Red Bull is now the most consistently fast car on the grid thanks to recent upgrades, topping the timesheets."
-    },
-    {
-      "id": "1b3254b9cbb8",
-      "title": "Isack Hadjar: Max Verstappen would have won Singapore GP by more in a Ferrari",
-      "title_fr": "Hadjar : Verstappen aurait gagné plus à Singapour en Ferrari",
-      "title_en": "Hadjar: Verstappen would have won more at Singapore in a Ferrari",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-max-verstappen-would-have-won-singapore-gp-by-more-in-a-ferrari/10867119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6Alvq59Y/s6/72945935-14.jpg",
-      "published_at": "2026-10-22T19:34:28+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar soutient que Red Bull n'avait pas la voiture la plus rapide à Singapour et que Max Verstappen aurait remporté la course avec un plus grand écart s'il avait conduit une Ferrari.",
-      "summary_en": "Isack Hadjar claims Red Bull lacked the fastest car at Singapore and that Max Verstappen would have won by a larger margin if he had driven a Ferrari."
-    },
-    {
-      "id": "67685f64d765",
-      "title": "Verstappen would have won Singapore GP in a Ferrari, says Hadjar: ‘It was the fastest car’ | Formula 1",
-      "title_fr": "Hadjar affirme que Verstappen aurait gagné à Singapour en Ferrari",
-      "title_en": "Hadjar says Verstappen would have won Singapore GP in a Ferrari",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/22/verstappen-would-have-won-singapore-gp-in-a-ferrari-says-hadjar-it-was-the-fastest-car/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-17-05-2-SI202610110373.jpg",
-      "published_at": "2026-10-22T19:33:29+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar déclare que la victoire de Max Verstappen à Singapour aurait été encore plus dominante s'il avait couru en Ferrari. Le pilote de Red Bull aurait alors été le plus rapide.",
-      "summary_en": "Isack Hadjar says Max Verstappen's Singapore GP win would have been even more dominant if he had raced in a Ferrari. The Red Bull driver would have been the fastest."
-    },
-    {
-      "id": "90ba5c99a4ca",
-      "title": "Sainz yet to be \"convinced\" that F1 2026 will finish in the Middle East",
-      "title_fr": "Sainz doute de la fin de la saison 2026 au Moyen-Orient",
-      "title_en": "Sainz doubts 2026 season finale in Middle East",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/sainz-not-convinced-f1-2026-will-finish-in-middle-east/10867117/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6zoDgL70/s6/carlos-sainz-williams-2.jpg",
-      "published_at": "2026-10-22T19:28:20+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Carlos Sainz a déclaré qu'il est difficile d'être convaincu que les deux derniers tours de la saison 2026 se déroulent au Qatar et à Abu Dhabi, malgré le conflit en cours.",
-      "summary_en": "Carlos Sainz said it is hard to be convinced that the final two races of the 2026 season will take place in Qatar and Abu Dhabi amid the ongoing Middle East conflict."
-    },
-    {
-      "id": "b1baf211d8cc",
-      "title": "Carlos Sainz: \"Difficult to be convinced\" that F1 2026 can finish in the Middle East",
-      "title_fr": "Sainz doute de la fin de la saison 2026 au Moyen-Orient",
-      "title_en": "Sainz doubts F1 2026 finale in Middle East",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/difficult-to-be-convinced-f1-can-finish-2026-in-the-middle-east/10867098/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBva16/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-10-22T19:25:26+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Carlos Sainz a déclaré qu'il est difficile d'être convaincu que la Formule 1 puisse terminer la saison 2026 au Qatar et à Abu Dhabi, malgré le conflit en cours.",
-      "summary_en": "Carlos Sainz says it's hard to be convinced that Formula 1 can finish the 2026 season in Qatar and Abu Dhabi amid the ongoing Middle Eastern conflict."
     }
   ]
 }
