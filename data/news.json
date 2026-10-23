@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-23T00:58:58Z",
+  "last_updated": "2026-10-23T04:01:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f2e1b631392d",
+      "title": "Spotlight: Hamilton to race until he’s 45? ‘I’m forced to stay longer to race in Africa’ | Briefs",
+      "title_fr": "Hamilton prévoit de courir jusqu’à 46 ans",
+      "title_en": "Hamilton plans to race until 46",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/spotlight-hamilton-to-race-until-hes-45-im-forced-to-stay-longer-to-race-in-africa/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-12-03-23-5-261011_R17_SINGAPORE_DP_AV5_0116.jpg",
+      "published_at": "2026-10-22T23:10:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré qu’il continuera à courir jusqu’à 46 ans, notamment pour participer aux courses en Afrique. Le pilote britannique envisage de prolonger sa carrière.",
+      "summary_en": "Lewis Hamilton said he will keep racing until he is 46, especially to compete in Africa. The British driver plans to extend his career."
+    },
     {
       "id": "2b0e07dcd2d5",
       "title": "George Russell calls for F1 track changes after Max Verstappen's COTA complaints",
@@ -20,6 +39,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell demande que les circuits de Formule 1 soient rénovés tous les quelques années, suite aux remarques de Max Verstappen sur les bosses du Circuit des Amériques qui pourraient l'endommager.",
       "summary_en": "George Russell urges that Formula 1 circuits be resurfaced every few years after Max Verstappen's complaints about bumps at the Circuit of the Americas that could damage him."
+    },
+    {
+      "id": "854953efc9f2",
+      "title": "On This Day: Hamilton wins in Austin but VSC boosts Rosberg’s title chances | Brief",
+      "title_fr": "Hamilton remporte Austin, VSC favorise Rosberg",
+      "title_en": "Hamilton wins Austin, VSC boosts Rosberg",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/on-this-day-united-states-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2016/10/racefansdotnet-24-10-23-22-15-56-1-XPB_849403_HiRes.jpg",
+      "published_at": "2026-10-22T23:01:00+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Lewis Hamilton a remporté la course d'Austin, réduisant son déficit de points. Une période de VSC a toutefois donné un avantage à Nico Rosberg dans la bataille du championnat.",
+      "summary_en": "Lewis Hamilton won the Austin race, cutting his points deficit. A VSC period, however, gave Nico Rosberg a boost in the championship battle."
     },
     {
       "id": "451722504f03",
@@ -155,6 +193,25 @@
       "summary_en": "Max Verstappen slammed the Austin track bumps as 'unacceptable' and out of control, joking he would need a new spine after the US Grand Prix press conference in Singapore."
     },
     {
+      "id": "69f7e4df0638",
+      "title": "“Difficult to be convinced” F1’s Qatar and Abu Dhabi rounds will happen – Sainz | Formula 1",
+      "title_fr": "Sainz doute sur la tenue des deux derniers Grands Prix au Moyen-Orient",
+      "title_en": "Sainz doubts Qatar and Abu Dhabi races will go ahead",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/22/difficult-to-be-convinced-f1s-qatar-and-abu-dhabi-rounds-will-happen-sainz/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-30-19-03-18-6-2249194540.jpg",
+      "published_at": "2026-10-22T21:31:09+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz Jnr exprime ses doutes quant à la tenue des deux derniers Grands Prix de la saison en Arabie Saoudite et aux Émirats arabes unis. Il questionne la viabilité des courses au Qatar et à Abu Dhabi.",
+      "summary_en": "Carlos Sainz Jr. expresses doubts about the two final races of the season in Qatar and Abu Dhabi, questioning their viability."
+    },
+    {
       "id": "efe5fa15b037",
       "title": "Kimi Antonelli ready to \"finish the job\" as first F1 title chance beckons at US GP",
       "title_fr": "Antonelli vise le titre à l'US GP",
@@ -172,6 +229,25 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli, 20 ans, veut terminer le travail en visant le titre de champion du monde à l'US GP. Il pourrait devenir le plus jeune champion de l'histoire de la F1 si l'opportunité se concrétise.",
       "summary_en": "Kimi Antonelli, 20, aims to finish the job by clinching the world title at the US GP. He could become the youngest champion in F1 history if the opportunity materialises."
+    },
+    {
+      "id": "7245c19faf80",
+      "title": "Slater to make F1 practice debut for Audi in Mexico | Formula 1",
+      "title_fr": "Slater fait ses premiers essais F1 pour Audi au Mexique",
+      "title_en": "Slater makes F1 practice debut for Audi in Mexico",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/22/slater-to-make-f1-practice-debut-for-audi-in-mexico/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-09-05-10-21-42-1-A2616393.jpg",
+      "published_at": "2026-10-22T21:04:35+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Freddie Slater, pilote junior d'Audi, effectuera son premier essai en Formule 1 lors du Grand Prix du Mexique la semaine prochaine.",
+      "summary_en": "Audi junior driver Freddie Slater will make his first Formula 1 practice session at the Mexican Grand Prix next week."
     },
     {
       "id": "a4c73f56b0cd",
@@ -250,6 +326,25 @@
       "summary_en": "Lewis Hamilton is thrilled by the announcement of an African Grand Prix in Rwanda, slated for the early 2030s. The driver hopes to stay in F1 to compete there."
     },
     {
+      "id": "6961f6ccf0f2",
+      "title": "“Free Congo!”: Hamilton welcomes F1’s return to Africa, with reservations over Rwanda | Formula 1",
+      "title_fr": "Hamilton applaudit le retour de la F1 en Afrique, mais réserve sur le Rwanda",
+      "title_en": "Hamilton welcomes F1's return to Africa, but has reservations about Rwanda",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/22/free-congo-hamilton-welcomes-f1s-return-to-africa-with-reservations-over-rwanda/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/05/racefansdotnet-21-05-17-08-33-14-1.jpg",
+      "published_at": "2026-10-22T20:12:07+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a exprimé ses réserves quant au choix du Rwanda pour le premier Grand Prix africain depuis 1993, tout en saluant le retour de la Formule 1 sur le continent.",
+      "summary_en": "Lewis Hamilton expressed mixed feelings about Rwanda hosting the first African Grand Prix since 1993, while welcoming Formula 1's return to the continent."
+    },
+    {
       "id": "3477a5ff7651",
       "title": "Red Bull is now F1's “most consistently quick car” says Oscar Piastri",
       "title_fr": "Piastri qualifie Red Bull de la voiture la plus rapide",
@@ -286,6 +381,25 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar soutient que Red Bull n'avait pas la voiture la plus rapide à Singapour et que Max Verstappen aurait remporté la course avec un plus grand écart s'il avait conduit une Ferrari.",
       "summary_en": "Isack Hadjar claims Red Bull lacked the fastest car at Singapore and that Max Verstappen would have won by a larger margin if he had driven a Ferrari."
+    },
+    {
+      "id": "67685f64d765",
+      "title": "Verstappen would have won Singapore GP in a Ferrari, says Hadjar: ‘It was the fastest car’ | Formula 1",
+      "title_fr": "Hadjar affirme que Verstappen aurait gagné à Singapour en Ferrari",
+      "title_en": "Hadjar says Verstappen would have won Singapore GP in a Ferrari",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/22/verstappen-would-have-won-singapore-gp-in-a-ferrari-says-hadjar-it-was-the-fastest-car/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-14-17-05-2-SI202610110373.jpg",
+      "published_at": "2026-10-22T19:33:29+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar déclare que la victoire de Max Verstappen à Singapour aurait été encore plus dominante s'il avait couru en Ferrari. Le pilote de Red Bull aurait alors été le plus rapide.",
+      "summary_en": "Isack Hadjar says Max Verstappen's Singapore GP win would have been even more dominant if he had raced in a Ferrari. The Red Bull driver would have been the fastest."
     },
     {
       "id": "90ba5c99a4ca",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Christian Horner a reçu un appel des actionnaires de Red Bull pour les remercier de son projet moteur après la victoire du moteur Red Bull Ford Powertrains en Formule 1 au Malaysia. Le directeur de l’équipe a confirmé la conversation.",
       "summary_en": "Christian Horner received a call from Red Bull shareholders to thank him for the engine project after the Red Bull Ford Powertrains engine's maiden Formula 1 win in Malaysia. The team principal confirmed the conversation."
-    },
-    {
-      "id": "190824db3f5e",
-      "title": "Red Bull called Christian Horner to thank him for F1 engine project after maiden win",
-      "title_fr": "Red Bull remercie Christian Horner après la victoire du moteur en Malaisie",
-      "title_en": "Red Bull thanks Christian Horner after engine's maiden win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-called-christian-horner-to-thank-him-for-f1-engine-project-after-maiden-win/10866935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8dw46/s6/errol-barnett-and-christian-ho-2.jpg",
-      "published_at": "2026-10-22T11:02:26+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a appelé Christian Horner pour le remercier de son projet moteur après la première victoire du moteur Red Bull Ford en Malaisie. Le directeur de l'équipe a été remplacé en juillet 2025",
-      "summary_en": "Red Bull called Christian Horner to thank him for the engine project after the Red Bull Ford Powertrains engine's maiden Formula 1 victory in Malaysia. The team principal was replaced in July 2025"
-    },
-    {
-      "id": "07dbd8f8d371",
-      "title": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
-      "title_fr": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
-      "title_en": "Cadillac unveils $222,500 Sergio Perez special-edition ahead of 300th F1 start",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-unveils-222500-sergio-perez-special-edition-ahead-of-300th-f1-start/10866891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlK3PpY/s6/2027-cadillac-escalade-v-sergi.jpg",
-      "published_at": "2026-10-22T09:26:59+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Car manufacturer Cadillac has launched a special edition Escalade-V in the name of its Formula 1 driver Sergio Perez. Just 11 will be made, in celebration of the driver's race number.<br />Aptly named",
-      "summary_en": "Car manufacturer Cadillac has launched a special edition Escalade-V in the name of its Formula 1 driver Sergio Perez. Just 11 will be made, in celebration of the driver's race number.<br />Aptly named"
-    },
-    {
-      "id": "cefb224a6595",
-      "title": "F1's arrival in Austin could trigger staggering $1 billion economic boost",
-      "title_fr": "F1 à Austin : 1 billion de dollars d’impact économique",
-      "title_en": "F1 in Austin Could Trigger $1 Billion Economic Boost",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1s-arrival-in-austin-could-trigger-staggering-1-billion-economic-boost/10866804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YWKAN8BY/s6/72945935-22.jpg",
-      "published_at": "2026-10-21T23:35:02+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix des États-Unis à Austin pourrait générer près d’un milliard de dollars d’impact économique, selon le directeur du tourisme de la ville.",
-      "summary_en": "The United States Grand Prix in Austin could bring about a $1 billion economic boost, says Visit Austin's president Tom Noonan."
-    },
-    {
-      "id": "347183d3df9a",
-      "title": "Ferrari reveals blueprint-style livery for United States GP",
-      "title_fr": "Ferrari présente un livery de type plan pour le Grand Prix des États-Unis",
-      "title_en": "Ferrari unveils blueprint‑style livery for United States GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-reveals-blueprint-style-livery-for-united-states-gp/10866813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0arE7my2/s6/72945935-10.jpg",
-      "published_at": "2026-10-21T23:18:26+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a dévoilé un livery unique, inspiré de plans techniques, pour le Grand Prix des États-Unis au Circuit of the Americas. Le design, réalisé avec HP, met en avant des esquisses et illustrations de type plan sur fond blanc.",
-      "summary_en": "Ferrari unveiled a one‑off blueprint‑style livery for the United States Grand Prix at the Circuit of the Americas. Designed with HP, the livery showcases sketches and technical drawings on a white background."
-    },
-    {
-      "id": "954cd9e41d3a",
-      "title": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
-      "title_fr": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
-      "title_en": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-unveils-limited-edition-leica-camera-with-eye-watering-9950-price-tag/10866811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0JXRq3MY/s6/72945935-26.jpg",
-      "published_at": "2026-10-21T23:13:11+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 had a busy few days. The championship finalised licensing partnership agreement with Leica Camera, resulting in a carbon-accented model priced at an eye-watering $9,950. It's a luxury toy fo",
-      "summary_en": "Formula 1 had a busy few days. The championship finalised licensing partnership agreement with Leica Camera, resulting in a carbon-accented model priced at an eye-watering $9,950. It's a luxury toy fo"
-    },
-    {
-      "id": "c3f0800535a9",
-      "title": "On This Day: Alonso takes title, Massa wins at home, Schumacher bids Ferrari farewell | Brief",
-      "title_fr": "Alonso remporte son deuxième titre, Schumacher s'achève chez Ferrari",
-      "title_en": "Alonso wins second title, Schumacher bows out of Ferrari",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/22/on-this-day-brazilian-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2023/04/racefansdotnet-21-04-12-07-07-52-1.jpg",
-      "published_at": "2026-10-21T23:01:00+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso a remporté son deuxième championnat du monde, tandis que Michael Schumacher conclut sa carrière chez Ferrari. Le pilote Aston Martin a consolidé son palmarès, marquant une étape historique.",
-      "summary_en": "Fernando Alonso clinched his second world championship, while Michael Schumacher concluded his Ferrari career. The Aston Martin driver cemented his legacy, marking a historic moment."
     }
   ]
 }
