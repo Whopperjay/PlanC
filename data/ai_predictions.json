@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:00:04Z",
+  "generated_at": "2026-10-23T13:00:27Z",
   "model": "claude",
   "predictions": [
     {
@@ -82,30 +82,30 @@
       "race_id": "united_states",
       "session_type": "qualifying",
       "session_date": "2026-10-24T21:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "leclerc",
-      "p3": "hamilton",
-      "reasoning_fr": "Verstappen a montré le meilleur rythme sur un tour à Singapour et reste le favori sur un circuit à haute charge aérodynamique comme COTA. Leclerc, deuxième en qualification à Singapour, bénéficie d'une Ferrari bien adaptée à la longue ligne droite et aux virages rapides. Hamilton, troisième à Singapour, possède une excellente maîtrise du tracé et profite de l'évolution rapide du grip sur le circui",
-      "reasoning_en": "Verstappen displayed the fastest single‑lap pace in Singapore and remains the favorite on a high‑downforce circuit like COTA. Leclerc, second in Singapore qualifying, benefits from a Ferrari suited to the long straight and fast corners. Hamilton, third in Singapore, has excellent track knowledge and gains from the rapid grip evolution at COTA. These three combine recent form and one‑lap speed, the",
-      "confidence": "high",
-      "key_factor_fr": "Rythme sur un tour + forme récente + évolution du grip",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 340 points et 102 d'avance, signe que la Mercedes est la référence sur un tour. Russell, deuxième du championnat, reste son rival le plus direct dans la même voiture. Verstappen excelle historiquement à COTA et peut glisser la Red Bull sur la première ligne. Les bosses d'Austin gênent Norris et pénalisent McLaren.",
+      "reasoning_en": "Antonelli leads 2026 with 340 points and a 102-point margin, which shows the Mercedes is the benchmark over one lap. Russell, second in the standings, is his most direct rival in the same car. Verstappen has a strong record at COTA and could put the Red Bull on the front row. Austin's bumps trouble Norris and hurt McLaren.",
+      "confidence": "medium",
+      "key_factor_fr": "Mercedes et Antonelli dominent le tour lancé en 2026",
       "news_used_ids": [],
-      "generated_at": "2026-10-23T00:59:05Z"
+      "generated_at": "2026-10-23T13:00:27Z"
     },
     {
       "event_id": "united_states_grand_prix",
       "race_id": "united_states",
       "session_type": "grand_prix",
       "session_date": "2026-10-25T20:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "leclerc",
-      "p3": "antonelli",
-      "reasoning_fr": "Le Grand Prix de COTA favorise fortement la position sur la grille, le circuit étant difficile à dépasser. Max Verstappen a montré une excellente forme en remportant Singapour et en partant souvent en pole, ce qui le place en tête. Charles Leclerc, deuxième en qualification à Singapour et très constant, bénéficie d’une Ferrari compétitive. Andrea Kimi Antonelli, champion actuel et troisième à Sing",
-      "reasoning_en": "COTA heavily rewards the starting grid because overtaking is tough. Max Verstappen displayed top form by winning Singapore and usually qualifying on pole, putting him first. Charles Leclerc, second in Singapore qualifying and consistently fast, has a competitive Ferrari. Andrea Kimi Antonelli, the current champion and third in Singapore, blends speed with tyre management, making him a podium conte",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 102 points d'avance, et la Mercedes reste la référence. Russell, deuxième du championnat, devrait suivre. Verstappen excelle historiquement à COTA, dont il a remporté plusieurs éditions, et le profil bosselé favorise sa maîtrise. Ferrari reste menaçante avec Hamilton et Leclerc. McLaren semble déstabilisée après Singapour, et Norris souffre des bosses d'Austin.",
+      "reasoning_en": "Antonelli dominates 2026 with a 102-point lead, and Mercedes remains the benchmark. Russell, second in the standings, should follow. Verstappen has a strong history at COTA, with several wins there, and the bumpy layout suits his car control. Ferrari remains a threat with Hamilton and Leclerc. McLaren looks unsettled after Singapore, and Norris struggles with Austin's bumps.",
       "confidence": "medium",
-      "key_factor_fr": "Grille de départ décisive sur COTA",
+      "key_factor_fr": "Domination Mercedes et expertise de Verstappen à COTA",
       "news_used_ids": [],
-      "generated_at": "2026-10-23T04:01:19Z"
+      "generated_at": "2026-10-23T13:00:19Z"
     }
   ]
 }
