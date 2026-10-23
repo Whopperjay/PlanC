@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-23T04:01:11Z",
+  "last_updated": "2026-10-23T07:03:27Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "df5cb3bc0a60",
+      "title": "Antonelli’s second-year title bid reminds Hamilton of his first seasons in F1 | Formula 1",
+      "title_fr": "Hamilton félicite Antonelli, futur champion Mercedes",
+      "title_en": "Hamilton praises Antonelli as future Mercedes champion",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/antonellis-second-year-title-bid-reminds-hamilton-of-his-first-seasons-in-f1/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-14-20-31-10-3-M606211_Barcelona_Catalunya_Grand_Prix__Sunday__Sebastian_Kawka.jpg",
+      "published_at": "2026-10-23T06:15:16+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré que Andrea Kimi Antonelli, son successeur à Mercedes, pourrait devenir champion du monde. Le pilote rappelle ses débuts en F1.",
+      "summary_en": "Lewis Hamilton says Andrea Kimi Antonelli, his Mercedes successor, could become a world champion. The driver recalls his early F1 seasons."
+    },
     {
       "id": "f2e1b631392d",
       "title": "Spotlight: Hamilton to race until he’s 45? ‘I’m forced to stay longer to race in Africa’ | Briefs",
@@ -60,6 +79,25 @@
       "summary_en": "Lewis Hamilton won the Austin race, cutting his points deficit. A VSC period, however, gave Nico Rosberg a boost in the championship battle."
     },
     {
+      "id": "6470cf95e659",
+      "title": "Approach African GP with humility, says Hamilton",
+      "title_fr": "Hamilton appelle a la modestie pour le Grand Prix africain",
+      "title_en": "Hamilton urges humility for African Grand Prix",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61c/live/985c86b0-ce67-11f1-ab75-d744dbb6f3f7.jpg",
+      "published_at": "2026-10-22T22:47:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a declare que le Grand Prix africain au Rwanda doit etre abordee avec humilite, soulignant les preoccupations relatives aux droits humains",
+      "summary_en": "Lewis Hamilton said the African Grand Prix in Rwanda should be approached with humility, citing human rights concerns."
+    },
+    {
       "id": "451722504f03",
       "title": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
       "title_fr": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
@@ -96,6 +134,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell a rétorqué les accusations de Christian Horner selon lesquelles il, Lando Norris et Oscar Piastri auraient payé pour utiliser les simulateurs de Red Bull. Le pilote Mercedes défend son intégrité.",
       "summary_en": "George Russell has rebutted Christian Horner's claim that he, Lando Norris and Oscar Piastri paid to use Red Bull's simulators. The Mercedes driver defends his integrity."
+    },
+    {
+      "id": "159c70bc9a47",
+      "title": "Austin track bumps out of control - Verstappen",
+      "title_fr": "Verstappen dénonce les bosses de la piste",
+      "title_en": "Verstappen decries track bumps",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cea/live/b12772c0-ce64-11f1-80b1-4139e26f5434.jpg",
+      "published_at": "2026-10-22T22:28:55+00:00",
+      "race_id": "usa",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a qualifié les bosses de la piste du Grand Prix des États-Unis de « inacceptables » et « hors de contrôle ». Le pilote a exprimé son mécontentement avant le début de la course.",
+      "summary_en": "Max Verstappen called the bumps on the United States Grand Prix track \"unacceptable\" and \"out of control\", voicing his frustration before the race began."
     },
     {
       "id": "10441e5cf0f7",
@@ -193,6 +250,25 @@
       "summary_en": "Max Verstappen slammed the Austin track bumps as 'unacceptable' and out of control, joking he would need a new spine after the US Grand Prix press conference in Singapore."
     },
     {
+      "id": "edc882f91b42",
+      "title": "F1: Chequered Flag",
+      "title_fr": "Antonelli en lice pour le titre, l’équipe se prépare aux États-Unis",
+      "title_en": "Antonelli in title hunt as team gears up for US GP",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pj4w7r?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": "2026-10-22T21:34:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Antonelli pourrait devenir champion après la fin de la saison. Rosanna et l’équipe se concentrent sur le Grand Prix d’Amérique, où ils visent à consolider leur position.",
+      "summary_en": "Antonelli could be crowned champion after the season ends. Rosanna and the team are focusing on the US Grand Prix, aiming to consolidate their position."
+    },
+    {
       "id": "69f7e4df0638",
       "title": "“Difficult to be convinced” F1’s Qatar and Abu Dhabi rounds will happen – Sainz | Formula 1",
       "title_fr": "Sainz doute sur la tenue des deux derniers Grands Prix au Moyen-Orient",
@@ -248,6 +324,25 @@
       "is_breaking": false,
       "summary_fr": "Freddie Slater, pilote junior d'Audi, effectuera son premier essai en Formule 1 lors du Grand Prix du Mexique la semaine prochaine.",
       "summary_en": "Audi junior driver Freddie Slater will make his first Formula 1 practice session at the Mexican Grand Prix next week."
+    },
+    {
+      "id": "694ff89e6a9a",
+      "title": "Antonelli to 'just have fun' as he aims for title",
+      "title_fr": "Antonelli vise le titre en se disant juste s'amuser",
+      "title_en": "Antonelli aims for title while saying he'll just have fun",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjr4y3y9zy2zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795b/live/b07ecd20-ce58-11f1-a166-e30097724580.jpg",
+      "published_at": "2026-10-22T20:55:40+00:00",
+      "race_id": "usa",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a déclaré qu'il souhaite simplement s'amuser lors du Grand Prix des États-Unis alors qu'il se trouve sur le point de remporter le championnat du monde de Formule 1.",
+      "summary_en": "Kimi Antonelli said he will just have fun at the United States Grand Prix as he stands on the brink of winning the Formula 1 World Championship."
     },
     {
       "id": "a4c73f56b0cd",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Audi a annoncé que Freddie Slater, coureur F3, débutera en F1 lors de deux séances de pratique libre 1 à Mexico City et Sao Paulo. Le pilote, issu de la Formule Régionale, représentera la nouvelle équipe Audi Sauber en 2026",
       "summary_en": "Audi announced that Freddie Slater, a F3 driver, will debut in F1 during two free practice 1 sessions in Mexico City and Sao Paulo. The driver, coming from Formula Regional, will represent the new Audi Sauber team in 2026"
-    },
-    {
-      "id": "81cd9e4fda8e",
-      "title": "On this day: Fernando Alonso wins the world title, Michael Schumacher retires from F1",
-      "title_fr": "Alonso remporte le titre mondial, Schumacher se retire",
-      "title_en": "Alonso wins world title, Schumacher retires",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/2006-brazilian-gp-alonso-wins-title-schumacher-retires-f1/10866737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgoX7Y/s6/fernando-alonso-renault-michae.jpg",
-      "published_at": "2026-10-22T13:38:58+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le 22 octobre 2006, Fernando Alonso a couronné champion du monde après la retraite de Michael Schumacher en Formule 1.",
-      "summary_en": "On 22 October 2006, Fernando Alonso clinched the world championship after Michael Schumacher retired from Formula 1."
-    },
-    {
-      "id": "fc04b1ead641",
-      "title": "How to follow US Grand Prix on the BBC",
-      "title_fr": "Suivre le Grand Prix des États-Unis sur la BBC",
-      "title_en": "How to follow the US Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qk189q5dgo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/30ae1920-c58e-11f1-a64c-550be9e3c66b.jpg",
-      "published_at": "2026-10-22T13:32:33+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La BBC propose une couverture complète du Grand Prix des États-Unis, du 23 au 25 octobre. Suivez les diffusions en direct, les commentaires et les analyses sur les chaînes et plateformes numériques.",
-      "summary_en": "BBC offers comprehensive coverage of the US Grand Prix from 23 to 25 October. Follow live broadcasts, commentary, and analysis across TV channels and digital platforms."
-    },
-    {
-      "id": "1358dcad66c1",
-      "title": "MotoGP \"can’t just copy\" F1’s Drive to Survive success – Chase Carey",
-      "title_fr": "MotoGP \"can’t just copy\" F1’s Drive to Survive success – Chase Carey",
-      "title_en": "MotoGP \"can’t just copy\" F1’s Drive to Survive success – Chase Carey",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/motogp/news/motogp-cant-simply-copy-f1s-drive-to-survive-success-chase-carey/10866969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGgmVKY/s6/liz-claman-and-chase-carey.jpg",
-      "published_at": "2026-10-22T12:11:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Liberty Media director Chase Carey believes MotoGP “can’t just copy” Netflix’s Formula 1 docuseries Drive to Survive to gain widespread recognition.<br />Liberty acquired F1 in January 2017, and one o",
-      "summary_en": "Liberty Media director Chase Carey believes MotoGP “can’t just copy” Netflix’s Formula 1 docuseries Drive to Survive to gain widespread recognition.<br />Liberty acquired F1 in January 2017, and one o"
-    },
-    {
-      "id": "a6d483cddaaa",
-      "title": "MotoGP can’t simply copy F1’s Drive to Survive success – Chase Carey",
-      "title_fr": "MotoGP ne peut pas copier le succès de Conduite pour Survivre",
-      "title_en": "MotoGP cannot simply copy F1's Drive to Survive success",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/motogp/news/motogp-cant-simply-copy-f1s-drive-to-survive-success-chase-carey/10866962/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgmVKY/s6/liz-claman-and-chase-carey.jpg",
-      "published_at": "2026-10-22T12:10:35+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Liberty Media, Chase Carey, affirme que MotoGP ne peut pas reproduire le succès de la série Netflix Conduite pour Survivre pour gagner en visibilité.",
-      "summary_en": "Liberty Media director Chase Carey says MotoGP cannot simply copy Netflix's Drive to Survive to boost its profile."
-    },
-    {
-      "id": "66e5717db3fc",
-      "title": "Horner reveals Red Bull call to thank him for F1 engine project after maiden win",
-      "title_fr": "Horner reçoit l’appel des actionnaires de Red Bull après la victoire du moteur",
-      "title_en": "Horner receives call from Red Bull shareholders after engine win",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/red-bull-called-christian-horner-to-thank-him-for-f1-engine-project-after-maiden-win/10866939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6grQdMbY/s6/errol-barnett-and-christian-ho-3.jpg",
-      "published_at": "2026-10-22T11:04:27+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a reçu un appel des actionnaires de Red Bull pour les remercier de son projet moteur après la victoire du moteur Red Bull Ford Powertrains en Formule 1 au Malaysia. Le directeur de l’équipe a confirmé la conversation.",
-      "summary_en": "Christian Horner received a call from Red Bull shareholders to thank him for the engine project after the Red Bull Ford Powertrains engine's maiden Formula 1 win in Malaysia. The team principal confirmed the conversation."
     }
   ]
 }
