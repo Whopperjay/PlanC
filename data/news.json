@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-10-22T21:56:57Z",
+  "last_updated": "2026-10-23T00:58:58Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2b0e07dcd2d5",
+      "title": "George Russell calls for F1 track changes after Max Verstappen's COTA complaints",
+      "title_fr": "Russell réclame des réaménagements de circuits après les plaintes de Verstappen sur COTA",
+      "title_en": "Russell calls for track resurfacing after Verstappen's COTA complaints",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
+      "published_at": "2026-10-22T23:02:41+00:00",
+      "race_id": "netherlands",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "George Russell demande que les circuits de Formule 1 soient rénovés tous les quelques années, suite aux remarques de Max Verstappen sur les bosses du Circuit des Amériques qui pourraient l'endommager.",
+      "summary_en": "George Russell urges that Formula 1 circuits be resurfaced every few years after Max Verstappen's complaints about bumps at the Circuit of the Americas that could damage him."
+    },
+    {
+      "id": "451722504f03",
+      "title": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
+      "title_fr": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
+      "title_en": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-backs-max-verstappen-over-cota-bumps-reveals-headache-tablet-use/10867187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/63QaLpE2/s6/72945935-35.jpg",
+      "published_at": "2026-10-22T22:38:50+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris has backed Max Verstappen as he says the bumps at some Formula 1 circuits, including the Circuit of the Americas, are so bad that he takes headache tablets before he starts driving.<br />",
+      "summary_en": "Lando Norris has backed Max Verstappen as he says the bumps at some Formula 1 circuits, including the Circuit of the Americas, are so bad that he takes headache tablets before he starts driving.<br />"
+    },
+    {
+      "id": "dc42b8823145",
+      "title": "George Russell responds to Christian Horner's Red Bull simulator claim",
+      "title_fr": "Russell riposte à la réclamation de Horner sur les simulateurs",
+      "title_en": "Russell responds to Horner's simulator claim",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-responds-to-christian-horners-red-bull-simulator-claim/10867189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YMXbAKl2/s6/72945935-17.jpg",
+      "published_at": "2026-10-22T22:36:56+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a rétorqué les accusations de Christian Horner selon lesquelles il, Lando Norris et Oscar Piastri auraient payé pour utiliser les simulateurs de Red Bull. Le pilote Mercedes défend son intégrité.",
+      "summary_en": "George Russell has rebutted Christian Horner's claim that he, Lando Norris and Oscar Piastri paid to use Red Bull's simulators. The Mercedes driver defends his integrity."
+    },
+    {
+      "id": "10441e5cf0f7",
+      "title": "How Antonelli will manage the pressure as F1 coronation looms",
+      "title_fr": "Antonelli affronte la pression avant la couronne de F1",
+      "title_en": "Antonelli braces for pressure ahead of F1 coronation",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/how-antonelli-will-manage-the-pressure-as-f1-coronation-looms/10867178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6grQoqmY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-22T22:20:25+00:00",
+      "race_id": "abudhabi",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli prépare sa saison en gérant la pression qui l’attend pour le championnat. Le pilote ne devra pas revivre les drames de 2008 ou 2010.",
+      "summary_en": "Kimi Antonelli is preparing for the season by managing the pressure ahead of the championship. The driver will avoid repeating the drama of 2008 or 2010."
+    },
+    {
+      "id": "f278eba7d8b2",
+      "title": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
+      "title_fr": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
+      "title_en": "Lando Norris on Madrid Coca-Cola drama: “I can drink whatever I like”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7Q4mX6/s6/72945935-34.jpg",
+      "published_at": "2026-10-22T22:15:26+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In",
+      "summary_en": "While the majority of us are looking forward to the upcoming United States Grand Prix, Lando Norris was asked to reminisce about a moment that went viral over the weekend of the Spanish Grand Prix. In"
+    },
+    {
+      "id": "a7e640a08ae3",
+      "title": "Charles Leclerc slams Isack Hadjar's Max Verstappen Ferrari claim as \"nonsense\"",
+      "title_fr": "Leclerc rejette la prétendue victoire de Verstappen en Ferrari à Singapour",
+      "title_en": "Leclerc dismisses claim that Verstappen would have won Singapore GP in Ferrari",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-slams-isack-hadjars-max-verstappen-ferrari-claim-as-nonsense/10867179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6DGgmE9Y/s6/72945935-16.jpg",
+      "published_at": "2026-10-22T22:13:44+00:00",
+      "race_id": "singapore",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a rejeté la suggestion d'Isack Hadjar selon laquelle Max Verstappen aurait gagné le Grand Prix de Singapour en Ferrari, le qualifiant de \"absurde\". Le champion a dominé le weekend, remportant les deux courses.",
+      "summary_en": "Charles Leclerc dismissed Isack Hadjar's claim that Max Verstappen would have won the Singapore Grand Prix in a Ferrari, calling it \"nonsense.\" The champion dominated the weekend, winning both the sprint and the main race."
+    },
+    {
+      "id": "3417cf36879a",
+      "title": "Verstappen warns COTA bumps are “unacceptable” and “out of control”",
+      "title_fr": "Verstappen dénonce les bosses de COTA comme inacceptables",
+      "title_en": "Verstappen deems COTA bumps unacceptable",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/verstappen-warns-cota-bumps-are-unacceptable/10867175/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zQG5BkY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-22T22:04:03+00:00",
+      "race_id": "singapore",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a déclaré que les bosses du circuit de COTA sont inacceptables et hors de contrôle, après avoir participé au Championnat du monde d'endurance à Texas.",
+      "summary_en": "Max Verstappen said the bumps at COTA are unacceptable and out of control, after competing in the World Endurance Championship in Texas."
+    },
+    {
+      "id": "0ca353b2514e",
+      "title": "Max Verstappen slams “unacceptable” bumps at Austin F1 track: “It's out of control”",
+      "title_fr": "Verstappen dénonce les bosses inacceptables de l'Austin Grand Prix",
+      "title_en": "Verstappen blasts Austin track bumps as 'unacceptable'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-slams-unacceptable-bumps-at-austin-f1-track-its-out-of-control/10867171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6b7dGyj0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-22T22:00:20+00:00",
+      "race_id": "singapore",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le champion Max Verstappen a critiqué les bosses de la piste d'Austin, déclarant qu'elles étaient inacceptables et hors de contrôle. Il a plaisanté qu'il aurait besoin d'une nouvelle colonne vertébrale.",
+      "summary_en": "Max Verstappen slammed the Austin track bumps as 'unacceptable' and out of control, joking he would need a new spine after the US Grand Prix press conference in Singapore."
+    },
     {
       "id": "efe5fa15b037",
       "title": "Kimi Antonelli ready to \"finish the job\" as first F1 title chance beckons at US GP",
@@ -39,6 +191,25 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli, en tête du championnat, a expliqué que son père, Marco, ne voulait pas qu'il devienne pilote après avoir vu sa propre carrière se terminer faute d'argent. Arrivant à Austin, il est à 102 points d'avance.",
       "summary_en": "Kimi Antonelli, the current championship leader, said his father Marco feared a racing career after his own ended due to lack of money. Arriving in Austin, he is 102 points clear and could become the youngest F1 champion."
+    },
+    {
+      "id": "749ed49d8a7e",
+      "title": "Why Colapinto spoke out against abuse targeting his own F1 team",
+      "title_fr": "Colapinto dénonce les abus sur les réseaux sociaux",
+      "title_en": "Colapinto condemns online abuse",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-colapinto-spoke-out-against-online-abuse/10867150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YP74eaj2/s6/franco-colapinto-alpine-3.jpg",
+      "published_at": "2026-10-22T20:44:09+00:00",
+      "race_id": "monaco",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote argentin Franco Colapinto a pris la parole à Monaco pour dénoncer les propos haineux qui ciblent son équipe. Il a appelé à plus de respect sur les réseaux.",
+      "summary_en": "Argentine driver Franco Colapinto spoke out at Monaco to condemn the hateful comments targeting his team. He urged greater respect on social media."
     },
     {
       "id": "897c32f4cd94",
@@ -115,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar soutient que Red Bull n'avait pas la voiture la plus rapide à Singapour et que Max Verstappen aurait remporté la course avec un plus grand écart s'il avait conduit une Ferrari.",
       "summary_en": "Isack Hadjar claims Red Bull lacked the fastest car at Singapore and that Max Verstappen would have won by a larger margin if he had driven a Ferrari."
+    },
+    {
+      "id": "90ba5c99a4ca",
+      "title": "Sainz yet to be \"convinced\" that F1 2026 will finish in the Middle East",
+      "title_fr": "Sainz doute de la fin de la saison 2026 au Moyen-Orient",
+      "title_en": "Sainz doubts 2026 season finale in Middle East",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/sainz-not-convinced-f1-2026-will-finish-in-middle-east/10867117/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6zoDgL70/s6/carlos-sainz-williams-2.jpg",
+      "published_at": "2026-10-22T19:28:20+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz a déclaré qu'il est difficile d'être convaincu que les deux derniers tours de la saison 2026 se déroulent au Qatar et à Abu Dhabi, malgré le conflit en cours.",
+      "summary_en": "Carlos Sainz said it is hard to be convinced that the final two races of the 2026 season will take place in Qatar and Abu Dhabi amid the ongoing Middle East conflict."
     },
     {
       "id": "b1baf211d8cc",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Fernando Alonso a remporté son deuxième championnat du monde, tandis que Michael Schumacher conclut sa carrière chez Ferrari. Le pilote Aston Martin a consolidé son palmarès, marquant une étape historique.",
       "summary_en": "Fernando Alonso clinched his second world championship, while Michael Schumacher concluded his Ferrari career. The Aston Martin driver cemented his legacy, marking a historic moment."
-    },
-    {
-      "id": "dc8c6aaf98f6",
-      "title": "Carlos Sainz's \"Smooth Operator\" lounge returns for F1 Las Vegas GP",
-      "title_fr": "Sainz retrouve son lounge \"Smooth Operator\" à Las Vegas",
-      "title_en": "Sainz's \"Smooth Operator\" lounge returns to Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainzs-smooth-operator-lounge-returns-for-f1-las-vegas-gp/10866809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/24QGgxdY/s6/72945935-9.jpg",
-      "published_at": "2026-10-21T22:53:15+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Williams Carlos Sainz retrouve son lounge \"Smooth Operator\" sur le Strip de Las Vegas. Le concept, situé à l'hôtel ARIA, proposera vêtements et cocktails à son image.",
-      "summary_en": "Carlos Sainz’s ‘Smooth Operator’ lounge is back on the Las Vegas Strip. The ARIA‑based concept will sell Sainz‑themed apparel and cocktails."
-    },
-    {
-      "id": "e5e9720042fa",
-      "title": "TAG Heuer unveils special edition Red Bull F1 watch for 10-year celebration",
-      "title_fr": "TAG Heuer lance une montre édition spéciale Red Bull pour ses 10 ans de partenariat",
-      "title_en": "TAG Heuer launches special edition Red Bull F1 watch for 10th anniversary",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/tag-heuer-unveils-special-edition-red-bull-f1-watch-for-10-year-celebration/10866800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YP74qvB2/s6/72945935-8.jpg",
-      "published_at": "2026-10-21T22:13:46+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "TAG Heuer a dévoilé une montre Solargraph édition spéciale, célébrant dix ans de partenariat avec Red Bull Racing. Disponible dès le 20 octobre, elle coûte 1900 £ (≈2250 $).",
-      "summary_en": "TAG Heuer unveiled a special edition Solargraph watch to celebrate ten years of partnership with Red Bull Racing. The 1900 £ (≈2250 $) timepiece was available online from 20 October."
-    },
-    {
-      "id": "4c4a2a469238",
-      "title": "Lando Norris risks unwanted F1 record as disastrous title defence continues",
-      "title_fr": "Norris en danger de record négatif",
-      "title_en": "Norris Faces Unwanted Record After 2025 Title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-risks-unwanted-f1-record-as-disastrous-title-defence-continues/10866802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6n7boZm0/s6/72945935-21.jpg",
-      "published_at": "2026-10-21T22:04:40+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris, champion 2025, se trouve à la sixième place avec 201 points et six courses restantes. S'il termine sixième ou plus bas, il deviendra le premier champion en titre à finir hors du top cinq.",
-      "summary_en": "Lando Norris, the 2025 champion, sits sixth with 201 points and six races left. If he finishes sixth or lower, he will be the first reigning champion to finish outside the top five."
-    },
-    {
-      "id": "8f64b6bb37b7",
-      "title": "Lando Norris launches new clothing collection ahead of United States Grand Prix",
-      "title_fr": "Norris lance sa nouvelle collection de vêtements avant le Grand Prix des États-Unis",
-      "title_en": "Norris launches new clothing line ahead of United States Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-launches-new-clothing-collection-ahead-of-united-states-grand-prix/10866798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2Qed4A32/s6/72945935-20.jpg",
-      "published_at": "2026-10-21T21:28:02+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote McLaren Lando Norris a lancé sa collection de vêtements LN4, inspirée des garages de course des années 70, dans un ancien poste-service Austin aux États-Unis, juste avant le Grand Prix.",
-      "summary_en": "McLaren driver Lando Norris has unveiled his LN4 clothing line, inspired by 1970s racing garages, in a pop‑up at an old Austin fuel station in the United States ahead of the United States Grand Prix."
-    },
-    {
-      "id": "cf6d1e93621f",
-      "title": "Kimi Antonelli reveals down-to-earth habit ahead of potential F1 title win",
-      "title_fr": "Antonelli lave sa voiture à la main avant le titre",
-      "title_en": "Antonelli washes his car by hand ahead of title bid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-down-to-earth-habit-ahead-of-potential-f1-title-win/10866796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmAorm0/s6/72945935-7.jpg",
-      "published_at": "2026-10-21T20:59:49+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, en tête du championnat, a révélé qu'il lave sa voiture à la main. Ce geste simple contraste avec son ambition de champion.",
-      "summary_en": "Kimi Antonelli, leading the championship, revealed he washes his car by hand. The simple habit contrasts with his title ambitions."
-    },
-    {
-      "id": "2f2eac4be0f7",
-      "title": "Where to find free F1 fan zones across Austin this week",
-      "title_fr": "Zones F1 gratuites à Austin cette semaine",
-      "title_en": "Free F1 fan zones across Austin this week",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6AlvprEY/s6/72945935-19.jpg",
-      "published_at": "2026-10-21T20:44:10+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les fans sans billet pour le Grand Prix des États-Unis peuvent profiter de zones F1 gratuites organisées par les équipes et sponsors à Austin, de lundi à samedi.",
-      "summary_en": "Fans without tickets for the U.S. Grand Prix can enjoy free F1 fan zones set up by teams and sponsors in Austin from Monday to Saturday."
-    },
-    {
-      "id": "b4f9f30cf39e",
-      "title": "Mercedes F1 unveils dramatic new look for United States Grand Prix",
-      "title_fr": "Mercedes dévoile un look bleu inédit pour le Grand Prix des États-Unis",
-      "title_en": "Mercedes unveils dramatic blue livery for United States Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-f1-unveils-dramatic-new-look-for-united-states-grand-prix/10866765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BqXM2/s6/72945935-18-2.jpg",
-      "published_at": "2026-10-21T16:48:18+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Mercedes présente une carrosserie bleue unique pour le Grand Prix des États-Unis, espérant que Kimi Antonelli l'emporte en championnat. Le design, réalisé avec MANUFAKTUR, remplace le gris argenté habituel du W17.",
-      "summary_en": "Mercedes unveils a unique blue livery for the United States Grand Prix, hoping Kimi Antonelli will win the championship. The design, created with MANUFAKTUR, swaps the usual silver of the W17 for blue."
-    },
-    {
-      "id": "eaefe0c8efa3",
-      "title": "F1 teams reveal special United States GP collections with denim, cowboy hats and Godzilla",
-      "title_fr": "Les équipes dévoilent des collections US GP à thème western",
-      "title_en": "Teams unveil US GP western-themed collections",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-teams-reveal-special-united-states-gp-collections-with-denim-cowboy-hats-and-godzilla/10866761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGgoJ7Y/s6/72945935-17.jpg",
-      "published_at": "2026-10-21T16:07:37+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Les équipes de F1 présentent des collections spéciales pour le Grand Prix des États-Unis, incluant denim, chapeaux de cow-boy et motifs Godzilla, pour célébrer l'événement à Austin.",
-      "summary_en": "F1 teams unveil special US GP collections featuring denim, cowboy hats and Godzilla motifs to celebrate the Austin race."
-    },
-    {
-      "id": "10da3cb35111",
-      "title": "Five things to watch out for at the F1 United States GP",
-      "title_fr": "5 points clés à surveiller au Grand Prix des États-Unis",
-      "title_en": "5 key points to watch at the United States GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-united-states-gp/10866706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/254MqXD0/s6/atmosphere.jpg",
-      "published_at": "2026-10-21T16:01:34+00:00",
-      "race_id": "usa",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix des États-Unis à Austin marque le début d'une triple‑série avec le Mexique et São Paulo. Six manches restent, et les équipes ajustent stratégie et pneus pour la fin de saison.",
-      "summary_en": "The United States Grand Prix in Austin kicks off a triple‑header with Mexico City and São Paulo. Six rounds remain, and teams are fine‑tuning strategy and tires for the season finale."
-    },
-    {
-      "id": "5bb7379bb711",
-      "title": "Hockenheim in talks with F1 despite “virtually zero” public funding",
-      "title_fr": "Hockenheim discute de retour en F1 malgré un financement public quasi nul",
-      "title_en": "Hockenheim talks F1 return despite almost no public funding",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/hockenheim-in-talks-with-f1-despite-virtually-zero-public-funding/10866729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2GdKqMQY/s6/robert-kubica-williams.jpg",
-      "published_at": "2026-10-21T13:59:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le circuit de Hockenheim est en pourparlers avec la Formule 1 pour un éventuel retour, mais le projet reste largement théorique. Les directeurs Joern Teske et Jochen Nerpel ont détaillé les enjeux.",
-      "summary_en": "The Hockenheimring is in talks with Formula 1 about a possible return, but the project remains largely theoretical. Directors Joern Teske and Jochen Nerpel outlined the challenges."
     }
   ]
 }
