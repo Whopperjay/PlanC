@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-23T10:05:27Z",
+  "last_updated": "2026-10-23T13:07:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6b07ca0d662e",
+      "title": "George Russell: F1 2026 season a test of \"character and resilience\"",
+      "title_fr": "George Russell: F1 2026 season a test of \"character and resilience\"",
+      "title_en": "George Russell: F1 2026 season a test of \"character and resilience\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/russell-f1-2026-season-a-test-of-character-and-resilience/10867173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/63QaLW72/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-10-23T11:06:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell feels that the 2026 Formula 1 season has been a test of his resolve as his championship hopes have all but slipped away, but feels his soul-searching across the year has led him to a br",
+      "summary_en": "George Russell feels that the 2026 Formula 1 season has been a test of his resolve as his championship hopes have all but slipped away, but feels his soul-searching across the year has led him to a br"
+    },
     {
       "id": "7a98f8299d92",
       "title": "Norris “got plenty of telling-offs” from McLaren over Singapore collision with Piastri | Formula 1",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Martin Brundle et sa fille Charlie ont dévoilé la Brundle Edition Turbo, une Porsche 911 Turbo relookée par Gunther Werks, limitée à cinq exemplaires et propulsée par 860 chevaux.",
       "summary_en": "Martin Brundle and his daughter Charlie unveil the Brundle Edition Turbo, a reworked Porsche 911 Turbo by Gunther Werks, limited to five units and powered by 860 hp."
-    },
-    {
-      "id": "2c7ee2afee2a",
-      "title": "Esteban Ocon responds to Haas signing Rafael Camara for F1 2027",
-      "title_fr": "Esteban Ocon responds to Haas signing Rafael Camara for F1 2027",
-      "title_en": "Esteban Ocon responds to Haas signing Rafael Camara for F1 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/esteban-ocon-responds-to-rafael-camara-signing/10867069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YN7vAde6/s6/esteban-ocon-haas-f1-team.jpg",
-      "published_at": "2026-10-22T18:08:13+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon agrees that his Haas replacement Rafael Camara deserves his chance to be in Formula 1, but feels he does not deserve to be without a seat for 2027.<br />Camara's signing was confirmed las",
-      "summary_en": "Esteban Ocon agrees that his Haas replacement Rafael Camara deserves his chance to be in Formula 1, but feels he does not deserve to be without a seat for 2027.<br />Camara's signing was confirmed las"
     }
   ]
 }
