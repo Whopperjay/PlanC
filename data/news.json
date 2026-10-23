@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-23T16:09:11Z",
+  "last_updated": "2026-10-23T17:46:01Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "4ae957f4d3c3",
+      "title": "George Russell admits Mercedes still needs time to “fine-tune” problematic upgrade package",
+      "title_fr": "Russell avoue que Mercedes a besoin de temps pour peaufiner son paquet de mise à jour",
+      "title_en": "Russell admits Mercedes still needs time to fine-tune problematic upgrade package",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0LdeAlJ0/s6/motorsport-com-graphics-2-2.jpg",
+      "published_at": "2026-10-23T17:18:11+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell a admis que Mercedes a encore besoin de temps pour peaufiner son paquet de mise à jour problématique. Le pilote attend des améliorations avant le Grand Prix des États-Unis.",
+      "summary_en": "George Russell said Mercedes still needs time to fine-tune its problematic upgrade package ahead of the United States Grand Prix. The driver expects improvements before the race at Circuit of the Americas."
+    },
     {
       "id": "ff7125a4e7ef",
       "title": "Lewis Hamilton: Kimi Antonelli “deserves to be the champion”",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Carlos Sainz a déclaré qu'il est difficile d'être convaincu que la Formule 1 puisse terminer la saison 2026 au Qatar et à Abu Dhabi, malgré le conflit en cours.",
       "summary_en": "Carlos Sainz says it's hard to be convinced that Formula 1 can finish the 2026 season in Qatar and Abu Dhabi amid the ongoing Middle Eastern conflict."
-    },
-    {
-      "id": "29f524a96185",
-      "title": "Oscar Piastri: What made me fast last season is now my “downfall”",
-      "title_fr": "Oscar Piastri: What made me fast last season is now my “downfall”",
-      "title_en": "Oscar Piastri: What made me fast last season is now my “downfall”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-what-made-me-fast-last-season-is-now-my-downfall/10867108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0o5ANmwY/s6/72945935-31.jpg",
-      "published_at": "2026-10-22T19:23:15+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren driver Oscar Piastri has admitted that the strengths that made him a title contender during the 2025 Formula 1 season have become his biggest weaknesses as he battles to adapt to this year's r",
-      "summary_en": "McLaren driver Oscar Piastri has admitted that the strengths that made him a title contender during the 2025 Formula 1 season have become his biggest weaknesses as he battles to adapt to this year's r"
     }
   ]
 }
