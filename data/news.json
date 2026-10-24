@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-24T05:54:03Z",
+  "last_updated": "2026-10-24T08:56:02Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a3645e172c13",
+      "title": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
+      "title_fr": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
+      "title_en": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6n7bdem0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-24T08:12:42+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen finished Friday's practice sessions for the Formula 1 United States Grand Prix in second and third place. In both sessions, the four-time world champion was less than two tenths behind ",
+      "summary_en": "Max Verstappen finished Friday's practice sessions for the Formula 1 United States Grand Prix in second and third place. In both sessions, the four-time world champion was less than two tenths behind "
+    },
+    {
+      "id": "88646825f433",
+      "title": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
+      "title_fr": "Red Bull cible deux axes clés après le prometteur départ de Verstappen à Austin",
+      "title_en": "Red Bull pinpoints two key focus areas after Verstappen's promising start in Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6n7bdem0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-24T08:10:05+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a terminé les séances d'essais de vendredi en deuxième et troisième place, à moins de deux dixièmes de Charles Leclerc. Red Bull a identifié deux domaines clés à améliorer avant le Grand Prix des États-Unis.",
+      "summary_en": "Max Verstappen finished Friday's practice sessions in second and third place, just under two-tenths behind Charles Leclerc. Red Bull has identified two key focus areas to improve before the United States Grand Prix."
+    },
+    {
+      "id": "40fee6e206f3",
+      "title": "Kimi Antonelli hails \"step forward\" at United States GP as Mercedes chips away at upgrades",
+      "title_fr": "Antonelli félicite la Mercedes pour un progrès aux États-Unis",
+      "title_en": "Antonelli praises Mercedes for a step forward in the US",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YK15AVb0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-24T06:00:02+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli estime que la Mercedes a fait un pas de plus pour extraire de son paquet d'améliorations la capacité lors du Grand Prix des États-Unis. Le constructeur a introduit une nouvelle aile avant à Austin.",
+      "summary_en": "Kimi Antonelli believes Mercedes has taken another step to extract performance from its upgrade package at the United States Grand Prix. The team introduced a new front wing option in Austin."
+    },
     {
       "id": "92c98e1db629",
       "title": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a déclaré que Andrea Kimi Antonelli, son successeur à Mercedes, pourrait devenir champion du monde. Le pilote rappelle ses débuts en F1.",
       "summary_en": "Lewis Hamilton says Andrea Kimi Antonelli, his Mercedes successor, could become a world champion. The driver recalls his early F1 seasons."
-    },
-    {
-      "id": "f2e1b631392d",
-      "title": "Spotlight: Hamilton to race until he’s 45? ‘I’m forced to stay longer to race in Africa’ | Briefs",
-      "title_fr": "Hamilton prévoit de courir jusqu’à 46 ans",
-      "title_en": "Hamilton plans to race until 46",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/23/spotlight-hamilton-to-race-until-hes-45-im-forced-to-stay-longer-to-race-in-africa/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-12-03-23-5-261011_R17_SINGAPORE_DP_AV5_0116.jpg",
-      "published_at": "2026-10-22T23:10:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré qu’il continuera à courir jusqu’à 46 ans, notamment pour participer aux courses en Afrique. Le pilote britannique envisage de prolonger sa carrière.",
-      "summary_en": "Lewis Hamilton said he will keep racing until he is 46, especially to compete in Africa. The British driver plans to extend his career."
-    },
-    {
-      "id": "2b0e07dcd2d5",
-      "title": "George Russell calls for F1 track changes after Max Verstappen's COTA complaints",
-      "title_fr": "Russell réclame des réaménagements de circuits après les plaintes de Verstappen sur COTA",
-      "title_en": "Russell calls for track resurfacing after Verstappen's COTA complaints",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0mXy3lk6/s6/72945935-36.jpg",
-      "published_at": "2026-10-22T23:02:41+00:00",
-      "race_id": "netherlands",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "George Russell demande que les circuits de Formule 1 soient rénovés tous les quelques années, suite aux remarques de Max Verstappen sur les bosses du Circuit des Amériques qui pourraient l'endommager.",
-      "summary_en": "George Russell urges that Formula 1 circuits be resurfaced every few years after Max Verstappen's complaints about bumps at the Circuit of the Americas that could damage him."
-    },
-    {
-      "id": "854953efc9f2",
-      "title": "On This Day: Hamilton wins in Austin but VSC boosts Rosberg’s title chances | Brief",
-      "title_fr": "Hamilton remporte Austin, VSC favorise Rosberg",
-      "title_en": "Hamilton wins Austin, VSC boosts Rosberg",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/23/on-this-day-united-states-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2016/10/racefansdotnet-24-10-23-22-15-56-1-XPB_849403_HiRes.jpg",
-      "published_at": "2026-10-22T23:01:00+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Lewis Hamilton a remporté la course d'Austin, réduisant son déficit de points. Une période de VSC a toutefois donné un avantage à Nico Rosberg dans la bataille du championnat.",
-      "summary_en": "Lewis Hamilton won the Austin race, cutting his points deficit. A VSC period, however, gave Nico Rosberg a boost in the championship battle."
     }
   ]
 }
