@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-10-24T18:02:04Z",
+  "last_updated": "2026-10-24T21:04:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a464d113fd2c",
+      "title": "Kimi Antonelli caught on camera hitting fence in Mercedes road car at US GP",
+      "title_fr": "Antonelli touche la clôture du parking du Circuit de l'Amérique du Nord",
+      "title_en": "Antonelli hits fence in Mercedes road car at US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0mXy34A6/s6/motorsport-com-graphics-14-2.jpg",
+      "published_at": "2026-10-24T20:38:53+00:00",
+      "race_id": "italy",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a été filmé en train de heurter la clôture du parking du Circuit de l'Amérique du Nord dans sa Mercedes-AMG GT 4-Door Coupe personnalisée. Cet incident rappelle que même les pilotes les plus prometteurs commettent des erreurs.",
+      "summary_en": "Kimi Antonelli was caught on camera hitting the fence of the Circuit of the Americas parking lot in his personalized Mercedes-AMG GT 4-Door Coupe. The incident shows even the most promising drivers can make mistakes."
+    },
+    {
+      "id": "013e9207ebdc",
+      "title": "Colton Herta savours \"super special\" Austin homecoming as 2027 uncertainty remains",
+      "title_fr": "Herta savoure son retour à Austin, l'avenir 2027 incertain",
+      "title_en": "Herta savors Austin homecoming, 2027 future uncertain",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
+      "published_at": "2026-10-24T20:03:30+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta a célébré son retour à Austin, son premier circuit américain depuis 2019. Malgré cette victoire, son avenir en 2027 reste incertain, laissant les fans dans l'attente.",
+      "summary_en": "Colton Herta celebrated his return to Austin, his first American circuit since 2019. Despite the win, his 2027 future remains uncertain, leaving fans in suspense."
+    },
+    {
+      "id": "fb0db1ad9185",
+      "title": "Christian Horner proposes major change to how fans watch F1",
+      "title_fr": "Christian Horner proposes major change to how fans watch F1",
+      "title_en": "Christian Horner proposes major change to how fans watch F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-proposes-major-change-to-how-fans-watch-f1/10867935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LokRY/s6/motorsport-com-graphics-6.jpg",
+      "published_at": "2026-10-24T18:45:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Red Bull Racing CEO and team principal Christian Horner argued that Formula 1 should let fans sit on their favourite team's pitwall virtually and hear how strategy calls are made.<br />Horner h",
+      "summary_en": "Former Red Bull Racing CEO and team principal Christian Horner argued that Formula 1 should let fans sit on their favourite team's pitwall virtually and hear how strategy calls are made.<br />Horner h"
+    },
+    {
+      "id": "09197e3b3672",
+      "title": "Franco Colapinto goes viral after surprise Doctor Doom appearance at United States GP",
+      "title_fr": "Colapinto se fait remarquer en Doctor Doom à Austin",
+      "title_en": "Colapinto turns heads as Doctor Doom at Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/franco-colapinto-goes-viral-after-surprise-doctor-doom-appearance-at-united-states-gp/10867930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zAka6/s6/motorsport-com-graphics-13.jpg",
+      "published_at": "2026-10-24T18:44:44+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Alpine Franco Colapinto a surpris les fans à Austin en portant un costume de Doctor Doom lors d'un événement Williams. Son apparition a fait le tour des réseaux sociaux.",
+      "summary_en": "Alpine driver Franco Colapinto surprised fans in Austin by wearing a Doctor Doom costume at a Williams event, sparking a viral moment on social media."
+    },
+    {
+      "id": "12504062eeb1",
+      "title": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
+      "title_fr": "Hamilton domine la FP3 du GP des États-Unis",
+      "title_en": "Hamilton tops FP3 at United States GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmA3bD0/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-24T18:42:14+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a mené la troisième séance d’essai du Grand Prix des États-Unis, franchissant la barre des 1m35s, tandis que Charles Leclerc, limité par des dépassements de limites de piste, ne l’a dépassé.",
+      "summary_en": "Lewis Hamilton topped the final practice at the United States Grand Prix, breaking the 1m35s barrier, while Charles Leclerc was held back by track‑limit infringements and could not overtake him."
+    },
+    {
+      "id": "770f304b969e",
+      "title": "F1 United States GP: Lewis Hamilton pips Max Verstappen in FP3",
+      "title_fr": "Hamilton domine les essais libres 3 aux États-Unis",
+      "title_en": "Hamilton tops FP3 at US GP, beating Verstappen and Leclerc",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-lewis-hamilton-tops-fp3/10867914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0mXy3rg6/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-10-24T18:40:36+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a mené la séance d'essais libres 3 à Austin, battant Max Verstappen et Charles Leclerc. Il est le seul pilote à franchir la barre des 1m35s, tandis que Leclerc a été pénalisé pour dépassement de limites.",
+      "summary_en": "Lewis Hamilton topped the final practice at the United States Grand Prix, outpacing Max Verstappen and Charles Leclerc. He was the only driver to break the 1m35s barrier, while Leclerc was penalised for track‑limit infringements."
+    },
+    {
+      "id": "145fdd90398d",
+      "title": "Daniel Ricciardo surprises F1 fans with on-stage performance ahead of US GP",
+      "title_fr": "Ricciardo surprend les fans de F1 sur scène à Austin",
+      "title_en": "Ricciardo surprises F1 fans on stage in Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPqmJ0/s6/motorsport-com-graphics-5.jpg",
+      "published_at": "2026-10-24T18:21:47+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "L'ancien pilote de F1 Daniel Ricciardo a fait une apparition surprise sur scène à Austin, Texas, aux côtés du chanteur Rob Baird, jouant de la harmonica sur une chanson originale.",
+      "summary_en": "Former F1 driver Daniel Ricciardo surprised fans by performing on stage in Austin, Texas, with singer Rob Baird, playing harmonica on a song they co‑wrote."
+    },
+    {
+      "id": "82e5acdc118a",
+      "title": "Nico Hulkenberg left red-faced after Gabriel Bortoleto prank at United States GP",
+      "title_fr": "Canular de Bortoleto fait rougir Hulkenberg",
+      "title_en": "Bortoleto's prank leaves Hulkenberg red-faced",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2QedgKv2/s6/motorsport-com-graphics-12-2.jpg",
+      "published_at": "2026-10-24T18:13:00+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le jeune pilote Audi, Gabriel Bortoleto, a fait tomber les pantalons de son coéquipier Nico Hulkenberg devant des milliers de spectateurs au Circuit des États-Unis. Le canular a fait le tour des réseaux sociaux.",
+      "summary_en": "Young Audi driver Gabriel Bortoleto pulled down Nico Hulkenberg's trousers during a walk‑out at the United States Grand Prix, sparking a viral video that left the German driver red‑faced."
+    },
     {
       "id": "6d217d35bbe2",
       "title": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
@@ -609,158 +761,6 @@
       "is_breaking": true,
       "summary_fr": "Le fils de Toto Wolff, Jack, a survécu à un grave accident de kart lors de l'IAME Finale. Le jeune pilote de 9 ans exige déjà de reprendre la course le lendemain.",
       "summary_en": "Jack Wolff's 9-year-old son survived a terrifying go-kart crash at the IAME Warrior Final and is already demanding to race again tomorrow."
-    },
-    {
-      "id": "2ee029b783c4",
-      "title": "Liam Lawson shares throwback video before first live performance in over a decade",
-      "title_fr": "Liam Lawson shares throwback video before first live performance in over a decade",
-      "title_en": "Liam Lawson shares throwback video before first live performance in over a decade",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-shares-throwback-video-before-first-live-performance-in-over-a-decade/10867500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/24QGLXdY/s6/motorsport-com-graphics-5.jpg",
-      "published_at": "2026-10-23T18:23:05+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson isn't just in Austin to race behind the wheel of a Racing Bulls car, you know? On Thursday, he also played his first live music gig in over a decade. Before the show, he posted a throwback",
-      "summary_en": "Liam Lawson isn't just in Austin to race behind the wheel of a Racing Bulls car, you know? On Thursday, he also played his first live music gig in over a decade. Before the show, he posted a throwback"
-    },
-    {
-      "id": "edc66eae6263",
-      "title": "Fans lose it as Daniel Ricciardo spotted supporting Liam Lawson at Austin live performance",
-      "title_fr": "Ricciardo soutient Lawson à Austin",
-      "title_en": "Ricciardo supports Lawson at Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fans-lose-it-as-daniel-ricciardo-spotted-supporting-liam-lawson-at-austin-live-performance/10867496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaLMD2/s6/motorsport-com-graphics.jpg",
-      "published_at": "2026-10-23T18:12:55+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo a été aperçu en train de soutenir Liam Lawson lors d'un concert à Austin, avant le Grand Prix d'USA.",
-      "summary_en": "Daniel Ricciardo was spotted cheering for Liam Lawson during a live performance in Austin ahead of the US Grand Prix."
-    },
-    {
-      "id": "248b3a928d9e",
-      "title": "Norris issues brutal warning to McLaren: “One of the hardest cars I’ve ever had to drive”",
-      "title_fr": "Norris issues brutal warning to McLaren: “One of the hardest cars I’ve ever had to drive”",
-      "title_en": "Norris issues brutal warning to McLaren: “One of the hardest cars I’ve ever had to drive”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7LorrY/s6/motorsport-com-graphics-4-2.jpg",
-      "published_at": "2026-10-23T17:56:08+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "When a Formula 1 driver strings together a streak of pole positions and commanding race victories, the natural assumption is that their car is perfectly dialled in and driving like it's on rails. But ",
-      "summary_en": "When a Formula 1 driver strings together a streak of pole positions and commanding race victories, the natural assumption is that their car is perfectly dialled in and driving like it's on rails. But "
-    },
-    {
-      "id": "741670e0fd33",
-      "title": "George Russell reveals he lost sleep over his own driving, not the F1 championship",
-      "title_fr": "Russell avoue perdre son sommeil à cause de sa conduite",
-      "title_en": "Russell admits losing sleep over his driving",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-reveals-he-lost-sleep-over-his-own-driving-not-the-f1-championship/10867451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/27Noe3X0/s6/motorsport-com-graphics-3-2.jpg",
-      "published_at": "2026-10-23T17:49:14+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell a déclaré qu'il perdait son sommeil à cause de sa propre conduite, plutôt que de se soucier du championnat. Le pilote de Mercedes se plaint de problèmes mécaniques et d'un manque d'adaptation de la voiture.",
-      "summary_en": "George Russell said he was losing sleep over his own driving rather than the championship. The Mercedes driver cites mechanical failures and a car that doesn't suit his style."
-    },
-    {
-      "id": "4ae957f4d3c3",
-      "title": "George Russell admits Mercedes still needs time to “fine-tune” problematic upgrade package",
-      "title_fr": "Russell avoue que Mercedes a besoin de temps pour peaufiner son paquet de mise à jour",
-      "title_en": "Russell admits Mercedes still needs time to fine-tune problematic upgrade package",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0LdeAlJ0/s6/motorsport-com-graphics-2-2.jpg",
-      "published_at": "2026-10-23T17:18:11+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell a admis que Mercedes a encore besoin de temps pour peaufiner son paquet de mise à jour problématique. Le pilote attend des améliorations avant le Grand Prix des États-Unis.",
-      "summary_en": "George Russell said Mercedes still needs time to fine-tune its problematic upgrade package ahead of the United States Grand Prix. The driver expects improvements before the race at Circuit of the Americas."
-    },
-    {
-      "id": "ff7125a4e7ef",
-      "title": "Lewis Hamilton: Kimi Antonelli “deserves to be the champion”",
-      "title_fr": "Hamilton félicite Antonelli, champion à portée",
-      "title_en": "Hamilton praises Antonelli, champion within reach",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6n7AJ7X0/s6/lewis-hamilton-ferrari-andrea-.jpg",
-      "published_at": "2026-10-23T15:19:21+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que Kimi Antonelli est « massivement impressionnant » et « mérite d’être champion ». Avec un avantage de 102 points, l’italien pourrait remporter le titre dès le Grand Prix d’Austin.",
-      "summary_en": "Lewis Hamilton says Kimi Antonelli is “massively impressive” and “deserves to be champion”. With a 102‑point lead, the Italian could win the title as early as the United States Grand Prix."
-    },
-    {
-      "id": "311f884bb5c4",
-      "title": "Fernando Alonso backs IndyCar Barcelona race but warns against wider global expansion",
-      "title_fr": "Alonso soutient l’IndyCar à Barcelone, mais met en garde contre l’expansion mondiale",
-      "title_en": "Alonso backs IndyCar Barcelona race, warns against wider global expansion",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/indycar/news/fernando-alonso-backs-indycar-barcelona-race-but-warns-against-wider-global-expansion/10867420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EmmGY/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-10-23T14:28:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso, champion du monde de Formule 1 à deux titres, a salué la décision de l’IndyCar de se rendre à Barcelone en 2027, tout en avertissant la série américaine de ne pas s’étendre trop rapidement à l’international.",
-      "summary_en": "Two‑time Formula One world champion Fernando Alonso welcomed IndyCar’s move to Barcelona in 2027, but cautioned the American series against over‑expanding globally."
-    },
-    {
-      "id": "b016cc8115a8",
-      "title": "Palou gets home race as IndyCar adds new Spanish round to 2027 calendar | IndyCar",
-      "title_fr": "IndyCar ajoute un nouveau circuit espagnol à son calendrier 2027",
-      "title_en": "IndyCar adds new Spanish round to 2027 calendar",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/23/palou-gets-home-race-as-indycar-adds-new-spanish-round-to-2027-calendar/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-11-55-09-1-2610230151-scaled-1.jpg",
-      "published_at": "2026-10-23T14:07:24+00:00",
-      "race_id": "spain-barcelona",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le Circuit de Catalunya accueillera une course IndyCar en 2027, remplaçant son absence de Formule 1.",
-      "summary_en": "The Circuit de Catalunya will host an IndyCar race in 2027, filling the gap left by the loss of its Formula 1 Grand Prix."
     }
   ]
 }
