@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T23:50:07Z",
+  "last_updated": "2026-10-24T02:52:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -20,6 +20,25 @@
       "is_breaking": false,
       "summary_fr": "McLaren cherche à finaliser ses dernières améliorations pour la saison 2026 alors que la performance du pilote Lando Norris reste en retrait. Les deux victoires de Norris ne suffisent pas à redresser la trajectoire de l’équipe.",
       "summary_en": "McLaren is aiming to finalize its last 2026 upgrades as the team's performance dips. Lando Norris's two mid-season wins are seen as a brief bright spot rather than a sign of a full revival."
+    },
+    {
+      "id": "27387677a97f",
+      "title": "On This Day: Verstappen beats Hamilton in Austin despite “blurred images” in vision | Brief",
+      "title_fr": "Verstappen triomphe à Austin malgré des images floues",
+      "title_en": "Verstappen beats Hamilton in Austin despite blurred vision",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/24/on-this-day-2021-united-states-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2021/10/racefansdotnet-21-10-24-15-38-11-2-1.jpg",
+      "published_at": "2026-10-23T23:01:00+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Verstappen a surmonté des problèmes de vision pour battre Hamilton au Circuit des Amériques, remportant la course à Austin.",
+      "summary_en": "Verstappen overcame vision problems to defeat Hamilton at Circuit of the Americas, securing victory in Austin."
     },
     {
       "id": "181c5c06f501",
@@ -77,6 +96,25 @@
       "is_breaking": false,
       "summary_fr": "La carte de débutant Topps Chrome de Kimi Antonelli, numérotée 1/1 et certifiée GEM MINT 10, a été vendue aux enchères pour 878 000 $, la deuxième carte la plus chère de l’histoire de la Formule 1.",
       "summary_en": "Kimi Antonelli’s 2025 Topps Chrome rookie card, numbered 1/1 and graded GEM MINT 10, fetched $878,400 at auction, making it the second most expensive Formula 1 card ever sold."
+    },
+    {
+      "id": "d1168f7d647e",
+      "title": "Newey says Honda are “disappointed” with their progress in first year back | Formula 1",
+      "title_fr": "Newey critique la lenteur de Honda depuis leur retour",
+      "title_en": "Newey criticises Honda's slow progress since return",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/newey-says-honda-are-disappointed-with-their-progress-in-first-year-back/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-14-31-46-7-2301676142.jpg",
+      "published_at": "2026-10-23T22:13:42+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique d'Aston Martin, Adrian Newey, déclare que Honda est déçu par le manque de progrès depuis son retour en Formule 1. Le constructeur de moteurs attend des résultats plus rapides.",
+      "summary_en": "Aston Martin's technical director Adrian Newey says Honda is disappointed by the lack of progress since its return to Formula 1. The engine supplier expects faster results."
     },
     {
       "id": "261835267025",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris has backed Max Verstappen as he says the bumps at some Formula 1 circuits, including the Circuit of the Americas, are so bad that he takes headache tablets before he starts driving.<br />",
       "summary_en": "Lando Norris has backed Max Verstappen as he says the bumps at some Formula 1 circuits, including the Circuit of the Americas, are so bad that he takes headache tablets before he starts driving.<br />"
-    },
-    {
-      "id": "dc42b8823145",
-      "title": "George Russell responds to Christian Horner's Red Bull simulator claim",
-      "title_fr": "Russell riposte à la réclamation de Horner sur les simulateurs",
-      "title_en": "Russell responds to Horner's simulator claim",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-responds-to-christian-horners-red-bull-simulator-claim/10867189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YMXbAKl2/s6/72945935-17.jpg",
-      "published_at": "2026-10-22T22:36:56+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell a rétorqué les accusations de Christian Horner selon lesquelles il, Lando Norris et Oscar Piastri auraient payé pour utiliser les simulateurs de Red Bull. Le pilote Mercedes défend son intégrité.",
-      "summary_en": "George Russell has rebutted Christian Horner's claim that he, Lando Norris and Oscar Piastri paid to use Red Bull's simulators. The Mercedes driver defends his integrity."
-    },
-    {
-      "id": "159c70bc9a47",
-      "title": "Austin track bumps out of control - Verstappen",
-      "title_fr": "Verstappen dénonce les bosses de la piste",
-      "title_en": "Verstappen decries track bumps",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cea/live/b12772c0-ce64-11f1-80b1-4139e26f5434.jpg",
-      "published_at": "2026-10-22T22:28:55+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a qualifié les bosses de la piste du Grand Prix des États-Unis de « inacceptables » et « hors de contrôle ». Le pilote a exprimé son mécontentement avant le début de la course.",
-      "summary_en": "Max Verstappen called the bumps on the United States Grand Prix track \"unacceptable\" and \"out of control\", voicing his frustration before the race began."
     }
   ]
 }
