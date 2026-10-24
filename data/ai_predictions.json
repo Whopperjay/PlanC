@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:00:03Z",
+  "generated_at": "2026-10-24T13:00:31Z",
   "model": "claude",
   "predictions": [
     {
@@ -82,30 +82,45 @@
       "race_id": "united_states",
       "session_type": "qualifying",
       "session_date": "2026-10-24T21:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "leclerc",
-      "p3": "antonelli",
-      "reasoning_fr": "Le Verstappen a démontré une supériorité claire à Austin, remportant la course malgré des problèmes de vision, ce qui montre son rythme exceptionnel sur le circuit. Leclerc a mené la séance FP2, à seulement 0,1 s du pole, confirmant sa vitesse à chaud. Antonelli, leader du championnat, s’est classé 4e à Singapour mais était deuxième en FP2 à COTA, indiquant une forte évolution de la piste. Ainsi, ",
-      "reasoning_en": "Verstappen showed clear dominance at Austin, winning the race despite vision problems, confirming his one‑lap speed on this circuit. Leclerc topped FP2, only 0.1 s off the fastest time, proving his hot‑lap pace. Antonelli, the championship leader, qualified fourth in Singapore but was second in the COTA FP2, indicating rapid track evolution and strong single‑lap performance. Considering recent qua",
-      "confidence": "high",
-      "key_factor_fr": "Rythme récent en qualification et FP2 à Austin",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Mercedes domine 2026 et Antonelli, leader avec 102 points d'avance, souligne les progrès de la W17 à Austin. Russell reste très solide sur un tour. Verstappen a signé un début de week-end prometteur à COTA, un circuit qu'il connaît bien, mais Red Bull cherche encore l'équilibre et les soucis récents du moteur Honda limitent ses chances de pole.",
+      "reasoning_en": "Mercedes dominates 2026, and Antonelli, leading by 102 points, praised the W17's progress in Austin. Russell remains very strong over one lap. Verstappen had a promising start at COTA, a track he knows well, but Red Bull is still chasing balance and recent Honda engine issues limit his pole chances.",
+      "confidence": "medium",
+      "key_factor_fr": "Avance Mercedes et progrès confirmés d'Antonelli à Austin",
       "news_used_ids": [],
-      "generated_at": "2026-10-24T02:52:26Z"
+      "generated_at": "2026-10-24T13:00:21Z"
     },
     {
       "event_id": "united_states_grand_prix",
       "race_id": "united_states",
       "session_type": "grand_prix",
       "session_date": "2026-10-25T20:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "leclerc",
-      "p3": "hamilton",
-      "reasoning_fr": "Max Verstappen part en pole après sa victoire à Austin et son rythme exceptionnel en qualification, confirmant sa supériorité sur le COTA. Charles Leclerc a dominé les séances d’essais libres, montrant une excellente vitesse d’une tour et une bonne gestion des pneus, ce qui le place comme challenger direct. Lewis Hamilton, malgré une sixième place à Singapour, possède l’expérience et la performanc",
-      "reasoning_en": "Max Verstappen starts from pole after his Austin win and outstanding qualifying pace, confirming his dominance at COTA. Charles Leclerc topped the free‑practice sessions, displaying blistering one‑lap speed and strong tyre management, positioning him as the main challenger. Lewis Hamilton, despite finishing sixth in Singapore, brings Ferrari’s race experience and pace, enabling him to fight for a ",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance, et la Mercedes progresse à Austin d'après ses propres mots. Verstappen sort d'un début de week-end prometteur sur un circuit qu'il connaît bien, même si le moteur Honda reste un doute. Russell, sur la deuxième Mercedes, devrait devancer des Ferrari régulières mais moins rapides.",
+      "reasoning_en": "Antonelli leads the championship by 102 points, and he says Mercedes has improved in Austin. Verstappen had a promising start to the weekend at a track he knows well, though the Honda engine is still a question mark. Russell, in the second Mercedes, should finish ahead of Ferraris that are consistent but slower.",
       "confidence": "medium",
-      "key_factor_fr": "Pole + rythme de course à COTA",
+      "key_factor_fr": "Avance de Mercedes face à la fiabilité Honda incertaine",
       "news_used_ids": [],
-      "generated_at": "2026-10-24T02:52:12Z"
+      "generated_at": "2026-10-24T13:00:12Z"
+    },
+    {
+      "event_id": "mexico_city_qualifying",
+      "race_id": "mexico_city",
+      "session_type": "qualifying",
+      "session_date": "2026-10-31T21:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance, et Mercedes a encore progressé à Austin. À Mexico, l'altitude (2 240 m) réduit l'appui et sollicite le refroidissement et le moteur, ce qui avantage le moteur Mercedes. Russell reste un qualifieur très régulier. Verstappen semble retrouver de la vitesse, mais Red Bull cherche encore son équilibre et Honda a des soucis de fiabilité.",
+      "reasoning_en": "Antonelli leads the championship by 102 points, and Mercedes made further progress in Austin. In Mexico City, the altitude (2,240 m) cuts downforce and stresses cooling and the power unit, which suits the Mercedes engine. Russell remains a very consistent qualifier. Verstappen looks to be finding pace again, but Red Bull is still searching for balance and Honda has reliability issues.",
+      "confidence": "medium",
+      "key_factor_fr": "Altitude et efficacité du moteur Mercedes, Antonelli en confiance",
+      "news_used_ids": [],
+      "generated_at": "2026-10-24T13:00:31Z"
     }
   ]
 }
