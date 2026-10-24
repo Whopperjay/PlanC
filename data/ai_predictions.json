@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T13:00:27Z",
-  "model": "claude",
+  "generated_at": "2026-10-24T02:52:27Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -82,30 +82,30 @@
       "race_id": "united_states",
       "session_type": "qualifying",
       "session_date": "2026-10-24T21:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 340 points et 102 d'avance, signe que la Mercedes est la référence sur un tour. Russell, deuxième du championnat, reste son rival le plus direct dans la même voiture. Verstappen excelle historiquement à COTA et peut glisser la Red Bull sur la première ligne. Les bosses d'Austin gênent Norris et pénalisent McLaren.",
-      "reasoning_en": "Antonelli leads 2026 with 340 points and a 102-point margin, which shows the Mercedes is the benchmark over one lap. Russell, second in the standings, is his most direct rival in the same car. Verstappen has a strong record at COTA and could put the Red Bull on the front row. Austin's bumps trouble Norris and hurt McLaren.",
-      "confidence": "medium",
-      "key_factor_fr": "Mercedes et Antonelli dominent le tour lancé en 2026",
+      "p1": "max_verstappen",
+      "p2": "leclerc",
+      "p3": "antonelli",
+      "reasoning_fr": "Le Verstappen a démontré une supériorité claire à Austin, remportant la course malgré des problèmes de vision, ce qui montre son rythme exceptionnel sur le circuit. Leclerc a mené la séance FP2, à seulement 0,1 s du pole, confirmant sa vitesse à chaud. Antonelli, leader du championnat, s’est classé 4e à Singapour mais était deuxième en FP2 à COTA, indiquant une forte évolution de la piste. Ainsi, ",
+      "reasoning_en": "Verstappen showed clear dominance at Austin, winning the race despite vision problems, confirming his one‑lap speed on this circuit. Leclerc topped FP2, only 0.1 s off the fastest time, proving his hot‑lap pace. Antonelli, the championship leader, qualified fourth in Singapore but was second in the COTA FP2, indicating rapid track evolution and strong single‑lap performance. Considering recent qua",
+      "confidence": "high",
+      "key_factor_fr": "Rythme récent en qualification et FP2 à Austin",
       "news_used_ids": [],
-      "generated_at": "2026-10-23T13:00:27Z"
+      "generated_at": "2026-10-24T02:52:26Z"
     },
     {
       "event_id": "united_states_grand_prix",
       "race_id": "united_states",
       "session_type": "grand_prix",
       "session_date": "2026-10-25T20:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 102 points d'avance, et la Mercedes reste la référence. Russell, deuxième du championnat, devrait suivre. Verstappen excelle historiquement à COTA, dont il a remporté plusieurs éditions, et le profil bosselé favorise sa maîtrise. Ferrari reste menaçante avec Hamilton et Leclerc. McLaren semble déstabilisée après Singapour, et Norris souffre des bosses d'Austin.",
-      "reasoning_en": "Antonelli dominates 2026 with a 102-point lead, and Mercedes remains the benchmark. Russell, second in the standings, should follow. Verstappen has a strong history at COTA, with several wins there, and the bumpy layout suits his car control. Ferrari remains a threat with Hamilton and Leclerc. McLaren looks unsettled after Singapore, and Norris struggles with Austin's bumps.",
+      "p1": "max_verstappen",
+      "p2": "leclerc",
+      "p3": "hamilton",
+      "reasoning_fr": "Max Verstappen part en pole après sa victoire à Austin et son rythme exceptionnel en qualification, confirmant sa supériorité sur le COTA. Charles Leclerc a dominé les séances d’essais libres, montrant une excellente vitesse d’une tour et une bonne gestion des pneus, ce qui le place comme challenger direct. Lewis Hamilton, malgré une sixième place à Singapour, possède l’expérience et la performanc",
+      "reasoning_en": "Max Verstappen starts from pole after his Austin win and outstanding qualifying pace, confirming his dominance at COTA. Charles Leclerc topped the free‑practice sessions, displaying blistering one‑lap speed and strong tyre management, positioning him as the main challenger. Lewis Hamilton, despite finishing sixth in Singapore, brings Ferrari’s race experience and pace, enabling him to fight for a ",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes et expertise de Verstappen à COTA",
+      "key_factor_fr": "Pole + rythme de course à COTA",
       "news_used_ids": [],
-      "generated_at": "2026-10-23T13:00:19Z"
+      "generated_at": "2026-10-24T02:52:12Z"
     }
   ]
 }
