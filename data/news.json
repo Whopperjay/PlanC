@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T02:52:04Z",
+  "last_updated": "2026-10-24T05:54:03Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -155,6 +155,25 @@
       "summary_en": "Charles Leclerc topped FP2 at the Circuit of the Americas, beating Kimi Antonelli by 0.1 second with a 1m35.291s lap, ahead of Max Verstappen's initial benchmark."
     },
     {
+      "id": "745c8ff6540b",
+      "title": "Leclerc stays on top in second practice at COTA, narrowly ahead of Antonelli | Formula 1",
+      "title_fr": "Leclerc domine la deuxième séance de test à COTA, Antonelli à ses trousses",
+      "title_en": "Leclerc leads second practice at COTA, Antonelli close behind",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/leclerc-stays-on-top-in-second-practice-at-cota-narrowly-ahead-of-antonelli/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-12-48-29-5-10-friday-austin-2026.jpg",
+      "published_at": "2026-10-23T22:03:55+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a conservé la tête lors de la deuxième séance de test à Austin, avec Andrea Kimi Antonelli à peine derrière. Le pilote Ferrari reste le modèle à battre.",
+      "summary_en": "Charles Leclerc kept the top spot in second practice at Austin, with Andrea Kimi Antonelli close behind. The Ferrari driver remains the benchmark to beat."
+    },
+    {
       "id": "995aa2019647",
       "title": "Kimi Antonelli reacts to prospect of breaking Sebastian Vettel's F1 record",
       "title_fr": "Antonelli évoque la possibilité de battre le record de Vettel",
@@ -210,6 +229,25 @@
       "is_breaking": false,
       "summary_fr": "Having two incredibly fast drivers in top-tier machinery is exactly what every Formula 1 team principal dreams of. But, as McLaren is quickly finding out, having two hyper-competitive alphas fighting ",
       "summary_en": "Having two incredibly fast drivers in top-tier machinery is exactly what every Formula 1 team principal dreams of. But, as McLaren is quickly finding out, having two hyper-competitive alphas fighting "
+    },
+    {
+      "id": "250a49bf840c",
+      "title": "Featured comment: Russell is unlikely to get a better chance to win the title | Briefs",
+      "title_fr": "Russell ne verra pas de meilleure chance de titre",
+      "title_en": "Russell unlikely to get a better chance to win the title",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/featured-comment-russell-is-unlikely-to-get-a-better-chance-to-win-the-title/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-23-11-40-52-1-M622665_Dutch_Grand_Prix__Sunday.jpg",
+      "published_at": "2026-10-23T20:34:58+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Russell a peut-être manqué sa meilleure occasion de remporter le championnat. Les experts estiment qu'il n'a plus de chances de gagner le titre.",
+      "summary_en": "The driver Russell may have missed his best opportunity to win the championship. Experts say he no longer has a realistic chance of taking the title."
     },
     {
       "id": "e4c9f37cc044",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Lewis Hamilton a remporté la course d'Austin, réduisant son déficit de points. Une période de VSC a toutefois donné un avantage à Nico Rosberg dans la bataille du championnat.",
       "summary_en": "Lewis Hamilton won the Austin race, cutting his points deficit. A VSC period, however, gave Nico Rosberg a boost in the championship battle."
-    },
-    {
-      "id": "6470cf95e659",
-      "title": "Approach African GP with humility, says Hamilton",
-      "title_fr": "Hamilton appelle a la modestie pour le Grand Prix africain",
-      "title_en": "Hamilton urges humility for African Grand Prix",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b61c/live/985c86b0-ce67-11f1-ab75-d744dbb6f3f7.jpg",
-      "published_at": "2026-10-22T22:47:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a declare que le Grand Prix africain au Rwanda doit etre abordee avec humilite, soulignant les preoccupations relatives aux droits humains",
-      "summary_en": "Lewis Hamilton said the African Grand Prix in Rwanda should be approached with humility, citing human rights concerns."
-    },
-    {
-      "id": "451722504f03",
-      "title": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
-      "title_fr": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
-      "title_en": "Lando Norris backs Max Verstappen over COTA bumps, reveals headache tablet use",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-backs-max-verstappen-over-cota-bumps-reveals-headache-tablet-use/10867187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/63QaLpE2/s6/72945935-35.jpg",
-      "published_at": "2026-10-22T22:38:50+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris has backed Max Verstappen as he says the bumps at some Formula 1 circuits, including the Circuit of the Americas, are so bad that he takes headache tablets before he starts driving.<br />",
-      "summary_en": "Lando Norris has backed Max Verstappen as he says the bumps at some Formula 1 circuits, including the Circuit of the Americas, are so bad that he takes headache tablets before he starts driving.<br />"
     }
   ]
 }
