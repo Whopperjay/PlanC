@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T15:00:03Z",
+  "last_updated": "2026-10-24T18:02:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -39,6 +39,25 @@
       "is_breaking": false,
       "summary_fr": "The US GP weekend naturally means the spotlight gravitates towards Formula 1’s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculation over its driver li",
       "summary_en": "The US GP weekend naturally means the spotlight gravitates towards Formula 1’s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculation over its driver li"
+    },
+    {
+      "id": "8b7f4a57e968",
+      "title": "The intrigue caused by Cadillac's F1 boss dodging driver market question",
+      "title_fr": "Cadillac évite les questions sur la composition de son équipe",
+      "title_en": "Cadillac sidesteps driver lineup questions",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-intrigued-caused-by-cadillacs-f1-boss-dodging-driver-market-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNWzL2/s6/valtteri-bottas-cadillac-racin-2.jpg",
+      "published_at": "2026-10-24T13:00:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Cadillac évite de répondre aux interrogations sur la future composition de l'équipe pour 2027, alors que les contrats de Sergio Pérez et Valtteri Bottas restent en place.",
+      "summary_en": "Cadillac's F1 boss sidesteps questions about the team's 2027 driver lineup, while Sergio Pérez and Valtteri Bottas remain under multi-year contracts."
     },
     {
       "id": "ebb3429dc0f7",
@@ -134,6 +153,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen finished Friday's practice sessions for the Formula 1 United States Grand Prix in second and third place. In both sessions, the four-time world champion was less than two tenths behind ",
       "summary_en": "Max Verstappen finished Friday's practice sessions for the Formula 1 United States Grand Prix in second and third place. In both sessions, the four-time world champion was less than two tenths behind "
+    },
+    {
+      "id": "bc039c641433",
+      "title": "Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement",
+      "title_fr": "Verstappen prometteur en Grand Prix des États‑Unis",
+      "title_en": "Verstappen shows promise in US GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9EmkPY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-24T08:12:42+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a terminé deuxième puis troisième lors des séances de formation du Grand Prix des États‑Unis, juste moins de deux dixièmes devant Charles Leclerc. Red Bull n’est pas encore dominant, mais le pilote reste solide.",
+      "summary_en": "Max Verstappen finished second and third in Friday’s practice for the United States Grand Prix, just under two-tenths behind Charles Leclerc. Red Bull is not yet dominant, but the driver remains strong."
     },
     {
       "id": "88646825f433",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le Circuit de Catalunya accueillera une course IndyCar en 2027, remplaçant son absence de Formule 1.",
       "summary_en": "The Circuit de Catalunya will host an IndyCar race in 2027, filling the gap left by the loss of its Formula 1 Grand Prix."
-    },
-    {
-      "id": "6b07ca0d662e",
-      "title": "George Russell: F1 2026 season a test of \"character and resilience\"",
-      "title_fr": "George Russell: F1 2026 season a test of \"character and resilience\"",
-      "title_en": "George Russell: F1 2026 season a test of \"character and resilience\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/russell-f1-2026-season-a-test-of-character-and-resilience/10867173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/63QaLW72/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-10-23T11:06:19+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell feels that the 2026 Formula 1 season has been a test of his resolve as his championship hopes have all but slipped away, but feels his soul-searching across the year has led him to a br",
-      "summary_en": "George Russell feels that the 2026 Formula 1 season has been a test of his resolve as his championship hopes have all but slipped away, but feels his soul-searching across the year has led him to a br"
-    },
-    {
-      "id": "7a98f8299d92",
-      "title": "Norris “got plenty of telling-offs” from McLaren over Singapore collision with Piastri | Formula 1",
-      "title_fr": "Norris reproche à McLaren de la collision à Singapour",
-      "title_en": "Norris blames McLaren over Singapore collision",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/23/norris-got-plenty-of-telling-offs-from-mclaren-over-singapore-collision-with-piastri/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-22-16-22-22-2-2301539962.jpg",
-      "published_at": "2026-10-23T09:58:53+00:00",
-      "race_id": "singapore",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a déclaré que McLaren lui a fait comprendre qu'il ne doit pas répéter la collision qui a eu lieu à Singapour entre ses pilotes. Le constructeur insiste sur la sécurité.",
-      "summary_en": "Lando Norris said McLaren made it clear there must be no repeat of the collision that happened in Singapore between its drivers. The team stresses safety."
     }
   ]
 }
