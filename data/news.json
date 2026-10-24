@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-24T08:56:02Z",
+  "last_updated": "2026-10-24T11:58:01Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "1e505179ecc4",
+      "title": "\"Just undriveable\" – Isack Hadjar looking for answers after \"massive\" struggles in Austin practice",
+      "title_fr": "Red Bull cherche l'équilibre après la pratique à Austin",
+      "title_en": "Red Bull seeks balance after Austin practice",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YN7vAKb6/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-10-24T10:30:02+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a exprimé sa satisfaction quant aux premiers résultats du RB22, mais a souligné que l'équilibre entre les virages rapides et lents doit encore être amélioré. Isack Hadjar a connu des difficultés majeures en pratique.",
+      "summary_en": "Max Verstappen expressed satisfaction with the early results of the RB22, but said the balance between high-speed and low-speed corners still needs improvement. Isack Hadjar faced massive struggles in practice."
+    },
+    {
+      "id": "0ee57fd7abc8",
+      "title": "The unexpected problem Honda encountered despite its second F1 power unit upgrade",
+      "title_fr": "Honda subit un problème inattendu après la mise à jour du moteur",
+      "title_en": "Honda faces unexpected issue after second power unit upgrade",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7Bqdo2/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-10-24T09:30:02+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Après un week-end réussi à Malaisie, les attentes étaient élevées pour l'AMR26 à Singapour. Mais Fernando Alonso a signalé des problèmes de la puissance Honda, malgré la seconde mise à jour du moteur.",
+      "summary_en": "After a successful weekend in Malaysia, expectations were high for the AMR26 in Singapore. However, Fernando Alonso highlighted issues with the Honda power unit, despite the second upgrade."
+    },
+    {
+      "id": "d5132d5486dc",
+      "title": "The unexpected issue Honda faced with upgraded F1 power unit",
+      "title_fr": "Alonso critique l'unité Honda après Singapore",
+      "title_en": "Alonso Criticises Honda Unit After Singapore",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/24QGlpeY/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": "2026-10-24T09:30:02+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Après un week-end réussi à Malaisie, les attentes étaient élevées pour Singapore. Fernando Alonso a dénoncé des problèmes de l'unité de puissance Honda, ce qui a freiné l'Aston Martin.",
+      "summary_en": "After a successful weekend in Malaysia, expectations were high for Singapore. Fernando Alonso criticized Honda's power unit, hampering Aston Martin's performance."
+    },
     {
       "id": "a3645e172c13",
       "title": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
@@ -421,6 +478,25 @@
       "summary_en": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.<br />Leclerc was just under a tenth faster than Verstappen in a"
     },
     {
+      "id": "18b0de92a144",
+      "title": "Leclerc puts upgraded Ferrari on top ahead of Verstappen in first practice | Formula 1",
+      "title_fr": "Leclerc conduit la Ferrari améliorée en tête de la première séance de pratique au Circuit des Amériques",
+      "title_en": "Leclerc leads first practice at COTA with upgraded Ferrari",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/23/leclerc-puts-upgraded-ferrari-on-top-ahead-of-verstappen-in-first-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-12-45-23-2-3-friday-austin-2026.jpg",
+      "published_at": "2026-10-23T18:36:51+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a mené la première séance de pratique au Circuit des Amériques, la Ferrari améliorée battant Max Verstappen qui l'a suivi de près.",
+      "summary_en": "Charles Leclerc topped the first practice session at the Circuit of the Americas, with the upgraded Ferrari beating Max Verstappen who followed closely."
+    },
+    {
       "id": "90aca0dd2986",
       "title": "Toto Wolff’s son walks away from a terrifying go-kart crash, demands to race tomorrow",
       "title_fr": "Jack Wolff, 9 ans, sort d'un grave accident de kart",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell déclare que 2026 ne sera pas son dernier espoir de champion, même si Andrea Kimi Antonelli remporte le titre ce week-end.",
       "summary_en": "George Russell says 2026 won’t be his last shot at the title, even if Andrea Kimi Antonelli clinches the championship this weekend."
-    },
-    {
-      "id": "d693cae1f090",
-      "title": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
-      "title_fr": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
-      "title_en": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9ENP1Y/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-10-23T09:17:33+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Circuit of The Americas' bumpy surface remains a contentious issue even though the latest generation of Formula 1 cars were intended to ride less harshly. Ahead of the 2026 US GP, Max Verstappen d",
-      "summary_en": "The Circuit of The Americas' bumpy surface remains a contentious issue even though the latest generation of Formula 1 cars were intended to ride less harshly. Ahead of the 2026 US GP, Max Verstappen d"
-    },
-    {
-      "id": "ad9ad3ea0063",
-      "title": "Why it's now Oliver Bearman versus Rafael Camara for the next Ferrari vacancy",
-      "title_fr": "Bearman ou Camara, la prochaine recrue de Ferrari",
-      "title_en": "Bearman or Camara, Ferrari's next driver",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-versus-rafael-camara-for-the-next-ferrari-vacancy/10867132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BN3v2/s6/oliver-bearman-haas-f1-team.jpg",
-      "published_at": "2026-10-23T07:48:54+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oliver Bearman, membre de l'Académie Ferrari, et Rafael Camara, pilote de l'Académie, se disputent la prochaine place de course chez Ferrari. Le moment de la succession reste incertain.",
-      "summary_en": "Oliver Bearman, a Ferrari Academy member, and Rafael Camara, a junior driver, vie for the next race seat at Ferrari. Timing of the succession remains uncertain."
-    },
-    {
-      "id": "308afe718171",
-      "title": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
-      "title_fr": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
-      "title_en": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-its-now-bearman-versus-camara-for-the-next-ferrari-vacancy/10867288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/25dLQGn0/s6/oliver-bearman-haas-f1-team-2.jpg",
-      "published_at": "2026-10-23T07:48:41+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Succession planning is one of the more subtle arts of the Formula 1 team boss. All the top teams maintain junior-driver programmes with the explicit intention of developing talent for when a race seat",
-      "summary_en": "Succession planning is one of the more subtle arts of the Formula 1 team boss. All the top teams maintain junior-driver programmes with the explicit intention of developing talent for when a race seat"
-    },
-    {
-      "id": "df5cb3bc0a60",
-      "title": "Antonelli’s second-year title bid reminds Hamilton of his first seasons in F1 | Formula 1",
-      "title_fr": "Hamilton félicite Antonelli, futur champion Mercedes",
-      "title_en": "Hamilton praises Antonelli as future Mercedes champion",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/23/antonellis-second-year-title-bid-reminds-hamilton-of-his-first-seasons-in-f1/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-14-20-31-10-3-M606211_Barcelona_Catalunya_Grand_Prix__Sunday__Sebastian_Kawka.jpg",
-      "published_at": "2026-10-23T06:15:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que Andrea Kimi Antonelli, son successeur à Mercedes, pourrait devenir champion du monde. Le pilote rappelle ses débuts en F1.",
-      "summary_en": "Lewis Hamilton says Andrea Kimi Antonelli, his Mercedes successor, could become a world champion. The driver recalls his early F1 seasons."
     }
   ]
 }
