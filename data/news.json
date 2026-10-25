@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T06:10:21Z",
+  "last_updated": "2026-10-25T09:12:21Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -364,6 +364,25 @@
       "summary_en": "Jeremy Clarkson had a single interview with Sky Sports F1 and yet it still resulted in chaos. The Clarkson's Farm presenter discussed a multitude of subjects with Martin Brundle, Naomi Schiff and Simo"
     },
     {
+      "id": "6f7d0df3f907",
+      "title": "Ferrari were in contention “until the last corner of Q3” after strong practice – Vasseur | Formula 1",
+      "title_fr": "Ferrari were in contention “until the last corner of Q3” after strong practice – Vasseur | Formula 1",
+      "title_en": "Ferrari were in contention “until the last corner of Q3” after strong practice – Vasseur | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/24/ferrari-were-in-contention-until-the-last-corner-of-q3-after-strong-practice-vasseur/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-19-45-44-2-261023_R18_USA_DP_261023_R18_USA_DP_XR1_7636.jpg",
+      "published_at": "2026-10-24T22:33:26+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari team principal Frederic Vasseur admitted he expected more from qualifying after his drivers headed all three sessions in practice.",
+      "summary_en": "Ferrari team principal Frederic Vasseur admitted he expected more from qualifying after his drivers headed all three sessions in practice."
+    },
+    {
       "id": "63da38c6811b",
       "title": "F1 2026 qualifying head-to-head: United States GP",
       "title_fr": "Qualif 2026 : le duel tête à tête des équipes aux États-Unis",
@@ -419,6 +438,44 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a remporté le pole position aux États‑Unis, battant Max Verstappen de Red Bull. George Russell a terminé à la sixième place.",
       "summary_en": "Kimi Antonelli secured pole in the United States, beating Max Verstappen of Red Bull. George Russell finished sixth."
+    },
+    {
+      "id": "8bd2e47816ae",
+      "title": "Antonelli beats Red Bull pair to pole position in Austin | 2026 United States GP qualifying report",
+      "title_fr": "Antonelli beats Red Bull pair to pole position in Austin | 2026 United States GP qualifying report",
+      "title_en": "Antonelli beats Red Bull pair to pole position in Austin | 2026 United States GP qualifying report",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/24/antonelli-beats-red-bull-pair-to-pole-position-in-austin/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-53-40-5-M642724_F1_Grand_Prix_of_United_States_Qualifying.jpg",
+      "published_at": "2026-10-24T22:11:50+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli will share the front row of the grid for the United States Grand Prix with Max Verstappen.",
+      "summary_en": "Andrea Kimi Antonelli will share the front row of the grid for the United States Grand Prix with Max Verstappen."
+    },
+    {
+      "id": "ea17a8210bae",
+      "title": "2026 United States Grand Prix grid | Formula 1",
+      "title_fr": "Antonelli en pole provisoire pour le Grand Prix des États-Unis",
+      "title_en": "Antonelli takes provisional pole for US Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/24/2026-united-states-grand-prix-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-13-04-20-4-31-friday-austin-2026.jpg",
+      "published_at": "2026-10-24T22:04:24+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a franchi la ligne d’arrivée en pole provisoire pour le Grand Prix des États-Unis, devant Max Verstappen et Isack Hadjar. Le pilote Mercedes se prépare à la course.",
+      "summary_en": "Andrea Kimi Antonelli secured provisional pole for the United States Grand Prix, beating Max Verstappen and Isack Hadjar. The Mercedes driver is set to start the race from the front."
     },
     {
       "id": "651c03084ee3",
@@ -533,6 +590,25 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a mené la troisième séance d’essai du Grand Prix des États-Unis, franchissant la barre des 1m35s, tandis que Charles Leclerc, limité par des dépassements de limites de piste, ne l’a dépassé.",
       "summary_en": "Lewis Hamilton topped the final practice at the United States Grand Prix, breaking the 1m35s barrier, while Charles Leclerc was held back by track‑limit infringements and could not overtake him."
+    },
+    {
+      "id": "4d61955f56c9",
+      "title": "Hamilton leads final practice after spate of track limits violations | Formula 1",
+      "title_fr": "Hamilton mène la dernière séance de pratique après violations de limites de piste",
+      "title_en": "Hamilton leads final practice after track limits violations",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/24/hamilton-leads-final-practice-after-spate-of-track-limits-violations/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-20-11-35-4-261023_R18_USA_DP_XR1_7976.jpg",
+      "published_at": "2026-10-24T18:41:55+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a mené la dernière séance de pratique du Circuit of the Americas, malgré une série de violations de limites de piste. Ferrari a dominé les trois sessions précédentes.",
+      "summary_en": "Lewis Hamilton led the final practice session at the Circuit of the Americas, following a spate of track limits violations. Ferrari had swept all three earlier sessions."
     },
     {
       "id": "770f304b969e",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a exprimé sa satisfaction quant aux premiers résultats du RB22, mais a souligné que l'équilibre entre les virages rapides et lents doit encore être amélioré. Isack Hadjar a connu des difficultés majeures en pratique.",
       "summary_en": "Max Verstappen expressed satisfaction with the early results of the RB22, but said the balance between high-speed and low-speed corners still needs improvement. Isack Hadjar faced massive struggles in practice."
-    },
-    {
-      "id": "0ee57fd7abc8",
-      "title": "The unexpected problem Honda encountered despite its second F1 power unit upgrade",
-      "title_fr": "Honda subit un problème inattendu après la mise à jour du moteur",
-      "title_en": "Honda faces unexpected issue after second power unit upgrade",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7Bqdo2/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-10-24T09:30:02+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Après un week-end réussi à Malaisie, les attentes étaient élevées pour l'AMR26 à Singapour. Mais Fernando Alonso a signalé des problèmes de la puissance Honda, malgré la seconde mise à jour du moteur.",
-      "summary_en": "After a successful weekend in Malaysia, expectations were high for the AMR26 in Singapore. However, Fernando Alonso highlighted issues with the Honda power unit, despite the second upgrade."
-    },
-    {
-      "id": "d5132d5486dc",
-      "title": "The unexpected issue Honda faced with upgraded F1 power unit",
-      "title_fr": "Alonso critique l'unité Honda après Singapore",
-      "title_en": "Alonso Criticises Honda Unit After Singapore",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/24QGlpeY/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": "2026-10-24T09:30:02+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Après un week-end réussi à Malaisie, les attentes étaient élevées pour Singapore. Fernando Alonso a dénoncé des problèmes de l'unité de puissance Honda, ce qui a freiné l'Aston Martin.",
-      "summary_en": "After a successful weekend in Malaysia, expectations were high for Singapore. Fernando Alonso criticized Honda's power unit, hampering Aston Martin's performance."
-    },
-    {
-      "id": "a3645e172c13",
-      "title": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
-      "title_fr": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
-      "title_en": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6n7bdem0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-24T08:12:42+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen finished Friday's practice sessions for the Formula 1 United States Grand Prix in second and third place. In both sessions, the four-time world champion was less than two tenths behind ",
-      "summary_en": "Max Verstappen finished Friday's practice sessions for the Formula 1 United States Grand Prix in second and third place. In both sessions, the four-time world champion was less than two tenths behind "
-    },
-    {
-      "id": "bc039c641433",
-      "title": "Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement",
-      "title_fr": "Verstappen prometteur en Grand Prix des États‑Unis",
-      "title_en": "Verstappen shows promise in US GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YE9EmkPY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-24T08:12:42+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a terminé deuxième puis troisième lors des séances de formation du Grand Prix des États‑Unis, juste moins de deux dixièmes devant Charles Leclerc. Red Bull n’est pas encore dominant, mais le pilote reste solide.",
-      "summary_en": "Max Verstappen finished second and third in Friday’s practice for the United States Grand Prix, just under two-tenths behind Charles Leclerc. Red Bull is not yet dominant, but the driver remains strong."
     }
   ]
 }
