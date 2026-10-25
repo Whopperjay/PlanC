@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-24T21:04:04Z",
+  "last_updated": "2026-10-25T00:06:05Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f5d2e33cd6d0",
+      "title": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
+      "title_fr": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
+      "title_en": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-ferrari-couldnt-challenge-for-pole-in-us-gp-qualifying/10868050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/27No4aX0/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-10-24T23:53:54+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through",
+      "summary_en": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through"
+    },
+    {
+      "id": "700ebd05915c",
+      "title": "Isack Hadjar rues \"disaster of a weekend\" despite US GP qualifying turnaround",
+      "title_fr": "Hadjar se remet de la catastrophe du week-end pour viser Antonelli",
+      "title_en": "Hadjar bounces back from disastrous weekend to target Antonelli",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-rues-disaster-of-a-weekend-despite-us-gp-qualifying-turnaround/10868055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGg4B7Y/s6/motorsport-com-graphics-9.jpg",
+      "published_at": "2026-10-24T23:50:40+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar, pilote de Red Bull, a surmonté un week-end catastrophique pour se rapprocher de la pole position d'Antonelli, se situant à 0,036 seconde de Verstappen et à 0,215 seconde de la pole.",
+      "summary_en": "Isack Hadjar, Red Bull's driver, bounced back from a disastrous weekend to close in on Antonelli's pole, finishing 0.036 seconds behind teammate Max Verstappen and 0.215 seconds off the pole time."
+    },
+    {
+      "id": "e411fe4343e0",
+      "title": "Oscar Piastri warns COTA bumps could become an overtaking hazard at US GP",
+      "title_fr": "Piastri alerte sur le rebond du Circuit des Amériques qui pourrait gêner les dépassements",
+      "title_en": "Piastri warns COTA bump could become overtaking hazard",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-compares-cota-bump-to-a-motocross-jump-after-us-gp-qualifying/10868037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8pr56/s6/motorsport-com-graphics-8.jpg",
+      "published_at": "2026-10-24T23:27:55+00:00",
+      "race_id": "australia",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri, qualifié septième au Grand Prix des États-Unis, a comparé le rebond avant le virage 1 du Circuit des Amériques à un saut de motocross, craignant qu’il ne devienne un danger pour les dépassements",
+      "summary_en": "Oscar Piastri, who qualified seventh at the US GP, likened the bump before Turn 1 at the Circuit of the Americas to a motocross jump, warning it could become a hazard for overtaking"
+    },
+    {
+      "id": "5c1f9372f27e",
+      "title": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
+      "title_fr": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
+      "title_en": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-laments-very-bad-job-in-qualifying-for-f1-united-states-gp/10868026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVPqOG0/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-10-24T23:24:56+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris was incredibly frustrated by his “very bad job” in qualifying for Formula 1’s United States Grand Prix as he took eighth despite thinking a front row was possible.<br />The reigning world",
+      "summary_en": "Lando Norris was incredibly frustrated by his “very bad job” in qualifying for Formula 1’s United States Grand Prix as he took eighth despite thinking a front row was possible.<br />The reigning world"
+    },
+    {
+      "id": "937a5b8a8b84",
+      "title": "Max Verstappen refuses to celebrate US GP qualifying result: 'No need to smile'",
+      "title_fr": "Verstappen refuse de célébrer sa deuxième place aux États-Unis",
+      "title_en": "Verstappen Refuses to Celebrate Second Place in US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-refuses-to-celebrate-us-gp-qualifying-result-no-need-to-smile/10868029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9E4MKY/s6/motorsport-com-graphics-17.jpg",
+      "published_at": "2026-10-24T23:22:41+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen, pilote de Red Bull, a refusé de célébrer sa deuxième place en qualification aux États-Unis, déclarant qu’il n’était pas nécessaire de sourire. Le pole a été remporté par Kimi Antonelli.",
+      "summary_en": "Max Verstappen, Red Bull driver, declined to celebrate his second-place qualifying result in the United States, saying there was no need to smile. Kimi Antonelli took pole."
+    },
+    {
+      "id": "ec2b4e43bbbb",
+      "title": "F1 United States GP: Sunday schedule, weather forecast and how to watch",
+      "title_fr": "F1 United States GP: Sunday schedule, weather forecast and how to watch",
+      "title_en": "F1 United States GP: Sunday schedule, weather forecast and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-sunday-schedule-weather-forecast-and-how-to-watch/10868006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0R7BRdM2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-24T22:43:26+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 heads into Sunday at Circuit of the Americas with Kimi Antonelli on pole and his first chance to clinch the 2026 world championship.<br />Antonelli starts ahead of Max Verstappen and Isack H",
+      "summary_en": "Formula 1 heads into Sunday at Circuit of the Americas with Kimi Antonelli on pole and his first chance to clinch the 2026 world championship.<br />Antonelli starts ahead of Max Verstappen and Isack H"
+    },
+    {
+      "id": "b33ae2953ea9",
+      "title": "2026 F1 United States Grand Prix starting grid",
+      "title_fr": "Antonelli ouvre le grid du Grand Prix d'USA 2026",
+      "title_en": "Antonelli leads 2026 US GP starting grid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-starting-grid/10867999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/63QaoqD2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-10-24T22:34:31+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli de Mercedes démarre premier sur le grid du Grand Prix d'USA 2026, suivi de Max Verstappen et Isack Hadjar de Red Bull. Charles Leclerc occupe la quatrième place.",
+      "summary_en": "Kimi Antonelli of Mercedes starts on pole for the 2026 US GP, followed by Max Verstappen and Isack Hadjar of Red Bull. Charles Leclerc takes fourth."
+    },
+    {
+      "id": "fabc092d40d7",
+      "title": "Jeremy Clarkson causes a stir with Franco Colapinto and Kim Kardashian comments",
+      "title_fr": "Jeremy Clarkson causes a stir with Franco Colapinto and Kim Kardashian comments",
+      "title_en": "Jeremy Clarkson causes a stir with Franco Colapinto and Kim Kardashian comments",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/jeremy-clarkson-causes-a-stir-with-franco-colapinto-and-kim-kardashian-comments/10868001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyzPa6/s6/motorsport-com-graphics-16.jpg",
+      "published_at": "2026-10-24T22:33:56+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Jeremy Clarkson had a single interview with Sky Sports F1 and yet it still resulted in chaos. The Clarkson's Farm presenter discussed a multitude of subjects with Martin Brundle, Naomi Schiff and Simo",
+      "summary_en": "Jeremy Clarkson had a single interview with Sky Sports F1 and yet it still resulted in chaos. The Clarkson's Farm presenter discussed a multitude of subjects with Martin Brundle, Naomi Schiff and Simo"
+    },
+    {
+      "id": "63da38c6811b",
+      "title": "F1 2026 qualifying head-to-head: United States GP",
+      "title_fr": "Qualif 2026 : le duel tête à tête des équipes aux États-Unis",
+      "title_en": "2026 US GP Qualifying Head‑to‑Head",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-united-states-gp/10867454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0arENRM2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-24T22:20:58+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Motorsport.com publie un tableau comparatif des batailles entre coéquipiers en qualification, excluant les pénalités de grille. Les incidents techniques ou accidents sont indiqués dans le tableau.",
+      "summary_en": "Motorsport.com releases a head‑to‑head table of teammate battles in qualifying, ignoring grid penalties. Technical glitches or incidents are noted in the chart."
+    },
+    {
+      "id": "7881cddb142d",
+      "title": "F1 United States GP: Kimi Antonelli takes pole with George Russell sixth",
+      "title_fr": "Antonelli décroche le pole aux États-Unis, Russell sixième",
+      "title_en": "Antonelli takes pole in the United States, Russell sixth",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonell-takes-pole/10867975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9E4eKY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-10-24T22:13:08+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté le pole position aux États‑Unis, battant Max Verstappen de Red Bull. George Russell a terminé à la sixième place.",
+      "summary_en": "Kimi Antonelli secured pole in the United States, beating Max Verstappen of Red Bull. George Russell finished sixth."
+    },
     {
       "id": "a464d113fd2c",
       "title": "Kimi Antonelli caught on camera hitting fence in Mercedes road car at US GP",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton reconnaît que Red Bull a construit un moteur supérieur à celui de Mercedes et Ferrari, prouvant qu'il était possible de dépasser ses attentes. Le partenariat avec Ford a permis de créer le moteur de référence de la FIA.",
       "summary_en": "Lewis Hamilton admits that Red Bull built a superior engine to Mercedes and Ferrari, proving it was possible to exceed his expectations. The partnership with Ford enabled the creation of the FIA benchmark engine."
-    },
-    {
-      "id": "8a0e33fcfe59",
-      "title": "Lando Norris reveals “plenty of telling-offs” after Singapore Oscar Piastri crash",
-      "title_fr": "Lando Norris reveals “plenty of telling-offs” after Singapore Oscar Piastri crash",
-      "title_en": "Lando Norris reveals “plenty of telling-offs” after Singapore Oscar Piastri crash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-he-got-plenty-of-telling-offs-after-singapore-crash-with-piastri/10867463/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6VyKANGY/s6/motorsport-com-graphics-8-2.jpg",
-      "published_at": "2026-10-23T20:54:51+00:00",
-      "race_id": "singapore",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Having two incredibly fast drivers in top-tier machinery is exactly what every Formula 1 team principal dreams of. But, as McLaren is quickly finding out, having two hyper-competitive alphas fighting ",
-      "summary_en": "Having two incredibly fast drivers in top-tier machinery is exactly what every Formula 1 team principal dreams of. But, as McLaren is quickly finding out, having two hyper-competitive alphas fighting "
-    },
-    {
-      "id": "250a49bf840c",
-      "title": "Featured comment: Russell is unlikely to get a better chance to win the title | Briefs",
-      "title_fr": "Russell ne verra pas de meilleure chance de titre",
-      "title_en": "Russell unlikely to get a better chance to win the title",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/23/featured-comment-russell-is-unlikely-to-get-a-better-chance-to-win-the-title/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-23-11-40-52-1-M622665_Dutch_Grand_Prix__Sunday.jpg",
-      "published_at": "2026-10-23T20:34:58+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Russell a peut-être manqué sa meilleure occasion de remporter le championnat. Les experts estiment qu'il n'a plus de chances de gagner le titre.",
-      "summary_en": "The driver Russell may have missed his best opportunity to win the championship. Experts say he no longer has a realistic chance of taking the title."
-    },
-    {
-      "id": "e4c9f37cc044",
-      "title": "The reasons behind Ferrari's US GP upgrades",
-      "title_fr": "Ferrari dévoile des mises à jour inédites pour le Grand Prix des États-Unis",
-      "title_en": "Ferrari unveils unique upgrades for the United States Grand Prix",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7Q4ag6/s6/ferrari-floor-detail-2.jpg",
-      "published_at": "2026-10-23T20:05:02+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a introduit des modifications inédites sur les 'fingers' du plancher avant, ainsi qu'un léger remodelage des sidepods et du plancher. Les pilotes minimisent l'importance de ces changements.",
-      "summary_en": "Ferrari introduced unique changes to the front 'fingers' of the floor and made minor tweaks to sidepods and the floor board. Drivers downplayed the significance of the new parts."
-    },
-    {
-      "id": "6ae74367b8c5",
-      "title": "Exploring Ferrari's 'less than a tenth' US GP update package",
-      "title_fr": "Exploring Ferrari's 'less than a tenth' US GP update package",
-      "title_en": "Exploring Ferrari's 'less than a tenth' US GP update package",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/exploring-ferraris-less-than-a-tenth-us-gp-update-package/10867537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNWxx2/s6/ferrari-sidepod-detail.jpg",
-      "published_at": "2026-10-23T20:02:03+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari's latest clutch of updates for the Formula 1 United States Grand Prix feature a unique approach to the 'fingers' situated at the front edge of the floor, although both drivers have played down",
-      "summary_en": "Ferrari's latest clutch of updates for the Formula 1 United States Grand Prix feature a unique approach to the 'fingers' situated at the front edge of the floor, although both drivers have played down"
-    },
-    {
-      "id": "4057a3a93543",
-      "title": "Ferrari drivers deliver disappointing verdict on much-hyped United States GP upgrade",
-      "title_fr": "Ferrari minimise l'impact de son upgrade aux États-Unis",
-      "title_en": "Ferrari downplays upgrade impact at United States GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EmDpY/s6/motorsport-com-graphics-7.jpg",
-      "published_at": "2026-10-23T19:14:14+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Les pilotes Ferrari, Lewis Hamilton et Charles Leclerc, ont déclaré que la mise à jour apportée pour le Grand Prix des États-Unis à Austin ne répondait pas aux attentes, malgré un package d'améliorations significatives.",
-      "summary_en": "Ferrari drivers Lewis Hamilton and Charles Leclerc said the upgrade for the United States GP in Austin fell short of expectations, despite a substantial package of improvements."
-    },
-    {
-      "id": "6822beb115c2",
-      "title": "Charles Leclerc addresses potential F1 race absence ahead of first child's birth",
-      "title_fr": "Leclerc assure qu'il ne manquera aucune course",
-      "title_en": "Leclerc says he will not miss any races",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVPqaq0/s6/motorsport-com-graphics-2.jpg",
-      "published_at": "2026-10-23T18:55:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc, pilote Ferrari, déclare ne pas anticiper d'absence parmi les six courses restantes, malgré la naissance imminente de son premier enfant.",
-      "summary_en": "Ferrari driver Charles Leclerc says he does not expect to miss any of the remaining six Formula 1 races, even though his first child is due soon."
-    },
-    {
-      "id": "0d8d56a3f14f",
-      "title": "F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari",
-      "title_fr": "Leclerc bat Verstappen en FP1 à Austin",
-      "title_en": "Leclerc beats Verstappen in FP1 at Austin",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2jEAvOg0/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-10-23T18:40:35+00:00",
-      "race_id": "netherlands",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a franchi la ligne d’arrivée en tête du premier entraînement du Grand Prix des États-Unis, dépassant Max Verstappen de moins d’un dixième de seconde dans une Ferrari améliorée.",
-      "summary_en": "Charles Leclerc topped the first practice at the United States Grand Prix in Austin, beating Max Verstappen by less than a tenth of a second in an upgraded Ferrari."
-    },
-    {
-      "id": "07f2b7f99e8c",
-      "title": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
-      "title_fr": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
-      "title_en": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgmO7Y/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-10-23T18:38:10+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.<br />Leclerc was just under a tenth faster than Verstappen in a",
-      "summary_en": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.<br />Leclerc was just under a tenth faster than Verstappen in a"
-    },
-    {
-      "id": "18b0de92a144",
-      "title": "Leclerc puts upgraded Ferrari on top ahead of Verstappen in first practice | Formula 1",
-      "title_fr": "Leclerc conduit la Ferrari améliorée en tête de la première séance de pratique au Circuit des Amériques",
-      "title_en": "Leclerc leads first practice at COTA with upgraded Ferrari",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/23/leclerc-puts-upgraded-ferrari-on-top-ahead-of-verstappen-in-first-practice/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-12-45-23-2-3-friday-austin-2026.jpg",
-      "published_at": "2026-10-23T18:36:51+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a mené la première séance de pratique au Circuit des Amériques, la Ferrari améliorée battant Max Verstappen qui l'a suivi de près.",
-      "summary_en": "Charles Leclerc topped the first practice session at the Circuit of the Americas, with the upgraded Ferrari beating Max Verstappen who followed closely."
-    },
-    {
-      "id": "90aca0dd2986",
-      "title": "Toto Wolff’s son walks away from a terrifying go-kart crash, demands to race tomorrow",
-      "title_fr": "Jack Wolff, 9 ans, sort d'un grave accident de kart",
-      "title_en": "Jack Wolff, 9, walks away from a terrifying go-kart crash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolffs-9-year-old-son-walks-away-from-a-terrifying-go-kart-crash-and-demands-to-race-tomorrow/10867498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXRA5MY/s6/motorsport-com-graphics-6-2.jpg",
-      "published_at": "2026-10-23T18:31:27+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": true,
-      "summary_fr": "Le fils de Toto Wolff, Jack, a survécu à un grave accident de kart lors de l'IAME Finale. Le jeune pilote de 9 ans exige déjà de reprendre la course le lendemain.",
-      "summary_en": "Jack Wolff's 9-year-old son survived a terrifying go-kart crash at the IAME Warrior Final and is already demanding to race again tomorrow."
     }
   ]
 }
