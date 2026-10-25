@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-25T15:16:38Z",
+  "last_updated": "2026-10-25T18:18:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "855c0c90671b",
+      "title": "Charles Leclerc reacts to Ferrari fear: 'We know what line not to cross'",
+      "title_fr": "Leclerc met en garde Ferrari sur la ligne à ne pas franchir",
+      "title_en": "Leclerc warns Ferrari on the line to avoid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reacts-to-ferrari-fear-we-know-what-the-line-is-not-to-cross/10868297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwmqX2/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-10-25T16:33:13+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc souligne que les pilotes Ferrari doivent éviter de se heurter, notamment à Lewis Hamilton, pour ne pas compromettre la course. Il insiste sur la nécessité de respecter la ligne de sécurité.",
+      "summary_en": "Charles Leclerc says Ferrari drivers must avoid collisions, especially with Lewis Hamilton, to keep the race safe. He stresses the importance of staying within the line."
+    },
     {
       "id": "106ca8c34383",
       "title": "Toto Wolff reveals he is actively vetting “two or three people” to replace him at Mercedes",
@@ -96,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "À Austin, la qualification a montré que Red Bull ne flanche plus en journées difficiles. Max Verstappen a terminé deuxième, tandis que Ferrari n'a pas réussi à atteindre le top trois, et Kimi Antonelli a surpris en troisième.",
       "summary_en": "In Austin, the qualifying session showed Red Bull no longer falters on tough days. Max Verstappen finished second, while Ferrari failed to reach the top three and Kimi Antonelli surprised by taking third."
+    },
+    {
+      "id": "0f203cd6602f",
+      "title": "“It does feels different” Antonelli admits ahead of first chance to seal title | Formula 1",
+      "title_fr": "Antonelli ressent la différence avant de viser le titre",
+      "title_en": "Antonelli feels the difference before chasing the title",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/it-does-feels-different-antonelli-admits-ahead-of-first-chance-to-seal-title/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-51-11-2-M642877_F1_UNITED_STATES_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-10-25T10:40:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a déclaré que la course de ce week-end lui semblait différente, car il a sa première chance de couronner le championnat du monde.",
+      "summary_en": "Andrea Kimi Antonelli said this weekend's race feels different because he has his first chance to clinch the world championship."
     },
     {
       "id": "15f5beb7bf90",
@@ -381,6 +419,25 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris gave a blunt assessment of his performance after a penalty left him eighth on the grid for this weekend's race.",
       "summary_en": "Lando Norris gave a blunt assessment of his performance after a penalty left him eighth on the grid for this weekend's race."
+    },
+    {
+      "id": "82c0ae64f3bf",
+      "title": "Norris says he’s “scared in every single corner” after “terrible” qualifying | Formula 1",
+      "title_fr": "Norris se dit « effrayé » après pénalité qui l’a mis en 8e",
+      "title_en": "Norris says he’s “scared” after penalty drops him to eighth",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/norris-says-hes-scared-in-every-single-corner-after-terrible-qualifying/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-13-21-58-1-2301663911.jpg",
+      "published_at": "2026-10-24T23:26:22+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a déclaré qu’il se sentait « effrayé » dans chaque virage après qu’une pénalité l’ait relégué à la huitième place sur le grid. Il a jugé la séance de qualification « terrible ».",
+      "summary_en": "Lando Norris said he felt “scared” in every corner after a penalty dropped him to eighth on the grid. He described the qualifying session as “terrible.”"
     },
     {
       "id": "5c1f9372f27e",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Alpine Franco Colapinto a surpris les fans à Austin en portant un costume de Doctor Doom lors d'un événement Williams. Son apparition a fait le tour des réseaux sociaux.",
       "summary_en": "Alpine driver Franco Colapinto surprised fans in Austin by wearing a Doctor Doom costume at a Williams event, sparking a viral moment on social media."
-    },
-    {
-      "id": "12504062eeb1",
-      "title": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
-      "title_fr": "Hamilton domine la FP3 du GP des États-Unis",
-      "title_en": "Hamilton tops FP3 at United States GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmA3bD0/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-10-24T18:42:14+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a mené la troisième séance d’essai du Grand Prix des États-Unis, franchissant la barre des 1m35s, tandis que Charles Leclerc, limité par des dépassements de limites de piste, ne l’a dépassé.",
-      "summary_en": "Lewis Hamilton topped the final practice at the United States Grand Prix, breaking the 1m35s barrier, while Charles Leclerc was held back by track‑limit infringements and could not overtake him."
-    },
-    {
-      "id": "4d61955f56c9",
-      "title": "Hamilton leads final practice after spate of track limits violations | Formula 1",
-      "title_fr": "Hamilton mène la dernière séance de pratique après violations de limites de piste",
-      "title_en": "Hamilton leads final practice after track limits violations",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/24/hamilton-leads-final-practice-after-spate-of-track-limits-violations/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-20-11-35-4-261023_R18_USA_DP_XR1_7976.jpg",
-      "published_at": "2026-10-24T18:41:55+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a mené la dernière séance de pratique du Circuit of the Americas, malgré une série de violations de limites de piste. Ferrari a dominé les trois sessions précédentes.",
-      "summary_en": "Lewis Hamilton led the final practice session at the Circuit of the Americas, following a spate of track limits violations. Ferrari had swept all three earlier sessions."
-    },
-    {
-      "id": "770f304b969e",
-      "title": "F1 United States GP: Lewis Hamilton pips Max Verstappen in FP3",
-      "title_fr": "Hamilton domine les essais libres 3 aux États-Unis",
-      "title_en": "Hamilton tops FP3 at US GP, beating Verstappen and Leclerc",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-lewis-hamilton-tops-fp3/10867914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0mXy3rg6/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-10-24T18:40:36+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a mené la séance d'essais libres 3 à Austin, battant Max Verstappen et Charles Leclerc. Il est le seul pilote à franchir la barre des 1m35s, tandis que Leclerc a été pénalisé pour dépassement de limites.",
-      "summary_en": "Lewis Hamilton topped the final practice at the United States Grand Prix, outpacing Max Verstappen and Charles Leclerc. He was the only driver to break the 1m35s barrier, while Leclerc was penalised for track‑limit infringements."
     }
   ]
 }
