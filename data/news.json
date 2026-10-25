@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-25T12:14:33Z",
+  "last_updated": "2026-10-25T15:16:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "106ca8c34383",
+      "title": "Toto Wolff reveals he is actively vetting “two or three people” to replace him at Mercedes",
+      "title_fr": "Toto Wolff prépare son successeur chez Mercedes",
+      "title_en": "Toto Wolff is vetting successors for Mercedes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-he-is-actively-vetting-two-or-three-people-to-replace-him-at-mercedes/10868219/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zDwG6/s6/motorsport-com-graphics-20-2.jpg",
+      "published_at": "2026-10-25T14:58:15+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de Mercedes, Toto Wolff, est en train de sélectionner deux ou trois candidats pour le remplacer. Il prépare son départ de la boîte après une décennie de domination.",
+      "summary_en": "Mercedes team principal Toto Wolff is actively vetting two or three candidates to replace him. He is preparing to step down after a decade of dominance."
+    },
+    {
+      "id": "cf21e493d1f6",
+      "title": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
+      "title_fr": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
+      "title_en": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/inside-cotas-turn-1-clubhouse-plans-second-track/10868234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6grQdDaY/s6/arvid-lindblad-racing-bulls.jpg",
+      "published_at": "2026-10-25T13:16:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "For spectators and TV viewers tuning into coverage of F1's US Grand Prix, it's been hard to miss. Turn 1 of the Circuit of the Americas has a distinctly different look to it this year with the additio",
+      "summary_en": "For spectators and TV viewers tuning into coverage of F1's US Grand Prix, it's been hard to miss. Turn 1 of the Circuit of the Americas has a distinctly different look to it this year with the additio"
+    },
+    {
+      "id": "40df2da70540",
+      "title": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
+      "title_fr": "COTA : un club-house gigantesque et un second circuit en projet",
+      "title_en": "COTA unveils massive clubhouse and plans second track",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-track/10868244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQdDaY/s6/arvid-lindblad-racing-bulls.jpg",
+      "published_at": "2026-10-25T13:15:54+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le COTA a inauguré un club-house multi-étages à l’entrée du virage 1, relié au paddock par un téléphérique. Les organisateurs envisagent également de construire un deuxième circuit sur le site.",
+      "summary_en": "COTA has opened a massive multi-storey clubhouse at Turn 1, linked to the paddock by a cable car. Organisers also plan to build a second track on the site."
+    },
     {
       "id": "c6d2147f6dec",
       "title": "Max Verstappen puzzled by Q3 grip loss, but Austin shows how far Red Bull has progressed",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a mené la séance d'essais libres 3 à Austin, battant Max Verstappen et Charles Leclerc. Il est le seul pilote à franchir la barre des 1m35s, tandis que Leclerc a été pénalisé pour dépassement de limites.",
       "summary_en": "Lewis Hamilton topped the final practice at the United States Grand Prix, outpacing Max Verstappen and Charles Leclerc. He was the only driver to break the 1m35s barrier, while Leclerc was penalised for track‑limit infringements."
-    },
-    {
-      "id": "145fdd90398d",
-      "title": "Daniel Ricciardo surprises F1 fans with on-stage performance ahead of US GP",
-      "title_fr": "Ricciardo surprend les fans de F1 sur scène à Austin",
-      "title_en": "Ricciardo surprises F1 fans on stage in Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPqmJ0/s6/motorsport-com-graphics-5.jpg",
-      "published_at": "2026-10-24T18:21:47+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "L'ancien pilote de F1 Daniel Ricciardo a fait une apparition surprise sur scène à Austin, Texas, aux côtés du chanteur Rob Baird, jouant de la harmonica sur une chanson originale.",
-      "summary_en": "Former F1 driver Daniel Ricciardo surprised fans by performing on stage in Austin, Texas, with singer Rob Baird, playing harmonica on a song they co‑wrote."
-    },
-    {
-      "id": "82e5acdc118a",
-      "title": "Nico Hulkenberg left red-faced after Gabriel Bortoleto prank at United States GP",
-      "title_fr": "Canular de Bortoleto fait rougir Hulkenberg",
-      "title_en": "Bortoleto's prank leaves Hulkenberg red-faced",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2QedgKv2/s6/motorsport-com-graphics-12-2.jpg",
-      "published_at": "2026-10-24T18:13:00+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le jeune pilote Audi, Gabriel Bortoleto, a fait tomber les pantalons de son coéquipier Nico Hulkenberg devant des milliers de spectateurs au Circuit des États-Unis. Le canular a fait le tour des réseaux sociaux.",
-      "summary_en": "Young Audi driver Gabriel Bortoleto pulled down Nico Hulkenberg's trousers during a walk‑out at the United States Grand Prix, sparking a viral video that left the German driver red‑faced."
-    },
-    {
-      "id": "6d217d35bbe2",
-      "title": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
-      "title_fr": "Cadillac évite la question du pilote, ravivant les spéculations",
-      "title_en": "Cadillac boss dodges driver question, stirs speculation",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2GdKlEKY/s6/marcin-budkowski-cadillac-team.jpg",
-      "published_at": "2026-10-24T13:30:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Cadillac F1 a esquivé les questions sur la composition de l'équipe pour 2027, alimentant les rumeurs sur la future ligne de pilotes. Les contrats de Perez et Bottas restent incertains.",
-      "summary_en": "Cadillac F1 boss sidestepped questions about the 2027 driver lineup, fueling speculation. Perez and Bottas contracts remain uncertain."
     }
   ]
 }
