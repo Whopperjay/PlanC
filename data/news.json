@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-25T03:08:02Z",
+  "last_updated": "2026-10-25T06:10:21Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b15c47a0349d",
+      "title": "Loss of pace in Q3 ‘something we have to look at because it’s very odd’ – Verstappen | Formula 1",
+      "title_fr": "Verstappen dénonce perte de vitesse en Q3",
+      "title_en": "Verstappen blames loss of pace in Q3",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/loss-of-pace-in-q3-something-we-have-to-look-at-because-its-very-odd-verstappen/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-16-01-42-10-39-friday-austin-2026.jpg",
+      "published_at": "2026-10-25T01:22:08+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a déclaré que Red Bull doit comprendre pourquoi sa voiture était plus rapide sur pneus usés en qualification. Le pilote souligne l'irrégularité de la performance en Q3.",
+      "summary_en": "Max Verstappen says Red Bull must investigate why his car performed better on worn tyres in qualifying. The driver points out the odd drop in pace during Q3."
+    },
+    {
+      "id": "c5acf4971737",
+      "title": "Antonelli pleased and surprised to avoid another track limits breach in qualifying | Formula 1",
+      "title_fr": "Antonelli pleased and surprised to avoid another track limits breach in qualifying | Formula 1",
+      "title_en": "Antonelli pleased and surprised to avoid another track limits breach in qualifying | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/antonelli-pleased-and-surprised-to-avoid-another-track-limits-breach-in-qualifying/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-55-15-4-M642699_F1_Grand_Prix_of_United_States_Qualifying.jpg",
+      "published_at": "2026-10-25T01:12:44+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli admitted he was pleased to avoid a penalty for exceeding track limits after claiming pole position in Austin.",
+      "summary_en": "Andrea Kimi Antonelli admitted he was pleased to avoid a penalty for exceeding track limits after claiming pole position in Austin."
+    },
     {
       "id": "911d48d054cb",
       "title": "Charles Leclerc sets boundaries with Lewis Hamilton ahead of Turn 1 battle",
@@ -193,6 +231,25 @@
       "summary_en": "Lando Norris expressed frustration after finishing eighth in qualifying for the United States Grand Prix, having hoped for a front-row spot. He will share the fourth row with teammate McLaren's Oscar Piastri"
     },
     {
+      "id": "9b00694cfec1",
+      "title": "Norris says he did a “c*** job” in qualifying after penalty leaves him eighth | Formula 1",
+      "title_fr": "Norris says he did a “c*** job” in qualifying after penalty leaves him eighth | Formula 1",
+      "title_en": "Norris says he did a “c*** job” in qualifying after penalty leaves him eighth | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/norris-says-he-did-a-c-job-in-qualifying-after-penalty-leaves-him-eighth/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-24-12-54-26-1-2301803686.jpg",
+      "published_at": "2026-10-24T23:26:22+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris gave a blunt assessment of his performance after a penalty left him eighth on the grid for this weekend's race.",
+      "summary_en": "Lando Norris gave a blunt assessment of his performance after a penalty left him eighth on the grid for this weekend's race."
+    },
+    {
       "id": "5c1f9372f27e",
       "title": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
       "title_fr": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
@@ -229,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen, pilote de Red Bull, a refusé de célébrer sa deuxième place en qualification aux États-Unis, déclarant qu’il n’était pas nécessaire de sourire. Le pole a été remporté par Kimi Antonelli.",
       "summary_en": "Max Verstappen, Red Bull driver, declined to celebrate his second-place qualifying result in the United States, saying there was no need to smile. Kimi Antonelli took pole."
+    },
+    {
+      "id": "5c7b2206cff2",
+      "title": "Team’s tactical decision not to run in Q3 was “a shame” for Lawson | Formula 1",
+      "title_fr": "Team’s tactical decision not to run in Q3 was “a shame” for Lawson | Formula 1",
+      "title_en": "Team’s tactical decision not to run in Q3 was “a shame” for Lawson | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/24/teams-tactical-decision-not-to-run-in-q3-was-a-shame-for-lawson/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-22-38-10-1-SI202610230595.jpg",
+      "published_at": "2026-10-24T22:58:56+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Liam Lawson said he wanted to set a lap in Q3 after Racing Bulls told him not to run in order to help his team mate.",
+      "summary_en": "Liam Lawson said he wanted to set a lap in Q3 after Racing Bulls told him not to run in order to help his team mate."
     },
     {
       "id": "ec2b4e43bbbb",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a terminé deuxième puis troisième lors des séances de formation du Grand Prix des États‑Unis, juste moins de deux dixièmes devant Charles Leclerc. Red Bull n’est pas encore dominant, mais le pilote reste solide.",
       "summary_en": "Max Verstappen finished second and third in Friday’s practice for the United States Grand Prix, just under two-tenths behind Charles Leclerc. Red Bull is not yet dominant, but the driver remains strong."
-    },
-    {
-      "id": "88646825f433",
-      "title": "Red Bull identifies two \"key focus\" areas after Max Verstappen's promising start in Austin",
-      "title_fr": "Red Bull cible deux axes clés après le prometteur départ de Verstappen à Austin",
-      "title_en": "Red Bull pinpoints two key focus areas after Verstappen's promising start in Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6n7bdem0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-24T08:10:05+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a terminé les séances d'essais de vendredi en deuxième et troisième place, à moins de deux dixièmes de Charles Leclerc. Red Bull a identifié deux domaines clés à améliorer avant le Grand Prix des États-Unis.",
-      "summary_en": "Max Verstappen finished Friday's practice sessions in second and third place, just under two-tenths behind Charles Leclerc. Red Bull has identified two key focus areas to improve before the United States Grand Prix."
-    },
-    {
-      "id": "40fee6e206f3",
-      "title": "Kimi Antonelli hails \"step forward\" at United States GP as Mercedes chips away at upgrades",
-      "title_fr": "Antonelli félicite la Mercedes pour un progrès aux États-Unis",
-      "title_en": "Antonelli praises Mercedes for a step forward in the US",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YK15AVb0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-24T06:00:02+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli estime que la Mercedes a fait un pas de plus pour extraire de son paquet d'améliorations la capacité lors du Grand Prix des États-Unis. Le constructeur a introduit une nouvelle aile avant à Austin.",
-      "summary_en": "Kimi Antonelli believes Mercedes has taken another step to extract performance from its upgrade package at the United States Grand Prix. The team introduced a new front wing option in Austin."
-    },
-    {
-      "id": "92c98e1db629",
-      "title": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
-      "title_fr": "McLaren vise ses dernières améliorations 2026 alors que la forme décline",
-      "title_en": "McLaren targets final 2026 upgrades amid form decline",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0arEdGM2/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-10-23T23:04:52+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "McLaren cherche à finaliser ses dernières améliorations pour la saison 2026 alors que la performance du pilote Lando Norris reste en retrait. Les deux victoires de Norris ne suffisent pas à redresser la trajectoire de l’équipe.",
-      "summary_en": "McLaren is aiming to finalize its last 2026 upgrades as the team's performance dips. Lando Norris's two mid-season wins are seen as a brief bright spot rather than a sign of a full revival."
-    },
-    {
-      "id": "27387677a97f",
-      "title": "On This Day: Verstappen beats Hamilton in Austin despite “blurred images” in vision | Brief",
-      "title_fr": "Verstappen triomphe à Austin malgré des images floues",
-      "title_en": "Verstappen beats Hamilton in Austin despite blurred vision",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/24/on-this-day-2021-united-states-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2021/10/racefansdotnet-21-10-24-15-38-11-2-1.jpg",
-      "published_at": "2026-10-23T23:01:00+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Verstappen a surmonté des problèmes de vision pour battre Hamilton au Circuit des Amériques, remportant la course à Austin.",
-      "summary_en": "Verstappen overcame vision problems to defeat Hamilton at Circuit of the Americas, securing victory in Austin."
     }
   ]
 }
