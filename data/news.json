@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-25T18:18:37Z",
+  "last_updated": "2026-10-25T21:20:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "237b4c66d01b",
+      "title": "2026 United States Grand Prix in pictures | F1 Pictures",
+      "title_fr": "2026 United States Grand Prix in pictures | F1 Pictures",
+      "title_en": "2026 United States Grand Prix in pictures | F1 Pictures",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/2026-united-states-grand-prix-in-pictures/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-20-35-22-1-SI202610251064.jpg",
+      "published_at": "2026-10-25T21:00:08+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The 2026 United States Grand Prix at Circuit of the Americas in pictures.",
+      "summary_en": "The 2026 United States Grand Prix at Circuit of the Americas in pictures."
+    },
+    {
+      "id": "5fa34a46c9cb",
+      "title": "Toto Wolff gets brutally honest about spotting F1 talent and why prodigies wash out",
+      "title_fr": "Wolff révèle ses critères de sélection des pilotes",
+      "title_en": "Wolff reveals his criteria for selecting drivers",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BRpV2/s6/motorsport-com-graphics-21-2.jpg",
+      "published_at": "2026-10-25T19:26:51+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff, directeur de Mercedes, explique comment il distingue les talents prometteurs des enfants de riches. Il cite Andrea Kimi Antonelli comme preuve de son approche.",
+      "summary_en": "Mercedes team principal Toto Wolff explains how he separates genuine talent from well-funded hopefuls, citing Andrea Kimi Antonelli as proof of his scouting method."
+    },
     {
       "id": "855c0c90671b",
       "title": "Charles Leclerc reacts to Ferrari fear: 'We know what line not to cross'",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Colton Herta a célébré son retour à Austin, son premier circuit américain depuis 2019. Malgré cette victoire, son avenir en 2027 reste incertain, laissant les fans dans l'attente.",
       "summary_en": "Colton Herta celebrated his return to Austin, his first American circuit since 2019. Despite the win, his 2027 future remains uncertain, leaving fans in suspense."
-    },
-    {
-      "id": "fb0db1ad9185",
-      "title": "Christian Horner proposes major change to how fans watch F1",
-      "title_fr": "Christian Horner proposes major change to how fans watch F1",
-      "title_en": "Christian Horner proposes major change to how fans watch F1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-proposes-major-change-to-how-fans-watch-f1/10867935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LokRY/s6/motorsport-com-graphics-6.jpg",
-      "published_at": "2026-10-24T18:45:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Red Bull Racing CEO and team principal Christian Horner argued that Formula 1 should let fans sit on their favourite team's pitwall virtually and hear how strategy calls are made.<br />Horner h",
-      "summary_en": "Former Red Bull Racing CEO and team principal Christian Horner argued that Formula 1 should let fans sit on their favourite team's pitwall virtually and hear how strategy calls are made.<br />Horner h"
-    },
-    {
-      "id": "09197e3b3672",
-      "title": "Franco Colapinto goes viral after surprise Doctor Doom appearance at United States GP",
-      "title_fr": "Colapinto se fait remarquer en Doctor Doom à Austin",
-      "title_en": "Colapinto turns heads as Doctor Doom at Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-goes-viral-after-surprise-doctor-doom-appearance-at-united-states-gp/10867930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zAka6/s6/motorsport-com-graphics-13.jpg",
-      "published_at": "2026-10-24T18:44:44+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Alpine Franco Colapinto a surpris les fans à Austin en portant un costume de Doctor Doom lors d'un événement Williams. Son apparition a fait le tour des réseaux sociaux.",
-      "summary_en": "Alpine driver Franco Colapinto surprised fans in Austin by wearing a Doctor Doom costume at a Williams event, sparking a viral moment on social media."
     }
   ]
 }
