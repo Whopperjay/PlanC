@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:00:14Z",
+  "generated_at": "2026-10-25T13:00:32Z",
   "model": "claude",
   "predictions": [
     {
@@ -99,13 +99,13 @@
       "session_date": "2026-10-25T20:00:00+00:00",
       "p1": "antonelli",
       "p2": "max_verstappen",
-      "p3": "leclerc",
-      "reasoning_fr": "Antonelli part en pole et bénéficie d’un avantage de piste décisif sur le COTA, où le dépassement reste difficile. Mercedes a montré une nette amélioration des performances et la fiabilité est solide. Verstappen, vainqueur à Singapour, conserve un rythme de course élevé et Red Bull possède une bonne gestion des pneus, ce qui le place en bonne position pour contester le podium. Leclerc, malgré une ",
-      "reasoning_en": "Antonelli starts from pole, gaining a crucial track‑position edge on COTA where overtaking is hard. Mercedes has shown clear performance gains and reliability is solid. Verstappen, fresh from a Singapore win, maintains high race pace and Red Bull’s tyre management keeps him in podium contention. Leclerc, despite qualifying fourth, has strong race pace and an effective Ferrari strategy, keeping him",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec Mercedes et semble avoir signé une qualification propre à Austin, sans dépassement des limites de piste. Verstappen, deuxième sur la grille, rend Red Bull redoutable au COTA malgré les bosses qu'il critique. Ferrari n'est pas dans le top 3 en qualifications. Russell, avec une Mercedes performante, est le favori logique pour la troisième marche.",
+      "reasoning_en": "Antonelli dominates the championship with Mercedes and appears to have had a clean qualifying in Austin, with no track limits breach. Verstappen, second on the grid, makes Red Bull a real threat at COTA despite the bumps he criticised. Ferrari missed the qualifying top three. Russell, in a strong Mercedes, is the logical favourite for the final podium spot.",
       "confidence": "medium",
-      "key_factor_fr": "Pole position et difficulté de dépassement sur COTA",
+      "key_factor_fr": "Antonelli en pole, Verstappen deuxième, Ferrari en retrait",
       "news_used_ids": [],
-      "generated_at": "2026-10-25T03:08:40Z"
+      "generated_at": "2026-10-25T13:00:14Z"
     },
     {
       "event_id": "mexico_city_qualifying",
@@ -113,14 +113,29 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli arrive à Mexico en pleine confiance après sa pole à Austin, portée par les dernières évolutions Mercedes. Il mène le championnat avec 102 points d'avance. À 2 240 m d'altitude, l'air raréfié réduit l'appui et sollicite le refroidissement, un terrain où Mercedes semble à l'aise. Russell reste le rival le plus proche. Verstappen, souvent très fort ici, peut se mêler à la lutte.",
-      "reasoning_en": "Antonelli comes to Mexico full of confidence after his Austin pole, helped by Mercedes' latest upgrades. He leads the championship by 102 points. At 2,240 m, the thin air cuts downforce and stresses cooling, conditions where Mercedes looks comfortable. Russell is still his closest rival. Verstappen, often very strong here, could join the fight.",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance, et la Mercedes est la référence en 2026. Il a aussi évité les erreurs de limites de piste en qualif. Verstappen revient fort : deuxième à Austin, Red Bull plus solide, et il aime l'altitude de Mexico. Russell reste une valeur sûre sur un tour avec la même Mercedes.",
+      "reasoning_en": "Antonelli leads the championship by 102 points, and Mercedes is the 2026 benchmark. He also avoided track-limits mistakes in qualifying. Verstappen is coming on strong: second in Austin, Red Bull more consistent, and he likes Mexico's high altitude. Russell remains a reliable one-lap threat in the same Mercedes.",
       "confidence": "medium",
-      "key_factor_fr": "Évolutions Mercedes efficaces et dynamique d'Antonelli depuis Austin",
+      "key_factor_fr": "Mercedes dominante, mais l'altitude de Mexico avantage Red Bull",
       "news_used_ids": [],
-      "generated_at": "2026-10-25T05:00:14Z"
+      "generated_at": "2026-10-25T13:00:32Z"
+    },
+    {
+      "event_id": "mexico_city_grand_prix",
+      "race_id": "mexico_city",
+      "session_type": "grand_prix",
+      "session_date": "2026-11-01T20:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance et une Mercedes très performante. Verstappen arrive en forme après sa deuxième place à Austin, avec une Red Bull plus régulière. Il compte aussi cinq victoires à Mexico. L'altitude limite l'appui aérodynamique, ce qui avantage les monoplaces efficaces. Russell devrait compléter le podium, devant des Ferrari qui ont décroché au COTA.",
+      "reasoning_en": "Antonelli leads the championship by 102 points and has a very strong Mercedes. Verstappen comes in on form after second place in Austin, with a more consistent Red Bull. He has also won five times in Mexico. The altitude cuts downforce, which favours efficient cars. Russell should complete the podium ahead of Ferrari, who dropped out of the top three at COTA.",
+      "confidence": "medium",
+      "key_factor_fr": "Altitude et efficacité aéro : Mercedes et Red Bull favorisées",
+      "news_used_ids": [],
+      "generated_at": "2026-10-25T13:00:23Z"
     }
   ]
 }
