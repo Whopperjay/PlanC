@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T13:00:31Z",
-  "model": "claude",
+  "generated_at": "2026-10-25T03:08:41Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -99,13 +99,13 @@
       "session_date": "2026-10-25T20:00:00+00:00",
       "p1": "antonelli",
       "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance, et la Mercedes progresse à Austin d'après ses propres mots. Verstappen sort d'un début de week-end prometteur sur un circuit qu'il connaît bien, même si le moteur Honda reste un doute. Russell, sur la deuxième Mercedes, devrait devancer des Ferrari régulières mais moins rapides.",
-      "reasoning_en": "Antonelli leads the championship by 102 points, and he says Mercedes has improved in Austin. Verstappen had a promising start to the weekend at a track he knows well, though the Honda engine is still a question mark. Russell, in the second Mercedes, should finish ahead of Ferraris that are consistent but slower.",
+      "p3": "leclerc",
+      "reasoning_fr": "Antonelli part en pole et bénéficie d’un avantage de piste décisif sur le COTA, où le dépassement reste difficile. Mercedes a montré une nette amélioration des performances et la fiabilité est solide. Verstappen, vainqueur à Singapour, conserve un rythme de course élevé et Red Bull possède une bonne gestion des pneus, ce qui le place en bonne position pour contester le podium. Leclerc, malgré une ",
+      "reasoning_en": "Antonelli starts from pole, gaining a crucial track‑position edge on COTA where overtaking is hard. Mercedes has shown clear performance gains and reliability is solid. Verstappen, fresh from a Singapore win, maintains high race pace and Red Bull’s tyre management keeps him in podium contention. Leclerc, despite qualifying fourth, has strong race pace and an effective Ferrari strategy, keeping him",
       "confidence": "medium",
-      "key_factor_fr": "Avance de Mercedes face à la fiabilité Honda incertaine",
+      "key_factor_fr": "Pole position et difficulté de dépassement sur COTA",
       "news_used_ids": [],
-      "generated_at": "2026-10-24T13:00:12Z"
+      "generated_at": "2026-10-25T03:08:40Z"
     },
     {
       "event_id": "mexico_city_qualifying",
