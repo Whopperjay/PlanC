@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T03:08:41Z",
-  "model": "openai/gpt-oss-120b",
+  "generated_at": "2026-10-25T05:00:14Z",
+  "model": "claude",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -115,12 +115,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance, et Mercedes a encore progressé à Austin. À Mexico, l'altitude (2 240 m) réduit l'appui et sollicite le refroidissement et le moteur, ce qui avantage le moteur Mercedes. Russell reste un qualifieur très régulier. Verstappen semble retrouver de la vitesse, mais Red Bull cherche encore son équilibre et Honda a des soucis de fiabilité.",
-      "reasoning_en": "Antonelli leads the championship by 102 points, and Mercedes made further progress in Austin. In Mexico City, the altitude (2,240 m) cuts downforce and stresses cooling and the power unit, which suits the Mercedes engine. Russell remains a very consistent qualifier. Verstappen looks to be finding pace again, but Red Bull is still searching for balance and Honda has reliability issues.",
+      "reasoning_fr": "Antonelli arrive à Mexico en pleine confiance après sa pole à Austin, portée par les dernières évolutions Mercedes. Il mène le championnat avec 102 points d'avance. À 2 240 m d'altitude, l'air raréfié réduit l'appui et sollicite le refroidissement, un terrain où Mercedes semble à l'aise. Russell reste le rival le plus proche. Verstappen, souvent très fort ici, peut se mêler à la lutte.",
+      "reasoning_en": "Antonelli comes to Mexico full of confidence after his Austin pole, helped by Mercedes' latest upgrades. He leads the championship by 102 points. At 2,240 m, the thin air cuts downforce and stresses cooling, conditions where Mercedes looks comfortable. Russell is still his closest rival. Verstappen, often very strong here, could join the fight.",
       "confidence": "medium",
-      "key_factor_fr": "Altitude et efficacité du moteur Mercedes, Antonelli en confiance",
+      "key_factor_fr": "Évolutions Mercedes efficaces et dynamique d'Antonelli depuis Austin",
       "news_used_ids": [],
-      "generated_at": "2026-10-24T13:00:31Z"
+      "generated_at": "2026-10-25T05:00:14Z"
     }
   ]
 }
