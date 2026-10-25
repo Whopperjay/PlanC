@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-25T09:12:21Z",
+  "last_updated": "2026-10-25T12:14:33Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "c6d2147f6dec",
+      "title": "Max Verstappen puzzled by Q3 grip loss, but Austin shows how far Red Bull has progressed",
+      "title_fr": "Verstappen deuxième, Ferrari hors du premier trio à Austin",
+      "title_en": "Verstappen second, Ferrari out of top three in Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2QedgVN2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-25T12:00:23+00:00",
+      "race_id": "netherlands",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Verstappen a terminé deuxième en qualification à Austin, tandis que Ferrari n'a pas réussi à se placer parmi les trois premiers. Kimi Antonelli a surpris en se qualifiant parmi les meilleurs.",
+      "summary_en": "Verstappen finished second in Austin qualifying, while Ferrari failed to make the top three. Kimi Antonelli surprised by qualifying among the front runners."
+    },
+    {
+      "id": "43c5d890d63d",
+      "title": "Red Bull no longer falls away on difficult days: What Austin qualifying reveals about its progress",
+      "title_fr": "Red Bull ne flanche plus en journée difficile",
+      "title_en": "Red Bull no longer falters on tough days: Austin qualifying shows progress",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2QedgVN2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-25T11:59:20+00:00",
+      "race_id": "netherlands",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "À Austin, la qualification a montré que Red Bull ne flanche plus en journées difficiles. Max Verstappen a terminé deuxième, tandis que Ferrari n'a pas réussi à atteindre le top trois, et Kimi Antonelli a surpris en troisième.",
+      "summary_en": "In Austin, the qualifying session showed Red Bull no longer falters on tough days. Max Verstappen finished second, while Ferrari failed to reach the top three and Kimi Antonelli surprised by taking third."
+    },
+    {
+      "id": "15f5beb7bf90",
+      "title": "Max Verstappen reacts to COTA boss: \"He can drive my car, after five laps he won't be able to walk\"",
+      "title_fr": "Verstappen critique les bosses du COTA",
+      "title_en": "Verstappen criticises COTA bumps",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8dLd6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-25T09:23:16+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a exprimé son mécontentement face aux bosses extrêmes du Circuit des Amériques, affirmant que la piste, construite sur un sol argileux très plastique, mettrait les pilotes à rude épreuve après quelques tours.",
+      "summary_en": "Max Verstappen voiced his frustration over the extreme bumps at the Circuit of the Americas, saying the track's highly plastic clay surface would make drivers struggle after a few laps."
+    },
+    {
+      "id": "1e764af87f3f",
+      "title": "Verstappen responds to COTA boss and proposes drastic measures to tackle bumps",
+      "title_fr": "Verstappen réclame des mesures drastiques contre les bosses du COTA",
+      "title_en": "Verstappen calls for drastic measures to tackle COTA bumps",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8dLd6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-25T09:22:10+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Max Verstappen a demandé à la FIA et aux organisateurs du Circuit of the Americas de prendre des mesures drastiques pour corriger les bosses du circuit, après avoir exprimé ses inquiétudes lors de la séance d'information des pilotes",
+      "summary_en": "Max Verstappen urged the FIA and Circuit of the Americas officials to implement drastic measures to fix the extreme bumps on the track, after voicing concerns during the Friday drivers' briefing"
+    },
     {
       "id": "b15c47a0349d",
       "title": "Loss of pace in Q3 ‘something we have to look at because it’s very odd’ – Verstappen | Formula 1",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur de Cadillac F1 a esquivé les questions sur la composition de l'équipe pour 2027, alimentant les rumeurs sur la future ligne de pilotes. Les contrats de Perez et Bottas restent incertains.",
       "summary_en": "Cadillac F1 boss sidestepped questions about the 2027 driver lineup, fueling speculation. Perez and Bottas contracts remain uncertain."
-    },
-    {
-      "id": "2223305070e9",
-      "title": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
-      "title_fr": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
-      "title_en": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2GdKlEKY/s6/marcin-budkowski-cadillac-team.jpg",
-      "published_at": "2026-10-24T13:00:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The US GP weekend naturally means the spotlight gravitates towards Formula 1’s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculation over its driver li",
-      "summary_en": "The US GP weekend naturally means the spotlight gravitates towards Formula 1’s two American-owned teams. That has led to some awkward questions for Cadillac amid ongoing speculation over its driver li"
-    },
-    {
-      "id": "8b7f4a57e968",
-      "title": "The intrigue caused by Cadillac's F1 boss dodging driver market question",
-      "title_fr": "Cadillac évite les questions sur la composition de son équipe",
-      "title_en": "Cadillac sidesteps driver lineup questions",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-intrigued-caused-by-cadillacs-f1-boss-dodging-driver-market-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lNWzL2/s6/valtteri-bottas-cadillac-racin-2.jpg",
-      "published_at": "2026-10-24T13:00:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Cadillac évite de répondre aux interrogations sur la future composition de l'équipe pour 2027, alors que les contrats de Sergio Pérez et Valtteri Bottas restent en place.",
-      "summary_en": "Cadillac's F1 boss sidesteps questions about the team's 2027 driver lineup, while Sergio Pérez and Valtteri Bottas remain under multi-year contracts."
-    },
-    {
-      "id": "ebb3429dc0f7",
-      "title": "Formula 1’s ruined season diminishes Antonelli’s inevitable championship triumph | Comment",
-      "title_fr": "La saison gâchée de la F1 affaiblit le titre d'Antonelli",
-      "title_en": "F1's ruined season weakens Antonelli's inevitable championship",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/24/formula-1s-ruined-season-diminishes-antonellis-inevitable-championship-triumph/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-08-08-31-54-10-M583241_F1_Melbourne_Grand_Prix_2026.jpg",
-      "published_at": "2026-10-24T12:07:17+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La saison de la F1, marquée par des règles qui pénalisent les pilotes pour avoir pris les virages trop vite, diminue les chances d'Antonelli de remporter le championnat. Le pilote ne pourra pas compter sur un titre inévitable.",
-      "summary_en": "F1's season, marred by rules that punish drivers for taking corners too fast, weakens Antonelli's chances of winning the championship. The driver can no longer rely on an inevitable title."
-    },
-    {
-      "id": "1e505179ecc4",
-      "title": "\"Just undriveable\" – Isack Hadjar looking for answers after \"massive\" struggles in Austin practice",
-      "title_fr": "Red Bull cherche l'équilibre après la pratique à Austin",
-      "title_en": "Red Bull seeks balance after Austin practice",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YN7vAKb6/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-10-24T10:30:02+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a exprimé sa satisfaction quant aux premiers résultats du RB22, mais a souligné que l'équilibre entre les virages rapides et lents doit encore être amélioré. Isack Hadjar a connu des difficultés majeures en pratique.",
-      "summary_en": "Max Verstappen expressed satisfaction with the early results of the RB22, but said the balance between high-speed and low-speed corners still needs improvement. Isack Hadjar faced massive struggles in practice."
     }
   ]
 }
