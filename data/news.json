@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-26T03:24:41Z",
+  "last_updated": "2026-10-26T06:26:39Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "c315a41a113c",
+      "title": "Alonso criticises quality of F1 backmarkers after Albon clash at United States GP",
+      "title_fr": "Alonso critique les backmarkers après l'incident avec Albon",
+      "title_en": "Alonso criticises backmarkers after clash with Albon",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/alonso-criticises-f1-backmarkers-after-albon-clash/10868469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVPZwO0/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": "2026-10-26T06:14:23+00:00",
+      "race_id": "usa",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a dénoncé la qualité des backmarkers après le choc avec Alex Albon lors du premier tour du Grand Prix des États-Unis. L'incident a coûté quatre places à l'Aston Martin.",
+      "summary_en": "Fernando Alonso slammed the quality of backmarkers after a clash with Alex Albon on the opening lap of the United States Grand Prix. The incident cost the Aston Martin driver four places."
+    },
+    {
+      "id": "96ba093c76c5",
+      "title": "Fernando Alonso blasts driving standards of bottom half of F1 grid",
+      "title_fr": "Alonso critique les standards de conduite de la grille inférieure",
+      "title_en": "Alonso blasts driving standards of bottom half of F1 grid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEANmN0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-10-26T06:10:52+00:00",
+      "race_id": "usa",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Alonso a critiqué les standards de conduite de la grille inférieure après avoir heurté Alex Albon sur le départ du Grand Prix d’Austin. Le choc a coûté quatre places à l’Aston Martin et endommagé son plancher.",
+      "summary_en": "Alonso blasted the bottom‑half drivers after colliding with Alex Albon on the opening lap of the United States Grand Prix. The impact cost him four places and damaged the Aston Martin's floor."
+    },
     {
       "id": "234939e2a05f",
       "title": "Winners and losers from F1's United States Grand Prix",
@@ -191,6 +229,44 @@
       "is_breaking": false,
       "summary_fr": "Russell a déclaré que finir deuxième du championnat ne lui signifie rien, alors que Hamilton, Verstappen et Leclerc se rapprochent après le Grand Prix des États-Unis. Pilote Mercedes a terminé huitième à Austin après une pénalité de cinq secondes.",
       "summary_en": "George Russell said finishing second in the championship means nothing to him, as Hamilton, Verstappen and Leclerc close in after the United States Grand Prix. The Mercedes driver finished eighth in Austin after a five-second penalty."
+    },
+    {
+      "id": "437602907ef0",
+      "title": "Alonso says F1 has ‘very low quality drivers’ at back of grid after Albon collision | Formula 1",
+      "title_fr": "Alonso critique la qualité des pilotes en fin de grille après collision avec Albon",
+      "title_en": "Alonso calls F1 drivers \"very low quality\" after clash with Albon",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/alonso-says-f1-has-very-low-quality-drivers-at-back-of-grid-after-albon-collision/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-15-24-22-1-2301976203.jpg",
+      "published_at": "2026-10-25T23:18:24+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a qualifié la conduite des pilotes de la fin de grille de \"très basse qualité\" après son embrouillement avec Alexander Albon. Le commentaire a suscité l’attention des fans.",
+      "summary_en": "Fernando Alonso called the drivers at the back of the grid \"very low quality\" after his clash with Alexander Albon. The remark drew attention from fans."
+    },
+    {
+      "id": "401eec9058e7",
+      "title": "Hadjar urges Red Bull to redesign clutch after another poor start | Formula 1",
+      "title_fr": "Hadjar exige une refonte de l'embrayage de Red Bull",
+      "title_en": "Hadjar demands Red Bull redesign clutch after poor start",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/hadjar-urges-red-bull-to-redesign-clutch-after-another-poor-start/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-05-12-4-SI202610251131.jpg",
+      "published_at": "2026-10-25T23:07:29+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a reproché à Red Bull la conception de son embrayage après un départ décevant lors du Grand Prix des États-Unis. Le pilote a appelé à une refonte pour améliorer la performance.",
+      "summary_en": "Isack Hadjar blamed Red Bull's clutch design after a poor start at the United States Grand Prix, calling for a redesign to improve performance."
     },
     {
       "id": "c44a0d2d6253",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 championship leader Kimi Antonelli reckons his United States Grand Prix pole is the reward for Mercedes' efforts to finetune its comprehensive but troubled Malaysia upgrade.<br />Antonelli h",
       "summary_en": "Formula 1 championship leader Kimi Antonelli reckons his United States Grand Prix pole is the reward for Mercedes' efforts to finetune its comprehensive but troubled Malaysia upgrade.<br />Antonelli h"
-    },
-    {
-      "id": "fe93f5b8a489",
-      "title": "Leclerc and Hamilton's differing theories behind Ferrari's Austin qualifying disappointment",
-      "title_fr": "Ferrari déçoit en qualification malgré Leclerc et Hamilton",
-      "title_en": "Ferrari disappoints in qualifying despite Leclerc and Hamilton",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/leclerc-and-hamilton-theories-on-ferrari-qualifying-performance/10868059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/27Noedo0/s6/charles-leclerc-ferrari-4.jpg",
-      "published_at": "2026-10-24T23:58:33+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Ferrari, pourtant favori après les séances de formation aux États-Unis, n'a pas progressé en Q3. Leclerc a dominé les deux premières séances, tandis que Hamilton a pris le relais après la suppression d'un tour de Leclerc.",
-      "summary_en": "Ferrari, the favourite after practice at the United States Grand Prix, failed to progress in Q3. Leclerc topped the first two sessions, while Hamilton took over after Leclerc's best lap was deleted."
-    },
-    {
-      "id": "f5d2e33cd6d0",
-      "title": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
-      "title_fr": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
-      "title_en": "Why Ferrari failed to deliver on its hype in F1's United States GP qualifying",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-ferrari-couldnt-challenge-for-pole-in-us-gp-qualifying/10868050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27No4aX0/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-10-24T23:53:54+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through",
-      "summary_en": "Ferrari had been pegged as the team to beat after practice at the United States Grand Prix, but ultimately found itself wanting when it came to qualifying and failed to find enough progression through"
-    },
-    {
-      "id": "700ebd05915c",
-      "title": "Isack Hadjar rues \"disaster of a weekend\" despite US GP qualifying turnaround",
-      "title_fr": "Hadjar se remet de la catastrophe du week-end pour viser Antonelli",
-      "title_en": "Hadjar bounces back from disastrous weekend to target Antonelli",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-rues-disaster-of-a-weekend-despite-us-gp-qualifying-turnaround/10868055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGg4B7Y/s6/motorsport-com-graphics-9.jpg",
-      "published_at": "2026-10-24T23:50:40+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar, pilote de Red Bull, a surmonté un week-end catastrophique pour se rapprocher de la pole position d'Antonelli, se situant à 0,036 seconde de Verstappen et à 0,215 seconde de la pole.",
-      "summary_en": "Isack Hadjar, Red Bull's driver, bounced back from a disastrous weekend to close in on Antonelli's pole, finishing 0.036 seconds behind teammate Max Verstappen and 0.215 seconds off the pole time."
-    },
-    {
-      "id": "e411fe4343e0",
-      "title": "Oscar Piastri warns COTA bumps could become an overtaking hazard at US GP",
-      "title_fr": "Piastri alerte sur le rebond du Circuit des Amériques qui pourrait gêner les dépassements",
-      "title_en": "Piastri warns COTA bump could become overtaking hazard",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-compares-cota-bump-to-a-motocross-jump-after-us-gp-qualifying/10868037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8pr56/s6/motorsport-com-graphics-8.jpg",
-      "published_at": "2026-10-24T23:27:55+00:00",
-      "race_id": "australia",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri, qualifié septième au Grand Prix des États-Unis, a comparé le rebond avant le virage 1 du Circuit des Amériques à un saut de motocross, craignant qu’il ne devienne un danger pour les dépassements",
-      "summary_en": "Oscar Piastri, who qualified seventh at the US GP, likened the bump before Turn 1 at the Circuit of the Americas to a motocross jump, warning it could become a hazard for overtaking"
     }
   ]
 }
