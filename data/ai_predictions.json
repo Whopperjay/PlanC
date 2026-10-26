@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T13:00:32Z",
-  "model": "claude",
+  "generated_at": "2026-10-26T03:25:35Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -114,13 +114,13 @@
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
       "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance, et la Mercedes est la référence en 2026. Il a aussi évité les erreurs de limites de piste en qualif. Verstappen revient fort : deuxième à Austin, Red Bull plus solide, et il aime l'altitude de Mexico. Russell reste une valeur sûre sur un tour avec la même Mercedes.",
-      "reasoning_en": "Antonelli leads the championship by 102 points, and Mercedes is the 2026 benchmark. He also avoided track-limits mistakes in qualifying. Verstappen is coming on strong: second in Austin, Red Bull more consistent, and he likes Mexico's high altitude. Russell remains a reliable one-lap threat in the same Mercedes.",
+      "p3": "leclerc",
+      "reasoning_fr": "Antonelli arrive en pole grâce à son rythme exceptionnel en qualification, confirmé par sa victoire à Austin et sa première place à la dernière séance. Verstappen reste très rapide malgré les problèmes de radio, son monoplace Red Bull conserve une puissance élevée à haute altitude, ce qui le place naturellement en deuxième. Leclerc profite de la percée annoncée chez Ferrari et de son bon positionn",
+      "reasoning_en": "Antonelli is likely to take pole after delivering the fastest lap in the United States and showing the strongest single‑lap pace this weekend. Verstappen remains a threat; despite radio woes his Red Bull still produces excellent power at altitude, putting him comfortably in second. Leclerc benefits from Ferrari’s recent breakthrough and his solid Q2 performance in Austin, allowing him to challenge",
       "confidence": "medium",
-      "key_factor_fr": "Mercedes dominante, mais l'altitude de Mexico avantage Red Bull",
+      "key_factor_fr": "Puissance moteur à haute altitude et évolution rapide de la piste",
       "news_used_ids": [],
-      "generated_at": "2026-10-25T13:00:32Z"
+      "generated_at": "2026-10-26T03:25:34Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 102 points d'avance et une Mercedes très performante. Verstappen arrive en forme après sa deuxième place à Austin, avec une Red Bull plus régulière. Il compte aussi cinq victoires à Mexico. L'altitude limite l'appui aérodynamique, ce qui avantage les monoplaces efficaces. Russell devrait compléter le podium, devant des Ferrari qui ont décroché au COTA.",
-      "reasoning_en": "Antonelli leads the championship by 102 points and has a very strong Mercedes. Verstappen comes in on form after second place in Austin, with a more consistent Red Bull. He has also won five times in Mexico. The altitude cuts downforce, which favours efficient cars. Russell should complete the podium ahead of Ferrari, who dropped out of the top three at COTA.",
+      "p2": "leclerc",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli part en pole, confirmé par sa victoire à Austin et son rythme de qualification. Leclerc, après son podium à Austin et sa récente percée technique, partira parmi les premiers et bénéficie d’une meilleure stratégie pneus sur le circuit à haute altitude. Verstappen, malgré son rythme, souffre d’un problème de départ non résolu chez Red Bull, ce qui le fera perdre des places au départ, mais ",
+      "reasoning_en": "Antonelli starts from pole, backed by his US‑GP win and strong one‑lap pace. Leclerc, after his US‑GP podium and a newly unlocked performance gain at Ferrari, will be near the front and can exploit the tyre‑management advantage on the high‑altitude Mexican circuit. Verstappen, while possessing race‑pace, is hampered by Red Bull’s unresolved start‑procedure issue, likely costing him several positio",
       "confidence": "medium",
-      "key_factor_fr": "Altitude et efficacité aéro : Mercedes et Red Bull favorisées",
+      "key_factor_fr": "Position de grille + problème de départ Red Bull",
       "news_used_ids": [],
-      "generated_at": "2026-10-25T13:00:23Z"
+      "generated_at": "2026-10-26T03:25:20Z"
     }
   ]
 }
