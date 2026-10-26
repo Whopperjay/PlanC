@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T05:00:04Z",
+  "generated_at": "2026-10-26T13:00:24Z",
   "model": "claude",
   "predictions": [
     {
@@ -113,14 +113,14 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
+      "p2": "russell",
       "p3": "leclerc",
-      "reasoning_fr": "Antonelli arrive en pole grâce à son rythme exceptionnel en qualification, confirmé par sa victoire à Austin et sa première place à la dernière séance. Verstappen reste très rapide malgré les problèmes de radio, son monoplace Red Bull conserve une puissance élevée à haute altitude, ce qui le place naturellement en deuxième. Leclerc profite de la percée annoncée chez Ferrari et de son bon positionn",
-      "reasoning_en": "Antonelli is likely to take pole after delivering the fastest lap in the United States and showing the strongest single‑lap pace this weekend. Verstappen remains a threat; despite radio woes his Red Bull still produces excellent power at altitude, putting him comfortably in second. Leclerc benefits from Ferrari’s recent breakthrough and his solid Q2 performance in Austin, allowing him to challenge",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, et la Mercedes reste la référence sur un tour cette saison. Russell, le plus rapide derrière lui, est son concurrent le plus naturel pour la pole. À Mexico, l'altitude réduit l'appui aérodynamique, et Ferrari y a souvent brillé en qualif (poles en 2023 et 2024). Leclerc devance donc de peu Verstappen, gêné par ses soucis radio.",
+      "reasoning_en": "Antonelli leads the championship by 123 points, and Mercedes remains the benchmark over one lap this season. Russell, the quickest driver behind him, is his most likely rival for pole. In Mexico, the altitude cuts aerodynamic downforce, and Ferrari has often been strong there in qualifying (poles in 2023 and 2024). That puts Leclerc narrowly ahead of Verstappen, who is struggling with radio proble",
       "confidence": "medium",
-      "key_factor_fr": "Puissance moteur à haute altitude et évolution rapide de la piste",
+      "key_factor_fr": "Mercedes référence sur un tour, Antonelli intouchable cette saison",
       "news_used_ids": [],
-      "generated_at": "2026-10-26T03:25:34Z"
+      "generated_at": "2026-10-26T13:00:24Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "leclerc",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli part en pole, confirmé par sa victoire à Austin et son rythme de qualification. Leclerc, après son podium à Austin et sa récente percée technique, partira parmi les premiers et bénéficie d’une meilleure stratégie pneus sur le circuit à haute altitude. Verstappen, malgré son rythme, souffre d’un problème de départ non résolu chez Red Bull, ce qui le fera perdre des places au départ, mais ",
-      "reasoning_en": "Antonelli starts from pole, backed by his US‑GP win and strong one‑lap pace. Leclerc, after his US‑GP podium and a newly unlocked performance gain at Ferrari, will be near the front and can exploit the tyre‑management advantage on the high‑altitude Mexican circuit. Verstappen, while possessing race‑pace, is hampered by Red Bull’s unresolved start‑procedure issue, likely costing him several positio",
+      "p2": "russell",
+      "p3": "leclerc",
+      "reasoning_fr": "Mercedes domine 2026 et Antonelli compte 123 points d'avance au championnat. Russell, frustré par sa pénalité à Austin, devrait réagir. À Mexico, l'air raréfié pèse sur le refroidissement et l'appui aérodynamique, un terrain historiquement favorable à Ferrari. Leclerc, souvent rapide sur un tour ici, devance Hamilton de justesse. Verstappen reste une menace, mais ses soucis de radio rappellent l'i",
+      "reasoning_en": "Mercedes dominates 2026 and Antonelli leads the championship by 123 points. Russell, frustrated by his Austin penalty, should bounce back. Mexico's thin air stresses cooling and downforce, which has historically suited Ferrari. Leclerc, often quick over one lap here, edges Hamilton. Verstappen remains a threat, but his radio issues reflect Red Bull's inconsistency.",
       "confidence": "medium",
-      "key_factor_fr": "Position de grille + problème de départ Red Bull",
+      "key_factor_fr": "Domination Mercedes et altitude favorable au package Ferrari",
       "news_used_ids": [],
-      "generated_at": "2026-10-26T03:25:20Z"
+      "generated_at": "2026-10-26T13:00:14Z"
     }
   ]
 }
