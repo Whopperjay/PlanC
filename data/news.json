@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-26T12:30:44Z",
+  "last_updated": "2026-10-26T15:32:51Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "1fa031234497",
+      "title": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
+      "title_fr": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
+      "title_en": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7vZqm6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-26T13:29:54+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better.<br />The Merce",
+      "summary_en": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better.<br />The Merce"
+    },
+    {
+      "id": "88a019786257",
+      "title": "Mercedes pokes fun at Kimi Antonelli after awkward Austin mishap",
+      "title_fr": "Mercedes se moque de Kimi Antonelli après sa maladresse à Austin",
+      "title_en": "Mercedes teases Kimi Antonelli after awkward Austin mishap",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-kimi-antonelli-after-awkward-austin-mishap/10868627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKA1geY/s6/motorsport-com-graphics-16.jpg",
+      "published_at": "2026-10-26T12:39:00+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Mercedes a partagé une vidéo de la maladresse de Kimi Antonelli qui a heurté une clôture en reculant dans le circuit d'Austin. Le pilote de 20 ans a fait l'objet d'une plaisanterie sur TikTok.",
+      "summary_en": "Mercedes shared a clip of Kimi Antonelli’s awkward reverse that hit a fence in Austin, teasing the 20‑year‑old on TikTok."
+    },
+    {
+      "id": "004387ae0cd4",
+      "title": "Antonelli will automatically become champion if F1 cancels another race | Formula 1",
+      "title_fr": "Antonelli deviendra champion si la F1 annule une course",
+      "title_en": "Antonelli will become champion if F1 cancels a race",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/26/antonelli-will-automatically-become-champion-if-f1-cancels-another-race/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-28-11-14-M644146_F1_Grand_Prix_of_United_States.jpg",
+      "published_at": "2026-10-26T12:37:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli est presque assuré de remporter le championnat ce week-end, mais une annulation de course pourrait le couronner immédiatement.",
+      "summary_en": "Andrea Kimi Antonelli is almost guaranteed to win the championship this weekend, but a race cancellation could crown him champion immediately."
+    },
     {
       "id": "587aac19ca68",
       "title": "Franco Colapinto responds to Jeremy Clarkson’s controversial comment about him",
@@ -115,6 +172,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen described Red Bull's radio problems as a \"disaster\" after suffering more communications trouble in Austin.",
       "summary_en": "Max Verstappen described Red Bull's radio problems as a \"disaster\" after suffering more communications trouble in Austin."
+    },
+    {
+      "id": "068c1b4e05d5",
+      "title": "Antonelli was “concerned” by threat from Verstappen’s early pit stop in Austin | Formula 1",
+      "title_fr": "Antonelli was “concerned” by threat from Verstappen’s early pit stop in Austin | Formula 1",
+      "title_en": "Antonelli was “concerned” by threat from Verstappen’s early pit stop in Austin | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/26/antonelli-was-concerned-by-threat-from-verstappens-early-pit-stop-in-austin/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-28-11-7-M643805_F1_Grand_Prix_of_United_States.jpg",
+      "published_at": "2026-10-26T07:15:08+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli admitted he was concerned to see rival Max Verstappen make an early pit stop in the United States Grand Prix.",
+      "summary_en": "Andrea Kimi Antonelli admitted he was concerned to see rival Max Verstappen make an early pit stop in the United States Grand Prix."
     },
     {
       "id": "21734af449f5",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le COTA a inauguré un club-house multi-étages à l’entrée du virage 1, relié au paddock par un téléphérique. Les organisateurs envisagent également de construire un deuxième circuit sur le site.",
       "summary_en": "COTA has opened a massive multi-storey clubhouse at Turn 1, linked to the paddock by a cable car. Organisers also plan to build a second track on the site."
-    },
-    {
-      "id": "c6d2147f6dec",
-      "title": "Max Verstappen puzzled by Q3 grip loss, but Austin shows how far Red Bull has progressed",
-      "title_fr": "Verstappen deuxième, Ferrari hors du premier trio à Austin",
-      "title_en": "Verstappen second, Ferrari out of top three in Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2QedgVN2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-25T12:00:23+00:00",
-      "race_id": "netherlands",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Verstappen a terminé deuxième en qualification à Austin, tandis que Ferrari n'a pas réussi à se placer parmi les trois premiers. Kimi Antonelli a surpris en se qualifiant parmi les meilleurs.",
-      "summary_en": "Verstappen finished second in Austin qualifying, while Ferrari failed to make the top three. Kimi Antonelli surprised by qualifying among the front runners."
-    },
-    {
-      "id": "43c5d890d63d",
-      "title": "Red Bull no longer falls away on difficult days: What Austin qualifying reveals about its progress",
-      "title_fr": "Red Bull ne flanche plus en journée difficile",
-      "title_en": "Red Bull no longer falters on tough days: Austin qualifying shows progress",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2QedgVN2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-25T11:59:20+00:00",
-      "race_id": "netherlands",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "À Austin, la qualification a montré que Red Bull ne flanche plus en journées difficiles. Max Verstappen a terminé deuxième, tandis que Ferrari n'a pas réussi à atteindre le top trois, et Kimi Antonelli a surpris en troisième.",
-      "summary_en": "In Austin, the qualifying session showed Red Bull no longer falters on tough days. Max Verstappen finished second, while Ferrari failed to reach the top three and Kimi Antonelli surprised by taking third."
-    },
-    {
-      "id": "0f203cd6602f",
-      "title": "“It does feels different” Antonelli admits ahead of first chance to seal title | Formula 1",
-      "title_fr": "Antonelli ressent la différence avant de viser le titre",
-      "title_en": "Antonelli feels the difference before chasing the title",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/it-does-feels-different-antonelli-admits-ahead-of-first-chance-to-seal-title/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-51-11-2-M642877_F1_UNITED_STATES_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-10-25T10:40:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a déclaré que la course de ce week-end lui semblait différente, car il a sa première chance de couronner le championnat du monde.",
-      "summary_en": "Andrea Kimi Antonelli said this weekend's race feels different because he has his first chance to clinch the world championship."
-    },
-    {
-      "id": "15f5beb7bf90",
-      "title": "Max Verstappen reacts to COTA boss: \"He can drive my car, after five laps he won't be able to walk\"",
-      "title_fr": "Verstappen critique les bosses du COTA",
-      "title_en": "Verstappen criticises COTA bumps",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8dLd6/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-25T09:23:16+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a exprimé son mécontentement face aux bosses extrêmes du Circuit des Amériques, affirmant que la piste, construite sur un sol argileux très plastique, mettrait les pilotes à rude épreuve après quelques tours.",
-      "summary_en": "Max Verstappen voiced his frustration over the extreme bumps at the Circuit of the Americas, saying the track's highly plastic clay surface would make drivers struggle after a few laps."
     }
   ]
 }
