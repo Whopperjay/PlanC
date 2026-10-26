@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-26T06:26:39Z",
+  "last_updated": "2026-10-26T09:28:41Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5d19eb76eb8c",
+      "title": "Who slept best last night: Liam Lawson",
+      "title_fr": "Who slept best last night: Liam Lawson",
+      "title_en": "Who slept best last night: Liam Lawson",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-liam-lawson-10868533/10868533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2jEANDb0/s6/liam-lawson-racing-bulls.jpg",
+      "published_at": "2026-10-26T08:35:20+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Jolyon Palmer wasn't trying to be creative when he asked Liam Lawson about his future during F1 TV's live post-race coverage. It was simply a question anyone would ask – perhaps even Lawson himself. T",
+      "summary_en": "Jolyon Palmer wasn't trying to be creative when he asked Liam Lawson about his future during F1 TV's live post-race coverage. It was simply a question anyone would ask – perhaps even Lawson himself. T"
+    },
+    {
+      "id": "c3d1eafc1740",
+      "title": "More radio problems vex Verstappen: “‘Maybe we should use sign language’ | Formula 1",
+      "title_fr": "More radio problems vex Verstappen: “‘Maybe we should use sign language’ | Formula 1",
+      "title_en": "More radio problems vex Verstappen: “‘Maybe we should use sign language’ | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/26/more-radio-problems-vex-verstappen-maybe-we-should-use-sign-language/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-20-56-24-1-SI202610251091.jpg",
+      "published_at": "2026-10-26T08:20:32+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen described Red Bull's radio problems as a \"disaster\" after suffering more communications trouble in Austin.",
+      "summary_en": "Max Verstappen described Red Bull's radio problems as a \"disaster\" after suffering more communications trouble in Austin."
+    },
+    {
+      "id": "21734af449f5",
+      "title": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
+      "title_fr": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
+      "title_en": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vZZj6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-26T06:57:41+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen secured his tenth podium finish of the 2026 Formula 1 season in Austin, his sixth in succession since his crash at Zandvoort. It is an impressive statistic, although it did little to sa",
+      "summary_en": "Max Verstappen secured his tenth podium finish of the 2026 Formula 1 season in Austin, his sixth in succession since his crash at Zandvoort. It is an impressive statistic, although it did little to sa"
+    },
+    {
+      "id": "1d1fac1b16a5",
+      "title": "Max Verstappen pinpoints two recurring Red Bull problems: \"We should use sign language!\"",
+      "title_fr": "Verstappen critique les problèmes récurrents de Red Bull à Austin",
+      "title_en": "Verstappen blames Red Bull's recurring issues after Austin podium",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vZZj6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-26T06:55:30+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a terminé à la troisième place à Austin, son dixième podium de la saison, mais a dénoncé deux problèmes récurrents chez Red Bull, déclarant qu'il fallait utiliser le langage des signes",
+      "summary_en": "Max Verstappen finished third in Austin, his tenth podium of the season, but flagged two recurring Red Bull issues, saying they should 'use sign language'"
+    },
     {
       "id": "c315a41a113c",
       "title": "Alonso criticises quality of F1 backmarkers after Albon clash at United States GP",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc et Lewis Hamilton débuteront le Grand Prix des États-Unis en 4e et 5e positions. Leclerc affirme que les deux pilotes connaissent la ligne à ne pas franchir avant le premier virage d'Austin.",
       "summary_en": "Charles Leclerc and Lewis Hamilton will start the United States Grand Prix in fourth and fifth positions. Leclerc says both drivers know the line they must not cross before Turn 1 at Austin."
-    },
-    {
-      "id": "9466f710e667",
-      "title": "Alpine issues statement after Jeremy Clarkson's controversial Franco Colapinto comments",
-      "title_fr": "Alpine réagit aux propos controversés de Clarkson sur Colapinto",
-      "title_en": "Alpine responds to Clarkson's controversial remarks about Colapinto",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/alpine-issues-statement-after-jeremy-clarksons-controversial-franco-colapinto-comments/10868082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0rVPZQq0/s6/motorsport-com-graphics-10.jpg",
-      "published_at": "2026-10-25T00:24:51+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Alpine a publié un communiqué soutenant Franco Colapinto après que Jeremy Clarkson ait plaisanté sur Sky Sports F1, le qualifiant de pénalité de grille pour être argentin.",
-      "summary_en": "Alpine issued a statement backing Franco Colapinto after Jeremy Clarkson joked on Sky Sports F1 that the driver had been given a grid penalty for being Argentine."
-    },
-    {
-      "id": "33b29b183626",
-      "title": "George Russell calls for F1 rethink as cars are “forced to run so low and so stiff”",
-      "title_fr": "Russell réclame un nouveau regard sur la rigidité des voitures",
-      "title_en": "Russell calls for a rethink on car stiffness",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-rethink-as-cars-are-forced-to-run-so-low-and-so-stiff/10868060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QVZm6/s6/motorsport-com-graphics-18.jpg",
-      "published_at": "2026-10-25T00:24:29+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "George Russell, qui débutera à la sixième place du Grand Prix des États-Unis, dénonce la rigidité des voitures et appelle la F1 à repenser la configuration des véhicules.",
-      "summary_en": "George Russell, starting sixth in the United States Grand Prix, criticises the cars' stiffness and urges F1 to rethink vehicle setup."
-    },
-    {
-      "id": "95b05ea97198",
-      "title": "Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades",
-      "title_fr": "Antonelli décroche le pole aux États-Unis grâce aux améliorations Mercedes",
-      "title_en": "Antonelli secures US GP pole as Mercedes upgrades pay off",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNoJo0/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": "2026-10-25T00:13:34+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a obtenu le pole aux États-Unis, saluant les ajustements de Mercedes suite aux upgrades de Malaisie. Le pilote a battu Max Verstappen et Isack Hadjar sur le Circuit of the Americas.",
-      "summary_en": "Kimi Antonelli secured pole at the United States GP, praising Mercedes' fine‑tuning after the Malaysia upgrades. He beat Max Verstappen and Isack Hadjar on the Circuit of the Americas."
-    },
-    {
-      "id": "1f0e5e81d98a",
-      "title": "Kimi Antonelli delivers Austin surprise pole in tricky Mercedes: \"Finally we're seeing the results\"",
-      "title_fr": "Kimi Antonelli delivers Austin surprise pole in tricky Mercedes: \"Finally we're seeing the results\"",
-      "title_en": "Kimi Antonelli delivers Austin surprise pole in tricky Mercedes: \"Finally we're seeing the results\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-delivers-austin-surprise-pole-in-tricky-mercedes-finally-were-seeing-the-results/10868069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YK15AVb0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-25T00:09:10+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 championship leader Kimi Antonelli reckons his United States Grand Prix pole is the reward for Mercedes' efforts to finetune its comprehensive but troubled Malaysia upgrade.<br />Antonelli h",
-      "summary_en": "Formula 1 championship leader Kimi Antonelli reckons his United States Grand Prix pole is the reward for Mercedes' efforts to finetune its comprehensive but troubled Malaysia upgrade.<br />Antonelli h"
     }
   ]
 }
