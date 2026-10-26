@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-26T09:28:41Z",
+  "last_updated": "2026-10-26T12:30:44Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "587aac19ca68",
+      "title": "Franco Colapinto responds to Jeremy Clarkson’s controversial comment about him",
+      "title_fr": "Colapinto riposte à Clarkson sur la pénalité",
+      "title_en": "Colapinto responds to Clarkson's remark",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/franco-colapinto-responds-to-jeremy-clarksons-controversial-comment-about-him/10868562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6VyKX7dY/s6/franco-colapinto-alpine.jpg",
+      "published_at": "2026-10-26T11:35:03+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Franco Colapinto a réagi à la remarque de Jeremy Clarkson, qui aurait donné une pénalité de grille à l'Argentin. Le pilote a exprimé son mécontentement.",
+      "summary_en": "Franco Colapinto reacted to Jeremy Clarkson's joke about giving the Argentine driver a grid penalty. The driver expressed his displeasure."
+    },
+    {
+      "id": "4a9a688c5831",
+      "title": "Juan Pablo Montoya questions George Russell's F1 United States GP penalty",
+      "title_fr": "Montoya conteste la pénalité de Russell aux États-Unis",
+      "title_en": "Montoya questions Russell's penalty at United States GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-questions-george-russells-f1-united-states-gp-penalty/10868603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmANE80/s6/motorsport-com-graphics-15.jpg",
+      "published_at": "2026-10-26T11:25:23+00:00",
+      "race_id": "usa",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Juan Pablo Montoya a exprimé son étonnement face à la pénalité de cinq secondes infligée à George Russell pour avoir quitté la piste au virage 12 et repris devant Oscar Piastri. Russell a terminé huitième.",
+      "summary_en": "Juan Pablo Montoya expressed surprise at the five‑second penalty given to George Russell for leaving the track at turn 12 and rejoining ahead of Oscar Piastri. Russell finished eighth."
+    },
+    {
+      "id": "7a7700c12357",
+      "title": "Spotlight: Wolff on stewards’ decision to penalise Russell: “It’s legal, here, to smoke” | Briefs",
+      "title_fr": "Wolff justifie la sanction de Russell",
+      "title_en": "Wolff defends stewards' penalty on Russell: 'It's legal to smoke here'",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/26/spotlight-wolff-on-stewards-decision-to-penalise-russell-its-legal-here-to-smoke/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-15-04-47-1-2301975338.jpg",
+      "published_at": "2026-10-26T10:46:57+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Williams, Mike Wolff, a justifié la sanction infligée à George Russell, affirmant que la règle permet de fumer sur le circuit. Il a déclaré que la décision était conforme aux règlements.",
+      "summary_en": "Williams team principal Mike Wolff defended the stewards' penalty on George Russell, saying the rule allows smoking on the track. He said the decision complied with the regulations."
+    },
+    {
+      "id": "eda275f8876e",
+      "title": "Who slept worst last night: Lando Norris",
+      "title_fr": "Norris subit une mauvaise nuit sur la piste",
+      "title_en": "Norris suffers a bad night on track",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lando-norris-10868577/10868577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6b8ZgVp2/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-10-26T10:40:11+00:00",
+      "race_id": "usa",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a perdu des points après une mauvaise nuit sur la piste, suite à un incident technique qui l'a fait sortir de la course.",
+      "summary_en": "Lando Norris lost points after a bad night on track, following a technical incident that forced him out of the race."
+    },
     {
       "id": "5d19eb76eb8c",
       "title": "Who slept best last night: Liam Lawson",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a exprimé son mécontentement face aux bosses extrêmes du Circuit des Amériques, affirmant que la piste, construite sur un sol argileux très plastique, mettrait les pilotes à rude épreuve après quelques tours.",
       "summary_en": "Max Verstappen voiced his frustration over the extreme bumps at the Circuit of the Americas, saying the track's highly plastic clay surface would make drivers struggle after a few laps."
-    },
-    {
-      "id": "1e764af87f3f",
-      "title": "Verstappen responds to COTA boss and proposes drastic measures to tackle bumps",
-      "title_fr": "Verstappen réclame des mesures drastiques contre les bosses du COTA",
-      "title_en": "Verstappen calls for drastic measures to tackle COTA bumps",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8dLd6/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-25T09:22:10+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Max Verstappen a demandé à la FIA et aux organisateurs du Circuit of the Americas de prendre des mesures drastiques pour corriger les bosses du circuit, après avoir exprimé ses inquiétudes lors de la séance d'information des pilotes",
-      "summary_en": "Max Verstappen urged the FIA and Circuit of the Americas officials to implement drastic measures to fix the extreme bumps on the track, after voicing concerns during the Friday drivers' briefing"
-    },
-    {
-      "id": "b15c47a0349d",
-      "title": "Loss of pace in Q3 ‘something we have to look at because it’s very odd’ – Verstappen | Formula 1",
-      "title_fr": "Verstappen dénonce perte de vitesse en Q3",
-      "title_en": "Verstappen blames loss of pace in Q3",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/loss-of-pace-in-q3-something-we-have-to-look-at-because-its-very-odd-verstappen/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-16-01-42-10-39-friday-austin-2026.jpg",
-      "published_at": "2026-10-25T01:22:08+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a déclaré que Red Bull doit comprendre pourquoi sa voiture était plus rapide sur pneus usés en qualification. Le pilote souligne l'irrégularité de la performance en Q3.",
-      "summary_en": "Max Verstappen says Red Bull must investigate why his car performed better on worn tyres in qualifying. The driver points out the odd drop in pace during Q3."
-    },
-    {
-      "id": "c5acf4971737",
-      "title": "Antonelli pleased and surprised to avoid another track limits breach in qualifying | Formula 1",
-      "title_fr": "Antonelli pleased and surprised to avoid another track limits breach in qualifying | Formula 1",
-      "title_en": "Antonelli pleased and surprised to avoid another track limits breach in qualifying | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/antonelli-pleased-and-surprised-to-avoid-another-track-limits-breach-in-qualifying/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-55-15-4-M642699_F1_Grand_Prix_of_United_States_Qualifying.jpg",
-      "published_at": "2026-10-25T01:12:44+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli admitted he was pleased to avoid a penalty for exceeding track limits after claiming pole position in Austin.",
-      "summary_en": "Andrea Kimi Antonelli admitted he was pleased to avoid a penalty for exceeding track limits after claiming pole position in Austin."
-    },
-    {
-      "id": "911d48d054cb",
-      "title": "Charles Leclerc sets boundaries with Lewis Hamilton ahead of Turn 1 battle",
-      "title_fr": "Leclerc et Hamilton se confrontent sur la ligne d'Austin",
-      "title_en": "Leclerc and Hamilton set boundaries before Turn 1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-sets-boundaries-with-lewis-hamilton-ahead-of-turn-1-battle/10868086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9E4MpY/s6/motorsport-com-graphics-19.jpg",
-      "published_at": "2026-10-25T00:38:27+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc et Lewis Hamilton débuteront le Grand Prix des États-Unis en 4e et 5e positions. Leclerc affirme que les deux pilotes connaissent la ligne à ne pas franchir avant le premier virage d'Austin.",
-      "summary_en": "Charles Leclerc and Lewis Hamilton will start the United States Grand Prix in fourth and fifth positions. Leclerc says both drivers know the line they must not cross before Turn 1 at Austin."
     }
   ]
 }
