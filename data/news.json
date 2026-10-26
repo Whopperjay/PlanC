@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-26T00:22:39Z",
+  "last_updated": "2026-10-26T03:24:41Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "234939e2a05f",
+      "title": "Winners and losers from F1's United States Grand Prix",
+      "title_fr": "Kimi Antonelli remporte le Grand Prix des États-Unis malgré un duel stratégique",
+      "title_en": "Kimi Antonelli wins US Grand Prix amid strategic battle",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-united-states-grand-prix/10868465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBRRZ6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-10-26T01:48:25+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté le Grand Prix des États-Unis, mais la course n'a pas été un classique instantané. Les quatre équipes se sont livrées à une bataille de stratégies, avec les trois composés de pneus en jeu.",
+      "summary_en": "Kimi Antonelli won the United States Grand Prix, but the race fell short of an instant classic. Four teams fought a strategic battle, with all three tyre compounds in play."
+    },
+    {
+      "id": "b27ed9977ae2",
+      "title": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
+      "title_fr": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
+      "title_en": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arENNk2/s6/motorsport-com-graphics-27.jpg",
+      "published_at": "2026-10-26T00:54:02+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be ",
+      "summary_en": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be "
+    },
+    {
+      "id": "13bce0a90ded",
+      "title": "Kimi Antonelli reveals biggest mistakes of 2026 as Max Verstappen takes playful dig",
+      "title_fr": "Antonelli expose ses plus gros défauts, Verstappen le taquine",
+      "title_en": "Antonelli lists biggest mistakes, Verstappen teases him",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/24QGooPY/s6/motorsport-com-graphics-14.jpg",
+      "published_at": "2026-10-26T00:29:03+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a dévoilé les erreurs qu’il souhaite corriger cette saison, tandis que Max Verstappen l’a taquiné. Le pilote Mercedes a remporté le Grand Prix des États‑Unis, rapprochant son équipe du titre.",
+      "summary_en": "Kimi Antonelli revealed the mistakes he wants to learn from this season, while Max Verstappen playfully teased him. The Mercedes driver won the United States Grand Prix, bringing his team closer to the title."
+    },
+    {
+      "id": "bcd33624c37d",
+      "title": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
+      "title_fr": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
+      "title_en": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGg4o9Y/s6/motorsport-com-graphics-26-2.jpg",
+      "published_at": "2026-10-26T00:24:29+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United",
+      "summary_en": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United"
+    },
     {
       "id": "f4978b83f861",
       "title": "Max Verstappen jokes Red Bull should abandon radios after United States GP struggles",
@@ -39,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc affirme avoir débloqué quelque chose dans sa conduite avec Ferrari et se sent prêt à viser la victoire avant la fin de la saison 2026. Il a terminé deuxième aux États-Unis, 13 secondes derrière Kimi Antonelli.",
       "summary_en": "Charles Leclerc says he has unlocked something in his driving with Ferrari and feels ready to aim for victory before the end of the 2026 season. He finished second at the United States GP, 13 seconds behind Kimi Antonelli."
+    },
+    {
+      "id": "d2e1c93bc700",
+      "title": "Russell scrambling for answers after \"not being quick enough\" at US GP",
+      "title_fr": "Russell cherche des réponses après son manque de vitesse au GP des États-Unis",
+      "title_en": "Russell scrambling for answers after not being quick enough at US GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/russell-scrambling-for-answers-after-not-being-quick-enough-at-us-gp/10868425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGg4jDY/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-10-25T23:44:47+00:00",
+      "race_id": "usa",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "George Russell a terminé huitième à Austin après une pénalité de cinq secondes pour avoir pris un avantage hors piste. Le pilote Aston Martin cherche à comprendre son manque de vitesse face à Kimi Antonelli, champion en titre.",
+      "summary_en": "George Russell finished eighth in Austin after a five‑second penalty for gaining an advantage off‑track. The Aston Martin driver is looking to understand his lack of pace against Kimi Antonelli, the reigning world champion."
     },
     {
       "id": "8727ae0a0c95",
@@ -136,6 +231,25 @@
       "summary_en": "Talking to Sky Sports F1 after Kimi Antonelli won the United States Grand Prix, Mercedes team principal Toto Wolff revealed what his driver told him before the race.<br />The Italian driver started on"
     },
     {
+      "id": "a8f385bfabb5",
+      "title": "The maths behind Antonelli becoming F1 world champion at Mexico GP",
+      "title_fr": "Antonelli remporte son neuvième victoire aux États-Unis",
+      "title_en": "Antonelli secures ninth win in United States GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-maths-behind-antonelli-becoming-f1-world-champion-at-mexico-gp/10868378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YBVj4KvY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-10-25T22:31:48+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a dominé le Grand Prix des États-Unis, franchissant la ligne d’arrivée depuis le pole pour décrocher sa neuvième victoire de la saison 2026. Ce succès le rapproche de la couronne de champion du monde.",
+      "summary_en": "Kimi Antonelli dominated the United States Grand Prix from pole, securing his ninth win of the 2026 season. The victory brings him closer to the world championship title."
+    },
+    {
       "id": "aea96d875691",
       "title": "How will Kimi Antonelli become F1 world champion at Mexico GP?",
       "title_fr": "Antonelli domine le Grand Prix des États-Unis, 9e victoire",
@@ -191,6 +305,44 @@
       "is_breaking": false,
       "summary_fr": "Antonelli delivers another masterclass<br />Kimi Antonelli was never likely to clinch the title in Texas – too many things needed to fall into place. But he did everything he could, delivering a perfe",
       "summary_en": "Antonelli delivers another masterclass<br />Kimi Antonelli was never likely to clinch the title in Texas – too many things needed to fall into place. But he did everything he could, delivering a perfe"
+    },
+    {
+      "id": "bf1648fc332e",
+      "title": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
+      "title_fr": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
+      "title_en": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lN4gb2/s6/andrea-kimi-antonelli-mercedes-4.jpg",
+      "published_at": "2026-10-25T21:50:12+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole",
+      "summary_en": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole"
+    },
+    {
+      "id": "eefacd510468",
+      "title": "F1 United States GP: Kimi Antonelli takes dominant victory - but no title",
+      "title_fr": "F1 United States GP: Kimi Antonelli takes dominant victory - but no title",
+      "title_en": "F1 United States GP: Kimi Antonelli takes dominant victory - but no title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonelli-wins/10868331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2eZxNlpY/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": "2026-10-25T21:48:01+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole",
+      "summary_en": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole"
     },
     {
       "id": "237b4c66d01b",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Oscar Piastri, qualifié septième au Grand Prix des États-Unis, a comparé le rebond avant le virage 1 du Circuit des Amériques à un saut de motocross, craignant qu’il ne devienne un danger pour les dépassements",
       "summary_en": "Oscar Piastri, who qualified seventh at the US GP, likened the bump before Turn 1 at the Circuit of the Americas to a motocross jump, warning it could become a hazard for overtaking"
-    },
-    {
-      "id": "59273f55be65",
-      "title": "Norris frustrated after United States GP qualifying: \"I did a very bad job\"",
-      "title_fr": "Norris frustré après la qualification aux États-Unis",
-      "title_en": "Norris frustrated after US GP qualifying",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/norris-frustrated-after-united-states-gp-qualifying/10868036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vAja6/s6/lando-norris-mclaren-3.jpg",
-      "published_at": "2026-10-24T23:26:49+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a exprimé sa frustration après avoir terminé huitième en qualification pour le Grand Prix des États-Unis, pensant pouvoir atteindre la première rangée. Il partage la quatrième rangée avec son coéquipier McLaren, Oscar Piastri",
-      "summary_en": "Lando Norris expressed frustration after finishing eighth in qualifying for the United States Grand Prix, having hoped for a front-row spot. He will share the fourth row with teammate McLaren's Oscar Piastri"
-    },
-    {
-      "id": "9b00694cfec1",
-      "title": "Norris says he did a “c*** job” in qualifying after penalty leaves him eighth | Formula 1",
-      "title_fr": "Norris says he did a “c*** job” in qualifying after penalty leaves him eighth | Formula 1",
-      "title_en": "Norris says he did a “c*** job” in qualifying after penalty leaves him eighth | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/norris-says-he-did-a-c-job-in-qualifying-after-penalty-leaves-him-eighth/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-24-12-54-26-1-2301803686.jpg",
-      "published_at": "2026-10-24T23:26:22+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris gave a blunt assessment of his performance after a penalty left him eighth on the grid for this weekend's race.",
-      "summary_en": "Lando Norris gave a blunt assessment of his performance after a penalty left him eighth on the grid for this weekend's race."
-    },
-    {
-      "id": "82c0ae64f3bf",
-      "title": "Norris says he’s “scared in every single corner” after “terrible” qualifying | Formula 1",
-      "title_fr": "Norris se dit « effrayé » après pénalité qui l’a mis en 8e",
-      "title_en": "Norris says he’s “scared” after penalty drops him to eighth",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/norris-says-hes-scared-in-every-single-corner-after-terrible-qualifying/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-13-21-58-1-2301663911.jpg",
-      "published_at": "2026-10-24T23:26:22+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a déclaré qu’il se sentait « effrayé » dans chaque virage après qu’une pénalité l’ait relégué à la huitième place sur le grid. Il a jugé la séance de qualification « terrible ».",
-      "summary_en": "Lando Norris said he felt “scared” in every corner after a penalty dropped him to eighth on the grid. He described the qualifying session as “terrible.”"
-    },
-    {
-      "id": "5c1f9372f27e",
-      "title": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
-      "title_fr": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
-      "title_en": "Lando Norris laments \"very bad job\" in qualifying for F1 United States GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-laments-very-bad-job-in-qualifying-for-f1-united-states-gp/10868026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVPqOG0/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-10-24T23:24:56+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris was incredibly frustrated by his “very bad job” in qualifying for Formula 1’s United States Grand Prix as he took eighth despite thinking a front row was possible.<br />The reigning world",
-      "summary_en": "Lando Norris was incredibly frustrated by his “very bad job” in qualifying for Formula 1’s United States Grand Prix as he took eighth despite thinking a front row was possible.<br />The reigning world"
-    },
-    {
-      "id": "937a5b8a8b84",
-      "title": "Max Verstappen refuses to celebrate US GP qualifying result: 'No need to smile'",
-      "title_fr": "Verstappen refuse de célébrer sa deuxième place aux États-Unis",
-      "title_en": "Verstappen Refuses to Celebrate Second Place in US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-refuses-to-celebrate-us-gp-qualifying-result-no-need-to-smile/10868029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9E4MKY/s6/motorsport-com-graphics-17.jpg",
-      "published_at": "2026-10-24T23:22:41+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen, pilote de Red Bull, a refusé de célébrer sa deuxième place en qualification aux États-Unis, déclarant qu’il n’était pas nécessaire de sourire. Le pole a été remporté par Kimi Antonelli.",
-      "summary_en": "Max Verstappen, Red Bull driver, declined to celebrate his second-place qualifying result in the United States, saying there was no need to smile. Kimi Antonelli took pole."
-    },
-    {
-      "id": "5c7b2206cff2",
-      "title": "Team’s tactical decision not to run in Q3 was “a shame” for Lawson | Formula 1",
-      "title_fr": "Team’s tactical decision not to run in Q3 was “a shame” for Lawson | Formula 1",
-      "title_en": "Team’s tactical decision not to run in Q3 was “a shame” for Lawson | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/24/teams-tactical-decision-not-to-run-in-q3-was-a-shame-for-lawson/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-22-38-10-1-SI202610230595.jpg",
-      "published_at": "2026-10-24T22:58:56+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson said he wanted to set a lap in Q3 after Racing Bulls told him not to run in order to help his team mate.",
-      "summary_en": "Liam Lawson said he wanted to set a lap in Q3 after Racing Bulls told him not to run in order to help his team mate."
-    },
-    {
-      "id": "ec2b4e43bbbb",
-      "title": "F1 United States GP: Sunday schedule, weather forecast and how to watch",
-      "title_fr": "F1 United States GP: Sunday schedule, weather forecast and how to watch",
-      "title_en": "F1 United States GP: Sunday schedule, weather forecast and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-sunday-schedule-weather-forecast-and-how-to-watch/10868006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0R7BRdM2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-24T22:43:26+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 heads into Sunday at Circuit of the Americas with Kimi Antonelli on pole and his first chance to clinch the 2026 world championship.<br />Antonelli starts ahead of Max Verstappen and Isack H",
-      "summary_en": "Formula 1 heads into Sunday at Circuit of the Americas with Kimi Antonelli on pole and his first chance to clinch the 2026 world championship.<br />Antonelli starts ahead of Max Verstappen and Isack H"
-    },
-    {
-      "id": "b33ae2953ea9",
-      "title": "2026 F1 United States Grand Prix starting grid",
-      "title_fr": "Antonelli ouvre le grid du Grand Prix d'USA 2026",
-      "title_en": "Antonelli leads 2026 US GP starting grid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-starting-grid/10867999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/63QaoqD2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-10-24T22:34:31+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli de Mercedes démarre premier sur le grid du Grand Prix d'USA 2026, suivi de Max Verstappen et Isack Hadjar de Red Bull. Charles Leclerc occupe la quatrième place.",
-      "summary_en": "Kimi Antonelli of Mercedes starts on pole for the 2026 US GP, followed by Max Verstappen and Isack Hadjar of Red Bull. Charles Leclerc takes fourth."
     }
   ]
 }
