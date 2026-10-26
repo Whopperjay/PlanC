@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-25T21:20:38Z",
+  "last_updated": "2026-10-26T00:22:39Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f4978b83f861",
+      "title": "Max Verstappen jokes Red Bull should abandon radios after United States GP struggles",
+      "title_fr": "Verstappen se moque des radios Red Bull après la course américaine",
+      "title_en": "Verstappen jokes about Red Bull radios after US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YMXbEvg2/s6/motorsport-com-graphics-25.jpg",
+      "published_at": "2026-10-26T00:05:32+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a critiqué les problèmes de radio de Red Bull, les qualifiant de \"désastre\", et a plaisanté qu'ils devraient communiquer en langue des signes. Il a terminé troisième derrière Kimi Antonelli et Charles Leclerc.",
+      "summary_en": "Max Verstappen criticized Red Bull's radio problems, calling them a \"disaster,\" and joked they should use sign language instead. He finished third behind Kimi Antonelli and Charles Leclerc."
+    },
+    {
+      "id": "c4da4181db47",
+      "title": "Charles Leclerc reveals Ferrari breakthrough after United States GP podium",
+      "title_fr": "Leclerc révèle une percée Ferrari après son podium aux États-Unis",
+      "title_en": "Leclerc reveals Ferrari breakthrough after US GP podium",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-ferrari-breakthrough-after-united-states-gp-podium/10868441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/63Qaoe82/s6/motorsport-com-graphics-13.jpg",
+      "published_at": "2026-10-26T00:04:36+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc affirme avoir débloqué quelque chose dans sa conduite avec Ferrari et se sent prêt à viser la victoire avant la fin de la saison 2026. Il a terminé deuxième aux États-Unis, 13 secondes derrière Kimi Antonelli.",
+      "summary_en": "Charles Leclerc says he has unlocked something in his driving with Ferrari and feels ready to aim for victory before the end of the 2026 season. He finished second at the United States GP, 13 seconds behind Kimi Antonelli."
+    },
+    {
+      "id": "8727ae0a0c95",
+      "title": "George Russell confused by lack of pace at F1 US GP despite upgraded W17",
+      "title_fr": "Russell perplexe à Austin malgré le W17 amélioré",
+      "title_en": "Russell perplexed at Austin despite upgraded W17",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-confused-by-lack-of-pace-at-f1-us-gp-despite-upgraded-w17/10868418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2GdK4RzY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-10-25T23:42:10+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell a terminé huitième à Austin après pénalité, perplexe face à son manque de vitesse malgré le W17 amélioré. Le pilote de Mercedes se demande ce qui ne va pas.",
+      "summary_en": "George Russell finished eighth at Austin after a penalty, baffled by his lack of pace despite the upgraded W17. The Mercedes driver wonders what’s wrong."
+    },
+    {
+      "id": "2555100d1fa9",
+      "title": "Lewis Hamilton reveals the Ferrari setup mistake that cost him US GP podium",
+      "title_fr": "Lewis Hamilton reveals the Ferrari setup mistake that cost him US GP podium",
+      "title_en": "Lewis Hamilton reveals the Ferrari setup mistake that cost him US GP podium",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-the-ferrari-setup-mistake-that-cost-him-us-gp-podium/10868416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/01QNoaq0/s6/motorsport-com-graphics-24-2.jpg",
+      "published_at": "2026-10-25T23:33:18+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton believes the set-up he ran on his Ferrari during the United States Grand Prix left much to be desired, with his front wing being \"12 clicks down\" for much of the race. According to the ",
+      "summary_en": "Lewis Hamilton believes the set-up he ran on his Ferrari during the United States Grand Prix left much to be desired, with his front wing being \"12 clicks down\" for much of the race. According to the "
+    },
+    {
+      "id": "ba1629925c80",
+      "title": "George Russell shrugs off F1 championship P2 fight after difficult US GP",
+      "title_fr": "Russell passe sous silence la bataille pour la deuxième place après Austin",
+      "title_en": "Russell brushes off P2 battle after tough US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-f1-championship-p2-fight-after-difficult-us-gp/10868410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YXyKOqK6/s6/motorsport-com-graphics-12.jpg",
+      "published_at": "2026-10-25T23:23:03+00:00",
+      "race_id": "usa",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Russell a déclaré que finir deuxième du championnat ne lui signifie rien, alors que Hamilton, Verstappen et Leclerc se rapprochent après le Grand Prix des États-Unis. Pilote Mercedes a terminé huitième à Austin après une pénalité de cinq secondes.",
+      "summary_en": "George Russell said finishing second in the championship means nothing to him, as Hamilton, Verstappen and Leclerc close in after the United States Grand Prix. The Mercedes driver finished eighth in Austin after a five-second penalty."
+    },
+    {
+      "id": "c44a0d2d6253",
+      "title": "Isack Hadjar demands Red Bull clutch “redesign” after costly US GP start",
+      "title_fr": "Hadjar exige refonte de la boîte de vitesses de Red Bull",
+      "title_en": "Hadjar demands Red Bull clutch redesign after costly US GP start",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-demands-red-bull-clutch-redesign-after-costly-us-gp-start/10868394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/25dLoQM0/s6/motorsport-com-graphics-23.jpg",
+      "published_at": "2026-10-25T23:02:57+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar, pilote français de Red Bull, a dénoncé la boîte de vitesses après un départ chaotique du troisième rang, le faisant tomber à la cinquième place. Il réclame une refonte pour éviter de futurs incidents.",
+      "summary_en": "Isack Hadjar, Red Bull's French driver, blasted the clutch after a chaotic start from third, dropping to fifth. He calls for a redesign to prevent future mishaps."
+    },
+    {
+      "id": "f16ed2d631df",
+      "title": "Toto Wolff reveals what Kimi Antonelli told him in his office before US GP win",
+      "title_fr": "Toto Wolff reveals what Kimi Antonelli told him in his office before US GP win",
+      "title_en": "Toto Wolff reveals what Kimi Antonelli told him in his office before US GP win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-what-kimi-antonelli-told-him-in-his-office-before-us-gp-win/10868380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGg4N9Y/s6/motorsport-com-graphics-22.jpg",
+      "published_at": "2026-10-25T22:32:12+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Talking to Sky Sports F1 after Kimi Antonelli won the United States Grand Prix, Mercedes team principal Toto Wolff revealed what his driver told him before the race.<br />The Italian driver started on",
+      "summary_en": "Talking to Sky Sports F1 after Kimi Antonelli won the United States Grand Prix, Mercedes team principal Toto Wolff revealed what his driver told him before the race.<br />The Italian driver started on"
+    },
+    {
+      "id": "aea96d875691",
+      "title": "How will Kimi Antonelli become F1 world champion at Mexico GP?",
+      "title_fr": "Antonelli domine le Grand Prix des États-Unis, 9e victoire",
+      "title_en": "Antonelli dominates US GP, ninth win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-will-kimi-antonelli-become-f1-world-champion-at-mexico-gp/10868369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2dEoNG7Y/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-25T22:28:28+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a pris la pole position et a remporté son neuvième succès de la saison 2026 au Grand Prix des États-Unis, consolidant sa position de prétendant au titre mondial.",
+      "summary_en": "Kimi Antonelli secured pole and captured his ninth 2026 season victory at the United States Grand Prix, tightening his bid for the world championship."
+    },
+    {
+      "id": "5e47264fabdc",
+      "title": "How Kimi Antonelli can clinch his maiden F1 championship in Mexico",
+      "title_fr": "Antonelli peut décrocher son premier titre en Mexique",
+      "title_en": "Antonelli could clinch his maiden title in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-kimi-antonelli-can-clinch-his-maiden-f1-championship-in-mexico/10868361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyzM46/s6/motorsport-com-graphics-11.jpg",
+      "published_at": "2026-10-25T22:17:48+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a une dernière chance de remporter son premier championnat de Formule 1 lors du Grand Prix du Mexique, après avoir failli l'emporter à Austin.",
+      "summary_en": "Kimi Antonelli has one last shot at his first Formula 1 title at the Mexican Grand Prix, after narrowly missing it in Austin."
+    },
+    {
+      "id": "7cb2e1107020",
+      "title": "Five quick takeaways from US GP",
+      "title_fr": "Five quick takeaways from US GP",
+      "title_en": "Five quick takeaways from US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-us-gp/10868328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6Alv4g1Y/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-25T21:54:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Antonelli delivers another masterclass<br />Kimi Antonelli was never likely to clinch the title in Texas – too many things needed to fall into place. But he did everything he could, delivering a perfe",
+      "summary_en": "Antonelli delivers another masterclass<br />Kimi Antonelli was never likely to clinch the title in Texas – too many things needed to fall into place. But he did everything he could, delivering a perfe"
+    },
     {
       "id": "237b4c66d01b",
       "title": "2026 United States Grand Prix in pictures | F1 Pictures",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli de Mercedes démarre premier sur le grid du Grand Prix d'USA 2026, suivi de Max Verstappen et Isack Hadjar de Red Bull. Charles Leclerc occupe la quatrième place.",
       "summary_en": "Kimi Antonelli of Mercedes starts on pole for the 2026 US GP, followed by Max Verstappen and Isack Hadjar of Red Bull. Charles Leclerc takes fourth."
-    },
-    {
-      "id": "fabc092d40d7",
-      "title": "Jeremy Clarkson causes a stir with Franco Colapinto and Kim Kardashian comments",
-      "title_fr": "Jeremy Clarkson causes a stir with Franco Colapinto and Kim Kardashian comments",
-      "title_en": "Jeremy Clarkson causes a stir with Franco Colapinto and Kim Kardashian comments",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/jeremy-clarkson-causes-a-stir-with-franco-colapinto-and-kim-kardashian-comments/10868001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0mXyzPa6/s6/motorsport-com-graphics-16.jpg",
-      "published_at": "2026-10-24T22:33:56+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Jeremy Clarkson had a single interview with Sky Sports F1 and yet it still resulted in chaos. The Clarkson's Farm presenter discussed a multitude of subjects with Martin Brundle, Naomi Schiff and Simo",
-      "summary_en": "Jeremy Clarkson had a single interview with Sky Sports F1 and yet it still resulted in chaos. The Clarkson's Farm presenter discussed a multitude of subjects with Martin Brundle, Naomi Schiff and Simo"
-    },
-    {
-      "id": "6f7d0df3f907",
-      "title": "Ferrari were in contention “until the last corner of Q3” after strong practice – Vasseur | Formula 1",
-      "title_fr": "Ferrari were in contention “until the last corner of Q3” after strong practice – Vasseur | Formula 1",
-      "title_en": "Ferrari were in contention “until the last corner of Q3” after strong practice – Vasseur | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/24/ferrari-were-in-contention-until-the-last-corner-of-q3-after-strong-practice-vasseur/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-19-45-44-2-261023_R18_USA_DP_261023_R18_USA_DP_XR1_7636.jpg",
-      "published_at": "2026-10-24T22:33:26+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari team principal Frederic Vasseur admitted he expected more from qualifying after his drivers headed all three sessions in practice.",
-      "summary_en": "Ferrari team principal Frederic Vasseur admitted he expected more from qualifying after his drivers headed all three sessions in practice."
-    },
-    {
-      "id": "63da38c6811b",
-      "title": "F1 2026 qualifying head-to-head: United States GP",
-      "title_fr": "Qualif 2026 : le duel tête à tête des équipes aux États-Unis",
-      "title_en": "2026 US GP Qualifying Head‑to‑Head",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-united-states-gp/10867454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0arENRM2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-24T22:20:58+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Motorsport.com publie un tableau comparatif des batailles entre coéquipiers en qualification, excluant les pénalités de grille. Les incidents techniques ou accidents sont indiqués dans le tableau.",
-      "summary_en": "Motorsport.com releases a head‑to‑head table of teammate battles in qualifying, ignoring grid penalties. Technical glitches or incidents are noted in the chart."
-    },
-    {
-      "id": "2476ff46531f",
-      "title": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
-      "title_fr": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
-      "title_en": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/Y9lN4oX2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": "2026-10-24T22:15:50+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Championship leader Kimi Antonelli has claimed his seventh pole of 2026 at Formula 1's United States Grand Prix, defeating Max Verstappen in a thrillingly close qualifying session in Austin.<br />Anto",
-      "summary_en": "Championship leader Kimi Antonelli has claimed his seventh pole of 2026 at Formula 1's United States Grand Prix, defeating Max Verstappen in a thrillingly close qualifying session in Austin.<br />Anto"
-    },
-    {
-      "id": "7881cddb142d",
-      "title": "F1 United States GP: Kimi Antonelli takes pole with George Russell sixth",
-      "title_fr": "Antonelli décroche le pole aux États-Unis, Russell sixième",
-      "title_en": "Antonelli takes pole in the United States, Russell sixth",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonell-takes-pole/10867975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9E4eKY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-10-24T22:13:08+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le pole position aux États‑Unis, battant Max Verstappen de Red Bull. George Russell a terminé à la sixième place.",
-      "summary_en": "Kimi Antonelli secured pole in the United States, beating Max Verstappen of Red Bull. George Russell finished sixth."
-    },
-    {
-      "id": "8bd2e47816ae",
-      "title": "Antonelli beats Red Bull pair to pole position in Austin | 2026 United States GP qualifying report",
-      "title_fr": "Antonelli beats Red Bull pair to pole position in Austin | 2026 United States GP qualifying report",
-      "title_en": "Antonelli beats Red Bull pair to pole position in Austin | 2026 United States GP qualifying report",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/24/antonelli-beats-red-bull-pair-to-pole-position-in-austin/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-53-40-5-M642724_F1_Grand_Prix_of_United_States_Qualifying.jpg",
-      "published_at": "2026-10-24T22:11:50+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli will share the front row of the grid for the United States Grand Prix with Max Verstappen.",
-      "summary_en": "Andrea Kimi Antonelli will share the front row of the grid for the United States Grand Prix with Max Verstappen."
-    },
-    {
-      "id": "ea17a8210bae",
-      "title": "2026 United States Grand Prix grid | Formula 1",
-      "title_fr": "Antonelli en pole provisoire pour le Grand Prix des États-Unis",
-      "title_en": "Antonelli takes provisional pole for US Grand Prix",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/24/2026-united-states-grand-prix-grid/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-13-04-20-4-31-friday-austin-2026.jpg",
-      "published_at": "2026-10-24T22:04:24+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a franchi la ligne d’arrivée en pole provisoire pour le Grand Prix des États-Unis, devant Max Verstappen et Isack Hadjar. Le pilote Mercedes se prépare à la course.",
-      "summary_en": "Andrea Kimi Antonelli secured provisional pole for the United States Grand Prix, beating Max Verstappen and Isack Hadjar. The Mercedes driver is set to start the race from the front."
-    },
-    {
-      "id": "651c03084ee3",
-      "title": "Max Verstappen's Austin GP complaints prompt response from COTA chief",
-      "title_fr": "Verstappen se plaint du circuit d'Austin, COTA répond",
-      "title_en": "Verstappen complains about Austin track, COTA responds",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-austin-gp-complaints-prompt-response-from-cota-chief/10867977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6lmANA40/s6/motorsport-com-graphics-15.jpg",
-      "published_at": "2026-10-24T21:37:12+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen a critiqué la surface du Circuit of the Americas, notamment la dépression du virage 1, qualifiant les bosses d'inacceptables. Le président COTA a reconnu le problème.",
-      "summary_en": "Max Verstappen criticized the Circuit of the Americas, especially the dip at Turn 1, calling the bumps unacceptable. COTA chairman Bobby Epstein acknowledged the issue."
-    },
-    {
-      "id": "a464d113fd2c",
-      "title": "Kimi Antonelli caught on camera hitting fence in Mercedes road car at US GP",
-      "title_fr": "Antonelli touche la clôture du parking du Circuit de l'Amérique du Nord",
-      "title_en": "Antonelli hits fence in Mercedes road car at US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0mXy34A6/s6/motorsport-com-graphics-14-2.jpg",
-      "published_at": "2026-10-24T20:38:53+00:00",
-      "race_id": "italy",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a été filmé en train de heurter la clôture du parking du Circuit de l'Amérique du Nord dans sa Mercedes-AMG GT 4-Door Coupe personnalisée. Cet incident rappelle que même les pilotes les plus prometteurs commettent des erreurs.",
-      "summary_en": "Kimi Antonelli was caught on camera hitting the fence of the Circuit of the Americas parking lot in his personalized Mercedes-AMG GT 4-Door Coupe. The incident shows even the most promising drivers can make mistakes."
-    },
-    {
-      "id": "013e9207ebdc",
-      "title": "Colton Herta savours \"super special\" Austin homecoming as 2027 uncertainty remains",
-      "title_fr": "Herta savoure son retour à Austin, l'avenir 2027 incertain",
-      "title_en": "Herta savors Austin homecoming, 2027 future uncertain",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
-      "published_at": "2026-10-24T20:03:30+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta a célébré son retour à Austin, son premier circuit américain depuis 2019. Malgré cette victoire, son avenir en 2027 reste incertain, laissant les fans dans l'attente.",
-      "summary_en": "Colton Herta celebrated his return to Austin, his first American circuit since 2019. Despite the win, his 2027 future remains uncertain, leaving fans in suspense."
     }
   ]
 }
