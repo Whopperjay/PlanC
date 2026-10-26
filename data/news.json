@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-26T15:32:51Z",
+  "last_updated": "2026-10-26T18:34:58Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "05e747dad432",
+      "title": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
+      "title_fr": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
+      "title_en": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-being-very-adaptive-gave-norris-edge-over-piastri-at-us-gp/10868691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6lmANoK0/s6/oscar-piastri-mclaren-lando-no-2.jpg",
+      "published_at": "2026-10-26T17:20:16+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f",
+      "summary_en": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f"
+    },
+    {
+      "id": "a72d4412f66e",
+      "title": "George Russell's Mercedes F1 future discussed amid Kimi Antonelli's success",
+      "title_fr": "Russell questionné sur son avenir chez Mercedes après le succès d'Antonelli",
+      "title_en": "Russell's future at Mercedes questioned amid Antonelli's success",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QVRp6/s6/motorsport-com-graphics-18.jpg",
+      "published_at": "2026-10-26T17:16:28+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell voit son avenir à Mercedes remis en cause après la montée en puissance de Kimi Antonelli, qui a récemment pris la tête du championnat.",
+      "summary_en": "George Russell's future at Mercedes is being questioned after Kimi Antonelli's rise to the top of the championship."
+    },
+    {
+      "id": "a937e47f553b",
+      "title": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
+      "title_fr": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
+      "title_en": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-mclaren-oscar-piastri-team-order-us-gp/10868686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6b8ZNRw2/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-10-26T17:15:33+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f",
+      "summary_en": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f"
+    },
     {
       "id": "1fa031234497",
       "title": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc souligne que les pilotes Ferrari doivent éviter de se heurter, notamment à Lewis Hamilton, pour ne pas compromettre la course. Il insiste sur la nécessité de respecter la ligne de sécurité.",
       "summary_en": "Charles Leclerc says Ferrari drivers must avoid collisions, especially with Lewis Hamilton, to keep the race safe. He stresses the importance of staying within the line."
-    },
-    {
-      "id": "106ca8c34383",
-      "title": "Toto Wolff reveals he is actively vetting “two or three people” to replace him at Mercedes",
-      "title_fr": "Toto Wolff prépare son successeur chez Mercedes",
-      "title_en": "Toto Wolff is vetting successors for Mercedes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-he-is-actively-vetting-two-or-three-people-to-replace-him-at-mercedes/10868219/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zDwG6/s6/motorsport-com-graphics-20-2.jpg",
-      "published_at": "2026-10-25T14:58:15+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur général de Mercedes, Toto Wolff, est en train de sélectionner deux ou trois candidats pour le remplacer. Il prépare son départ de la boîte après une décennie de domination.",
-      "summary_en": "Mercedes team principal Toto Wolff is actively vetting two or three candidates to replace him. He is preparing to step down after a decade of dominance."
-    },
-    {
-      "id": "cf21e493d1f6",
-      "title": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
-      "title_fr": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
-      "title_en": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/inside-cotas-turn-1-clubhouse-plans-second-track/10868234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6grQdDaY/s6/arvid-lindblad-racing-bulls.jpg",
-      "published_at": "2026-10-25T13:16:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "For spectators and TV viewers tuning into coverage of F1's US Grand Prix, it's been hard to miss. Turn 1 of the Circuit of the Americas has a distinctly different look to it this year with the additio",
-      "summary_en": "For spectators and TV viewers tuning into coverage of F1's US Grand Prix, it's been hard to miss. Turn 1 of the Circuit of the Americas has a distinctly different look to it this year with the additio"
-    },
-    {
-      "id": "40df2da70540",
-      "title": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
-      "title_fr": "COTA : un club-house gigantesque et un second circuit en projet",
-      "title_en": "COTA unveils massive clubhouse and plans second track",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-track/10868244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQdDaY/s6/arvid-lindblad-racing-bulls.jpg",
-      "published_at": "2026-10-25T13:15:54+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le COTA a inauguré un club-house multi-étages à l’entrée du virage 1, relié au paddock par un téléphérique. Les organisateurs envisagent également de construire un deuxième circuit sur le site.",
-      "summary_en": "COTA has opened a massive multi-storey clubhouse at Turn 1, linked to the paddock by a cable car. Organisers also plan to build a second track on the site."
     }
   ]
 }
