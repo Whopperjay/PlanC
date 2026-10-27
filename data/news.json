@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-27T12:47:35Z",
+  "last_updated": "2026-10-27T15:49:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "63885129138f",
+      "title": "The mistakes that cost Lewis Hamilton a podium at F1’s US GP",
+      "title_fr": "Hamilton perd le podium aux États-Unis",
+      "title_en": "Hamilton loses podium at US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2jEANNM0/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-10-27T15:01:07+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a expliqué pourquoi le podium l'a échappé lors du Grand Prix des États-Unis. Il a perdu du temps sur les pneus souples et a été dépassé par Charles Leclerc.",
+      "summary_en": "Lewis Hamilton explained why he missed the podium at the US Grand Prix. He lost time on soft tyres and was overtaken by Charles Leclerc."
+    },
+    {
+      "id": "0920dbd65c2d",
+      "title": "The role Friday practice played in Hamilton failing to achieve a podium at the US GP",
+      "title_fr": "Hamilton échoue à podium aux États-Unis",
+      "title_en": "Hamilton misses podium at US GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-role-friday-practice-played-in-hamilton-failing-to-achieve-podium-at-us-gp/10868872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YP74yNe2/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-27T15:00:02+00:00",
+      "race_id": "usa",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a expliqué pourquoi il n’a pas pu atteindre le podium lors du Grand Prix des États-Unis. Après un départ cinquième, il a perdu de la vitesse face à Charles Leclerc, notamment en raison de la stratégie de pneus.",
+      "summary_en": "Lewis Hamilton explained why he missed the podium at the United States Grand Prix. Starting from fifth, he lost time to Charles Leclerc, partly due to tyre strategy during Friday practice."
+    },
+    {
+      "id": "827ea5926d0d",
+      "title": "McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7",
+      "title_fr": "McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7",
+      "title_en": "McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6b8ZNwr2/s6/motorsport-com-graphics-21-2.jpg",
+      "published_at": "2026-10-27T14:27:14+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "In modern Formula 1, raw race pace means absolutely nothing if you completely bottle your qualifying laps on Saturday afternoon. Without track position, you are simply burning up your tyres in dirty a",
+      "summary_en": "In modern Formula 1, raw race pace means absolutely nothing if you completely bottle your qualifying laps on Saturday afternoon. Without track position, you are simply burning up your tyres in dirty a"
+    },
+    {
+      "id": "763232c4a815",
+      "title": "“I couldn’t disappear” – Oliver Bearman rues “crazy” penalty for Pierre Gasly clash",
+      "title_fr": "Bearman déplore sa pénalité de 10s après collision avec Gasly",
+      "title_en": "Bearman laments 10‑second penalty after clash with Gasly",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/i-just-couldnt-disappear-oliver-bearman-rues-crazy-10s-penalty-for-pierre-gasly-clash/10868777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0LdeBMv0/s6/oliver-bearman-haas-f1-team.jpg",
+      "published_at": "2026-10-27T13:51:23+00:00",
+      "race_id": "usa",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Oliver Bearman a exprimé son étonnement après avoir reçu une pénalité de 10 secondes pour sa collision avec Pierre Gasly lors du Grand Prix des États‑Unis. Le pilote, qui avait gagné deux places, a déclaré qu’il n’avait pas pu disparaître.",
+      "summary_en": "Oliver Bearman expressed shock after receiving a 10‑second penalty for his clash with Pierre Gasly at the United States Grand Prix. The driver, who had gained two positions on the opening lap, said he couldn’t disappear."
+    },
     {
       "id": "049af7edb22a",
       "title": "Toto Wolff dismisses Helmut Marko's Russell theory: \"He still has what it takes\"",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton believes the set-up he ran on his Ferrari during the United States Grand Prix left much to be desired, with his front wing being \"12 clicks down\" for much of the race. According to the ",
       "summary_en": "Lewis Hamilton believes the set-up he ran on his Ferrari during the United States Grand Prix left much to be desired, with his front wing being \"12 clicks down\" for much of the race. According to the "
-    },
-    {
-      "id": "ba1629925c80",
-      "title": "George Russell shrugs off F1 championship P2 fight after difficult US GP",
-      "title_fr": "Russell passe sous silence la bataille pour la deuxième place après Austin",
-      "title_en": "Russell brushes off P2 battle after tough US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-f1-championship-p2-fight-after-difficult-us-gp/10868410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YXyKOqK6/s6/motorsport-com-graphics-12.jpg",
-      "published_at": "2026-10-25T23:23:03+00:00",
-      "race_id": "usa",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Russell a déclaré que finir deuxième du championnat ne lui signifie rien, alors que Hamilton, Verstappen et Leclerc se rapprochent après le Grand Prix des États-Unis. Pilote Mercedes a terminé huitième à Austin après une pénalité de cinq secondes.",
-      "summary_en": "George Russell said finishing second in the championship means nothing to him, as Hamilton, Verstappen and Leclerc close in after the United States Grand Prix. The Mercedes driver finished eighth in Austin after a five-second penalty."
-    },
-    {
-      "id": "437602907ef0",
-      "title": "Alonso says F1 has ‘very low quality drivers’ at back of grid after Albon collision | Formula 1",
-      "title_fr": "Alonso critique la qualité des pilotes en fin de grille après collision avec Albon",
-      "title_en": "Alonso calls F1 drivers \"very low quality\" after clash with Albon",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/alonso-says-f1-has-very-low-quality-drivers-at-back-of-grid-after-albon-collision/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-15-24-22-1-2301976203.jpg",
-      "published_at": "2026-10-25T23:18:24+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso a qualifié la conduite des pilotes de la fin de grille de \"très basse qualité\" après son embrouillement avec Alexander Albon. Le commentaire a suscité l’attention des fans.",
-      "summary_en": "Fernando Alonso called the drivers at the back of the grid \"very low quality\" after his clash with Alexander Albon. The remark drew attention from fans."
-    },
-    {
-      "id": "401eec9058e7",
-      "title": "Hadjar urges Red Bull to redesign clutch after another poor start | Formula 1",
-      "title_fr": "Hadjar exige une refonte de l'embrayage de Red Bull",
-      "title_en": "Hadjar demands Red Bull redesign clutch after poor start",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/hadjar-urges-red-bull-to-redesign-clutch-after-another-poor-start/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-05-12-4-SI202610251131.jpg",
-      "published_at": "2026-10-25T23:07:29+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a reproché à Red Bull la conception de son embrayage après un départ décevant lors du Grand Prix des États-Unis. Le pilote a appelé à une refonte pour améliorer la performance.",
-      "summary_en": "Isack Hadjar blamed Red Bull's clutch design after a poor start at the United States Grand Prix, calling for a redesign to improve performance."
-    },
-    {
-      "id": "c44a0d2d6253",
-      "title": "Isack Hadjar demands Red Bull clutch “redesign” after costly US GP start",
-      "title_fr": "Hadjar exige refonte de la boîte de vitesses de Red Bull",
-      "title_en": "Hadjar demands Red Bull clutch redesign after costly US GP start",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-demands-red-bull-clutch-redesign-after-costly-us-gp-start/10868394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/25dLoQM0/s6/motorsport-com-graphics-23.jpg",
-      "published_at": "2026-10-25T23:02:57+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar, pilote français de Red Bull, a dénoncé la boîte de vitesses après un départ chaotique du troisième rang, le faisant tomber à la cinquième place. Il réclame une refonte pour éviter de futurs incidents.",
-      "summary_en": "Isack Hadjar, Red Bull's French driver, blasted the clutch after a chaotic start from third, dropping to fifth. He calls for a redesign to prevent future mishaps."
     }
   ]
 }
