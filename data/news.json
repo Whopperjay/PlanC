@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-27T09:45:12Z",
+  "last_updated": "2026-10-27T12:47:35Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "049af7edb22a",
+      "title": "Toto Wolff dismisses Helmut Marko's Russell theory: \"He still has what it takes\"",
+      "title_fr": "Wolff rejette la théorie de Marko sur Russell",
+      "title_en": "Wolff dismisses Marko's theory on Russell",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6AlvqxNY/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-10-27T12:22:44+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff, directeur de Mercedes, a déclaré que George Russell possède encore les qualités nécessaires pour remporter le titre mondial, contredisant les propos de Helmut Marko.",
+      "summary_en": "Mercedes team principal Toto Wolff dismissed Helmut Marko's claim that George Russell cannot win the world title, insisting the driver still has what it takes."
+    },
+    {
+      "id": "ff86f7d00392",
+      "title": "Featured Comment: F1’s flawed rules don’t lessen Antonelli’s achievement | Briefs",
+      "title_fr": "Les règles imparfaites de la F1 ne ternissent pas la réussite d'Antonelli",
+      "title_en": "F1’s flawed rules don’t diminish Antonelli’s achievement",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/27/featured-comment-f1s-flawed-rules-dont-lessen-antonellis-achievement/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-28-11-9-M644011_F1_Grand_Prix_of_United_States.jpg",
+      "published_at": "2026-10-27T11:04:29+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La perte de la 'véritable course' n'entame pas la probabilité de titre d'Antonelli. Les règles actuelles restent un frein, mais son palmarès demeure intact.",
+      "summary_en": "The loss of 'true racing' does not diminish Antonelli's likely title. Current rules remain a hurdle, but his record stays intact."
+    },
+    {
+      "id": "1ee067f9e3be",
+      "title": "Stats: Russell scored as many points as Hulkenberg in last three rounds | 2026 United States GP stats and facts",
+      "title_fr": "Russell égalise Hulkenberg en points sur trois derniers tours",
+      "title_en": "Russell matches Hulkenberg's points over last three rounds",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/27/stats-russell-scored-as-many-points-as-hulkenberg-in-last-three-rounds/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-55-36-3-M642701_F1_Grand_Prix_of_United_States_Qualifying.jpg",
+      "published_at": "2026-10-27T10:20:37+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "George Russell a accumulé autant de points que le 14e pilote, Nico Hulkenberg, lors des trois derniers tours de la saison. Le coéquipier de Mercedes, qui mène le championnat, montre une performance solide.",
+      "summary_en": "George Russell has matched Nico Hulkenberg's points over the last three rounds. The Mercedes teammate, who leads the championship, demonstrates solid performance."
+    },
+    {
+      "id": "5b8066396934",
+      "title": "Red Bull explains why Verstappen and Hadjar's 'silly' problems won't all be fixed in 2026",
+      "title_fr": "Red Bull : les problèmes de Verstappen et Hadjar resteront en 2026",
+      "title_en": "Red Bull says Verstappen and Hadjar's 'silly' issues won't be solved in 2026",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/red-bull-explains-why-verstappen-and-hadjar-silly-problems-wont-be-fixed-in-2026/10868779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZNKw2/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-27T09:46:28+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a expliqué que les problèmes techniques rencontrés par Max Verstappen et le pilote Hadjar ne seront pas entièrement résolus d’ici 2026, malgré les efforts de l’équipe. Les deux pilotes restent frustrés par les performances.",
+      "summary_en": "Red Bull explained that the technical issues faced by Max Verstappen and Hadjar will not be fully resolved by 2026, despite the team's efforts. Both drivers remain frustrated by the performance gaps."
+    },
     {
       "id": "b3a819a71692",
       "title": "Red Bull reveals when 'silly' problems affecting Max Verstappen and Isack Hadjar can be fixed",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar, pilote français de Red Bull, a dénoncé la boîte de vitesses après un départ chaotique du troisième rang, le faisant tomber à la cinquième place. Il réclame une refonte pour éviter de futurs incidents.",
       "summary_en": "Isack Hadjar, Red Bull's French driver, blasted the clutch after a chaotic start from third, dropping to fifth. He calls for a redesign to prevent future mishaps."
-    },
-    {
-      "id": "0fbc7a201d5f",
-      "title": "Bearman disagrees with penalty for Gasly collision: ‘I don’t regret going for it’ | Formula 1",
-      "title_fr": "Bearman conteste la pénalité pour collision avec Gasly",
-      "title_en": "Bearman disputes penalty for collision with Gasly",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/25/bearman-disagrees-with-penalty-for-gasly-collision-i-dont-regret-going-for-it/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-15-06-53-3-2301974348-404.jpg",
-      "published_at": "2026-10-25T22:50:12+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Oliver Bearman a refusé d’accepter la pénalité infligée après sa collision avec Pierre Gasly, affirmant ne pas regretter son action.",
-      "summary_en": "Oliver Bearman rejected the penalty imposed after his collision with Pierre Gasly, saying he does not regret the move."
-    },
-    {
-      "id": "f16ed2d631df",
-      "title": "Toto Wolff reveals what Kimi Antonelli told him in his office before US GP win",
-      "title_fr": "Toto Wolff reveals what Kimi Antonelli told him in his office before US GP win",
-      "title_en": "Toto Wolff reveals what Kimi Antonelli told him in his office before US GP win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-what-kimi-antonelli-told-him-in-his-office-before-us-gp-win/10868380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGg4N9Y/s6/motorsport-com-graphics-22.jpg",
-      "published_at": "2026-10-25T22:32:12+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Talking to Sky Sports F1 after Kimi Antonelli won the United States Grand Prix, Mercedes team principal Toto Wolff revealed what his driver told him before the race.<br />The Italian driver started on",
-      "summary_en": "Talking to Sky Sports F1 after Kimi Antonelli won the United States Grand Prix, Mercedes team principal Toto Wolff revealed what his driver told him before the race.<br />The Italian driver started on"
-    },
-    {
-      "id": "a8f385bfabb5",
-      "title": "The maths behind Antonelli becoming F1 world champion at Mexico GP",
-      "title_fr": "Antonelli remporte son neuvième victoire aux États-Unis",
-      "title_en": "Antonelli secures ninth win in United States GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-maths-behind-antonelli-becoming-f1-world-champion-at-mexico-gp/10868378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YBVj4KvY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-10-25T22:31:48+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a dominé le Grand Prix des États-Unis, franchissant la ligne d’arrivée depuis le pole pour décrocher sa neuvième victoire de la saison 2026. Ce succès le rapproche de la couronne de champion du monde.",
-      "summary_en": "Kimi Antonelli dominated the United States Grand Prix from pole, securing his ninth win of the 2026 season. The victory brings him closer to the world championship title."
-    },
-    {
-      "id": "aea96d875691",
-      "title": "How will Kimi Antonelli become F1 world champion at Mexico GP?",
-      "title_fr": "Antonelli domine le Grand Prix des États-Unis, 9e victoire",
-      "title_en": "Antonelli dominates US GP, ninth win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-will-kimi-antonelli-become-f1-world-champion-at-mexico-gp/10868369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2dEoNG7Y/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-25T22:28:28+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a pris la pole position et a remporté son neuvième succès de la saison 2026 au Grand Prix des États-Unis, consolidant sa position de prétendant au titre mondial.",
-      "summary_en": "Kimi Antonelli secured pole and captured his ninth 2026 season victory at the United States Grand Prix, tightening his bid for the world championship."
     }
   ]
 }
