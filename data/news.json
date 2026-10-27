@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-26T21:37:01Z",
+  "last_updated": "2026-10-27T00:39:21Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "680cf70b1fd1",
+      "title": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
+      "title_fr": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
+      "title_en": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/naomi-schiff-warns-red-bull-over-knifes-edge-f1-car-after-us-gp-struggles/10868723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zDlW6/s6/motorsport-com-graphics-20.jpg",
+      "published_at": "2026-10-26T22:06:43+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Broadcaster Naomi Schiff has warned that Red Bull's narrow set-up window could be compromising Max Verstappen and Isack Hadjar's 2026 Formula 1 campaigns.<br />At the United States Grand Prix, both dr",
+      "summary_en": "Broadcaster Naomi Schiff has warned that Red Bull's narrow set-up window could be compromising Max Verstappen and Isack Hadjar's 2026 Formula 1 campaigns.<br />At the United States Grand Prix, both dr"
+    },
+    {
+      "id": "0665a5d6fedc",
+      "title": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
+      "title_fr": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
+      "title_en": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7L59jY/s6/motorsport-com-graphics-23-2.jpg",
+      "published_at": "2026-10-26T21:37:48+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully ",
+      "summary_en": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully "
+    },
     {
       "id": "02f2145e33d1",
       "title": "Red Bull reveals damage behind Max Verstappen's US GP struggles",
@@ -706,33 +744,14 @@
       "summary_en": "Kimi Antonelli has one last shot at his first Formula 1 title at the Mexican Grand Prix, after narrowly missing it in Austin."
     },
     {
-      "id": "7cb2e1107020",
-      "title": "Five quick takeaways from US GP",
-      "title_fr": "Five quick takeaways from US GP",
-      "title_en": "Five quick takeaways from US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-us-gp/10868328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6Alv4g1Y/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-25T21:54:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Antonelli delivers another masterclass<br />Kimi Antonelli was never likely to clinch the title in Texas – too many things needed to fall into place. But he did everything he could, delivering a perfe",
-      "summary_en": "Antonelli delivers another masterclass<br />Kimi Antonelli was never likely to clinch the title in Texas – too many things needed to fall into place. But he did everything he could, delivering a perfe"
-    },
-    {
-      "id": "bf1648fc332e",
-      "title": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
-      "title_fr": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
-      "title_en": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lN4gb2/s6/andrea-kimi-antonelli-mercedes-4.jpg",
-      "published_at": "2026-10-25T21:50:12+00:00",
+      "id": "4df47b7d622e",
+      "title": "Stewards explain reason for Russell’s “mitigated” US GP penalty | Formula 1",
+      "title_fr": "Stewards explain reason for Russell’s “mitigated” US GP penalty | Formula 1",
+      "title_en": "Stewards explain reason for Russell’s “mitigated” US GP penalty | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/25/stewards-explain-reason-for-russells-mitigated-us-gp-penalty/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-22-40-06-3-M640954_F1_Grand_Prix_of_United_States_Practice.jpg",
+      "published_at": "2026-10-25T22:09:32+00:00",
       "race_id": "usa",
       "category": "rumeur",
       "tags": [
@@ -740,27 +759,8 @@
       ],
       "importance": 30,
       "is_breaking": false,
-      "summary_fr": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole",
-      "summary_en": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole"
-    },
-    {
-      "id": "eefacd510468",
-      "title": "F1 United States GP: Kimi Antonelli takes dominant victory - but no title",
-      "title_fr": "F1 United States GP: Kimi Antonelli takes dominant victory - but no title",
-      "title_en": "F1 United States GP: Kimi Antonelli takes dominant victory - but no title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonelli-wins/10868331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2eZxNlpY/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": "2026-10-25T21:48:01+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole",
-      "summary_en": "Kimi Antonelli has taken another step towards an inevitable Formula 1 title with a sovereign United States Grand Prix win, defeating Charles Leclerc at Austin's Circuit of the Americas.<br />From pole"
+      "summary_fr": "The United States Grand Prix stewards considered penalising George Russell 10 seconds but cut it to five.",
+      "summary_en": "The United States Grand Prix stewards considered penalising George Russell 10 seconds but cut it to five."
     }
   ]
 }
