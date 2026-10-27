@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T13:00:24Z",
-  "model": "claude",
+  "generated_at": "2026-10-27T03:42:11Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -113,14 +113,14 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
+      "p2": "max_verstappen",
       "p3": "leclerc",
-      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, et la Mercedes reste la référence sur un tour cette saison. Russell, le plus rapide derrière lui, est son concurrent le plus naturel pour la pole. À Mexico, l'altitude réduit l'appui aérodynamique, et Ferrari y a souvent brillé en qualif (poles en 2023 et 2024). Leclerc devance donc de peu Verstappen, gêné par ses soucis radio.",
-      "reasoning_en": "Antonelli leads the championship by 123 points, and Mercedes remains the benchmark over one lap this season. Russell, the quickest driver behind him, is his most likely rival for pole. In Mexico, the altitude cuts aerodynamic downforce, and Ferrari has often been strong there in qualifying (poles in 2023 and 2024). That puts Leclerc narrowly ahead of Verstappen, who is struggling with radio proble",
-      "confidence": "medium",
-      "key_factor_fr": "Mercedes référence sur un tour, Antonelli intouchable cette saison",
+      "reasoning_fr": "Antonelli domine le championnat et a montré un rythme exceptionnel en qualification (1er US GP). Verstappen reste le plus rapide sur le circuit, malgré les problèmes de stabilité signalés, et bénéficie d'un moteur puissant à haute altitude. Leclerc, soutenu par les récents gains de Ferrari, a affiché une excellente performance en qualification (4e US GP) et possède le meilleur équilibre pour explo",
+      "reasoning_en": "Antonelli leads the championship and demonstrated outstanding one‑lap speed (US GP Q1). Verstappen remains the fastest on the track, despite reported stability issues, and benefits from a strong engine at altitude. Leclerc, backed by Ferrari's recent upgrades, posted a solid qualifying performance (4th US GP) and has the optimal car balance to exploit Mexico's fast track evolution.",
+      "confidence": "high",
+      "key_factor_fr": "Évolution rapide de la piste + rythme sur un tour",
       "news_used_ids": [],
-      "generated_at": "2026-10-26T13:00:24Z"
+      "generated_at": "2026-10-27T03:42:10Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "leclerc",
-      "reasoning_fr": "Mercedes domine 2026 et Antonelli compte 123 points d'avance au championnat. Russell, frustré par sa pénalité à Austin, devrait réagir. À Mexico, l'air raréfié pèse sur le refroidissement et l'appui aérodynamique, un terrain historiquement favorable à Ferrari. Leclerc, souvent rapide sur un tour ici, devance Hamilton de justesse. Verstappen reste une menace, mais ses soucis de radio rappellent l'i",
-      "reasoning_en": "Mercedes dominates 2026 and Antonelli leads the championship by 123 points. Russell, frustrated by his Austin penalty, should bounce back. Mexico's thin air stresses cooling and downforce, which has historically suited Ferrari. Leclerc, often quick over one lap here, edges Hamilton. Verstappen remains a threat, but his radio issues reflect Red Bull's inconsistency.",
+      "p2": "leclerc",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli partira probablement en tête ou très proche, grâce à son rythme exceptionnel en qualification et à sa victoire à Austin. Leclerc, bénéficiant de la récente mise à jour Ferrari et d'une forte performance en course, devrait se placer parmi les premiers, même s'il partira légèrement derrière. Verstappen conserve une vitesse de pointe élevée, mais les problèmes de réglage étroit de Red Bull ",
+      "reasoning_en": "Antonelli is expected to start on pole or near it, given his superb one‑lap pace and recent US GP win. Leclerc, boosted by Ferrari's upgrade and strong race form, should be among the front runners despite starting a few places back. Verstappen still has top speed, but Red Bull's narrow setup window and reported debris issues may curb his advantage, keeping him in the top three but not necessarily ",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes et altitude favorable au package Ferrari",
+      "key_factor_fr": "Grille de départ et forme récente en qualification",
       "news_used_ids": [],
-      "generated_at": "2026-10-26T13:00:14Z"
+      "generated_at": "2026-10-27T03:41:58Z"
     }
   ]
 }
