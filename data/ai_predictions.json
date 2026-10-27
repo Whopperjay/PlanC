@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T05:00:04Z",
+  "generated_at": "2026-10-27T13:00:23Z",
   "model": "claude",
   "predictions": [
     {
@@ -113,14 +113,14 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "leclerc",
-      "reasoning_fr": "Antonelli domine le championnat et a montré un rythme exceptionnel en qualification (1er US GP). Verstappen reste le plus rapide sur le circuit, malgré les problèmes de stabilité signalés, et bénéficie d'un moteur puissant à haute altitude. Leclerc, soutenu par les récents gains de Ferrari, a affiché une excellente performance en qualification (4e US GP) et possède le meilleur équilibre pour explo",
-      "reasoning_en": "Antonelli leads the championship and demonstrated outstanding one‑lap speed (US GP Q1). Verstappen remains the fastest on the track, despite reported stability issues, and benefits from a strong engine at altitude. Leclerc, backed by Ferrari's recent upgrades, posted a solid qualifying performance (4th US GP) and has the optimal car balance to exploit Mexico's fast track evolution.",
-      "confidence": "high",
-      "key_factor_fr": "Évolution rapide de la piste + rythme sur un tour",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance : la Mercedes est la référence sur un tour. Russell reste fort en qualif dans la même voiture. À Mexico, l'altitude réduit l'appui et le refroidissement, ce qui rebat parfois les cartes. Verstappen y a souvent brillé et Red Bull dit avoir réglé ses problèmes. Ferrari reste une menace, mais un cran derrière.",
+      "reasoning_en": "Antonelli dominates 2026 with a 123-point lead, and the Mercedes is the benchmark over one lap. Russell remains strong in qualifying in the same car. At Mexico, altitude cuts downforce and cooling, which can shuffle the order. Verstappen has often shone here, and Red Bull says its issues are fixed. Ferrari is still a threat but a step behind.",
+      "confidence": "medium",
+      "key_factor_fr": "Domination Mercedes sur un tour, altitude favorable à Verstappen",
       "news_used_ids": [],
-      "generated_at": "2026-10-27T03:42:10Z"
+      "generated_at": "2026-10-27T13:00:23Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "leclerc",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli partira probablement en tête ou très proche, grâce à son rythme exceptionnel en qualification et à sa victoire à Austin. Leclerc, bénéficiant de la récente mise à jour Ferrari et d'une forte performance en course, devrait se placer parmi les premiers, même s'il partira légèrement derrière. Verstappen conserve une vitesse de pointe élevée, mais les problèmes de réglage étroit de Red Bull ",
-      "reasoning_en": "Antonelli is expected to start on pole or near it, given his superb one‑lap pace and recent US GP win. Leclerc, boosted by Ferrari's upgrade and strong race form, should be among the front runners despite starting a few places back. Verstappen still has top speed, but Red Bull's narrow setup window and reported debris issues may curb his advantage, keeping him in the top three but not necessarily ",
+      "p2": "russell",
+      "p3": "hamilton",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, et Mercedes reste la référence en 2026. Russell confirme sa forme récente. À Mexico, l'air raréfié de l'altitude pénalise le refroidissement et l'appui aérodynamique, ce qui favorise les châssis efficaces. Ferrari y est historiquement solide. Hamilton devance de peu Verstappen, dont la Red Bull reste irrégulière malgré les correctifs annonc",
+      "reasoning_en": "Antonelli leads the championship by 123 points, and Mercedes remains the 2026 benchmark. Russell's recent form is strong. In Mexico, the thin air at altitude hurts cooling and downforce, which favours efficient chassis. Ferrari has historically been strong there. Hamilton narrowly edges Verstappen, whose Red Bull remains inconsistent despite the announced fixes.",
       "confidence": "medium",
-      "key_factor_fr": "Grille de départ et forme récente en qualification",
+      "key_factor_fr": "Domination Mercedes et altitude qui pénalise le refroidissement",
       "news_used_ids": [],
-      "generated_at": "2026-10-27T03:41:58Z"
+      "generated_at": "2026-10-27T13:00:13Z"
     }
   ]
 }
