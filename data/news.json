@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-27T15:49:37Z",
+  "last_updated": "2026-10-27T18:51:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "363479f88642",
+      "title": "Toto Wolff takes blame for George Russell's US GP struggles",
+      "title_fr": "Wolff blâme Russell après la défaite américaine",
+      "title_en": "Wolff blames Russell after US GP setback",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/wolff-admits-its-painful-watching-george-russell-struggle-while-kimi-antonelli-walks-on-water/10868566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6n7br3o0/s6/motorsport-com-graphics-28-2.jpg",
+      "published_at": "2026-10-27T17:58:01+00:00",
+      "race_id": "usa",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a reconnu la difficulté de George Russell lors du Grand Prix des États-Unis, alors qu'Andrea Kimi Antonelli a remporté la course. Le directeur de Mercedes a exprimé son mécontentement face aux pénalités de la première manche.",
+      "summary_en": "Toto Wolff admitted George Russell struggled during the United States Grand Prix, while Andrea Kimi Antonelli won the race. The Mercedes team boss expressed frustration over the first‑lap penalty that hampered Russell."
+    },
+    {
+      "id": "5f7b4f6e9d1c",
+      "title": "Valtteri Bottas denies he might lose his Cadillac seat for F1 2027",
+      "title_fr": "Bottas assure son avenir chez Cadillac en 2027",
+      "title_en": "Bottas confirms his 2027 seat with Cadillac",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/25dLoeQ0/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": "2026-10-27T17:29:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Valtteri Bottas affirme que Cadillac est satisfait de lui et que son contrat est solide pour 2027, malgré les rumeurs sur son avenir en Formule 1.",
+      "summary_en": "Valtteri Bottas says Cadillac is happy with him and his contract is solid for 2027, amid rumours about his Formula 1 future."
+    },
+    {
+      "id": "7d78f1825717",
+      "title": "Mercedes has a Russell-sized problem and it is sharing responsibility",
+      "title_fr": "Russell en difficulté à Austin, Mercedes partage la responsabilité",
+      "title_en": "Russell struggles at Austin, Mercedes shares blame",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0JXRr4RY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-10-27T16:57:28+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "George Russell a enregistré la pire performance de sa carrière à Austin, se qualifiant quatre dixièmes derrière Kimi Antonelli et terminant huitième. Mercedes doit partager la responsabilité de ce résultat décevant.",
+      "summary_en": "George Russell recorded his worst outing at Austin, qualifying four-tenths behind teammate Kimi Antonelli and finishing eighth. Mercedes shares blame for the disappointing result."
+    },
+    {
+      "id": "659955044236",
+      "title": "Franco Colapinto, George Russell to sit out FP1 at F1 Mexico GP",
+      "title_fr": "Mini fait son entrée en FP1 à Mexico",
+      "title_en": "Mini debuts in FP1 at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/franco-colapinto-george-russell-to-sit-out-fp1-at-f1-mexico-gp/10868889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVjKMKY/s6/franco-colapinto-alpine.jpg",
+      "published_at": "2026-10-27T15:50:28+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Gabriele Mini, ancien champion de F2, prend le volant de l'Alpine de Franco Colapinto lors de la première séance de tests libres du Grand Prix de Mexico. George Russell et Franco Colapinto restent à l'écart.",
+      "summary_en": "Gabriele Mini, former F2 champion, takes the wheel of Franco Colapinto’s Alpine in the first free‑practice session at the Mexico Grand Prix. George Russell and Franco Colapinto sit out FP1."
+    },
     {
       "id": "63885129138f",
       "title": "The mistakes that cost Lewis Hamilton a podium at F1’s US GP",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a critiqué les problèmes de radio de Red Bull, les qualifiant de \"désastre\", et a plaisanté qu'ils devraient communiquer en langue des signes. Il a terminé troisième derrière Kimi Antonelli et Charles Leclerc.",
       "summary_en": "Max Verstappen criticized Red Bull's radio problems, calling them a \"disaster,\" and joked they should use sign language instead. He finished third behind Kimi Antonelli and Charles Leclerc."
-    },
-    {
-      "id": "c4da4181db47",
-      "title": "Charles Leclerc reveals Ferrari breakthrough after United States GP podium",
-      "title_fr": "Leclerc révèle une percée Ferrari après son podium aux États-Unis",
-      "title_en": "Leclerc reveals Ferrari breakthrough after US GP podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-ferrari-breakthrough-after-united-states-gp-podium/10868441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/63Qaoe82/s6/motorsport-com-graphics-13.jpg",
-      "published_at": "2026-10-26T00:04:36+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc affirme avoir débloqué quelque chose dans sa conduite avec Ferrari et se sent prêt à viser la victoire avant la fin de la saison 2026. Il a terminé deuxième aux États-Unis, 13 secondes derrière Kimi Antonelli.",
-      "summary_en": "Charles Leclerc says he has unlocked something in his driving with Ferrari and feels ready to aim for victory before the end of the 2026 season. He finished second at the United States GP, 13 seconds behind Kimi Antonelli."
-    },
-    {
-      "id": "d2e1c93bc700",
-      "title": "Russell scrambling for answers after \"not being quick enough\" at US GP",
-      "title_fr": "Russell cherche des réponses après son manque de vitesse au GP des États-Unis",
-      "title_en": "Russell scrambling for answers after not being quick enough at US GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/russell-scrambling-for-answers-after-not-being-quick-enough-at-us-gp/10868425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGg4jDY/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-10-25T23:44:47+00:00",
-      "race_id": "usa",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "George Russell a terminé huitième à Austin après une pénalité de cinq secondes pour avoir pris un avantage hors piste. Le pilote Aston Martin cherche à comprendre son manque de vitesse face à Kimi Antonelli, champion en titre.",
-      "summary_en": "George Russell finished eighth in Austin after a five‑second penalty for gaining an advantage off‑track. The Aston Martin driver is looking to understand his lack of pace against Kimi Antonelli, the reigning world champion."
-    },
-    {
-      "id": "8727ae0a0c95",
-      "title": "George Russell confused by lack of pace at F1 US GP despite upgraded W17",
-      "title_fr": "Russell perplexe à Austin malgré le W17 amélioré",
-      "title_en": "Russell perplexed at Austin despite upgraded W17",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-confused-by-lack-of-pace-at-f1-us-gp-despite-upgraded-w17/10868418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2GdK4RzY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-10-25T23:42:10+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell a terminé huitième à Austin après pénalité, perplexe face à son manque de vitesse malgré le W17 amélioré. Le pilote de Mercedes se demande ce qui ne va pas.",
-      "summary_en": "George Russell finished eighth at Austin after a penalty, baffled by his lack of pace despite the upgraded W17. The Mercedes driver wonders what’s wrong."
-    },
-    {
-      "id": "2555100d1fa9",
-      "title": "Lewis Hamilton reveals the Ferrari setup mistake that cost him US GP podium",
-      "title_fr": "Lewis Hamilton reveals the Ferrari setup mistake that cost him US GP podium",
-      "title_en": "Lewis Hamilton reveals the Ferrari setup mistake that cost him US GP podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-the-ferrari-setup-mistake-that-cost-him-us-gp-podium/10868416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/01QNoaq0/s6/motorsport-com-graphics-24-2.jpg",
-      "published_at": "2026-10-25T23:33:18+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton believes the set-up he ran on his Ferrari during the United States Grand Prix left much to be desired, with his front wing being \"12 clicks down\" for much of the race. According to the ",
-      "summary_en": "Lewis Hamilton believes the set-up he ran on his Ferrari during the United States Grand Prix left much to be desired, with his front wing being \"12 clicks down\" for much of the race. According to the "
     }
   ]
 }
