@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T18:51:38Z",
+  "last_updated": "2026-10-27T21:53:36Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -77,6 +77,25 @@
       "is_breaking": false,
       "summary_fr": "Gabriele Mini, ancien champion de F2, prend le volant de l'Alpine de Franco Colapinto lors de la première séance de tests libres du Grand Prix de Mexico. George Russell et Franco Colapinto restent à l'écart.",
       "summary_en": "Gabriele Mini, former F2 champion, takes the wheel of Franco Colapinto’s Alpine in the first free‑practice session at the Mexico Grand Prix. George Russell and Franco Colapinto sit out FP1."
+    },
+    {
+      "id": "658e1ba84318",
+      "title": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
+      "title_fr": "V8 hybrides simplifiés et économiques pour la prochaine saison F1",
+      "title_en": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a75/live/e4414e20-d214-11f1-a275-c5df85f1853c.jpg",
+      "published_at": "2026-10-27T15:17:53+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les autorités de la Formule 1 envisagent d’introduire des moteurs V8 turbo hybrides plus simples et moins onéreux que les actuels. Cette évolution vise à réduire les coûts tout en maintenant la performance.",
+      "summary_en": "F1 regulators are considering simpler, cheaper V8 turbo-hybrid engines to replace the current power units. The change aims to cut costs while preserving performance."
     },
     {
       "id": "63885129138f",
@@ -267,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 arrive à l'Autodromo Hermanos Rodríguez pour le Grand Prix de Mexique. Voici comment suivre la course en direct et découvrir les options de diffusion.",
       "summary_en": "Formula 1 heads to the Autodromo Hermanos Rodríguez for the Mexican Grand Prix. Find out how to watch the race live and explore broadcast options."
+    },
+    {
+      "id": "7a1f8d1656cb",
+      "title": "How much of Antonelli's success is down to his ability? - F1 Q&A",
+      "title_fr": "Antonelli : le rôle de son talent dans son succès",
+      "title_en": "Antonelli: How Much of His Success Is Down to His Ability?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c617/live/6213b430-d0e6-11f1-89cb-332da726599e.jpg",
+      "published_at": "2026-10-27T07:00:23+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Andrew Benson répond aux questions sur la réussite d'Antonelli après le Grand Prix des États-Unis. Il souligne son talent et son travail acharné.",
+      "summary_en": "BBC F1 correspondent Andrew Benson answers questions about Antonelli's success after the United States Grand Prix, highlighting his talent and hard work."
     },
     {
       "id": "680cf70b1fd1",
@@ -687,6 +725,25 @@
       "summary_en": "Kimi Antonelli won the United States Grand Prix, but the race fell short of an instant classic. Four teams fought a strategic battle, with all three tyre compounds in play."
     },
     {
+      "id": "7b1a4059df7b",
+      "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
+      "title_fr": "Antonelli remporte la course d'un futur champion",
+      "title_en": "Antonelli wins the race of a future champion",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ee/live/7c1a34e0-d0e0-11f1-ad70-07daa2562508.jpg",
+      "published_at": "2026-10-26T01:24:51+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté la course d'Austin, saluée par Toto Wolff comme sa meilleure performance. Malgré la victoire, il ne remporte pas le titre.",
+      "summary_en": "Kimi Antonelli won the Austin race, hailed by Toto Wolff as his best performance. Despite the win, he did not secure the title."
+    },
+    {
       "id": "b27ed9977ae2",
       "title": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
       "title_fr": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be ",
       "summary_en": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be "
-    },
-    {
-      "id": "13bce0a90ded",
-      "title": "Kimi Antonelli reveals biggest mistakes of 2026 as Max Verstappen takes playful dig",
-      "title_fr": "Antonelli expose ses plus gros défauts, Verstappen le taquine",
-      "title_en": "Antonelli lists biggest mistakes, Verstappen teases him",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/24QGooPY/s6/motorsport-com-graphics-14.jpg",
-      "published_at": "2026-10-26T00:29:03+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a dévoilé les erreurs qu’il souhaite corriger cette saison, tandis que Max Verstappen l’a taquiné. Le pilote Mercedes a remporté le Grand Prix des États‑Unis, rapprochant son équipe du titre.",
-      "summary_en": "Kimi Antonelli revealed the mistakes he wants to learn from this season, while Max Verstappen playfully teased him. The Mercedes driver won the United States Grand Prix, bringing his team closer to the title."
-    },
-    {
-      "id": "bcd33624c37d",
-      "title": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
-      "title_fr": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
-      "title_en": "Lando Norris delivers harsh reality check as McLaren's F1 struggles continue",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGg4o9Y/s6/motorsport-com-graphics-26-2.jpg",
-      "published_at": "2026-10-26T00:24:29+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United",
-      "summary_en": "Reigning champion Lando Norris has admitted it's \"pretty obvious\" that McLaren has slipped from championship leaders to being the fourth-fastest team in Formula 1 after he finished fifth at the United"
-    },
-    {
-      "id": "f4978b83f861",
-      "title": "Max Verstappen jokes Red Bull should abandon radios after United States GP struggles",
-      "title_fr": "Verstappen se moque des radios Red Bull après la course américaine",
-      "title_en": "Verstappen jokes about Red Bull radios after US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YMXbEvg2/s6/motorsport-com-graphics-25.jpg",
-      "published_at": "2026-10-26T00:05:32+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a critiqué les problèmes de radio de Red Bull, les qualifiant de \"désastre\", et a plaisanté qu'ils devraient communiquer en langue des signes. Il a terminé troisième derrière Kimi Antonelli et Charles Leclerc.",
-      "summary_en": "Max Verstappen criticized Red Bull's radio problems, calling them a \"disaster,\" and joked they should use sign language instead. He finished third behind Kimi Antonelli and Charles Leclerc."
     }
   ]
 }
