@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-28T18:59:35Z",
+  "last_updated": "2026-10-28T21:59:49Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "288f586cdac9",
+      "title": "F1 newcomers Tsolov, Mini and Slater among eight drivers to run in practice on Friday | Formula 1",
+      "title_fr": "Tsolov, Mini et Slater en séance d’essai du vendredi",
+      "title_en": "Tsolov, Mini and Slater among eight drivers to run in Friday practice",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/28/f1-newcomers-tsolov-mini-and-slater-among-eight-drivers-to-run-in-practice-on-friday/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-28-21-51-14-1.jpg",
+      "published_at": "2026-10-28T21:52:24+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les équipes de Formule 1 remplissent leurs quotas de pilotes d’essai plus tôt que prévu, alors que l’incertitude plane sur les deux derniers tours de 2026.",
+      "summary_en": "F1 teams are fulfilling their practice driver quotas earlier than required, amid uncertainty over the final two rounds of 2026."
+    },
     {
       "id": "a87016e3cd41",
       "title": "Christian Horner reveals details of Red Bull exit in emotional interview",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 arrive à l'Autodromo Hermanos Rodríguez pour le Grand Prix de Mexique. Voici comment suivre la course en direct et découvrir les options de diffusion.",
       "summary_en": "Formula 1 heads to the Autodromo Hermanos Rodríguez for the Mexican Grand Prix. Find out how to watch the race live and explore broadcast options."
-    },
-    {
-      "id": "7a1f8d1656cb",
-      "title": "How much of Antonelli's success is down to his ability? - F1 Q&A",
-      "title_fr": "Antonelli : le rôle de son talent dans son succès",
-      "title_en": "Antonelli: How Much of His Success Is Down to His Ability?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c617/live/6213b430-d0e6-11f1-89cb-332da726599e.jpg",
-      "published_at": "2026-10-27T07:00:23+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Andrew Benson répond aux questions sur la réussite d'Antonelli après le Grand Prix des États-Unis. Il souligne son talent et son travail acharné.",
-      "summary_en": "BBC F1 correspondent Andrew Benson answers questions about Antonelli's success after the United States Grand Prix, highlighting his talent and hard work."
     }
   ]
 }
