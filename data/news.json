@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-28T09:57:17Z",
+  "last_updated": "2026-10-28T12:57:54Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b596eb0c9023",
+      "title": "Video: FIA increases staff monitoring F1 drivers for penalties from “1 or 2” to 40 | Brief",
+      "title_fr": "FIA multiplie le personnel de surveillance des pilotes à 40",
+      "title_en": "FIA boosts staff monitoring F1 drivers to 40",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/28/video-fia-increases-staff-monitoring-f1-drivers-for-penalties-from-1-or-2-to-40/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/fia-roc.jpg",
+      "published_at": "2026-10-28T12:47:14+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a décidé d'augmenter le nombre de membres de son personnel de surveillance des pilotes de 1 ou 2 à 40 afin de mieux contrôler les infractions potentielles. Cette mesure vise à renforcer la rigueur des sanctions.",
+      "summary_en": "The FIA has increased the number of staff monitoring F1 drivers from 1 or 2 to 40 to better oversee potential infractions. The move aims to tighten penalty enforcement."
+    },
+    {
+      "id": "9f10feb89ae5",
+      "title": "Social Media: McLaren reveals Mexican GP livery tweak for tobacco sponsor | Brief",
+      "title_fr": "Social Media: McLaren reveals Mexican GP livery tweak for tobacco sponsor | Brief",
+      "title_en": "Social Media: McLaren reveals Mexican GP livery tweak for tobacco sponsor | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/28/social-media-mclaren-reveals-mexican-gp-livery-tweak-for-tobacco-sponsor/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/mclaren-livery.jpg",
+      "published_at": "2026-10-28T12:06:36+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren promotes tobacco sponsor with 'fan-inspired livery'",
+      "summary_en": "McLaren promotes tobacco sponsor with 'fan-inspired livery'"
+    },
+    {
+      "id": "6e5257e00624",
+      "title": "Yet another DNF for Cadillac’s Valtteri Bottas: ‘Sometimes we don’t quite understand it’",
+      "title_fr": "Bottas retire à nouveau, 9e DNF",
+      "title_en": "Bottas retires again, 9th DNF",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/yet-another-dnf-for-cadillacs-valtteri-bottas-sometimes-we-dont-quite-understand-it/10868669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8pvb6/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": "2026-10-28T11:33:56+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Valtteri Bottas a quitté la course du Grand Prix des États-Unis, marquant son neuvième abandon de la saison, majoritairement lié à des problèmes techniques.",
+      "summary_en": "Valtteri Bottas retired from Sunday's United States Grand Prix, marking his ninth DNF of the season, most of which stem from technical issues."
+    },
     {
       "id": "67b7b5659ff3",
       "title": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better.<br />The Merce",
       "summary_en": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better.<br />The Merce"
-    },
-    {
-      "id": "88a019786257",
-      "title": "Mercedes pokes fun at Kimi Antonelli after awkward Austin mishap",
-      "title_fr": "Mercedes se moque de Kimi Antonelli après sa maladresse à Austin",
-      "title_en": "Mercedes teases Kimi Antonelli after awkward Austin mishap",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-kimi-antonelli-after-awkward-austin-mishap/10868627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKA1geY/s6/motorsport-com-graphics-16.jpg",
-      "published_at": "2026-10-26T12:39:00+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Mercedes a partagé une vidéo de la maladresse de Kimi Antonelli qui a heurté une clôture en reculant dans le circuit d'Austin. Le pilote de 20 ans a fait l'objet d'une plaisanterie sur TikTok.",
-      "summary_en": "Mercedes shared a clip of Kimi Antonelli’s awkward reverse that hit a fence in Austin, teasing the 20‑year‑old on TikTok."
-    },
-    {
-      "id": "004387ae0cd4",
-      "title": "Antonelli will automatically become champion if F1 cancels another race | Formula 1",
-      "title_fr": "Antonelli deviendra champion si la F1 annule une course",
-      "title_en": "Antonelli will become champion if F1 cancels a race",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/26/antonelli-will-automatically-become-champion-if-f1-cancels-another-race/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-28-11-14-M644146_F1_Grand_Prix_of_United_States.jpg",
-      "published_at": "2026-10-26T12:37:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli est presque assuré de remporter le championnat ce week-end, mais une annulation de course pourrait le couronner immédiatement.",
-      "summary_en": "Andrea Kimi Antonelli is almost guaranteed to win the championship this weekend, but a race cancellation could crown him champion immediately."
-    },
-    {
-      "id": "17c830c87be5",
-      "title": "'He doesn't feel pressure!' - how Antonelli is cruising to title",
-      "title_fr": "Antonelli, sans pression, remporte le Grand Prix des États-Unis",
-      "title_en": "Antonelli, unshaken, wins the US Grand Prix",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/videos/cqly02nlknjno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a79/live/bd9d1a10-d129-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-10-26T11:48:45+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, 16 ans, a remporté le Grand Prix des États-Unis sans ressentir de pression, selon Rosanna Tennant, Guenther Steiner et Damon Hill. Le jeune pilote montre déjà des qualités prometteuses pour la saison.",
-      "summary_en": "Teenager Kimi Antonelli won the US Grand Prix without feeling pressure, says Rosanna Tennant, Guenther Steiner and Damon Hill. The 16-year-old shows promising talent for the season."
     }
   ]
 }
