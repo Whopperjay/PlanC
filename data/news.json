@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-28T15:58:57Z",
+  "last_updated": "2026-10-28T18:59:35Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a87016e3cd41",
+      "title": "Christian Horner reveals details of Red Bull exit in emotional interview",
+      "title_fr": "Christian Horner reveals details of Red Bull exit in emotional interview",
+      "title_en": "Christian Horner reveals details of Red Bull exit in emotional interview",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BR3g2/s6/motorsport-com-graphics-33-2.jpg",
+      "published_at": "2026-10-28T18:30:18+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine.<br />Was it t",
+      "summary_en": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine.<br />Was it t"
+    },
+    {
+      "id": "b2d952047ba0",
+      "title": "Five things to look out for at the F1 Mexico GP",
+      "title_fr": "À quoi s'attendre au GP de Mexico",
+      "title_en": "What to watch for at the Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0arKKow2/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-10-28T16:51:15+00:00",
+      "race_id": "usa",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix de Mexico revient après la victoire de Kimi Antonelli à Austin. Le pilote Mercedes a dominé depuis le pole, tandis que Charles Leclerc et Max Verstappen ont terminé sur le podium.",
+      "summary_en": "The Mexico GP returns after Kimi Antonelli's win in Austin. Mercedes' driver dominated from pole, while Charles Leclerc and Max Verstappen finished on the podium."
+    },
+    {
+      "id": "37f6aff9922b",
+      "title": "Max Verstappen sits out for Red Bull in Mexico GP FP1",
+      "title_fr": "Verstappen s'abstient de la FP1 à Mexico",
+      "title_en": "Verstappen skips FP1 at Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YP74y4o2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-28T16:17:13+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a choisi de ne pas courir lors de la première séance de formation du Grand Prix de Mexico, Red Bull respectant le quota de courses pour les pilotes débutants.",
+      "summary_en": "Max Verstappen opted out of the first practice session at the Mexico City Grand Prix as Red Bull fulfills its rookie quota, giving younger drivers more track time."
+    },
     {
       "id": "e361a2b5001c",
       "title": "F1 publishes first Social Impact Report; key student scholarship renewed",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Andrew Benson répond aux questions sur la réussite d'Antonelli après le Grand Prix des États-Unis. Il souligne son talent et son travail acharné.",
       "summary_en": "BBC F1 correspondent Andrew Benson answers questions about Antonelli's success after the United States Grand Prix, highlighting his talent and hard work."
-    },
-    {
-      "id": "680cf70b1fd1",
-      "title": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
-      "title_fr": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
-      "title_en": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/naomi-schiff-warns-red-bull-over-knifes-edge-f1-car-after-us-gp-struggles/10868723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zDlW6/s6/motorsport-com-graphics-20.jpg",
-      "published_at": "2026-10-26T22:06:43+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Broadcaster Naomi Schiff has warned that Red Bull's narrow set-up window could be compromising Max Verstappen and Isack Hadjar's 2026 Formula 1 campaigns.<br />At the United States Grand Prix, both dr",
-      "summary_en": "Broadcaster Naomi Schiff has warned that Red Bull's narrow set-up window could be compromising Max Verstappen and Isack Hadjar's 2026 Formula 1 campaigns.<br />At the United States Grand Prix, both dr"
-    },
-    {
-      "id": "0665a5d6fedc",
-      "title": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
-      "title_fr": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
-      "title_en": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7L59jY/s6/motorsport-com-graphics-23-2.jpg",
-      "published_at": "2026-10-26T21:37:48+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully ",
-      "summary_en": "The United States Grand Prix was a wildly successful weekend for Ferrari, if you strictly go off the timing sheets. The newly upgraded car possessed blazing-fast race pace, tyre degradation was fully "
-    },
-    {
-      "id": "02f2145e33d1",
-      "title": "Red Bull reveals damage behind Max Verstappen's US GP struggles",
-      "title_fr": "Red Bull explique la perte de podium de Verstappen à Austin",
-      "title_en": "Red Bull explains why Verstappen lost podium in Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YpbABzW0/s6/motorsport-com-graphics-22-2.jpg",
-      "published_at": "2026-10-26T21:16:47+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies révèle que des débris invisibles ont coûté à Max Verstappen la deuxième place au Grand Prix des États-Unis. Le pilote a critiqué les arrêts aux stands, les pneus et le freinage moteur.",
-      "summary_en": "Laurent Mekies says invisible debris cost Max Verstappen second place at the United States Grand Prix, after the driver slammed pit stops, tyres and engine braking."
     }
   ]
 }
