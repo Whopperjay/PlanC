@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-28T00:54:57Z",
+  "last_updated": "2026-10-28T03:55:44Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8f38a0d319a7",
+      "title": "Max Verstappen admits Red Bull was “just a little average” in Austin",
+      "title_fr": "Verstappen critique Red Bull après le podium à Austin",
+      "title_en": "Verstappen calls Red Bull 'just a little average' after podium in Austin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/68Vw45X2/s6/motorsport-com-graphics-32.jpg",
+      "published_at": "2026-10-28T02:50:03+00:00",
+      "race_id": "netherlands",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen, troisième à Austin, a qualifié son équipe Red Bull de \"juste un peu moyenne\" après des problèmes de pneus, de moteur et de radio.",
+      "summary_en": "Max Verstappen, finishing third in Austin, called his Red Bull team 'just a little average' after tyre, power unit and radio issues."
+    },
+    {
+      "id": "89a3783529d0",
+      "title": "Toto Wolff reveals how Williams' surprise victory helped him secure Mercedes role",
+      "title_fr": "Wolff révèle comment la victoire surprise de Williams l’a mené à Mercedes",
+      "title_en": "Wolff reveals how Williams’ surprise win paved his way to Mercedes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDX4a0/s6/motorsport-com-graphics-31.jpg",
+      "published_at": "2026-10-28T01:40:02+00:00",
+      "race_id": "spain-barcelona",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff explique que la victoire inattendue de Pastor Maldonado à l’Indy de l’Espagne a contribué à son intégration chez Mercedes. Le dirigeant a comparé les pilotes Mercedes aux talents de Williams.",
+      "summary_en": "Toto Wolff says the unexpected win by Pastor Maldonado at the Spanish Grand Prix helped him secure a role at Mercedes. He compared the Mercedes stars to the talent that emerged from Williams."
+    },
+    {
+      "id": "0cc5a05459f2",
+      "title": "George Russell F1 title chances defended by Toto Wolff after Helmut Marko comments",
+      "title_fr": "Wolff défend les chances de titre de Russell face à Marko",
+      "title_en": "Wolff defends Russell's title chances after Marko's remarks",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPZeJ0/s6/motorsport-com-graphics-26.jpg",
+      "published_at": "2026-10-28T00:51:35+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a rejeté les propos de Helmut Marko, qui prétendait que George Russell ne pourrait plus viser le championnat. Le pilote Mercedes reste à 123 points de Kimi Antonelli.",
+      "summary_en": "Toto Wolff dismissed Helmut Marko's claim that George Russell would never get another shot at the F1 title. The Mercedes driver remains 123 points behind teammate Kimi Antonelli."
+    },
     {
       "id": "0c6fbe7a5086",
       "title": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen described Red Bull's radio problems as a \"disaster\" after suffering more communications trouble in Austin.",
       "summary_en": "Max Verstappen described Red Bull's radio problems as a \"disaster\" after suffering more communications trouble in Austin."
-    },
-    {
-      "id": "068c1b4e05d5",
-      "title": "Antonelli was “concerned” by threat from Verstappen’s early pit stop in Austin | Formula 1",
-      "title_fr": "Antonelli was “concerned” by threat from Verstappen’s early pit stop in Austin | Formula 1",
-      "title_en": "Antonelli was “concerned” by threat from Verstappen’s early pit stop in Austin | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/26/antonelli-was-concerned-by-threat-from-verstappens-early-pit-stop-in-austin/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-28-11-7-M643805_F1_Grand_Prix_of_United_States.jpg",
-      "published_at": "2026-10-26T07:15:08+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli admitted he was concerned to see rival Max Verstappen make an early pit stop in the United States Grand Prix.",
-      "summary_en": "Andrea Kimi Antonelli admitted he was concerned to see rival Max Verstappen make an early pit stop in the United States Grand Prix."
-    },
-    {
-      "id": "21734af449f5",
-      "title": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
-      "title_fr": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
-      "title_en": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vZZj6/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-26T06:57:41+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen secured his tenth podium finish of the 2026 Formula 1 season in Austin, his sixth in succession since his crash at Zandvoort. It is an impressive statistic, although it did little to sa",
-      "summary_en": "Max Verstappen secured his tenth podium finish of the 2026 Formula 1 season in Austin, his sixth in succession since his crash at Zandvoort. It is an impressive statistic, although it did little to sa"
-    },
-    {
-      "id": "1d1fac1b16a5",
-      "title": "Max Verstappen pinpoints two recurring Red Bull problems: \"We should use sign language!\"",
-      "title_fr": "Verstappen critique les problèmes récurrents de Red Bull à Austin",
-      "title_en": "Verstappen blames Red Bull's recurring issues after Austin podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vZZj6/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-26T06:55:30+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a terminé à la troisième place à Austin, son dixième podium de la saison, mais a dénoncé deux problèmes récurrents chez Red Bull, déclarant qu'il fallait utiliser le langage des signes",
-      "summary_en": "Max Verstappen finished third in Austin, his tenth podium of the season, but flagged two recurring Red Bull issues, saying they should 'use sign language'"
     }
   ]
 }
