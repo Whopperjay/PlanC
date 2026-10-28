@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-28T12:57:54Z",
+  "last_updated": "2026-10-28T15:58:57Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e361a2b5001c",
+      "title": "F1 publishes first Social Impact Report; key student scholarship renewed",
+      "title_fr": "F1 publishes first Social Impact Report; key student scholarship renewed",
+      "title_en": "F1 publishes first Social Impact Report; key student scholarship renewed",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg",
+      "published_at": "2026-10-28T15:26:42+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having benefited from F1 programmes last year.<br />In initiatives designed to",
+      "summary_en": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having benefited from F1 programmes last year.<br />In initiatives designed to"
+    },
+    {
+      "id": "d32867448f6e",
+      "title": "New contract to keep Perez racing for Cadillac until at least 2029 | Formula 1",
+      "title_fr": "Perez prolonge son contrat avec Cadillac jusqu'en 2029",
+      "title_en": "Perez extends Cadillac contract until 2029",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/28/new-contract-to-keep-perez-racing-for-cadillac-until-at-least-2029/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-28-15-24-04-1-CadillacF1Team_16862_HiRes.jpg",
+      "published_at": "2026-10-28T15:12:35+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Sergio Pérez signe un nouveau contrat avec Cadillac, le prolongant jusqu'en 2029. L'accord est annoncé quelques jours avant son 300e Grand Prix à Mexico.",
+      "summary_en": "Sergio Pérez signs a new contract with Cadillac, extending it until 2029. The deal comes just days before his 300th Grand Prix in Mexico."
+    },
+    {
+      "id": "2bb82e7af934",
+      "title": "F1 publishes first Social Impact Report; key student scholarship renewed",
+      "title_fr": "F1 publishes first Social Impact Report; key student scholarship renewed",
+      "title_en": "F1 publishes first Social Impact Report; key student scholarship renewed",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg",
+      "published_at": "2026-10-28T15:03:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having beneffited from F1 programmes last year.<br />In initiatives designed t",
+      "summary_en": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having beneffited from F1 programmes last year.<br />In initiatives designed t"
+    },
+    {
+      "id": "6140ce3f76bb",
+      "title": "Sergio Perez signs fresh Cadillac F1 deal until 2029",
+      "title_fr": "Perez signe un contrat Cadillac jusqu'en 2029",
+      "title_en": "Perez signs fresh Cadillac F1 deal until 2029",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-signs-fresh-cadillac-f1-deal-until-2029/10869093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2jEAvyb0/s6/sergio-perez-cadillac-racing.jpg",
+      "published_at": "2026-10-28T15:02:59+00:00",
+      "race_id": "mexico",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Sergio Perez a signé un nouveau contrat avec Cadillac F1, le projet américain, valable jusqu'en 2029. Le pilote mexicain rejoint l'équipe pour la saison 2026 après son départ de Red Bull.",
+      "summary_en": "Sergio Perez has signed a fresh contract with the American Cadillac F1 project, binding him until 2029. The Mexican driver will join the team for its 2026 debut after leaving Red Bull."
+    },
+    {
+      "id": "a47e51d8b351",
+      "title": "Oliver Bearman explains why Haas’ 2026 F1 car is ‘hitting its ceiling’",
+      "title_fr": "Bearman explique pourquoi la Haas 2026 atteint son plafond",
+      "title_en": "Bearman explains why Haas 2026 car hits its ceiling",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oliver-bearman-explains-why-haas-2026-f1-car-is-hitting-its-ceiling/10868899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BA1O2/s6/oliver-bearman-haas-f1-team.jpg",
+      "published_at": "2026-10-28T12:57:38+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Oliver Bearman a déclaré que la Haas 2026 ne peut plus gagner de performance après le Grand Prix des États-Unis. Malgré un bon départ en pratique, il a terminé 16e en qualification, soulignant les limites de la voiture.",
+      "summary_en": "Oliver Bearman said the Haas 2026 car has reached its performance ceiling after the United States Grand Prix. Despite a strong start in practice, he qualified 16th, highlighting the car's limits."
+    },
     {
       "id": "b596eb0c9023",
       "title": "Video: FIA increases staff monitoring F1 drivers for penalties from “1 or 2” to 40 | Brief",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Laurent Mekies révèle que des débris invisibles ont coûté à Max Verstappen la deuxième place au Grand Prix des États-Unis. Le pilote a critiqué les arrêts aux stands, les pneus et le freinage moteur.",
       "summary_en": "Laurent Mekies says invisible debris cost Max Verstappen second place at the United States Grand Prix, after the driver slammed pit stops, tyres and engine braking."
-    },
-    {
-      "id": "ed02f249af6b",
-      "title": "David Coulthard rejects F1 regulation excuses with Ayrton Senna and Michael Schumacher comparison",
-      "title_fr": "Coulthard rejette les excuses réglementaires, compare Senna et Schumacher",
-      "title_en": "Coulthard rejects regulation excuses, compares Senna and Schumacher",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/Y9lN4ZZ2/s6/motorsport-com-graphics-19.jpg",
-      "published_at": "2026-10-26T18:48:29+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "David Coulthard dénonce les excuses liées aux nouvelles règles 2026, affirmant que les grands pilotes comme Senna et Schumacher s'adaptent toujours. Il rappelle que la performance dépend avant tout du pilote.",
-      "summary_en": "David Coulthard dismisses excuses about the 2026 regulations, arguing that legends like Senna and Schumacher always adapt. He stresses that performance ultimately hinges on the driver."
-    },
-    {
-      "id": "05e747dad432",
-      "title": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
-      "title_fr": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
-      "title_en": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-being-very-adaptive-gave-norris-edge-over-piastri-at-us-gp/10868691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6lmANoK0/s6/oscar-piastri-mclaren-lando-no-2.jpg",
-      "published_at": "2026-10-26T17:20:16+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f",
-      "summary_en": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f"
-    },
-    {
-      "id": "a72d4412f66e",
-      "title": "George Russell's Mercedes F1 future discussed amid Kimi Antonelli's success",
-      "title_fr": "Russell questionné sur son avenir chez Mercedes après le succès d'Antonelli",
-      "title_en": "Russell's future at Mercedes questioned amid Antonelli's success",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QVRp6/s6/motorsport-com-graphics-18.jpg",
-      "published_at": "2026-10-26T17:16:28+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell voit son avenir à Mercedes remis en cause après la montée en puissance de Kimi Antonelli, qui a récemment pris la tête du championnat.",
-      "summary_en": "George Russell's future at Mercedes is being questioned after Kimi Antonelli's rise to the top of the championship."
-    },
-    {
-      "id": "a937e47f553b",
-      "title": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
-      "title_fr": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
-      "title_en": "Why McLaren gave team order to Oscar Piastri in F1 US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-mclaren-oscar-piastri-team-order-us-gp/10868686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6b8ZNRw2/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-10-26T17:15:33+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f",
-      "summary_en": "McLaren team principal Andrea Stella has explained the reasoning behind asking Oscar Piastri to wave Lando Norris past in Formula 1’s United States Grand Prix.<br />Piastri and Norris locked out the f"
-    },
-    {
-      "id": "1fa031234497",
-      "title": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
-      "title_fr": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
-      "title_en": "Why Monza win from 19th still isn't the best of Kimi Antonelli's dominant F1 2026 season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7vZqm6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-26T13:29:54+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better.<br />The Merce",
-      "summary_en": "Kimi Antonelli pulled off a sensational victory from 19th at the Italian Grand Prix, but Formula 1’s champion-elect reckons his dominant performance from pole in Austin was even better.<br />The Merce"
     }
   ]
 }
