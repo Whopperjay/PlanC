@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T13:00:23Z",
-  "model": "claude",
+  "generated_at": "2026-10-28T03:56:36Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -113,14 +113,14 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance : la Mercedes est la référence sur un tour. Russell reste fort en qualif dans la même voiture. À Mexico, l'altitude réduit l'appui et le refroidissement, ce qui rebat parfois les cartes. Verstappen y a souvent brillé et Red Bull dit avoir réglé ses problèmes. Ferrari reste une menace, mais un cran derrière.",
-      "reasoning_en": "Antonelli dominates 2026 with a 123-point lead, and the Mercedes is the benchmark over one lap. Russell remains strong in qualifying in the same car. At Mexico, altitude cuts downforce and cooling, which can shuffle the order. Verstappen has often shone here, and Red Bull says its issues are fixed. Ferrari is still a threat but a step behind.",
-      "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes sur un tour, altitude favorable à Verstappen",
+      "p2": "max_verstappen",
+      "p3": "leclerc",
+      "reasoning_fr": "Antonelli domine les qualifications grâce à son rythme exceptionnel et à la puissance fiable de Mercedes, confirmé par la pole à Austin. Verstappen, malgré les critiques internes, conserve le meilleur tour unique de Red Bull, adapté aux exigences de haute altitude du circuit de Mexico. Leclerc, en forte forme et avec une Ferrari bien équilibrée, complète le podium, soutenu par son bon résultat en ",
+      "reasoning_en": "Antonelli leads qualifying with his outstanding single‑lap speed and Mercedes’ reliable power unit, proven by his pole in Austin. Verstappen, despite internal criticism, still delivers Red Bull’s fastest lap, suited to Mexico’s high‑altitude demands. Leclerc, in strong form and with a well‑balanced Ferrari, rounds out the podium, backed by his solid qualifying at Austin and his ability to cope wit",
+      "confidence": "high",
+      "key_factor_fr": "Qualif récente + puissance moteur à haute altitude",
       "news_used_ids": [],
-      "generated_at": "2026-10-27T13:00:23Z"
+      "generated_at": "2026-10-28T03:56:35Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "hamilton",
-      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, et Mercedes reste la référence en 2026. Russell confirme sa forme récente. À Mexico, l'air raréfié de l'altitude pénalise le refroidissement et l'appui aérodynamique, ce qui favorise les châssis efficaces. Ferrari y est historiquement solide. Hamilton devance de peu Verstappen, dont la Red Bull reste irrégulière malgré les correctifs annonc",
-      "reasoning_en": "Antonelli leads the championship by 123 points, and Mercedes remains the 2026 benchmark. Russell's recent form is strong. In Mexico, the thin air at altitude hurts cooling and downforce, which favours efficient chassis. Ferrari has historically been strong there. Hamilton narrowly edges Verstappen, whose Red Bull remains inconsistent despite the announced fixes.",
-      "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes et altitude qui pénalise le refroidissement",
+      "p2": "leclerc",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli part en pole, montre un rythme exceptionnel en qualification et a remporté les USA, confirmant sa supériorité. Leclerc, en bonne forme et bénéficiant du package Ferrari adapté à l’altitude de Mexico, a fini deuxième à Austin et partira avec une stratégie de pneus solide. Verstappen, malgré ses critiques internes et quelques problèmes de pneus, reste très rapide et capitalise sur son expé",
+      "reasoning_en": "Antonelli starts from pole after a stellar qualifying pace and a win in the United States, confirming his dominance. Leclerc is in strong form, with Ferrari’s high‑altitude‑friendly package delivering a solid second‑place finish in Austin and a good tyre strategy for Mexico. Verstappen, despite internal team criticism and recent tyre issues, retains raw speed and circuit experience, allowing him t",
+      "confidence": "high",
+      "key_factor_fr": "Pole d'Antonelli + forme Ferrari + altitude",
       "news_used_ids": [],
-      "generated_at": "2026-10-27T13:00:13Z"
+      "generated_at": "2026-10-28T03:56:22Z"
     }
   ]
 }
