@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-27T21:53:36Z",
+  "last_updated": "2026-10-28T00:54:57Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0c6fbe7a5086",
+      "title": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
+      "title_fr": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
+      "title_en": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6grQKVVY/s6/motorsport-com-graphics-25.jpg",
+      "published_at": "2026-10-28T00:26:33+00:00",
+      "race_id": "austria",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Red Bull motorsport adviser Helmut Marko has become an investor in an Austrian artificial intelligence start-up that lets people leave personal messages to be delivered to loved ones after they",
+      "summary_en": "Former Red Bull motorsport adviser Helmut Marko has become an investor in an Austrian artificial intelligence start-up that lets people leave personal messages to be delivered to loved ones after they"
+    },
+    {
+      "id": "7d72f6c0e6ba",
+      "title": "Red Bull responds to Aston Martin F1 power unit rumours",
+      "title_fr": "Red Bull rejette les rumeurs de fourniture de moteurs à Aston Martin",
+      "title_en": "Red Bull denies power unit supply rumours to Aston Martin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0arENDG2/s6/motorsport-com-graphics-30.jpg",
+      "published_at": "2026-10-28T00:24:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Laurent Mekies, directeur de Red Bull, a déclaré que l’équipe ne mène pas de discussions sérieuses pour fournir des moteurs à d’autres équipes, y compris Aston Martin, malgré les difficultés de performance de son partenariat avec Honda.",
+      "summary_en": "Laurent Mekies, Red Bull's team principal, said the team is not in serious talks to supply power units to other teams, including Aston Martin, amid its struggles with Honda."
+    },
+    {
+      "id": "1e9946bb194b",
+      "title": "On This Day: Hamilton races Schumacher for the first time in Kerpen kart finale | Brief",
+      "title_fr": "Hamilton et Schumacher s'affrontent en kart à Kerpen",
+      "title_en": "Hamilton and Schumacher race in kart final at Kerpen",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/28/on-this-day-hamilton-rosberg-schumacher-and-liuzzi-in-world-karting-championship-final/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2007/09/racefansdotnet-24-01-08-23-13-42-1-mskerpenkart02_high.jpg",
+      "published_at": "2026-10-28T00:01:00+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Lewis Hamilton a affronté Michael Schumacher lors de la finale de kart à Kerpen, marquant la première rencontre entre les deux légendes sur circuit de karting.",
+      "summary_en": "Lewis Hamilton faced Michael Schumacher in the Kerpen kart final, marking the first time the two legends competed on a karting track."
+    },
+    {
+      "id": "78a238a16116",
+      "title": "Kimi Antonelli extends F1 title lead with US GP win Mercedes didn’t expect",
+      "title_fr": "Antonelli s'impose à Austin, étend son avance en championnat",
+      "title_en": "Antonelli wins US GP, extends title lead",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXRrDpY/s6/motorsport-com-graphics-29-2.jpg",
+      "published_at": "2026-10-27T22:05:19+00:00",
+      "race_id": "usa",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le pilote italien Kimi Antonelli a remporté la course de l'USA, augmentant son avance au championnat. Mercedes n'avait pas anticipé cette victoire.",
+      "summary_en": "Kimi Antonelli won the United States Grand Prix, extending his championship lead. Mercedes had not expected the victory."
+    },
     {
       "id": "363479f88642",
       "title": "Toto Wolff takes blame for George Russell's US GP struggles",
@@ -497,6 +573,25 @@
       "summary_en": "Andrea Kimi Antonelli is almost guaranteed to win the championship this weekend, but a race cancellation could crown him champion immediately."
     },
     {
+      "id": "17c830c87be5",
+      "title": "'He doesn't feel pressure!' - how Antonelli is cruising to title",
+      "title_fr": "Antonelli, sans pression, remporte le Grand Prix des États-Unis",
+      "title_en": "Antonelli, unshaken, wins the US Grand Prix",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/videos/cqly02nlknjno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a79/live/bd9d1a10-d129-11f1-b441-2b33b063138f.jpg",
+      "published_at": "2026-10-26T11:48:45+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, 16 ans, a remporté le Grand Prix des États-Unis sans ressentir de pression, selon Rosanna Tennant, Guenther Steiner et Damon Hill. Le jeune pilote montre déjà des qualités prometteuses pour la saison.",
+      "summary_en": "Teenager Kimi Antonelli won the US Grand Prix without feeling pressure, says Rosanna Tennant, Guenther Steiner and Damon Hill. The 16-year-old shows promising talent for the season."
+    },
+    {
       "id": "587aac19ca68",
       "title": "Franco Colapinto responds to Jeremy Clarkson’s controversial comment about him",
       "title_fr": "Colapinto riposte à Clarkson sur la pénalité",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a terminé à la troisième place à Austin, son dixième podium de la saison, mais a dénoncé deux problèmes récurrents chez Red Bull, déclarant qu'il fallait utiliser le langage des signes",
       "summary_en": "Max Verstappen finished third in Austin, his tenth podium of the season, but flagged two recurring Red Bull issues, saying they should 'use sign language'"
-    },
-    {
-      "id": "c315a41a113c",
-      "title": "Alonso criticises quality of F1 backmarkers after Albon clash at United States GP",
-      "title_fr": "Alonso critique les backmarkers après l'incident avec Albon",
-      "title_en": "Alonso criticises backmarkers after clash with Albon",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/alonso-criticises-f1-backmarkers-after-albon-clash/10868469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVPZwO0/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": "2026-10-26T06:14:23+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso a dénoncé la qualité des backmarkers après le choc avec Alex Albon lors du premier tour du Grand Prix des États-Unis. L'incident a coûté quatre places à l'Aston Martin.",
-      "summary_en": "Fernando Alonso slammed the quality of backmarkers after a clash with Alex Albon on the opening lap of the United States Grand Prix. The incident cost the Aston Martin driver four places."
-    },
-    {
-      "id": "96ba093c76c5",
-      "title": "Fernando Alonso blasts driving standards of bottom half of F1 grid",
-      "title_fr": "Alonso critique les standards de conduite de la grille inférieure",
-      "title_en": "Alonso blasts driving standards of bottom half of F1 grid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2jEANmN0/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-10-26T06:10:52+00:00",
-      "race_id": "usa",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Alonso a critiqué les standards de conduite de la grille inférieure après avoir heurté Alex Albon sur le départ du Grand Prix d’Austin. Le choc a coûté quatre places à l’Aston Martin et endommagé son plancher.",
-      "summary_en": "Alonso blasted the bottom‑half drivers after colliding with Alex Albon on the opening lap of the United States Grand Prix. The impact cost him four places and damaged the Aston Martin's floor."
-    },
-    {
-      "id": "234939e2a05f",
-      "title": "Winners and losers from F1's United States Grand Prix",
-      "title_fr": "Kimi Antonelli remporte le Grand Prix des États-Unis malgré un duel stratégique",
-      "title_en": "Kimi Antonelli wins US Grand Prix amid strategic battle",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-united-states-grand-prix/10868465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBRRZ6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-10-26T01:48:25+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le Grand Prix des États-Unis, mais la course n'a pas été un classique instantané. Les quatre équipes se sont livrées à une bataille de stratégies, avec les trois composés de pneus en jeu.",
-      "summary_en": "Kimi Antonelli won the United States Grand Prix, but the race fell short of an instant classic. Four teams fought a strategic battle, with all three tyre compounds in play."
-    },
-    {
-      "id": "7b1a4059df7b",
-      "title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
-      "title_fr": "Antonelli remporte la course d'un futur champion",
-      "title_en": "Antonelli wins the race of a future champion",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ee/live/7c1a34e0-d0e0-11f1-ad70-07daa2562508.jpg",
-      "published_at": "2026-10-26T01:24:51+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté la course d'Austin, saluée par Toto Wolff comme sa meilleure performance. Malgré la victoire, il ne remporte pas le titre.",
-      "summary_en": "Kimi Antonelli won the Austin race, hailed by Toto Wolff as his best performance. Despite the win, he did not secure the title."
-    },
-    {
-      "id": "b27ed9977ae2",
-      "title": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
-      "title_fr": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
-      "title_en": "Red Bull admits frustrating F1 problem will not be fully fixed until 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arENNk2/s6/motorsport-com-graphics-27.jpg",
-      "published_at": "2026-10-26T00:54:02+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be ",
-      "summary_en": "Red Bull team principal Laurent Mekies has admitted that the issue the team has faced at the start of races won't be fixed until next season. This comes after Isack Hadjar called for the clutch to be "
     }
   ]
 }
