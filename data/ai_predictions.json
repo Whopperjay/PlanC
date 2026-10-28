@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:00:04Z",
+  "generated_at": "2026-10-28T13:00:22Z",
   "model": "claude",
   "predictions": [
     {
@@ -113,14 +113,14 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "leclerc",
-      "reasoning_fr": "Antonelli domine les qualifications grâce à son rythme exceptionnel et à la puissance fiable de Mercedes, confirmé par la pole à Austin. Verstappen, malgré les critiques internes, conserve le meilleur tour unique de Red Bull, adapté aux exigences de haute altitude du circuit de Mexico. Leclerc, en forte forme et avec une Ferrari bien équilibrée, complète le podium, soutenu par son bon résultat en ",
-      "reasoning_en": "Antonelli leads qualifying with his outstanding single‑lap speed and Mercedes’ reliable power unit, proven by his pole in Austin. Verstappen, despite internal criticism, still delivers Red Bull’s fastest lap, suited to Mexico’s high‑altitude demands. Leclerc, in strong form and with a well‑balanced Ferrari, rounds out the podium, backed by his solid qualifying at Austin and his ability to cope wit",
-      "confidence": "high",
-      "key_factor_fr": "Qualif récente + puissance moteur à haute altitude",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance : la Mercedes est la référence sur un tour. À Mexico, l'altitude (2 240 m) réduit l'appui et le refroidissement. Le groupe propulseur Mercedes semble le plus efficace. Russell, excellent qualifieur, suit. Verstappen a souvent brillé ici, et Red Bull aime la longue ligne droite et la faible densité de l'air.",
+      "reasoning_en": "Antonelli dominates 2026 with a 123-point lead, and Mercedes is the benchmark over one lap. In Mexico, the altitude (2,240 m) cuts downforce and cooling, and the Mercedes power unit looks the most efficient. Russell, a strong qualifier, should follow. Verstappen has often shone here, and Red Bull suits the long straight and thin air.",
+      "confidence": "medium",
+      "key_factor_fr": "Efficacité du moteur Mercedes en altitude, air raréfié",
       "news_used_ids": [],
-      "generated_at": "2026-10-28T03:56:35Z"
+      "generated_at": "2026-10-28T13:00:22Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "leclerc",
+      "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli part en pole, montre un rythme exceptionnel en qualification et a remporté les USA, confirmant sa supériorité. Leclerc, en bonne forme et bénéficiant du package Ferrari adapté à l’altitude de Mexico, a fini deuxième à Austin et partira avec une stratégie de pneus solide. Verstappen, malgré ses critiques internes et quelques problèmes de pneus, reste très rapide et capitalise sur son expé",
-      "reasoning_en": "Antonelli starts from pole after a stellar qualifying pace and a win in the United States, confirming his dominance. Leclerc is in strong form, with Ferrari’s high‑altitude‑friendly package delivering a solid second‑place finish in Austin and a good tyre strategy for Mexico. Verstappen, despite internal team criticism and recent tyre issues, retains raw speed and circuit experience, allowing him t",
-      "confidence": "high",
-      "key_factor_fr": "Pole d'Antonelli + forme Ferrari + altitude",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, signe d'une Mercedes nettement supérieure en 2026. Russell confirme la force de la monoplace. À Mexico, l'altitude réduit l'appui et sollicite le refroidissement et le moteur. Verstappen, plusieurs fois vainqueur ici, devrait devancer de peu les Ferrari d'Hamilton et Leclerc dans une lutte serrée pour la P3.",
+      "reasoning_en": "Antonelli leads the championship by 123 points, which points to a clearly superior 2026 Mercedes. Russell confirms the car's strength. In Mexico, the altitude reduces downforce and puts extra load on cooling and the power unit. Verstappen, a multiple winner here, should narrowly beat the Ferraris of Hamilton and Leclerc in a tight fight for P3.",
+      "confidence": "medium",
+      "key_factor_fr": "Domination Mercedes et altitude qui sollicite moteur et refroidissement",
       "news_used_ids": [],
-      "generated_at": "2026-10-28T03:56:22Z"
+      "generated_at": "2026-10-28T13:00:13Z"
     }
   ]
 }
