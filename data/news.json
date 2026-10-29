@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-29T10:03:51Z",
+  "last_updated": "2026-10-29T13:04:31Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "c0ad179052db",
+      "title": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
+      "title_fr": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
+      "title_en": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/cadillac-honoured-to-have-sergio-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BROB2/s6/sergio-perez-cadillac-racing-2.jpg",
+      "published_at": "2026-10-29T13:00:03+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b",
+      "summary_en": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b"
+    },
+    {
+      "id": "916f2aaf0bdd",
+      "title": "Sebastian Vettel reveals why BMW didn't want him – but Red Bull did",
+      "title_fr": "Vettel explique pourquoi BMW l'a laissé partir, mais Red Bull l'a retenu",
+      "title_en": "Vettel explains why BMW let him go, but Red Bull kept him",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/sebastian-vettel-reveals-why-bmw-didnt-want-him-but-red-bull-did/10869300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YBeWlz82/s6/sebastian-vettel-sauber-f1-06-.jpg",
+      "published_at": "2026-10-29T12:18:06+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Dans le documentaire ARD Being Sebastian Vettel, le champion à quatre titres révèle que le soutien de BMW n'a pas fonctionné comme prévu, tandis que Red Bull a vu son potentiel et l'a retenu",
+      "summary_en": "In the ARD documentary Being Sebastian Vettel, the four-time champion explains that BMW's support didn't work out as planned, while Red Bull saw his potential and kept him"
+    },
     {
       "id": "29186d21f04b",
       "title": "Kimi Antonelli reveals plans to launch his own racing academy outside F1",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Gabriele Mini, ancien champion de F2, prend le volant de l'Alpine de Franco Colapinto lors de la première séance de tests libres du Grand Prix de Mexico. George Russell et Franco Colapinto restent à l'écart.",
       "summary_en": "Gabriele Mini, former F2 champion, takes the wheel of Franco Colapinto’s Alpine in the first free‑practice session at the Mexico Grand Prix. George Russell and Franco Colapinto sit out FP1."
-    },
-    {
-      "id": "658e1ba84318",
-      "title": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
-      "title_fr": "V8 hybrides simplifiés et économiques pour la prochaine saison F1",
-      "title_en": "Simpler, cheaper hybrid V8s proposed for next F1 rules",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw4g186011rdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a75/live/e4414e20-d214-11f1-a275-c5df85f1853c.jpg",
-      "published_at": "2026-10-27T15:17:53+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les autorités de la Formule 1 envisagent d’introduire des moteurs V8 turbo hybrides plus simples et moins onéreux que les actuels. Cette évolution vise à réduire les coûts tout en maintenant la performance.",
-      "summary_en": "F1 regulators are considering simpler, cheaper V8 turbo-hybrid engines to replace the current power units. The change aims to cut costs while preserving performance."
-    },
-    {
-      "id": "63885129138f",
-      "title": "The mistakes that cost Lewis Hamilton a podium at F1’s US GP",
-      "title_fr": "Hamilton perd le podium aux États-Unis",
-      "title_en": "Hamilton loses podium at US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2jEANNM0/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-10-27T15:01:07+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a expliqué pourquoi le podium l'a échappé lors du Grand Prix des États-Unis. Il a perdu du temps sur les pneus souples et a été dépassé par Charles Leclerc.",
-      "summary_en": "Lewis Hamilton explained why he missed the podium at the US Grand Prix. He lost time on soft tyres and was overtaken by Charles Leclerc."
     }
   ]
 }
