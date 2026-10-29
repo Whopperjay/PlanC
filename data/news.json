@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-29T19:07:20Z",
+  "last_updated": "2026-10-29T22:09:21Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d5a059c67627",
+      "title": "Herta or Bottas for 2027 seat is “not an easy decision” for Cadillac, says Perez | Formula 1",
+      "title_fr": "Cadillac hésite entre Herta et Bottas pour 2027",
+      "title_en": "Cadillac weighs Herta vs Bottas for 2027 seat",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/29/herta-or-bottas-for-2027-seat-is-not-an-easy-decision-for-cadillac-says-perez/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-29-21-56-41-1-CadillacF1Team_6950_HiRes.jpg",
+      "published_at": "2026-10-29T22:05:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Sergio Pérez a déclaré que Cadillac doit choisir entre Valtteri Bottas et Colton Herta pour son coéquipier 2027. Le choix reste difficile pour l’équipe.",
+      "summary_en": "Sergio Pérez says Cadillac faces a tough decision between Valtteri Bottas and Colton Herta for its 2027 teammate."
+    },
+    {
+      "id": "04999790f8b4",
+      "title": "Charles Leclerc defends Alex Albon after Fernando Alonso's scathing criticism",
+      "title_fr": "Leclerc défend Albon après la critique d'Alonso",
+      "title_en": "Leclerc defends Albon after Alonso's criticism",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-defends-alex-albon-after-fernando-alonsos-scathing-criticism/10869433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YK158Jb0/s6/motorsport-com-graphics-31.jpg",
+      "published_at": "2026-10-29T21:40:35+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc défend Alex Albon après que Fernando Alonso ait critiqué la qualité de conduite des pilotes de la troisième rangée. Leclerc affirme que le niveau est très élevé sur tout le grid.",
+      "summary_en": "Charles Leclerc defended Alex Albon after Fernando Alonso criticized the driving quality of the back-row cars. Leclerc said the level is very high across the grid."
+    },
+    {
+      "id": "f5501509e56d",
+      "title": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
+      "title_fr": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
+      "title_en": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2GdK4JKY/s6/motorsport-com-graphics-44.jpg",
+      "published_at": "2026-10-29T21:34:31+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari's Charles Leclerc says he is “not obsessed” with finishing second in the Formula 1 drivers’ championship, despite being just nine points off the position with five races to go.<br />While Kimi",
+      "summary_en": "Ferrari's Charles Leclerc says he is “not obsessed” with finishing second in the Formula 1 drivers’ championship, despite being just nine points off the position with five races to go.<br />While Kimi"
+    },
+    {
+      "id": "2f22db90a03a",
+      "title": "George Russell makes defiant Mercedes statement as Kimi Antonelli nears world title",
+      "title_fr": "Russell défie la saison 2026 en affirmant ses 12-15 ans de carrière",
+      "title_en": "Russell defies 2026 season, vows 12-15 years of racing",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-defiant-difficult-f1-season-is-not-going-to-break-me/10869421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7QV5g6/s6/motorsport-com-graphics-43.jpg",
+      "published_at": "2026-10-29T21:10:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell affirme qu'il a encore 12 à 15 ans de carrière, malgré une saison 2026 fluctuante. Il est deuxième du championnat, 123 points derrière Kimi Antonelli, qui peut remporter son premier titre ce week-end.",
+      "summary_en": "George Russell says he still has 12 to 15 years of racing ahead, despite a shaky 2026 season. He sits second in the standings, 123 points behind Kimi Antonelli, who could win his first title this weekend."
+    },
+    {
+      "id": "f5e01ef35225",
+      "title": "George Russell warns Ferrari could have major advantage at Mexican GP",
+      "title_fr": "Russell prédit un avantage Ferrari au Mexique",
+      "title_en": "Russell predicts Ferrari advantage at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-warns-ferrari-could-have-major-advantage-at-mexican-gp/10869423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lN4yx2/s6/motorsport-com-graphics-30.jpg",
+      "published_at": "2026-10-29T21:09:42+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell, pilote Mercedes, estime que le turbo plus petit de Ferrari pourrait lui donner un avantage majeur sur le circuit d'Autódromo Hermanos Rodríguez, à plus de 2200 mètres d'altitude.",
+      "summary_en": "Mercedes driver George Russell believes Ferrari's smaller turbo could give it a major advantage at the high-altitude Autódromo Hermanos Rodríguez in Mexico City."
+    },
+    {
+      "id": "387c744d2c5e",
+      "title": "George Russell on F1 title loss: 'This year won't break me'",
+      "title_fr": "Russell affirme que la perte du titre ne le brisera pas",
+      "title_en": "Russell says title loss won't break him",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-on-f1-title-loss-this-year-wont-break-me/10869417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alv4doY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-10-29T20:57:32+00:00",
+      "race_id": "uk",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell, favori pour le championnat, déclare que son manque de titre cette saison ne le définira pas et qu'il ne sera pas brisé par cette défaite. Le pilote britannique reste confiant.",
+      "summary_en": "George Russell, the championship favourite, says missing a title this season won't define him and he won't be broken by the loss. The British driver remains confident."
+    },
+    {
+      "id": "097960b44df3",
+      "title": "Alonso doubles down on poor F1 driving standards – and says those targeted know who they are",
+      "title_fr": "Alonso critique les standards de conduite en F1",
+      "title_en": "Alonso Criticizes F1 Driving Standards",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fernando-alonso-doubles-down-on-poor-f1-driving-standards-we-all-know-who-were-talking-about/10869405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNWdq2/s6/fernando-alonso-aston-martin-r-3.jpg",
+      "published_at": "2026-10-29T20:05:13+00:00",
+      "race_id": "usa",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Après avoir été percuté par Alexander Albon lors du premier tour du Grand Prix d’Austin, Fernando Alonso dénonce la qualité de la conduite en Formule 1, affirmant que les pilotes ciblés savent qui ils sont.",
+      "summary_en": "After being hit by Alexander Albon on the opening lap of the US Grand Prix in Austin, Fernando Alonso slammed F1 driving standards, saying the targeted drivers know who they are."
+    },
+    {
+      "id": "e86782c161c6",
+      "title": "Fernando Alonso doubles down on poor F1 driving standards: \"We all know who we're talking about\"",
+      "title_fr": "Fernando Alonso doubles down on poor F1 driving standards: \"We all know who we're talking about\"",
+      "title_en": "Fernando Alonso doubles down on poor F1 driving standards: \"We all know who we're talking about\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-doubles-down-on-poor-f1-driving-standards-we-all-know-who-were-talking-about/10869402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVPZEq0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-10-29T20:03:04+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "After Fernando Alonso was hit by Alexander Albon on the opening lap of the US Grand Prix in Austin – which, according to Aston Martin's chief trackside officer Mike Krack, cost him a considerable amou",
+      "summary_en": "After Fernando Alonso was hit by Alexander Albon on the opening lap of the US Grand Prix in Austin – which, according to Aston Martin's chief trackside officer Mike Krack, cost him a considerable amou"
+    },
+    {
+      "id": "19c6c3b5fbe6",
+      "title": "Who would replace Charles Leclerc at Ferrari if he misses a race for his baby’s birth?",
+      "title_fr": "Leclerc ne manquera pas le GP malgré la naissance de son bébé",
+      "title_en": "Leclerc will not miss the GP despite his baby's birth",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-would-replace-charles-leclerc-at-ferrari-if-he-misses-a-race-for-his-babys-birth/10869393/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVj4bzY/s6/motorsport-com-graphics-42.jpg",
+      "published_at": "2026-10-29T19:22:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc affirme qu’il ne manquera pas le Grand Prix même si son premier enfant naît. Ferrari a déjà prévu un remplaçant au cas où les plans changeraient.",
+      "summary_en": "Charles Leclerc says he will not miss the Grand Prix even if his first child is born. Ferrari has already lined up a stand‑in in case plans change."
+    },
+    {
+      "id": "b24b1a6b8afb",
+      "title": "Kimi Antonelli backed to surpass Sebastian Vettel's four F1 titles by Guenther Steiner",
+      "title_fr": "Kimi Antonelli, l'espoir de dépasser Vettel",
+      "title_en": "Kimi Antonelli poised to surpass Vettel's four F1 titles",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-backed-to-surpass-sebastian-vettels-four-f1-titles-by-guenther-steiner/10869391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/68Vw4D42/s6/motorsport-com-graphics-29.jpg",
+      "published_at": "2026-10-29T19:20:45+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, 20 ans, est sur le point de devenir champion de Formule 1, ce qui le placerait au-dessus du record de Sebastian Vettel. Le directeur de Haas, Guenther Steiner, l'encourage.",
+      "summary_en": "Kimi Antonelli, 20, is on the brink of becoming a Formula 1 champion, which would put him ahead of Sebastian Vettel's record. Haas chief Guenther Steiner backs the young driver."
+    },
     {
       "id": "ac4ffcf01014",
       "title": "Every LEGO F1 set you can buy right now: £10.99 to £199.99",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having beneffited from F1 programmes last year.<br />In initiatives designed t",
       "summary_en": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having beneffited from F1 programmes last year.<br />In initiatives designed t"
-    },
-    {
-      "id": "6140ce3f76bb",
-      "title": "Sergio Perez signs fresh Cadillac F1 deal until 2029",
-      "title_fr": "Perez signe un contrat Cadillac jusqu'en 2029",
-      "title_en": "Perez signs fresh Cadillac F1 deal until 2029",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/sergio-perez-signs-fresh-cadillac-f1-deal-until-2029/10869093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2jEAvyb0/s6/sergio-perez-cadillac-racing.jpg",
-      "published_at": "2026-10-28T15:02:59+00:00",
-      "race_id": "mexico",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Sergio Perez a signé un nouveau contrat avec Cadillac F1, le projet américain, valable jusqu'en 2029. Le pilote mexicain rejoint l'équipe pour la saison 2026 après son départ de Red Bull.",
-      "summary_en": "Sergio Perez has signed a fresh contract with the American Cadillac F1 project, binding him until 2029. The Mexican driver will join the team for its 2026 debut after leaving Red Bull."
-    },
-    {
-      "id": "a47e51d8b351",
-      "title": "Oliver Bearman explains why Haas’ 2026 F1 car is ‘hitting its ceiling’",
-      "title_fr": "Bearman explique pourquoi la Haas 2026 atteint son plafond",
-      "title_en": "Bearman explains why Haas 2026 car hits its ceiling",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-explains-why-haas-2026-f1-car-is-hitting-its-ceiling/10868899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BA1O2/s6/oliver-bearman-haas-f1-team.jpg",
-      "published_at": "2026-10-28T12:57:38+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Oliver Bearman a déclaré que la Haas 2026 ne peut plus gagner de performance après le Grand Prix des États-Unis. Malgré un bon départ en pratique, il a terminé 16e en qualification, soulignant les limites de la voiture.",
-      "summary_en": "Oliver Bearman said the Haas 2026 car has reached its performance ceiling after the United States Grand Prix. Despite a strong start in practice, he qualified 16th, highlighting the car's limits."
-    },
-    {
-      "id": "b596eb0c9023",
-      "title": "Video: FIA increases staff monitoring F1 drivers for penalties from “1 or 2” to 40 | Brief",
-      "title_fr": "FIA multiplie le personnel de surveillance des pilotes à 40",
-      "title_en": "FIA boosts staff monitoring F1 drivers to 40",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/28/video-fia-increases-staff-monitoring-f1-drivers-for-penalties-from-1-or-2-to-40/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/fia-roc.jpg",
-      "published_at": "2026-10-28T12:47:14+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a décidé d'augmenter le nombre de membres de son personnel de surveillance des pilotes de 1 ou 2 à 40 afin de mieux contrôler les infractions potentielles. Cette mesure vise à renforcer la rigueur des sanctions.",
-      "summary_en": "The FIA has increased the number of staff monitoring F1 drivers from 1 or 2 to 40 to better oversee potential infractions. The move aims to tighten penalty enforcement."
-    },
-    {
-      "id": "9f10feb89ae5",
-      "title": "Social Media: McLaren reveals Mexican GP livery tweak for tobacco sponsor | Brief",
-      "title_fr": "Social Media: McLaren reveals Mexican GP livery tweak for tobacco sponsor | Brief",
-      "title_en": "Social Media: McLaren reveals Mexican GP livery tweak for tobacco sponsor | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/28/social-media-mclaren-reveals-mexican-gp-livery-tweak-for-tobacco-sponsor/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/mclaren-livery.jpg",
-      "published_at": "2026-10-28T12:06:36+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren promotes tobacco sponsor with 'fan-inspired livery'",
-      "summary_en": "McLaren promotes tobacco sponsor with 'fan-inspired livery'"
-    },
-    {
-      "id": "6e5257e00624",
-      "title": "Yet another DNF for Cadillac’s Valtteri Bottas: ‘Sometimes we don’t quite understand it’",
-      "title_fr": "Bottas retire à nouveau, 9e DNF",
-      "title_en": "Bottas retires again, 9th DNF",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/yet-another-dnf-for-cadillacs-valtteri-bottas-sometimes-we-dont-quite-understand-it/10868669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8pvb6/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-10-28T11:33:56+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas a quitté la course du Grand Prix des États-Unis, marquant son neuvième abandon de la saison, majoritairement lié à des problèmes techniques.",
-      "summary_en": "Valtteri Bottas retired from Sunday's United States Grand Prix, marking his ninth DNF of the season, most of which stem from technical issues."
-    },
-    {
-      "id": "67b7b5659ff3",
-      "title": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective",
-      "title_fr": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective",
-      "title_en": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0JXRjNyY/s6/lance-stroll-aston-martin-raci-3.jpg",
-      "published_at": "2026-10-28T09:41:41+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "One of the most remarkable moments on Sunday in Austin did not take place on the track itself, but rather in the Formula 1 paddock after the US Grand Prix. During the usual post-race media sessions, b",
-      "summary_en": "One of the most remarkable moments on Sunday in Austin did not take place on the track itself, but rather in the Formula 1 paddock after the US Grand Prix. During the usual post-race media sessions, b"
-    },
-    {
-      "id": "369e041e6075",
-      "title": "Why Aston Martin and Red Bull were asked about an unlikely F1 engine partnership",
-      "title_fr": "Aston Martin et Red Bull interrogés sur un partenariat moteur improbable",
-      "title_en": "Aston Martin and Red Bull questioned about unlikely engine partnership",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QwDy6/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": "2026-10-28T09:39:24+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Après le Grand Prix des États-Unis, les représentants d’Aston Martin et de Red Bull ont été interrogés sur un éventuel partenariat moteur, un sujet qui a surpris les médias.",
-      "summary_en": "After the US Grand Prix, Aston Martin and Red Bull representatives were asked about a potential engine partnership, a topic that surprised the media."
-    },
-    {
-      "id": "222495a7a599",
-      "title": "Audi F1 power unit division brings back CEO role",
-      "title_fr": "Audi réinstaure le poste de PDG dans son unité F1",
-      "title_en": "Audi reinstates CEO role in its F1 power unit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/audi-f1-power-unit-division-brings-back-ceo-role/10869006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6Al7119Y/s6/gabriel-bortoleto-audi-f1-team.jpg",
-      "published_at": "2026-10-28T08:54:54+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Thomas Fuhr devient directeur général de la division Audi Formula Racing, qui développe les moteurs F1. Cette décision permet à Stefan Dreyer de se concentrer pleinement sur le développement technique.",
-      "summary_en": "Thomas Fuhr will become CEO of Audi Formula Racing, the division that develops F1 power units. This move lets Stefan Dreyer focus fully on technical development."
-    },
-    {
-      "id": "8c0c72777638",
-      "title": "FIA partners with AWS to help drive future F1 regulations",
-      "title_fr": "FIA s'associe à AWS pour booster les futures régulations F1",
-      "title_en": "FIA partners with AWS to boost future F1 regulations",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6AErNjN6/s6/f1-and-fia-logo.jpg",
-      "published_at": "2026-10-28T08:00:03+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a annoncé un partenariat avec Amazon Web Services pour renforcer ses capacités numériques. AWS sera le partenaire officiel d'IA et de cloud computing, afin d'améliorer la production des futures régulations techniques.",
-      "summary_en": "The FIA has announced a partnership with Amazon Web Services to boost its digital capabilities. AWS will be the official AI and cloud computing partner, helping to improve the creation of future technical regulations."
-    },
-    {
-      "id": "635dd7da39f6",
-      "title": "FIA announces new partnership to help drive future F1 regulations",
-      "title_fr": "FIA s'associe à Amazon Web Services pour booster ses régulations",
-      "title_en": "FIA partners with Amazon Web Services to boost regulations",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPM870/s6/fia-logo-2.jpg",
-      "published_at": "2026-10-28T08:00:03+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a signé un partenariat avec Amazon Web Services pour renforcer ses capacités numériques et développer ses futures régulations techniques.",
-      "summary_en": "The FIA has partnered with Amazon Web Services to enhance its digital capabilities and develop future technical regulations."
     }
   ]
 }
