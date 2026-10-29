@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-10-29T07:02:50Z",
+  "last_updated": "2026-10-29T10:03:51Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "29186d21f04b",
+      "title": "Kimi Antonelli reveals plans to launch his own racing academy outside F1",
+      "title_fr": "Antonelli dévoile son projet d’académie de pilotage hors F1",
+      "title_en": "Antonelli reveals plans to launch his own racing academy outside F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-to-build-a-racing-academy-and-team-up-with-his-dad-in-gt3/10869239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9E4WKY/s6/motorsport-com-graphics-39-2.jpg",
+      "published_at": "2026-10-29T09:53:32+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "À 20 ans, Kimi Antonelli domine le championnat 2026 en Mercedes et annonce la création d’une académie de pilotage, en collaboration avec son père, hors Formule 1.",
+      "summary_en": "At 20, Kimi Antonelli dominates the 2026 championship in a Mercedes and announces plans to launch a racing academy with his father, outside Formula 1."
+    },
+    {
+      "id": "2add9e2db2ee",
+      "title": "Fans “pay a bit less attention” to Formula 1 as calendar gets longer – Sainz | Formula 1",
+      "title_fr": "Sainz critique l'allongement du calendrier F1",
+      "title_en": "Sainz Criticizes F1 Calendar Expansion",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/29/fans-pay-a-bit-less-attention-to-formula-1-as-calendar-gets-longer-sainz/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-04-18-40-13-2-2298516360.jpg",
+      "published_at": "2026-10-29T07:15:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz Jnr estime que l'allongement du calendrier de la Formule 1 rend les courses moins spéciales, décrivant l'augmentation des événements comme contre-productive pour les fans.",
+      "summary_en": "Carlos Sainz Jr. says the expanding F1 calendar makes races feel less special, calling the increased number of events counterproductive for fans."
+    },
+    {
+      "id": "ad9590aca5c3",
+      "title": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
+      "title_fr": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
+      "title_en": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdK4E1Y/s6/motorsport-com-graphics-37-2.jpg",
+      "published_at": "2026-10-29T07:05:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "When a high-profile Formula 1 executive is shown the door, the rumour mill immediately shifts to where they will land next. But in the case of Christian Horner, his departure from Red Bull Racing in 2",
+      "summary_en": "When a high-profile Formula 1 executive is shown the door, the rumour mill immediately shifts to where they will land next. But in the case of Christian Horner, his departure from Red Bull Racing in 2"
+    },
     {
       "id": "f38383fd8f2a",
       "title": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a expliqué pourquoi le podium l'a échappé lors du Grand Prix des États-Unis. Il a perdu du temps sur les pneus souples et a été dépassé par Charles Leclerc.",
       "summary_en": "Lewis Hamilton explained why he missed the podium at the US Grand Prix. He lost time on soft tyres and was overtaken by Charles Leclerc."
-    },
-    {
-      "id": "0920dbd65c2d",
-      "title": "The role Friday practice played in Hamilton failing to achieve a podium at the US GP",
-      "title_fr": "Hamilton échoue à podium aux États-Unis",
-      "title_en": "Hamilton misses podium at US GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-role-friday-practice-played-in-hamilton-failing-to-achieve-podium-at-us-gp/10868872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YP74yNe2/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-10-27T15:00:02+00:00",
-      "race_id": "usa",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a expliqué pourquoi il n’a pas pu atteindre le podium lors du Grand Prix des États-Unis. Après un départ cinquième, il a perdu de la vitesse face à Charles Leclerc, notamment en raison de la stratégie de pneus.",
-      "summary_en": "Lewis Hamilton explained why he missed the podium at the United States Grand Prix. Starting from fifth, he lost time to Charles Leclerc, partly due to tyre strategy during Friday practice."
-    },
-    {
-      "id": "827ea5926d0d",
-      "title": "McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7",
-      "title_fr": "McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7",
-      "title_en": "McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6b8ZNwr2/s6/motorsport-com-graphics-21-2.jpg",
-      "published_at": "2026-10-27T14:27:14+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In modern Formula 1, raw race pace means absolutely nothing if you completely bottle your qualifying laps on Saturday afternoon. Without track position, you are simply burning up your tyres in dirty a",
-      "summary_en": "In modern Formula 1, raw race pace means absolutely nothing if you completely bottle your qualifying laps on Saturday afternoon. Without track position, you are simply burning up your tyres in dirty a"
-    },
-    {
-      "id": "763232c4a815",
-      "title": "“I couldn’t disappear” – Oliver Bearman rues “crazy” penalty for Pierre Gasly clash",
-      "title_fr": "Bearman déplore sa pénalité de 10s après collision avec Gasly",
-      "title_en": "Bearman laments 10‑second penalty after clash with Gasly",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/i-just-couldnt-disappear-oliver-bearman-rues-crazy-10s-penalty-for-pierre-gasly-clash/10868777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0LdeBMv0/s6/oliver-bearman-haas-f1-team.jpg",
-      "published_at": "2026-10-27T13:51:23+00:00",
-      "race_id": "usa",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Oliver Bearman a exprimé son étonnement après avoir reçu une pénalité de 10 secondes pour sa collision avec Pierre Gasly lors du Grand Prix des États‑Unis. Le pilote, qui avait gagné deux places, a déclaré qu’il n’avait pas pu disparaître.",
-      "summary_en": "Oliver Bearman expressed shock after receiving a 10‑second penalty for his clash with Pierre Gasly at the United States Grand Prix. The driver, who had gained two positions on the opening lap, said he couldn’t disappear."
     }
   ]
 }
