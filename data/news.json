@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-29T13:04:31Z",
+  "last_updated": "2026-10-29T16:05:56Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d21ef10a71d9",
+      "title": "Why Daniel Ricciardo would consider a comeback at Le Mans",
+      "title_fr": "Ricciardo envisage un retour à Le Mans",
+      "title_en": "Ricciardo mulls a return to Le Mans",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/Y99DzGXY/s6/daniel-ricciardo-rb-f1-team.jpg",
+      "published_at": "2026-10-29T16:00:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Daniel Ricciardo, champion à huit titres, a quitté la Formule 1 il y a deux ans. Il se demande s’il peut revenir, notamment pour le 24 Heures du Mans.",
+      "summary_en": "Daniel Ricciardo, a eight‑time Formula One champion, left the sport two years ago. He’s weighing a comeback, possibly at the 24 Hours of Le Mans."
+    },
+    {
+      "id": "58b70fa1f6cd",
+      "title": "Why Ricciardo would consider a comeback at Le Mans",
+      "title_fr": "Ricciardo envisage un retour à Le Mans",
+      "title_en": "Ricciardo mulls a comeback at Le Mans",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/Y99DKwAY/s6/daniel-ricciardo-visa-cash-app-2.jpg",
+      "published_at": "2026-10-29T16:00:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Daniel Ricciardo, champion à huit titres, estime que sa carrière en Formule 1 est probablement terminée, mais il se montre ouvert à un retour à Le Mans.",
+      "summary_en": "Daniel Ricciardo, a former eight‑time Formula One champion, says his F1 career is likely over but remains open to a return to Le Mans."
+    },
+    {
+      "id": "948d0b53ac32",
+      "title": "The 10 key moments that defined Sergio Perez's F1 career",
+      "title_fr": "Perez atteint 300 courses, 10 moments clés de sa carrière",
+      "title_en": "Perez reaches 300 starts, 10 defining moments",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-10-key-moments-that-defined-sergio-perezs-f1-career/10869046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/Yv8WJ110/s6/sergio-perez-racing-point-cele.jpg",
+      "published_at": "2026-10-29T15:00:03+00:00",
+      "race_id": "mexico",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Sergio Pérez a franchi la barre des 300 courses en Formule 1, un exploit partagé avec des légendes comme Schumacher, Button et Barrichello. L'article retrace dix moments décisifs de sa carrière.",
+      "summary_en": "Sergio Pérez has crossed the 300-race mark in Formula 1, joining legends such as Schumacher, Button and Barrichello. The piece highlights ten pivotal moments that have defined his career."
+    },
+    {
+      "id": "730763919b59",
+      "title": "Perez performs Cadillac show run in Mexico City – in a car from F1: The Movie | Formula 1",
+      "title_fr": "Perez fait un défilé Cadillac à Mexico",
+      "title_en": "Perez performs Cadillac show run in Mexico City",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/29/perez-performs-cadillac-show-run-in-mexico-city-in-a-car-from-f1-the-movie/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/perez-f1-movie.jpg",
+      "published_at": "2026-10-29T14:25:10+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Sergio Perez a effectué un défilé pour Cadillac à Mexico, son pays d’origine, en prévision du Grand Prix du Mexique du week-end prochain.",
+      "summary_en": "Sergio Perez performed a Cadillac show run in Mexico City ahead of this weekend's Mexican Grand Prix."
+    },
+    {
+      "id": "48bb83a6f644",
+      "title": "Does Daniel Ricciardo regret leaving Red Bull for Renault?",
+      "title_fr": "Ricciardo regrette son depart de Red Bull pour Renault",
+      "title_en": "Ricciardo regrets leaving Red Bull for Renault",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/does-daniel-ricciardo-regret-leaving-red-bull-for-renault/10869294/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8ZN5w2/s6/alex-albon-red-bull-racing-lea.jpg",
+      "published_at": "2026-10-29T14:03:04+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Daniel Ricciardo, autrefois pilier de Red Bull, exprime aujourdhui son regret davoir quitte la marque pour Renault. Le pilote, qui a longtemps été l'un des favoris du paddock, se questionne sur son choix.",
+      "summary_en": "Daniel Ricciardo, once a key figure at Red Bull, now says he regrets leaving the team for Renault. The driver, who had been a top contender, questions his decision."
+    },
     {
       "id": "c0ad179052db",
       "title": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
@@ -20,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b",
       "summary_en": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b"
+    },
+    {
+      "id": "a6f8ccd9994a",
+      "title": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
+      "title_fr": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
+      "title_en": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/cadillac-honoured-to-have-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/63QaoRw2/s6/sergio-perez-cadillac-racing-2.jpg",
+      "published_at": "2026-10-29T13:00:03+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b",
+      "summary_en": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b"
     },
     {
       "id": "916f2aaf0bdd",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Laurent Mekies, directeur de Red Bull, a déclaré que l’équipe ne mène pas de discussions sérieuses pour fournir des moteurs à d’autres équipes, y compris Aston Martin, malgré les difficultés de performance de son partenariat avec Honda.",
       "summary_en": "Laurent Mekies, Red Bull's team principal, said the team is not in serious talks to supply power units to other teams, including Aston Martin, amid its struggles with Honda."
-    },
-    {
-      "id": "1e9946bb194b",
-      "title": "On This Day: Hamilton races Schumacher for the first time in Kerpen kart finale | Brief",
-      "title_fr": "Hamilton et Schumacher s'affrontent en kart à Kerpen",
-      "title_en": "Hamilton and Schumacher race in kart final at Kerpen",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/28/on-this-day-hamilton-rosberg-schumacher-and-liuzzi-in-world-karting-championship-final/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2007/09/racefansdotnet-24-01-08-23-13-42-1-mskerpenkart02_high.jpg",
-      "published_at": "2026-10-28T00:01:00+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Lewis Hamilton a affronté Michael Schumacher lors de la finale de kart à Kerpen, marquant la première rencontre entre les deux légendes sur circuit de karting.",
-      "summary_en": "Lewis Hamilton faced Michael Schumacher in the Kerpen kart final, marking the first time the two legends competed on a karting track."
-    },
-    {
-      "id": "78a238a16116",
-      "title": "Kimi Antonelli extends F1 title lead with US GP win Mercedes didn’t expect",
-      "title_fr": "Antonelli s'impose à Austin, étend son avance en championnat",
-      "title_en": "Antonelli wins US GP, extends title lead",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0JXRrDpY/s6/motorsport-com-graphics-29-2.jpg",
-      "published_at": "2026-10-27T22:05:19+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le pilote italien Kimi Antonelli a remporté la course de l'USA, augmentant son avance au championnat. Mercedes n'avait pas anticipé cette victoire.",
-      "summary_en": "Kimi Antonelli won the United States Grand Prix, extending his championship lead. Mercedes had not expected the victory."
-    },
-    {
-      "id": "363479f88642",
-      "title": "Toto Wolff takes blame for George Russell's US GP struggles",
-      "title_fr": "Wolff blâme Russell après la défaite américaine",
-      "title_en": "Wolff blames Russell after US GP setback",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/wolff-admits-its-painful-watching-george-russell-struggle-while-kimi-antonelli-walks-on-water/10868566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6n7br3o0/s6/motorsport-com-graphics-28-2.jpg",
-      "published_at": "2026-10-27T17:58:01+00:00",
-      "race_id": "usa",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a reconnu la difficulté de George Russell lors du Grand Prix des États-Unis, alors qu'Andrea Kimi Antonelli a remporté la course. Le directeur de Mercedes a exprimé son mécontentement face aux pénalités de la première manche.",
-      "summary_en": "Toto Wolff admitted George Russell struggled during the United States Grand Prix, while Andrea Kimi Antonelli won the race. The Mercedes team boss expressed frustration over the first‑lap penalty that hampered Russell."
-    },
-    {
-      "id": "5f7b4f6e9d1c",
-      "title": "Valtteri Bottas denies he might lose his Cadillac seat for F1 2027",
-      "title_fr": "Bottas assure son avenir chez Cadillac en 2027",
-      "title_en": "Bottas confirms his 2027 seat with Cadillac",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/25dLoeQ0/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-10-27T17:29:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas affirme que Cadillac est satisfait de lui et que son contrat est solide pour 2027, malgré les rumeurs sur son avenir en Formule 1.",
-      "summary_en": "Valtteri Bottas says Cadillac is happy with him and his contract is solid for 2027, amid rumours about his Formula 1 future."
-    },
-    {
-      "id": "7d78f1825717",
-      "title": "Mercedes has a Russell-sized problem and it is sharing responsibility",
-      "title_fr": "Russell en difficulté à Austin, Mercedes partage la responsabilité",
-      "title_en": "Russell struggles at Austin, Mercedes shares blame",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0JXRr4RY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-10-27T16:57:28+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "George Russell a enregistré la pire performance de sa carrière à Austin, se qualifiant quatre dixièmes derrière Kimi Antonelli et terminant huitième. Mercedes doit partager la responsabilité de ce résultat décevant.",
-      "summary_en": "George Russell recorded his worst outing at Austin, qualifying four-tenths behind teammate Kimi Antonelli and finishing eighth. Mercedes shares blame for the disappointing result."
-    },
-    {
-      "id": "659955044236",
-      "title": "Franco Colapinto, George Russell to sit out FP1 at F1 Mexico GP",
-      "title_fr": "Mini fait son entrée en FP1 à Mexico",
-      "title_en": "Mini debuts in FP1 at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/franco-colapinto-george-russell-to-sit-out-fp1-at-f1-mexico-gp/10868889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVjKMKY/s6/franco-colapinto-alpine.jpg",
-      "published_at": "2026-10-27T15:50:28+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Gabriele Mini, ancien champion de F2, prend le volant de l'Alpine de Franco Colapinto lors de la première séance de tests libres du Grand Prix de Mexico. George Russell et Franco Colapinto restent à l'écart.",
-      "summary_en": "Gabriele Mini, former F2 champion, takes the wheel of Franco Colapinto’s Alpine in the first free‑practice session at the Mexico Grand Prix. George Russell and Franco Colapinto sit out FP1."
     }
   ]
 }
