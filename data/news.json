@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-28T21:59:49Z",
+  "last_updated": "2026-10-29T01:00:49Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7d601ee035d0",
+      "title": "Daniel Ricciardo opens door to racing return with Max Verstappen at Le Mans",
+      "title_fr": "Ricciardo envisage un retour à Le Mans avec Verstappen",
+      "title_en": "Ricciardo eyeing Le Mans return with Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alv4NNY/s6/motorsport-com-graphics-28.jpg",
+      "published_at": "2026-10-29T00:41:02+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote australien Daniel Ricciardo a déclaré qu'il envisagerait une apparition unique aux 24 Heures du Mans, choisissant Max Verstappen comme coéquipier. Le retour de Ricciardo resterait un projet de rêve.",
+      "summary_en": "Australian driver Daniel Ricciardo said he would consider a one-off appearance at the 24 Hours of Le Mans, naming Max Verstappen as his first choice for a co-driver. The return remains a dream."
+    },
+    {
+      "id": "9579711d997e",
+      "title": "Daniel Ricciardo reveals major regret over 2018 Red Bull departure",
+      "title_fr": "Ricciardo regrette son départ de Red Bull en 2018",
+      "title_en": "Ricciardo regrets leaving Red Bull in 2018",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5A8JaY/s6/motorsport-com-graphics-38-2.jpg",
+      "published_at": "2026-10-29T00:26:45+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote australien Daniel Ricciardo a admis qu'il aurait préféré rester chez Red Bull après la saison 2018. Son départ a laissé Max Verstappen comme pilote principal, qui a remporté quatre titres consécutifs.",
+      "summary_en": "Australian driver Daniel Ricciardo admitted he would have preferred to stay with Red Bull after the 2018 season. His exit left Max Verstappen as the team's lead driver, who went on to win four consecutive titles."
+    },
+    {
+      "id": "a906cf21ec9a",
+      "title": "FIA to use AI to help shape future F1 regulations in new AWS partnership",
+      "title_fr": "FIA adopte l'IA d'AWS pour façonner les futures règles de F1",
+      "title_en": "FIA partners with AWS to shape future F1 regulations",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YK1589z0/s6/motorsport-com-graphics-27.jpg",
+      "published_at": "2026-10-29T00:16:47+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Fédération Internationale de l'Automobile a signé un partenariat mondial avec Amazon Web Services pour utiliser l'intelligence artificielle dans l'élaboration des règles de la prochaine ère de la Formule 1.",
+      "summary_en": "The FIA has signed a global partnership with Amazon Web Services to use AI in drafting the regulations for the next era of Formula 1 cars."
+    },
+    {
+      "id": "b75e9578458d",
+      "title": "Christian Horner addresses past misconduct allegations in new interview",
+      "title_fr": "Horner se défend sur les allégations de Red Bull",
+      "title_en": "Horner defends himself on Red Bull allegations",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0qgKEJEY/s6/motorsport-com-graphics-34-2.jpg",
+      "published_at": "2026-10-28T23:51:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a enfin pris la parole pour répondre aux allégations de la fin de son mandat chez Red Bull Racing. Il a rejeté les accusations et maintenu son innocence.",
+      "summary_en": "Christian Horner finally spoke about the allegations surrounding his final months at Red Bull Racing, denying wrongdoing and maintaining his innocence."
+    },
     {
       "id": "288f586cdac9",
       "title": "F1 newcomers Tsolov, Mini and Slater among eight drivers to run in practice on Friday | Formula 1",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La perte de la 'véritable course' n'entame pas la probabilité de titre d'Antonelli. Les règles actuelles restent un frein, mais son palmarès demeure intact.",
       "summary_en": "The loss of 'true racing' does not diminish Antonelli's likely title. Current rules remain a hurdle, but his record stays intact."
-    },
-    {
-      "id": "1ee067f9e3be",
-      "title": "Stats: Russell scored as many points as Hulkenberg in last three rounds | 2026 United States GP stats and facts",
-      "title_fr": "Russell égalise Hulkenberg en points sur trois derniers tours",
-      "title_en": "Russell matches Hulkenberg's points over last three rounds",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/27/stats-russell-scored-as-many-points-as-hulkenberg-in-last-three-rounds/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-00-55-36-3-M642701_F1_Grand_Prix_of_United_States_Qualifying.jpg",
-      "published_at": "2026-10-27T10:20:37+00:00",
-      "race_id": "usa",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "George Russell a accumulé autant de points que le 14e pilote, Nico Hulkenberg, lors des trois derniers tours de la saison. Le coéquipier de Mercedes, qui mène le championnat, montre une performance solide.",
-      "summary_en": "George Russell has matched Nico Hulkenberg's points over the last three rounds. The Mercedes teammate, who leads the championship, demonstrates solid performance."
-    },
-    {
-      "id": "5b8066396934",
-      "title": "Red Bull explains why Verstappen and Hadjar's 'silly' problems won't all be fixed in 2026",
-      "title_fr": "Red Bull : les problèmes de Verstappen et Hadjar resteront en 2026",
-      "title_en": "Red Bull says Verstappen and Hadjar's 'silly' issues won't be solved in 2026",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/red-bull-explains-why-verstappen-and-hadjar-silly-problems-wont-be-fixed-in-2026/10868779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZNKw2/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-27T09:46:28+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a expliqué que les problèmes techniques rencontrés par Max Verstappen et le pilote Hadjar ne seront pas entièrement résolus d’ici 2026, malgré les efforts de l’équipe. Les deux pilotes restent frustrés par les performances.",
-      "summary_en": "Red Bull explained that the technical issues faced by Max Verstappen and Hadjar will not be fully resolved by 2026, despite the team's efforts. Both drivers remain frustrated by the performance gaps."
-    },
-    {
-      "id": "b3a819a71692",
-      "title": "Red Bull reveals when 'silly' problems affecting Max Verstappen and Isack Hadjar can be fixed",
-      "title_fr": "Red Bull annonce la résolution des problèmes de Verstappen et Hadjar",
-      "title_en": "Red Bull says when Verstappen and Hadjar's issues will be fixed",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-reveals-when-silly-problems-affecting-max-verstappen-and-isack-hadjar-can-be-fixed/10868773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPqXy0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-27T09:34:32+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a annoncé que les problèmes techniques affectant Max Verstappen et Isack Hadjar seront résolus prochainement, malgré un podium pour Verstappen et une frustration de l’équipe.",
-      "summary_en": "Red Bull said the technical issues affecting Max Verstappen and Isack Hadjar will be fixed soon, even as Verstappen took a podium and the team expressed frustration."
-    },
-    {
-      "id": "d4989eb0afeb",
-      "title": "How to watch the 2026 Mexican Grand Prix live this weekend | TV Times",
-      "title_fr": "Regardez le Grand Prix de Mexique en direct ce week-end",
-      "title_en": "Watch the 2026 Mexican Grand Prix live this weekend",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/27/how-to-watch-the-2026-mexican-grand-prix-live-this-weekend/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/10/racefansdotnet-24-10-26-14-03-18-5-2243462856.jpg",
-      "published_at": "2026-10-27T07:15:26+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 arrive à l'Autodromo Hermanos Rodríguez pour le Grand Prix de Mexique. Voici comment suivre la course en direct et découvrir les options de diffusion.",
-      "summary_en": "Formula 1 heads to the Autodromo Hermanos Rodríguez for the Mexican Grand Prix. Find out how to watch the race live and explore broadcast options."
     }
   ]
 }
