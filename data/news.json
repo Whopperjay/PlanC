@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-29T01:00:49Z",
+  "last_updated": "2026-10-29T04:01:47Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b93874a3eaef",
+      "title": "Christian Horner reveals why Netflix made him the villain of \"Drive to Survive\"",
+      "title_fr": "Horner explique comment Netflix l'a transformé en méchant",
+      "title_en": "Horner explains how Netflix turned him into a villain",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-admits-netflix-hijacked-his-f1-reputation-i-was-the-villain/10869051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2eZxNJbY/s6/motorsport-com-graphics-35-2.jpg",
+      "published_at": "2026-10-29T03:05:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner confie que la série Drive to Survive a dépeint son rôle de directeur d'équipe comme celui d'un antagoniste, alors qu'il se voyait comme un simple dirigeant",
+      "summary_en": "Christian Horner admits that Netflix's Drive to Survive painted him as a villain, even though he saw himself as a straightforward team boss"
+    },
     {
       "id": "7d601ee035d0",
       "title": "Daniel Ricciardo opens door to racing return with Max Verstappen at Le Mans",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Toto Wolff, directeur de Mercedes, a déclaré que George Russell possède encore les qualités nécessaires pour remporter le titre mondial, contredisant les propos de Helmut Marko.",
       "summary_en": "Mercedes team principal Toto Wolff dismissed Helmut Marko's claim that George Russell cannot win the world title, insisting the driver still has what it takes."
-    },
-    {
-      "id": "ff86f7d00392",
-      "title": "Featured Comment: F1’s flawed rules don’t lessen Antonelli’s achievement | Briefs",
-      "title_fr": "Les règles imparfaites de la F1 ne ternissent pas la réussite d'Antonelli",
-      "title_en": "F1’s flawed rules don’t diminish Antonelli’s achievement",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/27/featured-comment-f1s-flawed-rules-dont-lessen-antonellis-achievement/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-23-28-11-9-M644011_F1_Grand_Prix_of_United_States.jpg",
-      "published_at": "2026-10-27T11:04:29+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La perte de la 'véritable course' n'entame pas la probabilité de titre d'Antonelli. Les règles actuelles restent un frein, mais son palmarès demeure intact.",
-      "summary_en": "The loss of 'true racing' does not diminish Antonelli's likely title. Current rules remain a hurdle, but his record stays intact."
     }
   ]
 }
