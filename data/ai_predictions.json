@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T13:00:12Z",
-  "model": "claude",
+  "generated_at": "2026-10-29T13:05:23Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -114,13 +114,13 @@
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
       "p2": "max_verstappen",
-      "p3": "leclerc",
-      "reasoning_fr": "Antonelli domine le championnat et a décroché la pole à Austin puis aux États‑Unis, montrant une excellente maîtrise du circuit à haute altitude. Max Verstappen, malgré son absence en FP1, possède la puissance Red Bull indispensable sur le circuit de Mexico et a été deuxième aux US, confirmant son rythme sur un tour. Charles Leclerc, toujours performant en qualification et bénéficiant du moteur Fe",
-      "reasoning_en": "Antonelli leads the championship and secured pole in Austin and the United States, demonstrating superb one‑lap pace on the high‑altitude track. Max Verstappen, even after skipping FP1, has the Red Bull power needed for Mexico’s thin air and was second in the US qualifying, confirming his single‑lap speed. Charles Leclerc remains strong in qualifying and benefits from a Ferrari engine suited to al",
-      "confidence": "medium",
-      "key_factor_fr": "Puissance moteur et évolution de piste à Mexico",
+      "p3": "hadjar",
+      "reasoning_fr": "Antonelli a dominé les qualifications à Austin (P1) et a remporté la course, montrant une excellente vitesse sur un tour et une bonne adaptation à l'évolution de la piste. Max Verstappen, toujours très rapide à haute altitude, a été P2 à Austin et possède la puissance Red Bull adaptée au circuit de Mexico. Hadjar, en forme avec un P3 à Austin, bénéficie d'une bonne gestion des pneus et d'un rythme",
+      "reasoning_en": "Antonelli topped the US qualifying and won the race, proving his one‑lap speed and ability to exploit track evolution. Max Verstappen remains extremely quick at altitude, was P2 in Austin and has Red Bull power suited to Mexico's high‑altitude layout. Hadjar, in good form with a P3 in Austin, shows strong tyre management and qualifying pace, making him a natural third‑place contender.",
+      "confidence": "high",
+      "key_factor_fr": "Évolution rapide de la piste + puissance à haute altitude",
       "news_used_ids": [],
-      "generated_at": "2026-10-29T01:01:40Z"
+      "generated_at": "2026-10-29T13:05:22Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "leclerc",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli partira probablement en pole, profitant de la puissance Mercedes et de son excellent rythme en qualification. Le circuit de Mexico favorise les positions de départ à cause de ses virages serrés et de l’altitude qui réduit les possibilités de dépassement. Leclerc, en bonne forme et avec la Ferrari bien adaptée à l’altitude, pourra exploiter une stratégie à deux arrêts pour garder la tête.",
-      "reasoning_en": "Antonelli is expected to start from pole, leveraging Mercedes’ power and his strong qualifying pace. Mexico’s high‑altitude layout makes overtaking difficult, so starting position is crucial. Leclerc, in good form and with a Ferrari that handles the thin air well, can use a two‑stop strategy to stay near the front. Verstappen missed FP1, so while Red Bull remains quick, he will have to manage tyre",
+      "p2": "max_verstappen",
+      "p3": "leclerc",
+      "reasoning_fr": "Antonelli mène le championnat et a affiché une vitesse exceptionnelle en qualification (P1 aux États‑Unis) ainsi qu’une victoire en course. Sur le circuit de Mexico, où le départ est décisif, il partira probablement en pole. Verstappen, toujours très fort à haute altitude et avec la meilleure performance en course, partira près de la tête et pourra exploiter la supériorité aérodynamique de Red Bul",
+      "reasoning_en": "Antonelli leads the championship and has shown exceptional pace in qualifying (P1 in the US) and a race win. At Mexico, where the start is crucial, he is likely to start from pole. Verstappen remains very strong at altitude and has the best race performance, starting near the front and can exploit Red Bull's aerodynamic advantage. Leclerc, second in the standings and excellent at tyre management, ",
       "confidence": "medium",
-      "key_factor_fr": "Position de départ et gestion des pneus",
+      "key_factor_fr": "Départ en pole + gestion des pneus",
       "news_used_ids": [],
-      "generated_at": "2026-10-29T01:01:28Z"
+      "generated_at": "2026-10-29T13:05:10Z"
     }
   ]
 }
