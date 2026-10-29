@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-29T04:01:47Z",
+  "last_updated": "2026-10-29T07:02:50Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f38383fd8f2a",
+      "title": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
+      "title_fr": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
+      "title_en": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0kZXNJv6/s6/motorsport-com-graphics-36-2.jpg",
+      "published_at": "2026-10-29T05:05:03+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull Racing has a long, highly complicated history with Australian drivers. Mark Webber helped build the team's winning foundation during Sebastian Vettel's championship years, while Daniel Riccia",
+      "summary_en": "Red Bull Racing has a long, highly complicated history with Australian drivers. Mark Webber helped build the team's winning foundation during Sebastian Vettel's championship years, while Daniel Riccia"
+    },
     {
       "id": "b93874a3eaef",
       "title": "Christian Horner reveals why Netflix made him the villain of \"Drive to Survive\"",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Oliver Bearman a exprimé son étonnement après avoir reçu une pénalité de 10 secondes pour sa collision avec Pierre Gasly lors du Grand Prix des États‑Unis. Le pilote, qui avait gagné deux places, a déclaré qu’il n’avait pas pu disparaître.",
       "summary_en": "Oliver Bearman expressed shock after receiving a 10‑second penalty for his clash with Pierre Gasly at the United States Grand Prix. The driver, who had gained two positions on the opening lap, said he couldn’t disappear."
-    },
-    {
-      "id": "049af7edb22a",
-      "title": "Toto Wolff dismisses Helmut Marko's Russell theory: \"He still has what it takes\"",
-      "title_fr": "Wolff rejette la théorie de Marko sur Russell",
-      "title_en": "Wolff dismisses Marko's theory on Russell",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6AlvqxNY/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-10-27T12:22:44+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff, directeur de Mercedes, a déclaré que George Russell possède encore les qualités nécessaires pour remporter le titre mondial, contredisant les propos de Helmut Marko.",
-      "summary_en": "Mercedes team principal Toto Wolff dismissed Helmut Marko's claim that George Russell cannot win the world title, insisting the driver still has what it takes."
     }
   ]
 }
