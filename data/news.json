@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-10-29T16:05:56Z",
+  "last_updated": "2026-10-29T19:07:20Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ac4ffcf01014",
+      "title": "Every LEGO F1 set you can buy right now: £10.99 to £199.99",
+      "title_fr": "LEGO lance 31 modèles F1, du McLaren à 10,99 £ au Technic 199,99 £",
+      "title_en": "LEGO unveils 31 F1 sets, from £10.99 McLaren to £199.99 Technic",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/every-lego-f1-set-you-can-buy-right-now-1099-to-19999/10869386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKjWeY/s6/motorsport-com-graphics-41-2.jpg",
+      "published_at": "2026-10-29T19:00:47+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "LEGO propose 31 ensembles F1 aux États‑Unis et au Royaume‑Uni, allant d’un McLaren à 10,99 £ pour les enfants à des modèles Technic de 1:8 à 199,99 £, avec direction, suspension et DRS fonctionnels.",
+      "summary_en": "LEGO offers 31 F1 sets in the UK and US, ranging from a £10.99 McLaren for kids to 1:8 scale Technic models priced at £199.99, featuring working steering, suspension and a DRS flap."
+    },
+    {
+      "id": "d32ec64f61fb",
+      "title": "F1 Mexico GP: Friday schedule, weather forecast and how to watch",
+      "title_fr": "Mexico GP : programme du vendredi, météo et comment suivre",
+      "title_en": "Mexico GP: Friday schedule, weather forecast and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-friday-schedule-weather-forecast-and-how-to-watch/10869379/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YBVjmnKY/s6/sergio-perez-cadillac-racing.jpg",
+      "published_at": "2026-10-29T18:31:21+00:00",
+      "race_id": "usa",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 arrive à Mexico City ce week-end. Kimi Antonelli, déjà champion du monde, attend de consolider son titre après sa victoire à Austin.",
+      "summary_en": "Formula 1 heads to Mexico City this weekend. Kimi Antonelli, already world champion, looks to cement his title after winning in Austin."
+    },
+    {
+      "id": "b6b68f4cce0f",
+      "title": "Antonelli to miss Mexico media day with illness",
+      "title_fr": "Antonelli to miss Mexico media day with illness",
+      "title_en": "Antonelli to miss Mexico media day with illness",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cke8rlrrzpqyo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/156e6ee0-d3bb-11f1-8c27-87a7c72809db.jpg",
+      "published_at": "2026-10-29T17:25:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli is to miss Thursday's Mexico City Grand Prix media day with an illness as he stands on the brink of clinching his first world title.",
+      "summary_en": "Kimi Antonelli is to miss Thursday's Mexico City Grand Prix media day with an illness as he stands on the brink of clinching his first world title."
+    },
+    {
+      "id": "d568351430d6",
+      "title": "Antonelli skips F1 Mexico GP media day due to illness",
+      "title_fr": "Antonelli absent du jour de presse du Grand Prix de Mexico pour maladie",
+      "title_en": "Antonelli misses Mexico GP media day due to illness",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVjm5KY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-29T17:07:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, leader du championnat, ne sera pas présent au jour de presse du Grand Prix de Mexico car il souffre d’une infection virale. Mercedes l’excuse officiellement.",
+      "summary_en": "Kimi Antonelli, championship leader, will miss the Mexico GP media day because of a viral infection. Mercedes has officially excused him."
+    },
+    {
+      "id": "d5ce657415b3",
+      "title": "Unwell Kimi Antonelli skips F1 Mexico GP media day",
+      "title_fr": "Antonelli absent du jour médias du Grand Prix du Mexique",
+      "title_en": "Antonelli misses Mexico GP media day",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVjm5KY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-29T17:05:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, pilote Mercedes, ne participera pas au jour médias du Grand Prix du Mexique car il se sent mal à cause d’une infection virale. La FIA l’excuse de ses activités.",
+      "summary_en": "Kimi Antonelli, Mercedes driver, will skip the Mexico GP media day as he feels unwell due to a viral illness. The FIA has excused him from today's media duties."
+    },
+    {
+      "id": "5ad00211a201",
+      "title": "How to follow Mexico City Grand Prix on the BBC",
+      "title_fr": "Suivez le Grand Prix de Mexico sur la BBC",
+      "title_en": "How to follow the Mexico City Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyrgejp0w8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d626/live/21784a30-d0dc-11f1-ad70-07daa2562508.jpg",
+      "published_at": "2026-10-29T16:31:01+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La BBC propose une couverture complète du Grand Prix de Mexico, du 30 octobre au 1er novembre, avec des commentaires, des analyses et des retransmissions en direct.",
+      "summary_en": "BBC offers comprehensive coverage of the Mexico City Grand Prix from 30 October to 1 November, featuring commentary, analysis, and live broadcasts."
+    },
     {
       "id": "d21ef10a71d9",
       "title": "Why Daniel Ricciardo would consider a comeback at Le Mans",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La FIA a signé un partenariat avec Amazon Web Services pour renforcer ses capacités numériques et développer ses futures régulations techniques.",
       "summary_en": "The FIA has partnered with Amazon Web Services to enhance its digital capabilities and develop future technical regulations."
-    },
-    {
-      "id": "095257011ebb",
-      "title": "Antonelli’s coronation, Mexico’s optional turn one and more Mexican GP talking points | Formula 1",
-      "title_fr": "Antonelli couronné, virage un optionnel à Mexico",
-      "title_en": "Antonelli crowned, optional turn one in Mexico and more Mexican GP talking points",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/28/antonellis-coronation-mexicos-optional-turn-one-and-more-mexican-gp-talking-points/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/05/racefansdotnet-21-05-25-11-26-27-13.jpg",
-      "published_at": "2026-10-28T07:15:40+00:00",
-      "race_id": "mexico",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli pourrait décrocher le titre lors du Grand Prix de Mexico. Voici cinq points clés à surveiller, du virage un optionnel aux stratégies d'équipe.",
-      "summary_en": "Andrea Kimi Antonelli could clinch the title at the Mexican Grand Prix. Five key talking points, from the optional first corner to team strategies, are highlighted."
-    },
-    {
-      "id": "8f38a0d319a7",
-      "title": "Max Verstappen admits Red Bull was “just a little average” in Austin",
-      "title_fr": "Verstappen critique Red Bull après le podium à Austin",
-      "title_en": "Verstappen calls Red Bull 'just a little average' after podium in Austin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/68Vw45X2/s6/motorsport-com-graphics-32.jpg",
-      "published_at": "2026-10-28T02:50:03+00:00",
-      "race_id": "netherlands",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen, troisième à Austin, a qualifié son équipe Red Bull de \"juste un peu moyenne\" après des problèmes de pneus, de moteur et de radio.",
-      "summary_en": "Max Verstappen, finishing third in Austin, called his Red Bull team 'just a little average' after tyre, power unit and radio issues."
-    },
-    {
-      "id": "89a3783529d0",
-      "title": "Toto Wolff reveals how Williams' surprise victory helped him secure Mercedes role",
-      "title_fr": "Wolff révèle comment la victoire surprise de Williams l’a mené à Mercedes",
-      "title_en": "Wolff reveals how Williams’ surprise win paved his way to Mercedes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDX4a0/s6/motorsport-com-graphics-31.jpg",
-      "published_at": "2026-10-28T01:40:02+00:00",
-      "race_id": "spain-barcelona",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff explique que la victoire inattendue de Pastor Maldonado à l’Indy de l’Espagne a contribué à son intégration chez Mercedes. Le dirigeant a comparé les pilotes Mercedes aux talents de Williams.",
-      "summary_en": "Toto Wolff says the unexpected win by Pastor Maldonado at the Spanish Grand Prix helped him secure a role at Mercedes. He compared the Mercedes stars to the talent that emerged from Williams."
-    },
-    {
-      "id": "0cc5a05459f2",
-      "title": "George Russell F1 title chances defended by Toto Wolff after Helmut Marko comments",
-      "title_fr": "Wolff défend les chances de titre de Russell face à Marko",
-      "title_en": "Wolff defends Russell's title chances after Marko's remarks",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPZeJ0/s6/motorsport-com-graphics-26.jpg",
-      "published_at": "2026-10-28T00:51:35+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a rejeté les propos de Helmut Marko, qui prétendait que George Russell ne pourrait plus viser le championnat. Le pilote Mercedes reste à 123 points de Kimi Antonelli.",
-      "summary_en": "Toto Wolff dismissed Helmut Marko's claim that George Russell would never get another shot at the F1 title. The Mercedes driver remains 123 points behind teammate Kimi Antonelli."
-    },
-    {
-      "id": "0c6fbe7a5086",
-      "title": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
-      "title_fr": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
-      "title_en": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6grQKVVY/s6/motorsport-com-graphics-25.jpg",
-      "published_at": "2026-10-28T00:26:33+00:00",
-      "race_id": "austria",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Red Bull motorsport adviser Helmut Marko has become an investor in an Austrian artificial intelligence start-up that lets people leave personal messages to be delivered to loved ones after they",
-      "summary_en": "Former Red Bull motorsport adviser Helmut Marko has become an investor in an Austrian artificial intelligence start-up that lets people leave personal messages to be delivered to loved ones after they"
-    },
-    {
-      "id": "7d72f6c0e6ba",
-      "title": "Red Bull responds to Aston Martin F1 power unit rumours",
-      "title_fr": "Red Bull rejette les rumeurs de fourniture de moteurs à Aston Martin",
-      "title_en": "Red Bull denies power unit supply rumours to Aston Martin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0arENDG2/s6/motorsport-com-graphics-30.jpg",
-      "published_at": "2026-10-28T00:24:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies, directeur de Red Bull, a déclaré que l’équipe ne mène pas de discussions sérieuses pour fournir des moteurs à d’autres équipes, y compris Aston Martin, malgré les difficultés de performance de son partenariat avec Honda.",
-      "summary_en": "Laurent Mekies, Red Bull's team principal, said the team is not in serious talks to supply power units to other teams, including Aston Martin, amid its struggles with Honda."
     }
   ]
 }
