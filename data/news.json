@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-30T13:17:48Z",
+  "last_updated": "2026-10-30T16:19:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "72f32e14e8f3",
+      "title": "\"Slippery as hell\" – Max Verstappen and Isack Hadjar explain the \"extreme\" challenge of Mexico",
+      "title_fr": "Verstappen et Hadjar décrivent le défi extrême du Mexique",
+      "title_en": "Verstappen and Hadjar explain Mexico's extreme challenge",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/slippery-as-hell-max-verstappen-and-isack-hadjar-explain-the-extreme-challenge-of-mexico/10869483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7Q4e96/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-10-30T15:30:02+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le weekend de F1 à l'Autodrome Hermanos Rodríguez se révèle particulièrement difficile pour pilotes, constructeurs et équipes, notamment à cause du retard de turbo et de l'altitude élevée.",
+      "summary_en": "The F1 weekend at the Hermanos Rodríguez circuit is proving a tough test for drivers, teams and engine makers, especially due to turbo lag and the high altitude."
+    },
+    {
+      "id": "d86f36813d08",
+      "title": "Sergio Perez praises Colton Herta impact - but has no say over 2027 Cadillac F1 team-mate choice",
+      "title_fr": "Perez refuse d'influencer le choix de son coéquipier Cadillac 2027",
+      "title_en": "Perez says he will have no say over 2027 Cadillac teammate",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0kZXl3D6/s6/valtteri-bottas-cadillac-sergi.jpg",
+      "published_at": "2026-10-30T14:30:02+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Sergio Pérez a signé un nouveau contrat avant le Grand Prix du Mexique et a déclaré qu'il n'aurait aucune influence sur le choix de son coéquipier Cadillac pour 2027.",
+      "summary_en": "Sergio Pérez signed a new contract ahead of the Mexican Grand Prix and said he would have no say in choosing his 2027 Cadillac teammate."
+    },
+    {
+      "id": "27e7cdbb5e82",
+      "title": "Why “ignorance is a superpower” for Kimi Antonelli, according to Daniel Ricciardo",
+      "title_fr": "Ricciardo explique pourquoi l'ignorance fait briller Antonelli",
+      "title_en": "Ricciardo says ignorance fuels Antonelli's success",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-ignorance-is-a-superpower-for-kimi-antonelli-according-to-daniel-ricciardo/10869339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/2wlKjwqY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-30T13:30:04+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Daniel Ricciardo affirme que l'âge et l'innocence de Kimi Antonelli sont la clé de son succès en 2026. Le pilote Mercedes compte déjà neuf victoires.",
+      "summary_en": "Daniel Ricciardo says Kimi Antonelli’s age and innocence are why he’s thriving in 2026, with nine wins already. The Mercedes driver needs only a ninth place in Mexico to secure the title."
+    },
+    {
+      "id": "0178edc6b2cc",
+      "title": "Why “ignorance is a superpower” for Antonelli in F1",
+      "title_fr": "Ricciardo: l'ignorance d'Antonelli, son super-pouvoir",
+      "title_en": "Ricciardo: Antonelli's ignorance is his superpower",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/10869685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXN3o6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-10-30T13:30:04+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Daniel Ricciardo estime que l'âge et l'innocence de Kimi Antonelli expliquent ses neuf victoires en 2026. Le pilote Mercedes est à portée de titre mondial, avec le Mexique qui lui reste à gagner.",
+      "summary_en": "Daniel Ricciardo says Kimi Antonelli's age and innocence explain his nine wins in 2026. The Mercedes driver is on the brink of a world title, needing a ninth-place finish in Mexico."
+    },
     {
       "id": "4d67fbb76752",
       "title": "Isack Hadjar admits after criticising Red Bull: \"There's stuff that I should have kept for myself\"",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Daniel Ricciardo, champion à huit titres, estime que sa carrière en Formule 1 est probablement terminée, mais il se montre ouvert à un retour à Le Mans.",
       "summary_en": "Daniel Ricciardo, a former eight‑time Formula One champion, says his F1 career is likely over but remains open to a return to Le Mans."
-    },
-    {
-      "id": "948d0b53ac32",
-      "title": "The 10 key moments that defined Sergio Perez's F1 career",
-      "title_fr": "Perez atteint 300 courses, 10 moments clés de sa carrière",
-      "title_en": "Perez reaches 300 starts, 10 defining moments",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-10-key-moments-that-defined-sergio-perezs-f1-career/10869046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/Yv8WJ110/s6/sergio-perez-racing-point-cele.jpg",
-      "published_at": "2026-10-29T15:00:03+00:00",
-      "race_id": "mexico",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Sergio Pérez a franchi la barre des 300 courses en Formule 1, un exploit partagé avec des légendes comme Schumacher, Button et Barrichello. L'article retrace dix moments décisifs de sa carrière.",
-      "summary_en": "Sergio Pérez has crossed the 300-race mark in Formula 1, joining legends such as Schumacher, Button and Barrichello. The piece highlights ten pivotal moments that have defined his career."
-    },
-    {
-      "id": "730763919b59",
-      "title": "Perez performs Cadillac show run in Mexico City – in a car from F1: The Movie | Formula 1",
-      "title_fr": "Perez fait un défilé Cadillac à Mexico",
-      "title_en": "Perez performs Cadillac show run in Mexico City",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/29/perez-performs-cadillac-show-run-in-mexico-city-in-a-car-from-f1-the-movie/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/perez-f1-movie.jpg",
-      "published_at": "2026-10-29T14:25:10+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Sergio Perez a effectué un défilé pour Cadillac à Mexico, son pays d’origine, en prévision du Grand Prix du Mexique du week-end prochain.",
-      "summary_en": "Sergio Perez performed a Cadillac show run in Mexico City ahead of this weekend's Mexican Grand Prix."
-    },
-    {
-      "id": "48bb83a6f644",
-      "title": "Does Daniel Ricciardo regret leaving Red Bull for Renault?",
-      "title_fr": "Ricciardo regrette son depart de Red Bull pour Renault",
-      "title_en": "Ricciardo regrets leaving Red Bull for Renault",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/does-daniel-ricciardo-regret-leaving-red-bull-for-renault/10869294/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8ZN5w2/s6/alex-albon-red-bull-racing-lea.jpg",
-      "published_at": "2026-10-29T14:03:04+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo, autrefois pilier de Red Bull, exprime aujourdhui son regret davoir quitte la marque pour Renault. Le pilote, qui a longtemps été l'un des favoris du paddock, se questionne sur son choix.",
-      "summary_en": "Daniel Ricciardo, once a key figure at Red Bull, now says he regrets leaving the team for Renault. The driver, who had been a top contender, questions his decision."
-    },
-    {
-      "id": "c0ad179052db",
-      "title": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
-      "title_fr": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
-      "title_en": "Cadillac 'honoured' to have Sergio Perez as special 300th race celebration planned for Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-honoured-to-have-sergio-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BROB2/s6/sergio-perez-cadillac-racing-2.jpg",
-      "published_at": "2026-10-29T13:00:03+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b",
-      "summary_en": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b"
     }
   ]
 }
