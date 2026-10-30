@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-10-30T07:14:38Z",
+  "last_updated": "2026-10-30T10:16:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "4eb215461eee",
+      "title": "‘There’s no pay drivers now’: Alonso’s rivals reject his criticism of ‘one-third’ of the grid | Formula 1",
+      "title_fr": "Alonso critique la grille, ses rivaux restent sceptiques",
+      "title_en": "Alonso criticises grid, rivals remain skeptical",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/theres-no-pay-drivers-now-alonsos-rivals-reject-his-criticism-of-one-third-of-the-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-12-26-33-3-2301660665.jpg",
+      "published_at": "2026-10-30T10:15:13+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso accuse un tiers de la grille de conduite très faible, mais ses rivaux ne partagent pas son opinion.",
+      "summary_en": "Fernando Alonso accuses a third of the grid of very low driving standards, but his rivals do not share his view."
+    },
+    {
+      "id": "d8ba2de9ba5d",
+      "title": "Why F1 teams and manufacturers face more unknowns in Mexico than ever",
+      "title_fr": "Altitude extrême : les équipes F1 confrontées à de nouveaux défis au Mexique",
+      "title_en": "High Altitude: F1 Teams Face New Challenges in Mexico",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-f1-teams-and-manufacturers-face-more-unknowns-in-mexico-than-ever/10869626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7ZZ84Y/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-30T09:58:09+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "L'Autodrome Hermanos Rodríguez, à 2 286 m d'altitude, impose une densité d'air réduite qui met les turbocompresseurs des moteurs F1 à rude épreuve. Les équipes doivent ajuster leurs stratégies pour compenser.",
+      "summary_en": "The Autodromo Hermanos Rodríguez, at 2,286 m, forces F1 teams to contend with thinner air that strains turbochargers. Teams must tweak strategies to adapt to the altitude."
+    },
+    {
+      "id": "629bd2e06df6",
+      "title": "Why F1's new regulations make the Mexican GP an even bigger challenge",
+      "title_fr": "Les nouvelles règles de la F1 aggravent le défi du Grand Prix du Mexique",
+      "title_en": "F1's new regulations make the Mexican GP even more challenging",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-f1s-new-regulations-make-the-mexican-gp-an-even-bigger-challenge/10869622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6b8jjxw2/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-10-30T09:55:11+00:00",
+      "race_id": "mexico",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le circuit d'Hermanos Rodríguez, à 2 286 m d'altitude, impose une densité d'air réduite qui met à rude épreuve les turbocompresseurs. Les nouvelles règles de la F1 amplifient ces contraintes, rendant la course encore plus exigeante.",
+      "summary_en": "The Hermanos Rodríguez circuit sits at 2,286 m, creating thin air that strains turbochargers. F1's new regulations heighten these challenges, making the Mexican GP even more demanding."
+    },
+    {
+      "id": "69d38ca5b91c",
+      "title": "F1 stalwart Zehnder set for Audi exit",
+      "title_fr": "F1 stalwart Zehnder set for Audi exit",
+      "title_en": "F1 stalwart Zehnder set for Audi exit",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-stalwart-zehnder-set-for-audi-exit/10869600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YN1zReV2/s6/beat-zehnder-sauber-manager-2.jpg",
+      "published_at": "2026-10-30T09:10:59+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Audi has announced that former team manager Beat Zehnder is leaving the organisation at the end of the 2026 Formula 1 season after a 34-year stint at Hinwil.<br />Zehnder was hired by founder Peter Sa",
+      "summary_en": "Audi has announced that former team manager Beat Zehnder is leaving the organisation at the end of the 2026 Formula 1 season after a 34-year stint at Hinwil.<br />Zehnder was hired by founder Peter Sa"
+    },
+    {
+      "id": "9d447e08e906",
+      "title": "Audi pays tribute as F1 stalwart Beat Zehnder set for exit",
+      "title_fr": "Beat Zehnder quitte Audi F1 après 34 ans",
+      "title_en": "Beat Zehnder leaves Audi F1 after 34 years",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/audi-pays-tribute-as-f1-stalwart-beat-zehnder-set-for-exit/10869594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0ZRQVJN0/s6/beat-zehnder-sporting-director.jpg",
+      "published_at": "2026-10-30T09:08:04+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Beat Zehnder, ancien directeur d'équipe d'Audi, annonce son départ à la fin de la saison 2026, après 34 ans de service à Hinwil.",
+      "summary_en": "Beat Zehnder, former Audi team manager, announces his exit at the end of the 2026 season after 34 years with the Swiss outfit."
+    },
+    {
+      "id": "84b870f09c6f",
+      "title": "George Russell predicts key Ferrari \"advantage\" at F1 Mexican GP",
+      "title_fr": "Russell prédit l’avantage Ferrari au Grand Prix de Mexico",
+      "title_en": "Russell predicts Ferrari advantage at Mexican GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-predicts-key-ferrari-advantage-at-f1-mexico-gp/10869473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0mXyKBG6/s6/charles-leclerc-ferrari-george.jpg",
+      "published_at": "2026-10-30T08:12:07+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell estime que Ferrari jouera un rôle clé grâce à sa conception turbo, tandis que Charles Leclerc maintient que Mercedes reste la meilleure voiture où qu’on aille.",
+      "summary_en": "George Russell says Ferrari has a key advantage thanks to its turbo design, while Charles Leclerc insists Mercedes remains the best car wherever they go."
+    },
+    {
+      "id": "99554868d009",
+      "title": "‘Not much more I could have done’ about ‘horrible’ title defence – Norris | Formula 1",
+      "title_fr": "Norris félicite Antonelli, heureux de le voir succéder",
+      "title_en": "Norris congratulates Antonelli, happy to see him succeed",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/not-much-more-i-could-have-done-about-horrible-title-defence-norris/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-22-16-22-22-2-2301539962.jpg",
+      "published_at": "2026-10-30T07:16:35+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a félicité Andrea Kimi Antonelli, heureux de le voir succéder en champion du monde après une saison exceptionnelle.",
+      "summary_en": "Lando Norris congratulated Andrea Kimi Antonelli, happy to see him succeed as world champion after an outstanding season."
+    },
     {
       "id": "aa54f274199a",
       "title": "\"Two steps forward, one step back\" – Oscar Piastri explains the route out of McLaren's car woes",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Dans le documentaire ARD Being Sebastian Vettel, le champion à quatre titres révèle que le soutien de BMW n'a pas fonctionné comme prévu, tandis que Red Bull a vu son potentiel et l'a retenu",
       "summary_en": "In the ARD documentary Being Sebastian Vettel, the four-time champion explains that BMW's support didn't work out as planned, while Red Bull saw his potential and kept him"
-    },
-    {
-      "id": "29186d21f04b",
-      "title": "Kimi Antonelli reveals plans to launch his own racing academy outside F1",
-      "title_fr": "Antonelli dévoile son projet d’académie de pilotage hors F1",
-      "title_en": "Antonelli reveals plans to launch his own racing academy outside F1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-to-build-a-racing-academy-and-team-up-with-his-dad-in-gt3/10869239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9E4WKY/s6/motorsport-com-graphics-39-2.jpg",
-      "published_at": "2026-10-29T09:53:32+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "À 20 ans, Kimi Antonelli domine le championnat 2026 en Mercedes et annonce la création d’une académie de pilotage, en collaboration avec son père, hors Formule 1.",
-      "summary_en": "At 20, Kimi Antonelli dominates the 2026 championship in a Mercedes and announces plans to launch a racing academy with his father, outside Formula 1."
-    },
-    {
-      "id": "2add9e2db2ee",
-      "title": "Fans “pay a bit less attention” to Formula 1 as calendar gets longer – Sainz | Formula 1",
-      "title_fr": "Sainz critique l'allongement du calendrier F1",
-      "title_en": "Sainz Criticizes F1 Calendar Expansion",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/29/fans-pay-a-bit-less-attention-to-formula-1-as-calendar-gets-longer-sainz/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-04-18-40-13-2-2298516360.jpg",
-      "published_at": "2026-10-29T07:15:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Carlos Sainz Jnr estime que l'allongement du calendrier de la Formule 1 rend les courses moins spéciales, décrivant l'augmentation des événements comme contre-productive pour les fans.",
-      "summary_en": "Carlos Sainz Jr. says the expanding F1 calendar makes races feel less special, calling the increased number of events counterproductive for fans."
-    },
-    {
-      "id": "ad9590aca5c3",
-      "title": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
-      "title_fr": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
-      "title_en": "Christian Horner admits he doesn't need F1 return after £67 million Red Bull payout",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2GdK4E1Y/s6/motorsport-com-graphics-37-2.jpg",
-      "published_at": "2026-10-29T07:05:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "When a high-profile Formula 1 executive is shown the door, the rumour mill immediately shifts to where they will land next. But in the case of Christian Horner, his departure from Red Bull Racing in 2",
-      "summary_en": "When a high-profile Formula 1 executive is shown the door, the rumour mill immediately shifts to where they will land next. But in the case of Christian Horner, his departure from Red Bull Racing in 2"
-    },
-    {
-      "id": "f38383fd8f2a",
-      "title": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
-      "title_fr": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
-      "title_en": "Mark Webber's Red Bull exit branded \"disrespectful\" as Daniel Ricciardo praised",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0kZXNJv6/s6/motorsport-com-graphics-36-2.jpg",
-      "published_at": "2026-10-29T05:05:03+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull Racing has a long, highly complicated history with Australian drivers. Mark Webber helped build the team's winning foundation during Sebastian Vettel's championship years, while Daniel Riccia",
-      "summary_en": "Red Bull Racing has a long, highly complicated history with Australian drivers. Mark Webber helped build the team's winning foundation during Sebastian Vettel's championship years, while Daniel Riccia"
-    },
-    {
-      "id": "b93874a3eaef",
-      "title": "Christian Horner reveals why Netflix made him the villain of \"Drive to Survive\"",
-      "title_fr": "Horner explique comment Netflix l'a transformé en méchant",
-      "title_en": "Horner explains how Netflix turned him into a villain",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-admits-netflix-hijacked-his-f1-reputation-i-was-the-villain/10869051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2eZxNJbY/s6/motorsport-com-graphics-35-2.jpg",
-      "published_at": "2026-10-29T03:05:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner confie que la série Drive to Survive a dépeint son rôle de directeur d'équipe comme celui d'un antagoniste, alors qu'il se voyait comme un simple dirigeant",
-      "summary_en": "Christian Horner admits that Netflix's Drive to Survive painted him as a villain, even though he saw himself as a straightforward team boss"
-    },
-    {
-      "id": "7d601ee035d0",
-      "title": "Daniel Ricciardo opens door to racing return with Max Verstappen at Le Mans",
-      "title_fr": "Ricciardo envisage un retour à Le Mans avec Verstappen",
-      "title_en": "Ricciardo eyeing Le Mans return with Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alv4NNY/s6/motorsport-com-graphics-28.jpg",
-      "published_at": "2026-10-29T00:41:02+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote australien Daniel Ricciardo a déclaré qu'il envisagerait une apparition unique aux 24 Heures du Mans, choisissant Max Verstappen comme coéquipier. Le retour de Ricciardo resterait un projet de rêve.",
-      "summary_en": "Australian driver Daniel Ricciardo said he would consider a one-off appearance at the 24 Hours of Le Mans, naming Max Verstappen as his first choice for a co-driver. The return remains a dream."
-    },
-    {
-      "id": "9579711d997e",
-      "title": "Daniel Ricciardo reveals major regret over 2018 Red Bull departure",
-      "title_fr": "Ricciardo regrette son départ de Red Bull en 2018",
-      "title_en": "Ricciardo regrets leaving Red Bull in 2018",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5A8JaY/s6/motorsport-com-graphics-38-2.jpg",
-      "published_at": "2026-10-29T00:26:45+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote australien Daniel Ricciardo a admis qu'il aurait préféré rester chez Red Bull après la saison 2018. Son départ a laissé Max Verstappen comme pilote principal, qui a remporté quatre titres consécutifs.",
-      "summary_en": "Australian driver Daniel Ricciardo admitted he would have preferred to stay with Red Bull after the 2018 season. His exit left Max Verstappen as the team's lead driver, who went on to win four consecutive titles."
     }
   ]
 }
