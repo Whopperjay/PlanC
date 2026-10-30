@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:00:04Z",
+  "generated_at": "2026-10-30T13:00:22Z",
   "model": "claude",
   "predictions": [
     {
@@ -113,29 +113,29 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "leclerc",
-      "reasoning_fr": "Antonelli a montré une vitesse exceptionnelle en qualification aux États‑Unis et mène le championnat, ce qui le place en tête sur le circuit à haute altitude où la puissance moteur compte. Verstappen, habitué à Mexico, bénéficie d’une excellente aérodynamique Red Bull adaptée à la faible densité d’air. Leclerc, en forme et rapide en qualification, complète le podium grâce à la bonne évolution de l",
-      "reasoning_en": "Antonelli displayed outstanding one‑lap speed in the US qualifying and leads the standings, giving him the edge on the high‑altitude Mexico track where engine power is crucial. Verstappen, a proven Mexico performer, benefits from Red Bull’s aero package that copes well with thin air. Leclerc, in strong recent form and quick in qualifying, rounds out the top three thanks to track evolution and Ferr",
+      "p2": "leclerc",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine la saison avec 123 points d'avance et Mercedes reste la référence en qualif. À Mexico, l'altitude réduit l'appui aérodynamique et met les moteurs à l'épreuve. Russell lui-même annonce un avantage Ferrari, ce qui fait de Leclerc, spécialiste du tour lancé, le principal rival. Russell devrait compléter le top 3 devant Hamilton et Verstappen.",
+      "reasoning_en": "Antonelli dominates the season with a 123-point lead, and Mercedes remains the benchmark in qualifying. In Mexico, the altitude cuts aerodynamic downforce and pushes engines hard. Russell himself expects a Ferrari advantage, which makes Leclerc, a one-lap specialist, the main threat. Russell should round out the top 3 ahead of Hamilton and Verstappen.",
       "confidence": "medium",
-      "key_factor_fr": "Évolution de piste + puissance moteur à haute altitude",
+      "key_factor_fr": "Altitude : rendement moteur Mercedes face au rythme Ferrari annoncé",
       "news_used_ids": [],
-      "generated_at": "2026-10-30T01:12:12Z"
+      "generated_at": "2026-10-30T13:00:22Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
       "race_id": "mexico_city",
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "leclerc",
-      "reasoning_fr": "Antonelli part en pole grâce à son rythme exceptionnel en qualification et à la puissance fiable de Mercedes à haute altitude. Verstappen, deuxième en qualif US et habitué des circuits exigeants, bénéficie d'une stratégie pneus solide et d'une bonne gestion de la dégradation. Leclerc, deuxième du dernier Grand Prix et toujours performant en course, peut exploiter la vitesse en sortie d'virage du c",
-      "reasoning_en": "Antonelli starts from pole thanks to his outstanding qualifying pace and Mercedes' reliable power at altitude. Verstappen, second in the US qualifying and accustomed to demanding circuits, has a solid tyre strategy and manages degradation well. Leclerc, runner‑up in the previous race and consistently strong in races, can use the Mexican circuit's corner exit speed to climb onto the podium.",
-      "confidence": "high",
-      "key_factor_fr": "Qualif, puissance à altitude, gestion des pneus",
+      "p1": "leclerc",
+      "p2": "antonelli",
+      "p3": "hamilton",
+      "reasoning_fr": "Ferrari brille historiquement à Mexico : victoire Sainz et pole Leclerc en 2024, et Russell lui-même prédit l'avantage Ferrari. L'altitude réduit l'appui et pèse sur le refroidissement, ce qui rebat les cartes avec les règles 2026. Antonelli, leader très régulier, limite les dégâts. Hamilton, quintuple vainqueur ici, complète le podium devant Verstappen.",
+      "reasoning_en": "Ferrari has a strong Mexico record: Sainz won and Leclerc took pole in 2024, and Russell himself predicts a Ferrari advantage. The altitude cuts downforce and strains cooling, which shakes up the order under the 2026 rules. Antonelli, the consistent championship leader, limits the damage. Hamilton, a five-time winner here, completes the podium ahead of Verstappen.",
+      "confidence": "medium",
+      "key_factor_fr": "Altitude extrême favorable à Ferrari, selon Russell lui-même",
       "news_used_ids": [],
-      "generated_at": "2026-10-30T01:11:59Z"
+      "generated_at": "2026-10-30T13:00:14Z"
     }
   ]
 }
