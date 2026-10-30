@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-10-29T22:09:21Z",
+  "last_updated": "2026-10-30T01:11:22Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "aa54f274199a",
+      "title": "\"Two steps forward, one step back\" – Oscar Piastri explains the route out of McLaren's car woes",
+      "title_fr": "Piastri : deux pas en avant, un pas en arrière",
+      "title_en": "Piastri: Two Steps Forward, One Step Back",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/two-steps-forward-one-step-back-piastri-explains-the-route-out-of-mclarens-car-woes/10869477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6b8ZNRw2/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-10-30T00:11:38+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri explique comment il compte améliorer ses performances sur les circuits difficiles et comprendre les effets des dernières mises à jour de son MCL40.",
+      "summary_en": "Oscar Piastri outlines how he plans to boost his results on tough tracks and assess the impact of recent upgrades to his MCL40."
+    },
+    {
+      "id": "6825c7129dc9",
+      "title": "Remembering Sir Patrick Stewart's unforgettable moment on the F1 podium with Daniel Ricciardo",
+      "title_fr": "Sir Patrick Stewart célèbre le podium de F1 avec Ricciardo",
+      "title_en": "Sir Patrick Stewart celebrates F1 podium with Ricciardo",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/remembering-sir-patrick-stewarts-unforgettable-moment-on-the-f1-podium-with-daniel-ricciardo/10869481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/24QGoJdY/s6/motorsport-com-graphics-47.jpg",
+      "published_at": "2026-10-30T00:10:28+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Sir Patrick Stewart, légende de Star Trek, a célébré le podium de la F1 à Montréal en 2017 en buvant du champagne de Daniel Ricciardo. Le filmiste est décédé à 86 ans.",
+      "summary_en": "Sir Patrick Stewart, the Star Trek legend, celebrated the 2017 F1 podium in Montreal by sipping champagne from Daniel Ricciardo's boot. The actor passed away at 86."
+    },
+    {
+      "id": "30e9858e64dc",
+      "title": "On This Day: Vettel dominates first Indian GP as Hamilton and Massa tangle again | Brief",
+      "title_fr": "Vettel domine le premier Grand Prix d'Inde, Hamilton et Massa se heurtent",
+      "title_en": "Vettel dominates first Indian GP, Hamilton and Massa collide",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/on-this-day-indian-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2011/10/racefansdotnet-24-10-23-00-01-58-1-110169648KR046_F1_Grand_Pri.jpg",
+      "published_at": "2026-10-30T00:01:00+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Sébastien Vettel remporte le premier Grand Prix d'Inde, franchissant la ligne en tête. Le pilote Hamilton et Massa se heurtent, mais aucune pénalité majeure n'est prononcée.",
+      "summary_en": "Sébastien Vettel wins the inaugural Indian Grand Prix, taking the checkered flag first. Hamilton and Massa collide, but no major penalties are issued."
+    },
+    {
+      "id": "1b81336f10a6",
+      "title": "Lewis Hamilton: “I’m built differently” as he eyes F1 career into 2030s",
+      "title_fr": "Hamilton se prépare pour l'Afrique",
+      "title_en": "Hamilton prepares for Africa",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2Qed9J32/s6/motorsport-com-graphics-46.jpg",
+      "published_at": "2026-10-29T22:52:21+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton, champion sept fois du monde, déclare qu'il est \"construit différemment\" pour prolonger sa carrière jusqu'au Grand Prix d'Afrique prévu dans les années 2030. Il voit l'opportunité de rester compétitif.",
+      "summary_en": "Lewis Hamilton, seven-time world champion, says he is \"built differently\" as he looks to extend his career into the 2030s, eyeing the new African Grand Prix in Rwanda."
+    },
+    {
+      "id": "b3d9f2bf5e42",
+      "title": "Max Verstappen discusses toll of F1 calendar after two drivers fall ill",
+      "title_fr": "Verstappen évoque le coût sanitaire du calendrier F1",
+      "title_en": "Verstappen discusses the health toll of the F1 calendar",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-discusses-hidden-toll-of-f1-calendar-after-two-drivers-fall-ill/10869459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alv4JEY/s6/motorsport-com-graphics-32.jpg",
+      "published_at": "2026-10-29T22:38:57+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen estime qu'il est normal que les pilotes et le personnel tombent malades à ce stade de la saison, après que deux pilotes aient manqué la journée médiatique à Mexico.",
+      "summary_en": "Max Verstappen says it's normal for drivers and team members to fall ill at this stage of the season, after two drivers missed Thursday's media day in Mexico City."
+    },
+    {
+      "id": "2cbe713d649a",
+      "title": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
+      "title_fr": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
+      "title_en": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-daniel-ricciardos-le-mans-ambition-hes-a-smart-man-picking-me/10869461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6D19opJ0/s6/daniel-ricciardo-third-driver-.jpg",
+      "published_at": "2026-10-29T22:36:58+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen has joked that former Red Bull team-mate Daniel Ricciardo is a \"smart man\" for picking him in a potential trio for a future Le Mans 24 Hour challenge.<br />Ricciardo has not taken part ",
+      "summary_en": "Max Verstappen has joked that former Red Bull team-mate Daniel Ricciardo is a \"smart man\" for picking him in a potential trio for a future Le Mans 24 Hour challenge.<br />Ricciardo has not taken part "
+    },
+    {
+      "id": "b00ededd7418",
+      "title": "Max Verstappen responds to Daniel Ricciardo’s Le Mans dream team call",
+      "title_fr": "Verstappen se moque de Ricciardo pour le Le Mans",
+      "title_en": "Verstappen jokes about Ricciardo's Le Mans dream team",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-daniel-ricciardos-le-mans-dream-team-call/10869457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0o5A8GxY/s6/motorsport-com-graphics-45.jpg",
+      "published_at": "2026-10-29T22:36:10+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a plaisanté en déclarant que Daniel Ricciardo, qui l’a sélectionné pour son équipe de rêve du 24 Heures du Mans, est un homme intelligent. Les deux pilotes ont déjà évoqué cette collaboration.",
+      "summary_en": "Max Verstappen joked that Daniel Ricciardo, who picked him for his dream Le Mans lineup, is a smart man. The two drivers had already discussed the possibility."
+    },
+    {
+      "id": "5738151a30ce",
+      "title": "Alex Albon dismisses Fernando Alonso criticism: 'F1 has no more pay drivers'",
+      "title_fr": "Albon rejette les critiques d'Alonso sur l'accident d'Austin",
+      "title_en": "Albon dismisses Alonso's criticism over Austin clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/alex-albon-dismisses-fernando-alonso-criticism-f1-has-no-more-pay-drivers/10869451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0o5A8v7Y/s6/alexander-albon-williams-ferna.jpg",
+      "published_at": "2026-10-29T22:21:29+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Alex Albon a rejeté les reproches de Fernando Alonso suite à leur collision à Austin, affirmant que la F1 ne compte plus de pilotes payés. Le pilote Aston Martin a jugé les accusations de l'Espagnol infondées.",
+      "summary_en": "Alex Albon dismissed Fernando Alonso's criticism after their clash at Austin, saying the F1 grid no longer has pay drivers. The Aston Martin driver called the Spaniard's claims unfounded."
+    },
     {
       "id": "d5a059c67627",
       "title": "Herta or Bottas for 2027 seat is “not an easy decision” for Cadillac, says Perez | Formula 1",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La Fédération Internationale de l'Automobile a signé un partenariat mondial avec Amazon Web Services pour utiliser l'intelligence artificielle dans l'élaboration des règles de la prochaine ère de la Formule 1.",
       "summary_en": "The FIA has signed a global partnership with Amazon Web Services to use AI in drafting the regulations for the next era of Formula 1 cars."
-    },
-    {
-      "id": "b75e9578458d",
-      "title": "Christian Horner addresses past misconduct allegations in new interview",
-      "title_fr": "Horner se défend sur les allégations de Red Bull",
-      "title_en": "Horner defends himself on Red Bull allegations",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0qgKEJEY/s6/motorsport-com-graphics-34-2.jpg",
-      "published_at": "2026-10-28T23:51:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a enfin pris la parole pour répondre aux allégations de la fin de son mandat chez Red Bull Racing. Il a rejeté les accusations et maintenu son innocence.",
-      "summary_en": "Christian Horner finally spoke about the allegations surrounding his final months at Red Bull Racing, denying wrongdoing and maintaining his innocence."
-    },
-    {
-      "id": "288f586cdac9",
-      "title": "F1 newcomers Tsolov, Mini and Slater among eight drivers to run in practice on Friday | Formula 1",
-      "title_fr": "Tsolov, Mini et Slater en séance d’essai du vendredi",
-      "title_en": "Tsolov, Mini and Slater among eight drivers to run in Friday practice",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/28/f1-newcomers-tsolov-mini-and-slater-among-eight-drivers-to-run-in-practice-on-friday/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-28-21-51-14-1.jpg",
-      "published_at": "2026-10-28T21:52:24+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les équipes de Formule 1 remplissent leurs quotas de pilotes d’essai plus tôt que prévu, alors que l’incertitude plane sur les deux derniers tours de 2026.",
-      "summary_en": "F1 teams are fulfilling their practice driver quotas earlier than required, amid uncertainty over the final two rounds of 2026."
-    },
-    {
-      "id": "a87016e3cd41",
-      "title": "Christian Horner reveals details of Red Bull exit in emotional interview",
-      "title_fr": "Christian Horner reveals details of Red Bull exit in emotional interview",
-      "title_en": "Christian Horner reveals details of Red Bull exit in emotional interview",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BR3g2/s6/motorsport-com-graphics-33-2.jpg",
-      "published_at": "2026-10-28T18:30:18+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine.<br />Was it t",
-      "summary_en": "Ever since Red Bull unceremoniously dropped Christian Horner on 9 July 2025, the Formula 1 paddock has been buzzing with endless speculation about what actually triggered the guillotine.<br />Was it t"
-    },
-    {
-      "id": "b2d952047ba0",
-      "title": "Five things to look out for at the F1 Mexico GP",
-      "title_fr": "À quoi s'attendre au GP de Mexico",
-      "title_en": "What to watch for at the Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0arKKow2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-10-28T16:51:15+00:00",
-      "race_id": "usa",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Mexico revient après la victoire de Kimi Antonelli à Austin. Le pilote Mercedes a dominé depuis le pole, tandis que Charles Leclerc et Max Verstappen ont terminé sur le podium.",
-      "summary_en": "The Mexico GP returns after Kimi Antonelli's win in Austin. Mercedes' driver dominated from pole, while Charles Leclerc and Max Verstappen finished on the podium."
-    },
-    {
-      "id": "37f6aff9922b",
-      "title": "Max Verstappen sits out for Red Bull in Mexico GP FP1",
-      "title_fr": "Verstappen s'abstient de la FP1 à Mexico",
-      "title_en": "Verstappen skips FP1 at Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YP74y4o2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-28T16:17:13+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a choisi de ne pas courir lors de la première séance de formation du Grand Prix de Mexico, Red Bull respectant le quota de courses pour les pilotes débutants.",
-      "summary_en": "Max Verstappen opted out of the first practice session at the Mexico City Grand Prix as Red Bull fulfills its rookie quota, giving younger drivers more track time."
-    },
-    {
-      "id": "e361a2b5001c",
-      "title": "F1 publishes first Social Impact Report; key student scholarship renewed",
-      "title_fr": "F1 publishes first Social Impact Report; key student scholarship renewed",
-      "title_en": "F1 publishes first Social Impact Report; key student scholarship renewed",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg",
-      "published_at": "2026-10-28T15:26:42+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having benefited from F1 programmes last year.<br />In initiatives designed to",
-      "summary_en": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having benefited from F1 programmes last year.<br />In initiatives designed to"
-    },
-    {
-      "id": "d32867448f6e",
-      "title": "New contract to keep Perez racing for Cadillac until at least 2029 | Formula 1",
-      "title_fr": "Perez prolonge son contrat avec Cadillac jusqu'en 2029",
-      "title_en": "Perez extends Cadillac contract until 2029",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/28/new-contract-to-keep-perez-racing-for-cadillac-until-at-least-2029/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-28-15-24-04-1-CadillacF1Team_16862_HiRes.jpg",
-      "published_at": "2026-10-28T15:12:35+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Sergio Pérez signe un nouveau contrat avec Cadillac, le prolongant jusqu'en 2029. L'accord est annoncé quelques jours avant son 300e Grand Prix à Mexico.",
-      "summary_en": "Sergio Pérez signs a new contract with Cadillac, extending it until 2029. The deal comes just days before his 300th Grand Prix in Mexico."
-    },
-    {
-      "id": "2bb82e7af934",
-      "title": "F1 publishes first Social Impact Report; key student scholarship renewed",
-      "title_fr": "F1 publishes first Social Impact Report; key student scholarship renewed",
-      "title_en": "F1 publishes first Social Impact Report; key student scholarship renewed",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0arE7LG2/s6/stem-racing-world-final-2026-s.jpg",
-      "published_at": "2026-10-28T15:03:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having beneffited from F1 programmes last year.<br />In initiatives designed t",
-      "summary_en": "Formula 1 has published its first sport-wide Social Impact Report, with over half a million young people across the world having beneffited from F1 programmes last year.<br />In initiatives designed t"
     }
   ]
 }
