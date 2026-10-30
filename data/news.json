@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-30T16:19:11Z",
+  "last_updated": "2026-10-30T19:20:47Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7e37929826c3",
+      "title": "What Fernando Alonso is getting wrong about F1 driving standards",
+      "title_fr": "Alonso critique sévèrement les pilotes du bas du tableau",
+      "title_en": "Alonso Criticizes Lower‑Third Drivers",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7LvB5Y/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-10-30T18:28:52+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a déclaré que la qualité des pilotes du bas du tableau est très faible après le Grand Prix des États‑Unis. Il a repris ses critiques en Mexique, ciblant Alex Albon, tandis que d’autres pilotes défendent Albon.",
+      "summary_en": "Fernando Alonso said the quality of lower‑third drivers is very low after the United States Grand Prix. He repeated his criticism in Mexico, targeting Alex Albon, while other drivers defended Albon."
+    },
+    {
+      "id": "2d719c442dc1",
+      "title": "Sergio Perez to skip F1 Mexico GP fan forum due to illness",
+      "title_fr": "Sergio Perez to skip F1 Mexico GP fan forum due to illness",
+      "title_en": "Sergio Perez to skip F1 Mexico GP fan forum due to illness",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/serio-perez-to-skip-f1-mexico-gp-fan-forum-due-to-illness/10869750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zDgJ6/s6/sergio-perez-cadillac-racing.jpg",
+      "published_at": "2026-10-30T17:10:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Sergio Perez will skip the fan forum for this weekend’s Mexico Grand Prix, but is still expected to contest both Friday practice sessions at Autodromo Hermanos Rodriguez.<br />The Cadillac driver is c",
+      "summary_en": "Sergio Perez will skip the fan forum for this weekend’s Mexico Grand Prix, but is still expected to contest both Friday practice sessions at Autodromo Hermanos Rodriguez.<br />The Cadillac driver is c"
+    },
+    {
+      "id": "e32d20d0c064",
+      "title": "Lewis Hamilton on why he is “built differently” to stay in F1 for the “foreseeable future”",
+      "title_fr": "Hamilton confirme son avenir en F1 tant qu’il reste compétitif",
+      "title_en": "Hamilton confirms staying in F1 as long as he remains competitive",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBmn16/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-10-30T16:32:13+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré qu’il continuera en Formule 1 tant qu’il pourra rester compétitif, tout en se demandant s’il pourra participer au prochain Grand Prix d’Afrique prévu en 2030.",
+      "summary_en": "Lewis Hamilton said he will stay in Formula 1 as long as he can remain competitive, while wondering if he can race in the upcoming African Grand Prix set for 2030."
+    },
+    {
+      "id": "b045617ee41c",
+      "title": "Hamilton on why he is “built differently” to stay in F1 for the “foreseeable future”",
+      "title_fr": "Hamilton confirme son avenir en F1 tant qu'il reste compétitif",
+      "title_en": "Hamilton says he'll stay in F1 as long as he remains competitive",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869741/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-30T16:30:03+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré qu'il continuera en Formule 1 tant qu'il restera compétitif, tout en évoquant la perspective du Grand Prix d'Afrique, prévu en 2030 au Rwanda.",
+      "summary_en": "Lewis Hamilton said he will stay in Formula 1 as long as he remains competitive, while noting the upcoming African Grand Prix set for 2030 in Rwanda."
+    },
     {
       "id": "72f32e14e8f3",
       "title": "\"Slippery as hell\" – Max Verstappen and Isack Hadjar explain the \"extreme\" challenge of Mexico",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli, leader du championnat, ne sera pas présent au jour de presse du Grand Prix de Mexico car il souffre d’une infection virale. Mercedes l’excuse officiellement.",
       "summary_en": "Kimi Antonelli, championship leader, will miss the Mexico GP media day because of a viral infection. Mercedes has officially excused him."
-    },
-    {
-      "id": "d5ce657415b3",
-      "title": "Unwell Kimi Antonelli skips F1 Mexico GP media day",
-      "title_fr": "Antonelli absent du jour médias du Grand Prix du Mexique",
-      "title_en": "Antonelli misses Mexico GP media day",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVjm5KY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-29T17:05:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, pilote Mercedes, ne participera pas au jour médias du Grand Prix du Mexique car il se sent mal à cause d’une infection virale. La FIA l’excuse de ses activités.",
-      "summary_en": "Kimi Antonelli, Mercedes driver, will skip the Mexico GP media day as he feels unwell due to a viral illness. The FIA has excused him from today's media duties."
-    },
-    {
-      "id": "5ad00211a201",
-      "title": "How to follow Mexico City Grand Prix on the BBC",
-      "title_fr": "Suivez le Grand Prix de Mexico sur la BBC",
-      "title_en": "How to follow the Mexico City Grand Prix on the BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyrgejp0w8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d626/live/21784a30-d0dc-11f1-ad70-07daa2562508.jpg",
-      "published_at": "2026-10-29T16:31:01+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La BBC propose une couverture complète du Grand Prix de Mexico, du 30 octobre au 1er novembre, avec des commentaires, des analyses et des retransmissions en direct.",
-      "summary_en": "BBC offers comprehensive coverage of the Mexico City Grand Prix from 30 October to 1 November, featuring commentary, analysis, and live broadcasts."
-    },
-    {
-      "id": "d21ef10a71d9",
-      "title": "Why Daniel Ricciardo would consider a comeback at Le Mans",
-      "title_fr": "Ricciardo envisage un retour à Le Mans",
-      "title_en": "Ricciardo mulls a return to Le Mans",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/Y99DzGXY/s6/daniel-ricciardo-rb-f1-team.jpg",
-      "published_at": "2026-10-29T16:00:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo, champion à huit titres, a quitté la Formule 1 il y a deux ans. Il se demande s’il peut revenir, notamment pour le 24 Heures du Mans.",
-      "summary_en": "Daniel Ricciardo, a eight‑time Formula One champion, left the sport two years ago. He’s weighing a comeback, possibly at the 24 Hours of Le Mans."
-    },
-    {
-      "id": "58b70fa1f6cd",
-      "title": "Why Ricciardo would consider a comeback at Le Mans",
-      "title_fr": "Ricciardo envisage un retour à Le Mans",
-      "title_en": "Ricciardo mulls a comeback at Le Mans",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/Y99DKwAY/s6/daniel-ricciardo-visa-cash-app-2.jpg",
-      "published_at": "2026-10-29T16:00:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo, champion à huit titres, estime que sa carrière en Formule 1 est probablement terminée, mais il se montre ouvert à un retour à Le Mans.",
-      "summary_en": "Daniel Ricciardo, a former eight‑time Formula One champion, says his F1 career is likely over but remains open to a return to Le Mans."
     }
   ]
 }
