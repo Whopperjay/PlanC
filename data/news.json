@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T01:11:22Z",
+  "last_updated": "2026-10-30T04:13:05Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -267,6 +267,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell, favori pour le championnat, déclare que son manque de titre cette saison ne le définira pas et qu'il ne sera pas brisé par cette défaite. Le pilote britannique reste confiant.",
       "summary_en": "George Russell, the championship favourite, says missing a title this season won't define him and he won't be broken by the loss. The British driver remains confident."
+    },
+    {
+      "id": "bb51b8c4c3a9",
+      "title": "Russell believes tyre pressures and less “efficient” driving style hurt him in 2026 | Formula 1",
+      "title_fr": "Russell accuse la pression des pneus et son style de conduite de freiner ses performances",
+      "title_en": "Russell blames tyre pressures and driving style for 2026 performance",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/29/russell-believes-tyre-pressures-and-less-efficient-driving-style-hurt-him-in-2026/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-10-24-58-1-M634943_F1_Grand_Prix_of_Bahrain_in_Malaysia_Qualifying.jpg",
+      "published_at": "2026-10-29T20:45:22+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell estime que la pression des pneus et son style de conduite moins efficace ont freiné ses performances en 2026. Il pointe ces deux facteurs comme les principaux obstacles à son potentiel avec son équipe.",
+      "summary_en": "George Russell says tyre pressures and a less efficient driving style have hampered his 2026 performance. He cites these two factors as the main obstacles to his potential with the team."
     },
     {
       "id": "097960b44df3",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote australien Daniel Ricciardo a admis qu'il aurait préféré rester chez Red Bull après la saison 2018. Son départ a laissé Max Verstappen comme pilote principal, qui a remporté quatre titres consécutifs.",
       "summary_en": "Australian driver Daniel Ricciardo admitted he would have preferred to stay with Red Bull after the 2018 season. His exit left Max Verstappen as the team's lead driver, who went on to win four consecutive titles."
-    },
-    {
-      "id": "a906cf21ec9a",
-      "title": "FIA to use AI to help shape future F1 regulations in new AWS partnership",
-      "title_fr": "FIA adopte l'IA d'AWS pour façonner les futures règles de F1",
-      "title_en": "FIA partners with AWS to shape future F1 regulations",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YK1589z0/s6/motorsport-com-graphics-27.jpg",
-      "published_at": "2026-10-29T00:16:47+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Fédération Internationale de l'Automobile a signé un partenariat mondial avec Amazon Web Services pour utiliser l'intelligence artificielle dans l'élaboration des règles de la prochaine ère de la Formule 1.",
-      "summary_en": "The FIA has signed a global partnership with Amazon Web Services to use AI in drafting the regulations for the next era of Formula 1 cars."
     }
   ]
 }
