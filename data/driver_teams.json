@@ -50,6 +50,19 @@
   },
   {
     "driver": {
+      "driverId": "gabriele_mini",
+      "givenName": "Gabriele",
+      "familyName": "Mini"
+    },
+    "constructor": {
+      "constructorId": "alpine",
+      "url": "https://en.wikipedia.org/wiki/Alpine_F1_Team",
+      "name": "Alpine F1 Team",
+      "nationality": "French"
+    }
+  },
+  {
+    "driver": {
       "driverId": "alonso",
       "permanentNumber": "14",
       "code": "ALO",
@@ -138,6 +151,19 @@
       "familyName": "H\u00fclkenberg",
       "dateOfBirth": "1987-08-19",
       "nationality": "German"
+    },
+    "constructor": {
+      "constructorId": "audi",
+      "url": "https://en.wikipedia.org/wiki/Audi_in_Formula_One",
+      "name": "Audi",
+      "nationality": "German"
+    }
+  },
+  {
+    "driver": {
+      "driverId": "freddie_slater",
+      "givenName": "Freddie",
+      "familyName": "Slater"
     },
     "constructor": {
       "constructorId": "audi",
@@ -432,6 +458,19 @@
       "familyName": "Lindblad",
       "dateOfBirth": "2007-08-08",
       "nationality": "British"
+    },
+    "constructor": {
+      "constructorId": "rb",
+      "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+      "name": "RB F1 Team",
+      "nationality": "Italian"
+    }
+  },
+  {
+    "driver": {
+      "driverId": "nikola_tsolov",
+      "givenName": "Nikola",
+      "familyName": "Tsolov"
     },
     "constructor": {
       "constructorId": "rb",
