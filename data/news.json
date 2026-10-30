@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-10-30T19:20:47Z",
+  "last_updated": "2026-10-30T22:22:44Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "51fc5d265ee9",
+      "title": "What's behind \"absolute nonsense\" Oliver Bearman contract rumours",
+      "title_fr": "Rumeurs de contrat : Bearman, l'absurde",
+      "title_en": "Contract rumours: Bearman, the absurd",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QpQp6/s6/oliver-bearman-haas-f1-team.jpg",
+      "published_at": "2026-10-30T22:12:06+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Les rumeurs sur le contrat d'Oliver Bearman ont suscité l'absurdité, alors que Haas confirme la sortie d'Esteban Ocon et l'arrivée de Rafael Camara. Le pilote reste hors contrat, mais aucune confirmation officielle n'a été donnée.",
+      "summary_en": "Rumours about Oliver Bearman's contract have sparked absurdity, as Haas confirms Esteban Ocon's exit and Rafael Camara's arrival. The driver remains out of contract, but no official confirmation has been issued."
+    },
+    {
+      "id": "13d3d40f399e",
+      "title": "Red Bull F1 boss Laurent Mekies hits back at Christian Horner's \"lost its mojo\" claim",
+      "title_fr": "Mekies défend Red Bull face à la critique de Horner",
+      "title_en": "Mekies defends Red Bull against Horner's 'mojo' claim",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8Zro6/s6/motorsport-com-graphics-34.jpg",
+      "published_at": "2026-10-30T21:30:38+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Laurent Mekies, directeur général de Red Bull Racing, a rejeté les propos de Christian Horner selon lesquels l’équipe aurait perdu son mojo depuis son départ. Il affirme que l’esprit de l’équipe a conduit à une remontée remarquable.",
+      "summary_en": "Laurent Mekies, Red Bull Racing CEO, rebuts Christian Horner's claim that the team lost its mojo after his exit. He says the team's spirit has driven a remarkable turnaround."
+    },
+    {
+      "id": "813c2de9fe56",
+      "title": "Red Bull reveals when its long-awaited new F1 wind tunnel will be operational",
+      "title_fr": "Red Bull dévoile la date de mise en service de son nouveau tunnel à vent",
+      "title_en": "Red Bull reveals when its new wind tunnel will be operational",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-reveals-when-its-long-awaited-new-f1-wind-tunnel-will-be-operational/10869820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwReX2/s6/motorsport-com-graphics-48.jpg",
+      "published_at": "2026-10-30T21:28:32+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a annoncé que son nouveau tunnel à vent à Milton Keynes ne sera opérationnel qu'au cours de la saison 2027, remplaçant celui de Bedford.",
+      "summary_en": "Red Bull has confirmed that its new wind tunnel in Milton Keynes will not be operational until the 2027 season, replacing the current Bedford facility."
+    },
+    {
+      "id": "6fff33b5fed5",
+      "title": "Guenther Steiner warns Mercedes will make \"changes\" if George Russell struggles in 2027",
+      "title_fr": "Steiner prévient Mercedes de possibles changements si Russell échoue en 2027",
+      "title_en": "Steiner warns Mercedes of possible changes if Russell struggles in 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-mercedes-will-make-changes-if-george-russell-struggles-in-2027/10869809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKOABY/s6/motorsport-com-graphics-33.jpg",
+      "published_at": "2026-10-30T20:53:39+00:00",
+      "race_id": "china",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de l'ancienne équipe Haas, Guenther Steiner, a déclaré que Mercedes pourrait revoir son équipe de pilotes si George Russell ne progresse pas d'ici la fin de 2026. Le pilote est déjà en difficulté face à Kimi Antonelli.",
+      "summary_en": "Former Haas chief Guenther Steiner warned that Mercedes might change its driver lineup if George Russell fails to improve by the end of 2026, as Russell struggles against Kimi Antonelli."
+    },
+    {
+      "id": "a265b4decd94",
+      "title": "Bottas ‘needs to do’ more weekends like Austin to keep Cadillac seat – Budkowski | Formula 1",
+      "title_fr": "Bottas doit faire plus de courses comme Austin pour garder son siège chez Cadillac",
+      "title_en": "Bottas must deliver more Austin‑style weekends to keep his Cadillac seat",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/bottas-needs-to-do-more-weekends-like-austin-to-keep-cadillac-seat-says-budkowski/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-20-49-22-1.jpg",
+      "published_at": "2026-10-30T20:50:22+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de Cadillac, Marcin Budkowski, a déclaré que Valtteri Bottas doit reproduire la performance d'Austin pour conserver son poste, alors que le pilote de test Colton Herta devient éligible à une super licence.",
+      "summary_en": "Cadillac team principal Marcin Budkowski said Valtteri Bottas must replicate the Austin performance to keep his seat, as test driver Colton Herta becomes eligible for a super licence."
+    },
+    {
+      "id": "bcf0b2a5b283",
+      "title": "Leclerc puts Ferrari on top in practice again in Mexico | Formula 1",
+      "title_fr": "Leclerc puts Ferrari on top in practice again in Mexico | Formula 1",
+      "title_en": "Leclerc puts Ferrari on top in practice again in Mexico | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/leclerc-puts-ferrari-on-top-in-practice-again-in-mexico/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-20-29-06-1-261023_R18_USA_AC_CAT5150.jpg",
+      "published_at": "2026-10-30T19:43:03+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc started the Mexican Grand Prix on top by setting the fastest time in the opening practice session.",
+      "summary_en": "Charles Leclerc started the Mexican Grand Prix on top by setting the fastest time in the opening practice session."
+    },
+    {
+      "id": "f6219fe83aa8",
+      "title": "F1 Mexico GP: Leclerc beats Antonelli to top FP1",
+      "title_fr": "Leclerc domine la première séance de pratique à Mexico",
+      "title_en": "Leclerc tops FP1 at Mexico GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-beats-antonelli-to-top-fp1/10869791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6b8ZXKB2/s6/charles-leclerc-ferrari-3.jpg",
+      "published_at": "2026-10-30T19:39:56+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a dominé la première séance de pratique du Grand Prix de Mexico, franchissant Kimi Antonelli de six dixièmes de seconde. Le pilote Ferrari a établi un 1m18.128s, suivi de Frederik Vesti.",
+      "summary_en": "Charles Leclerc topped the opening practice at the Mexico GP, beating Kimi Antonelli by six-tenths of a second. The Ferrari driver set a 1m18.128s lap, with Frederik Vesti completing the top three."
+    },
+    {
+      "id": "e0f697969bad",
+      "title": "F1 Mexico GP: Charles Leclerc beats Kimi Antonelli to top FP1",
+      "title_fr": "Leclerc domine la FP1 du Grand Prix de Mexico",
+      "title_en": "Leclerc tops FP1 at Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YN7vVy36/s6/charles-leclerc-ferrari-3.jpg",
+      "published_at": "2026-10-30T19:38:35+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a dominé la première séance d’essais libres du Grand Prix de Mexico, franchissant la barre des 1m18.128s, six dixièmes de seconde plus vite que Kimi Antonelli. Frederik Vesti a terminé troisième.",
+      "summary_en": "Charles Leclerc topped the first free‑practice session at the Mexico GP, clocking 1m18.128s, six tenths faster than Kimi Antonelli. Frederik Vesti finished third."
+    },
     {
       "id": "7e37929826c3",
       "title": "What Fernando Alonso is getting wrong about F1 driving standards",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell estime que la pression des pneus et son style de conduite moins efficace ont freiné ses performances en 2026. Il pointe ces deux facteurs comme les principaux obstacles à son potentiel avec son équipe.",
       "summary_en": "George Russell says tyre pressures and a less efficient driving style have hampered his 2026 performance. He cites these two factors as the main obstacles to his potential with the team."
-    },
-    {
-      "id": "097960b44df3",
-      "title": "Alonso doubles down on poor F1 driving standards – and says those targeted know who they are",
-      "title_fr": "Alonso critique les standards de conduite en F1",
-      "title_en": "Alonso Criticizes F1 Driving Standards",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fernando-alonso-doubles-down-on-poor-f1-driving-standards-we-all-know-who-were-talking-about/10869405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNWdq2/s6/fernando-alonso-aston-martin-r-3.jpg",
-      "published_at": "2026-10-29T20:05:13+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Après avoir été percuté par Alexander Albon lors du premier tour du Grand Prix d’Austin, Fernando Alonso dénonce la qualité de la conduite en Formule 1, affirmant que les pilotes ciblés savent qui ils sont.",
-      "summary_en": "After being hit by Alexander Albon on the opening lap of the US Grand Prix in Austin, Fernando Alonso slammed F1 driving standards, saying the targeted drivers know who they are."
-    },
-    {
-      "id": "e86782c161c6",
-      "title": "Fernando Alonso doubles down on poor F1 driving standards: \"We all know who we're talking about\"",
-      "title_fr": "Fernando Alonso doubles down on poor F1 driving standards: \"We all know who we're talking about\"",
-      "title_en": "Fernando Alonso doubles down on poor F1 driving standards: \"We all know who we're talking about\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-doubles-down-on-poor-f1-driving-standards-we-all-know-who-were-talking-about/10869402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVPZEq0/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-10-29T20:03:04+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "After Fernando Alonso was hit by Alexander Albon on the opening lap of the US Grand Prix in Austin – which, according to Aston Martin's chief trackside officer Mike Krack, cost him a considerable amou",
-      "summary_en": "After Fernando Alonso was hit by Alexander Albon on the opening lap of the US Grand Prix in Austin – which, according to Aston Martin's chief trackside officer Mike Krack, cost him a considerable amou"
-    },
-    {
-      "id": "19c6c3b5fbe6",
-      "title": "Who would replace Charles Leclerc at Ferrari if he misses a race for his baby’s birth?",
-      "title_fr": "Leclerc ne manquera pas le GP malgré la naissance de son bébé",
-      "title_en": "Leclerc will not miss the GP despite his baby's birth",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-would-replace-charles-leclerc-at-ferrari-if-he-misses-a-race-for-his-babys-birth/10869393/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVj4bzY/s6/motorsport-com-graphics-42.jpg",
-      "published_at": "2026-10-29T19:22:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc affirme qu’il ne manquera pas le Grand Prix même si son premier enfant naît. Ferrari a déjà prévu un remplaçant au cas où les plans changeraient.",
-      "summary_en": "Charles Leclerc says he will not miss the Grand Prix even if his first child is born. Ferrari has already lined up a stand‑in in case plans change."
-    },
-    {
-      "id": "b24b1a6b8afb",
-      "title": "Kimi Antonelli backed to surpass Sebastian Vettel's four F1 titles by Guenther Steiner",
-      "title_fr": "Kimi Antonelli, l'espoir de dépasser Vettel",
-      "title_en": "Kimi Antonelli poised to surpass Vettel's four F1 titles",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-backed-to-surpass-sebastian-vettels-four-f1-titles-by-guenther-steiner/10869391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/68Vw4D42/s6/motorsport-com-graphics-29.jpg",
-      "published_at": "2026-10-29T19:20:45+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, 20 ans, est sur le point de devenir champion de Formule 1, ce qui le placerait au-dessus du record de Sebastian Vettel. Le directeur de Haas, Guenther Steiner, l'encourage.",
-      "summary_en": "Kimi Antonelli, 20, is on the brink of becoming a Formula 1 champion, which would put him ahead of Sebastian Vettel's record. Haas chief Guenther Steiner backs the young driver."
-    },
-    {
-      "id": "ac4ffcf01014",
-      "title": "Every LEGO F1 set you can buy right now: £10.99 to £199.99",
-      "title_fr": "LEGO lance 31 modèles F1, du McLaren à 10,99 £ au Technic 199,99 £",
-      "title_en": "LEGO unveils 31 F1 sets, from £10.99 McLaren to £199.99 Technic",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/every-lego-f1-set-you-can-buy-right-now-1099-to-19999/10869386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2wlKjWeY/s6/motorsport-com-graphics-41-2.jpg",
-      "published_at": "2026-10-29T19:00:47+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "LEGO propose 31 ensembles F1 aux États‑Unis et au Royaume‑Uni, allant d’un McLaren à 10,99 £ pour les enfants à des modèles Technic de 1:8 à 199,99 £, avec direction, suspension et DRS fonctionnels.",
-      "summary_en": "LEGO offers 31 F1 sets in the UK and US, ranging from a £10.99 McLaren for kids to 1:8 scale Technic models priced at £199.99, featuring working steering, suspension and a DRS flap."
-    },
-    {
-      "id": "d32ec64f61fb",
-      "title": "F1 Mexico GP: Friday schedule, weather forecast and how to watch",
-      "title_fr": "Mexico GP : programme du vendredi, météo et comment suivre",
-      "title_en": "Mexico GP: Friday schedule, weather forecast and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-friday-schedule-weather-forecast-and-how-to-watch/10869379/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YBVjmnKY/s6/sergio-perez-cadillac-racing.jpg",
-      "published_at": "2026-10-29T18:31:21+00:00",
-      "race_id": "usa",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 arrive à Mexico City ce week-end. Kimi Antonelli, déjà champion du monde, attend de consolider son titre après sa victoire à Austin.",
-      "summary_en": "Formula 1 heads to Mexico City this weekend. Kimi Antonelli, already world champion, looks to cement his title after winning in Austin."
-    },
-    {
-      "id": "b6b68f4cce0f",
-      "title": "Antonelli to miss Mexico media day with illness",
-      "title_fr": "Antonelli to miss Mexico media day with illness",
-      "title_en": "Antonelli to miss Mexico media day with illness",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cke8rlrrzpqyo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3173/live/156e6ee0-d3bb-11f1-8c27-87a7c72809db.jpg",
-      "published_at": "2026-10-29T17:25:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli is to miss Thursday's Mexico City Grand Prix media day with an illness as he stands on the brink of clinching his first world title.",
-      "summary_en": "Kimi Antonelli is to miss Thursday's Mexico City Grand Prix media day with an illness as he stands on the brink of clinching his first world title."
-    },
-    {
-      "id": "d568351430d6",
-      "title": "Antonelli skips F1 Mexico GP media day due to illness",
-      "title_fr": "Antonelli absent du jour de presse du Grand Prix de Mexico pour maladie",
-      "title_en": "Antonelli misses Mexico GP media day due to illness",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVjm5KY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-29T17:07:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, leader du championnat, ne sera pas présent au jour de presse du Grand Prix de Mexico car il souffre d’une infection virale. Mercedes l’excuse officiellement.",
-      "summary_en": "Kimi Antonelli, championship leader, will miss the Mexico GP media day because of a viral infection. Mercedes has officially excused him."
     }
   ]
 }
