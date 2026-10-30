@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-10-30T10:16:38Z",
+  "last_updated": "2026-10-30T13:17:48Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "4d67fbb76752",
+      "title": "Isack Hadjar admits after criticising Red Bull: \"There's stuff that I should have kept for myself\"",
+      "title_fr": "Hadjar critique Red Bull après le Grand Prix des États-Unis",
+      "title_en": "Hadjar Criticizes Red Bull After US GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-admits-after-criticising-red-bull-theres-stuff-that-i-should-have-kept-for-myself/10869496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdK4w1Y/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-10-30T10:47:31+00:00",
+      "race_id": "usa",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a critiqué l'exécution de Red Bull après le Grand Prix des États-Unis, citant des problèmes de radio et de départs. Le pilote a déclaré qu'il aurait dû garder certaines remarques pour lui.",
+      "summary_en": "Isack Hadjar criticized Red Bull's execution after the US Grand Prix, citing radio and start issues. He said he should have kept some remarks to himself."
+    },
     {
       "id": "4eb215461eee",
       "title": "‘There’s no pay drivers now’: Alonso’s rivals reject his criticism of ‘one-third’ of the grid | Formula 1",
@@ -115,6 +134,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell estime que Ferrari jouera un rôle clé grâce à sa conception turbo, tandis que Charles Leclerc maintient que Mercedes reste la meilleure voiture où qu’on aille.",
       "summary_en": "George Russell says Ferrari has a key advantage thanks to its turbo design, while Charles Leclerc insists Mercedes remains the best car wherever they go."
+    },
+    {
+      "id": "c1cbdfd2448a",
+      "title": "F1 has never had anyone like me - Hamilton",
+      "title_fr": "Hamilton affirme qu'il est unique en F1",
+      "title_en": "Hamilton says he's unlike any F1 driver",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffb/live/ed9301c0-d42c-11f1-95ab-29e198572168.jpg",
+      "published_at": "2026-10-30T07:25:41+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton déclare qu'il est incomparable à tout pilote de Formule 1 et réaffirme sa volonté de continuer à courir jusqu'à la mi-quarantaine.",
+      "summary_en": "Lewis Hamilton says he is unlike any Formula 1 driver and reaffirms his determination to keep racing into his mid-forties."
     },
     {
       "id": "99554868d009",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b",
       "summary_en": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b"
-    },
-    {
-      "id": "a6f8ccd9994a",
-      "title": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
-      "title_fr": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
-      "title_en": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/cadillac-honoured-to-have-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/63QaoRw2/s6/sergio-perez-cadillac-racing-2.jpg",
-      "published_at": "2026-10-29T13:00:03+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b",
-      "summary_en": "General Motors president Mark Reuss has praised Cadillac Formula 1 driver Sergio Perez ahead of his 300th race in the series, insisting it is \"an honour\" to have the Mexican on side.<br />Perez will b"
-    },
-    {
-      "id": "916f2aaf0bdd",
-      "title": "Sebastian Vettel reveals why BMW didn't want him – but Red Bull did",
-      "title_fr": "Vettel explique pourquoi BMW l'a laissé partir, mais Red Bull l'a retenu",
-      "title_en": "Vettel explains why BMW let him go, but Red Bull kept him",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/sebastian-vettel-reveals-why-bmw-didnt-want-him-but-red-bull-did/10869300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YBeWlz82/s6/sebastian-vettel-sauber-f1-06-.jpg",
-      "published_at": "2026-10-29T12:18:06+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Dans le documentaire ARD Being Sebastian Vettel, le champion à quatre titres révèle que le soutien de BMW n'a pas fonctionné comme prévu, tandis que Red Bull a vu son potentiel et l'a retenu",
-      "summary_en": "In the ARD documentary Being Sebastian Vettel, the four-time champion explains that BMW's support didn't work out as planned, while Red Bull saw his potential and kept him"
     }
   ]
 }
