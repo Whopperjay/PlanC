@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:00:04Z",
+  "generated_at": "2026-10-31T13:00:29Z",
   "model": "claude",
   "predictions": [
     {
@@ -113,14 +113,14 @@
       "session_type": "qualifying",
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
-      "p2": "leclerc",
+      "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli a dominé les qualifications à Austin et reste en tête du championnat, montrant une constance exceptionnelle. Leclerc, après avoir mené les essais à Mexico et exprimé une confiance totale, bénéficie d'une bonne adaptation à l'altitude. Verstappen, malgré son accident en FP2, conserve le rythme Red Bull et reste un concurrent redoutable, mais la perte de temps en FP2 le place légèrement de",
-      "reasoning_en": "Antonelli topped US qualifying and leads the championship, indicating strong one‑lap pace. Leclerc, after topping practice in Mexico and voicing confidence, appears well‑suited to the altitude. Verstappen, despite a FP2 incident, still has Red Bull's speed but the setback likely drops him a spot behind the two front‑runners.",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, ce qui confirme que la Mercedes est la référence en 2026. À Mexico, l'altitude réduit l'appui aérodynamique et met l'efficacité du groupe propulseur en avant, un point fort de Mercedes. Russell reste un excellent qualifieur. Verstappen est rapide sur ce circuit, mais sa sanction après la collision en essais pourrait le perturber. Ferrari re",
+      "reasoning_en": "Antonelli leads the championship by 123 points, which confirms Mercedes as the benchmark car in 2026. Mexico's altitude cuts downforce and puts power-unit efficiency first, a Mercedes strength. Russell remains an excellent qualifier. Verstappen is quick at this track, but his penalty after the practice collision could disrupt him. Ferrari remains a threat.",
       "confidence": "medium",
-      "key_factor_fr": "Évolution de la piste + forme récente en qualif",
+      "key_factor_fr": "Avantage moteur Mercedes en altitude et forme d'Antonelli",
       "news_used_ids": [],
-      "generated_at": "2026-10-31T01:25:37Z"
+      "generated_at": "2026-10-31T13:00:21Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
@@ -128,14 +128,29 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
+      "p2": "russell",
       "p3": "leclerc",
-      "reasoning_fr": "Antonelli part en pole, son rythme exceptionnel en qualification et sa domination au championnat le placent en tête. Au Mexique, l’altitude favorise les moteurs turbo‑hybrides de Red Bull, permettant à Verstappen de rester très compétitif, surtout avec une stratégie de pneus à deux arrêts bien maîtrisée. Leclerc, en tête des essais et bénéficiant d’une bonne adaptation à l’altitude, devrait tenir ",
-      "reasoning_en": "Antonelli starts from pole, his superb one‑lap pace in qualifying and his championship dominance put him in the lead. Mexico’s altitude benefits the turbo‑hybrid power units of Red Bull, allowing Verstappen to stay highly competitive, especially with a well‑executed two‑stop tyre plan. Leclerc topped the practice sessions and has shown strong altitude adaptation, so he should secure third, Ferrari",
-      "confidence": "high",
-      "key_factor_fr": "Grille de départ, altitude et stratégie pneus",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance et une Mercedes de référence. Russell confirme le doublé possible. Verstappen et Lawson sont sanctionnés après leur collision en essais, ce qui affaiblit Red Bull. Hadjar fait l'objet d'une enquête. Ferrari est historiquement solide à Mexico, en altitude. Leclerc, plus rapide sur un tour, devance Hamilton pour la P3.",
+      "reasoning_en": "Antonelli leads the championship by 123 points in the benchmark Mercedes. Russell makes a one-two possible. Verstappen and Lawson were penalised after their practice collision, which weakens Red Bull, and Hadjar is under investigation. Ferrari has a strong record at high-altitude Mexico. Leclerc's one-lap pace gives him the edge over Hamilton for P3.",
+      "confidence": "medium",
+      "key_factor_fr": "Domination Mercedes et sanctions qui affaiblissent Red Bull",
       "news_used_ids": [],
-      "generated_at": "2026-10-31T01:25:25Z"
+      "generated_at": "2026-10-31T13:00:13Z"
+    },
+    {
+      "event_id": "brazilian_qualifying",
+      "race_id": "brazilian",
+      "session_type": "qualifying",
+      "session_date": "2026-11-07T18:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance au championnat, et la Mercedes est la référence sur un tour. Interlagos est un circuit court où la motricité et l'efficacité moteur comptent beaucoup, ce qui avantage le package Mercedes. Russell est un qualifieur solide et suit logiquement. Verstappen reste redoutable sur un tour, malgré sa sanction reçue à Mexico.",
+      "reasoning_en": "Antonelli dominates 2026 with a 123-point championship lead, and Mercedes is the benchmark over one lap. Interlagos is a short lap where traction and power-unit efficiency matter a lot, which suits the Mercedes package. Russell is a strong qualifier and the logical P2. Verstappen remains formidable over one lap despite his Mexico penalty.",
+      "confidence": "medium",
+      "key_factor_fr": "Mercedes référence sur un tour, Antonelli en pleine confiance",
+      "news_used_ids": [],
+      "generated_at": "2026-10-31T13:00:29Z"
     }
   ]
 }

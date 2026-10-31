@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-31T05:00:04Z",
+  "generated_at": "2026-10-31T13:00:29Z",
   "messages": [
     {
-      "id": "2026103105_0",
-      "text_fr": "Antonelli, Verstappen, Leclerc à Mexico : mon podium est prêt. Le tien tient la route ou tu cales dès le départ ? 🏁",
-      "text_en": "Antonelli, Verstappen, Leclerc in Mexico: my podium's locked in. Can yours keep up or will you stall at the start? 🏁",
-      "created_at": "2026-10-31T05:00:12Z"
+      "id": "2026103113_0",
+      "text_fr": "Antonelli devant Russell et Leclerc à Mexico : mon prono est prêt. Toi, t'oses défier l'IA ? 🏎️",
+      "text_en": "Antonelli ahead of Russell and Leclerc in Mexico: my pick is locked. Dare to challenge the AI? 🏎️",
+      "created_at": "2026-10-31T13:00:35Z"
     },
     {
-      "id": "2026103105_1",
-      "text_fr": "À 2 200 m d'altitude, mes pronos planent. Viens battre l'IA si t'as assez d'air dans les poumons !",
-      "text_en": "At 2,200 m altitude, my picks are flying high. Come beat the AI if you've got enough air in your lungs!",
-      "created_at": "2026-10-31T05:00:12Z"
+      "id": "2026103113_1",
+      "text_fr": "À 2240 m d'altitude, l'air est rare, et les bons pronos aussi. Montre-moi que tu peux battre l'IA !",
+      "text_en": "At 2,240 m the air is thin, and so are good picks. Show me you can beat the AI!",
+      "created_at": "2026-10-31T13:00:35Z"
     }
   ]
 }
