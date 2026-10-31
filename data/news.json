@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-31T13:32:34Z",
+  "last_updated": "2026-10-31T16:34:33Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "bf2fa627ae9a",
+      "title": "Mercedes out of performance window at Mexico GP - George Russell",
+      "title_fr": "Russell en difficulté sur la Mercedes à Mexico",
+      "title_en": "Russell struggles with Mercedes at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-mercedes-out-of-performance-window-at-mexico-gp/10870173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7Bb9M2/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-10-31T15:52:10+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell fait face à des problèmes de performance avec la Mercedes W17, qui reste hors de la fenêtre optimale lors de la séance d'essais du vendredi à Mexico.",
+      "summary_en": "George Russell is struggling with the Mercedes W17, which remains outside the optimal performance window during Friday practice at the Mexican Grand Prix."
+    },
+    {
+      "id": "f286430f000a",
+      "title": "Haas drops Ocon for F1 Mexico GP",
+      "title_fr": "Haas remplace Ocon par Hirakawa pour le Mexique",
+      "title_en": "Haas swaps Ocon for Hirakawa at Mexico GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/haas-drops-ocon-for-f1-mexico-gp/10870160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/68VwR8V2/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-10-31T14:54:48+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Haas a remplacé Esteban Ocon par le pilote de réserve Ryo Hirakawa pour le reste du week-end du Grand Prix du Mexique. Hirakawa prendra la place d'Ocon en FP2, Q et course.",
+      "summary_en": "Haas replaced Esteban Ocon with reserve driver Ryo Hirakawa for the remainder of the Mexico GP weekend. Hirakawa will take Ocon's seat in FP2, Q and the race."
+    },
+    {
+      "id": "ca31b7c9e7fc",
+      "title": "Haas drops Esteban Ocon for F1 Mexico GP",
+      "title_fr": "Haas remplace Ocon par Hirakawa pour le Mexique",
+      "title_en": "Haas swaps Ocon for Hirakawa at Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/haas-drops-esteban-ocon-for-f1-mexico-gp/10870158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwR8V2/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-10-31T14:52:55+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Haas a décidé de remplacer Esteban Ocon par le pilote de réserve Ryo Hirakawa pour le reste du week-end du Grand Prix du Mexique. Hirakawa prendra la place d'Ocon lors des séances de pratique, du qualif et de la course.",
+      "summary_en": "Haas has swapped Esteban Ocon for reserve driver Ryo Hirakawa for the remainder of the Mexico GP weekend. Hirakawa will take Ocon's seat in final practice, qualifying and the race."
+    },
+    {
+      "id": "03c780cdd2af",
+      "title": "Ocon out, Hirakawa in as Haas make shock Mexican Grand Prix driver change | Formula 1",
+      "title_fr": "Hirakawa remplace Ocon chez Haas pour le Grand Prix du Mexique",
+      "title_en": "Hirakawa replaces Ocon at Haas for Mexican GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/31/ocon-out-hirakawa-in-as-haas-make-shock-mexican-grand-prix-driver-change/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-15-46-35-3.jpg",
+      "published_at": "2026-10-31T14:48:03+00:00",
+      "race_id": "mexico",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Haas a annoncé que Esteban Ocon ne conduira pas le reste du Grand Prix du Mexique. Ryo Hirakawa le remplacera.",
+      "summary_en": "Haas announced Esteban Ocon will not drive the rest of the Mexican Grand Prix. Ryo Hirakawa will take his place."
+    },
+    {
+      "id": "393ff7fe77ba",
+      "title": "Ferrari downplays expectations for F1 Mexico GP despite blistering Friday",
+      "title_fr": "Vasseur minimise les attentes malgré la domination de Leclerc",
+      "title_en": "Vasseur downplays Mexico GP expectations amid Leclerc's dominance",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-downplays-expectations-for-f1-mexico-gp-despite-blistering-friday/10870125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zXZJ6/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-10-31T14:00:05+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Vasseur minimise les attentes pour le Grand Prix du Mexique, alors que Leclerc domine les séances de vendredi et que Hamilton reste compétitif.",
+      "summary_en": "Vasseur downplays Mexico GP expectations as Leclerc dominates Friday sessions and Hamilton remains competitive."
+    },
     {
       "id": "9ce9bef12b06",
       "title": "George Russell tips Frederik Vesti for F1 2027 Cadillac seat",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a déclaré qu'il continuera en Formule 1 tant qu'il restera compétitif, tout en évoquant la perspective du Grand Prix d'Afrique, prévu en 2030 au Rwanda.",
       "summary_en": "Lewis Hamilton said he will stay in Formula 1 as long as he remains competitive, while noting the upcoming African Grand Prix set for 2030 in Rwanda."
-    },
-    {
-      "id": "72f32e14e8f3",
-      "title": "\"Slippery as hell\" – Max Verstappen and Isack Hadjar explain the \"extreme\" challenge of Mexico",
-      "title_fr": "Verstappen et Hadjar décrivent le défi extrême du Mexique",
-      "title_en": "Verstappen and Hadjar explain Mexico's extreme challenge",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/slippery-as-hell-max-verstappen-and-isack-hadjar-explain-the-extreme-challenge-of-mexico/10869483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7Q4e96/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-10-30T15:30:02+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le weekend de F1 à l'Autodrome Hermanos Rodríguez se révèle particulièrement difficile pour pilotes, constructeurs et équipes, notamment à cause du retard de turbo et de l'altitude élevée.",
-      "summary_en": "The F1 weekend at the Hermanos Rodríguez circuit is proving a tough test for drivers, teams and engine makers, especially due to turbo lag and the high altitude."
-    },
-    {
-      "id": "d86f36813d08",
-      "title": "Sergio Perez praises Colton Herta impact - but has no say over 2027 Cadillac F1 team-mate choice",
-      "title_fr": "Perez refuse d'influencer le choix de son coéquipier Cadillac 2027",
-      "title_en": "Perez says he will have no say over 2027 Cadillac teammate",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0kZXl3D6/s6/valtteri-bottas-cadillac-sergi.jpg",
-      "published_at": "2026-10-30T14:30:02+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Sergio Pérez a signé un nouveau contrat avant le Grand Prix du Mexique et a déclaré qu'il n'aurait aucune influence sur le choix de son coéquipier Cadillac pour 2027.",
-      "summary_en": "Sergio Pérez signed a new contract ahead of the Mexican Grand Prix and said he would have no say in choosing his 2027 Cadillac teammate."
-    },
-    {
-      "id": "27e7cdbb5e82",
-      "title": "Why “ignorance is a superpower” for Kimi Antonelli, according to Daniel Ricciardo",
-      "title_fr": "Ricciardo explique pourquoi l'ignorance fait briller Antonelli",
-      "title_en": "Ricciardo says ignorance fuels Antonelli's success",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-ignorance-is-a-superpower-for-kimi-antonelli-according-to-daniel-ricciardo/10869339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/2wlKjwqY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-30T13:30:04+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo affirme que l'âge et l'innocence de Kimi Antonelli sont la clé de son succès en 2026. Le pilote Mercedes compte déjà neuf victoires.",
-      "summary_en": "Daniel Ricciardo says Kimi Antonelli’s age and innocence are why he’s thriving in 2026, with nine wins already. The Mercedes driver needs only a ninth place in Mexico to secure the title."
-    },
-    {
-      "id": "0178edc6b2cc",
-      "title": "Why “ignorance is a superpower” for Antonelli in F1",
-      "title_fr": "Ricciardo: l'ignorance d'Antonelli, son super-pouvoir",
-      "title_en": "Ricciardo: Antonelli's ignorance is his superpower",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/10869685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXN3o6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-10-30T13:30:04+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo estime que l'âge et l'innocence de Kimi Antonelli expliquent ses neuf victoires en 2026. Le pilote Mercedes est à portée de titre mondial, avec le Mexique qui lui reste à gagner.",
-      "summary_en": "Daniel Ricciardo says Kimi Antonelli's age and innocence explain his nine wins in 2026. The Mercedes driver is on the brink of a world title, needing a ninth-place finish in Mexico."
-    },
-    {
-      "id": "4d67fbb76752",
-      "title": "Isack Hadjar admits after criticising Red Bull: \"There's stuff that I should have kept for myself\"",
-      "title_fr": "Hadjar critique Red Bull après le Grand Prix des États-Unis",
-      "title_en": "Hadjar Criticizes Red Bull After US GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-admits-after-criticising-red-bull-theres-stuff-that-i-should-have-kept-for-myself/10869496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2GdK4w1Y/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-10-30T10:47:31+00:00",
-      "race_id": "usa",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a critiqué l'exécution de Red Bull après le Grand Prix des États-Unis, citant des problèmes de radio et de départs. Le pilote a déclaré qu'il aurait dû garder certaines remarques pour lui.",
-      "summary_en": "Isack Hadjar criticized Red Bull's execution after the US Grand Prix, citing radio and start issues. He said he should have kept some remarks to himself."
     }
   ]
 }
