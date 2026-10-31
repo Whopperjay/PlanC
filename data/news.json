@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T04:26:38Z",
+  "last_updated": "2026-10-31T07:28:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -20,6 +20,25 @@
       "is_breaking": false,
       "summary_fr": "Les commissaires ont infligé des pénalités à Max Verstappen et Liam Lawson pour un affrontement inacceptable lors de la séance de pratique du Grand Prix de Mexico. Les deux pilotes perdent des places sur la grille.",
       "summary_en": "Stewards handed penalties to Max Verstappen and Liam Lawson after an unacceptable clash during Mexico GP practice. Both drivers will lose grid positions."
+    },
+    {
+      "id": "e4611143e283",
+      "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
+      "title_fr": "Verstappen et Lawson sanctionnés après collision en pratique",
+      "title_en": "Verstappen and Lawson penalised after practice collision",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fd/live/fec5d270-d4c1-11f1-93e1-3b657b665bcf.jpg",
+      "published_at": "2026-10-31T03:18:06+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a reproché à Liam Lawson un comportement peu avisé après leur collision lors de la séance de pratique du Grand Prix de Mexico. Les deux pilotes reçoivent des pénalités de grille.",
+      "summary_en": "Max Verstappen blamed Liam Lawson for a 'not very smart' move after their collision in Friday's practice at the Mexico City Grand Prix. Both drivers will receive grid penalties."
     },
     {
       "id": "3d40cabc4091",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton déclare qu'il est incomparable à tout pilote de Formule 1 et réaffirme sa volonté de continuer à courir jusqu'à la mi-quarantaine.",
       "summary_en": "Lewis Hamilton says he is unlike any Formula 1 driver and reaffirms his determination to keep racing into his mid-forties."
-    },
-    {
-      "id": "99554868d009",
-      "title": "‘Not much more I could have done’ about ‘horrible’ title defence – Norris | Formula 1",
-      "title_fr": "Norris félicite Antonelli, heureux de le voir succéder",
-      "title_en": "Norris congratulates Antonelli, happy to see him succeed",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/not-much-more-i-could-have-done-about-horrible-title-defence-norris/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-22-16-22-22-2-2301539962.jpg",
-      "published_at": "2026-10-30T07:16:35+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a félicité Andrea Kimi Antonelli, heureux de le voir succéder en champion du monde après une saison exceptionnelle.",
-      "summary_en": "Lando Norris congratulated Andrea Kimi Antonelli, happy to see him succeed as world champion after an outstanding season."
     }
   ]
 }
