@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-10-31T19:36:32Z",
+  "last_updated": "2026-10-31T22:38:30Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "51218f87ffaa",
+      "title": "Hirakawa surprised by call-up to replace Ocon but disappointed by qualifying result | Formula 1",
+      "title_fr": "Hirakawa surpris par son appel à la place d'Ocon, déçu par la qualification",
+      "title_en": "Hirakawa surprised by call-up to replace Ocon, disappointed by qualifying result",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/31/hirakawa-surprised-by-call-up-to-replace-ocon-but-disappointed-by-qualifying-result/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-12-22-57-1.jpg",
+      "published_at": "2026-10-31T22:35:10+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Ryo Hirakawa a été très surpris d'être appelé à remplacer Esteban Ocon chez Haas, mais il a déçu en ne franchissant pas le Q2 lors de la séance de qualification",
+      "summary_en": "Ryo Hirakawa was very surprised to be called up to replace Esteban Ocon at Haas, but he was disappointed after failing to reach Q2 in qualifying"
+    },
+    {
+      "id": "b21214288f7d",
+      "title": "2026 F1 Mexico Grand Prix starting grid",
+      "title_fr": "Hamilton, Russell, Leclerc et Kimi sur le grid du Mexique 2026",
+      "title_en": "Hamilton, Russell, Leclerc and Kimi on the 2026 Mexico GP grid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/2026-f1-mexico-grand-prix-starting-grid/10870302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNjZb2/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-10-31T22:32:06+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton ouvre le grid du Grand Prix du Mexique 2026, suivi de George Russell, Charles Leclerc et Kimi. Les pilotes Ferrari et Mercedes se préparent pour la course.",
+      "summary_en": "Lewis Hamilton leads the 2026 Mexico GP grid, followed by George Russell, Charles Leclerc and Kimi. Ferrari and Mercedes drivers are ready for the race."
+    },
+    {
+      "id": "dc6f9a2165b4",
+      "title": "F1 Mexico GP: Hamilton takes pole from Russell and Leclerc",
+      "title_fr": "Hamilton remporte le pole du Mexique, battant Russell et Leclerc",
+      "title_en": "Hamilton takes Mexico pole, beating Russell and Leclerc",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-lewis-hamilton-beats-george-russell-and-charles-leclerc-to-pole/10870295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVjz7vY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-31T22:21:54+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a décroché le premier pole de la saison 2026 pour Ferrari en battant George Russell et Charles Leclerc lors du Grand Prix du Mexique. La différence était de 0,009 seconde.",
+      "summary_en": "Lewis Hamilton secured Ferrari's first pole of the 2026 season at the Mexico Grand Prix, beating George Russell and Charles Leclerc by a razor‑thin 0.009 seconds."
+    },
+    {
+      "id": "48c1e8d2be12",
+      "title": "F1 Mexico GP: Lewis Hamilton beats George Russell and Charles Leclerc to pole",
+      "title_fr": "F1 Mexico GP: Lewis Hamilton beats George Russell and Charles Leclerc to pole",
+      "title_en": "F1 Mexico GP: Lewis Hamilton beats George Russell and Charles Leclerc to pole",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-quali-report/10870286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwRpQ2/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-31T22:19:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton has earned Ferrari its first pole of the 2026 Formula 1 campaign by defeating George Russell in a thrilling qualifying shootout for the Mexico Grand Prix.<br />Russell had taken provisi",
+      "summary_en": "Lewis Hamilton has earned Ferrari its first pole of the 2026 Formula 1 campaign by defeating George Russell in a thrilling qualifying shootout for the Mexico Grand Prix.<br />Russell had taken provisi"
+    },
+    {
+      "id": "37ac26c6cb5b",
+      "title": "Max Verstappen will have no say in 2027 Racing Bulls driver line-up, says Red Bull boss",
+      "title_fr": "Red Bull confie la sélection 2027 à Racing Bulls, sans l'avis de Verstappen",
+      "title_en": "Red Bull hands 2027 driver lineup to Racing Bulls, no input from Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-will-have-no-say-in-2027-racing-bulls-driver-line-up-says-red-bull-boss/10870282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QprX6/s6/motorsport-com-graphics-37.jpg",
+      "published_at": "2026-10-31T21:24:15+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Laurent Mekies a annoncé que Racing Bulls décidera seul de la composition de l'équipe en 2027, excluant Max Verstappen de toute décision, malgré son altercation avec Liam Lawson au Mexique",
+      "summary_en": "Laurent Mekies said Racing Bulls will solely decide the 2027 driver lineup, excluding Max Verstappen from any input, despite his clash with Liam Lawson at the Mexican Grand Prix"
+    },
     {
       "id": "dcf971616d18",
       "title": "Norris beats Antonelli by a thousandth of a second in final practice | Formula 1",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Les rumeurs sur le contrat d'Oliver Bearman ont suscité l'absurdité, alors que Haas confirme la sortie d'Esteban Ocon et l'arrivée de Rafael Camara. Le pilote reste hors contrat, mais aucune confirmation officielle n'a été donnée.",
       "summary_en": "Rumours about Oliver Bearman's contract have sparked absurdity, as Haas confirms Esteban Ocon's exit and Rafael Camara's arrival. The driver remains out of contract, but no official confirmation has been issued."
-    },
-    {
-      "id": "13d3d40f399e",
-      "title": "Red Bull F1 boss Laurent Mekies hits back at Christian Horner's \"lost its mojo\" claim",
-      "title_fr": "Mekies défend Red Bull face à la critique de Horner",
-      "title_en": "Mekies defends Red Bull against Horner's 'mojo' claim",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8Zro6/s6/motorsport-com-graphics-34.jpg",
-      "published_at": "2026-10-30T21:30:38+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies, directeur général de Red Bull Racing, a rejeté les propos de Christian Horner selon lesquels l’équipe aurait perdu son mojo depuis son départ. Il affirme que l’esprit de l’équipe a conduit à une remontée remarquable.",
-      "summary_en": "Laurent Mekies, Red Bull Racing CEO, rebuts Christian Horner's claim that the team lost its mojo after his exit. He says the team's spirit has driven a remarkable turnaround."
-    },
-    {
-      "id": "813c2de9fe56",
-      "title": "Red Bull reveals when its long-awaited new F1 wind tunnel will be operational",
-      "title_fr": "Red Bull dévoile la date de mise en service de son nouveau tunnel à vent",
-      "title_en": "Red Bull reveals when its new wind tunnel will be operational",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-reveals-when-its-long-awaited-new-f1-wind-tunnel-will-be-operational/10869820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwReX2/s6/motorsport-com-graphics-48.jpg",
-      "published_at": "2026-10-30T21:28:32+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a annoncé que son nouveau tunnel à vent à Milton Keynes ne sera opérationnel qu'au cours de la saison 2027, remplaçant celui de Bedford.",
-      "summary_en": "Red Bull has confirmed that its new wind tunnel in Milton Keynes will not be operational until the 2027 season, replacing the current Bedford facility."
-    },
-    {
-      "id": "6fff33b5fed5",
-      "title": "Guenther Steiner warns Mercedes will make \"changes\" if George Russell struggles in 2027",
-      "title_fr": "Steiner prévient Mercedes de possibles changements si Russell échoue en 2027",
-      "title_en": "Steiner warns Mercedes of possible changes if Russell struggles in 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-mercedes-will-make-changes-if-george-russell-struggles-in-2027/10869809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKOABY/s6/motorsport-com-graphics-33.jpg",
-      "published_at": "2026-10-30T20:53:39+00:00",
-      "race_id": "china",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de l'ancienne équipe Haas, Guenther Steiner, a déclaré que Mercedes pourrait revoir son équipe de pilotes si George Russell ne progresse pas d'ici la fin de 2026. Le pilote est déjà en difficulté face à Kimi Antonelli.",
-      "summary_en": "Former Haas chief Guenther Steiner warned that Mercedes might change its driver lineup if George Russell fails to improve by the end of 2026, as Russell struggles against Kimi Antonelli."
-    },
-    {
-      "id": "a265b4decd94",
-      "title": "Bottas ‘needs to do’ more weekends like Austin to keep Cadillac seat – Budkowski | Formula 1",
-      "title_fr": "Bottas doit faire plus de courses comme Austin pour garder son siège chez Cadillac",
-      "title_en": "Bottas must deliver more Austin‑style weekends to keep his Cadillac seat",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/bottas-needs-to-do-more-weekends-like-austin-to-keep-cadillac-seat-says-budkowski/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-20-49-22-1.jpg",
-      "published_at": "2026-10-30T20:50:22+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique de Cadillac, Marcin Budkowski, a déclaré que Valtteri Bottas doit reproduire la performance d'Austin pour conserver son poste, alors que le pilote de test Colton Herta devient éligible à une super licence.",
-      "summary_en": "Cadillac team principal Marcin Budkowski said Valtteri Bottas must replicate the Austin performance to keep his seat, as test driver Colton Herta becomes eligible for a super licence."
-    },
-    {
-      "id": "bcf0b2a5b283",
-      "title": "Leclerc puts Ferrari on top in practice again in Mexico | Formula 1",
-      "title_fr": "Leclerc puts Ferrari on top in practice again in Mexico | Formula 1",
-      "title_en": "Leclerc puts Ferrari on top in practice again in Mexico | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/leclerc-puts-ferrari-on-top-in-practice-again-in-mexico/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-20-29-06-1-261023_R18_USA_AC_CAT5150.jpg",
-      "published_at": "2026-10-30T19:43:03+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc started the Mexican Grand Prix on top by setting the fastest time in the opening practice session.",
-      "summary_en": "Charles Leclerc started the Mexican Grand Prix on top by setting the fastest time in the opening practice session."
     }
   ]
 }
