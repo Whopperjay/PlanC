@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-30T22:22:44Z",
+  "last_updated": "2026-10-31T01:24:46Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5219e5cc2b84",
+      "title": "Mexican GP includes Lewis Hamilton's beloved Roscoe in touching tribute to F1 legends",
+      "title_fr": "Roscoe, le chien de Hamilton, honoré aux côtés de Senna et Ferrari au Mexique",
+      "title_en": "Hamilton's dog Roscoe honored alongside Senna and Ferrari at Mexican GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2dEoOpBY/s6/motorsport-com-graphics-36.jpg",
+      "published_at": "2026-10-31T01:07:42+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix du Mexique a installé un hommage du Jour des Morts dans le paddock, où le chien de Lewis Hamilton, Roscoe, partage la scène avec des légendes comme Ayrton Senna et Enzo Ferrari.",
+      "summary_en": "The Mexican Grand Prix set up a Day of the Dead tribute in the paddock, featuring Lewis Hamilton’s bulldog Roscoe alongside F1 legends such as Ayrton Senna and Enzo Ferrari."
+    },
+    {
+      "id": "19b0e6102b92",
+      "title": "Lewis Hamilton makes confident Ferrari statement despite Mexican GP technical problems",
+      "title_fr": "Hamilton confiant sur les chances de Ferrari malgré les problèmes techniques",
+      "title_en": "Hamilton confident in Ferrari's chances despite technical issues",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-confident-ferrari-statement-despite-mexican-gp-technical-problems/10869895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyZda6/s6/motorsport-com-graphics-50-2.jpg",
+      "published_at": "2026-10-31T00:43:35+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton estime que Ferrari peut réellement viser la pole position au Grand Prix du Mexique, même après les soucis techniques rencontrés en deuxième séance de formation.",
+      "summary_en": "Lewis Hamilton believes Ferrari can realistically fight for pole at the Mexican Grand Prix, even after technical issues in second practice."
+    },
+    {
+      "id": "43170792a0c4",
+      "title": "F1 Mexico GP: Saturday schedule, weather forecast and how to watch",
+      "title_fr": "Leclerc en tête des essais, météo du samedi à Mexico",
+      "title_en": "Leclerc tops Friday practice, Saturday weather in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-saturday-schedule-weather-forecast-and-how-to-watch/10869882/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15REr0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-10-31T00:11:58+00:00",
+      "race_id": null,
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a mené les deux séances d’essais du vendredi à l’Autodromo Hermanos Rodríguez, battant Lando Norris de 0,103 s. Le pilote de la Red Bull, Kimi Antonelli, est quatrième, suivi de Max Verstappen.",
+      "summary_en": "Charles Leclerc topped both Friday practice sessions at the Autodromo Hermanos Rodríguez, beating Lando Norris by 0.103 s. Championship leader Kimi Antonelli finished fourth, with Max Verstappen just behind."
+    },
+    {
+      "id": "ff91db0e4193",
+      "title": "Max Verstappen sends blunt warning to Liam Lawson after Mexican GP FP2 clash",
+      "title_fr": "Verstappen réprimande Lawson après l'accident FP2 au Mexique",
+      "title_en": "Verstappen warns Lawson after FP2 clash at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-sends-blunt-warning-to-liam-lawson-after-mexican-gp-fp2-clash/10869877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKB1d6/s6/motorsport-com-graphics-35.jpg",
+      "published_at": "2026-10-30T23:56:12+00:00",
+      "race_id": "mexico",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a critiqué Liam Lawson après leur collision lors de la deuxième séance d'essais libres du Grand Prix du Mexique, le déclarant « pas très intelligent ». Le pilote Red Bull a averti Lawson de la gravité de son comportement.",
+      "summary_en": "Max Verstappen criticized Liam Lawson after their collision in the second free-practice session at the Mexican Grand Prix, calling it \"not very smart\". The Red Bull driver warned Lawson about the seriousness of his conduct."
+    },
+    {
+      "id": "654bf3dd9cae",
+      "title": "Max Verstappen slams Liam Lawson for FP2 clash at F1 Mexico GP",
+      "title_fr": "Verstappen critique Lawson après l'accident FP2",
+      "title_en": "Verstappen slams Lawson after FP2 clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-slams-liam-lawson-for-f1-mexico-gp-fp2-clash/10869875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6zoDxQp0/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-30T23:55:54+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a reproché à Liam Lawson son manque de prudence lors de leur collision en FP2 du Grand Prix du Mexique. Le pilote de Red Bull a jugé l'action \"pas très intelligente\".",
+      "summary_en": "Max Verstappen criticized Liam Lawson for his lack of caution during their FP2 collision at the Mexican Grand Prix. The Red Bull driver called the move \"not very smart.\""
+    },
+    {
+      "id": "0ac7eca076dd",
+      "title": "Oscar Piastri: McLaren handled Mexico altitude “better than I was expecting”",
+      "title_fr": "Piastri : McLaren gère mieux l'altitude à Mexico",
+      "title_en": "Piastri: McLaren handled Mexico altitude better than expected",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-mclaren-handled-mexico-altitude-better-than-i-was-expecting/10869868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbA9ej0/s6/motorsport-com-graphics-49.jpg",
+      "published_at": "2026-10-30T23:39:07+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le pilote McLaren, Oscar Piastri, quitte la séance FP2 à Mexico avec un optimisme renouvelé, affirmant que la voiture a mieux réagi à l'altitude élevée qu'il ne l'avait anticipé, malgré une simulation de qualification désordonnée.",
+      "summary_en": "McLaren driver Oscar Piastri leaves FP2 in Mexico City with renewed optimism, saying the car handled the high altitude better than expected, despite a messy qualifying simulation."
+    },
+    {
+      "id": "d9762d182b11",
+      "title": "The confusion surrounding Colton Herta's F1 superlicence explained",
+      "title_fr": "Herta : 40 points de superlicence, mais pas suffisant",
+      "title_en": "Herta's 40 Super Licence Points: Still Not Enough",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-confusion-surrounding-colton-hertas-f1-superlicence-explained/10869858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvxRvY/s6/colton-herta-cadillac-racing-2.jpg",
+      "published_at": "2026-10-30T23:22:54+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta a accumulé 40 points de superlicence lors de la première séance de qualification du Grand Prix du Mexique, mais la FIA indique qu’il lui manque encore un point pour obtenir le document requis.",
+      "summary_en": "Colton Herta earned 40 super-licence points during the first free-practice session at the Mexican Grand Prix, yet the FIA says he still needs one more point to qualify for the required document."
+    },
+    {
+      "id": "19c807f6e98b",
+      "title": "Colton Herta's F1 superlicence confusion explained: why he's still one point short",
+      "title_fr": "Herta : la confusion sur sa superlicence expliquée",
+      "title_en": "Herta's Superlicence Confusion Explained",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/colton-hertas-f1-superlicence-confusion-explained-why-hes-still-one-point-short/10869856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8vxd6/s6/colton-herta-hitech.jpg",
+      "published_at": "2026-10-30T23:20:30+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta a accumulé 40 points de superlicence lors de la première séance de qualification du Grand Prix du Mexique, mais il lui manque encore un point pour valider son dossier. La FIA a clarifié les critères de comptage.",
+      "summary_en": "Colton Herta earned 40 superlicence points during the first free‑practice session at the Mexican Grand Prix, yet he still falls one point short of the required total. The FIA clarified the point‑counting rules."
+    },
+    {
+      "id": "8dca679d4f41",
+      "title": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
+      "title_fr": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
+      "title_en": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-pips-mclaren-and-mercedes-to-top-fp2/10869852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZxbA9Y/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-10-30T23:08:22+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc completed a perfect Friday at the Mexico Grand Prix after topping the second Formula 1 practice session, in spite of Ferrari team-mate Lewis Hamilton retiring. <br />The Monegasque top",
+      "summary_en": "Charles Leclerc completed a perfect Friday at the Mexico Grand Prix after topping the second Formula 1 practice session, in spite of Ferrari team-mate Lewis Hamilton retiring. <br />The Monegasque top"
+    },
+    {
+      "id": "6da738b70ea8",
+      "title": "F1 Mexico GP: Charles Leclerc pips McLaren and Mercedes to top FP2",
+      "title_fr": "Leclerc domine la FP2 du Grand Prix du Mexique",
+      "title_en": "Leclerc tops Mexico GP FP2",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp2-report-10869841/10869841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxbA9Y/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-10-30T23:07:33+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a terminé premier lors de la deuxième séance de formation du Grand Prix du Mexique, battant Lando Norris et Lewis Hamilton. Le pilote Ferrari a réduit son temps de 1m18.128s à 1m17.827s",
+      "summary_en": "Charles Leclerc topped the second practice session at the Mexico Grand Prix, beating Lando Norris and Lewis Hamilton. The Ferrari driver cut his time from 1m18.128s to 1m17.827s"
+    },
     {
       "id": "51fc5d265ee9",
       "title": "What's behind \"absolute nonsense\" Oliver Bearman contract rumours",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen estime qu'il est normal que les pilotes et le personnel tombent malades à ce stade de la saison, après que deux pilotes aient manqué la journée médiatique à Mexico.",
       "summary_en": "Max Verstappen says it's normal for drivers and team members to fall ill at this stage of the season, after two drivers missed Thursday's media day in Mexico City."
-    },
-    {
-      "id": "2cbe713d649a",
-      "title": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
-      "title_fr": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
-      "title_en": "Max Verstappen jokes about Daniel Ricciardo's Le Mans ambition: \"He's a smart man picking me!\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-daniel-ricciardos-le-mans-ambition-hes-a-smart-man-picking-me/10869461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6D19opJ0/s6/daniel-ricciardo-third-driver-.jpg",
-      "published_at": "2026-10-29T22:36:58+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen has joked that former Red Bull team-mate Daniel Ricciardo is a \"smart man\" for picking him in a potential trio for a future Le Mans 24 Hour challenge.<br />Ricciardo has not taken part ",
-      "summary_en": "Max Verstappen has joked that former Red Bull team-mate Daniel Ricciardo is a \"smart man\" for picking him in a potential trio for a future Le Mans 24 Hour challenge.<br />Ricciardo has not taken part "
-    },
-    {
-      "id": "b00ededd7418",
-      "title": "Max Verstappen responds to Daniel Ricciardo’s Le Mans dream team call",
-      "title_fr": "Verstappen se moque de Ricciardo pour le Le Mans",
-      "title_en": "Verstappen jokes about Ricciardo's Le Mans dream team",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-daniel-ricciardos-le-mans-dream-team-call/10869457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0o5A8GxY/s6/motorsport-com-graphics-45.jpg",
-      "published_at": "2026-10-29T22:36:10+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a plaisanté en déclarant que Daniel Ricciardo, qui l’a sélectionné pour son équipe de rêve du 24 Heures du Mans, est un homme intelligent. Les deux pilotes ont déjà évoqué cette collaboration.",
-      "summary_en": "Max Verstappen joked that Daniel Ricciardo, who picked him for his dream Le Mans lineup, is a smart man. The two drivers had already discussed the possibility."
-    },
-    {
-      "id": "5738151a30ce",
-      "title": "Alex Albon dismisses Fernando Alonso criticism: 'F1 has no more pay drivers'",
-      "title_fr": "Albon rejette les critiques d'Alonso sur l'accident d'Austin",
-      "title_en": "Albon dismisses Alonso's criticism over Austin clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/alex-albon-dismisses-fernando-alonso-criticism-f1-has-no-more-pay-drivers/10869451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0o5A8v7Y/s6/alexander-albon-williams-ferna.jpg",
-      "published_at": "2026-10-29T22:21:29+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Alex Albon a rejeté les reproches de Fernando Alonso suite à leur collision à Austin, affirmant que la F1 ne compte plus de pilotes payés. Le pilote Aston Martin a jugé les accusations de l'Espagnol infondées.",
-      "summary_en": "Alex Albon dismissed Fernando Alonso's criticism after their clash at Austin, saying the F1 grid no longer has pay drivers. The Aston Martin driver called the Spaniard's claims unfounded."
-    },
-    {
-      "id": "d5a059c67627",
-      "title": "Herta or Bottas for 2027 seat is “not an easy decision” for Cadillac, says Perez | Formula 1",
-      "title_fr": "Cadillac hésite entre Herta et Bottas pour 2027",
-      "title_en": "Cadillac weighs Herta vs Bottas for 2027 seat",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/29/herta-or-bottas-for-2027-seat-is-not-an-easy-decision-for-cadillac-says-perez/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-29-21-56-41-1-CadillacF1Team_6950_HiRes.jpg",
-      "published_at": "2026-10-29T22:05:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Sergio Pérez a déclaré que Cadillac doit choisir entre Valtteri Bottas et Colton Herta pour son coéquipier 2027. Le choix reste difficile pour l’équipe.",
-      "summary_en": "Sergio Pérez says Cadillac faces a tough decision between Valtteri Bottas and Colton Herta for its 2027 teammate."
-    },
-    {
-      "id": "04999790f8b4",
-      "title": "Charles Leclerc defends Alex Albon after Fernando Alonso's scathing criticism",
-      "title_fr": "Leclerc défend Albon après la critique d'Alonso",
-      "title_en": "Leclerc defends Albon after Alonso's criticism",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-defends-alex-albon-after-fernando-alonsos-scathing-criticism/10869433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YK158Jb0/s6/motorsport-com-graphics-31.jpg",
-      "published_at": "2026-10-29T21:40:35+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc défend Alex Albon après que Fernando Alonso ait critiqué la qualité de conduite des pilotes de la troisième rangée. Leclerc affirme que le niveau est très élevé sur tout le grid.",
-      "summary_en": "Charles Leclerc defended Alex Albon after Fernando Alonso criticized the driving quality of the back-row cars. Leclerc said the level is very high across the grid."
-    },
-    {
-      "id": "f5501509e56d",
-      "title": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
-      "title_fr": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
-      "title_en": "Charles Leclerc reveals what he really wants from final five F1 races of 2026",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2GdK4JKY/s6/motorsport-com-graphics-44.jpg",
-      "published_at": "2026-10-29T21:34:31+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari's Charles Leclerc says he is “not obsessed” with finishing second in the Formula 1 drivers’ championship, despite being just nine points off the position with five races to go.<br />While Kimi",
-      "summary_en": "Ferrari's Charles Leclerc says he is “not obsessed” with finishing second in the Formula 1 drivers’ championship, despite being just nine points off the position with five races to go.<br />While Kimi"
-    },
-    {
-      "id": "2f22db90a03a",
-      "title": "George Russell makes defiant Mercedes statement as Kimi Antonelli nears world title",
-      "title_fr": "Russell défie la saison 2026 en affirmant ses 12-15 ans de carrière",
-      "title_en": "Russell defies 2026 season, vows 12-15 years of racing",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-defiant-difficult-f1-season-is-not-going-to-break-me/10869421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7QV5g6/s6/motorsport-com-graphics-43.jpg",
-      "published_at": "2026-10-29T21:10:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell affirme qu'il a encore 12 à 15 ans de carrière, malgré une saison 2026 fluctuante. Il est deuxième du championnat, 123 points derrière Kimi Antonelli, qui peut remporter son premier titre ce week-end.",
-      "summary_en": "George Russell says he still has 12 to 15 years of racing ahead, despite a shaky 2026 season. He sits second in the standings, 123 points behind Kimi Antonelli, who could win his first title this weekend."
-    },
-    {
-      "id": "f5e01ef35225",
-      "title": "George Russell warns Ferrari could have major advantage at Mexican GP",
-      "title_fr": "Russell prédit un avantage Ferrari au Mexique",
-      "title_en": "Russell predicts Ferrari advantage at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-warns-ferrari-could-have-major-advantage-at-mexican-gp/10869423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lN4yx2/s6/motorsport-com-graphics-30.jpg",
-      "published_at": "2026-10-29T21:09:42+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell, pilote Mercedes, estime que le turbo plus petit de Ferrari pourrait lui donner un avantage majeur sur le circuit d'Autódromo Hermanos Rodríguez, à plus de 2200 mètres d'altitude.",
-      "summary_en": "Mercedes driver George Russell believes Ferrari's smaller turbo could give it a major advantage at the high-altitude Autódromo Hermanos Rodríguez in Mexico City."
-    },
-    {
-      "id": "387c744d2c5e",
-      "title": "George Russell on F1 title loss: 'This year won't break me'",
-      "title_fr": "Russell affirme que la perte du titre ne le brisera pas",
-      "title_en": "Russell says title loss won't break him",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-on-f1-title-loss-this-year-wont-break-me/10869417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6Alv4doY/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-10-29T20:57:32+00:00",
-      "race_id": "uk",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell, favori pour le championnat, déclare que son manque de titre cette saison ne le définira pas et qu'il ne sera pas brisé par cette défaite. Le pilote britannique reste confiant.",
-      "summary_en": "George Russell, the championship favourite, says missing a title this season won't define him and he won't be broken by the loss. The British driver remains confident."
-    },
-    {
-      "id": "bb51b8c4c3a9",
-      "title": "Russell believes tyre pressures and less “efficient” driving style hurt him in 2026 | Formula 1",
-      "title_fr": "Russell accuse la pression des pneus et son style de conduite de freiner ses performances",
-      "title_en": "Russell blames tyre pressures and driving style for 2026 performance",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/29/russell-believes-tyre-pressures-and-less-efficient-driving-style-hurt-him-in-2026/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-10-24-58-1-M634943_F1_Grand_Prix_of_Bahrain_in_Malaysia_Qualifying.jpg",
-      "published_at": "2026-10-29T20:45:22+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell estime que la pression des pneus et son style de conduite moins efficace ont freiné ses performances en 2026. Il pointe ces deux facteurs comme les principaux obstacles à son potentiel avec son équipe.",
-      "summary_en": "George Russell says tyre pressures and a less efficient driving style have hampered his 2026 performance. He cites these two factors as the main obstacles to his potential with the team."
     }
   ]
 }
