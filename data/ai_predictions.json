@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T13:00:22Z",
-  "model": "claude",
+  "generated_at": "2026-10-31T01:25:38Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -114,28 +114,28 @@
       "session_date": "2026-10-31T21:00:00+00:00",
       "p1": "antonelli",
       "p2": "leclerc",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine la saison avec 123 points d'avance et Mercedes reste la référence en qualif. À Mexico, l'altitude réduit l'appui aérodynamique et met les moteurs à l'épreuve. Russell lui-même annonce un avantage Ferrari, ce qui fait de Leclerc, spécialiste du tour lancé, le principal rival. Russell devrait compléter le top 3 devant Hamilton et Verstappen.",
-      "reasoning_en": "Antonelli dominates the season with a 123-point lead, and Mercedes remains the benchmark in qualifying. In Mexico, the altitude cuts aerodynamic downforce and pushes engines hard. Russell himself expects a Ferrari advantage, which makes Leclerc, a one-lap specialist, the main threat. Russell should round out the top 3 ahead of Hamilton and Verstappen.",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli a dominé les qualifications à Austin et reste en tête du championnat, montrant une constance exceptionnelle. Leclerc, après avoir mené les essais à Mexico et exprimé une confiance totale, bénéficie d'une bonne adaptation à l'altitude. Verstappen, malgré son accident en FP2, conserve le rythme Red Bull et reste un concurrent redoutable, mais la perte de temps en FP2 le place légèrement de",
+      "reasoning_en": "Antonelli topped US qualifying and leads the championship, indicating strong one‑lap pace. Leclerc, after topping practice in Mexico and voicing confidence, appears well‑suited to the altitude. Verstappen, despite a FP2 incident, still has Red Bull's speed but the setback likely drops him a spot behind the two front‑runners.",
       "confidence": "medium",
-      "key_factor_fr": "Altitude : rendement moteur Mercedes face au rythme Ferrari annoncé",
+      "key_factor_fr": "Évolution de la piste + forme récente en qualif",
       "news_used_ids": [],
-      "generated_at": "2026-10-30T13:00:22Z"
+      "generated_at": "2026-10-31T01:25:37Z"
     },
     {
       "event_id": "mexico_city_grand_prix",
       "race_id": "mexico_city",
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
-      "p1": "leclerc",
-      "p2": "antonelli",
-      "p3": "hamilton",
-      "reasoning_fr": "Ferrari brille historiquement à Mexico : victoire Sainz et pole Leclerc en 2024, et Russell lui-même prédit l'avantage Ferrari. L'altitude réduit l'appui et pèse sur le refroidissement, ce qui rebat les cartes avec les règles 2026. Antonelli, leader très régulier, limite les dégâts. Hamilton, quintuple vainqueur ici, complète le podium devant Verstappen.",
-      "reasoning_en": "Ferrari has a strong Mexico record: Sainz won and Leclerc took pole in 2024, and Russell himself predicts a Ferrari advantage. The altitude cuts downforce and strains cooling, which shakes up the order under the 2026 rules. Antonelli, the consistent championship leader, limits the damage. Hamilton, a five-time winner here, completes the podium ahead of Verstappen.",
-      "confidence": "medium",
-      "key_factor_fr": "Altitude extrême favorable à Ferrari, selon Russell lui-même",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "leclerc",
+      "reasoning_fr": "Antonelli part en pole, son rythme exceptionnel en qualification et sa domination au championnat le placent en tête. Au Mexique, l’altitude favorise les moteurs turbo‑hybrides de Red Bull, permettant à Verstappen de rester très compétitif, surtout avec une stratégie de pneus à deux arrêts bien maîtrisée. Leclerc, en tête des essais et bénéficiant d’une bonne adaptation à l’altitude, devrait tenir ",
+      "reasoning_en": "Antonelli starts from pole, his superb one‑lap pace in qualifying and his championship dominance put him in the lead. Mexico’s altitude benefits the turbo‑hybrid power units of Red Bull, allowing Verstappen to stay highly competitive, especially with a well‑executed two‑stop tyre plan. Leclerc topped the practice sessions and has shown strong altitude adaptation, so he should secure third, Ferrari",
+      "confidence": "high",
+      "key_factor_fr": "Grille de départ, altitude et stratégie pneus",
       "news_used_ids": [],
-      "generated_at": "2026-10-30T13:00:14Z"
+      "generated_at": "2026-10-31T01:25:25Z"
     }
   ]
 }
