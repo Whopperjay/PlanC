@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-10-31T10:30:34Z",
+  "last_updated": "2026-10-31T13:32:34Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "9ce9bef12b06",
+      "title": "George Russell tips Frederik Vesti for F1 2027 Cadillac seat",
+      "title_fr": "Russell pointe Vesti comme prétendant à la place Cadillac 2027",
+      "title_en": "Russell names Vesti as Cadillac 2027 contender",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-frederik-vesti-deserves-cadillac-seat-for-f1-2027/10870111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YpbAB5A0/s6/frederik-vesti-mercedes.jpg",
+      "published_at": "2026-10-31T13:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a désigné le pilote de réserve Mercedes Frederik Vesti comme un prétendant surprenant pour la place Cadillac 2027. La marque américaine n’a pas encore confirmé Valtteri Bottas comme coéquipier de Sergio Pérez.",
+      "summary_en": "George Russell has named Mercedes reserve driver Frederik Vesti as a shock contender for the 2027 Cadillac seat. The American outfit has yet to confirm Valtteri Bottas as Sergio Pérez’s teammate."
+    },
+    {
+      "id": "5cc2c9d182cc",
+      "title": "Red Bull finds ‘disconnect’ in RB22 in F1 Mexico GP practice",
+      "title_fr": "Red Bull détecte un problème de connectivité sur le RB22 à Mexico",
+      "title_en": "Red Bull spots RB22 connectivity issue in Mexico practice",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-finds-disconnect-in-rb22-in-f1-mexico-gp-practice/10870035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0LdejdJ0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-31T12:00:04+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a constaté un problème de connectivité sur le RB22 après les séances de pratique de Mexico. Verstappen a terminé cinquième, trois dixièmes de seconde derrière, malgré les dégâts d'un incident avec Liam Lawson.",
+      "summary_en": "Red Bull identified a connectivity issue with the RB22 after Mexico City practice sessions. Verstappen finished fifth, three-tenths of a second slower, despite damage from a collision with Liam Lawson."
+    },
+    {
+      "id": "46fb50df4c6f",
+      "title": "Lewis Hamilton \"praying\" for Ferrari power unit after Mexico FP2 failure",
+      "title_fr": "Lewis Hamilton \"praying\" for Ferrari power unit after Mexico FP2 failure",
+      "title_en": "Lewis Hamilton \"praying\" for Ferrari power unit after Mexico FP2 failure",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-praying-for-ferrari-power-unit-after-mexico-fp2-failure/10870069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEV9G2/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-31T10:41:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton has been left “praying” for his Ferrari power unit after it caused an early retirement in second practice for the Formula 1 Mexico Grand Prix.<br />The seven-time world champion suddenl",
+      "summary_en": "Lewis Hamilton has been left “praying” for his Ferrari power unit after it caused an early retirement in second practice for the Formula 1 Mexico Grand Prix.<br />The seven-time world champion suddenl"
+    },
+    {
+      "id": "62b254c347bc",
+      "title": "F1 fans rush to defend Isack Hadjar after controversial Mexican GP incident",
+      "title_fr": "F1 fans rush to defend Isack Hadjar after controversial Mexican GP incident",
+      "title_en": "F1 fans rush to defend Isack Hadjar after controversial Mexican GP incident",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-fans-defend-isack-hadjar-after-paddock-selfie-row-leads-to-fia-summons/10870067/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8Zdb6/s6/motorsport-com-graphics-51.jpg",
+      "published_at": "2026-10-31T10:34:30+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 fans have jumped to the defence of Isack Hadjar after the Red Bull driver was summoned to the stewards for alleged misconduct during the Mexican Grand Prix race weekend. This comes after he ",
+      "summary_en": "Formula 1 fans have jumped to the defence of Isack Hadjar after the Red Bull driver was summoned to the stewards for alleged misconduct during the Mexican Grand Prix race weekend. This comes after he "
+    },
     {
       "id": "9cf00e23bf07",
       "title": "Isack Hadjar summoned to Mexico GP stewards for \"misconduct\" in F1 paddock",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar a critiqué l'exécution de Red Bull après le Grand Prix des États-Unis, citant des problèmes de radio et de départs. Le pilote a déclaré qu'il aurait dû garder certaines remarques pour lui.",
       "summary_en": "Isack Hadjar criticized Red Bull's execution after the US Grand Prix, citing radio and start issues. He said he should have kept some remarks to himself."
-    },
-    {
-      "id": "4eb215461eee",
-      "title": "‘There’s no pay drivers now’: Alonso’s rivals reject his criticism of ‘one-third’ of the grid | Formula 1",
-      "title_fr": "Alonso critique la grille, ses rivaux restent sceptiques",
-      "title_en": "Alonso criticises grid, rivals remain skeptical",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/theres-no-pay-drivers-now-alonsos-rivals-reject-his-criticism-of-one-third-of-the-grid/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-23-12-26-33-3-2301660665.jpg",
-      "published_at": "2026-10-30T10:15:13+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso accuse un tiers de la grille de conduite très faible, mais ses rivaux ne partagent pas son opinion.",
-      "summary_en": "Fernando Alonso accuses a third of the grid of very low driving standards, but his rivals do not share his view."
-    },
-    {
-      "id": "d8ba2de9ba5d",
-      "title": "Why F1 teams and manufacturers face more unknowns in Mexico than ever",
-      "title_fr": "Altitude extrême : les équipes F1 confrontées à de nouveaux défis au Mexique",
-      "title_en": "High Altitude: F1 Teams Face New Challenges in Mexico",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-f1-teams-and-manufacturers-face-more-unknowns-in-mexico-than-ever/10869626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7ZZ84Y/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-30T09:58:09+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "L'Autodrome Hermanos Rodríguez, à 2 286 m d'altitude, impose une densité d'air réduite qui met les turbocompresseurs des moteurs F1 à rude épreuve. Les équipes doivent ajuster leurs stratégies pour compenser.",
-      "summary_en": "The Autodromo Hermanos Rodríguez, at 2,286 m, forces F1 teams to contend with thinner air that strains turbochargers. Teams must tweak strategies to adapt to the altitude."
-    },
-    {
-      "id": "629bd2e06df6",
-      "title": "Why F1's new regulations make the Mexican GP an even bigger challenge",
-      "title_fr": "Les nouvelles règles de la F1 aggravent le défi du Grand Prix du Mexique",
-      "title_en": "F1's new regulations make the Mexican GP even more challenging",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-f1s-new-regulations-make-the-mexican-gp-an-even-bigger-challenge/10869622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6b8jjxw2/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-10-30T09:55:11+00:00",
-      "race_id": "mexico",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le circuit d'Hermanos Rodríguez, à 2 286 m d'altitude, impose une densité d'air réduite qui met à rude épreuve les turbocompresseurs. Les nouvelles règles de la F1 amplifient ces contraintes, rendant la course encore plus exigeante.",
-      "summary_en": "The Hermanos Rodríguez circuit sits at 2,286 m, creating thin air that strains turbochargers. F1's new regulations heighten these challenges, making the Mexican GP even more demanding."
-    },
-    {
-      "id": "69d38ca5b91c",
-      "title": "F1 stalwart Zehnder set for Audi exit",
-      "title_fr": "F1 stalwart Zehnder set for Audi exit",
-      "title_en": "F1 stalwart Zehnder set for Audi exit",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-stalwart-zehnder-set-for-audi-exit/10869600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YN1zReV2/s6/beat-zehnder-sauber-manager-2.jpg",
-      "published_at": "2026-10-30T09:10:59+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Audi has announced that former team manager Beat Zehnder is leaving the organisation at the end of the 2026 Formula 1 season after a 34-year stint at Hinwil.<br />Zehnder was hired by founder Peter Sa",
-      "summary_en": "Audi has announced that former team manager Beat Zehnder is leaving the organisation at the end of the 2026 Formula 1 season after a 34-year stint at Hinwil.<br />Zehnder was hired by founder Peter Sa"
     }
   ]
 }
