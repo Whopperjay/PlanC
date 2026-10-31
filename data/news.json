@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-31T01:24:46Z",
+  "last_updated": "2026-10-31T04:26:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "82cb364dbd63",
+      "title": "Stewards penalize Verstappen, Lawson after “unacceptable” F1 Mexico GP practice clash",
+      "title_fr": "Stewards sanctionnent Verstappen et Lawson à Mexico",
+      "title_en": "Stewards penalise Verstappen and Lawson after Mexico practice clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-and-liam-lawson-handed-f1-mexico-gp-grid-penalties-after-practice-clash/10869942/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/25dLDwx0/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-10-31T03:22:01+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Les commissaires ont infligé des pénalités à Max Verstappen et Liam Lawson pour un affrontement inacceptable lors de la séance de pratique du Grand Prix de Mexico. Les deux pilotes perdent des places sur la grille.",
+      "summary_en": "Stewards handed penalties to Max Verstappen and Liam Lawson after an unacceptable clash during Mexico GP practice. Both drivers will lose grid positions."
+    },
+    {
+      "id": "3d40cabc4091",
+      "title": "Max Verstappen, Liam Lawson handed F1 Mexico GP grid penalties after practice clash",
+      "title_fr": "Verstappen et Lawson sanctionnés après collision en pratique",
+      "title_en": "Verstappen and Lawson penalised after practice clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-and-liam-lawson-both-handed-grid-penalties-after-clash-in-mexico-f1-practice/10869933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-31T03:15:47+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen et Liam Lawson ont reçu des pénalités de grille après une collision lors de la séance de pratique du Grand Prix du Mexique. Les deux pilotes resteront sur la grille, mais leurs positions seront affectées.",
+      "summary_en": "Max Verstappen and Liam Lawson received grid penalties after a clash in the Mexico GP practice session. Both drivers will start from the back of the grid, affecting their race prospects."
+    },
     {
       "id": "5219e5cc2b84",
       "title": "Mexican GP includes Lewis Hamilton's beloved Roscoe in touching tribute to F1 legends",
@@ -39,6 +77,25 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton estime que Ferrari peut réellement viser la pole position au Grand Prix du Mexique, même après les soucis techniques rencontrés en deuxième séance de formation.",
       "summary_en": "Lewis Hamilton believes Ferrari can realistically fight for pole at the Mexican Grand Prix, even after technical issues in second practice."
+    },
+    {
+      "id": "54d46b02d38d",
+      "title": "Claims Bearman’s salary demands delayed contract talks are “absolute nonsense” – Komatsu | Formula 1",
+      "title_fr": "Komatsu dément les prétentions salariales de Bearman",
+      "title_en": "Komatsu dismisses Bearman's salary demands",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/31/claims-bearmans-salary-demands-delayed-contract-talks-are-absolute-nonsense-komatsu/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-12-13-19-40-2-2281216283-460.jpg",
+      "published_at": "2026-10-31T00:39:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ayao Komatsu a nié les rumeurs de six millions d’euros demandés par Oliver Bearman, qualifiant ces chiffres de absurdes. Le pilote ne sait pas d’où vient cette information.",
+      "summary_en": "Ayao Komatsu denied the reports of Oliver Bearman demanding six million euros, calling the figures absurd. The driver said he does not know where the number came from."
     },
     {
       "id": "43170792a0c4",
@@ -96,6 +153,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a reproché à Liam Lawson son manque de prudence lors de leur collision en FP2 du Grand Prix du Mexique. Le pilote de Red Bull a jugé l'action \"pas très intelligente\".",
       "summary_en": "Max Verstappen criticized Liam Lawson for his lack of caution during their FP2 collision at the Mexican Grand Prix. The Red Bull driver called the move \"not very smart.\""
+    },
+    {
+      "id": "4bdc83338693",
+      "title": "Verstappen says Lawson’s driving was ‘not smart behaviour when you’re fighting for your seat’ | Formula 1",
+      "title_fr": "Verstappen critique le comportement de Lawson après collision",
+      "title_en": "Verstappen calls Lawson's driving 'not smart' after collision",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/verstappen-says-lawsons-driving-was-not-smart-behaviour-when-youre-fighting-for-your-seat/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-23-38-48-2.jpg",
+      "published_at": "2026-10-30T23:41:56+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a reproché à Liam Lawson de ne pas faire preuve de prudence après leur collision lors de la deuxième séance de formation à Mexico. Le pilote de Red Bull a demandé à Lawson d'agir plus intelligemment.",
+      "summary_en": "Max Verstappen told Liam Lawson to act smarter after their collision in the second practice session in Mexico. The Red Bull driver urged Lawson to be more prudent."
     },
     {
       "id": "0ac7eca076dd",
@@ -191,6 +267,25 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc a terminé premier lors de la deuxième séance de formation du Grand Prix du Mexique, battant Lando Norris et Lewis Hamilton. Le pilote Ferrari a réduit son temps de 1m18.128s à 1m17.827s",
       "summary_en": "Charles Leclerc topped the second practice session at the Mexico Grand Prix, beating Lando Norris and Lewis Hamilton. The Ferrari driver cut his time from 1m18.128s to 1m17.827s"
+    },
+    {
+      "id": "84f4a9d43241",
+      "title": "Leclerc fastest again, Verstappen and Lawson face investigation over collision | Formula 1",
+      "title_fr": "Leclerc encore le plus rapide, Verstappen et Lawson sous enquête pour collision",
+      "title_en": "Leclerc fastest again, Verstappen and Lawson under investigation for collision",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-13-27-44-2.jpg",
+      "published_at": "2026-10-30T23:04:01+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a de nouveau été le plus rapide en deuxième session de formation. Verstappen et Lawson sont désormais sous enquête après une collision qui a impliqué les deux pilotes.",
+      "summary_en": "Charles Leclerc was again the fastest in second practice. Verstappen and Lawson are now under investigation following a collision that involved both drivers."
     },
     {
       "id": "51fc5d265ee9",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a félicité Andrea Kimi Antonelli, heureux de le voir succéder en champion du monde après une saison exceptionnelle.",
       "summary_en": "Lando Norris congratulated Andrea Kimi Antonelli, happy to see him succeed as world champion after an outstanding season."
-    },
-    {
-      "id": "aa54f274199a",
-      "title": "\"Two steps forward, one step back\" – Oscar Piastri explains the route out of McLaren's car woes",
-      "title_fr": "Piastri : deux pas en avant, un pas en arrière",
-      "title_en": "Piastri: Two Steps Forward, One Step Back",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/two-steps-forward-one-step-back-piastri-explains-the-route-out-of-mclarens-car-woes/10869477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6b8ZNRw2/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-10-30T00:11:38+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri explique comment il compte améliorer ses performances sur les circuits difficiles et comprendre les effets des dernières mises à jour de son MCL40.",
-      "summary_en": "Oscar Piastri outlines how he plans to boost his results on tough tracks and assess the impact of recent upgrades to his MCL40."
-    },
-    {
-      "id": "6825c7129dc9",
-      "title": "Remembering Sir Patrick Stewart's unforgettable moment on the F1 podium with Daniel Ricciardo",
-      "title_fr": "Sir Patrick Stewart célèbre le podium de F1 avec Ricciardo",
-      "title_en": "Sir Patrick Stewart celebrates F1 podium with Ricciardo",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/remembering-sir-patrick-stewarts-unforgettable-moment-on-the-f1-podium-with-daniel-ricciardo/10869481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/24QGoJdY/s6/motorsport-com-graphics-47.jpg",
-      "published_at": "2026-10-30T00:10:28+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Sir Patrick Stewart, légende de Star Trek, a célébré le podium de la F1 à Montréal en 2017 en buvant du champagne de Daniel Ricciardo. Le filmiste est décédé à 86 ans.",
-      "summary_en": "Sir Patrick Stewart, the Star Trek legend, celebrated the 2017 F1 podium in Montreal by sipping champagne from Daniel Ricciardo's boot. The actor passed away at 86."
-    },
-    {
-      "id": "30e9858e64dc",
-      "title": "On This Day: Vettel dominates first Indian GP as Hamilton and Massa tangle again | Brief",
-      "title_fr": "Vettel domine le premier Grand Prix d'Inde, Hamilton et Massa se heurtent",
-      "title_en": "Vettel dominates first Indian GP, Hamilton and Massa collide",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/on-this-day-indian-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2011/10/racefansdotnet-24-10-23-00-01-58-1-110169648KR046_F1_Grand_Pri.jpg",
-      "published_at": "2026-10-30T00:01:00+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Sébastien Vettel remporte le premier Grand Prix d'Inde, franchissant la ligne en tête. Le pilote Hamilton et Massa se heurtent, mais aucune pénalité majeure n'est prononcée.",
-      "summary_en": "Sébastien Vettel wins the inaugural Indian Grand Prix, taking the checkered flag first. Hamilton and Massa collide, but no major penalties are issued."
-    },
-    {
-      "id": "1b81336f10a6",
-      "title": "Lewis Hamilton: “I’m built differently” as he eyes F1 career into 2030s",
-      "title_fr": "Hamilton se prépare pour l'Afrique",
-      "title_en": "Hamilton prepares for Africa",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2Qed9J32/s6/motorsport-com-graphics-46.jpg",
-      "published_at": "2026-10-29T22:52:21+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton, champion sept fois du monde, déclare qu'il est \"construit différemment\" pour prolonger sa carrière jusqu'au Grand Prix d'Afrique prévu dans les années 2030. Il voit l'opportunité de rester compétitif.",
-      "summary_en": "Lewis Hamilton, seven-time world champion, says he is \"built differently\" as he looks to extend his career into the 2030s, eyeing the new African Grand Prix in Rwanda."
-    },
-    {
-      "id": "b3d9f2bf5e42",
-      "title": "Max Verstappen discusses toll of F1 calendar after two drivers fall ill",
-      "title_fr": "Verstappen évoque le coût sanitaire du calendrier F1",
-      "title_en": "Verstappen discusses the health toll of the F1 calendar",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-discusses-hidden-toll-of-f1-calendar-after-two-drivers-fall-ill/10869459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6Alv4JEY/s6/motorsport-com-graphics-32.jpg",
-      "published_at": "2026-10-29T22:38:57+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen estime qu'il est normal que les pilotes et le personnel tombent malades à ce stade de la saison, après que deux pilotes aient manqué la journée médiatique à Mexico.",
-      "summary_en": "Max Verstappen says it's normal for drivers and team members to fall ill at this stage of the season, after two drivers missed Thursday's media day in Mexico City."
     }
   ]
 }
