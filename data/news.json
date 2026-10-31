@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-10-31T07:28:37Z",
+  "last_updated": "2026-10-31T10:30:34Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "9cf00e23bf07",
+      "title": "Isack Hadjar summoned to Mexico GP stewards for \"misconduct\" in F1 paddock",
+      "title_fr": "Hadjar convoqué par les commissaires du Grand Prix de Mexico pour faute de conduite",
+      "title_en": "Hadjar summoned by Mexico GP stewards for misconduct",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-summoned-to-mexico-gp-stewards-for-misconduct-in-f1-paddock/10870033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8ZNN32/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-10-31T09:40:54+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Red Bull, Isack Hadjar, a été convoqué par les commissaires du Grand Prix de Mexico après avoir repoussé un fan qui tentait de prendre une photo, violant l'article 12.2.1.1 de la FIA",
+      "summary_en": "Red Bull driver Isack Hadjar was summoned by Mexico GP stewards after pushing away a fan who tried to take a photo, breaching FIA Article 12.2.1.1"
+    },
+    {
+      "id": "dc1a959afe7a",
+      "title": "Spotlight: Hadjar faces investigation over “alleged misconduct” at Mexican Grand Prix | Formula 1",
+      "title_fr": "Spotlight: Hadjar faces investigation over “alleged misconduct” at Mexican Grand Prix | Formula 1",
+      "title_en": "Spotlight: Hadjar faces investigation over “alleged misconduct” at Mexican Grand Prix | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/31/spotlight-hadjar-faces-investigation-over-alleged-misconduct-at-mexican-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-31-08-43-56-2.jpg",
+      "published_at": "2026-10-31T08:44:55+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Hadjar summoned by stewards over \"alleged misconduct\" in paddock",
+      "summary_en": "Hadjar summoned by stewards over \"alleged misconduct\" in paddock"
+    },
     {
       "id": "82cb364dbd63",
       "title": "Stewards penalize Verstappen, Lawson after “unacceptable” F1 Mexico GP practice clash",
@@ -191,6 +229,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a reproché à Liam Lawson de ne pas faire preuve de prudence après leur collision lors de la deuxième séance de formation à Mexico. Le pilote de Red Bull a demandé à Lawson d'agir plus intelligemment.",
       "summary_en": "Max Verstappen told Liam Lawson to act smarter after their collision in the second practice session in Mexico. The Red Bull driver urged Lawson to be more prudent."
+    },
+    {
+      "id": "3aa6abf1a8a6",
+      "title": "Verstappen and Lawson handed one-place grid drops for “unacceptable” practice collision | Formula 1",
+      "title_fr": "Verstappen et Lawson pénalisés d'un demi-pas",
+      "title_en": "Verstappen and Lawson penalised with one-place grid drop",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-23-38-48-2.jpg",
+      "published_at": "2026-10-30T23:41:56+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a demandé à Liam Lawson de 'agir un peu plus intelligemment' après leur collision lors de la deuxième séance de formation à Mexico. Les deux pilotes ont reçu chacun un demi-pas en grille.",
+      "summary_en": "Max Verstappen told Liam Lawson to 'act a little bit smarter' after their collision in the second practice session in Mexico. Both drivers received a one-place grid drop."
     },
     {
       "id": "0ac7eca076dd",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Audi has announced that former team manager Beat Zehnder is leaving the organisation at the end of the 2026 Formula 1 season after a 34-year stint at Hinwil.<br />Zehnder was hired by founder Peter Sa",
       "summary_en": "Audi has announced that former team manager Beat Zehnder is leaving the organisation at the end of the 2026 Formula 1 season after a 34-year stint at Hinwil.<br />Zehnder was hired by founder Peter Sa"
-    },
-    {
-      "id": "9d447e08e906",
-      "title": "Audi pays tribute as F1 stalwart Beat Zehnder set for exit",
-      "title_fr": "Beat Zehnder quitte Audi F1 après 34 ans",
-      "title_en": "Beat Zehnder leaves Audi F1 after 34 years",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/audi-pays-tribute-as-f1-stalwart-beat-zehnder-set-for-exit/10869594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0ZRQVJN0/s6/beat-zehnder-sporting-director.jpg",
-      "published_at": "2026-10-30T09:08:04+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Beat Zehnder, ancien directeur d'équipe d'Audi, annonce son départ à la fin de la saison 2026, après 34 ans de service à Hinwil.",
-      "summary_en": "Beat Zehnder, former Audi team manager, announces his exit at the end of the 2026 season after 34 years with the Swiss outfit."
-    },
-    {
-      "id": "84b870f09c6f",
-      "title": "George Russell predicts key Ferrari \"advantage\" at F1 Mexican GP",
-      "title_fr": "Russell prédit l’avantage Ferrari au Grand Prix de Mexico",
-      "title_en": "Russell predicts Ferrari advantage at Mexican GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-predicts-key-ferrari-advantage-at-f1-mexico-gp/10869473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0mXyKBG6/s6/charles-leclerc-ferrari-george.jpg",
-      "published_at": "2026-10-30T08:12:07+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell estime que Ferrari jouera un rôle clé grâce à sa conception turbo, tandis que Charles Leclerc maintient que Mercedes reste la meilleure voiture où qu’on aille.",
-      "summary_en": "George Russell says Ferrari has a key advantage thanks to its turbo design, while Charles Leclerc insists Mercedes remains the best car wherever they go."
-    },
-    {
-      "id": "c1cbdfd2448a",
-      "title": "F1 has never had anyone like me - Hamilton",
-      "title_fr": "Hamilton affirme qu'il est unique en F1",
-      "title_en": "Hamilton says he's unlike any F1 driver",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffb/live/ed9301c0-d42c-11f1-95ab-29e198572168.jpg",
-      "published_at": "2026-10-30T07:25:41+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton déclare qu'il est incomparable à tout pilote de Formule 1 et réaffirme sa volonté de continuer à courir jusqu'à la mi-quarantaine.",
-      "summary_en": "Lewis Hamilton says he is unlike any Formula 1 driver and reaffirms his determination to keep racing into his mid-forties."
     }
   ]
 }
