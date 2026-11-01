@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:00:20Z",
+  "generated_at": "2026-11-01T13:00:28Z",
   "model": "claude",
   "predictions": [
     {
@@ -127,15 +127,15 @@
       "race_id": "mexico_city",
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
-      "p1": "hamilton",
-      "p2": "russell",
-      "p3": "leclerc",
-      "reasoning_fr": "Hamilton part en pole sur un circuit où les dépassements sont rares, ce qui lui donne un avantage décisif. Russell, deuxième sur la grille et en forme, pourra tenir la deuxième place grâce à la fiabilité Mercedes. Leclerc, troisième en qualification et très performant en course (2e à Austin), profitera de la stratégie Ferrari pour rester dans le podium, même si les opportunités de dépassement rest",
-      "reasoning_en": "Hamilton starts from pole on a high‑altitude track where overtaking is scarce, giving him a decisive edge. Russell, second on the grid and in good form, can preserve P2 with Mercedes reliability. Leclerc, third in qualifying and strong in recent races (2nd in Austin), will use Ferrari’s strategy to stay on the podium despite limited passing chances.",
-      "confidence": "high",
-      "key_factor_fr": "Position de départ sur circuit à faible dépassement",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance au championnat, et la Mercedes reste la référence. Verstappen a gagné cinq fois à Mexico et maîtrise l'altitude, où l'appui et le refroidissement comptent beaucoup. Russell, deuxième au championnat, devrait compléter le podium devant les Ferrari de Hamilton et Leclerc, très proches au classement.",
+      "reasoning_en": "Antonelli dominates 2026 with a 123-point championship lead, and Mercedes remains the benchmark. Verstappen has won five times in Mexico and masters the altitude, where downforce and cooling matter a lot. Russell, second in the standings, should complete the podium ahead of the Ferraris of Hamilton and Leclerc, who are very close in points.",
+      "confidence": "medium",
+      "key_factor_fr": "Altitude de Mexico : appui et refroidissement décisifs",
       "news_used_ids": [],
-      "generated_at": "2026-11-01T01:41:22Z"
+      "generated_at": "2026-11-01T13:00:13Z"
     },
     {
       "event_id": "brazilian_qualifying",
@@ -145,12 +145,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance sur Russell, signe que la Mercedes est la référence en rythme sur un tour. Russell, deuxième au championnat sur la même voiture, est le rival logique. Verstappen excelle historiquement à Interlagos et peut accrocher la première ligne. Ferrari reste dans le coup, mais ses deux pilotes se partagent les points.",
-      "reasoning_en": "Antonelli dominates 2026 with a 123-point lead over Russell, a sign that Mercedes is the benchmark over one lap. Russell, second in the standings in the same car, is the logical rival. Verstappen has a strong record at Interlagos and could grab the front row. Ferrari stays in contention, but its two drivers are splitting the points.",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, signe que la Mercedes est la référence en 2026. À Interlagos, circuit court, tout se joue sur la traction et le dernier secteur ; la Mercedes devrait y briller. Russell reste un excellent qualifieur. Verstappen, spécialiste de São Paulo, peut s'intercaler, d'autant que la météo changeante peut rebattre les cartes.",
+      "reasoning_en": "Antonelli leads the championship by 123 points, a sign that Mercedes is the benchmark car in 2026. Interlagos is a short lap where traction and the final sector decide everything, which should suit Mercedes. Russell remains an excellent qualifier. Verstappen, a São Paulo specialist, could split them, especially since changeable weather can shake up the order.",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes et forme record d'Antonelli en 2026",
+      "key_factor_fr": "Domination Mercedes, mais météo d'Interlagos imprévisible",
       "news_used_ids": [],
-      "generated_at": "2026-11-01T05:00:20Z"
+      "generated_at": "2026-11-01T13:00:28Z"
     },
     {
       "event_id": "brazilian_grand_prix",
@@ -158,14 +158,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance : la Mercedes est clairement la référence en 2026. Verstappen excelle historiquement à Interlagos, surtout sur piste changeante ou mouillée. Russell complète le podium grâce au rythme de la Mercedes. Les Ferrari de Hamilton et Leclerc restent des menaces très proches au championnat.",
-      "reasoning_en": "Antonelli dominates the championship with a 123-point lead, making Mercedes the clear 2026 benchmark. Verstappen has a strong Interlagos record, especially in changing or wet conditions. Russell completes the podium thanks to Mercedes pace. Ferrari's Hamilton and Leclerc remain serious threats, sitting very close in the standings.",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance et la Mercedes est la référence en 2026. Russell complète le doublé probable. Pour la 3e place, c'est serré entre Hamilton, Verstappen et Leclerc. Verstappen excelle à Interlagos, où il est remonté de la pitlane jusqu'au podium en 2025, et la météo changeante peut favoriser son talent.",
+      "reasoning_en": "Antonelli dominates the championship with a 123-point lead, and Mercedes is the 2026 benchmark. Russell completes a likely one-two. Third place is tight between Hamilton, Verstappen and Leclerc. Verstappen excels at Interlagos, where he climbed from the pitlane to the podium in 2025, and changeable weather can reward his skill.",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes et maîtrise de Verstappen à Interlagos",
+      "key_factor_fr": "Domination Mercedes, mais la météo d'Interlagos reste imprévisible",
       "news_used_ids": [],
-      "generated_at": "2026-11-01T05:00:13Z"
+      "generated_at": "2026-11-01T13:00:21Z"
     }
   ]
 }
