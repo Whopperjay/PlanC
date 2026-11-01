@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T13:00:29Z",
-  "model": "claude",
+  "generated_at": "2026-11-01T01:41:23Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -127,15 +127,15 @@
       "race_id": "mexico_city",
       "session_type": "grand_prix",
       "session_date": "2026-11-01T20:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "hamilton",
       "p2": "russell",
       "p3": "leclerc",
-      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance et une Mercedes de référence. Russell confirme le doublé possible. Verstappen et Lawson sont sanctionnés après leur collision en essais, ce qui affaiblit Red Bull. Hadjar fait l'objet d'une enquête. Ferrari est historiquement solide à Mexico, en altitude. Leclerc, plus rapide sur un tour, devance Hamilton pour la P3.",
-      "reasoning_en": "Antonelli leads the championship by 123 points in the benchmark Mercedes. Russell makes a one-two possible. Verstappen and Lawson were penalised after their practice collision, which weakens Red Bull, and Hadjar is under investigation. Ferrari has a strong record at high-altitude Mexico. Leclerc's one-lap pace gives him the edge over Hamilton for P3.",
-      "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes et sanctions qui affaiblissent Red Bull",
+      "reasoning_fr": "Hamilton part en pole sur un circuit où les dépassements sont rares, ce qui lui donne un avantage décisif. Russell, deuxième sur la grille et en forme, pourra tenir la deuxième place grâce à la fiabilité Mercedes. Leclerc, troisième en qualification et très performant en course (2e à Austin), profitera de la stratégie Ferrari pour rester dans le podium, même si les opportunités de dépassement rest",
+      "reasoning_en": "Hamilton starts from pole on a high‑altitude track where overtaking is scarce, giving him a decisive edge. Russell, second on the grid and in good form, can preserve P2 with Mercedes reliability. Leclerc, third in qualifying and strong in recent races (2nd in Austin), will use Ferrari’s strategy to stay on the podium despite limited passing chances.",
+      "confidence": "high",
+      "key_factor_fr": "Position de départ sur circuit à faible dépassement",
       "news_used_ids": [],
-      "generated_at": "2026-10-31T13:00:13Z"
+      "generated_at": "2026-11-01T01:41:22Z"
     },
     {
       "event_id": "brazilian_qualifying",
