@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T01:41:23Z",
-  "model": "openai/gpt-oss-120b",
+  "generated_at": "2026-11-01T05:00:20Z",
+  "model": "claude",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -145,12 +145,27 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance au championnat, et la Mercedes est la référence sur un tour. Interlagos est un circuit court où la motricité et l'efficacité moteur comptent beaucoup, ce qui avantage le package Mercedes. Russell est un qualifieur solide et suit logiquement. Verstappen reste redoutable sur un tour, malgré sa sanction reçue à Mexico.",
-      "reasoning_en": "Antonelli dominates 2026 with a 123-point championship lead, and Mercedes is the benchmark over one lap. Interlagos is a short lap where traction and power-unit efficiency matter a lot, which suits the Mercedes package. Russell is a strong qualifier and the logical P2. Verstappen remains formidable over one lap despite his Mexico penalty.",
+      "reasoning_fr": "Antonelli domine 2026 avec 123 points d'avance sur Russell, signe que la Mercedes est la référence en rythme sur un tour. Russell, deuxième au championnat sur la même voiture, est le rival logique. Verstappen excelle historiquement à Interlagos et peut accrocher la première ligne. Ferrari reste dans le coup, mais ses deux pilotes se partagent les points.",
+      "reasoning_en": "Antonelli dominates 2026 with a 123-point lead over Russell, a sign that Mercedes is the benchmark over one lap. Russell, second in the standings in the same car, is the logical rival. Verstappen has a strong record at Interlagos and could grab the front row. Ferrari stays in contention, but its two drivers are splitting the points.",
       "confidence": "medium",
-      "key_factor_fr": "Mercedes référence sur un tour, Antonelli en pleine confiance",
+      "key_factor_fr": "Domination Mercedes et forme record d'Antonelli en 2026",
       "news_used_ids": [],
-      "generated_at": "2026-10-31T13:00:29Z"
+      "generated_at": "2026-11-01T05:00:20Z"
+    },
+    {
+      "event_id": "brazilian_grand_prix",
+      "race_id": "brazilian",
+      "session_type": "grand_prix",
+      "session_date": "2026-11-08T17:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance : la Mercedes est clairement la référence en 2026. Verstappen excelle historiquement à Interlagos, surtout sur piste changeante ou mouillée. Russell complète le podium grâce au rythme de la Mercedes. Les Ferrari de Hamilton et Leclerc restent des menaces très proches au championnat.",
+      "reasoning_en": "Antonelli dominates the championship with a 123-point lead, making Mercedes the clear 2026 benchmark. Verstappen has a strong Interlagos record, especially in changing or wet conditions. Russell completes the podium thanks to Mercedes pace. Ferrari's Hamilton and Leclerc remain serious threats, sitting very close in the standings.",
+      "confidence": "medium",
+      "key_factor_fr": "Domination Mercedes et maîtrise de Verstappen à Interlagos",
+      "news_used_ids": [],
+      "generated_at": "2026-11-01T05:00:13Z"
     }
   ]
 }
