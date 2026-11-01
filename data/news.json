@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-01T13:48:54Z",
+  "last_updated": "2026-11-01T16:50:55Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8429364f7dbf",
+      "title": "Valtteri Bottas \"pretty confident\" of staying for F1 2027 amid Colton Herta rumours",
+      "title_fr": "Bottas confiant pour 2027 malgré les rumeurs de Herta",
+      "title_en": "Bottas Confident About 2027 Amid Herta Rumours",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-pretty-confident-of-staying-for-f1-2027-amid-colton-herta-rumours/10870623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/25dLoeQ0/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": "2026-11-01T16:16:37+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Valtteri Bottas reste confiant pour 2027 malgré les rumeurs de Colton Herta. Le pilote suédois a réaffirmé son engagement en Formule 1 après une saison 2026 où il a été dépassé par Sergio Pérez.",
+      "summary_en": "Valtteri Bottas remains confident about staying in Formula 1 for 2027, dismissing speculation that Cadillac might recruit Colton Herta. The Swedish driver reaffirmed his commitment after a 2026 season where Sergio Pérez outperformed him."
+    },
+    {
+      "id": "e21f679bf726",
+      "title": "Featured Comment: Lawson’s disqualification highlights another flaw in F1’s 2026 rules | Brief",
+      "title_fr": "Lawson disqualifié, les règles F1 critiquées",
+      "title_en": "Lawson disqualified, F1 rules criticized",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/01/featured-comment-lawsons-disqualification-highlights-another-flaw-in-f1s-rules/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-11-01-14-44-11-1.jpg",
+      "published_at": "2026-11-01T14:48:26+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 88,
+      "is_breaking": true,
+      "summary_fr": "Le pilote Lawson a été disqualifié après la course, les organisateurs pointant du doigt les règles F1 jugées trop strictes. Cette décision soulève de nouvelles questions sur la régulation 2026.",
+      "summary_en": "Lawson was disqualified after the race, with officials blaming the F1 rules for being too strict. The decision raises new questions about the 2026 regulation."
+    },
     {
       "id": "728e9bc232db",
       "title": "Fernando Alonso 'beyond frustration' after engine issue in F1 Mexico GP qualifying",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le champion en titre, Lando Norris, a franchi la barre du troisième et dernier entraînement du Grand Prix de Mexico, surpassant Kimi Antonelli de 0,001 seconde sur l'Autodromo Hermanos Rodriguez.",
       "summary_en": "World champion Lando Norris topped the final practice session at the Mexico Grand Prix, beating championship leader Kimi Antonelli by a mere 0.001 second on the high-altitude circuit."
-    },
-    {
-      "id": "949fa3fe6013",
-      "title": "When Red Bull expects to start using its long-awaited new F1 wind tunnel",
-      "title_fr": "Red Bull prépare l’usage de son nouveau tunnel à vent",
-      "title_en": "Red Bull gears up to use new wind tunnel",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/when-red-bull-expects-to-start-using-its-long-awaited-new-f1-wind-tunnel/10870210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YK15Rvz0/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-10-31T18:00:06+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a annoncé qu’il va enfin exploiter son nouveau tunnel à vent, remplaçant l’ancien, le plus vieux du circuit. L’équipe technique, dirigée par Pierre Wache, attend de surmonter les limitations actuelles.",
-      "summary_en": "Red Bull plans to finally use its new wind tunnel, replacing the old, longest on the grid. The technical team, led by Pierre Wache, hopes to overcome current limitations."
-    },
-    {
-      "id": "c216f972d60b",
-      "title": "Red Bull provides timeline for long-awaited new F1 wind tunnel",
-      "title_fr": "Red Bull provides timeline for long-awaited new F1 wind tunnel",
-      "title_en": "Red Bull provides timeline for long-awaited new F1 wind tunnel",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/when-red-bull-expects-to-start-using-its-long-awaited-new-f1-wind-tunnel/10870214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/68VwRk42/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-31T17:58:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Although Red Bull has turned its 2026 Formula 1 season around in impressive fashion, the technical team led by Pierre Wache is still dealing with several limitations behind the scenes. One of the main",
-      "summary_en": "Although Red Bull has turned its 2026 Formula 1 season around in impressive fashion, the technical team led by Pierre Wache is still dealing with several limitations behind the scenes. One of the main"
     }
   ]
 }
