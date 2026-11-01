@@ -27505,8 +27505,13 @@
               "status": "Finished",
               "Driver": {
                 "driverId": "ryo_hirakawa",
+                "permanentNumber": "50",
+                "code": "HIR",
+                "url": "https://en.wikipedia.org/wiki/Ryo_Hirakawa",
                 "givenName": "Ryo",
-                "familyName": "Hirakawa"
+                "familyName": "Hirakawa",
+                "dateOfBirth": "1994-03-07",
+                "nationality": "Japanese"
               },
               "Constructor": {
                 "constructorId": "haas",

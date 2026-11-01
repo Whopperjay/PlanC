@@ -159,11 +159,13 @@
         },
         {
           "driverId": "ryo_hirakawa",
+          "permanentNumber": "50",
+          "code": "HIR",
+          "url": "https://en.wikipedia.org/wiki/Ryo_Hirakawa",
           "givenName": "Ryo",
           "familyName": "Hirakawa",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "93"
+          "dateOfBirth": "1994-03-07",
+          "nationality": "Japanese"
         },
         {
           "driverId": "hulkenberg",
@@ -181,7 +183,7 @@
           "familyName": "Iwasa",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "92"
+          "permanentNumber": "93"
         },
         {
           "driverId": "lawson",
@@ -219,7 +221,7 @@
           "familyName": "Mini",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "91"
+          "permanentNumber": "92"
         },
         {
           "driverId": "norris",
@@ -287,7 +289,7 @@
           "familyName": "Slater",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "90"
+          "permanentNumber": "91"
         },
         {
           "driverId": "stroll",
@@ -305,7 +307,7 @@
           "familyName": "Tsolov",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "89"
+          "permanentNumber": "90"
         },
         {
           "driverId": "tsunoda",
@@ -333,7 +335,7 @@
           "familyName": "Vesti",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "88"
+          "permanentNumber": "89"
         }
       ]
     }
