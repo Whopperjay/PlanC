@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-01T01:40:45Z",
+  "last_updated": "2026-11-01T04:42:58Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e6bda83eae79",
+      "title": "Lawson disqualified from F1 qualifying in Mexico – here's why",
+      "title_fr": "Lawson disqualifié de la qualification mexicaine",
+      "title_en": "Lawson disqualified from Mexican qualifying",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/lawson-disqualified-from-f1-qualifying-in-mexico-heres-why/10870411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
+      "published_at": "2026-11-01T01:54:48+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 88,
+      "is_breaking": true,
+      "summary_fr": "Liam Lawson a perdu sa place neuvième après sa disqualification par la FIA lors de la qualification du Grand Prix de Mexico. Les Racing Bulls ont pourtant atteint Q3, mais Lawson devra récupérer le jour J.",
+      "summary_en": "Liam Lawson lost his ninth‑place start after being disqualified by the FIA during qualifying for the Mexican Grand Prix. Racing Bulls reached Q3, but Lawson will have to fight back on Sunday."
+    },
+    {
+      "id": "6673ffc189b3",
+      "title": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
+      "title_fr": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
+      "title_en": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
+      "published_at": "2026-11-01T01:54:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix.<br />Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both car",
+      "summary_en": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix.<br />Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both car"
+    },
+    {
+      "id": "432fe8b325b4",
+      "title": "Verstappen clears the air with Lawson, but keeps opinion on Racing Bulls F1 seat to himself",
+      "title_fr": "Verstappen clarifie après collision avec Lawson",
+      "title_en": "Verstappen clears air after clash with Lawson",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/verstappen-clears-the-air-with-lawson-but-keeps-opinion-on-racing-bulls-f1-seat-to-himself/10870388/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-01T00:28:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a qualifié le 4e mais sera relégué à la troisième rangée après un contact avec Liam Lawson. Il a toutefois gardé son opinion sur la place F1 de Racing Bulls.",
+      "summary_en": "Max Verstappen qualified fourth but will start from the third row after a contact with Liam Lawson. He kept his opinion on Racing Bulls' F1 seat to himself."
+    },
     {
       "id": "59723b321a05",
       "title": "Ferrari reveals luxury $4,300 fountain pen inspired by its bespoke supercars",
@@ -58,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc, qui a dominé les séances de formation, avertit que le Grand Prix du Mexique verra peu de dépassements, le classement étant fixé dès les premiers virages de l'Autodromo Hermanos Rodríguez.",
       "summary_en": "Charles Leclerc, who topped Friday's practice sessions, warned that the Mexican Grand Prix would see little overtaking, with the race order likely set in the first few corners of the Autodromo Hermanos Rodríguez."
+    },
+    {
+      "id": "d796f03a3bda",
+      "title": "Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
+      "title_fr": "Antonelli avoue la tension et la fatigue avant le titre de F1",
+      "title_en": "Antonelli admits tension and fatigue ahead of F1 title",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKB13G6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-01T00:09:23+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli reconnaît que les nervosités de la saison l'ont poussé à conduire de façon tendue et fatiguée, après une séance de qualification juste 0,001s derrière Lando Norris à Mexico",
+      "summary_en": "Kimi Antonelli admits that season nerves made him drive tense and tired, after a qualifying session just 0.001s slower than Lando Norris in Mexico"
     },
     {
       "id": "a48a8d4bc533",
@@ -191,6 +267,82 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.<br />The ",
       "summary_en": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.<br />The "
+    },
+    {
+      "id": "8ee839eff201",
+      "title": "Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP",
+      "title_fr": "Ocon nie les rumeurs de bagarre avec le directeur de Haas",
+      "title_en": "Ocon denies altercation rumours with Haas boss",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ocon-denies-physical-altercation-rumours-in-first-statement-since-being-dropped-by-haas-for-mexico-/10870348/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0qgKEB8Y/s6/esteban-ocon-haas-f1-team-3.jpg",
+      "published_at": "2026-10-31T23:13:59+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon, suspendu par Haas pour le Grand Prix du Mexique, a rejeté les rumeurs d’une altercation physique avec le directeur Ayao Komatsu. Il explique son absence du weekend.",
+      "summary_en": "Esteban Ocon, dropped by Haas for the Mexican Grand Prix, denied rumours of a physical altercation with team boss Ayao Komatsu. He explains his absence from the weekend."
+    },
+    {
+      "id": "d83d531ead8d",
+      "title": "Esteban Ocon issues statement after Haas benching, denies physical altercation rumours",
+      "title_fr": "Ocon nie bagarre après son exclusion",
+      "title_en": "Ocon denies altercation after being benched",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/esteban-ocon-issues-statement-after-haas-benching-denies-physical-altercation-rumours/10870336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0arENOy2/s6/esteban-ocon-haas-f1-team-2.jpg",
+      "published_at": "2026-10-31T23:10:44+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon a publié un communiqué pour refuser les rumeurs de bagarre avec le directeur d’équipe d'Haas, Ayao Komatsu, après son exclusion du Grand Prix du Mexique.",
+      "summary_en": "Esteban Ocon issued a statement denying rumours of a physical altercation with Haas team boss Ayao Komatsu after being benched for the Mexico Grand Prix."
+    },
+    {
+      "id": "e4029f676f76",
+      "title": "Lewis Hamilton \"lost for words\" after ending three-year F1 pole drought at Mexican GP",
+      "title_fr": "Lewis Hamilton \"lost for words\" after ending three-year F1 pole drought at Mexican GP",
+      "title_en": "Lewis Hamilton \"lost for words\" after ending three-year F1 pole drought at Mexican GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lost-for-words-after-ending-three-year-f1-pole-drought-at-mexican-gp/10870309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbA9a30/s6/motorsport-com-graphics-38.jpg",
+      "published_at": "2026-10-31T22:41:25+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Seven-time Formula 1 champion Lewis Hamilton admitted he was \"lost for words\" after claiming his first grand prix pole position for Ferrari at the Mexican Grand Prix.<br />The Briton beat his former M",
+      "summary_en": "Seven-time Formula 1 champion Lewis Hamilton admitted he was \"lost for words\" after claiming his first grand prix pole position for Ferrari at the Mexican Grand Prix.<br />The Briton beat his former M"
+    },
+    {
+      "id": "543e9b96d0a6",
+      "title": "Lewis Hamilton buoyed by historic first Ferrari F1 pole: \"I still love what I do\"",
+      "title_fr": "Lewis Hamilton buoyed by historic first Ferrari F1 pole: \"I still love what I do\"",
+      "title_en": "Lewis Hamilton buoyed by historic first Ferrari F1 pole: \"I still love what I do\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-buoyant-by-historic-first-ferrari-f1-pole-i-still-love-what-i-do/10870304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YBVjz7vY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-10-31T22:36:39+00:00",
+      "race_id": "hungary",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "On the site of two of his seven world championship celebrations, Lewis Hamilton added yet another chapter to his illustrious Formula 1 career and his fond Mexico memory bank, one that was long overdue",
+      "summary_en": "On the site of two of his seven world championship celebrations, Lewis Hamilton added yet another chapter to his illustrious Formula 1 career and his fond Mexico memory bank, one that was long overdue"
     },
     {
       "id": "51218f87ffaa",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Hadjar summoned by stewards over \"alleged misconduct\" in paddock",
       "summary_en": "Hadjar summoned by stewards over \"alleged misconduct\" in paddock"
-    },
-    {
-      "id": "82cb364dbd63",
-      "title": "Stewards penalize Verstappen, Lawson after “unacceptable” F1 Mexico GP practice clash",
-      "title_fr": "Stewards sanctionnent Verstappen et Lawson à Mexico",
-      "title_en": "Stewards penalise Verstappen and Lawson after Mexico practice clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-and-liam-lawson-handed-f1-mexico-gp-grid-penalties-after-practice-clash/10869942/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/25dLDwx0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-31T03:22:01+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires ont infligé des pénalités à Max Verstappen et Liam Lawson pour un affrontement inacceptable lors de la séance de pratique du Grand Prix de Mexico. Les deux pilotes perdent des places sur la grille.",
-      "summary_en": "Stewards handed penalties to Max Verstappen and Liam Lawson after an unacceptable clash during Mexico GP practice. Both drivers will lose grid positions."
-    },
-    {
-      "id": "e4611143e283",
-      "title": "Verstappen and Lawson given grid penalties for Mexico practice collision",
-      "title_fr": "Verstappen et Lawson sanctionnés après collision en pratique",
-      "title_en": "Verstappen and Lawson penalised after practice collision",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fd/live/fec5d270-d4c1-11f1-93e1-3b657b665bcf.jpg",
-      "published_at": "2026-10-31T03:18:06+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a reproché à Liam Lawson un comportement peu avisé après leur collision lors de la séance de pratique du Grand Prix de Mexico. Les deux pilotes reçoivent des pénalités de grille.",
-      "summary_en": "Max Verstappen blamed Liam Lawson for a 'not very smart' move after their collision in Friday's practice at the Mexico City Grand Prix. Both drivers will receive grid penalties."
-    },
-    {
-      "id": "3d40cabc4091",
-      "title": "Max Verstappen, Liam Lawson handed F1 Mexico GP grid penalties after practice clash",
-      "title_fr": "Verstappen et Lawson sanctionnés après collision en pratique",
-      "title_en": "Verstappen and Lawson penalised after practice clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-and-liam-lawson-both-handed-grid-penalties-after-clash-in-mexico-f1-practice/10869933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-31T03:15:47+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen et Liam Lawson ont reçu des pénalités de grille après une collision lors de la séance de pratique du Grand Prix du Mexique. Les deux pilotes resteront sur la grille, mais leurs positions seront affectées.",
-      "summary_en": "Max Verstappen and Liam Lawson received grid penalties after a clash in the Mexico GP practice session. Both drivers will start from the back of the grid, affecting their race prospects."
-    },
-    {
-      "id": "5219e5cc2b84",
-      "title": "Mexican GP includes Lewis Hamilton's beloved Roscoe in touching tribute to F1 legends",
-      "title_fr": "Roscoe, le chien de Hamilton, honoré aux côtés de Senna et Ferrari au Mexique",
-      "title_en": "Hamilton's dog Roscoe honored alongside Senna and Ferrari at Mexican GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mexican-gp-includes-lewis-hamiltons-beloved-roscoe-in-touching-tribute-to-f1-legends/10869899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2dEoOpBY/s6/motorsport-com-graphics-36.jpg",
-      "published_at": "2026-10-31T01:07:42+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix du Mexique a installé un hommage du Jour des Morts dans le paddock, où le chien de Lewis Hamilton, Roscoe, partage la scène avec des légendes comme Ayrton Senna et Enzo Ferrari.",
-      "summary_en": "The Mexican Grand Prix set up a Day of the Dead tribute in the paddock, featuring Lewis Hamilton’s bulldog Roscoe alongside F1 legends such as Ayrton Senna and Enzo Ferrari."
-    },
-    {
-      "id": "19b0e6102b92",
-      "title": "Lewis Hamilton makes confident Ferrari statement despite Mexican GP technical problems",
-      "title_fr": "Hamilton confiant sur les chances de Ferrari malgré les problèmes techniques",
-      "title_en": "Hamilton confident in Ferrari's chances despite technical issues",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-makes-confident-ferrari-statement-despite-mexican-gp-technical-problems/10869895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyZda6/s6/motorsport-com-graphics-50-2.jpg",
-      "published_at": "2026-10-31T00:43:35+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton estime que Ferrari peut réellement viser la pole position au Grand Prix du Mexique, même après les soucis techniques rencontrés en deuxième séance de formation.",
-      "summary_en": "Lewis Hamilton believes Ferrari can realistically fight for pole at the Mexican Grand Prix, even after technical issues in second practice."
-    },
-    {
-      "id": "54d46b02d38d",
-      "title": "Claims Bearman’s salary demands delayed contract talks are “absolute nonsense” – Komatsu | Formula 1",
-      "title_fr": "Komatsu dément les prétentions salariales de Bearman",
-      "title_en": "Komatsu dismisses Bearman's salary demands",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/claims-bearmans-salary-demands-delayed-contract-talks-are-absolute-nonsense-komatsu/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-12-13-19-40-2-2281216283-460.jpg",
-      "published_at": "2026-10-31T00:39:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Ayao Komatsu a nié les rumeurs de six millions d’euros demandés par Oliver Bearman, qualifiant ces chiffres de absurdes. Le pilote ne sait pas d’où vient cette information.",
-      "summary_en": "Ayao Komatsu denied the reports of Oliver Bearman demanding six million euros, calling the figures absurd. The driver said he does not know where the number came from."
-    },
-    {
-      "id": "43170792a0c4",
-      "title": "F1 Mexico GP: Saturday schedule, weather forecast and how to watch",
-      "title_fr": "Leclerc en tête des essais, météo du samedi à Mexico",
-      "title_en": "Leclerc tops Friday practice, Saturday weather in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-saturday-schedule-weather-forecast-and-how-to-watch/10869882/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15REr0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-10-31T00:11:58+00:00",
-      "race_id": null,
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a mené les deux séances d’essais du vendredi à l’Autodromo Hermanos Rodríguez, battant Lando Norris de 0,103 s. Le pilote de la Red Bull, Kimi Antonelli, est quatrième, suivi de Max Verstappen.",
-      "summary_en": "Charles Leclerc topped both Friday practice sessions at the Autodromo Hermanos Rodríguez, beating Lando Norris by 0.103 s. Championship leader Kimi Antonelli finished fourth, with Max Verstappen just behind."
-    },
-    {
-      "id": "ff91db0e4193",
-      "title": "Max Verstappen sends blunt warning to Liam Lawson after Mexican GP FP2 clash",
-      "title_fr": "Verstappen réprimande Lawson après l'accident FP2 au Mexique",
-      "title_en": "Verstappen warns Lawson after FP2 clash at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-sends-blunt-warning-to-liam-lawson-after-mexican-gp-fp2-clash/10869877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKB1d6/s6/motorsport-com-graphics-35.jpg",
-      "published_at": "2026-10-30T23:56:12+00:00",
-      "race_id": "mexico",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a critiqué Liam Lawson après leur collision lors de la deuxième séance d'essais libres du Grand Prix du Mexique, le déclarant « pas très intelligent ». Le pilote Red Bull a averti Lawson de la gravité de son comportement.",
-      "summary_en": "Max Verstappen criticized Liam Lawson after their collision in the second free-practice session at the Mexican Grand Prix, calling it \"not very smart\". The Red Bull driver warned Lawson about the seriousness of his conduct."
     }
   ]
 }
