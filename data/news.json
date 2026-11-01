@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-10-31T22:38:30Z",
+  "last_updated": "2026-11-01T01:40:45Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "59723b321a05",
+      "title": "Ferrari reveals luxury $4,300 fountain pen inspired by its bespoke supercars",
+      "title_fr": "Ferrari lance un stylo-plume de 4 300 $ inspiré de ses supercars",
+      "title_en": "Ferrari unveils a $4,300 fountain pen inspired by its supercars",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGg8rGY/s6/motorsport-com-graphics-53.jpg",
+      "published_at": "2026-11-01T00:28:32+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a collaboré avec Montblanc pour créer le Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition, un stylo-plume de 4 300 $ inspiré de ses supercars. Le prix dépasse celui de certaines voitures d'occasion.",
+      "summary_en": "Ferrari partnered with Montblanc to launch the Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition, a $4,300 fountain pen inspired by its supercars. The price tops that of some used cars."
+    },
+    {
+      "id": "00a08b08091d",
+      "title": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
+      "title_fr": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
+      "title_en": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-clears-the-air-with-liam-lawson-but-stays-tight-lipped-on-racing-bulls-f1-seat/10870381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyKrdLY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-01T00:26:35+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to s",
+      "summary_en": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to s"
+    },
+    {
+      "id": "3dfb8cf75b74",
+      "title": "Charles Leclerc reveals Mexican GP overtaking fears after missing out on pole",
+      "title_fr": "Leclerc craint l'absence de dépassements au Mexique",
+      "title_en": "Leclerc warns of limited overtaking at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8ZNR6/s6/motorsport-com-graphics-41.jpg",
+      "published_at": "2026-11-01T00:24:47+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc, qui a dominé les séances de formation, avertit que le Grand Prix du Mexique verra peu de dépassements, le classement étant fixé dès les premiers virages de l'Autodromo Hermanos Rodríguez.",
+      "summary_en": "Charles Leclerc, who topped Friday's practice sessions, warned that the Mexican Grand Prix would see little overtaking, with the race order likely set in the first few corners of the Autodromo Hermanos Rodríguez."
+    },
+    {
+      "id": "a48a8d4bc533",
+      "title": "\"I'll bombard myself with melatonin\": Kimi Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
+      "title_fr": "Antonelli se bombarde de mélatonine pour rester concentré",
+      "title_en": "Antonelli to bomb himself with melatonin to stay focused",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKB13G6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-01T00:08:16+00:00",
+      "race_id": "italy",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli confie qu'il se bombarde de mélatonine pour gérer la tension et la fatigue. Il a failli être 0,001s plus lent que Lando Norris en FP3 et a été à demi pas derrière George Russell en qualification.",
+      "summary_en": "Kimi Antonelli says he'll bombard himself with melatonin to manage nerves and fatigue ahead of the Mexico City Grand Prix. He was just 0.001s slower than Lando Norris in FP3 and was half a step behind George Russell in qualifying."
+    },
+    {
+      "id": "46b4743d9d1a",
+      "title": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
+      "title_fr": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
+      "title_en": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/68VwR1Q2/s6/motorsport-com-graphics-40.jpg",
+      "published_at": "2026-11-01T00:03:37+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds.",
+      "summary_en": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds."
+    },
+    {
+      "id": "3c100574200f",
+      "title": "Lewis Hamilton: First Ferrari F1 pole “takes me back to watching Michael”",
+      "title_fr": "Hamilton décroche pole Ferrari pour le Grand Prix du Mexique",
+      "title_en": "Hamilton secures Ferrari pole for Mexico City GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVPjJP0/s6/motorsport-com-graphics-52.jpg",
+      "published_at": "2026-10-31T23:58:57+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a obtenu le pole position pour Ferrari, son premier pour l’équipe italienne, en battant George Russell de 0,009 seconde. Le septuple champion évoque la domination de Schumacher.",
+      "summary_en": "Lewis Hamilton secured Ferrari’s first pole for the Mexico City Grand Prix, beating George Russell by 0.009 seconds. The seven‑time champion recalled Schumacher’s dominance with the Italian team."
+    },
+    {
+      "id": "19f29916eb42",
+      "title": "Isack Hadjar defends Mexican GP paddock incident after FIA warning: \"Not a reality show\"",
+      "title_fr": "Isack Hadjar defends Mexican GP paddock incident after FIA warning: \"Not a reality show\"",
+      "title_en": "Isack Hadjar defends Mexican GP paddock incident after FIA warning: \"Not a reality show\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXb51l2/s6/motorsport-com-graphics-39.jpg",
+      "published_at": "2026-10-31T23:34:23+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".<br />The Red Bull driver was summoned to the stewards on Saturday mor",
+      "summary_en": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".<br />The Red Bull driver was summoned to the stewards on Saturday mor"
+    },
+    {
+      "id": "05df805b372b",
+      "title": "Ryo Hirakawa could have \"easily\" made Q2 in F1 Mexico GP without late traffic",
+      "title_fr": "Hirakawa aurait pu atteindre Q2 sans embouteillage",
+      "title_en": "Hirakawa Could Have Made Q2 Without Late Traffic",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/25dLDDD0/s6/ryo-hirakawa-haas-f1-team-laur.jpg",
+      "published_at": "2026-10-31T23:33:37+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de l'équipe de Formule 1, Ryo Hirakawa, estime qu'il aurait facilement franchi la deuxième étape de qualification du Grand Prix du Mexique s'il navait pas rencontré de trafic tardif.",
+      "summary_en": "Haas substitute Ryo Hirakawa says he could have easily reached Q2 in Mexico City GP if not for late traffic."
+    },
+    {
+      "id": "a1469f48f13e",
+      "title": "F1 Mexico GP: Sunday schedule, weather forecast and how to watch",
+      "title_fr": "F1 Mexico GP: Sunday schedule, weather forecast and how to watch",
+      "title_en": "F1 Mexico GP: Sunday schedule, weather forecast and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNjE82/s6/ryo-hirakawa-haas-f1-team.jpg",
+      "published_at": "2026-10-31T23:23:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 heads into Sunday in Mexico City with Lewis Hamilton on pole and Kimi Antonelli only one result away from becoming world champion.<br />Hamilton leads George Russell and Ferrari team-mate Ch",
+      "summary_en": "Formula 1 heads into Sunday in Mexico City with Lewis Hamilton on pole and Kimi Antonelli only one result away from becoming world champion.<br />Hamilton leads George Russell and Ferrari team-mate Ch"
+    },
+    {
+      "id": "8fce4ade2872",
+      "title": "\"Up there for pole\": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying",
+      "title_fr": "\"Up there for pole\": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying",
+      "title_en": "\"Up there for pole\": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/up-there-for-pole-verstappen-rues-turn-13-traffic-in-f1-mexico-gp-qualifying/10870339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0arEVlN2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-10-31T23:21:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.<br />The ",
+      "summary_en": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.<br />The "
+    },
     {
       "id": "51218f87ffaa",
       "title": "Hirakawa surprised by call-up to replace Ocon but disappointed by qualifying result | Formula 1",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a critiqué Liam Lawson après leur collision lors de la deuxième séance d'essais libres du Grand Prix du Mexique, le déclarant « pas très intelligent ». Le pilote Red Bull a averti Lawson de la gravité de son comportement.",
       "summary_en": "Max Verstappen criticized Liam Lawson after their collision in the second free-practice session at the Mexican Grand Prix, calling it \"not very smart\". The Red Bull driver warned Lawson about the seriousness of his conduct."
-    },
-    {
-      "id": "654bf3dd9cae",
-      "title": "Max Verstappen slams Liam Lawson for FP2 clash at F1 Mexico GP",
-      "title_fr": "Verstappen critique Lawson après l'accident FP2",
-      "title_en": "Verstappen slams Lawson after FP2 clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-slams-liam-lawson-for-f1-mexico-gp-fp2-clash/10869875/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6zoDxQp0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-10-30T23:55:54+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a reproché à Liam Lawson son manque de prudence lors de leur collision en FP2 du Grand Prix du Mexique. Le pilote de Red Bull a jugé l'action \"pas très intelligente\".",
-      "summary_en": "Max Verstappen criticized Liam Lawson for his lack of caution during their FP2 collision at the Mexican Grand Prix. The Red Bull driver called the move \"not very smart.\""
-    },
-    {
-      "id": "4bdc83338693",
-      "title": "Verstappen says Lawson’s driving was ‘not smart behaviour when you’re fighting for your seat’ | Formula 1",
-      "title_fr": "Verstappen critique le comportement de Lawson après collision",
-      "title_en": "Verstappen calls Lawson's driving 'not smart' after collision",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/verstappen-says-lawsons-driving-was-not-smart-behaviour-when-youre-fighting-for-your-seat/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-23-38-48-2.jpg",
-      "published_at": "2026-10-30T23:41:56+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a reproché à Liam Lawson de ne pas faire preuve de prudence après leur collision lors de la deuxième séance de formation à Mexico. Le pilote de Red Bull a demandé à Lawson d'agir plus intelligemment.",
-      "summary_en": "Max Verstappen told Liam Lawson to act smarter after their collision in the second practice session in Mexico. The Red Bull driver urged Lawson to be more prudent."
-    },
-    {
-      "id": "3aa6abf1a8a6",
-      "title": "Verstappen and Lawson handed one-place grid drops for “unacceptable” practice collision | Formula 1",
-      "title_fr": "Verstappen et Lawson pénalisés d'un demi-pas",
-      "title_en": "Verstappen and Lawson penalised with one-place grid drop",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-23-38-48-2.jpg",
-      "published_at": "2026-10-30T23:41:56+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a demandé à Liam Lawson de 'agir un peu plus intelligemment' après leur collision lors de la deuxième séance de formation à Mexico. Les deux pilotes ont reçu chacun un demi-pas en grille.",
-      "summary_en": "Max Verstappen told Liam Lawson to 'act a little bit smarter' after their collision in the second practice session in Mexico. Both drivers received a one-place grid drop."
-    },
-    {
-      "id": "0ac7eca076dd",
-      "title": "Oscar Piastri: McLaren handled Mexico altitude “better than I was expecting”",
-      "title_fr": "Piastri : McLaren gère mieux l'altitude à Mexico",
-      "title_en": "Piastri: McLaren handled Mexico altitude better than expected",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-mclaren-handled-mexico-altitude-better-than-i-was-expecting/10869868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbA9ej0/s6/motorsport-com-graphics-49.jpg",
-      "published_at": "2026-10-30T23:39:07+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le pilote McLaren, Oscar Piastri, quitte la séance FP2 à Mexico avec un optimisme renouvelé, affirmant que la voiture a mieux réagi à l'altitude élevée qu'il ne l'avait anticipé, malgré une simulation de qualification désordonnée.",
-      "summary_en": "McLaren driver Oscar Piastri leaves FP2 in Mexico City with renewed optimism, saying the car handled the high altitude better than expected, despite a messy qualifying simulation."
-    },
-    {
-      "id": "d9762d182b11",
-      "title": "The confusion surrounding Colton Herta's F1 superlicence explained",
-      "title_fr": "Herta : 40 points de superlicence, mais pas suffisant",
-      "title_en": "Herta's 40 Super Licence Points: Still Not Enough",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-confusion-surrounding-colton-hertas-f1-superlicence-explained/10869858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvxRvY/s6/colton-herta-cadillac-racing-2.jpg",
-      "published_at": "2026-10-30T23:22:54+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta a accumulé 40 points de superlicence lors de la première séance de qualification du Grand Prix du Mexique, mais la FIA indique qu’il lui manque encore un point pour obtenir le document requis.",
-      "summary_en": "Colton Herta earned 40 super-licence points during the first free-practice session at the Mexican Grand Prix, yet the FIA says he still needs one more point to qualify for the required document."
-    },
-    {
-      "id": "19c807f6e98b",
-      "title": "Colton Herta's F1 superlicence confusion explained: why he's still one point short",
-      "title_fr": "Herta : la confusion sur sa superlicence expliquée",
-      "title_en": "Herta's Superlicence Confusion Explained",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/colton-hertas-f1-superlicence-confusion-explained-why-hes-still-one-point-short/10869856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8vxd6/s6/colton-herta-hitech.jpg",
-      "published_at": "2026-10-30T23:20:30+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta a accumulé 40 points de superlicence lors de la première séance de qualification du Grand Prix du Mexique, mais il lui manque encore un point pour valider son dossier. La FIA a clarifié les critères de comptage.",
-      "summary_en": "Colton Herta earned 40 superlicence points during the first free‑practice session at the Mexican Grand Prix, yet he still falls one point short of the required total. The FIA clarified the point‑counting rules."
-    },
-    {
-      "id": "8dca679d4f41",
-      "title": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
-      "title_fr": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
-      "title_en": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-pips-mclaren-and-mercedes-to-top-fp2/10869852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZxbA9Y/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-10-30T23:08:22+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc completed a perfect Friday at the Mexico Grand Prix after topping the second Formula 1 practice session, in spite of Ferrari team-mate Lewis Hamilton retiring. <br />The Monegasque top",
-      "summary_en": "Charles Leclerc completed a perfect Friday at the Mexico Grand Prix after topping the second Formula 1 practice session, in spite of Ferrari team-mate Lewis Hamilton retiring. <br />The Monegasque top"
-    },
-    {
-      "id": "6da738b70ea8",
-      "title": "F1 Mexico GP: Charles Leclerc pips McLaren and Mercedes to top FP2",
-      "title_fr": "Leclerc domine la FP2 du Grand Prix du Mexique",
-      "title_en": "Leclerc tops Mexico GP FP2",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp2-report-10869841/10869841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2eZxbA9Y/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-10-30T23:07:33+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a terminé premier lors de la deuxième séance de formation du Grand Prix du Mexique, battant Lando Norris et Lewis Hamilton. Le pilote Ferrari a réduit son temps de 1m18.128s à 1m17.827s",
-      "summary_en": "Charles Leclerc topped the second practice session at the Mexico Grand Prix, beating Lando Norris and Lewis Hamilton. The Ferrari driver cut his time from 1m18.128s to 1m17.827s"
-    },
-    {
-      "id": "84f4a9d43241",
-      "title": "Leclerc fastest again, Verstappen and Lawson face investigation over collision | Formula 1",
-      "title_fr": "Leclerc encore le plus rapide, Verstappen et Lawson sous enquête pour collision",
-      "title_en": "Leclerc fastest again, Verstappen and Lawson under investigation for collision",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-13-27-44-2.jpg",
-      "published_at": "2026-10-30T23:04:01+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a de nouveau été le plus rapide en deuxième session de formation. Verstappen et Lawson sont désormais sous enquête après une collision qui a impliqué les deux pilotes.",
-      "summary_en": "Charles Leclerc was again the fastest in second practice. Verstappen and Lawson are now under investigation following a collision that involved both drivers."
-    },
-    {
-      "id": "51fc5d265ee9",
-      "title": "What's behind \"absolute nonsense\" Oliver Bearman contract rumours",
-      "title_fr": "Rumeurs de contrat : Bearman, l'absurde",
-      "title_en": "Contract rumours: Bearman, the absurd",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QpQp6/s6/oliver-bearman-haas-f1-team.jpg",
-      "published_at": "2026-10-30T22:12:06+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Les rumeurs sur le contrat d'Oliver Bearman ont suscité l'absurdité, alors que Haas confirme la sortie d'Esteban Ocon et l'arrivée de Rafael Camara. Le pilote reste hors contrat, mais aucune confirmation officielle n'a été donnée.",
-      "summary_en": "Rumours about Oliver Bearman's contract have sparked absurdity, as Haas confirms Esteban Ocon's exit and Rafael Camara's arrival. The driver remains out of contract, but no official confirmation has been issued."
     }
   ]
 }
