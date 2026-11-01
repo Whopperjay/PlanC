@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-01T10:46:53Z",
+  "last_updated": "2026-11-01T13:48:54Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "728e9bc232db",
+      "title": "Fernando Alonso 'beyond frustration' after engine issue in F1 Mexico GP qualifying",
+      "title_fr": "Alonso frustré après panne moteur en qualification du Mexique",
+      "title_en": "Alonso frustrated after engine failure in Mexico GP qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-beyond-frustration-after-engine-issue-in-f1-mexico-gp-qualifying/10870590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QpRy6/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-01T13:42:12+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a exprimé une frustration au-delà de l’imagination après que son moteur ait échoué en qualification, le laissant à 18e place avec une seule tour. L’Aston Martin a été stoppé à l’entrée du stade.",
+      "summary_en": "Fernando Alonso expressed frustration beyond imagination after his engine failed during qualifying, leaving him 18th with only one flying lap. The Aston Martin was halted at the stadium entrance."
+    },
+    {
+      "id": "f5321b16eb6d",
+      "title": "The changes Hamilton thinks are behind his Mexico GP pole",
+      "title_fr": "Hamilton révèle les changements qui l'ont mené à la pole du Mexique",
+      "title_en": "Hamilton reveals the changes that led him to Mexico GP pole",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-changes-hamilton-thinks-are-behind-his-mexico-gp-pole/10870570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zXbN6/s6/lewis-hamilton-ferrari-rafa-ma.jpg",
+      "published_at": "2026-11-01T11:49:56+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton attribue sa première pole de la saison en Formule 1 à Ferrari aux ajustements qu'il a apportés avant le Grand Prix du Mexique. Il l'a obtenue en battant George Russell de 0,009 seconde.",
+      "summary_en": "Lewis Hamilton credits his first Formula 1 pole for Ferrari to the changes he made before the Mexico Grand Prix. He beat former Mercedes teammate George Russell by 0.009 seconds."
+    },
+    {
+      "id": "a0233918dc19",
+      "title": "Qatar’s Moto GP round hit by first team withdrawal due to Iran war | Formula 1",
+      "title_fr": "Moto GP du Qatar : première équipe se retire à cause de la guerre en Iran",
+      "title_en": "Qatar Moto GP round sees first team withdraw amid Iran war",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/01/qatars-moto-gp-round-hit-by-first-team-withdrawal-due-to-iran-war/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-30-19-03-36-6-2249206339.jpg",
+      "published_at": "2026-11-01T11:08:50+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 88,
+      "is_breaking": true,
+      "summary_fr": "Le circuit du Qatar a vu la première équipe de Moto GP se retirer, suite à la guerre en Iran, trois semaines avant la visite de la Formule 1. L'événement soulève des inquiétudes pour la sécurité.",
+      "summary_en": "The Qatar Moto GP round saw its first team withdraw amid the Iran war, three weeks before Formula 1's visit to the country. The move raises safety concerns."
+    },
     {
       "id": "b974397a895a",
       "title": "F1 2026 qualifying head-to-head: Mexico GP",
@@ -554,6 +611,44 @@
       "summary_en": "Lewis Hamilton has earned Ferrari its first pole of the 2026 Formula 1 campaign by defeating George Russell in a thrilling qualifying shootout for the Mexico Grand Prix.<br />Russell had taken provisi"
     },
     {
+      "id": "2a5a129ca494",
+      "title": "Hamilton claims first pole position for three years ahead of Russell in Mexico | 2026 Mexican GP qualifying report",
+      "title_fr": "Hamilton claims first pole position for three years ahead of Russell in Mexico | 2026 Mexican GP qualifying report",
+      "title_en": "Hamilton claims first pole position for three years ahead of Russell in Mexico | 2026 Mexican GP qualifying report",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/31/hamilton-claims-first-pole-position-for-three-years-ahead-of-russell-in-mexico/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-10-31-19-18-54-9-261031_R19_MEXICO_DP_VA1_4074.jpg",
+      "published_at": "2026-10-31T22:16:13+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton claimed his first pole position as a Ferrari driver in qualifying for the Mexican Grand Prix.",
+      "summary_en": "Lewis Hamilton claimed his first pole position as a Ferrari driver in qualifying for the Mexican Grand Prix."
+    },
+    {
+      "id": "9a0fe3b5ffc2",
+      "title": "2026 Mexican Grand Prix grid | Formula 1",
+      "title_fr": "Hamilton en pole provisoire du GP du Mexique",
+      "title_en": "Hamilton secures provisional pole for Mexican GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/10/31/2026-mexican-grand-prix-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-19-46-52-7.jpg",
+      "published_at": "2026-10-31T22:14:50+00:00",
+      "race_id": "mexico",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a pris la pole provisoire du Grand Prix du Mexique, devant George Russell et Charles Leclerc. Le pilote Mercedes se prépare pour la course.",
+      "summary_en": "Lewis Hamilton secured provisional pole for the Mexican Grand Prix, ahead of George Russell and Charles Leclerc. The Mercedes driver is preparing for the race."
+    },
+    {
       "id": "37ac26c6cb5b",
       "title": "Max Verstappen will have no say in 2027 Racing Bulls driver line-up, says Red Bull boss",
       "title_fr": "Red Bull confie la sélection 2027 à Racing Bulls, sans l'avis de Verstappen",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Although Red Bull has turned its 2026 Formula 1 season around in impressive fashion, the technical team led by Pierre Wache is still dealing with several limitations behind the scenes. One of the main",
       "summary_en": "Although Red Bull has turned its 2026 Formula 1 season around in impressive fashion, the technical team led by Pierre Wache is still dealing with several limitations behind the scenes. One of the main"
-    },
-    {
-      "id": "dc49491637f3",
-      "title": "Isack Hadjar formally warned for fan incident in F1 Mexico GP paddock",
-      "title_fr": "Hadjar averti pour incident avec un fan au paddock du Mexique",
-      "title_en": "Hadjar warned for fan incident at Mexico paddock",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-warned-for-fan-incident-in-f1-mexico-gp-paddock/10870033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6b8ZNN32/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-10-31T17:17:48+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a reçu une mise en garde officielle après avoir repoussé un fan au paddock du Grand Prix du Mexique. Le pilote de Red Bull a été convoqué pour un acte de mauvaise conduite.",
-      "summary_en": "Isack Hadjar received an official warning after shoving a fan in the Mexico GP paddock. The Red Bull driver was summoned for misconduct."
-    },
-    {
-      "id": "bf2fa627ae9a",
-      "title": "Mercedes out of performance window at Mexico GP - George Russell",
-      "title_fr": "Russell en difficulté sur la Mercedes à Mexico",
-      "title_en": "Russell struggles with Mercedes at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-mercedes-out-of-performance-window-at-mexico-gp/10870173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7Bb9M2/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-10-31T15:52:10+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell fait face à des problèmes de performance avec la Mercedes W17, qui reste hors de la fenêtre optimale lors de la séance d'essais du vendredi à Mexico.",
-      "summary_en": "George Russell is struggling with the Mercedes W17, which remains outside the optimal performance window during Friday practice at the Mexican Grand Prix."
-    },
-    {
-      "id": "f286430f000a",
-      "title": "Haas drops Ocon for F1 Mexico GP",
-      "title_fr": "Haas remplace Ocon par Hirakawa pour le Mexique",
-      "title_en": "Haas swaps Ocon for Hirakawa at Mexico GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/haas-drops-ocon-for-f1-mexico-gp/10870160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/68VwR8V2/s6/esteban-ocon-haas-f1-team.jpg",
-      "published_at": "2026-10-31T14:54:48+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Haas a remplacé Esteban Ocon par le pilote de réserve Ryo Hirakawa pour le reste du week-end du Grand Prix du Mexique. Hirakawa prendra la place d'Ocon en FP2, Q et course.",
-      "summary_en": "Haas replaced Esteban Ocon with reserve driver Ryo Hirakawa for the remainder of the Mexico GP weekend. Hirakawa will take Ocon's seat in FP2, Q and the race."
-    },
-    {
-      "id": "ca31b7c9e7fc",
-      "title": "Haas drops Esteban Ocon for F1 Mexico GP",
-      "title_fr": "Haas remplace Ocon par Hirakawa pour le Mexique",
-      "title_en": "Haas swaps Ocon for Hirakawa at Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/haas-drops-esteban-ocon-for-f1-mexico-gp/10870158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwR8V2/s6/esteban-ocon-haas-f1-team.jpg",
-      "published_at": "2026-10-31T14:52:55+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Haas a décidé de remplacer Esteban Ocon par le pilote de réserve Ryo Hirakawa pour le reste du week-end du Grand Prix du Mexique. Hirakawa prendra la place d'Ocon lors des séances de pratique, du qualif et de la course.",
-      "summary_en": "Haas has swapped Esteban Ocon for reserve driver Ryo Hirakawa for the remainder of the Mexico GP weekend. Hirakawa will take Ocon's seat in final practice, qualifying and the race."
-    },
-    {
-      "id": "03c780cdd2af",
-      "title": "Ocon out, Hirakawa in as Haas make shock Mexican Grand Prix driver change | Formula 1",
-      "title_fr": "Hirakawa remplace Ocon chez Haas pour le Grand Prix du Mexique",
-      "title_en": "Hirakawa replaces Ocon at Haas for Mexican GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/ocon-out-hirakawa-in-as-haas-make-shock-mexican-grand-prix-driver-change/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-15-46-35-3.jpg",
-      "published_at": "2026-10-31T14:48:03+00:00",
-      "race_id": "mexico",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Haas a annoncé que Esteban Ocon ne conduira pas le reste du Grand Prix du Mexique. Ryo Hirakawa le remplacera.",
-      "summary_en": "Haas announced Esteban Ocon will not drive the rest of the Mexican Grand Prix. Ryo Hirakawa will take his place."
     }
   ]
 }
