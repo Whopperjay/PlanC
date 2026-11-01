@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-11-01T19:52:50Z",
+  "last_updated": "2026-11-01T22:54:48Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f54ea56c0aa8",
+      "title": "F1's youngest world champions",
+      "title_fr": "Antonelli devient champion du monde à 20 ans",
+      "title_en": "Antonelli becomes F1 world champion at 20",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1s-youngest-world-champions/10870660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVP1470/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-01T22:49:14+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli franchit la ligne en troisième place au Grand Prix du Mexique pour devenir le plus jeune champion du monde de Formule 1, à 20 ans, battant le record de Sebastian Vettel.",
+      "summary_en": "Kimi Antonelli crossed the line in third at the Mexican Grand Prix to become Formula 1’s youngest world champion at 20, breaking Sebastian Vettel’s record."
+    },
+    {
+      "id": "f909466bf2a9",
+      "title": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
+      "title_fr": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
+      "title_en": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-kimi-antonelli-clinches-world-title-as-max-verstappen-holds-off-lewis-hamilton-for-vic/10870724/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8ZM46/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": "2026-11-01T22:38:22+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli has written history by becoming Formula 1's youngest-ever world champion at the Mexico Grand Prix, as Red Bull's Max Verstappen beat Ferrari's Lewis Hamilton to win the race.<br />Verst",
+      "summary_en": "Kimi Antonelli has written history by becoming Formula 1's youngest-ever world champion at the Mexico Grand Prix, as Red Bull's Max Verstappen beat Ferrari's Lewis Hamilton to win the race.<br />Verst"
+    },
+    {
+      "id": "5d4553e54d0c",
+      "title": "F1 Mexico GP: Kimi Antonelli clinches world title as Max Verstappen holds off Lewis Hamilton for victory",
+      "title_fr": "Antonelli devient champion du monde à Mexico, Verstappen bat Hamilton",
+      "title_en": "Antonelli becomes youngest world champion at Mexico, Verstappen beats Hamilton",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-race-report-/10870694/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2dEoOZwY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-01T22:35:56+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a fait l'histoire en devenant le plus jeune champion du monde de Formule 1 lors du Grand Prix du Mexique. Max Verstappen a battu Lewis Hamilton pour la victoire.",
+      "summary_en": "Kimi Antonelli made history by becoming Formula 1's youngest world champion at the Mexico Grand Prix. Max Verstappen beat Lewis Hamilton to win the race."
+    },
+    {
+      "id": "e21e05b13490",
+      "title": "Five quick takeaways from historic Mexico GP",
+      "title_fr": "Antonelli brille sur le podium du Grand Prix du Mexique",
+      "title_en": "Antonelli shines on Mexico GP podium",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-mexico-gp/10870690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8ZM46/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": "2026-11-01T22:29:07+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a célébré son premier podium en Formule 1 lors du Grand Prix du Mexique, franchissant la ligne de départ depuis la cinquième place. Sa performance, marquée par une concentration intense, a marqué un moment historique pour l'Italie.",
+      "summary_en": "Kimi Antonelli celebrated his first Formula 1 podium at the Mexico GP, starting from fifth on the grid and maintaining focus to cross the finish line. His mature drive marked a historic moment for the Italian driver."
+    },
+    {
+      "id": "e5f3de2928fa",
+      "title": "Kimi Antonelli becomes youngest world champion in F1 history",
+      "title_fr": "Antonelli, champion du monde à 20 ans",
+      "title_en": "Antonelli becomes youngest F1 world champion",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-becomes-youngest-world-champion-in-f1-history/10870717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDxdw0/s6/motorsport-com-graphics-42.jpg",
+      "published_at": "2026-11-01T22:25:24+00:00",
+      "race_id": "mexico",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté le championnat du monde de Formule 1 à l’âge de 20 ans et 68 jours, après une troisième place au Grand Prix du Mexique. Il a battu le record de Sebastian Vettel.",
+      "summary_en": "Kimi Antonelli became the youngest Formula 1 world champion at 20 years and 68 days, after finishing third at the Mexican Grand Prix. He broke Sebastian Vettel’s record."
+    },
+    {
+      "id": "8f202c8bdeac",
+      "title": "FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP",
+      "title_fr": "Stewards expliquent la pénalité de cinq secondes de Leclerc",
+      "title_en": "Stewards explain Leclerc's five‑second penalty",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-11-01T21:14:16+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les commissaires de la FIA ont détaillé les raisons de la pénalité de cinq secondes infligée à Charles Leclerc lors du Grand Prix du Mexique. Le pilote a commencé troisième, mais a perdu du temps après un départ chaotique.",
+      "summary_en": "The FIA stewards clarified why Charles Leclerc received a five‑second penalty at the Mexican Grand Prix. Starting third, the driver lost time after a chaotic start that saw Lewis Hamilton on pole."
+    },
+    {
+      "id": "32421f14a83b",
+      "title": "Why Charles Leclerc only got a five-second penalty in F1 Mexico GP",
+      "title_fr": "Leclerc pénalisé de 5 secondes au Mexique",
+      "title_en": "Leclerc penalised 5 seconds in Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870700/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-11-01T21:13:00+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Les commissaires ont justifié la pénalité de cinq secondes infligée à Charles Leclerc lors du Grand Prix du Mexique. Le pilote a commencé troisième et a perdu la tête après un départ chaotique.",
+      "summary_en": "The stewards explained the five-second penalty given to Charles Leclerc at the Mexico Grand Prix. The driver started third and lost the lead after a chaotic start."
+    },
+    {
+      "id": "b139e885f9fd",
+      "title": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
+      "title_fr": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
+      "title_en": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKRyBY/s6/motorsport-com-graphics-55.jpg",
+      "published_at": "2026-11-01T20:51:35+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc’s five-second penalty at the Mexico City Grand Prix has divided Formula 1 fans. Some believe that it was far too lenient while others insist that he should not have been punished at al",
+      "summary_en": "Charles Leclerc’s five-second penalty at the Mexico City Grand Prix has divided Formula 1 fans. Some believe that it was far too lenient while others insist that he should not have been punished at al"
+    },
     {
       "id": "9d0f9dcd888b",
       "title": "What does Yamaha’s shock MotoGP boycott mean for F1 in Qatar and Abu Dhabi?",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "On the site of two of his seven world championship celebrations, Lewis Hamilton added yet another chapter to his illustrious Formula 1 career and his fond Mexico memory bank, one that was long overdue",
       "summary_en": "On the site of two of his seven world championship celebrations, Lewis Hamilton added yet another chapter to his illustrious Formula 1 career and his fond Mexico memory bank, one that was long overdue"
-    },
-    {
-      "id": "51218f87ffaa",
-      "title": "Hirakawa surprised by call-up to replace Ocon but disappointed by qualifying result | Formula 1",
-      "title_fr": "Hirakawa surpris par son appel à la place d'Ocon, déçu par la qualification",
-      "title_en": "Hirakawa surprised by call-up to replace Ocon, disappointed by qualifying result",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/hirakawa-surprised-by-call-up-to-replace-ocon-but-disappointed-by-qualifying-result/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-12-22-57-1.jpg",
-      "published_at": "2026-10-31T22:35:10+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Ryo Hirakawa a été très surpris d'être appelé à remplacer Esteban Ocon chez Haas, mais il a déçu en ne franchissant pas le Q2 lors de la séance de qualification",
-      "summary_en": "Ryo Hirakawa was very surprised to be called up to replace Esteban Ocon at Haas, but he was disappointed after failing to reach Q2 in qualifying"
-    },
-    {
-      "id": "b21214288f7d",
-      "title": "2026 F1 Mexico Grand Prix starting grid",
-      "title_fr": "Hamilton, Russell, Leclerc et Kimi sur le grid du Mexique 2026",
-      "title_en": "Hamilton, Russell, Leclerc and Kimi on the 2026 Mexico GP grid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/2026-f1-mexico-grand-prix-starting-grid/10870302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNjZb2/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-10-31T22:32:06+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton ouvre le grid du Grand Prix du Mexique 2026, suivi de George Russell, Charles Leclerc et Kimi. Les pilotes Ferrari et Mercedes se préparent pour la course.",
-      "summary_en": "Lewis Hamilton leads the 2026 Mexico GP grid, followed by George Russell, Charles Leclerc and Kimi. Ferrari and Mercedes drivers are ready for the race."
-    },
-    {
-      "id": "dc6f9a2165b4",
-      "title": "F1 Mexico GP: Hamilton takes pole from Russell and Leclerc",
-      "title_fr": "Hamilton remporte le pole du Mexique, battant Russell et Leclerc",
-      "title_en": "Hamilton takes Mexico pole, beating Russell and Leclerc",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-lewis-hamilton-beats-george-russell-and-charles-leclerc-to-pole/10870295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YBVjz7vY/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-10-31T22:21:54+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a décroché le premier pole de la saison 2026 pour Ferrari en battant George Russell et Charles Leclerc lors du Grand Prix du Mexique. La différence était de 0,009 seconde.",
-      "summary_en": "Lewis Hamilton secured Ferrari's first pole of the 2026 season at the Mexico Grand Prix, beating George Russell and Charles Leclerc by a razor‑thin 0.009 seconds."
-    },
-    {
-      "id": "48c1e8d2be12",
-      "title": "F1 Mexico GP: Lewis Hamilton beats George Russell and Charles Leclerc to pole",
-      "title_fr": "F1 Mexico GP: Lewis Hamilton beats George Russell and Charles Leclerc to pole",
-      "title_en": "F1 Mexico GP: Lewis Hamilton beats George Russell and Charles Leclerc to pole",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-quali-report/10870286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwRpQ2/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-10-31T22:19:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton has earned Ferrari its first pole of the 2026 Formula 1 campaign by defeating George Russell in a thrilling qualifying shootout for the Mexico Grand Prix.<br />Russell had taken provisi",
-      "summary_en": "Lewis Hamilton has earned Ferrari its first pole of the 2026 Formula 1 campaign by defeating George Russell in a thrilling qualifying shootout for the Mexico Grand Prix.<br />Russell had taken provisi"
-    },
-    {
-      "id": "2a5a129ca494",
-      "title": "Hamilton claims first pole position for three years ahead of Russell in Mexico | 2026 Mexican GP qualifying report",
-      "title_fr": "Hamilton claims first pole position for three years ahead of Russell in Mexico | 2026 Mexican GP qualifying report",
-      "title_en": "Hamilton claims first pole position for three years ahead of Russell in Mexico | 2026 Mexican GP qualifying report",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/hamilton-claims-first-pole-position-for-three-years-ahead-of-russell-in-mexico/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-10-31-19-18-54-9-261031_R19_MEXICO_DP_VA1_4074.jpg",
-      "published_at": "2026-10-31T22:16:13+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton claimed his first pole position as a Ferrari driver in qualifying for the Mexican Grand Prix.",
-      "summary_en": "Lewis Hamilton claimed his first pole position as a Ferrari driver in qualifying for the Mexican Grand Prix."
-    },
-    {
-      "id": "9a0fe3b5ffc2",
-      "title": "2026 Mexican Grand Prix grid | Formula 1",
-      "title_fr": "Hamilton en pole provisoire du GP du Mexique",
-      "title_en": "Hamilton secures provisional pole for Mexican GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/2026-mexican-grand-prix-grid/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-19-46-52-7.jpg",
-      "published_at": "2026-10-31T22:14:50+00:00",
-      "race_id": "mexico",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a pris la pole provisoire du Grand Prix du Mexique, devant George Russell et Charles Leclerc. Le pilote Mercedes se prépare pour la course.",
-      "summary_en": "Lewis Hamilton secured provisional pole for the Mexican Grand Prix, ahead of George Russell and Charles Leclerc. The Mercedes driver is preparing for the race."
-    },
-    {
-      "id": "37ac26c6cb5b",
-      "title": "Max Verstappen will have no say in 2027 Racing Bulls driver line-up, says Red Bull boss",
-      "title_fr": "Red Bull confie la sélection 2027 à Racing Bulls, sans l'avis de Verstappen",
-      "title_en": "Red Bull hands 2027 driver lineup to Racing Bulls, no input from Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-will-have-no-say-in-2027-racing-bulls-driver-line-up-says-red-bull-boss/10870282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QprX6/s6/motorsport-com-graphics-37.jpg",
-      "published_at": "2026-10-31T21:24:15+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies a annoncé que Racing Bulls décidera seul de la composition de l'équipe en 2027, excluant Max Verstappen de toute décision, malgré son altercation avec Liam Lawson au Mexique",
-      "summary_en": "Laurent Mekies said Racing Bulls will solely decide the 2027 driver lineup, excluding Max Verstappen from any input, despite his clash with Liam Lawson at the Mexican Grand Prix"
-    },
-    {
-      "id": "dcf971616d18",
-      "title": "Norris beats Antonelli by a thousandth of a second in final practice | Formula 1",
-      "title_fr": "Norris dépasse Antonelli d'une milliseconde en séance d'essais finale",
-      "title_en": "Norris beats Antonelli by a thousandth of a second in final practice",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/norris-beats-antonelli-by-a-thousandth-of-a-second-in-final-practice/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-31-11-48-40-1.jpg",
-      "published_at": "2026-10-31T18:49:04+00:00",
-      "race_id": "mexico",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le champion du monde, Norris, a franchi Antonelli d'une milliseconde lors de la séance d'essais finale du Grand Prix du Mexique, consolidant sa position de leader avant la course.",
-      "summary_en": "Norris beat Antonelli by a thousandth of a second in the final practice session for the Mexican Grand Prix, cementing his lead before the race."
     }
   ]
 }
