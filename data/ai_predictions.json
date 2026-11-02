@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:00:04Z",
+  "generated_at": "2026-11-02T13:00:20Z",
   "model": "claude",
   "predictions": [
     {
@@ -142,30 +142,30 @@
       "race_id": "brazilian",
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
-      "p1": "hamilton",
+      "p1": "antonelli",
       "p2": "russell",
-      "p3": "leclerc",
-      "reasoning_fr": "Hamilton a affiché le meilleur temps sur le tour unique à Mexico (P1) et bénéficie d'une forte évolution de la piste à Interlagos. Russell, deuxième en qualification mexicaine, a retrouvé du rythme après le problème de départ et exploite le potentiel Mercedes. Leclerc, troisième à Mexico et champion en course, reste très rapide sur le circuit brésilien, où la Ferrari excelle en vitesse de pointe e",
-      "reasoning_en": "Hamilton posted the fastest single‑lap time in Mexico (P1) and will profit from the strong track evolution at Interlagos. Russell, who qualified second in Mexico, has recovered pace after his start issue and can exploit Mercedes' one‑lap speed. Leclerc, third in Mexico and a race‑winner, remains very quick on the Brazilian circuit, where Ferrari’s straight‑line speed and fast corners give him a so",
-      "confidence": "high",
-      "key_factor_fr": "Performance récente en qualification et évolution de piste",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 119 points d'avance : la Mercedes est la référence de l'ère moteur 2026. Russell, très fort en qualif, a la même voiture et vise la première ligne. Verstappen reste redoutable à Interlagos, où il a souvent brillé, mais la Red Bull semble un cran derrière sur un tour. La météo variable de São Paulo peut rebattre les cartes.",
+      "reasoning_en": "Antonelli dominates 2026 with a 119-point lead: Mercedes is the benchmark of the 2026 power-unit era. Russell, a strong qualifier, has the same car and targets the front row. Verstappen remains formidable at Interlagos, where he has often shone, but Red Bull looks a step behind over one lap. São Paulo's changeable weather could reshuffle the order.",
+      "confidence": "medium",
+      "key_factor_fr": "Supériorité Mercedes sur un tour, météo d'Interlagos incertaine",
       "news_used_ids": [],
-      "generated_at": "2026-11-02T01:57:38Z"
+      "generated_at": "2026-11-02T13:00:20Z"
     },
     {
       "event_id": "brazilian_grand_prix",
       "race_id": "brazilian",
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
-      "p1": "hamilton",
-      "p2": "russell",
-      "p3": "leclerc",
-      "reasoning_fr": "Hamilton part en pole sur un circuit difficile à dépasser, soutenu par sa forme solide en qualification et son expérience. Russell, deuxième sur la grille, bénéficie d'une Mercedes fiable et d'une bonne dynamique récente malgré le souci de départ au Mexique. Leclerc, troisième en qualif, a montré une forte performance à Mexico et aux US, ce qui le place comme challenger direct sur le podium.",
-      "reasoning_en": "Hamilton starts from pole on a track where overtaking is hard, backed by strong qualifying pace and experience. Russell, second on the grid, has a reliable Mercedes and recent good momentum despite the Mexico start issue. Leclerc, third in qualifying, displayed strong form in Mexico and the US GP, positioning him as a direct podium challenger.",
-      "confidence": "high",
-      "key_factor_fr": "Grille de départ + forme récente",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine 2026 avec 119 points d'avance et une Mercedes de référence. Interlagos lui réussit : P2 en 2025. Verstappen excelle au Brésil (victoire 2024 depuis P17) et reste le meilleur de Red Bull. Russell profite de la Mercedes pour devancer des Ferrari irrégulières. La météo changeante d'Interlagos peut rebattre les cartes.",
+      "reasoning_en": "Antonelli dominates 2026 with a 119-point lead and the benchmark Mercedes. Interlagos suits him: P2 in 2025. Verstappen excels in Brazil (2024 win from P17) and remains Red Bull's spearhead. Russell leverages the Mercedes to edge inconsistent Ferraris. Interlagos' changeable weather could reshuffle everything.",
+      "confidence": "medium",
+      "key_factor_fr": "Supériorité Mercedes et météo imprévisible d'Interlagos",
       "news_used_ids": [],
-      "generated_at": "2026-11-02T01:57:26Z"
+      "generated_at": "2026-11-02T13:00:13Z"
     }
   ]
 }
