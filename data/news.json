@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-02T17:08:11Z",
+  "last_updated": "2026-11-02T20:10:13Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "3d3a6f905f18",
+      "title": "Peter Bonnington reveals \"stern conversation\" that transformed Kimi Antonelli's F1 career",
+      "title_fr": "Bonnington révèle la conversation décisive qui a boosté Kimi Antonelli",
+      "title_en": "Bonnington reveals the decisive conversation that boosted Kimi Antonelli",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/peter-bonnington-reveals-stern-conversation-that-transformed-kimi-antonellis-f1-career/10871102/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BlrZ2/s6/motorsport-com-graphics-50.jpg",
+      "published_at": "2026-11-02T18:30:56+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de course Peter Bonnington a déclaré qu’une conversation très stricte a changé la trajectoire de la saison de débutant de Kimi Antonelli, l’italien ayant terminé troisième au Grand Prix du Mexique pour sécuriser son premier titre",
+      "summary_en": "Race engineer Peter Bonnington said a very stern conversation turned Kimi Antonelli’s rookie season around, with the Italian finishing third at the Mexican Grand Prix to secure his first title"
+    },
+    {
+      "id": "cd4e8fb35108",
+      "title": "Toto Wolff: Two sponsors left Mercedes after promoting Kimi Antonelli into F1",
+      "title_fr": "Toto Wolff: Two sponsors left Mercedes after promoting Kimi Antonelli into F1",
+      "title_en": "Toto Wolff: Two sponsors left Mercedes after promoting Kimi Antonelli into F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-two-sponsors-left-mercedes-after-promoting-kimi-antonelli-into-f1/10871088/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/J0r41yPY/s6/toto-wolff-verraet-zwei-sponsoren-verliessen-mercedes-wegen-kimi-antonelli-26110217.jpg",
+      "published_at": "2026-11-02T17:43:35+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "At the Mexico Grand Prix, Mercedes reaped the reward for the courage it showed in putting the then 18-year-old Kimi Antonelli in the cockpit from 2025 with his world championship triumph in his just s",
+      "summary_en": "At the Mexico Grand Prix, Mercedes reaped the reward for the courage it showed in putting the then 18-year-old Kimi Antonelli in the cockpit from 2025 with his world championship triumph in his just s"
+    },
+    {
+      "id": "1f46036857b3",
+      "title": "Juan Pablo Montoya demands \"consequences\" for Ferrari drivers after Mexican GP disaster",
+      "title_fr": "Montoya exige des conséquences après la catastrophe mexicaine",
+      "title_en": "Montoya demands consequences after Mexican GP disaster",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-demands-consequences-for-ferrari-drivers-after-mexican-gp-disaster/10871096/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNZ9q2/s6/motorsport-com-graphics-49.jpg",
+      "published_at": "2026-11-02T17:40:55+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Juan Pablo Montoya a appelé à des sanctions contre Lewis Hamilton et Charles Leclerc après la bataille du premier tour qui a coûté la victoire à Ferrari lors du Grand Prix du Mexique.",
+      "summary_en": "Juan Pablo Montoya called for sanctions against Lewis Hamilton and Charles Leclerc after the first‑lap clash that cost Ferrari the win at the Mexican Grand Prix."
+    },
+    {
+      "id": "69df258740e7",
+      "title": "Cadillac to investigate high-speed Mexico GP failure that led to angry Valtteri Bottas reaction",
+      "title_fr": "Cadillac enquête sur l'accident de Bottas à Mexico",
+      "title_en": "Cadillac probes Bottas crash at Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/cadillac-to-investigate-high-speed-mexico-gp-failure-that-led-to-angry-valtteri-bottas-reaction/10871021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9EBaPY/s6/valtteri-bottas-cadillac-racin.jpg",
+      "published_at": "2026-11-02T17:30:02+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Le principal de Cadillac, Marcin Budkowski, a promis d'enquêter sur la défaillance de la suspension qui a fait basculer Valtteri Bottas à l'entrée du premier virage du Grand Prix de Mexico. L'équipe veut éviter que cela se reproduise.",
+      "summary_en": "Cadillac chief Marcin Budkowski vows to investigate the suspension failure that sent Valtteri Bottas spinning into the TecPro barrier at the start of the Mexico GP. The team aims to prevent a repeat."
+    },
+    {
+      "id": "5dc0968bbfa1",
+      "title": "How Mercedes can win the 2026 F1 constructors' championship at the Brazilian GP",
+      "title_fr": "Mercedes vise le titre des constructeurs au Brésil",
+      "title_en": "Mercedes targets constructors' title in Brazil",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-mercedes-can-win-the-2026-f1-constructors-championship-at-the-brazilian-gp/10871090/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YE9EpQMY/s6/motorsport-com-graphics-48.jpg",
+      "published_at": "2026-11-02T17:13:41+00:00",
+      "race_id": "brazil",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Mercedes, en tête du championnat avec 126 points d'avance sur Ferrari, cherche à sécuriser le titre des constructeurs lors du Grand Prix du Brésil. La fin de semaine de Sao Paulo est cruciale pour la victoire finale.",
+      "summary_en": "Mercedes leads the championship by 126 points over Ferrari and aims to clinch the constructors' title at the Brazilian Grand Prix. The Sao Paulo weekend is pivotal for securing the final victory."
+    },
     {
       "id": "2394e05db355",
       "title": "What was Kimi Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli franchit la ligne en troisième place au Grand Prix du Mexique pour devenir le plus jeune champion du monde de Formule 1, à 20 ans, battant le record de Sebastian Vettel.",
       "summary_en": "Kimi Antonelli crossed the line in third at the Mexican Grand Prix to become Formula 1’s youngest world champion at 20, breaking Sebastian Vettel’s record."
-    },
-    {
-      "id": "f909466bf2a9",
-      "title": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
-      "title_fr": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
-      "title_en": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-mexico-gp-kimi-antonelli-clinches-world-title-as-max-verstappen-holds-off-lewis-hamilton-for-vic/10870724/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8ZM46/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": "2026-11-01T22:38:22+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli has written history by becoming Formula 1's youngest-ever world champion at the Mexico Grand Prix, as Red Bull's Max Verstappen beat Ferrari's Lewis Hamilton to win the race.<br />Verst",
-      "summary_en": "Kimi Antonelli has written history by becoming Formula 1's youngest-ever world champion at the Mexico Grand Prix, as Red Bull's Max Verstappen beat Ferrari's Lewis Hamilton to win the race.<br />Verst"
-    },
-    {
-      "id": "5d4553e54d0c",
-      "title": "F1 Mexico GP: Kimi Antonelli clinches world title as Max Verstappen holds off Lewis Hamilton for victory",
-      "title_fr": "Antonelli devient champion du monde à Mexico, Verstappen bat Hamilton",
-      "title_en": "Antonelli becomes youngest world champion at Mexico, Verstappen beats Hamilton",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-race-report-/10870694/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2dEoOZwY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-11-01T22:35:56+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a fait l'histoire en devenant le plus jeune champion du monde de Formule 1 lors du Grand Prix du Mexique. Max Verstappen a battu Lewis Hamilton pour la victoire.",
-      "summary_en": "Kimi Antonelli made history by becoming Formula 1's youngest world champion at the Mexico Grand Prix. Max Verstappen beat Lewis Hamilton to win the race."
-    },
-    {
-      "id": "e21e05b13490",
-      "title": "Five quick takeaways from historic Mexico GP",
-      "title_fr": "Antonelli brille sur le podium du Grand Prix du Mexique",
-      "title_en": "Antonelli shines on Mexico GP podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-mexico-gp/10870690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8ZM46/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": "2026-11-01T22:29:07+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a célébré son premier podium en Formule 1 lors du Grand Prix du Mexique, franchissant la ligne de départ depuis la cinquième place. Sa performance, marquée par une concentration intense, a marqué un moment historique pour l'Italie.",
-      "summary_en": "Kimi Antonelli celebrated his first Formula 1 podium at the Mexico GP, starting from fifth on the grid and maintaining focus to cross the finish line. His mature drive marked a historic moment for the Italian driver."
-    },
-    {
-      "id": "e5f3de2928fa",
-      "title": "Kimi Antonelli becomes youngest world champion in F1 history",
-      "title_fr": "Antonelli, champion du monde à 20 ans",
-      "title_en": "Antonelli becomes youngest F1 world champion",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-becomes-youngest-world-champion-in-f1-history/10870717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6zoDxdw0/s6/motorsport-com-graphics-42.jpg",
-      "published_at": "2026-11-01T22:25:24+00:00",
-      "race_id": "mexico",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le championnat du monde de Formule 1 à l’âge de 20 ans et 68 jours, après une troisième place au Grand Prix du Mexique. Il a battu le record de Sebastian Vettel.",
-      "summary_en": "Kimi Antonelli became the youngest Formula 1 world champion at 20 years and 68 days, after finishing third at the Mexican Grand Prix. He broke Sebastian Vettel’s record."
-    },
-    {
-      "id": "8f202c8bdeac",
-      "title": "FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP",
-      "title_fr": "Stewards expliquent la pénalité de cinq secondes de Leclerc",
-      "title_en": "Stewards explain Leclerc's five‑second penalty",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-11-01T21:14:16+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires de la FIA ont détaillé les raisons de la pénalité de cinq secondes infligée à Charles Leclerc lors du Grand Prix du Mexique. Le pilote a commencé troisième, mais a perdu du temps après un départ chaotique.",
-      "summary_en": "The FIA stewards clarified why Charles Leclerc received a five‑second penalty at the Mexican Grand Prix. Starting third, the driver lost time after a chaotic start that saw Lewis Hamilton on pole."
     }
   ]
 }
