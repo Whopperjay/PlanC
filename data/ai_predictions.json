@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T13:00:28Z",
-  "model": "claude",
+  "generated_at": "2026-11-02T01:57:39Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -142,30 +142,30 @@
       "race_id": "brazilian",
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "hamilton",
       "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance, signe que la Mercedes est la référence en 2026. À Interlagos, circuit court, tout se joue sur la traction et le dernier secteur ; la Mercedes devrait y briller. Russell reste un excellent qualifieur. Verstappen, spécialiste de São Paulo, peut s'intercaler, d'autant que la météo changeante peut rebattre les cartes.",
-      "reasoning_en": "Antonelli leads the championship by 123 points, a sign that Mercedes is the benchmark car in 2026. Interlagos is a short lap where traction and the final sector decide everything, which should suit Mercedes. Russell remains an excellent qualifier. Verstappen, a São Paulo specialist, could split them, especially since changeable weather can shake up the order.",
-      "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes, mais météo d'Interlagos imprévisible",
+      "p3": "leclerc",
+      "reasoning_fr": "Hamilton a affiché le meilleur temps sur le tour unique à Mexico (P1) et bénéficie d'une forte évolution de la piste à Interlagos. Russell, deuxième en qualification mexicaine, a retrouvé du rythme après le problème de départ et exploite le potentiel Mercedes. Leclerc, troisième à Mexico et champion en course, reste très rapide sur le circuit brésilien, où la Ferrari excelle en vitesse de pointe e",
+      "reasoning_en": "Hamilton posted the fastest single‑lap time in Mexico (P1) and will profit from the strong track evolution at Interlagos. Russell, who qualified second in Mexico, has recovered pace after his start issue and can exploit Mercedes' one‑lap speed. Leclerc, third in Mexico and a race‑winner, remains very quick on the Brazilian circuit, where Ferrari’s straight‑line speed and fast corners give him a so",
+      "confidence": "high",
+      "key_factor_fr": "Performance récente en qualification et évolution de piste",
       "news_used_ids": [],
-      "generated_at": "2026-11-01T13:00:28Z"
+      "generated_at": "2026-11-02T01:57:38Z"
     },
     {
       "event_id": "brazilian_grand_prix",
       "race_id": "brazilian",
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "hamilton",
       "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 123 points d'avance et la Mercedes est la référence en 2026. Russell complète le doublé probable. Pour la 3e place, c'est serré entre Hamilton, Verstappen et Leclerc. Verstappen excelle à Interlagos, où il est remonté de la pitlane jusqu'au podium en 2025, et la météo changeante peut favoriser son talent.",
-      "reasoning_en": "Antonelli dominates the championship with a 123-point lead, and Mercedes is the 2026 benchmark. Russell completes a likely one-two. Third place is tight between Hamilton, Verstappen and Leclerc. Verstappen excels at Interlagos, where he climbed from the pitlane to the podium in 2025, and changeable weather can reward his skill.",
-      "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes, mais la météo d'Interlagos reste imprévisible",
+      "p3": "leclerc",
+      "reasoning_fr": "Hamilton part en pole sur un circuit difficile à dépasser, soutenu par sa forme solide en qualification et son expérience. Russell, deuxième sur la grille, bénéficie d'une Mercedes fiable et d'une bonne dynamique récente malgré le souci de départ au Mexique. Leclerc, troisième en qualif, a montré une forte performance à Mexico et aux US, ce qui le place comme challenger direct sur le podium.",
+      "reasoning_en": "Hamilton starts from pole on a track where overtaking is hard, backed by strong qualifying pace and experience. Russell, second on the grid, has a reliable Mercedes and recent good momentum despite the Mexico start issue. Leclerc, third in qualifying, displayed strong form in Mexico and the US GP, positioning him as a direct podium challenger.",
+      "confidence": "high",
+      "key_factor_fr": "Grille de départ + forme récente",
       "news_used_ids": [],
-      "generated_at": "2026-11-01T13:00:21Z"
+      "generated_at": "2026-11-02T01:57:26Z"
     }
   ]
 }
