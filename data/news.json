@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-02T20:10:13Z",
+  "last_updated": "2026-11-02T23:12:08Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "03d7e4f694c9",
+      "title": "Social Media: Russell vows to rediscover his performance after “more bad days than good” in 2026 | Brief",
+      "title_fr": "Russell promet de retrouver la forme après une année de mauvais jours",
+      "title_en": "Russell vows to rediscover form after a year of bad days",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/social-media-russell-vows-to-rediscover-his-performance-after-more-bad-days-than-good-in-2026/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-00-46-2-M647367_F1_Grand_Prix_of_Mexico.jpg",
+      "published_at": "2026-11-02T20:47:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Russell a déclaré qu’il se remettrait en forme après une saison marquée par « plus de mauvais jours que de bons ». Le pilote s’engage à retrouver sa performance.",
+      "summary_en": "Lewis Russell said he will get back into shape after a season of 'more bad days than good'. The driver is determined to regain his performance."
+    },
+    {
+      "id": "758ef392a66f",
+      "title": "George Russell breaks silence with heartfelt message after Kimi Antonelli's F1 title win",
+      "title_fr": "Russell se confie après la victoire de Kimi Antonelli",
+      "title_en": "Russell speaks after Kimi Antonelli's title win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyKlR4Y/s6/motorsport-com-graphics-51.jpg",
+      "published_at": "2026-11-02T20:26:53+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a publié un message émouvant après la victoire de son coéquipier Kimi Antonelli. Il reconnaît que 2026 ne lui était pas destiné.",
+      "summary_en": "George Russell posted an emotional message after his teammate Kimi Antonelli won the championship. He admitted 2026 was not meant to be his year."
+    },
     {
       "id": "3d3a6f905f18",
       "title": "Peter Bonnington reveals \"stern conversation\" that transformed Kimi Antonelli's F1 career",
@@ -229,6 +267,25 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a déclaré que la mentalité kamikaze de Charles Leclerc était erronée, affirmant que Ferrari aurait perdu plus de victoires si le pilote avait adopté la même approche.",
       "summary_en": "Lewis Hamilton said Charles Leclerc’s kamikaze mentality was wrong, claiming Ferrari would have lost more wins if the driver had adopted the same approach."
+    },
+    {
+      "id": "56929b6fac21",
+      "title": "Antonelli “lost two seconds because I was crying” at end of Mexican GP | Formula 1",
+      "title_fr": "Antonelli pleure à la fin de la GP du Mexique",
+      "title_en": "Antonelli cries at the end of Mexican GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/antonelli-lost-two-seconds-because-i-was-crying-at-end-of-mexican-gp/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/antonelli-crying.jpg",
+      "published_at": "2026-11-02T12:02:42+00:00",
+      "race_id": "mexico",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a ralenti sur son dernier tour de la Grande Prix du Mexique, affolé par ses larmes, craignant de perdre le contrôle.",
+      "summary_en": "Andrea Kimi Antonelli slowed his final lap in the Mexican Grand Prix, overwhelmed by tears and fearing he might crash."
     },
     {
       "id": "2f0885e7cb76",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a exprimé sa fierté envers Kimi Antonelli, qui a remporté le championnat du monde de Formule 1 à l'âge de 20 ans, devenant le plus jeune champion de l'histoire",
       "summary_en": "Max Verstappen expressed pride in Kimi Antonelli, who clinched the Formula 1 World Championship at 20, becoming the sport's youngest champion"
-    },
-    {
-      "id": "c2dd93054bee",
-      "title": "Lewis Hamilton says Ferrari needs “serious talks” after Charles Leclerc clash cost Mexico GP win",
-      "title_fr": "Hamilton exige des discussions sérieuses après l'affrontement avec Leclerc à Mexico",
-      "title_en": "Hamilton demands serious talks after clash with Leclerc in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-says-ferrari-needs-serious-talks-after-charles-leclerc-clash-cost-mexico-gp-win/10870748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vVgV6/s6/motorsport-com-graphics-56.jpg",
-      "published_at": "2026-11-01T23:00:59+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que Ferrari doit tenir des discussions sérieuses après l'affrontement avec Charles Leclerc au premier tour du Grand Prix de Mexico, qui a coûté la victoire à l'équipe.",
-      "summary_en": "Lewis Hamilton said Ferrari must have serious talks after his clash with Charles Leclerc on the first lap of the Mexico City Grand Prix, which cost the team the win."
-    },
-    {
-      "id": "cbe49fb27e34",
-      "title": "Emotional Kimi Antonelli left \"speechless\" by maiden F1 world title in Mexico",
-      "title_fr": "Emotional Kimi Antonelli left \"speechless\" by maiden F1 world title in Mexico",
-      "title_en": "Emotional Kimi Antonelli left \"speechless\" by maiden F1 world title in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/emotional-kimi-antonelli-left-speechless-by-maiden-f1-world-title-in-mexico/10870739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zXkm6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-11-01T22:57:53+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Newly-crowned Formula 1 world champion Kimi Antonelli paid a tearful tribute to Mercedes as he became grand prix racing's youngest-ever title winner in Mexico.<br />Antonelli took third at the Autodro",
-      "summary_en": "Newly-crowned Formula 1 world champion Kimi Antonelli paid a tearful tribute to Mercedes as he became grand prix racing's youngest-ever title winner in Mexico.<br />Antonelli took third at the Autodro"
-    },
-    {
-      "id": "f54ea56c0aa8",
-      "title": "F1's youngest world champions",
-      "title_fr": "Antonelli devient champion du monde à 20 ans",
-      "title_en": "Antonelli becomes F1 world champion at 20",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1s-youngest-world-champions/10870660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVP1470/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-01T22:49:14+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli franchit la ligne en troisième place au Grand Prix du Mexique pour devenir le plus jeune champion du monde de Formule 1, à 20 ans, battant le record de Sebastian Vettel.",
-      "summary_en": "Kimi Antonelli crossed the line in third at the Mexican Grand Prix to become Formula 1’s youngest world champion at 20, breaking Sebastian Vettel’s record."
     }
   ]
 }
