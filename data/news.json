@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-01T22:54:48Z",
+  "last_updated": "2026-11-02T01:56:49Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "4f767ab7cda2",
+      "title": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: “It’s a matter of respect”",
+      "title_fr": "Vasseur dénonce le clash entre Hamilton et Leclerc",
+      "title_en": "Vasseur reacts to Hamilton-Leclerc clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YN7vVQW6/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-02T01:08:54+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de Ferrari, Fred Vasseur, a exprimé son mécontentement après le clash entre Lewis Hamilton et Charles Leclerc lors du Grand Prix du Mexique. Il a souligné l'importance du respect sur la piste.",
+      "summary_en": "Ferrari team principal Fred Vasseur expressed disappointment after the clash between Lewis Hamilton and Charles Leclerc at the Mexican Grand Prix, stressing the importance of respect on the track."
+    },
+    {
+      "id": "357707f72d66",
+      "title": "How F1 drivers reacted to Kimi Antonelli's world title: \"He's made everyone else look silly\"",
+      "title_fr": "Antonelli, champion du monde à 20 ans, fait sensation à Mexico",
+      "title_en": "Antonelli becomes world champion at 20",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgbgwY/s6/motorsport-com-graphics-59.jpg",
+      "published_at": "2026-11-02T00:32:34+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Antonelli a remporté le championnat du monde de F1 à 20 ans, devenant le plus jeune champion et le premier Italien à le décrocher. Il a terminé troisième derrière Verstappen et Hamilton, assurant la victoire avec quatre courses d'avance.",
+      "summary_en": "Kimi Antonelli clinched the Formula 1 world championship at 20, becoming the youngest champion and first Italian to win the title. He finished third behind Max Verstappen and Lewis Hamilton, securing the title with four races to spare."
+    },
+    {
+      "id": "dbbea0ee076a",
+      "title": "Winners and losers from F1's record-breaking Mexico Grand Prix",
+      "title_fr": "Antonelli couronné à Mexico",
+      "title_en": "Antonelli crowned at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-historic-mexico-grand-prix/10870803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "published_at": "2026-11-02T00:24:04+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté le Grand Prix de Mexico, couronnant son ascension sans précédent en 2026. Sa victoire confirme son titre de champion, un exploit déjà inévitable.",
+      "summary_en": "Kimi Antonelli won the Mexico Grand Prix, cementing his unprecedented rise in 2026. His victory confirms his championship title, an outcome already foregone."
+    },
+    {
+      "id": "d29ae69fbe1b",
+      "title": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
+      "title_fr": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
+      "title_en": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-apologises-to-george-russell-after-mercedes-let-him-down-at-mexican-gp/10870825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EpEDY/s6/motorsport-com-graphics-45.jpg",
+      "published_at": "2026-11-02T00:22:27+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon",
+      "summary_en": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon"
+    },
+    {
+      "id": "66606f7ce4ee",
+      "title": "Charles Leclerc responds to Lewis Hamilton's call for Ferrari talks after Mexico GP",
+      "title_fr": "Leclerc riposte à Hamilton après le GP de Mexico",
+      "title_en": "Leclerc responds to Hamilton after Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YBVj1j7Y/s6/motorsport-com-graphics-58.jpg",
+      "published_at": "2026-11-02T00:14:27+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a riposté à Lewis Hamilton après le Grand Prix de Mexico, affirmant que la conduite de Hamilton était \"très proche de la limite\". Le pilote Ferrari a défendu son dépassement au départ.",
+      "summary_en": "Charles Leclerc fired back at Lewis Hamilton after the Mexico City Grand Prix, saying Hamilton's driving was \"very much on the limit\". The Ferrari driver defended his early overtaking move."
+    },
+    {
+      "id": "090431f206d7",
+      "title": "Why Charles Leclerc didn’t yield Mexico GP lead after cutting Turn 5",
+      "title_fr": "Leclerc ne cède pas la tête après avoir coupé le virage 5",
+      "title_en": "Leclerc Holds Lead After Cutting Turn 5",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-didnt-yield-mexico-gp-lead-after-cutting-turn-5/10870796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zXQX6/s6/charles-leclerc-ferrari-lewis--5.jpg",
+      "published_at": "2026-11-02T00:03:49+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a conservé la tête de course après avoir coupé le virage 5, défiant Lewis Hamilton. Le pilote Ferrari a ainsi maintenu son avance malgré la pression de son coéquipier.",
+      "summary_en": "Charles Leclerc kept the lead after cutting Turn 5, challenging Lewis Hamilton. The Ferrari driver maintained his advantage despite pressure from his teammate."
+    },
+    {
+      "id": "9b658bb7efce",
+      "title": "F1 CEO Stefano Domenicali releases touching statement after Kimi Antonelli's title win",
+      "title_fr": "Domenicali salue le champion Kimi Antonelli après son titre",
+      "title_en": "Domenicali praises Kimi Antonelli after his title win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-ceo-stefano-domenicali-releases-touching-statement-after-kimi-antonellis-title-win/10870790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVP8PO0/s6/motorsport-com-graphics-44.jpg",
+      "published_at": "2026-11-01T23:53:55+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de la F1, Stefano Domenicali, a déclaré que toute l'Italie célébrerait la victoire de Kimi Antonelli, le plus jeune champion du monde, après son triomphe au Grand Prix du Mexique.",
+      "summary_en": "F1 chief Stefano Domenicali said the whole nation would celebrate after Kimi Antonelli became the youngest champion, winning the Mexican Grand Prix."
+    },
+    {
+      "id": "2bd62a718515",
+      "title": "Lando Norris says Kimi Antonelli should celebrate F1 title “properly” after breakthrough season",
+      "title_fr": "Antonelli, champion de F1, reçoit les félicitations de Lando Norris",
+      "title_en": "Antonelli crowned F1 champion, praised by Lando Norris",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-says-kimi-antonelli-should-celebrate-f1-title-properly-after-breakthrough-season/10870775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6n7bwAA0/s6/motorsport-com-graphics-57.jpg",
+      "published_at": "2026-11-01T23:22:36+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli devient champion de F1, le plus jeune à 20 ans et 68 jours, après une troisième place à l'Autodromo Hermanos Rodríguez. Lando Norris, champion l’an dernier, l’a félicité chaleureusement.",
+      "summary_en": "Kimi Antonelli becomes F1 champion, the youngest at 20 years and 68 days, after finishing third at the Autodromo Hermanos Rodríguez. Lando Norris, last year's champion, congratulated him warmly."
+    },
+    {
+      "id": "38afa0e208ca",
+      "title": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
+      "title_fr": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
+      "title_en": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-01T23:11:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th",
+      "summary_en": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th"
+    },
+    {
+      "id": "0a42d8d24d6d",
+      "title": "Max Verstappen shares emotional message after Kimi Antonelli's historic F1 title win",
+      "title_fr": "Verstappen félicite Kimi Antonelli après son titre historique",
+      "title_en": "Verstappen praises Kimi Antonelli after historic title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-shares-emotional-message-after-kimi-antonellis-historic-f1-title-win/10870753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/01QN8mx0/s6/motorsport-com-graphics-43.jpg",
+      "published_at": "2026-11-01T23:03:32+00:00",
+      "race_id": "mexico",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a exprimé sa fierté envers Kimi Antonelli, qui a remporté le championnat du monde de Formule 1 à l'âge de 20 ans, devenant le plus jeune champion de l'histoire",
+      "summary_en": "Max Verstappen expressed pride in Kimi Antonelli, who clinched the Formula 1 World Championship at 20, becoming the sport's youngest champion"
+    },
     {
       "id": "f54ea56c0aa8",
       "title": "F1's youngest world champions",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".<br />The Red Bull driver was summoned to the stewards on Saturday mor",
       "summary_en": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".<br />The Red Bull driver was summoned to the stewards on Saturday mor"
-    },
-    {
-      "id": "05df805b372b",
-      "title": "Ryo Hirakawa could have \"easily\" made Q2 in F1 Mexico GP without late traffic",
-      "title_fr": "Hirakawa aurait pu atteindre Q2 sans embouteillage",
-      "title_en": "Hirakawa Could Have Made Q2 Without Late Traffic",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/25dLDDD0/s6/ryo-hirakawa-haas-f1-team-laur.jpg",
-      "published_at": "2026-10-31T23:33:37+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote de l'équipe de Formule 1, Ryo Hirakawa, estime qu'il aurait facilement franchi la deuxième étape de qualification du Grand Prix du Mexique s'il navait pas rencontré de trafic tardif.",
-      "summary_en": "Haas substitute Ryo Hirakawa says he could have easily reached Q2 in Mexico City GP if not for late traffic."
-    },
-    {
-      "id": "a1469f48f13e",
-      "title": "F1 Mexico GP: Sunday schedule, weather forecast and how to watch",
-      "title_fr": "F1 Mexico GP: Sunday schedule, weather forecast and how to watch",
-      "title_en": "F1 Mexico GP: Sunday schedule, weather forecast and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNjE82/s6/ryo-hirakawa-haas-f1-team.jpg",
-      "published_at": "2026-10-31T23:23:34+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 heads into Sunday in Mexico City with Lewis Hamilton on pole and Kimi Antonelli only one result away from becoming world champion.<br />Hamilton leads George Russell and Ferrari team-mate Ch",
-      "summary_en": "Formula 1 heads into Sunday in Mexico City with Lewis Hamilton on pole and Kimi Antonelli only one result away from becoming world champion.<br />Hamilton leads George Russell and Ferrari team-mate Ch"
-    },
-    {
-      "id": "8fce4ade2872",
-      "title": "\"Up there for pole\": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying",
-      "title_fr": "\"Up there for pole\": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying",
-      "title_en": "\"Up there for pole\": Max Verstappen rues Turn 13 traffic in F1 Mexico GP qualifying",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/up-there-for-pole-verstappen-rues-turn-13-traffic-in-f1-mexico-gp-qualifying/10870339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0arEVlN2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-10-31T23:21:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.<br />The ",
-      "summary_en": "Max Verstappen rued being unable to log his final run of Mexico City Grand Prix qualifying, stating that his lap was \"up there for pole\" before encountering Lando Norris in the final sector.<br />The "
-    },
-    {
-      "id": "8ee839eff201",
-      "title": "Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP",
-      "title_fr": "Ocon nie les rumeurs de bagarre avec le directeur de Haas",
-      "title_en": "Ocon denies altercation rumours with Haas boss",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ocon-denies-physical-altercation-rumours-in-first-statement-since-being-dropped-by-haas-for-mexico-/10870348/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0qgKEB8Y/s6/esteban-ocon-haas-f1-team-3.jpg",
-      "published_at": "2026-10-31T23:13:59+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon, suspendu par Haas pour le Grand Prix du Mexique, a rejeté les rumeurs d’une altercation physique avec le directeur Ayao Komatsu. Il explique son absence du weekend.",
-      "summary_en": "Esteban Ocon, dropped by Haas for the Mexican Grand Prix, denied rumours of a physical altercation with team boss Ayao Komatsu. He explains his absence from the weekend."
-    },
-    {
-      "id": "f98617bd1383",
-      "title": "Stewards warn drivers over cutting first corner sequences at start and restarts | Formula 1",
-      "title_fr": "Commissaires avertissent sur les dépassements de piste aux virages un et quatre",
-      "title_en": "Stewards warn over track limits at first corner",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/stewards-warn-drivers-over-cutting-first-corner-sequences-at-start-and-restarts/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/10/racefansdotnet-24-10-26-14-03-18-5-2243462856.jpg",
-      "published_at": "2026-10-31T23:13:06+00:00",
-      "race_id": "mexico",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires ont émis un avertissement spécial aux pilotes concernant les dépassements de limites de piste aux virages un et quatre du Grand Prix du Mexique de dimanche.",
-      "summary_en": "Stewards issued a special warning to drivers over track limits at turns one and four during Sunday's Mexican Grand Prix."
-    },
-    {
-      "id": "d83d531ead8d",
-      "title": "Esteban Ocon issues statement after Haas benching, denies physical altercation rumours",
-      "title_fr": "Ocon nie bagarre après son exclusion",
-      "title_en": "Ocon denies altercation after being benched",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/esteban-ocon-issues-statement-after-haas-benching-denies-physical-altercation-rumours/10870336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0arENOy2/s6/esteban-ocon-haas-f1-team-2.jpg",
-      "published_at": "2026-10-31T23:10:44+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon a publié un communiqué pour refuser les rumeurs de bagarre avec le directeur d’équipe d'Haas, Ayao Komatsu, après son exclusion du Grand Prix du Mexique.",
-      "summary_en": "Esteban Ocon issued a statement denying rumours of a physical altercation with Haas team boss Ayao Komatsu after being benched for the Mexico Grand Prix."
-    },
-    {
-      "id": "624d5c5aac2b",
-      "title": "“Difference in viewpoints” but no threat of violence: Ocon on his shock Haas exit in Mexico | Formula 1",
-      "title_fr": "Ocon rejette les allégations de violence derrière son départ de Haas",
-      "title_en": "Ocon denies violence allegations behind his Haas exit",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/ocon-confirms-difference-in-viewpoints-led-to-shock-exit-from-haas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-12-13-21-08-1-2281232983-192.jpg",
-      "published_at": "2026-10-31T23:06:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon a catégoriquement rejeté les insinuations que son retrait de l'équipe Haas ce week-end serait lié à une violence physique. Il affirme que les raisons sont purement techniques.",
-      "summary_en": "Esteban Ocon categorically rejects claims that his sudden exit from Haas this weekend was tied to physical violence. He says the reasons are purely technical."
-    },
-    {
-      "id": "9851fd6dd787",
-      "title": "Lawson disqualified from qualifying after cool-down lap error causes MGU-K rules breach | Formula 1",
-      "title_fr": "Lawson disqualified from qualifying after cool-down lap error causes MGU-K rules breach | Formula 1",
-      "title_en": "Lawson disqualified from qualifying after cool-down lap error causes MGU-K rules breach | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/lawson-disqualified-from-qualifying-after-cool-down-lap-error-causes-mgu-k-rules-breach/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-31-23-05-35-1-SI202610310713.jpg",
-      "published_at": "2026-10-31T23:02:32+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Failing to slow down quickly enough on a cool-down lap caused Liam Lawson's disqualification from qualifying. He will start from the back of the grid.",
-      "summary_en": "Failing to slow down quickly enough on a cool-down lap caused Liam Lawson's disqualification from qualifying. He will start from the back of the grid."
-    },
-    {
-      "id": "e4029f676f76",
-      "title": "Lewis Hamilton \"lost for words\" after ending three-year F1 pole drought at Mexican GP",
-      "title_fr": "Lewis Hamilton \"lost for words\" after ending three-year F1 pole drought at Mexican GP",
-      "title_en": "Lewis Hamilton \"lost for words\" after ending three-year F1 pole drought at Mexican GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lost-for-words-after-ending-three-year-f1-pole-drought-at-mexican-gp/10870309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbA9a30/s6/motorsport-com-graphics-38.jpg",
-      "published_at": "2026-10-31T22:41:25+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Seven-time Formula 1 champion Lewis Hamilton admitted he was \"lost for words\" after claiming his first grand prix pole position for Ferrari at the Mexican Grand Prix.<br />The Briton beat his former M",
-      "summary_en": "Seven-time Formula 1 champion Lewis Hamilton admitted he was \"lost for words\" after claiming his first grand prix pole position for Ferrari at the Mexican Grand Prix.<br />The Briton beat his former M"
-    },
-    {
-      "id": "543e9b96d0a6",
-      "title": "Lewis Hamilton buoyed by historic first Ferrari F1 pole: \"I still love what I do\"",
-      "title_fr": "Lewis Hamilton buoyed by historic first Ferrari F1 pole: \"I still love what I do\"",
-      "title_en": "Lewis Hamilton buoyed by historic first Ferrari F1 pole: \"I still love what I do\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-buoyant-by-historic-first-ferrari-f1-pole-i-still-love-what-i-do/10870304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YBVjz7vY/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-10-31T22:36:39+00:00",
-      "race_id": "hungary",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "On the site of two of his seven world championship celebrations, Lewis Hamilton added yet another chapter to his illustrious Formula 1 career and his fond Mexico memory bank, one that was long overdue",
-      "summary_en": "On the site of two of his seven world championship celebrations, Lewis Hamilton added yet another chapter to his illustrious Formula 1 career and his fond Mexico memory bank, one that was long overdue"
     }
   ]
 }
