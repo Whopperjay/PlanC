@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-02T01:56:49Z",
+  "last_updated": "2026-11-02T04:58:50Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "491c7673c9a8",
+      "title": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
+      "title_fr": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
+      "title_en": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870864/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": "2026-11-02T02:19:42+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad.<br />Piastri’s 60-strong str",
+      "summary_en": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad.<br />Piastri’s 60-strong str"
+    },
+    {
+      "id": "31c332bddf06",
+      "title": "Penalty drops Oscar Piastri out of F1 Mexico GP points",
+      "title_fr": "Piastri exclu des points du GP de Mexique après pénalité",
+      "title_en": "Piastri loses points at Mexico GP after penalty",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7Lbn1Y/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-11-02T02:17:39+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri a perdu ses points du Grand Prix de Mexico suite à une pénalité pour collision avec Arvid Lindblad. Le pilote McLaren, qualifié 12e, ne pourra pas capitaliser sur son parcours de 60 Q3",
+      "summary_en": "Oscar Piastri lost his Mexico GP points after a penalty for colliding with Arvid Lindblad. The McLaren driver, who qualified 12th, will miss out on points after a 60-race Q3 streak ended"
+    },
+    {
+      "id": "7d3942633e1a",
+      "title": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
+      "title_fr": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
+      "title_en": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/gasly-and-colapinto-penalised-post-race-hirakawa-scores-on-f1-debut-at-mexico-gp/10870863/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyZ4G6/s6/pierre-gasly-alpine-franco-col.jpg",
+      "published_at": "2026-11-02T02:16:28+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Pierre Gasly and Franco Colapinto have both been given post-race penalties which have dropped them out of the points and resulted in Haas debutant Ryo Hirakawa scoring on his Formula 1 debut at the Me",
+      "summary_en": "Pierre Gasly and Franco Colapinto have both been given post-race penalties which have dropped them out of the points and resulted in Haas debutant Ryo Hirakawa scoring on his Formula 1 debut at the Me"
+    },
+    {
+      "id": "ca0649da40b5",
+      "title": "Alpine drivers penalised post-race, Ryo Hirakawa scores on F1 debut at Mexico GP",
+      "title_fr": "Alpine pénalisés, Hirakawa marque son debut à Mexico",
+      "title_en": "Alpine penalised post-race, Hirakawa scores on debut at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/pierre-gasly-and-franco-colapinto-penalised-post-race-ryo-hirakawa-scores-on-f1-debut/10870860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyZ4G6/s6/pierre-gasly-alpine-franco-col.jpg",
+      "published_at": "2026-11-02T02:15:13+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Les pilotes Alpine Gasly et Colapinto ont reçu des pénalités après la course, les excluant des points. Le debutant Ryo Hirakawa a ainsi marqué son entrée en F1 à Mexico.",
+      "summary_en": "Alpine drivers Gasly and Colapinto received post-race penalties, dropping them out of the points. Debutant Ryo Hirakawa scored on his Formula 1 debut at Mexico."
+    },
     {
       "id": "4f767ab7cda2",
       "title": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: “It’s a matter of respect”",
@@ -98,6 +174,25 @@
       "summary_en": "Charles Leclerc fired back at Lewis Hamilton after the Mexico City Grand Prix, saying Hamilton's driving was \"very much on the limit\". The Ferrari driver defended his early overtaking move."
     },
     {
+      "id": "69abbf5d07e4",
+      "title": "Why Leclerc didn’t give up Mexico GP lead after cutting Turn 5",
+      "title_fr": "Leclerc conserve la tête après avoir coupé le virage 5 à Mexico",
+      "title_en": "Leclerc keeps lead after cutting Turn 5 in Mexico",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-leclerc-didnt-give-up-mexico-gp-lead-after-cutting-turn-5/10870807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zXQX6/s6/charles-leclerc-ferrari-lewis--3.jpg",
+      "published_at": "2026-11-02T00:06:00+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a conservé la tête du peloton après avoir coupé le virage 5, suscitant la controverse. Le pilote Ferrari a maintenu son avance sur Lewis Hamilton malgré les critiques.",
+      "summary_en": "Charles Leclerc kept the lead after cutting Turn 5, sparking controversy. The Ferrari driver maintained his advantage over Lewis Hamilton despite criticism."
+    },
+    {
       "id": "090431f206d7",
       "title": "Why Charles Leclerc didn’t yield Mexico GP lead after cutting Turn 5",
       "title_fr": "Leclerc ne cède pas la tête après avoir coupé le virage 5",
@@ -155,6 +250,25 @@
       "summary_en": "Kimi Antonelli becomes F1 champion, the youngest at 20 years and 68 days, after finishing third at the Autodromo Hermanos Rodríguez. Lando Norris, last year's champion, congratulated him warmly."
     },
     {
+      "id": "303a05eddd18",
+      "title": "Hamilton demands “serious talks” at Ferrari after Leclerc clash in Mexico GP “lost us the win”",
+      "title_fr": "Hamilton demands “serious talks” at Ferrari after Leclerc clash in Mexico GP “lost us the win”",
+      "title_en": "Hamilton demands “serious talks” at Ferrari after Leclerc clash in Mexico GP “lost us the win”",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-01T23:14:33+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th",
+      "summary_en": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th"
+    },
+    {
       "id": "38afa0e208ca",
       "title": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
       "title_fr": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
@@ -191,6 +305,44 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a exprimé sa fierté envers Kimi Antonelli, qui a remporté le championnat du monde de Formule 1 à l'âge de 20 ans, devenant le plus jeune champion de l'histoire",
       "summary_en": "Max Verstappen expressed pride in Kimi Antonelli, who clinched the Formula 1 World Championship at 20, becoming the sport's youngest champion"
+    },
+    {
+      "id": "c2dd93054bee",
+      "title": "Lewis Hamilton says Ferrari needs “serious talks” after Charles Leclerc clash cost Mexico GP win",
+      "title_fr": "Hamilton exige des discussions sérieuses après l'affrontement avec Leclerc à Mexico",
+      "title_en": "Hamilton demands serious talks after clash with Leclerc in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-says-ferrari-needs-serious-talks-after-charles-leclerc-clash-cost-mexico-gp-win/10870748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vVgV6/s6/motorsport-com-graphics-56.jpg",
+      "published_at": "2026-11-01T23:00:59+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré que Ferrari doit tenir des discussions sérieuses après l'affrontement avec Charles Leclerc au premier tour du Grand Prix de Mexico, qui a coûté la victoire à l'équipe.",
+      "summary_en": "Lewis Hamilton said Ferrari must have serious talks after his clash with Charles Leclerc on the first lap of the Mexico City Grand Prix, which cost the team the win."
+    },
+    {
+      "id": "cbe49fb27e34",
+      "title": "Emotional Kimi Antonelli left \"speechless\" by maiden F1 world title in Mexico",
+      "title_fr": "Emotional Kimi Antonelli left \"speechless\" by maiden F1 world title in Mexico",
+      "title_en": "Emotional Kimi Antonelli left \"speechless\" by maiden F1 world title in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/emotional-kimi-antonelli-left-speechless-by-maiden-f1-world-title-in-mexico/10870739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zXkm6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-01T22:57:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Newly-crowned Formula 1 world champion Kimi Antonelli paid a tearful tribute to Mercedes as he became grand prix racing's youngest-ever title winner in Mexico.<br />Antonelli took third at the Autodro",
+      "summary_en": "Newly-crowned Formula 1 world champion Kimi Antonelli paid a tearful tribute to Mercedes as he became grand prix racing's youngest-ever title winner in Mexico.<br />Antonelli took third at the Autodro"
     },
     {
       "id": "f54ea56c0aa8",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari a collaboré avec Montblanc pour créer le Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition, un stylo-plume de 4 300 $ inspiré de ses supercars. Le prix dépasse celui de certaines voitures d'occasion.",
       "summary_en": "Ferrari partnered with Montblanc to launch the Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition, a $4,300 fountain pen inspired by its supercars. The price tops that of some used cars."
-    },
-    {
-      "id": "00a08b08091d",
-      "title": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
-      "title_fr": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
-      "title_en": "Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-clears-the-air-with-liam-lawson-but-stays-tight-lipped-on-racing-bulls-f1-seat/10870381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyKrdLY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-01T00:26:35+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to s",
-      "summary_en": "Max Verstappen qualified fourth for the Formula 1 Mexico City Grand Prix, but will have to drop one place on the starting grid, meaning he will start from the third row. The reason is remarkable, to s"
-    },
-    {
-      "id": "3dfb8cf75b74",
-      "title": "Charles Leclerc reveals Mexican GP overtaking fears after missing out on pole",
-      "title_fr": "Leclerc craint l'absence de dépassements au Mexique",
-      "title_en": "Leclerc warns of limited overtaking at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8ZNR6/s6/motorsport-com-graphics-41.jpg",
-      "published_at": "2026-11-01T00:24:47+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc, qui a dominé les séances de formation, avertit que le Grand Prix du Mexique verra peu de dépassements, le classement étant fixé dès les premiers virages de l'Autodromo Hermanos Rodríguez.",
-      "summary_en": "Charles Leclerc, who topped Friday's practice sessions, warned that the Mexican Grand Prix would see little overtaking, with the race order likely set in the first few corners of the Autodromo Hermanos Rodríguez."
-    },
-    {
-      "id": "d796f03a3bda",
-      "title": "Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
-      "title_fr": "Antonelli avoue la tension et la fatigue avant le titre de F1",
-      "title_en": "Antonelli admits tension and fatigue ahead of F1 title",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKB13G6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-01T00:09:23+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli reconnaît que les nervosités de la saison l'ont poussé à conduire de façon tendue et fatiguée, après une séance de qualification juste 0,001s derrière Lando Norris à Mexico",
-      "summary_en": "Kimi Antonelli admits that season nerves made him drive tense and tired, after a qualifying session just 0.001s slower than Lando Norris in Mexico"
-    },
-    {
-      "id": "a48a8d4bc533",
-      "title": "\"I'll bombard myself with melatonin\": Kimi Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
-      "title_fr": "Antonelli se bombarde de mélatonine pour rester concentré",
-      "title_en": "Antonelli to bomb himself with melatonin to stay focused",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKB13G6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-01T00:08:16+00:00",
-      "race_id": "italy",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli confie qu'il se bombarde de mélatonine pour gérer la tension et la fatigue. Il a failli être 0,001s plus lent que Lando Norris en FP3 et a été à demi pas derrière George Russell en qualification.",
-      "summary_en": "Kimi Antonelli says he'll bombard himself with melatonin to manage nerves and fatigue ahead of the Mexico City Grand Prix. He was just 0.001s slower than Lando Norris in FP3 and was half a step behind George Russell in qualifying."
-    },
-    {
-      "id": "46b4743d9d1a",
-      "title": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
-      "title_fr": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
-      "title_en": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/68VwR1Q2/s6/motorsport-com-graphics-40.jpg",
-      "published_at": "2026-11-01T00:03:37+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds.",
-      "summary_en": "George Russell believes an extra lap of fuel cost him pole position for the Mexican Grand Prix after he missed out to his former team-mate and seven-time champion Lewis Hamilton by just 0.009 seconds."
-    },
-    {
-      "id": "3c100574200f",
-      "title": "Lewis Hamilton: First Ferrari F1 pole “takes me back to watching Michael”",
-      "title_fr": "Hamilton décroche pole Ferrari pour le Grand Prix du Mexique",
-      "title_en": "Hamilton secures Ferrari pole for Mexico City GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0rVPjJP0/s6/motorsport-com-graphics-52.jpg",
-      "published_at": "2026-10-31T23:58:57+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a obtenu le pole position pour Ferrari, son premier pour l’équipe italienne, en battant George Russell de 0,009 seconde. Le septuple champion évoque la domination de Schumacher.",
-      "summary_en": "Lewis Hamilton secured Ferrari’s first pole for the Mexico City Grand Prix, beating George Russell by 0.009 seconds. The seven‑time champion recalled Schumacher’s dominance with the Italian team."
-    },
-    {
-      "id": "25605e62171b",
-      "title": "Lawson apologised to Verstappen for clash: “Right now it’s not the best time” | Formula 1",
-      "title_fr": "Lawson s'excuse de la collision avec Verstappen",
-      "title_en": "Lawson apologises to Verstappen after collision",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/10/31/lawson-apologised-to-verstappen-for-clash-right-now-its-not-the-best-time/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-31-23-57-28-1-SI202610310712.jpg",
-      "published_at": "2026-10-31T23:58:37+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson a présenté ses excuses à Max Verstappen après que les commissaires aient infligé la même pénalité aux deux pilotes pour leur collision lors de la deuxième séance d'essais libres.",
-      "summary_en": "Liam Lawson apologized to Max Verstappen after stewards handed both drivers the same penalty for their collision in second practice."
-    },
-    {
-      "id": "19f29916eb42",
-      "title": "Isack Hadjar defends Mexican GP paddock incident after FIA warning: \"Not a reality show\"",
-      "title_fr": "Isack Hadjar defends Mexican GP paddock incident after FIA warning: \"Not a reality show\"",
-      "title_en": "Isack Hadjar defends Mexican GP paddock incident after FIA warning: \"Not a reality show\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YMXb51l2/s6/motorsport-com-graphics-39.jpg",
-      "published_at": "2026-10-31T23:34:23+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".<br />The Red Bull driver was summoned to the stewards on Saturday mor",
-      "summary_en": "Isack Hadjar has hit back at the paddock guest he pushed away at the Mexican Grand Prix, insisting that \"it's not a reality show\".<br />The Red Bull driver was summoned to the stewards on Saturday mor"
     }
   ]
 }
