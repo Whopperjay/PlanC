@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-02T14:05:51Z",
+  "last_updated": "2026-11-02T17:08:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2394e05db355",
+      "title": "What was Kimi Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
+      "title_fr": "Kimi Antonelli : le moment phare de son titre mondial",
+      "title_en": "Kimi Antonelli: the highlight of his title-winning season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/what-was-kimi-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0Zq8lAN6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-02T16:00:02+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté son premier championnat du monde en 2024. Les journalistes ont identifié le moment qui l'a transformé en champion, notamment sa performance décisive à Mexico.",
+      "summary_en": "Kimi Antonelli clinched his first world title in 2024. Journalists highlighted the moment that turned him into champion, notably his decisive performance in Mexico."
+    },
+    {
+      "id": "cd0d352f9f97",
+      "title": "What was Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
+      "title_fr": "Antonelli, le moment phare de son titre mondial",
+      "title_en": "Antonelli's defining moment in his title‑winning season",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
+      "published_at": "2026-11-02T15:59:08+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté son premier championnat du monde en 2024. Les journalistes ont identifié le moment qui a transformé l'italien en champion.",
+      "summary_en": "Kimi Antonelli clinched his first Formula One world title in 2024. Journalists highlighted the moment that turned the Italian into champion."
+    },
+    {
+      "id": "7a3e460c3460",
+      "title": "Toto Wolff explains George Russell's media absence after Mexican GP disappointment",
+      "title_fr": "Toto Wolff explains George Russell's media absence after Mexican GP disappointment",
+      "title_en": "Toto Wolff explains George Russell's media absence after Mexican GP disappointment",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-george-russells-media-absence-after-mexican-gp-disappointment/10871072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/68VwEyQ2/s6/motorsport-com-graphics-47.jpg",
+      "published_at": "2026-11-02T15:39:57+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes Formula 1 team principal and CEO Toto Wolff described the Mexican Grand Prix as a \"catastrophic moment\" for George Russell.<br />The Briton started second on the grid after qualifying just 0.",
+      "summary_en": "Mercedes Formula 1 team principal and CEO Toto Wolff described the Mexican Grand Prix as a \"catastrophic moment\" for George Russell.<br />The Briton started second on the grid after qualifying just 0."
+    },
     {
       "id": "62dd6ac50023",
       "title": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
@@ -58,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a critiqué son coéquipier Charles Leclerc pour son attitude « à tout prix » après que Ferrari ait perdu une victoire au Grand Prix du Mexique. Le pilote a accusé Leclerc d'avoir attaqué Hamilton lors de la course.",
       "summary_en": "Lewis Hamilton criticized teammate Charles Leclerc for his 'do or die' attitude after Ferrari lost a straightforward victory at the Mexico Grand Prix. The driver accused Leclerc of attacking Hamilton during the race."
+    },
+    {
+      "id": "55390747f7b4",
+      "title": "Leclerc has wrong mentality, says Hamilton: ‘It’s ‘do-or-die, either I win or none of us do” | Formula 1",
+      "title_fr": "Hamilton critique la mentalité de Leclerc",
+      "title_en": "Hamilton criticises Leclerc's mentality",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/leclerc-has-wrong-mentality-says-hamilton-its-do-or-die-either-i-win-or-none-of-us-do/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-04-35-5-5-sunday-mexico-2026.jpg",
+      "published_at": "2026-11-02T12:33:06+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré que la mentalité kamikaze de Charles Leclerc était erronée, affirmant que Ferrari aurait perdu plus de victoires si le pilote avait adopté la même approche.",
+      "summary_en": "Lewis Hamilton said Charles Leclerc’s kamikaze mentality was wrong, claiming Ferrari would have lost more wins if the driver had adopted the same approach."
     },
     {
       "id": "2f0885e7cb76",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Les commissaires de la FIA ont détaillé les raisons de la pénalité de cinq secondes infligée à Charles Leclerc lors du Grand Prix du Mexique. Le pilote a commencé troisième, mais a perdu du temps après un départ chaotique.",
       "summary_en": "The FIA stewards clarified why Charles Leclerc received a five‑second penalty at the Mexican Grand Prix. Starting third, the driver lost time after a chaotic start that saw Lewis Hamilton on pole."
-    },
-    {
-      "id": "32421f14a83b",
-      "title": "Why Charles Leclerc only got a five-second penalty in F1 Mexico GP",
-      "title_fr": "Leclerc pénalisé de 5 secondes au Mexique",
-      "title_en": "Leclerc penalised 5 seconds in Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870700/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXb5Q12/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-11-01T21:13:00+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires ont justifié la pénalité de cinq secondes infligée à Charles Leclerc lors du Grand Prix du Mexique. Le pilote a commencé troisième et a perdu la tête après un départ chaotique.",
-      "summary_en": "The stewards explained the five-second penalty given to Charles Leclerc at the Mexico Grand Prix. The driver started third and lost the lead after a chaotic start."
-    },
-    {
-      "id": "b139e885f9fd",
-      "title": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
-      "title_fr": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
-      "title_en": "Charles Leclerc's Mexico GP penalty leaves F1 fans furious for very different reasons",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKRyBY/s6/motorsport-com-graphics-55.jpg",
-      "published_at": "2026-11-01T20:51:35+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc’s five-second penalty at the Mexico City Grand Prix has divided Formula 1 fans. Some believe that it was far too lenient while others insist that he should not have been punished at al",
-      "summary_en": "Charles Leclerc’s five-second penalty at the Mexico City Grand Prix has divided Formula 1 fans. Some believe that it was far too lenient while others insist that he should not have been punished at al"
-    },
-    {
-      "id": "9d0f9dcd888b",
-      "title": "What does Yamaha’s shock MotoGP boycott mean for F1 in Qatar and Abu Dhabi?",
-      "title_fr": "Yamaha boycotte le Qatar, quelles répercussions pour la F1?",
-      "title_en": "Yamaha boycotts Qatar, what does it mean for F1?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0R7w7jE2/s6/a-general-view-of-the-grid-dur.jpg",
-      "published_at": "2026-11-01T18:19:39+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Yamaha et Pramac boycottent le Grand Prix du Qatar, suscitant des interrogations sur les conséquences pour la Formule 1. Les équipes et organisateurs se demandent comment cette décision affectera la saison.",
-      "summary_en": "Yamaha and Pramac boycott the Qatar Grand Prix, raising questions about the impact on Formula 1. Teams and organizers wonder how this decision will affect the season."
-    },
-    {
-      "id": "eb48dc423fcd",
-      "title": "What does Yamaha’s shock MotoGP boycott mean for F1 in Qatar and Abu Dhabi?",
-      "title_fr": "Yamaha boycotte le Qatar, impact sur la F1",
-      "title_en": "Yamaha boycotts Qatar, impact on F1",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0R7w7jE2/s6/a-general-view-of-the-grid-dur.jpg",
-      "published_at": "2026-11-01T18:18:22+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Yamaha et son satellite Pramac ont annoncé un boycott du Grand Prix du Qatar, suscitant des interrogations sur l’impact de cette protestation sur la F1 à Doha et Abu Dhabi.",
-      "summary_en": "Yamaha and its satellite team Pramac have announced a boycott of the Qatar Grand Prix, raising questions about the impact of this protest on F1 in Doha and Abu Dhabi."
     }
   ]
 }
