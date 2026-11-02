@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-02T11:03:17Z",
+  "last_updated": "2026-11-02T14:05:51Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "62dd6ac50023",
+      "title": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
+      "title_fr": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
+      "title_en": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-fined-for-george-russell-skipping-f1-mexico-gp-media-duties/10871040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6b8ZXde2/s6/george-russell-mercedes-andrea.jpg",
+      "published_at": "2026-11-02T13:26:17+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes was fined €5,000 following the Mexico Grand Prix after George Russell failed to attend his post-race Formula 1 media commitments.<br />The Mercedes driver finished sixth at Autodromo Hermanos",
+      "summary_en": "Mercedes was fined €5,000 following the Mexico Grand Prix after George Russell failed to attend his post-race Formula 1 media commitments.<br />The Mercedes driver finished sixth at Autodromo Hermanos"
+    },
+    {
+      "id": "b218c7c461f0",
+      "title": "Lewis Hamilton slams Charles Leclerc for \"do or die\" attitude after Mexico GP clash",
+      "title_fr": "Hamilton critique Leclerc pour son attitude do or die",
+      "title_en": "Hamilton slams Leclerc over 'do or die' attitude after Mexico GP clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-slams-charles-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2wlKyPKY/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-11-02T12:40:41+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a critiqué son coéquipier Charles Leclerc pour son attitude do or die après la collision à Mexico. Le champion sept fois champion du monde a dénoncé la conduite du pilote Ferrari.",
+      "summary_en": "Lewis Hamilton slammed teammate Charles Leclerc for his 'do or die' attitude after the Mexico GP clash. The seven‑time world champion criticized the Ferrari driver’s conduct."
+    },
+    {
+      "id": "6ae4b3db75b9",
+      "title": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash",
+      "title_fr": "Hamilton critique Leclerc pour son attitude « à tout prix » après l'accident du Mexique",
+      "title_en": "Hamilton slams Leclerc for 'do or die' attitude after Mexico clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-11-02T12:40:22+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a critiqué son coéquipier Charles Leclerc pour son attitude « à tout prix » après que Ferrari ait perdu une victoire au Grand Prix du Mexique. Le pilote a accusé Leclerc d'avoir attaqué Hamilton lors de la course.",
+      "summary_en": "Lewis Hamilton criticized teammate Charles Leclerc for his 'do or die' attitude after Ferrari lost a straightforward victory at the Mexico Grand Prix. The driver accused Leclerc of attacking Hamilton during the race."
+    },
+    {
+      "id": "2f0885e7cb76",
+      "title": "Kimi Antonelli reveals why he won’t take number 1 for the 2027 F1 season",
+      "title_fr": "Antonelli refuse le numéro 1 pour 2027",
+      "title_en": "Antonelli declines number 1 for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-why-he-wont-take-number-1-for-the-2027-f1-season/10870915/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNjjb2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-02T11:38:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli explique qu'il préfère garder le numéro 12 pour la saison 2027, refusant ainsi de prendre le numéro 1 comme le font Verstappen ou Norris.",
+      "summary_en": "Kimi Antonelli says he will keep the number 12 for 2027, declining to take the number 1 that Verstappen and Norris have claimed after winning titles."
+    },
+    {
+      "id": "5c3b13f96c20",
+      "title": "Fred Vasseur calls for \"respect\" after Lewis Hamilton-Charles Leclerc Mexican GP clash",
+      "title_fr": "Vasseur exige du respect après le choc Hamilton-Leclerc à Mexico",
+      "title_en": "Vasseur demands respect after Hamilton-Leclerc clash in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-calls-for-respect-after-lewis-hamilton-charles-leclerc-mexican-gp-clash/10871024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKAlXkY/s6/motorsport-com-graphics-46.jpg",
+      "published_at": "2026-11-02T11:18:11+00:00",
+      "race_id": "mexico",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de Ferrari, Fred Vasseur, a appelé au respect après le choc de première manche entre Lewis Hamilton et Charles Leclerc à Mexico. Les deux pilotes sont sortis de la piste.",
+      "summary_en": "Ferrari team principal Fred Vasseur called for respect after the first-lap clash between Lewis Hamilton and Charles Leclerc at the Mexican Grand Prix. Both drivers went off the track but emerged ahead."
+    },
+    {
+      "id": "3bd2add24580",
+      "title": "Toto Wolff hits out at F1’s “entitled” drivers and “endless moaners on the radio”",
+      "title_fr": "Toto Wolff hits out at F1’s “entitled” drivers and “endless moaners on the radio”",
+      "title_en": "Toto Wolff hits out at F1’s “entitled” drivers and “endless moaners on the radio”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-hits-out-at-f1s-entitled-drivers-and-endless-moaners-on-the-radio/10871018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YP74lxX2/s6/motorsport-com-graphics-60.jpg",
+      "published_at": "2026-11-02T11:12:18+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He bel",
+      "summary_en": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He bel"
+    },
     {
       "id": "dcf900aea5bc",
       "title": "Who slept best last night: Kimi Antonelli",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Yamaha et son satellite Pramac ont annoncé un boycott du Grand Prix du Qatar, suscitant des interrogations sur l’impact de cette protestation sur la F1 à Doha et Abu Dhabi.",
       "summary_en": "Yamaha and its satellite team Pramac have announced a boycott of the Qatar Grand Prix, raising questions about the impact of this protest on F1 in Doha and Abu Dhabi."
-    },
-    {
-      "id": "8429364f7dbf",
-      "title": "Valtteri Bottas \"pretty confident\" of staying for F1 2027 amid Colton Herta rumours",
-      "title_fr": "Bottas confiant pour 2027 malgré les rumeurs de Herta",
-      "title_en": "Bottas Confident About 2027 Amid Herta Rumours",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/valtteri-bottas-pretty-confident-of-staying-for-f1-2027-amid-colton-herta-rumours/10870623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/25dLoeQ0/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-11-01T16:16:37+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas reste confiant pour 2027 malgré les rumeurs de Colton Herta. Le pilote suédois a réaffirmé son engagement en Formule 1 après une saison 2026 où il a été dépassé par Sergio Pérez.",
-      "summary_en": "Valtteri Bottas remains confident about staying in Formula 1 for 2027, dismissing speculation that Cadillac might recruit Colton Herta. The Swedish driver reaffirmed his commitment after a 2026 season where Sergio Pérez outperformed him."
-    },
-    {
-      "id": "e21f679bf726",
-      "title": "Featured Comment: Lawson’s disqualification highlights another flaw in F1’s 2026 rules | Brief",
-      "title_fr": "Lawson disqualifié, les règles F1 critiquées",
-      "title_en": "Lawson disqualified, F1 rules criticized",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/01/featured-comment-lawsons-disqualification-highlights-another-flaw-in-f1s-rules/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-11-01-14-44-11-1.jpg",
-      "published_at": "2026-11-01T14:48:26+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 88,
-      "is_breaking": true,
-      "summary_fr": "Le pilote Lawson a été disqualifié après la course, les organisateurs pointant du doigt les règles F1 jugées trop strictes. Cette décision soulève de nouvelles questions sur la régulation 2026.",
-      "summary_en": "Lawson was disqualified after the race, with officials blaming the F1 rules for being too strict. The decision raises new questions about the 2026 regulation."
-    },
-    {
-      "id": "728e9bc232db",
-      "title": "Fernando Alonso 'beyond frustration' after engine issue in F1 Mexico GP qualifying",
-      "title_fr": "Alonso frustré après panne moteur en qualification du Mexique",
-      "title_en": "Alonso frustrated after engine failure in Mexico GP qualifying",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-beyond-frustration-after-engine-issue-in-f1-mexico-gp-qualifying/10870590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QpRy6/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-01T13:42:12+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso a exprimé une frustration au-delà de l’imagination après que son moteur ait échoué en qualification, le laissant à 18e place avec une seule tour. L’Aston Martin a été stoppé à l’entrée du stade.",
-      "summary_en": "Fernando Alonso expressed frustration beyond imagination after his engine failed during qualifying, leaving him 18th with only one flying lap. The Aston Martin was halted at the stadium entrance."
-    },
-    {
-      "id": "f5321b16eb6d",
-      "title": "The changes Hamilton thinks are behind his Mexico GP pole",
-      "title_fr": "Hamilton révèle les changements qui l'ont mené à la pole du Mexique",
-      "title_en": "Hamilton reveals the changes that led him to Mexico GP pole",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-changes-hamilton-thinks-are-behind-his-mexico-gp-pole/10870570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zXbN6/s6/lewis-hamilton-ferrari-rafa-ma.jpg",
-      "published_at": "2026-11-01T11:49:56+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton attribue sa première pole de la saison en Formule 1 à Ferrari aux ajustements qu'il a apportés avant le Grand Prix du Mexique. Il l'a obtenue en battant George Russell de 0,009 seconde.",
-      "summary_en": "Lewis Hamilton credits his first Formula 1 pole for Ferrari to the changes he made before the Mexico Grand Prix. He beat former Mercedes teammate George Russell by 0.009 seconds."
-    },
-    {
-      "id": "a0233918dc19",
-      "title": "Qatar’s Moto GP round hit by first team withdrawal due to Iran war | Formula 1",
-      "title_fr": "Moto GP du Qatar : première équipe se retire à cause de la guerre en Iran",
-      "title_en": "Qatar Moto GP round sees first team withdraw amid Iran war",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/01/qatars-moto-gp-round-hit-by-first-team-withdrawal-due-to-iran-war/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-30-19-03-36-6-2249206339.jpg",
-      "published_at": "2026-11-01T11:08:50+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 88,
-      "is_breaking": true,
-      "summary_fr": "Le circuit du Qatar a vu la première équipe de Moto GP se retirer, suite à la guerre en Iran, trois semaines avant la visite de la Formule 1. L'événement soulève des inquiétudes pour la sécurité.",
-      "summary_en": "The Qatar Moto GP round saw its first team withdraw amid the Iran war, three weeks before Formula 1's visit to the country. The move raises safety concerns."
-    },
-    {
-      "id": "b974397a895a",
-      "title": "F1 2026 qualifying head-to-head: Mexico GP",
-      "title_fr": "Qualif 2026 : duel tête à tête au Mexique",
-      "title_en": "2026 Qualifying Head‑to‑Head: Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGg8ZGY/s6/lewis-hamilton-ferrari-george-.jpg",
-      "published_at": "2026-11-01T10:03:04+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Motorsport.com publie le tableau des confrontations entre coéquipiers en qualification, sans tenir compte des pénalités de grille. Les incidents techniques ou accidents sont indiqués dans le tableau.",
-      "summary_en": "Motorsport.com releases a head‑to‑head table of teammates’ qualifying battles, ignoring grid penalties. Technical glitches or incidents are noted in the chart."
     }
   ]
 }
