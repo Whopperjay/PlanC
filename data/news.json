@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-02T04:58:50Z",
+  "last_updated": "2026-11-02T08:00:52Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "19bb255b091d",
+      "title": "Hirakawa scores points on his F1 debut after both Alpine drivers are penalised | Formula 1",
+      "title_fr": "Hirakawa obtient des points à son debut après pénalités Alpine",
+      "title_en": "Hirakawa scores points on debut after Alpine penalties",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/hirakawa-scores-points-on-his-f1-debut-after-both-alpine-drivers-penalised/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-12-22-57-1.jpg",
+      "published_at": "2026-11-02T07:56:56+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Ryo Hirakawa, qui a terminé 13e lors de son premier Grand Prix, a été promu à la fin de points après que les deux pilotes Alpine aient reçu des pénalités.",
+      "summary_en": "Ryo Hirakawa finished 13th on his debut and was promoted to a points finish after both Alpine drivers received penalties."
+    },
+    {
+      "id": "adf61591dbf3",
+      "title": "Kimi Antonelli wants special photo with Lewis Hamilton and Max Verstappen on his wall after F1 title",
+      "title_fr": "Antonelli veut une photo spéciale avec Hamilton et Verstappen sur son mur",
+      "title_en": "Antonelli wants a special photo with Hamilton and Verstappen on his wall",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "published_at": "2026-11-02T06:56:14+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Kimi Antonelli, devenu le plus jeune champion du monde en 2026, souhaite accrocher une photo de Lewis Hamilton et Max Verstappen sur son mur. Cette demande fait l'objet d'un petit tour de presse.",
+      "summary_en": "Kimi Antonelli, crowned the youngest F1 champion in 2026, wants a photo of Lewis Hamilton and Max Verstappen on his wall. The request has sparked a brief media buzz."
+    },
+    {
+      "id": "c0654e301f47",
+      "title": "Who slept worst last night: Frederic Vasseur",
+      "title_fr": "Vasseur éclate de rire après le Grand Prix du Mexique",
+      "title_en": "Vasseur bursts into laughter after Mexican GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-frederic-vasseur-10870909/10870909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YBVjyznY/s6/fred-vasseur-ferrari.jpg",
+      "published_at": "2026-11-02T06:32:08+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lors de la conférence de presse post‑Mexic, le directeur de Ferrari, Frédéric Vasseur, a éclaté de rire face à une question répétée sur le clash entre Hamilton et Leclerc. Le moment a mis en lumière l’atmosphère tendue.",
+      "summary_en": "During the post‑Mexican GP press conference, Ferrari chief Frédéric Vasseur burst into laughter at a repeated question about the Hamilton‑Leclerc clash, highlighting the tense atmosphere."
+    },
     {
       "id": "491c7673c9a8",
       "title": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
@@ -153,6 +210,25 @@
       "is_breaking": false,
       "summary_fr": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon",
       "summary_en": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon"
+    },
+    {
+      "id": "9bbdb11aa7d7",
+      "title": "“When you’re one-two you don’t imagine you will lose, and we did” – Vasseur | Formula 1",
+      "title_fr": "“When you’re one-two you don’t imagine you will lose, and we did” – Vasseur | Formula 1",
+      "title_en": "“When you’re one-two you don’t imagine you will lose, and we did” – Vasseur | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/when-youre-one-two-you-dont-imagine-you-will-lose-and-we-did-vasseur/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-03-22-1-1-sunday-mexico-2026.jpg",
+      "published_at": "2026-11-02T00:16:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari team principal Frederic Vasseur said it was hard to accept the way the team \"gave up a win\" in Mexico.",
+      "summary_en": "Ferrari team principal Frederic Vasseur said it was hard to accept the way the team \"gave up a win\" in Mexico."
     },
     {
       "id": "66606f7ce4ee",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Les pilotes de McLaren estiment que les limitations de vitesse rendront les dépassements difficiles lors du Grand Prix du Mexique 2026, en raison des nouvelles unités de puissance.",
       "summary_en": "McLaren drivers expect limited overtaking at the Mexican Grand Prix 2026 due to speed limiters imposed by the new power units."
-    },
-    {
-      "id": "e6bda83eae79",
-      "title": "Lawson disqualified from F1 qualifying in Mexico – here's why",
-      "title_fr": "Lawson disqualifié de la qualification mexicaine",
-      "title_en": "Lawson disqualified from Mexican qualifying",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lawson-disqualified-from-f1-qualifying-in-mexico-heres-why/10870411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
-      "published_at": "2026-11-01T01:54:48+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 88,
-      "is_breaking": true,
-      "summary_fr": "Liam Lawson a perdu sa place neuvième après sa disqualification par la FIA lors de la qualification du Grand Prix de Mexico. Les Racing Bulls ont pourtant atteint Q3, mais Lawson devra récupérer le jour J.",
-      "summary_en": "Liam Lawson lost his ninth‑place start after being disqualified by the FIA during qualifying for the Mexican Grand Prix. Racing Bulls reached Q3, but Lawson will have to fight back on Sunday."
-    },
-    {
-      "id": "6673ffc189b3",
-      "title": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
-      "title_fr": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
-      "title_en": "Liam Lawson disqualified from F1 qualifying in Mexico – here's why",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbA99Z0/s6/liam-lawson-racing-bulls.jpg",
-      "published_at": "2026-11-01T01:54:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix.<br />Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both car",
-      "summary_en": "Liam Lawson has lost his ninth-place starting position for the Formula 1 Mexico City Grand Prix.<br />Racing Bulls impressed at the Autodromo Hermanos Rodriguez on Saturday and managed to get both car"
-    },
-    {
-      "id": "432fe8b325b4",
-      "title": "Verstappen clears the air with Lawson, but keeps opinion on Racing Bulls F1 seat to himself",
-      "title_fr": "Verstappen clarifie après collision avec Lawson",
-      "title_en": "Verstappen clears air after clash with Lawson",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/verstappen-clears-the-air-with-lawson-but-keeps-opinion-on-racing-bulls-f1-seat-to-himself/10870388/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZxbVKY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-01T00:28:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a qualifié le 4e mais sera relégué à la troisième rangée après un contact avec Liam Lawson. Il a toutefois gardé son opinion sur la place F1 de Racing Bulls.",
-      "summary_en": "Max Verstappen qualified fourth but will start from the third row after a contact with Liam Lawson. He kept his opinion on Racing Bulls' F1 seat to himself."
-    },
-    {
-      "id": "59723b321a05",
-      "title": "Ferrari reveals luxury $4,300 fountain pen inspired by its bespoke supercars",
-      "title_fr": "Ferrari lance un stylo-plume de 4 300 $ inspiré de ses supercars",
-      "title_en": "Ferrari unveils a $4,300 fountain pen inspired by its supercars",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6DGg8rGY/s6/motorsport-com-graphics-53.jpg",
-      "published_at": "2026-11-01T00:28:32+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a collaboré avec Montblanc pour créer le Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition, un stylo-plume de 4 300 $ inspiré de ses supercars. Le prix dépasse celui de certaines voitures d'occasion.",
-      "summary_en": "Ferrari partnered with Montblanc to launch the Meisterstuck Great Masters Ferrari Tailor Made Inedita Special Edition, a $4,300 fountain pen inspired by its supercars. The price tops that of some used cars."
     }
   ]
 }
