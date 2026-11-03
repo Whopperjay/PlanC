@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-03T11:20:19Z",
+  "last_updated": "2026-11-03T14:22:50Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0ede31ce3c47",
+      "title": "The reason behind Honda’s power unit lasting five laps in Mexico GP",
+      "title_fr": "Honda : l’unité de puissance échoue après cinq tours à Mexico",
+      "title_en": "Honda power unit fails after five laps in Mexico",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-reason-behind-hondas-power-unit-lasting-five-laps-in-mexico/10871286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
+      "published_at": "2026-11-03T13:45:54+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Honda a vu son unité de puissance échouer après seulement cinq tours à l’Autodromo Hermanos Rodríguez, mettant en lumière les défis techniques du circuit mexicain.",
+      "summary_en": "Honda’s power unit failed after just five laps at the Autodromo Hermanos Rodríguez, highlighting the technical challenges of the Mexican circuit."
+    },
+    {
+      "id": "ea5df2cb2ad2",
+      "title": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
+      "title_fr": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
+      "title_en": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNjML2/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-03T13:34:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s week",
+      "summary_en": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s week"
+    },
+    {
+      "id": "cb3a5e255724",
+      "title": "Red Bull's key strategy call behind Verstappen's Mexico win",
+      "title_fr": "Stratégie Red Bull clé du 6e titre de Verstappen au Mexique",
+      "title_en": "Red Bull’s key strategy call behind Verstappen’s Mexico win",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/red-bulls-key-strategy-call-behind-verstappens-mexico-win-10871260/10871260/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNZvb2/s6/max-verstappen-red-bull-racing-3.jpg",
+      "published_at": "2026-11-03T12:04:20+00:00",
+      "race_id": "netherlands",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a joué un rôle décisif grâce à une décision stratégique qui a permis à Max Verstappen de remporter son sixième titre en Mexique.",
+      "summary_en": "Red Bull’s key strategy call was decisive in Max Verstappen’s sixth win in Mexico."
+    },
+    {
+      "id": "7392a34a2528",
+      "title": "How Red Bull's crucial strategy call helped Max Verstappen win the \"Maxico Grand Prix\"",
+      "title_fr": "Stratégie Red Bull clé de la victoire de Verstappen au Mexique",
+      "title_en": "Red Bull strategy key to Verstappen's Mexico win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGg8WKY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-03T11:59:50+00:00",
+      "race_id": "netherlands",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "La décision stratégique de Red Bull a permis à Max Verstappen de remporter son sixième titre au Grand Prix du Mexique, malgré la journée de Kimi Antonelli et les tensions chez Ferrari.",
+      "summary_en": "Red Bull's strategic call enabled Max Verstappen to secure his sixth win at the Mexican Grand Prix, even as Kimi Antonelli had a standout day and Ferrari faced internal tensions."
+    },
+    {
+      "id": "f6fcf62c53f2",
+      "title": "Spotlight: Verstappen puzzled by engine braking: ‘It just decides by itself what to do’ | Formula 1",
+      "title_fr": "Verstappen perplexe par la décélération moteur au Mexique",
+      "title_en": "Verstappen baffled by engine braking at Mexican GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/03/spotlight-verstappen-puzzled-by-engine-braking-it-just-decides-by-itself-what-to-do/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-00-46-39-6-SI202611010503.jpg",
+      "published_at": "2026-11-03T11:21:51+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Red Bull, Max Verstappen, a exprimé son étonnement face à une décélération moteur apparemment aléatoire lors du Grand Prix du Mexique. Il affirme que le système décide de lui‑même ce qu’il doit faire.",
+      "summary_en": "Red Bull driver Max Verstappen was baffled by what he described as random engine braking during the Mexican Grand Prix, saying the system seemed to decide on its own what to do."
+    },
     {
       "id": "d5f99482c126",
       "title": "Isack Hadjar blames himself for George Russell clash that “ruined” his Mexico GP",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le champion Kimi Antonelli, devenu le plus jeune champion du monde en 2026, souhaite accrocher une photo de Lewis Hamilton et Max Verstappen sur son mur. Cette demande fait l'objet d'un petit tour de presse.",
       "summary_en": "Kimi Antonelli, crowned the youngest F1 champion in 2026, wants a photo of Lewis Hamilton and Max Verstappen on his wall. The request has sparked a brief media buzz."
-    },
-    {
-      "id": "c0654e301f47",
-      "title": "Who slept worst last night: Frederic Vasseur",
-      "title_fr": "Vasseur éclate de rire après le Grand Prix du Mexique",
-      "title_en": "Vasseur bursts into laughter after Mexican GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-frederic-vasseur-10870909/10870909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YBVjyznY/s6/fred-vasseur-ferrari.jpg",
-      "published_at": "2026-11-02T06:32:08+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lors de la conférence de presse post‑Mexic, le directeur de Ferrari, Frédéric Vasseur, a éclaté de rire face à une question répétée sur le clash entre Hamilton et Leclerc. Le moment a mis en lumière l’atmosphère tendue.",
-      "summary_en": "During the post‑Mexican GP press conference, Ferrari chief Frédéric Vasseur burst into laughter at a repeated question about the Hamilton‑Leclerc clash, highlighting the tense atmosphere."
-    },
-    {
-      "id": "491c7673c9a8",
-      "title": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
-      "title_fr": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
-      "title_en": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870864/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyZvk6/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": "2026-11-02T02:19:42+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad.<br />Piastri’s 60-strong str",
-      "summary_en": "Oscar Piastri’s tough Mexico Grand Prix weekend has ended in point-less fashion, after the McLaren Formula 1 driver copped a penalty for his collision with Arvid Lindblad.<br />Piastri’s 60-strong str"
-    },
-    {
-      "id": "31c332bddf06",
-      "title": "Penalty drops Oscar Piastri out of F1 Mexico GP points",
-      "title_fr": "Piastri exclu des points du GP de Mexique après pénalité",
-      "title_en": "Piastri loses points at Mexico GP after penalty",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7Lbn1Y/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-11-02T02:17:39+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri a perdu ses points du Grand Prix de Mexico suite à une pénalité pour collision avec Arvid Lindblad. Le pilote McLaren, qualifié 12e, ne pourra pas capitaliser sur son parcours de 60 Q3",
-      "summary_en": "Oscar Piastri lost his Mexico GP points after a penalty for colliding with Arvid Lindblad. The McLaren driver, who qualified 12th, will miss out on points after a 60-race Q3 streak ended"
-    },
-    {
-      "id": "7d3942633e1a",
-      "title": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
-      "title_fr": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
-      "title_en": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/gasly-and-colapinto-penalised-post-race-hirakawa-scores-on-f1-debut-at-mexico-gp/10870863/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyZ4G6/s6/pierre-gasly-alpine-franco-col.jpg",
-      "published_at": "2026-11-02T02:16:28+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Pierre Gasly and Franco Colapinto have both been given post-race penalties which have dropped them out of the points and resulted in Haas debutant Ryo Hirakawa scoring on his Formula 1 debut at the Me",
-      "summary_en": "Pierre Gasly and Franco Colapinto have both been given post-race penalties which have dropped them out of the points and resulted in Haas debutant Ryo Hirakawa scoring on his Formula 1 debut at the Me"
-    },
-    {
-      "id": "ca0649da40b5",
-      "title": "Alpine drivers penalised post-race, Ryo Hirakawa scores on F1 debut at Mexico GP",
-      "title_fr": "Alpine pénalisés, Hirakawa marque son debut à Mexico",
-      "title_en": "Alpine penalised post-race, Hirakawa scores on debut at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/pierre-gasly-and-franco-colapinto-penalised-post-race-ryo-hirakawa-scores-on-f1-debut/10870860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyZ4G6/s6/pierre-gasly-alpine-franco-col.jpg",
-      "published_at": "2026-11-02T02:15:13+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Les pilotes Alpine Gasly et Colapinto ont reçu des pénalités après la course, les excluant des points. Le debutant Ryo Hirakawa a ainsi marqué son entrée en F1 à Mexico.",
-      "summary_en": "Alpine drivers Gasly and Colapinto received post-race penalties, dropping them out of the points. Debutant Ryo Hirakawa scored on his Formula 1 debut at Mexico."
     }
   ]
 }
