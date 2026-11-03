@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-02T23:12:08Z",
+  "last_updated": "2026-11-03T02:14:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "fe9d63442345",
+      "title": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
+      "title_fr": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
+      "title_en": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6O7zl1N6/s6/motorsport-com-graphics-52.jpg",
+      "published_at": "2026-11-03T00:02:11+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.<br />",
+      "summary_en": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.<br />"
+    },
     {
       "id": "03d7e4f694c9",
       "title": "Social Media: Russell vows to rediscover his performance after “more bad days than good” in 2026 | Brief",
@@ -307,6 +326,25 @@
       "summary_en": "Kimi Antonelli says he will keep the number 12 for 2027, declining to take the number 1 that Verstappen and Norris have claimed after winning titles."
     },
     {
+      "id": "563e0c73258f",
+      "title": "Spotlight: Antonelli says he’ll frame iconic photo with Hamilton and Verstappen | Brief",
+      "title_fr": "Antonelli veut encadrer photo iconique avec Hamilton et Verstappen",
+      "title_en": "Antonelli plans to frame iconic photo with Hamilton and Verstappen",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/spotlight-antonelli-says-hell-frame-iconic-photo-with-hamilton-and-verstappen/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-00-46-4-M647661_F1_MEXICO_CITY_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-11-02T11:26:13+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote d’Aston Martin, Lando Antonelli, a déclaré qu’il voulait encadrer la photo iconique prise avec Lewis Hamilton et Max Verstappen. Il souhaite immortaliser ce moment unique.",
+      "summary_en": "Aston Martin driver Lando Antonelli said he wants to frame the iconic photo taken with Lewis Hamilton and Max Verstappen, aiming to immortalise the moment."
+    },
+    {
       "id": "5c3b13f96c20",
       "title": "Fred Vasseur calls for \"respect\" after Lewis Hamilton-Charles Leclerc Mexican GP clash",
       "title_fr": "Vasseur exige du respect après le choc Hamilton-Leclerc à Mexico",
@@ -343,6 +381,25 @@
       "is_breaking": false,
       "summary_fr": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He bel",
       "summary_en": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He bel"
+    },
+    {
+      "id": "dc72cbc38d9b",
+      "title": "Call this the ‘Maxico’ Grand Prix says Verstappen after sixth Mexican GP win | Formula 1",
+      "title_fr": "Verstappen propose de rebaptiser le Grand Prix de Mexico 'Maxico' après sa sixième victoire",
+      "title_en": "Verstappen suggests renaming Mexican GP 'Maxico' after sixth win",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/call-this-the-maxico-grand-prix-says-verstappen-after-sixth-mexican-gp-win/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-03-54-2-SI202611020026.jpg",
+      "published_at": "2026-11-02T11:05:01+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a plaisanté en suggérant que la Formule 1 renomme le Grand Prix de Mexico 'Maxico' après sa sixième victoire. Le pilote Red Bull a célébré son succès en Amérique du Sud.",
+      "summary_en": "Max Verstappen joked that Formula 1 should rename the Mexican GP 'Maxico' after his sixth win. The Red Bull driver celebrated his victory in Mexico."
     },
     {
       "id": "dcf900aea5bc",
@@ -383,6 +440,63 @@
       "summary_en": "The Italian sports paper accuses Ferrari while Antonelli claims the title, saying it comes from not racing for the team. The claim raises questions about the champion’s legitimacy."
     },
     {
+      "id": "8eaee475eed4",
+      "title": "“I’ll stay with number 12” – no number one in 2027 for new champion Antonelli | Formula 1",
+      "title_fr": "“I’ll stay with number 12” – no number one in 2027 for new champion Antonelli | Formula 1",
+      "title_en": "“I’ll stay with number 12” – no number one in 2027 for new champion Antonelli | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/ill-stay-with-number-12-no-number-one-in-2027-for-new-champion-antonelli/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-05-12-11-55-2-M624469_Italian_Grand_Prix__Friday.jpg",
+      "published_at": "2026-11-02T09:59:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli won't swap his number 12 for the champion's number one next year partly for \"superstitious\" reasons.",
+      "summary_en": "Andrea Kimi Antonelli won't swap his number 12 for the champion's number one next year partly for \"superstitious\" reasons."
+    },
+    {
+      "id": "8bf7ceca3bb6",
+      "title": "Featured Comment: Praise for FIA’s decision to change restart order in Mexico | Brief",
+      "title_fr": "FIA louée pour changement d'ordre de relance à Mexico",
+      "title_en": "FIA praised for changing restart order in Mexico",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/featured-comment-praise-for-fias-decision-to-change-restart-order-in-mexico/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-00-46-50-5-SI202611010509.jpg",
+      "published_at": "2026-11-02T09:28:48+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le contrôle de course a salué la décision de la FIA de modifier l'ordre de relance lors du Grand Prix de Mexico comme une décision intelligente.",
+      "summary_en": "Race control praised the FIA's decision to change the restart order at the Mexican Grand Prix as a smart move."
+    },
+    {
+      "id": "fb86e7085ec9",
+      "title": "Mercedes fined as Russell skips media duties after power unit frustration | Formula 1",
+      "title_fr": "Mercedes sanctionnée après que Russell refuse de parler aux médias",
+      "title_en": "Mercedes fined after Russell skips media duties",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/mercedes-fined-as-russell-skips-media-duties-after-power-unit-frustration/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-16-30-4-4-sunday-mexico-2026.jpg",
+      "published_at": "2026-11-02T08:11:41+00:00",
+      "race_id": "mexico",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Mercedes a été sanctionnée par les commissaires après que George Russell ait refusé de répondre aux journalistes suite au Grand Prix mexicain.",
+      "summary_en": "Mercedes was fined by stewards after George Russell refused to speak to the media following the Mexican Grand Prix."
+    },
+    {
       "id": "19bb255b091d",
       "title": "Hirakawa scores points on his F1 debut after both Alpine drivers are penalised | Formula 1",
       "title_fr": "Hirakawa obtient des points à son debut après pénalités Alpine",
@@ -400,6 +514,25 @@
       "is_breaking": false,
       "summary_fr": "Ryo Hirakawa, qui a terminé 13e lors de son premier Grand Prix, a été promu à la fin de points après que les deux pilotes Alpine aient reçu des pénalités.",
       "summary_en": "Ryo Hirakawa finished 13th on his debut and was promoted to a points finish after both Alpine drivers received penalties."
+    },
+    {
+      "id": "9be78f239aa6",
+      "title": "How to watch the 2026 Brazilian Grand Prix live this weekend | TV Times",
+      "title_fr": "How to watch the 2026 Brazilian Grand Prix live this weekend | TV Times",
+      "title_en": "How to watch the 2026 Brazilian Grand Prix live this weekend | TV Times",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/02/how-to-watch-the-2026-brazilian-grand-prix-live-this-weekend/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-09-14-03-02-5-2245857041.jpg",
+      "published_at": "2026-11-02T07:17:34+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "It's race week! Formula 1 heads to Interlagos this weekend. Here's how to watch the Brazilian Grand Prix and more.",
+      "summary_en": "It's race week! Formula 1 heads to Interlagos this weekend. Here's how to watch the Brazilian Grand Prix and more."
     },
     {
       "id": "adf61591dbf3",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc a riposté à Lewis Hamilton après le Grand Prix de Mexico, affirmant que la conduite de Hamilton était \"très proche de la limite\". Le pilote Ferrari a défendu son dépassement au départ.",
       "summary_en": "Charles Leclerc fired back at Lewis Hamilton after the Mexico City Grand Prix, saying Hamilton's driving was \"very much on the limit\". The Ferrari driver defended his early overtaking move."
-    },
-    {
-      "id": "69abbf5d07e4",
-      "title": "Why Leclerc didn’t give up Mexico GP lead after cutting Turn 5",
-      "title_fr": "Leclerc conserve la tête après avoir coupé le virage 5 à Mexico",
-      "title_en": "Leclerc keeps lead after cutting Turn 5 in Mexico",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-leclerc-didnt-give-up-mexico-gp-lead-after-cutting-turn-5/10870807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zXQX6/s6/charles-leclerc-ferrari-lewis--3.jpg",
-      "published_at": "2026-11-02T00:06:00+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a conservé la tête du peloton après avoir coupé le virage 5, suscitant la controverse. Le pilote Ferrari a maintenu son avance sur Lewis Hamilton malgré les critiques.",
-      "summary_en": "Charles Leclerc kept the lead after cutting Turn 5, sparking controversy. The Ferrari driver maintained his advantage over Lewis Hamilton despite criticism."
-    },
-    {
-      "id": "090431f206d7",
-      "title": "Why Charles Leclerc didn’t yield Mexico GP lead after cutting Turn 5",
-      "title_fr": "Leclerc ne cède pas la tête après avoir coupé le virage 5",
-      "title_en": "Leclerc Holds Lead After Cutting Turn 5",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-charles-leclerc-didnt-yield-mexico-gp-lead-after-cutting-turn-5/10870796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zXQX6/s6/charles-leclerc-ferrari-lewis--5.jpg",
-      "published_at": "2026-11-02T00:03:49+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a conservé la tête de course après avoir coupé le virage 5, défiant Lewis Hamilton. Le pilote Ferrari a ainsi maintenu son avance malgré la pression de son coéquipier.",
-      "summary_en": "Charles Leclerc kept the lead after cutting Turn 5, challenging Lewis Hamilton. The Ferrari driver maintained his advantage despite pressure from his teammate."
-    },
-    {
-      "id": "9b658bb7efce",
-      "title": "F1 CEO Stefano Domenicali releases touching statement after Kimi Antonelli's title win",
-      "title_fr": "Domenicali salue le champion Kimi Antonelli après son titre",
-      "title_en": "Domenicali praises Kimi Antonelli after his title win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-ceo-stefano-domenicali-releases-touching-statement-after-kimi-antonellis-title-win/10870790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0rVP8PO0/s6/motorsport-com-graphics-44.jpg",
-      "published_at": "2026-11-01T23:53:55+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le directeur général de la F1, Stefano Domenicali, a déclaré que toute l'Italie célébrerait la victoire de Kimi Antonelli, le plus jeune champion du monde, après son triomphe au Grand Prix du Mexique.",
-      "summary_en": "F1 chief Stefano Domenicali said the whole nation would celebrate after Kimi Antonelli became the youngest champion, winning the Mexican Grand Prix."
-    },
-    {
-      "id": "2bd62a718515",
-      "title": "Lando Norris says Kimi Antonelli should celebrate F1 title “properly” after breakthrough season",
-      "title_fr": "Antonelli, champion de F1, reçoit les félicitations de Lando Norris",
-      "title_en": "Antonelli crowned F1 champion, praised by Lando Norris",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-says-kimi-antonelli-should-celebrate-f1-title-properly-after-breakthrough-season/10870775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6n7bwAA0/s6/motorsport-com-graphics-57.jpg",
-      "published_at": "2026-11-01T23:22:36+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli devient champion de F1, le plus jeune à 20 ans et 68 jours, après une troisième place à l'Autodromo Hermanos Rodríguez. Lando Norris, champion l’an dernier, l’a félicité chaleureusement.",
-      "summary_en": "Kimi Antonelli becomes F1 champion, the youngest at 20 years and 68 days, after finishing third at the Autodromo Hermanos Rodríguez. Lando Norris, last year's champion, congratulated him warmly."
-    },
-    {
-      "id": "303a05eddd18",
-      "title": "Hamilton demands “serious talks” at Ferrari after Leclerc clash in Mexico GP “lost us the win”",
-      "title_fr": "Hamilton demands “serious talks” at Ferrari after Leclerc clash in Mexico GP “lost us the win”",
-      "title_en": "Hamilton demands “serious talks” at Ferrari after Leclerc clash in Mexico GP “lost us the win”",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-01T23:14:33+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th",
-      "summary_en": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th"
-    },
-    {
-      "id": "38afa0e208ca",
-      "title": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
-      "title_fr": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
-      "title_en": "Lewis Hamilton demands “serious talks” at Ferrari after Charles Leclerc clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-01T23:11:50+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th",
-      "summary_en": "Lewis Hamilton has called for “serious talks” at Ferrari following his clash with team-mate Charles Leclerc in Formula 1’s Mexico Grand Prix.<br />Polesitter Hamilton was challenged by Leclerc from th"
-    },
-    {
-      "id": "0a42d8d24d6d",
-      "title": "Max Verstappen shares emotional message after Kimi Antonelli's historic F1 title win",
-      "title_fr": "Verstappen félicite Kimi Antonelli après son titre historique",
-      "title_en": "Verstappen praises Kimi Antonelli after historic title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-shares-emotional-message-after-kimi-antonellis-historic-f1-title-win/10870753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/01QN8mx0/s6/motorsport-com-graphics-43.jpg",
-      "published_at": "2026-11-01T23:03:32+00:00",
-      "race_id": "mexico",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a exprimé sa fierté envers Kimi Antonelli, qui a remporté le championnat du monde de Formule 1 à l'âge de 20 ans, devenant le plus jeune champion de l'histoire",
-      "summary_en": "Max Verstappen expressed pride in Kimi Antonelli, who clinched the Formula 1 World Championship at 20, becoming the sport's youngest champion"
     }
   ]
 }
