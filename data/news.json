@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-03T14:22:50Z",
+  "last_updated": "2026-11-03T17:25:18Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "000700602d20",
+      "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
+      "title_fr": "McLaren introduit des améliorations au GP du Brésil en vue de 2027",
+      "title_en": "McLaren to unveil upgrades at Brazil GP ahead of 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-11-03T16:48:36+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "McLaren apportera des améliorations à son MCL40 lors du Grand Prix du Brésil, notamment un nouveau concept d'aileron avant qui devrait figurer sur son modèle 2027. L’équipe a déjà montré son potentiel en Hongrie.",
+      "summary_en": "McLaren will unveil upgrades to its MCL40 at the Brazil Grand Prix, featuring a front‑wing concept slated for its 2027 model. The team had shown strong form after a major update in Hungary."
+    },
+    {
+      "id": "38487756d83b",
+      "title": "McLaren to introduce 2027 F1 front wing at Brazil GP",
+      "title_fr": "McLaren dévoile son aile avant 2027 au GP du Brésil",
+      "title_en": "McLaren to unveil 2027 front wing at Brazil GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0arEVnw2/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-11-03T16:43:26+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "McLaren introduira son aile avant 2027 lors du Grand Prix du Brésil, après une mise à jour majeure du MCL40 qui a propulsé Lando Norris à la victoire. L’équipe vise à renforcer son avantage.",
+      "summary_en": "McLaren will debut its 2027 front wing at the Brazil Grand Prix, following a major upgrade of the MCL40 that saw Lando Norris win in Hungary. The team aims to sharpen its edge."
+    },
+    {
+      "id": "8071d6ebb666",
+      "title": "Red Bull's rumoured €27million deal takes shape in leaked Max Verstappen shoot",
+      "title_fr": "Verstappen en photo révèle un futur contrat de 27 m€",
+      "title_en": "Verstappen photo hints at 27 m€ deal",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/leaked-photos-reveal-max-verstappen-sporting-adidas-gear-as-27m-red-bull-rumors-erupt/10871317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7L975Y/s6/motorsport-com-graphics-62-2.jpg",
+      "published_at": "2026-11-03T16:25:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Des photos fuitées de Max Verstappen portant un maillot non encore dévoilé suggèrent un contrat de 27 m€ avec Red Bull.",
+      "summary_en": "Leaked photos of Max Verstappen in an unreleased kit hint at a €27 million deal with Red Bull."
+    },
+    {
+      "id": "ac5afa375df7",
+      "title": "Isack Hadjar rues missed opportunity after George Russell clash at Mexico GP",
+      "title_fr": "Hadjar regrette la perte de piste après l'impact avec Russell à Mexico",
+      "title_en": "Hadjar laments lost pace after clash with Russell in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
+      "published_at": "2026-11-03T16:08:34+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar, pilote Red Bull, a débuté septième et a franchi les premiers virages en tête, mais a perdu de la vitesse après un choc avec George Russell à l'angle 6 de l'Autódromo Hermanos Rodríguez.",
+      "summary_en": "Isack Hadjar, the Red Bull driver, started seventh and surged to fifth early on, but lost pace after a collision with George Russell at turn 6 of the Autódromo Hermanos Rodríguez."
+    },
+    {
+      "id": "9fd438b96850",
+      "title": "Marco Antonelli: \"I saw the champion in Kimi after his Australia crash\"",
+      "title_fr": "Marco Antonelli confie qu'il a vu Kimi champion après l'accident australien",
+      "title_en": "Marco Antonelli says he saw Kimi become champion after Australia crash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVP1GO0/s6/marco-antonelli-2.jpg",
+      "published_at": "2026-11-03T14:22:11+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le père de Kimi Antonelli, ancien pilote et directeur d'équipe, explique comment il a compris que son fils deviendrait champion après l'accident australien. Le champion italien a remporté son premier titre à Mexico, devenant le plus jeune de l'histoire.",
+      "summary_en": "Kimi Antonelli's father, former driver and team principal, says he realised his son would become champion after the Australia crash. The Italian won his first title in Mexico, becoming Formula 1’s youngest ever champion."
+    },
     {
       "id": "0ede31ce3c47",
       "title": "The reason behind Honda’s power unit lasting five laps in Mexico GP",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Andrea Kimi Antonelli won't swap his number 12 for the champion's number one next year partly for \"superstitious\" reasons.",
       "summary_en": "Andrea Kimi Antonelli won't swap his number 12 for the champion's number one next year partly for \"superstitious\" reasons."
-    },
-    {
-      "id": "8bf7ceca3bb6",
-      "title": "Featured Comment: Praise for FIA’s decision to change restart order in Mexico | Brief",
-      "title_fr": "FIA louée pour changement d'ordre de relance à Mexico",
-      "title_en": "FIA praised for changing restart order in Mexico",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/featured-comment-praise-for-fias-decision-to-change-restart-order-in-mexico/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-00-46-50-5-SI202611010509.jpg",
-      "published_at": "2026-11-02T09:28:48+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le contrôle de course a salué la décision de la FIA de modifier l'ordre de relance lors du Grand Prix de Mexico comme une décision intelligente.",
-      "summary_en": "Race control praised the FIA's decision to change the restart order at the Mexican Grand Prix as a smart move."
-    },
-    {
-      "id": "fb86e7085ec9",
-      "title": "Mercedes fined as Russell skips media duties after power unit frustration | Formula 1",
-      "title_fr": "Mercedes sanctionnée après que Russell refuse de parler aux médias",
-      "title_en": "Mercedes fined after Russell skips media duties",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/mercedes-fined-as-russell-skips-media-duties-after-power-unit-frustration/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-16-30-4-4-sunday-mexico-2026.jpg",
-      "published_at": "2026-11-02T08:11:41+00:00",
-      "race_id": "mexico",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Mercedes a été sanctionnée par les commissaires après que George Russell ait refusé de répondre aux journalistes suite au Grand Prix mexicain.",
-      "summary_en": "Mercedes was fined by stewards after George Russell refused to speak to the media following the Mexican Grand Prix."
-    },
-    {
-      "id": "19bb255b091d",
-      "title": "Hirakawa scores points on his F1 debut after both Alpine drivers are penalised | Formula 1",
-      "title_fr": "Hirakawa obtient des points à son debut après pénalités Alpine",
-      "title_en": "Hirakawa scores points on debut after Alpine penalties",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/hirakawa-scores-points-on-his-f1-debut-after-both-alpine-drivers-penalised/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-12-22-57-1.jpg",
-      "published_at": "2026-11-02T07:56:56+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Ryo Hirakawa, qui a terminé 13e lors de son premier Grand Prix, a été promu à la fin de points après que les deux pilotes Alpine aient reçu des pénalités.",
-      "summary_en": "Ryo Hirakawa finished 13th on his debut and was promoted to a points finish after both Alpine drivers received penalties."
-    },
-    {
-      "id": "9be78f239aa6",
-      "title": "How to watch the 2026 Brazilian Grand Prix live this weekend | TV Times",
-      "title_fr": "How to watch the 2026 Brazilian Grand Prix live this weekend | TV Times",
-      "title_en": "How to watch the 2026 Brazilian Grand Prix live this weekend | TV Times",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/how-to-watch-the-2026-brazilian-grand-prix-live-this-weekend/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-09-14-03-02-5-2245857041.jpg",
-      "published_at": "2026-11-02T07:17:34+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "It's race week! Formula 1 heads to Interlagos this weekend. Here's how to watch the Brazilian Grand Prix and more.",
-      "summary_en": "It's race week! Formula 1 heads to Interlagos this weekend. Here's how to watch the Brazilian Grand Prix and more."
-    },
-    {
-      "id": "adf61591dbf3",
-      "title": "Kimi Antonelli wants special photo with Lewis Hamilton and Max Verstappen on his wall after F1 title",
-      "title_fr": "Antonelli veut une photo spéciale avec Hamilton et Verstappen sur son mur",
-      "title_en": "Antonelli wants a special photo with Hamilton and Verstappen on his wall",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-wants-special-photo-with-lewis-hamilton-and-max-verstappen-on-his-wall-after-f1-title/10870868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver.jpg",
-      "published_at": "2026-11-02T06:56:14+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Kimi Antonelli, devenu le plus jeune champion du monde en 2026, souhaite accrocher une photo de Lewis Hamilton et Max Verstappen sur son mur. Cette demande fait l'objet d'un petit tour de presse.",
-      "summary_en": "Kimi Antonelli, crowned the youngest F1 champion in 2026, wants a photo of Lewis Hamilton and Max Verstappen on his wall. The request has sparked a brief media buzz."
     }
   ]
 }
