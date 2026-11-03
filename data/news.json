@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-03T17:25:18Z",
+  "last_updated": "2026-11-03T20:27:20Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "219f50a996a4",
+      "title": "The 'difference' between Kimi Antonelli's F1 title and Lewis Hamilton's according to Toto Wolff",
+      "title_fr": "Toto Wolff compare la victoire de Kimi Antonelli à celle de Lewis Hamilton",
+      "title_en": "Toto Wolff compares Kimi Antonelli's title to Lewis Hamilton's",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXbl3m2/s6/lewis-hamilton-ferrari-andrea-.jpg",
+      "published_at": "2026-11-03T19:14:39+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a expliqué que la sensation d’avoir vu Kimi Antonelli devenir champion de F1 était différente de celle ressentie pendant les années Lewis Hamilton. Antonelli a remporté son premier titre à 20 ans, le plus jeune champion de l’histoire.",
+      "summary_en": "Toto Wolff said that watching Kimi Antonelli become Formula 1 champion felt different from the years he saw Lewis Hamilton win. Antonelli clinched his first title at 20, becoming the youngest champion in F1 history."
+    },
+    {
+      "id": "4dd3a1b333f9",
+      "title": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
+      "title_fr": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
+      "title_en": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15R8O0/s6/oliver-bearman-haas-f1-team.jpg",
+      "published_at": "2026-11-03T17:39:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "With Oliver Bearman firing on all cylinders in his sophomore Formula 1 campaign, it feels odd that Haas has been able to confirm the identity of Esteban Ocon's replacement in the second seat for 2027 ",
+      "summary_en": "With Oliver Bearman firing on all cylinders in his sophomore Formula 1 campaign, it feels odd that Haas has been able to confirm the identity of Esteban Ocon's replacement in the second seat for 2027 "
+    },
     {
       "id": "000700602d20",
       "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a remporté le championnat de Formule 1, devenant le pilote le plus jeune à décrocher le titre, dépassant le record précédent de plus de trois ans grâce à une saison quasi parfaite, son deuxième en F1.",
       "summary_en": "Kimi Antonelli clinched the Formula 1 title, becoming the youngest champion ever and surpassing the previous record by more than three years, thanks to an almost perfect season in his second year in the sport."
-    },
-    {
-      "id": "1c9bf6818446",
-      "title": "Social media: Italian sports newspaper takes swipe at Ferrari as Antonelli claims title | Brief",
-      "title_fr": "Antonelli se vante d’être champion sans Ferrari",
-      "title_en": "Antonelli boasts champion status without Ferrari",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/social-media-italian-sports-newspaper-takes-swipe-at-ferrari-as-antonelli-claims-title/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/gazzetta.jpg",
-      "published_at": "2026-11-02T10:17:18+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le journal sportif italien accuse Ferrari alors qu’Antonelli se déclare champion, affirmant que son titre vient du fait qu’il ne conduit pas pour l’équipe rouge. L’argument soulève des questions sur la légitimité du champion.",
-      "summary_en": "The Italian sports paper accuses Ferrari while Antonelli claims the title, saying it comes from not racing for the team. The claim raises questions about the champion’s legitimacy."
-    },
-    {
-      "id": "8eaee475eed4",
-      "title": "“I’ll stay with number 12” – no number one in 2027 for new champion Antonelli | Formula 1",
-      "title_fr": "“I’ll stay with number 12” – no number one in 2027 for new champion Antonelli | Formula 1",
-      "title_en": "“I’ll stay with number 12” – no number one in 2027 for new champion Antonelli | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/ill-stay-with-number-12-no-number-one-in-2027-for-new-champion-antonelli/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-05-12-11-55-2-M624469_Italian_Grand_Prix__Friday.jpg",
-      "published_at": "2026-11-02T09:59:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli won't swap his number 12 for the champion's number one next year partly for \"superstitious\" reasons.",
-      "summary_en": "Andrea Kimi Antonelli won't swap his number 12 for the champion's number one next year partly for \"superstitious\" reasons."
     }
   ]
 }
