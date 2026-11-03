@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T02:14:07Z",
+  "last_updated": "2026-11-03T05:16:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -20,6 +20,25 @@
       "is_breaking": false,
       "summary_fr": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.<br />",
       "summary_en": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.<br />"
+    },
+    {
+      "id": "a9bc922d7e0e",
+      "title": "Russell says F1 title loss 'tough to deal with'",
+      "title_fr": "Russell déplore la perte du titre de F1",
+      "title_en": "Russell laments loss of F1 title",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmq8n95ppwd4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70fe/live/9cc1bb70-d700-11f1-91df-b96ca3dbd380.jpg",
+      "published_at": "2026-11-02T21:16:11+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell exprime sa peine face à la chute de sa saison alors que son coéquipier Mercedes, Kimi Antonelli, remporte le championnat. Il trouve cette situation difficile à accepter.",
+      "summary_en": "George Russell says his season unraveled while his Mercedes teammate Kimi Antonelli won the title, and he finds the situation tough to deal with."
     },
     {
       "id": "03d7e4f694c9",
@@ -649,6 +668,25 @@
       "summary_en": "Alpine drivers Gasly and Colapinto received post-race penalties, dropping them out of the points. Debutant Ryo Hirakawa scored on his Formula 1 debut at Mexico."
     },
     {
+      "id": "5f8d24ba1efe",
+      "title": "How Antonelli 'blew everyone away' to make F1 history",
+      "title_fr": "Antonelli fait l'histoire en remportant son premier titre mondial",
+      "title_en": "Antonelli makes history by winning his first world title",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6698/live/f3d07d40-d654-11f1-93e1-3b657b665bcf.jpg",
+      "published_at": "2026-11-02T01:47:30+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté son premier titre mondial, marquant une étape majeure de sa carrière. Le pilote semble destiné à la grandeur de la Formule 1.",
+      "summary_en": "Kimi Antonelli won his first world title, marking a major milestone in his career. The driver appears destined for Formula 1 greatness."
+    },
+    {
       "id": "4f767ab7cda2",
       "title": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: “It’s a matter of respect”",
       "title_fr": "Vasseur dénonce le clash entre Hamilton et Leclerc",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon",
       "summary_en": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon"
-    },
-    {
-      "id": "9bbdb11aa7d7",
-      "title": "“When you’re one-two you don’t imagine you will lose, and we did” – Vasseur | Formula 1",
-      "title_fr": "“When you’re one-two you don’t imagine you will lose, and we did” – Vasseur | Formula 1",
-      "title_en": "“When you’re one-two you don’t imagine you will lose, and we did” – Vasseur | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/when-youre-one-two-you-dont-imagine-you-will-lose-and-we-did-vasseur/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-03-22-1-1-sunday-mexico-2026.jpg",
-      "published_at": "2026-11-02T00:16:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari team principal Frederic Vasseur said it was hard to accept the way the team \"gave up a win\" in Mexico.",
-      "summary_en": "Ferrari team principal Frederic Vasseur said it was hard to accept the way the team \"gave up a win\" in Mexico."
-    },
-    {
-      "id": "66606f7ce4ee",
-      "title": "Charles Leclerc responds to Lewis Hamilton's call for Ferrari talks after Mexico GP",
-      "title_fr": "Leclerc riposte à Hamilton après le GP de Mexico",
-      "title_en": "Leclerc responds to Hamilton after Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YBVj1j7Y/s6/motorsport-com-graphics-58.jpg",
-      "published_at": "2026-11-02T00:14:27+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a riposté à Lewis Hamilton après le Grand Prix de Mexico, affirmant que la conduite de Hamilton était \"très proche de la limite\". Le pilote Ferrari a défendu son dépassement au départ.",
-      "summary_en": "Charles Leclerc fired back at Lewis Hamilton after the Mexico City Grand Prix, saying Hamilton's driving was \"very much on the limit\". The Ferrari driver defended his early overtaking move."
     }
   ]
 }
