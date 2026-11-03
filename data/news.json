@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-03T20:27:20Z",
+  "last_updated": "2026-11-03T23:29:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "9ac3a3286886",
+      "title": "Colton Herta to run Cadillac FP1 in Brazil as FIA superlicense quest continues",
+      "title_fr": "Herta pilote la Cadillac FP1 a Sao Paulo pour son superlicense",
+      "title_en": "Herta to drive Cadillac FP1 in Sao Paulo to secure superlicense",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
+      "published_at": "2026-11-03T23:01:56+00:00",
+      "race_id": "brazil",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta pilote de test Cadillac conduira la FP1 lors de la séance de pratique de vendredi a Sao Paulo afin de rassembler les 40 points manquants pour obtenir la superlicense FIA.",
+      "summary_en": "Colton Herta, Cadillac test driver, will run the FP1 during Friday's practice at Sao Paulo to collect the 40 points he needs for his FIA superlicense."
+    },
+    {
+      "id": "fe1718753c9d",
+      "title": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
+      "title_fr": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
+      "title_en": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YP74l7j2/s6/motorsport-com-graphics-63-2.jpg",
+      "published_at": "2026-11-03T22:49:22+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history o",
+      "summary_en": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history o"
+    },
+    {
+      "id": "7c28a6e03ba1",
+      "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+      "title_fr": "Rafa Camara débute en F1 au Brésil, Esteban Ocon exclu chez Haas",
+      "title_en": "Rafa Camara to debut in Brazil, Esteban Ocon out at Haas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
+      "published_at": "2026-11-03T20:47:12+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Rafa Camara, qui débutera en 2027, prend la place d'Esteban Ocon chez Haas pour le Grand Prix du Brésil. La décision intervient après des tensions croissantes entre Ocon et l'équipe.",
+      "summary_en": "Rafa Camara, slated to debut in 2027, will take the seat of Esteban Ocon at Haas for the Brazilian Grand Prix. The move follows mounting tensions between Ocon and the team."
+    },
+    {
+      "id": "52bbc206eccb",
+      "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
+      "title_fr": "Rafa Camara fait son entrée en F1 à Brésil, Ocon exclu du Haas",
+      "title_en": "Rafa Camara makes F1 debut at Brazil, Ocon exits Haas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
+      "published_at": "2026-11-03T20:43:22+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le Haas a annoncé la sortie d'Esteban Ocon, laissant la place à Rafa Camara, qui débutera ce week-end à Brésil. Le pilote français est remplacé après des tensions croissantes.",
+      "summary_en": "Haas has dropped Esteban Ocon, promoting rookie Rafa Camara to race in Brazil this weekend. The Frenchman was sidelined after mounting tensions with the team."
+    },
+    {
+      "id": "cea2e1751d00",
+      "title": "Official: Ocon will not return to drive for Haas, Camara to take over in Brazil | Formula 1",
+      "title_fr": "Ocon quitte Haas, Camara arrive en Formule 1",
+      "title_en": "Ocon leaves Haas, Camara to debut in Brazil",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/03/official-ocon-will-not-return-to-drive-for-haas-camara-to-take-over-in-brazil/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-11-01-10-49-58-1.jpg",
+      "published_at": "2026-11-03T20:32:30+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon ne revient pas chez Haas. Rafael Camara fera son entrée en Formule 1 pour l'équipe lors du Grand Prix du Brésil.",
+      "summary_en": "Esteban Ocon will not return to Haas. Rafael Camara will make his Formula 1 debut for the team at the Brazilian Grand Prix."
+    },
     {
       "id": "219f50a996a4",
       "title": "The 'difference' between Kimi Antonelli's F1 title and Lewis Hamilton's according to Toto Wolff",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli explique qu'il préfère garder le numéro 12 pour la saison 2027, refusant ainsi de prendre le numéro 1 comme le font Verstappen ou Norris.",
       "summary_en": "Kimi Antonelli says he will keep the number 12 for 2027, declining to take the number 1 that Verstappen and Norris have claimed after winning titles."
-    },
-    {
-      "id": "563e0c73258f",
-      "title": "Spotlight: Antonelli says he’ll frame iconic photo with Hamilton and Verstappen | Brief",
-      "title_fr": "Antonelli veut encadrer photo iconique avec Hamilton et Verstappen",
-      "title_en": "Antonelli plans to frame iconic photo with Hamilton and Verstappen",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/spotlight-antonelli-says-hell-frame-iconic-photo-with-hamilton-and-verstappen/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-00-46-4-M647661_F1_MEXICO_CITY_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-11-02T11:26:13+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote d’Aston Martin, Lando Antonelli, a déclaré qu’il voulait encadrer la photo iconique prise avec Lewis Hamilton et Max Verstappen. Il souhaite immortaliser ce moment unique.",
-      "summary_en": "Aston Martin driver Lando Antonelli said he wants to frame the iconic photo taken with Lewis Hamilton and Max Verstappen, aiming to immortalise the moment."
-    },
-    {
-      "id": "5c3b13f96c20",
-      "title": "Fred Vasseur calls for \"respect\" after Lewis Hamilton-Charles Leclerc Mexican GP clash",
-      "title_fr": "Vasseur exige du respect après le choc Hamilton-Leclerc à Mexico",
-      "title_en": "Vasseur demands respect after Hamilton-Leclerc clash in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-calls-for-respect-after-lewis-hamilton-charles-leclerc-mexican-gp-clash/10871024/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YWKAlXkY/s6/motorsport-com-graphics-46.jpg",
-      "published_at": "2026-11-02T11:18:11+00:00",
-      "race_id": "mexico",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique de Ferrari, Fred Vasseur, a appelé au respect après le choc de première manche entre Lewis Hamilton et Charles Leclerc à Mexico. Les deux pilotes sont sortis de la piste.",
-      "summary_en": "Ferrari team principal Fred Vasseur called for respect after the first-lap clash between Lewis Hamilton and Charles Leclerc at the Mexican Grand Prix. Both drivers went off the track but emerged ahead."
-    },
-    {
-      "id": "3bd2add24580",
-      "title": "Toto Wolff hits out at F1’s “entitled” drivers and “endless moaners on the radio”",
-      "title_fr": "Toto Wolff hits out at F1’s “entitled” drivers and “endless moaners on the radio”",
-      "title_en": "Toto Wolff hits out at F1’s “entitled” drivers and “endless moaners on the radio”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-hits-out-at-f1s-entitled-drivers-and-endless-moaners-on-the-radio/10871018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YP74lxX2/s6/motorsport-com-graphics-60.jpg",
-      "published_at": "2026-11-02T11:12:18+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He bel",
-      "summary_en": "After a stunning championship win from his young driver Kimi Antonelli, Mercedes team principal Toto Wolff has criticised the \"entitled\" drivers and \"endless moaners on the radio\" in Formula 1. He bel"
-    },
-    {
-      "id": "dc72cbc38d9b",
-      "title": "Call this the ‘Maxico’ Grand Prix says Verstappen after sixth Mexican GP win | Formula 1",
-      "title_fr": "Verstappen propose de rebaptiser le Grand Prix de Mexico 'Maxico' après sa sixième victoire",
-      "title_en": "Verstappen suggests renaming Mexican GP 'Maxico' after sixth win",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/call-this-the-maxico-grand-prix-says-verstappen-after-sixth-mexican-gp-win/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-03-54-2-SI202611020026.jpg",
-      "published_at": "2026-11-02T11:05:01+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a plaisanté en suggérant que la Formule 1 renomme le Grand Prix de Mexico 'Maxico' après sa sixième victoire. Le pilote Red Bull a célébré son succès en Amérique du Sud.",
-      "summary_en": "Max Verstappen joked that Formula 1 should rename the Mexican GP 'Maxico' after his sixth win. The Red Bull driver celebrated his victory in Mexico."
-    },
-    {
-      "id": "dcf900aea5bc",
-      "title": "Who slept best last night: Kimi Antonelli",
-      "title_fr": "Kimi Antonelli, champion le plus jeune de l’histoire",
-      "title_en": "Kimi Antonelli becomes youngest F1 champion",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6O7zlOO6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-02T10:25:25+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le championnat de Formule 1, devenant le pilote le plus jeune à décrocher le titre, dépassant le record précédent de plus de trois ans grâce à une saison quasi parfaite, son deuxième en F1.",
-      "summary_en": "Kimi Antonelli clinched the Formula 1 title, becoming the youngest champion ever and surpassing the previous record by more than three years, thanks to an almost perfect season in his second year in the sport."
     }
   ]
 }
