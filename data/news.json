@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-03T05:16:04Z",
+  "last_updated": "2026-11-03T08:18:01Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d1466baa5e25",
+      "title": "Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees",
+      "title_fr": "Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees",
+      "title_en": "Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-blames-mexico-gp-clash-on-track-layout-fred-vasseur-disagrees/10871092/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/27No9xX0/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-03T08:04:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc blamed his lap one clash with Ferrari team-mate Lewis Hamilton at the Formula 1 Mexico Grand Prix on the track layout - claiming “a wall” at Turn 4 would have prevented it.<br />The Sc",
+      "summary_en": "Charles Leclerc blamed his lap one clash with Ferrari team-mate Lewis Hamilton at the Formula 1 Mexico Grand Prix on the track layout - claiming “a wall” at Turn 4 would have prevented it.<br />The Sc"
+    },
+    {
+      "id": "26ac279198ff",
+      "title": "Antonelli says doubters “added fuel to the fire” in his world championship pursuit | Formula 1",
+      "title_fr": "Antonelli déclare que les sceptiques ont alimenté son ambition",
+      "title_en": "Antonelli says doubters fueled his ambition",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/03/antonelli-says-doubters-added-fuel-to-the-fire-in-his-world-championship-pursuit/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-00-46-3-M647614_F1_Grand_Prix_of_Mexico.jpg",
+      "published_at": "2026-11-03T07:15:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion du monde Andrea Kimi Antonelli a déclaré que les sceptiques l'ont poussé à prouver qu'il était prêt pour la Formule 1.",
+      "summary_en": "World champion Andrea Kimi Antonelli said that doubters pushed him to prove he was ready for Formula 1."
+    },
     {
       "id": "fe9d63442345",
       "title": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Antonelli a remporté le championnat du monde de F1 à 20 ans, devenant le plus jeune champion et le premier Italien à le décrocher. Il a terminé troisième derrière Verstappen et Hamilton, assurant la victoire avec quatre courses d'avance.",
       "summary_en": "Kimi Antonelli clinched the Formula 1 world championship at 20, becoming the youngest champion and first Italian to win the title. He finished third behind Max Verstappen and Lewis Hamilton, securing the title with four races to spare."
-    },
-    {
-      "id": "dbbea0ee076a",
-      "title": "Winners and losers from F1's record-breaking Mexico Grand Prix",
-      "title_fr": "Antonelli couronné à Mexico",
-      "title_en": "Antonelli crowned at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-historic-mexico-grand-prix/10870803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver.jpg",
-      "published_at": "2026-11-02T00:24:04+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le Grand Prix de Mexico, couronnant son ascension sans précédent en 2026. Sa victoire confirme son titre de champion, un exploit déjà inévitable.",
-      "summary_en": "Kimi Antonelli won the Mexico Grand Prix, cementing his unprecedented rise in 2026. His victory confirms his championship title, an outcome already foregone."
-    },
-    {
-      "id": "d29ae69fbe1b",
-      "title": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
-      "title_fr": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
-      "title_en": "Toto Wolff apologises to George Russell after Mercedes \"let him down\" at Mexican GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-apologises-to-george-russell-after-mercedes-let-him-down-at-mexican-gp/10870825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EpEDY/s6/motorsport-com-graphics-45.jpg",
-      "published_at": "2026-11-02T00:22:27+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon",
-      "summary_en": "Mercedes Formula 1 team principal Toto Wolff claimed the Brackley outfit \"let down\" George Russell after a deployment issue spoiled his start at the Mexican Grand Prix.<br />Russell started from secon"
     }
   ]
 }
