@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-03T08:18:01Z",
+  "last_updated": "2026-11-03T11:20:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d5f99482c126",
+      "title": "Isack Hadjar blames himself for George Russell clash that “ruined” his Mexico GP",
+      "title_fr": "Hadjar se blâme après collision avec Russell à Mexico",
+      "title_en": "Hadjar blames himself after clash with Russell in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-blames-himself-for-george-russell-clash-that-ruined-his-mexico-gp/10871223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8ZJV6/s6/isack-hadjar-red-bull-racing-2.jpg",
+      "published_at": "2026-11-03T10:32:35+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a admis sa responsabilité dans la collision avec George Russell à la course de Mexico, où il a miraculeusement obtenu deux points. Il avait qualifié septième, mais a gagné deux places grâce à un départ solide.",
+      "summary_en": "Isack Hadjar admitted responsibility for the clash with George Russell at the Mexico GP, where he surprisingly scored two points. He had qualified seventh but gained two positions thanks to a strong start."
+    },
+    {
+      "id": "4bf8a6fc42e0",
+      "title": "Kimi Antonelli labels the \"turning point\" in F1 title-winning season",
+      "title_fr": "Antonelli qualifie le Grand Prix du Japon de tournant décisif",
+      "title_en": "Antonelli calls Japanese GP turning point",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-labels-the-turning-point-in-f1-title-winning-season/10871066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVxeDJ0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-03T09:57:54+00:00",
+      "race_id": "japan",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a qualifié le Grand Prix du Japon de tournant décisif de sa saison couronnée de champion. Cette victoire lui a donné la confiance nécessaire pour remporter le titre en Mexico après neuf victoires et seize podiums.",
+      "summary_en": "Kimi Antonelli called the Japanese Grand Prix the turning point of his title‑winning season, saying the win gave him the confidence to secure the championship in Mexico after nine victories and sixteen podiums."
+    },
+    {
+      "id": "5876faa99b54",
+      "title": "“Silly” power unit rules prevent passing, says Hamilton: “The engine can go faster” | Formula 1",
+      "title_fr": "Hamilton critique les règles de puissance qui bloquent les dépassements au Mexique",
+      "title_en": "Hamilton criticises power unit rules that block overtaking at Mexico",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/03/silly-power-unit-rules-prevent-passing-says-hamilton-the-engine-can-go-faster/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-16-26-3-3-sunday-mexico-2026.jpg",
+      "published_at": "2026-11-03T09:51:42+00:00",
+      "race_id": "mexico",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton dénonce les règles complexes de la boîte de vitesses qui empêchent les dépassements lors du Grand Prix du Mexique. Il affirme que le moteur pourrait aller plus vite.",
+      "summary_en": "Lewis Hamilton criticises the complex power unit rules that prevent overtaking at the Mexican Grand Prix, saying the engine could run faster."
+    },
     {
       "id": "d1466baa5e25",
       "title": "Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Les pilotes Alpine Gasly et Colapinto ont reçu des pénalités après la course, les excluant des points. Le debutant Ryo Hirakawa a ainsi marqué son entrée en F1 à Mexico.",
       "summary_en": "Alpine drivers Gasly and Colapinto received post-race penalties, dropping them out of the points. Debutant Ryo Hirakawa scored on his Formula 1 debut at Mexico."
-    },
-    {
-      "id": "5f8d24ba1efe",
-      "title": "How Antonelli 'blew everyone away' to make F1 history",
-      "title_fr": "Antonelli fait l'histoire en remportant son premier titre mondial",
-      "title_en": "Antonelli makes history by winning his first world title",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6698/live/f3d07d40-d654-11f1-93e1-3b657b665bcf.jpg",
-      "published_at": "2026-11-02T01:47:30+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté son premier titre mondial, marquant une étape majeure de sa carrière. Le pilote semble destiné à la grandeur de la Formule 1.",
-      "summary_en": "Kimi Antonelli won his first world title, marking a major milestone in his career. The driver appears destined for Formula 1 greatness."
-    },
-    {
-      "id": "4f767ab7cda2",
-      "title": "Fred Vasseur reacts to Lewis Hamilton, Charles Leclerc clash: “It’s a matter of respect”",
-      "title_fr": "Vasseur dénonce le clash entre Hamilton et Leclerc",
-      "title_en": "Vasseur reacts to Hamilton-Leclerc clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YN7vVQW6/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-02T01:08:54+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique de Ferrari, Fred Vasseur, a exprimé son mécontentement après le clash entre Lewis Hamilton et Charles Leclerc lors du Grand Prix du Mexique. Il a souligné l'importance du respect sur la piste.",
-      "summary_en": "Ferrari team principal Fred Vasseur expressed disappointment after the clash between Lewis Hamilton and Charles Leclerc at the Mexican Grand Prix, stressing the importance of respect on the track."
-    },
-    {
-      "id": "357707f72d66",
-      "title": "How F1 drivers reacted to Kimi Antonelli's world title: \"He's made everyone else look silly\"",
-      "title_fr": "Antonelli, champion du monde à 20 ans, fait sensation à Mexico",
-      "title_en": "Antonelli becomes world champion at 20",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGgbgwY/s6/motorsport-com-graphics-59.jpg",
-      "published_at": "2026-11-02T00:32:34+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Antonelli a remporté le championnat du monde de F1 à 20 ans, devenant le plus jeune champion et le premier Italien à le décrocher. Il a terminé troisième derrière Verstappen et Hamilton, assurant la victoire avec quatre courses d'avance.",
-      "summary_en": "Kimi Antonelli clinched the Formula 1 world championship at 20, becoming the youngest champion and first Italian to win the title. He finished third behind Max Verstappen and Lewis Hamilton, securing the title with four races to spare."
     }
   ]
 }
