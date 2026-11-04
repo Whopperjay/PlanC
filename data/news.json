@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-04T17:40:23Z",
+  "last_updated": "2026-11-04T20:41:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b8b121441b24",
+      "title": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
+      "title_fr": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
+      "title_en": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/liam-lawsons-remarkable-form-is-giving-red-bull-a-headache-for-2027/10871541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg",
+      "published_at": "2026-11-04T18:24:31+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "So far in 2026, Liam Lawson has been a clear standout performer in Formula 1’s midfield.<br />Lawson has scored 83 points so far, nearly twice as many as second-best Pierre Gasly’s 42 – and that’s not",
+      "summary_en": "So far in 2026, Liam Lawson has been a clear standout performer in Formula 1’s midfield.<br />Lawson has scored 83 points so far, nearly twice as many as second-best Pierre Gasly’s 42 – and that’s not"
+    },
     {
       "id": "2885505df861",
       "title": "How the F1 world reacted to Charles Leclerc becoming a father",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar a admis sa responsabilité dans la collision avec George Russell à la course de Mexico, où il a miraculeusement obtenu deux points. Il avait qualifié septième, mais a gagné deux places grâce à un départ solide.",
       "summary_en": "Isack Hadjar admitted responsibility for the clash with George Russell at the Mexico GP, where he surprisingly scored two points. He had qualified seventh but gained two positions thanks to a strong start."
-    },
-    {
-      "id": "4bf8a6fc42e0",
-      "title": "Kimi Antonelli labels the \"turning point\" in F1 title-winning season",
-      "title_fr": "Antonelli qualifie le Grand Prix du Japon de tournant décisif",
-      "title_en": "Antonelli calls Japanese GP turning point",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-labels-the-turning-point-in-f1-title-winning-season/10871066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVxeDJ0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-03T09:57:54+00:00",
-      "race_id": "japan",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a qualifié le Grand Prix du Japon de tournant décisif de sa saison couronnée de champion. Cette victoire lui a donné la confiance nécessaire pour remporter le titre en Mexico après neuf victoires et seize podiums.",
-      "summary_en": "Kimi Antonelli called the Japanese Grand Prix the turning point of his title‑winning season, saying the win gave him the confidence to secure the championship in Mexico after nine victories and sixteen podiums."
     }
   ]
 }
