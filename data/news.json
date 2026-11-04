@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-04T05:33:19Z",
+  "last_updated": "2026-11-04T08:35:22Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a2ad96f58416",
+      "title": "Stats: Hirakawa is sixth one-off starter to score a world championship point | 2026 Mexican Grand Prix stats and facts",
+      "title_fr": "Stats: Hirakawa is sixth one-off starter to score a world championship point | 2026 Mexican Grand Prix stats and facts",
+      "title_en": "Stats: Hirakawa is sixth one-off starter to score a world championship point | 2026 Mexican Grand Prix stats and facts",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/04/mexican-gp-stats-norris-has-third-shortest-reign-as-world-champion/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-10-31-11-21-31-1-2302869717-827.jpg",
+      "published_at": "2026-11-04T07:15:32+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "All the stats from Mexico including the end of Lando Norris's championship reign, Lewis Hamilton first pole position in his forties and more.",
+      "summary_en": "All the stats from Mexico including the end of Lando Norris's championship reign, Lewis Hamilton first pole position in his forties and more."
+    },
     {
       "id": "df5e91353f36",
       "title": "Andrea Stella explains how qualifying destroyed McLaren’s Mexico GP: “We paid the price”",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes was fined €5,000 following the Mexico Grand Prix after George Russell failed to attend his post-race Formula 1 media commitments.<br />The Mercedes driver finished sixth at Autodromo Hermanos",
       "summary_en": "Mercedes was fined €5,000 following the Mexico Grand Prix after George Russell failed to attend his post-race Formula 1 media commitments.<br />The Mercedes driver finished sixth at Autodromo Hermanos"
-    },
-    {
-      "id": "b218c7c461f0",
-      "title": "Lewis Hamilton slams Charles Leclerc for \"do or die\" attitude after Mexico GP clash",
-      "title_fr": "Hamilton critique Leclerc pour son attitude do or die",
-      "title_en": "Hamilton slams Leclerc over 'do or die' attitude after Mexico GP clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-slams-charles-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2wlKyPKY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-11-02T12:40:41+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a critiqué son coéquipier Charles Leclerc pour son attitude do or die après la collision à Mexico. Le champion sept fois champion du monde a dénoncé la conduite du pilote Ferrari.",
-      "summary_en": "Lewis Hamilton slammed teammate Charles Leclerc for his 'do or die' attitude after the Mexico GP clash. The seven‑time world champion criticized the Ferrari driver’s conduct."
     }
   ]
 }
