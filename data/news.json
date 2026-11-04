@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-04T20:41:38Z",
+  "last_updated": "2026-11-04T23:42:26Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "3b533049823c",
+      "title": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
+      "title_fr": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
+      "title_en": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-blasts-f1-top-speed-limiters-we-should-easily-go-quicker-than-a-motorbike/10871276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNZqZ2/s6/motorsport-com-graphics-69-2.jpg",
+      "published_at": "2026-11-04T23:24:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Riding in the slipstream is supposed to be the ultimate offensive weapon for a Formula 1 driver. But according to Lando Norris, the current technical regulations have turned the draft into something a",
+      "summary_en": "Riding in the slipstream is supposed to be the ultimate offensive weapon for a Formula 1 driver. But according to Lando Norris, the current technical regulations have turned the draft into something a"
+    },
     {
       "id": "b8b121441b24",
       "title": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Red Bull, Max Verstappen, a exprimé son étonnement face à une décélération moteur apparemment aléatoire lors du Grand Prix du Mexique. Il affirme que le système décide de lui‑même ce qu’il doit faire.",
       "summary_en": "Red Bull driver Max Verstappen was baffled by what he described as random engine braking during the Mexican Grand Prix, saying the system seemed to decide on its own what to do."
-    },
-    {
-      "id": "d5f99482c126",
-      "title": "Isack Hadjar blames himself for George Russell clash that “ruined” his Mexico GP",
-      "title_fr": "Hadjar se blâme après collision avec Russell à Mexico",
-      "title_en": "Hadjar blames himself after clash with Russell in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-blames-himself-for-george-russell-clash-that-ruined-his-mexico-gp/10871223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Zq8ZJV6/s6/isack-hadjar-red-bull-racing-2.jpg",
-      "published_at": "2026-11-03T10:32:35+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a admis sa responsabilité dans la collision avec George Russell à la course de Mexico, où il a miraculeusement obtenu deux points. Il avait qualifié septième, mais a gagné deux places grâce à un départ solide.",
-      "summary_en": "Isack Hadjar admitted responsibility for the clash with George Russell at the Mexico GP, where he surprisingly scored two points. He had qualified seventh but gained two positions thanks to a strong start."
     }
   ]
 }
