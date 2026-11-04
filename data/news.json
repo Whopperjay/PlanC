@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-03T23:29:19Z",
+  "last_updated": "2026-11-04T02:31:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "df5e91353f36",
+      "title": "Andrea Stella explains how qualifying destroyed McLaren’s Mexico GP: “We paid the price”",
+      "title_fr": "Qualifying à Mexico ruine le McLaren",
+      "title_en": "Mexico qualifying wrecks McLaren",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0Ldelda0/s6/motorsport-com-graphics-65-2.jpg",
+      "published_at": "2026-11-03T23:50:58+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le McLaren a perdu son avantage de podium à Mexico après une séance de qualification difficile qui l'a laissé en arrière, aggravée par la haute altitude et la mauvaise aération.",
+      "summary_en": "McLaren lost its podium potential in Mexico after a tough qualifying session that left it behind, worsened by high altitude and poor cooling."
+    },
+    {
+      "id": "0b62a8cbd99f",
+      "title": "Charles Leclerc brushes off Lewis Hamilton clash: “I could be unhappy too”",
+      "title_fr": "Leclerc évite le duel avec Hamilton, pénalité pour le Monegasque",
+      "title_en": "Leclerc avoids clash with Hamilton, penalty for the Monegasque",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YWKAlKeY/s6/motorsport-com-graphics-64-2.jpg",
+      "published_at": "2026-11-03T23:28:18+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Au premier tour du Grand Prix de Mexico, Leclerc et Hamilton se livrent à un duel acharné, entraînant une sortie hors circuit et une pénalité de temps pour le Monegasque. Leclerc a déclaré qu'il pourrait être mécontent aussi.",
+      "summary_en": "On the opening lap of the Mexico City Grand Prix, Leclerc and Hamilton fought a fierce duel that led to an off-track excursion and a time penalty for the Monegasque. Leclerc said he could be unhappy too."
+    },
     {
       "id": "9ac3a3286886",
       "title": "Colton Herta to run Cadillac FP1 in Brazil as FIA superlicense quest continues",
@@ -39,6 +77,25 @@
       "is_breaking": false,
       "summary_fr": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history o",
       "summary_en": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history o"
+    },
+    {
+      "id": "a8f19226cdaa",
+      "title": "Ocon dropped by Haas for rest of season after row",
+      "title_fr": "Ocon exclu par Haas pour le reste de la saison",
+      "title_en": "Ocon dropped by Haas for rest of season",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768d/live/8674eeb0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
+      "published_at": "2026-11-03T21:15:53+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Haas a annoncé que Esteban Ocon ne concourra plus en 2026 après son exclusion du Grand Prix du Mexique. Le pilote sera sans équipe pour le reste de la saison.",
+      "summary_en": "Haas announced that Esteban Ocon will not compete in 2026 after being dropped from the Mexican Grand Prix. The driver will be without a team for the rest of the season."
     },
     {
       "id": "7c28a6e03ba1",
@@ -402,6 +459,25 @@
       "summary_en": "Charles Leclerc blamed his lap one clash with Ferrari team-mate Lewis Hamilton at the Formula 1 Mexico Grand Prix on the track layout - claiming “a wall” at Turn 4 would have prevented it.<br />The Sc"
     },
     {
+      "id": "5889ecdadfa1",
+      "title": "Do Ferrari need rules of engagement? F1 Q&A",
+      "title_fr": "Ferrari : besoin de règles d'engagement ?",
+      "title_en": "Ferrari: Do they need rules of engagement?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c862y1en5vrzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7996/live/4ab025d0-d6c7-11f1-ac20-7783925c811f.jpg",
+      "published_at": "2026-11-03T07:53:14+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Andrew Benson, correspondant BBC F1, répond aux questions les plus pressantes sur la nécessité de règles d'engagement pour Ferrari après le Grand Prix de Mexico.",
+      "summary_en": "BBC F1 correspondent Andrew Benson answers the most pressing questions about whether Ferrari needs rules of engagement after the Mexico City Grand Prix."
+    },
+    {
       "id": "26ac279198ff",
       "title": "Antonelli says doubters “added fuel to the fire” in his world championship pursuit | Formula 1",
       "title_fr": "Antonelli déclare que les sceptiques ont alimenté son ambition",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a critiqué son coéquipier Charles Leclerc pour son attitude do or die après la collision à Mexico. Le champion sept fois champion du monde a dénoncé la conduite du pilote Ferrari.",
       "summary_en": "Lewis Hamilton slammed teammate Charles Leclerc for his 'do or die' attitude after the Mexico GP clash. The seven‑time world champion criticized the Ferrari driver’s conduct."
-    },
-    {
-      "id": "6ae4b3db75b9",
-      "title": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash",
-      "title_fr": "Hamilton critique Leclerc pour son attitude « à tout prix » après l'accident du Mexique",
-      "title_en": "Hamilton slams Leclerc for 'do or die' attitude after Mexico clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-11-02T12:40:22+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a critiqué son coéquipier Charles Leclerc pour son attitude « à tout prix » après que Ferrari ait perdu une victoire au Grand Prix du Mexique. Le pilote a accusé Leclerc d'avoir attaqué Hamilton lors de la course.",
-      "summary_en": "Lewis Hamilton criticized teammate Charles Leclerc for his 'do or die' attitude after Ferrari lost a straightforward victory at the Mexico Grand Prix. The driver accused Leclerc of attacking Hamilton during the race."
-    },
-    {
-      "id": "55390747f7b4",
-      "title": "Leclerc has wrong mentality, says Hamilton: ‘It’s ‘do-or-die, either I win or none of us do” | Formula 1",
-      "title_fr": "Hamilton critique la mentalité de Leclerc",
-      "title_en": "Hamilton criticises Leclerc's mentality",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/leclerc-has-wrong-mentality-says-hamilton-its-do-or-die-either-i-win-or-none-of-us-do/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-04-35-5-5-sunday-mexico-2026.jpg",
-      "published_at": "2026-11-02T12:33:06+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que la mentalité kamikaze de Charles Leclerc était erronée, affirmant que Ferrari aurait perdu plus de victoires si le pilote avait adopté la même approche.",
-      "summary_en": "Lewis Hamilton said Charles Leclerc’s kamikaze mentality was wrong, claiming Ferrari would have lost more wins if the driver had adopted the same approach."
-    },
-    {
-      "id": "56929b6fac21",
-      "title": "Antonelli “lost two seconds because I was crying” at end of Mexican GP | Formula 1",
-      "title_fr": "Antonelli pleure à la fin de la GP du Mexique",
-      "title_en": "Antonelli cries at the end of Mexican GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/02/antonelli-lost-two-seconds-because-i-was-crying-at-end-of-mexican-gp/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/antonelli-crying.jpg",
-      "published_at": "2026-11-02T12:02:42+00:00",
-      "race_id": "mexico",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a ralenti sur son dernier tour de la Grande Prix du Mexique, affolé par ses larmes, craignant de perdre le contrôle.",
-      "summary_en": "Andrea Kimi Antonelli slowed his final lap in the Mexican Grand Prix, overwhelmed by tears and fearing he might crash."
-    },
-    {
-      "id": "2f0885e7cb76",
-      "title": "Kimi Antonelli reveals why he won’t take number 1 for the 2027 F1 season",
-      "title_fr": "Antonelli refuse le numéro 1 pour 2027",
-      "title_en": "Antonelli declines number 1 for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-why-he-wont-take-number-1-for-the-2027-f1-season/10870915/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNjjb2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-02T11:38:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli explique qu'il préfère garder le numéro 12 pour la saison 2027, refusant ainsi de prendre le numéro 1 comme le font Verstappen ou Norris.",
-      "summary_en": "Kimi Antonelli says he will keep the number 12 for 2027, declining to take the number 1 that Verstappen and Norris have claimed after winning titles."
     }
   ]
 }
