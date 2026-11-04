@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-04T14:39:03Z",
+  "last_updated": "2026-11-04T17:40:23Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2885505df861",
+      "title": "How the F1 world reacted to Charles Leclerc becoming a father",
+      "title_fr": "Leclerc devient papa, la F1 s'unit pour féliciter",
+      "title_en": "Leclerc becomes a father, F1 celebrates",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-the-f1-world-reacted-to-charles-leclerc-becoming-a-father/10871549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVP81d0/s6/motorsport-com-graphics-68.jpg",
+      "published_at": "2026-11-04T17:01:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc et sa femme Alexandra ont annoncé la naissance de leur fille Bianca. La communauté de la Formule 1 a réagi en envoyant de nombreux messages de félicitations.",
+      "summary_en": "Charles Leclerc and his wife Alexandra announced the birth of their daughter Bianca. The Formula 1 community reacted with a flood of congratulatory messages."
+    },
+    {
+      "id": "7313cbdac66a",
+      "title": "Toto Wolff reveals how Kimi Antonelli came to his office with title pressure “on his chest”",
+      "title_fr": "Wolff explique l'arrivée d'Antonelli à son bureau sous pression",
+      "title_en": "Wolff explains Antonelli's arrival at his office under title pressure",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-kimi-antonelli-came-to-his-office-with-title-pressure-on-his-chest/10871272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0arElvX2/s6/motorsport-com-graphics-67-2.jpg",
+      "published_at": "2026-11-04T16:33:53+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a expliqué comment le jeune pilote Kimi Antonelli est arrivé à son bureau, la pression du titre déjà sur ses épaules. Les félicitations précoces ont presque fait dérailler le 20-ans.",
+      "summary_en": "Toto Wolff explained how the 20-year-old Kimi Antonelli arrived at his office, already feeling the weight of the title. Early praise almost derailed the young driver."
+    },
+    {
+      "id": "36b0dff38c6e",
+      "title": "Five things to look out for at F1 Brazil GP",
+      "title_fr": "Cinq points à surveiller lors du Grand Prix du Brésil",
+      "title_en": "Five things to watch at the Brazil GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-brazil-gp/10871528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoJMzP0/s6/charles-leclerc-ferrari-lando-.jpg",
+      "published_at": "2026-11-04T16:27:53+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix du Brésil, quatrième à la fin de la saison 2026, se profile comme le dernier défi après la victoire de Kimi Antonelli au Mexique. Voici cinq éléments clés à surveiller.",
+      "summary_en": "The Brazil GP, the fourth-to-last round of the 2026 season, follows Kimi Antonelli's Mexican win. Here are five key aspects to watch."
+    },
+    {
+      "id": "ecca37932a28",
+      "title": "Cracked sump almost put Antonelli out of Mexican Grand Prix | Formula 1",
+      "title_fr": "Cuvette fissurée menace Antonelli à Mexico",
+      "title_en": "Cracked sump threatens Antonelli at Mexico",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/04/cracked-sump-almost-put-antonelli-out-of-mexican-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-00-44-6-M647703_F1_Grand_Prix_of_Mexico.jpg",
+      "published_at": "2026-11-04T16:09:58+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le moteur d'Andrea Kimi Antonelli a perdu de l'huile vers la fin du Grand Prix de Mexico, menant Mercedes à déclarer un problème de cuvette fissurée. Le pilote a fini la course malgré l'incident.",
+      "summary_en": "Mercedes said Andrea Kimi Antonelli's engine was losing oil at the race's end due to a cracked sump. The driver finished the Mexican Grand Prix despite the issue."
+    },
+    {
+      "id": "8db400f1c8a4",
+      "title": "Ocon dropped - is it the end of his F1 career?",
+      "title_fr": "Ocon exclu de Haas, fin de carrière ?",
+      "title_en": "Ocon dropped by Haas, career in doubt",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3822/live/1d503240-d859-11f1-94f3-cf7d1e52bb8c.jpg",
+      "published_at": "2026-11-04T15:00:26+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon est exclu de Haas, mettant fin à son contrat pour la saison. Le pilote français se retrouve sans équipe, laissant l'incertitude quant à son avenir en Formule 1.",
+      "summary_en": "Esteban Ocon has been dropped by Haas, ending his contract for the season. The French driver is now team-less, leaving his future in Formula 1 uncertain."
+    },
     {
       "id": "577e3c62cc69",
       "title": "Charles Leclerc welcomes first child with wife Alexandra as couple shares baby news",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a qualifié le Grand Prix du Japon de tournant décisif de sa saison couronnée de champion. Cette victoire lui a donné la confiance nécessaire pour remporter le titre en Mexico après neuf victoires et seize podiums.",
       "summary_en": "Kimi Antonelli called the Japanese Grand Prix the turning point of his title‑winning season, saying the win gave him the confidence to secure the championship in Mexico after nine victories and sixteen podiums."
-    },
-    {
-      "id": "5876faa99b54",
-      "title": "“Silly” power unit rules prevent passing, says Hamilton: “The engine can go faster” | Formula 1",
-      "title_fr": "Hamilton critique les règles de puissance qui bloquent les dépassements au Mexique",
-      "title_en": "Hamilton criticises power unit rules that block overtaking at Mexico",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/03/silly-power-unit-rules-prevent-passing-says-hamilton-the-engine-can-go-faster/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-16-26-3-3-sunday-mexico-2026.jpg",
-      "published_at": "2026-11-03T09:51:42+00:00",
-      "race_id": "mexico",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton dénonce les règles complexes de la boîte de vitesses qui empêchent les dépassements lors du Grand Prix du Mexique. Il affirme que le moteur pourrait aller plus vite.",
-      "summary_en": "Lewis Hamilton criticises the complex power unit rules that prevent overtaking at the Mexican Grand Prix, saying the engine could run faster."
-    },
-    {
-      "id": "d1466baa5e25",
-      "title": "Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees",
-      "title_fr": "Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees",
-      "title_en": "Charles Leclerc blames Mexico GP clash on track layout - Fred Vasseur disagrees",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-blames-mexico-gp-clash-on-track-layout-fred-vasseur-disagrees/10871092/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27No9xX0/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-03T08:04:01+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc blamed his lap one clash with Ferrari team-mate Lewis Hamilton at the Formula 1 Mexico Grand Prix on the track layout - claiming “a wall” at Turn 4 would have prevented it.<br />The Sc",
-      "summary_en": "Charles Leclerc blamed his lap one clash with Ferrari team-mate Lewis Hamilton at the Formula 1 Mexico Grand Prix on the track layout - claiming “a wall” at Turn 4 would have prevented it.<br />The Sc"
-    },
-    {
-      "id": "5889ecdadfa1",
-      "title": "Do Ferrari need rules of engagement? F1 Q&A",
-      "title_fr": "Ferrari : besoin de règles d'engagement ?",
-      "title_en": "Ferrari: Do they need rules of engagement?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c862y1en5vrzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7996/live/4ab025d0-d6c7-11f1-ac20-7783925c811f.jpg",
-      "published_at": "2026-11-03T07:53:14+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Andrew Benson, correspondant BBC F1, répond aux questions les plus pressantes sur la nécessité de règles d'engagement pour Ferrari après le Grand Prix de Mexico.",
-      "summary_en": "BBC F1 correspondent Andrew Benson answers the most pressing questions about whether Ferrari needs rules of engagement after the Mexico City Grand Prix."
-    },
-    {
-      "id": "26ac279198ff",
-      "title": "Antonelli says doubters “added fuel to the fire” in his world championship pursuit | Formula 1",
-      "title_fr": "Antonelli déclare que les sceptiques ont alimenté son ambition",
-      "title_en": "Antonelli says doubters fueled his ambition",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/03/antonelli-says-doubters-added-fuel-to-the-fire-in-his-world-championship-pursuit/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-00-46-3-M647614_F1_Grand_Prix_of_Mexico.jpg",
-      "published_at": "2026-11-03T07:15:05+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion du monde Andrea Kimi Antonelli a déclaré que les sceptiques l'ont poussé à prouver qu'il était prêt pour la Formule 1.",
-      "summary_en": "World champion Andrea Kimi Antonelli said that doubters pushed him to prove he was ready for Formula 1."
-    },
-    {
-      "id": "fe9d63442345",
-      "title": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
-      "title_fr": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
-      "title_en": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6O7zl1N6/s6/motorsport-com-graphics-52.jpg",
-      "published_at": "2026-11-03T00:02:11+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.<br />",
-      "summary_en": "Formula 1 fans have praised seven-time champion Lewis Hamilton after footage of him congratulating his former Mercedes race engineer Peter 'Bono' Bonnington at the Mexican Grand Prix went viral.<br />"
     }
   ]
 }
