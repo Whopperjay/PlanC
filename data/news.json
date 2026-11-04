@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-04T08:35:22Z",
+  "last_updated": "2026-11-04T11:37:52Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a2f8221ba325",
+      "title": "Ocon's F1 story is one of success, even if this is the end",
+      "title_fr": "Ocon's F1 story is one of success, even if this is the end",
+      "title_en": "Ocon's F1 story is one of success, even if this is the end",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ocons-f1-story-is-one-of-success/10871449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2eZxl1aY/s6/esteban-ocon-haas-f1-team-2.jpg",
+      "published_at": "2026-11-04T10:38:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand",
+      "summary_en": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand"
+    },
+    {
+      "id": "532a1af328f2",
+      "title": "Esteban Ocon's F1 career may be ending, but his story is one of success",
+      "title_fr": "Esteban Ocon's F1 career may be ending, but his story is one of success",
+      "title_en": "Esteban Ocon's F1 career may be ending, but his story is one of success",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YpbAVRX0/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-11-04T10:34:54+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand",
+      "summary_en": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand"
+    },
+    {
+      "id": "431067021766",
+      "title": "Mercedes takes blame for Russell's poor Mexico GP: \"We let him down\"",
+      "title_fr": "Mercedes blâme Russell pour sa mauvaise performance au Mexique",
+      "title_en": "Mercedes blames Russell for poor Mexico GP performance",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mercedes-takes-blame-for-russells-poor-mexico-gp/10871439/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/25dLDgN0/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-11-04T10:00:55+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a admis avoir laissé George Russell tomber lors du Grand Prix du Mexique, où une défaillance technique a brisé sa course dès les premières secondes.",
+      "summary_en": "Toto Wolff admitted he let George Russell down at the Mexico Grand Prix, where a technical glitch cut his race short within seconds."
+    },
+    {
+      "id": "5437710a73a6",
+      "title": "“We let him down” – Mercedes takes blame for George Russell’s Mexico GP heartbreak",
+      "title_fr": "Mercedes blâme Toto Wolff pour la déception de Russell au Mexique",
+      "title_en": "Mercedes blames Toto Wolff for Russell's heartbreak in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/we-let-him-down-mercedes-takes-blame-for-george-russells-mexico-gp-heartbreak/10871299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zXPJ6/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-11-04T09:57:11+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a admis avoir laissé George Russell tomber lors du Grand Prix du Mexique, où une panne technique a brisé sa tentative de victoire.",
+      "summary_en": "Toto Wolff admitted he let George Russell down at the Mexican Grand Prix, where a technical glitch halted his bid for victory."
+    },
+    {
+      "id": "282901c443e5",
+      "title": "Herta to contest FP1 for Cadillac in Brazil to obtain final superlicence point",
+      "title_fr": "Herta cherche son point superlicence en FP1 de Brésil",
+      "title_en": "Herta seeks final superlicence point in Brazil FP1",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/herta-to-contest-fp1-in-brazil/10871438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6n7ABxe0/s6/colton-herta-cadillac-f1-team-2.jpg",
+      "published_at": "2026-11-04T09:42:43+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de test Cadillac Colton Herta participera à la séance de FP1 du Grand Prix du Brésil pour obtenir le point manquant de superlicence requis par la FIA.",
+      "summary_en": "Cadillac test driver Colton Herta will take part in Brazil's FP1 to secure the final FIA superlicence point he needs to race in Formula 1."
+    },
+    {
+      "id": "97f2e79d77e3",
+      "title": "Toto Wolff addresses his future at Mercedes after momentous Kimi Antonelli win",
+      "title_fr": "Wolff se questionne sur son avenir chez Mercedes après la victoire d'Antonelli",
+      "title_en": "Wolff questions his future at Mercedes after Antonelli's win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-addresses-mercedes-future-dont-plan-to-call-it-a-day/10871261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QRKK6/s6/motorsport-com-graphics-66-2.jpg",
+      "published_at": "2026-11-04T09:30:38+00:00",
+      "race_id": "austria",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff, directeur général de Mercedes, se penche sur son avenir après la victoire historique de Kimi Antonelli au Grand Prix du Mexique.",
+      "summary_en": "Mercedes team principal Toto Wolff is reassessing his future after Kimi Antonelli's historic win at the Mexican Grand Prix."
+    },
     {
       "id": "a2ad96f58416",
       "title": "Stats: Hirakawa is sixth one-off starter to score a world championship point | 2026 Mexican Grand Prix stats and facts",
@@ -134,6 +248,25 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Rafa Camara, qui débutera en 2027, prend la place d'Esteban Ocon chez Haas pour le Grand Prix du Brésil. La décision intervient après des tensions croissantes entre Ocon et l'équipe.",
       "summary_en": "Rafa Camara, slated to debut in 2027, will take the seat of Esteban Ocon at Haas for the Brazilian Grand Prix. The move follows mounting tensions between Ocon and the team."
+    },
+    {
+      "id": "525cfc0404e6",
+      "title": "Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil",
+      "title_fr": "Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil",
+      "title_en": "Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ocon-to-skip-the-rest-of-f1-2026-with-camara-to-debut-in-brazil/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/27No9rm0/s6/esteban-ocon-haas-f1-team-4.jpg",
+      "published_at": "2026-11-03T20:47:12+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Haas Formula 1 team has decided that Esteban Ocon will not race again for the squad, with 2027 rookie Rafael Camara getting an early debut this weekend on home soil.<br />Following increasingly st",
+      "summary_en": "The Haas Formula 1 team has decided that Esteban Ocon will not race again for the squad, with 2027 rookie Rafael Camara getting an early debut this weekend on home soil.<br />Following increasingly st"
     },
     {
       "id": "52bbc206eccb",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "At the Mexico Grand Prix, Mercedes reaped the reward for the courage it showed in putting the then 18-year-old Kimi Antonelli in the cockpit from 2025 with his world championship triumph in his just s",
       "summary_en": "At the Mexico Grand Prix, Mercedes reaped the reward for the courage it showed in putting the then 18-year-old Kimi Antonelli in the cockpit from 2025 with his world championship triumph in his just s"
-    },
-    {
-      "id": "1f46036857b3",
-      "title": "Juan Pablo Montoya demands \"consequences\" for Ferrari drivers after Mexican GP disaster",
-      "title_fr": "Montoya exige des conséquences après la catastrophe mexicaine",
-      "title_en": "Montoya demands consequences after Mexican GP disaster",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-demands-consequences-for-ferrari-drivers-after-mexican-gp-disaster/10871096/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNZ9q2/s6/motorsport-com-graphics-49.jpg",
-      "published_at": "2026-11-02T17:40:55+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Juan Pablo Montoya a appelé à des sanctions contre Lewis Hamilton et Charles Leclerc après la bataille du premier tour qui a coûté la victoire à Ferrari lors du Grand Prix du Mexique.",
-      "summary_en": "Juan Pablo Montoya called for sanctions against Lewis Hamilton and Charles Leclerc after the first‑lap clash that cost Ferrari the win at the Mexican Grand Prix."
-    },
-    {
-      "id": "69df258740e7",
-      "title": "Cadillac to investigate high-speed Mexico GP failure that led to angry Valtteri Bottas reaction",
-      "title_fr": "Cadillac enquête sur l'accident de Bottas à Mexico",
-      "title_en": "Cadillac probes Bottas crash at Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/cadillac-to-investigate-high-speed-mexico-gp-failure-that-led-to-angry-valtteri-bottas-reaction/10871021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9EBaPY/s6/valtteri-bottas-cadillac-racin.jpg",
-      "published_at": "2026-11-02T17:30:02+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Le principal de Cadillac, Marcin Budkowski, a promis d'enquêter sur la défaillance de la suspension qui a fait basculer Valtteri Bottas à l'entrée du premier virage du Grand Prix de Mexico. L'équipe veut éviter que cela se reproduise.",
-      "summary_en": "Cadillac chief Marcin Budkowski vows to investigate the suspension failure that sent Valtteri Bottas spinning into the TecPro barrier at the start of the Mexico GP. The team aims to prevent a repeat."
-    },
-    {
-      "id": "5dc0968bbfa1",
-      "title": "How Mercedes can win the 2026 F1 constructors' championship at the Brazilian GP",
-      "title_fr": "Mercedes vise le titre des constructeurs au Brésil",
-      "title_en": "Mercedes targets constructors' title in Brazil",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-mercedes-can-win-the-2026-f1-constructors-championship-at-the-brazilian-gp/10871090/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YE9EpQMY/s6/motorsport-com-graphics-48.jpg",
-      "published_at": "2026-11-02T17:13:41+00:00",
-      "race_id": "brazil",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Mercedes, en tête du championnat avec 126 points d'avance sur Ferrari, cherche à sécuriser le titre des constructeurs lors du Grand Prix du Brésil. La fin de semaine de Sao Paulo est cruciale pour la victoire finale.",
-      "summary_en": "Mercedes leads the championship by 126 points over Ferrari and aims to clinch the constructors' title at the Brazilian Grand Prix. The Sao Paulo weekend is pivotal for securing the final victory."
-    },
-    {
-      "id": "2394e05db355",
-      "title": "What was Kimi Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
-      "title_fr": "Kimi Antonelli : le moment phare de son titre mondial",
-      "title_en": "Kimi Antonelli: the highlight of his title-winning season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-was-kimi-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871070/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0Zq8lAN6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-02T16:00:02+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté son premier championnat du monde en 2024. Les journalistes ont identifié le moment qui l'a transformé en champion, notamment sa performance décisive à Mexico.",
-      "summary_en": "Kimi Antonelli clinched his first world title in 2024. Journalists highlighted the moment that turned him into champion, notably his decisive performance in Mexico."
-    },
-    {
-      "id": "cd0d352f9f97",
-      "title": "What was Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
-      "title_fr": "Antonelli, le moment phare de son titre mondial",
-      "title_en": "Antonelli's defining moment in his title‑winning season",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/63Qa3m72/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
-      "published_at": "2026-11-02T15:59:08+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté son premier championnat du monde en 2024. Les journalistes ont identifié le moment qui a transformé l'italien en champion.",
-      "summary_en": "Kimi Antonelli clinched his first Formula One world title in 2024. Journalists highlighted the moment that turned the Italian into champion."
-    },
-    {
-      "id": "7a3e460c3460",
-      "title": "Toto Wolff explains George Russell's media absence after Mexican GP disappointment",
-      "title_fr": "Toto Wolff explains George Russell's media absence after Mexican GP disappointment",
-      "title_en": "Toto Wolff explains George Russell's media absence after Mexican GP disappointment",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-george-russells-media-absence-after-mexican-gp-disappointment/10871072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/68VwEyQ2/s6/motorsport-com-graphics-47.jpg",
-      "published_at": "2026-11-02T15:39:57+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes Formula 1 team principal and CEO Toto Wolff described the Mexican Grand Prix as a \"catastrophic moment\" for George Russell.<br />The Briton started second on the grid after qualifying just 0.",
-      "summary_en": "Mercedes Formula 1 team principal and CEO Toto Wolff described the Mexican Grand Prix as a \"catastrophic moment\" for George Russell.<br />The Briton started second on the grid after qualifying just 0."
-    },
-    {
-      "id": "62dd6ac50023",
-      "title": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
-      "title_fr": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
-      "title_en": "Mercedes fined for George Russell skipping F1 Mexico GP media duties",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-fined-for-george-russell-skipping-f1-mexico-gp-media-duties/10871040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6b8ZXde2/s6/george-russell-mercedes-andrea.jpg",
-      "published_at": "2026-11-02T13:26:17+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes was fined €5,000 following the Mexico Grand Prix after George Russell failed to attend his post-race Formula 1 media commitments.<br />The Mercedes driver finished sixth at Autodromo Hermanos",
-      "summary_en": "Mercedes was fined €5,000 following the Mexico Grand Prix after George Russell failed to attend his post-race Formula 1 media commitments.<br />The Mercedes driver finished sixth at Autodromo Hermanos"
     }
   ]
 }
