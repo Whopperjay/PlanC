@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T13:00:18Z",
-  "model": "claude",
+  "generated_at": "2026-11-04T02:32:13Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -142,15 +142,15 @@
       "race_id": "brazilian",
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
+      "p1": "hamilton",
+      "p2": "antonelli",
       "p3": "max_verstappen",
-      "reasoning_fr": "",
-      "reasoning_en": "",
+      "reasoning_fr": "Hamilton montre une constance exceptionnelle en qualification, confirmé par sa pole à Mexico et son podium à la course. Antonelli bénéficie d'une dynamique montante, soutenue par les louanges de Mercedes et son podium à Mexico. Verstappen, malgré une quatrième place en qualification à Mexico, reste le pilote le plus rapide en course et profite d'une évolution de piste favorable à Interlagos, le pl",
+      "reasoning_en": "Hamilton has demonstrated exceptional qualifying consistency, highlighted by his pole in Mexico and race podium. Antonelli is on an upward trajectory, backed by Mercedes praise and a Mexico podium. Verstappen, despite a fourth‑place Q at Mexico, remains the fastest race driver and will benefit from Interlagos track evolution, keeping him in the top three qualifiers.",
       "confidence": "medium",
-      "key_factor_fr": "",
+      "key_factor_fr": "Évolution de piste + forme récente en qualification",
       "news_used_ids": [],
-      "generated_at": "2026-11-03T13:00:18Z"
+      "generated_at": "2026-11-04T02:32:12Z"
     },
     {
       "event_id": "brazilian_grand_prix",
@@ -158,14 +158,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 119 points d'avance et une Mercedes clairement la plus performante en 2026. Verstappen reste redoutable à Interlagos, où il excelle souvent, notamment sous la pluie. Russell complète le podium grâce au rythme de la Mercedes, devant un trio Ferrari et McLaren très serré au classement (Hamilton, Leclerc, Norris).",
-      "reasoning_en": "Antonelli dominates the championship with a 119-point lead and the clear class of the 2026 field in the Mercedes. Verstappen remains formidable at Interlagos, where he often excels, especially in the wet. Russell completes the podium on Mercedes pace, ahead of a tightly bunched Ferrari and McLaren group in the standings (Hamilton, Leclerc, Norris).",
+      "p2": "hamilton",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli, leader du championnat, a démontré un rythme de course exceptionnel à Mexico, terminant troisième malgré une grille modeste. Hamilton, désormais chez Ferrari, a décroché la pole à Mexico et possède le meilleur tour en qualification, garantissant une excellente position de départ sur Interlagos, circuit favorable aux dépassements. Verstappen reste le plus rapide en course, mais la gestion",
+      "reasoning_en": "Antonelli leads the championship and showed outstanding race pace in Mexico, finishing third despite a modest grid position. Hamilton, now with Ferrari, secured pole in Mexico and consistently posts the fastest qualifying laps, giving him a strong start on Interlagos, a circuit that rewards overtaking. Verstappen remains the quickest in race trim, but tyre wear at São Paulo and potential pit‑stop ",
       "confidence": "medium",
-      "key_factor_fr": "Supériorité Mercedes et météo changeante à Interlagos",
+      "key_factor_fr": "Grille de départ et gestion des pneus",
       "news_used_ids": [],
-      "generated_at": "2026-11-03T13:00:14Z"
+      "generated_at": "2026-11-04T02:32:00Z"
     }
   ]
 }
