@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T13:00:34Z",
-  "model": "claude",
+  "generated_at": "2026-11-05T02:44:55Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -142,30 +142,30 @@
       "race_id": "brazilian",
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "hamilton",
       "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 380 points, soit 119 de plus que Verstappen. Mercedes place aussi Russell au quatrième rang, ce qui confirme une voiture performante entre les mains de ses deux pilotes. Verstappen reste la principale menace extérieure. Sans actualité récente ni temps d'essais disponibles, ce pronostic repose uniquement sur le classement, d'où une confiance moyenne.",
-      "reasoning_en": "Antonelli dominates the championship with 380 points, 119 clear of Verstappen. Mercedes also has Russell in fourth, suggesting a strong car in the hands of both drivers. Verstappen remains the main outside threat. With no recent news or practice times available, this prediction relies solely on the standings, which is why confidence is only medium.",
+      "p3": "antonelli",
+      "reasoning_fr": "Hamilton a dominé la dernière qualification à Mexico (P1) et a remporté la course, montrant une excellente forme. Russell, deuxième à Mexico, bénéficie d’une Mercedes fiable et d’une bonne évolution de piste à Interlagos. Antonelli, champion du monde 2026 et motivé par son hommage à Senna, a montré un rythme solide (P5 à Mexico) et profite de la même voiture Mercedes, ce qui le place naturellement",
+      "reasoning_en": "Hamilton topped the Mexico qualifying and won the race, indicating peak form and strong one‑lap pace. Russell, who was second in Mexico, has a reliable Mercedes and will benefit from the track’s evolution at Interlagos. Antonelli, the 2026 champion, is highly motivated by his Senna tribute and posted a solid pace (P5 in Mexico), making him a natural top‑3 contender on the same car.",
       "confidence": "medium",
-      "key_factor_fr": "Avance d'Antonelli au championnat et niveau global de Mercedes",
+      "key_factor_fr": "Forme récente en qualification et évolution de piste",
       "news_used_ids": [],
-      "generated_at": "2026-11-04T13:00:34Z"
+      "generated_at": "2026-11-05T02:44:54Z"
     },
     {
       "event_id": "brazilian_grand_prix",
       "race_id": "brazilian",
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 119 points d'avance et une Mercedes visiblement la plus performante en 2026. Il a déjà fini 2e à Interlagos en 2025. Russell, vainqueur ici en 2022, devrait confirmer la forme de Mercedes. Verstappen, triomphal à Interlagos en 2024, reste le meilleur des autres. Hamilton et Leclerc sont proches, et une pluie possible ajoute de l'incertitude.",
-      "reasoning_en": "Antonelli leads the championship by 119 points, and his Mercedes looks like the strongest car of 2026. He already finished P2 at Interlagos in 2025. Russell won here in 2022 and should back up Mercedes' form. Verstappen won at Interlagos in 2024 and remains the best of the rest. Hamilton and Leclerc are close behind, and possible rain adds uncertainty.",
+      "p1": "max_verstappen",
+      "p2": "hamilton",
+      "p3": "antonelli",
+      "reasoning_fr": "Verstappen a montré une supériorité en course à Mexico, combinée à la qualité de la stratégie pneus Red Bull, le place comme favori. Hamilton, parti en pole, conserve un bon rythme mais devra lutter contre la vitesse de pointe de Red Bull. Antonelli, champion 2026, part du milieu du top 5, profitera de la motivation du casque hommage à Senna et de la solide performance Mercedes pour assurer la 3èm",
+      "reasoning_en": "Verstappen demonstrated superior race pace in Mexico and Red Bull's tyre strategy is likely to repeat, making him the favorite. Hamilton, starting from pole, maintains strong pace but must contend with Red Bull's top speed advantage. Antonelli, the 2026 champion, starts within the top five, boosted by his Senna‑tribute helmet motivation and Mercedes' solid performance, positioning him for a podium",
       "confidence": "medium",
-      "key_factor_fr": "Supériorité Mercedes, mais pluie possible à Interlagos",
+      "key_factor_fr": "Qualifying + supériorité course Red Bull",
       "news_used_ids": [],
-      "generated_at": "2026-11-04T13:00:26Z"
+      "generated_at": "2026-11-05T02:44:41Z"
     }
   ]
 }
