@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-05T14:51:00Z",
+  "last_updated": "2026-11-05T17:52:51Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e34a97b146e4",
+      "title": "How rough diamond Camara feels ahead of 'very surprising' F1 home debut",
+      "title_fr": "Camara fait ses débuts en F1 sur son sol natal",
+      "title_en": "Camara makes his F1 debut on home soil",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/how-rough-diamond-camara-feels-ahead-of-very-surprising-f1-home-debut/10871811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9EpZ1Y/s6/rafael-camara-haas-f1-team-2.jpg",
+      "published_at": "2026-11-05T17:37:33+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafa Camara, junior Ferrari, débute en Formule 1 sur son sol natal sans montrer de nervosité, alors qu'il prépare son passage chez Haas pour la saison prochaine.",
+      "summary_en": "Rafa Camara, Ferrari junior, makes his Formula 1 debut on home soil without showing nerves, while preparing to join Haas for next season."
+    },
+    {
+      "id": "488c44da6884",
+      "title": "How raw talent Rafa Camara feels ahead of 'very surprising' F1 home debut in Brazil",
+      "title_fr": "Camara fait son debut F1 à Brésil sans trembler",
+      "title_en": "Camara makes his F1 debut in Brazil",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-raw-diamond-rafa-camara-feels-ahead-of-very-surprising-f1-home-debut-in-brazil/10871809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0o5AwmlY/s6/rafael-camara-haas-f1-team.jpg",
+      "published_at": "2026-11-05T17:27:37+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafa Camara, pilote junior Ferrari, débute en F1 à Brésil sans montrer de nervosité, malgré la pression d'un debut à domicile. Il remplace Esteban Ocon chez Haas pour la saison prochaine.",
+      "summary_en": "Rafa Camara, Ferrari junior, makes his F1 debut in Brazil without showing nerves, despite the pressure of a home debut. He replaces Esteban Ocon at Haas for next season."
+    },
+    {
+      "id": "cc949e186b79",
+      "title": "Ferrari confirms Charles Leclerc's Brazilian GP schedule after birth of first child",
+      "title_fr": "Leclerc absent du media day du Brésil après la naissance de sa fille",
+      "title_en": "Leclerc misses Brazilian GP media day after daughter’s birth",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-confirms-charles-leclercs-brazilian-gp-schedule-after-birth-of-first-child/10871798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zlpw6/s6/motorsport-com-graphics-56.jpg",
+      "published_at": "2026-11-05T17:12:25+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc ne participera pas au media day du jeudi à São Paulo, car il vient d’accueillir sa fille Bianca. Ferrari a confirmé que le pilote monégasque sera absent de la journée médiatique.",
+      "summary_en": "Charles Leclerc will miss Thursday’s media day in São Paulo after welcoming his daughter Bianca. Ferrari confirmed the Monégasque driver will be absent from the media session."
+    },
+    {
+      "id": "6157e9754a7c",
+      "title": "Aston Martin knew before Mexico GP it would not finish, Honda brings new countermeasures",
+      "title_fr": "Aston Martin prévoyait l'échec au Mexique, Honda lance des contre-mesures",
+      "title_en": "Aston Martin Expected Failure in Mexico, Honda Introduces Countermeasures",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/aston-martin-knew-before-mexico-gp-it-would-not-finish-honda-brings-new-countermeasures/10871784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZXBxV6/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-05T16:50:49+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Avant le Grand Prix du Mexique, Aston Martin savait qu'ils ne termineraient pas la course. Honda a alors introduit de nouvelles contre-mesures pour limiter le retard du turbo.",
+      "summary_en": "Before the Mexico Grand Prix, Aston Martin knew they would not finish. Honda introduced new countermeasures to curb turbo lag."
+    },
+    {
+      "id": "0c0a990da3b4",
+      "title": "How to follow Sao Paulo Grand Prix on the BBC",
+      "title_fr": "BBC couvre le Grand Prix de São Paulo",
+      "title_en": "BBC covers the Sao Paulo Grand Prix",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw0k0ylj6lj3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5221/live/85a75910-d654-11f1-bfaa-ade3b5994a33.jpg",
+      "published_at": "2026-11-05T15:03:34+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La BBC propose une couverture complète du Grand Prix de São Paulo, du 6 au 8 novembre, avec des commentaires en direct, des analyses d'experts et des repérages sur les circuits.",
+      "summary_en": "BBC will provide comprehensive coverage of the Sao Paulo Grand Prix from 6-8 November, featuring live commentary, expert analysis, and on‑site reports from the circuit."
+    },
     {
       "id": "7ce26e7e0fd4",
       "title": "Toto Wolff on the moment Lewis Hamilton’s exit decided Antonelli’s future",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote de test Cadillac Colton Herta participera à la séance de FP1 du Grand Prix du Brésil pour obtenir le point manquant de superlicence requis par la FIA.",
       "summary_en": "Cadillac test driver Colton Herta will take part in Brazil's FP1 to secure the final FIA superlicence point he needs to race in Formula 1."
-    },
-    {
-      "id": "97f2e79d77e3",
-      "title": "Toto Wolff addresses his future at Mercedes after momentous Kimi Antonelli win",
-      "title_fr": "Wolff se questionne sur son avenir chez Mercedes après la victoire d'Antonelli",
-      "title_en": "Wolff questions his future at Mercedes after Antonelli's win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-addresses-mercedes-future-dont-plan-to-call-it-a-day/10871261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2y7QRKK6/s6/motorsport-com-graphics-66-2.jpg",
-      "published_at": "2026-11-04T09:30:38+00:00",
-      "race_id": "austria",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff, directeur général de Mercedes, se penche sur son avenir après la victoire historique de Kimi Antonelli au Grand Prix du Mexique.",
-      "summary_en": "Mercedes team principal Toto Wolff is reassessing his future after Kimi Antonelli's historic win at the Mexican Grand Prix."
-    },
-    {
-      "id": "a2ad96f58416",
-      "title": "Stats: Hirakawa is sixth one-off starter to score a world championship point | 2026 Mexican Grand Prix stats and facts",
-      "title_fr": "Stats: Hirakawa is sixth one-off starter to score a world championship point | 2026 Mexican Grand Prix stats and facts",
-      "title_en": "Stats: Hirakawa is sixth one-off starter to score a world championship point | 2026 Mexican Grand Prix stats and facts",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/04/mexican-gp-stats-norris-has-third-shortest-reign-as-world-champion/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-10-31-11-21-31-1-2302869717-827.jpg",
-      "published_at": "2026-11-04T07:15:32+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "All the stats from Mexico including the end of Lando Norris's championship reign, Lewis Hamilton first pole position in his forties and more.",
-      "summary_en": "All the stats from Mexico including the end of Lando Norris's championship reign, Lewis Hamilton first pole position in his forties and more."
-    },
-    {
-      "id": "99f7e6cd3335",
-      "title": "More than the Score",
-      "title_fr": "Le pilote italien de 20 ans devient le plus jeune champion du monde",
-      "title_en": "20-year-old Italian becomes youngest F1 world champion",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct9tp9?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pl30q8.jpg",
-      "published_at": "2026-11-04T06:01:00+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le pilote italien de 20 ans a remporté le championnat du monde, devenant ainsi le plus jeune champion de l’histoire de la Formule 1.",
-      "summary_en": "The 20-year-old Italian driver won the world championship, becoming the youngest champion in Formula 1 history."
-    },
-    {
-      "id": "df5e91353f36",
-      "title": "Andrea Stella explains how qualifying destroyed McLaren’s Mexico GP: “We paid the price”",
-      "title_fr": "Qualifying à Mexico ruine le McLaren",
-      "title_en": "Mexico qualifying wrecks McLaren",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0Ldelda0/s6/motorsport-com-graphics-65-2.jpg",
-      "published_at": "2026-11-03T23:50:58+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le McLaren a perdu son avantage de podium à Mexico après une séance de qualification difficile qui l'a laissé en arrière, aggravée par la haute altitude et la mauvaise aération.",
-      "summary_en": "McLaren lost its podium potential in Mexico after a tough qualifying session that left it behind, worsened by high altitude and poor cooling."
-    },
-    {
-      "id": "0b62a8cbd99f",
-      "title": "Charles Leclerc brushes off Lewis Hamilton clash: “I could be unhappy too”",
-      "title_fr": "Leclerc évite le duel avec Hamilton, pénalité pour le Monegasque",
-      "title_en": "Leclerc avoids clash with Hamilton, penalty for the Monegasque",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YWKAlKeY/s6/motorsport-com-graphics-64-2.jpg",
-      "published_at": "2026-11-03T23:28:18+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Au premier tour du Grand Prix de Mexico, Leclerc et Hamilton se livrent à un duel acharné, entraînant une sortie hors circuit et une pénalité de temps pour le Monegasque. Leclerc a déclaré qu'il pourrait être mécontent aussi.",
-      "summary_en": "On the opening lap of the Mexico City Grand Prix, Leclerc and Hamilton fought a fierce duel that led to an off-track excursion and a time penalty for the Monegasque. Leclerc said he could be unhappy too."
     }
   ]
 }
