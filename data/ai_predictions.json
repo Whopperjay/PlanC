@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:00:03Z",
+  "generated_at": "2026-11-05T13:00:22Z",
   "model": "claude",
   "predictions": [
     {
@@ -142,30 +142,30 @@
       "race_id": "brazilian",
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
-      "p1": "hamilton",
+      "p1": "antonelli",
       "p2": "russell",
-      "p3": "antonelli",
-      "reasoning_fr": "Hamilton a dominé la dernière qualification à Mexico (P1) et a remporté la course, montrant une excellente forme. Russell, deuxième à Mexico, bénéficie d’une Mercedes fiable et d’une bonne évolution de piste à Interlagos. Antonelli, champion du monde 2026 et motivé par son hommage à Senna, a montré un rythme solide (P5 à Mexico) et profite de la même voiture Mercedes, ce qui le place naturellement",
-      "reasoning_en": "Hamilton topped the Mexico qualifying and won the race, indicating peak form and strong one‑lap pace. Russell, who was second in Mexico, has a reliable Mercedes and will benefit from the track’s evolution at Interlagos. Antonelli, the 2026 champion, is highly motivated by his Senna tribute and posted a solid pace (P5 in Mexico), making him a natural top‑3 contender on the same car.",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 380 points, soit 119 d'avance sur Verstappen, ce qui fait de Mercedes la référence probable. Russell, quatrième à 250 points, dispose de la même voiture et reste le rival le plus direct. Verstappen peut s'immiscer devant. Interlagos, tour court, resserre les écarts et la météo peut tout bouleverser. Aucune donnée d'essais n'est disponible.",
+      "reasoning_en": "Antonelli leads the championship with 380 points, 119 clear of Verstappen, making Mercedes the likely benchmark. Russell, fourth on 250 points, has the same car and remains the most direct rival. Verstappen could still break through. Interlagos's short lap tightens the gaps, and weather could upset everything. No practice data is available, so this forecast relies on standings.",
       "confidence": "medium",
-      "key_factor_fr": "Forme récente en qualification et évolution de piste",
+      "key_factor_fr": "Avantage Mercedes au championnat, mais tour court et météo incertaine",
       "news_used_ids": [],
-      "generated_at": "2026-11-05T02:44:54Z"
+      "generated_at": "2026-11-05T13:00:22Z"
     },
     {
       "event_id": "brazilian_grand_prix",
       "race_id": "brazilian",
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "hamilton",
-      "p3": "antonelli",
-      "reasoning_fr": "Verstappen a montré une supériorité en course à Mexico, combinée à la qualité de la stratégie pneus Red Bull, le place comme favori. Hamilton, parti en pole, conserve un bon rythme mais devra lutter contre la vitesse de pointe de Red Bull. Antonelli, champion 2026, part du milieu du top 5, profitera de la motivation du casque hommage à Senna et de la solide performance Mercedes pour assurer la 3èm",
-      "reasoning_en": "Verstappen demonstrated superior race pace in Mexico and Red Bull's tyre strategy is likely to repeat, making him the favorite. Hamilton, starting from pole, maintains strong pace but must contend with Red Bull's top speed advantage. Antonelli, the 2026 champion, starts within the top five, boosted by his Senna‑tribute helmet motivation and Mercedes' solid performance, positioning him for a podium",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 119 points d'avance et une Mercedes visiblement la référence. Il avait déjà fini deuxième à Interlagos en 2025. Verstappen, deuxième au général et vainqueur ici en 2024, reste redoutable, surtout si la pluie s'invite. Russell complète le podium grâce à la Mercedes, devant les Ferrari très proches au classement. Aucune actualité récente ne vient modifier cette h",
+      "reasoning_en": "Antonelli leads the championship by 119 points, with Mercedes apparently the benchmark car. He already finished second at Interlagos in 2025. Verstappen, second overall and the 2024 winner here, remains dangerous, especially if rain arrives. Russell completes the podium thanks to the Mercedes, ahead of the closely matched Ferraris. No recent news changes this order, though Interlagos often produce",
       "confidence": "medium",
-      "key_factor_fr": "Qualifying + supériorité course Red Bull",
+      "key_factor_fr": "Avance de Mercedes au championnat, météo d'Interlagos comme inconnue",
       "news_used_ids": [],
-      "generated_at": "2026-11-05T02:44:41Z"
+      "generated_at": "2026-11-05T13:00:14Z"
     }
   ]
 }

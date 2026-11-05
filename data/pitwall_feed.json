@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-05T05:00:03Z",
+  "generated_at": "2026-11-05T13:00:22Z",
   "messages": [
     {
-      "id": "2026110505_0",
-      "text_fr": "Max, Hamilton, Antonelli : mon podium à Interlagos est plié. Fais mieux si t'as le cran 😏",
-      "text_en": "Max, Hamilton, Antonelli: my Interlagos podium is sorted. Do better if you dare 😏",
-      "created_at": "2026-11-05T05:00:10Z"
+      "id": "2026110513_0",
+      "text_fr": "Antonelli, Max, Russell : mon podium à Interlagos est verrouillé. Viens me battre si t'as mieux 😏",
+      "text_en": "Antonelli, Max, Russell: my Interlagos podium is locked in. Come beat me if you've got better 😏",
+      "created_at": "2026-11-05T13:00:28Z"
     },
     {
-      "id": "2026110505_1",
-      "text_fr": "Battre l'IA au Brésil ? Tente ta chance avec tes pronos, moi je t'attends déjà au drapeau à damier.",
-      "text_en": "Beat the AI in Brazil? Give your picks a shot, I'll be waiting for you at the chequered flag.",
-      "created_at": "2026-11-05T05:00:10Z"
+      "id": "2026110513_1",
+      "text_fr": "Kimi devant Max au Brésil, j'ose. Et toi, t'as un prono ou juste des excuses pour dimanche ?",
+      "text_en": "Kimi ahead of Max in Brazil, I dare. And you, got a pick or just excuses for Sunday?",
+      "created_at": "2026-11-05T13:00:28Z"
     }
   ]
 }
