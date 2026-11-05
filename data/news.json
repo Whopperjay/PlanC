@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-11-05T08:46:40Z",
+  "last_updated": "2026-11-05T11:49:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5346bb760b39",
+      "title": "Social Media: Williams show off 40-year-old Jacarepagua Brazilian GP trophy | Brief",
+      "title_fr": "Williams exhibe son trophée du Grand Prix du Brésil 1986",
+      "title_en": "Williams shows off 1986 Brazilian GP trophy",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/05/social-media-williams-show-off-their-1986-brazilian-grand-prix-trophy/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-05-11-03-25-1-williams_1986-1.jpg",
+      "published_at": "2026-11-05T11:20:01+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Williams a dévoilé son trophée du Grand Prix du Brésil 1986, rappelant la victoire de Jacarepagua. Le tableau est partagé sur les réseaux sociaux.",
+      "summary_en": "Williams showcased its 1986 Brazilian GP trophy, commemorating Jacarepagua's win. The image was shared on social media."
+    },
+    {
+      "id": "80889a22421f",
+      "title": "Max Verstappen jokes about key difference with Kimi Antonelli at 20: “He speaks Italian!”",
+      "title_fr": "Verstappen se moque d'Antonelli : « Il parle italien ! »",
+      "title_en": "Verstappen jokes about Antonelli: 'He speaks Italian!'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-key-difference-with-kimi-antonelli-at-20-he-speaks-italian/10871670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0qgKrQQY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-05T11:00:03+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a plaisanté sur la différence entre lui et le champion Kimi Antonelli, déclarant que la clé réside dans la langue italienne. Le pilote Red Bull a fait rire les fans après le Grand Prix du Mexique.",
+      "summary_en": "Max Verstappen joked about the key difference with champion Kimi Antonelli, saying it lies in speaking Italian. The Red Bull driver made fans laugh after the Mexican Grand Prix."
+    },
+    {
+      "id": "819e675f2606",
+      "title": "Kimi Antonelli almost had to retire in Mexico due to an oil leak",
+      "title_fr": "Antonelli presque retiré à Mexico à cause d'une fuite d'huile",
+      "title_en": "Antonelli almost retired in Mexico due to an oil leak",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-almost-had-to-retire-in-mexico-due-to-an-oil-leak/10871667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9EpwDY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-05T10:22:12+00:00",
+      "race_id": "italy",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a presque dû abandonner la course de Mexico à cause d'une fuite d'huile, mais a fini par remporter son premier championnat du monde, célébré aux côtés de Hamilton et Verstappen",
+      "summary_en": "Kimi Antonelli almost had to retire from the Mexican Grand Prix because of an oil leak, yet he secured his first world championship, celebrated alongside Lewis Hamilton and Max Verstappen"
+    },
+    {
+      "id": "369f8dfd88df",
+      "title": "How Mercedes can win the F1 world constructors’ title in Brazil",
+      "title_fr": "Mercedes vise le titre des constructeurs en Brésil",
+      "title_en": "Mercedes aims for constructors' title in Brazil",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/how-mercedes-can-win-the-f1-world-constructors-title-in-brazil/10871661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2GdKZbEY/s6/george-russell-mercedes-andrea-2.jpg",
+      "published_at": "2026-11-05T09:52:25+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Après la victoire de Kimi Antonelli au Grand Prix du Mexique, Mercedes est à neuf points du titre des constructeurs. La marque domine le championnat avec 12 victoires sur 19 courses, laissant Ferrari loin derrière.",
+      "summary_en": "After Kimi Antonelli won the Mexican Grand Prix, Mercedes is nine points from the constructors' title. The team has won 12 of 19 races this season, leaving Ferrari far behind."
+    },
+    {
+      "id": "fe905d41ff87",
+      "title": "How Mercedes can win F1’s world constructors’ title at Brazil GP",
+      "title_fr": "Mercedes vise le neuvième titre constructeurs au Brésil",
+      "title_en": "Mercedes eye ninth constructors' title at Brazil GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-mercedes-can-win-f1s-world-constructors-title-at-brazil-gp/10871496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvxjwY/s6/george-russell-mercedes-andrea.jpg",
+      "published_at": "2026-11-05T09:49:47+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Mercedes peut décrocher son neuvième titre constructeurs au Brésil, menant le championnat avec un écart de 126 points sur Ferrari, après la victoire de Kimi Antonelli au Mexique.",
+      "summary_en": "Mercedes can secure its ninth constructors' title in Brazil, leading the championship by 126 points over Ferrari after Kimi Antonelli's win in Mexico."
+    },
+    {
+      "id": "44ad29bb3314",
+      "title": "Alan Jones, 1946-2026 | F1 history",
+      "title_fr": "Alan Jones, 1946-2026, décède à 80 ans",
+      "title_en": "Alan Jones, 1946-2026, dies at 80",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/05/alan-jones-1946-2026/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-alan-jones.jpg",
+      "published_at": "2026-11-05T09:48:25+00:00",
+      "race_id": null,
+      "category": "breaking",
+      "tags": [
+        "breaking"
+      ],
+      "importance": 92,
+      "is_breaking": true,
+      "summary_fr": "Alan Jones, champion du monde 1980 pour Williams, est décédé à l'âge de 80 ans. Le pilote australien laisse un héritage durable dans la Formule 1.",
+      "summary_en": "Alan Jones, the 1980 World Champion for Williams, died at 80. The Australian driver leaves a lasting legacy in Formula 1."
+    },
+    {
+      "id": "46da99a915f3",
+      "title": "1980 F1 world champion Alan Jones dies aged 80",
+      "title_fr": "Alan Jones, champion du monde 1980, décède à 80 ans",
+      "title_en": "Alan Jones, 1980 F1 World Champion, Dies at 80",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zQ9lGlY/s6/alan-jones-williams-fw07b-ford-2.jpg",
+      "published_at": "2026-11-05T08:58:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Alan Jones, champion du monde de Formule 1 en 1980, est décédé à 80 ans après une courte maladie. Sa décision de quitter la compétition en 1981 a ouvert la voie à Keke Rosberg.",
+      "summary_en": "Alan Jones, the 1980 Formula 1 World Champion, died at 80 after a brief illness. His decision to retire at the end of 1981 paved the way for Keke Rosberg to win the 1982 title."
+    },
+    {
+      "id": "ba49eced9e8d",
+      "title": "1980 F1 world champion Alan Jones dies aged 80",
+      "title_fr": "Alan Jones, champion du monde 1980, décède à 80 ans",
+      "title_en": "Alan Jones, 1980 F1 World Champion, Dies at 80",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YKEQqXw0/s6/1980-f1-drivers-champion-alan-.jpg",
+      "published_at": "2026-11-05T08:50:37+00:00",
+      "race_id": null,
+      "category": "breaking",
+      "tags": [
+        "breaking"
+      ],
+      "importance": 92,
+      "is_breaking": true,
+      "summary_fr": "Le champion du monde de Formule 1, Alan Jones, est décédé le 5 novembre à la Gold Coast, après une courte maladie. La famille a publié un communiqué de condoléances.",
+      "summary_en": "Former F1 world champion Alan Jones died on November 5 on the Gold Coast after a brief illness. His family released a statement expressing their sorrow."
+    },
     {
       "id": "05fd45e4ba3e",
       "title": "Alan Jones, 1980 Formula 1 world champion, dies aged 80 | Formula 1",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Haas a annoncé que Esteban Ocon ne concourra plus en 2026 après son exclusion du Grand Prix du Mexique. Le pilote sera sans équipe pour le reste de la saison.",
       "summary_en": "Haas announced that Esteban Ocon will not compete in 2026 after being dropped from the Mexican Grand Prix. The driver will be without a team for the rest of the season."
-    },
-    {
-      "id": "7c28a6e03ba1",
-      "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
-      "title_fr": "Rafa Camara débute en F1 au Brésil, Esteban Ocon exclu chez Haas",
-      "title_en": "Rafa Camara to debut in Brazil, Esteban Ocon out at Haas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
-      "published_at": "2026-11-03T20:47:12+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Rafa Camara, qui débutera en 2027, prend la place d'Esteban Ocon chez Haas pour le Grand Prix du Brésil. La décision intervient après des tensions croissantes entre Ocon et l'équipe.",
-      "summary_en": "Rafa Camara, slated to debut in 2027, will take the seat of Esteban Ocon at Haas for the Brazilian Grand Prix. The move follows mounting tensions between Ocon and the team."
-    },
-    {
-      "id": "525cfc0404e6",
-      "title": "Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil",
-      "title_fr": "Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil",
-      "title_en": "Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ocon-to-skip-the-rest-of-f1-2026-with-camara-to-debut-in-brazil/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/27No9rm0/s6/esteban-ocon-haas-f1-team-4.jpg",
-      "published_at": "2026-11-03T20:47:12+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Haas Formula 1 team has decided that Esteban Ocon will not race again for the squad, with 2027 rookie Rafael Camara getting an early debut this weekend on home soil.<br />Following increasingly st",
-      "summary_en": "The Haas Formula 1 team has decided that Esteban Ocon will not race again for the squad, with 2027 rookie Rafael Camara getting an early debut this weekend on home soil.<br />Following increasingly st"
-    },
-    {
-      "id": "52bbc206eccb",
-      "title": "Rafa Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas",
-      "title_fr": "Rafa Camara fait son entrée en F1 à Brésil, Ocon exclu du Haas",
-      "title_en": "Rafa Camara makes F1 debut at Brazil, Ocon exits Haas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6VyKwXGY/s6/rafael-camara-joins-haas-f1-te.jpg",
-      "published_at": "2026-11-03T20:43:22+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le Haas a annoncé la sortie d'Esteban Ocon, laissant la place à Rafa Camara, qui débutera ce week-end à Brésil. Le pilote français est remplacé après des tensions croissantes.",
-      "summary_en": "Haas has dropped Esteban Ocon, promoting rookie Rafa Camara to race in Brazil this weekend. The Frenchman was sidelined after mounting tensions with the team."
-    },
-    {
-      "id": "cea2e1751d00",
-      "title": "Official: Ocon will not return to drive for Haas, Camara to take over in Brazil | Formula 1",
-      "title_fr": "Ocon quitte Haas, Camara arrive en Formule 1",
-      "title_en": "Ocon leaves Haas, Camara to debut in Brazil",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/03/official-ocon-will-not-return-to-drive-for-haas-camara-to-take-over-in-brazil/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-11-01-10-49-58-1.jpg",
-      "published_at": "2026-11-03T20:32:30+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon ne revient pas chez Haas. Rafael Camara fera son entrée en Formule 1 pour l'équipe lors du Grand Prix du Brésil.",
-      "summary_en": "Esteban Ocon will not return to Haas. Rafael Camara will make his Formula 1 debut for the team at the Brazilian Grand Prix."
-    },
-    {
-      "id": "219f50a996a4",
-      "title": "The 'difference' between Kimi Antonelli's F1 title and Lewis Hamilton's according to Toto Wolff",
-      "title_fr": "Toto Wolff compare la victoire de Kimi Antonelli à celle de Lewis Hamilton",
-      "title_en": "Toto Wolff compares Kimi Antonelli's title to Lewis Hamilton's",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXbl3m2/s6/lewis-hamilton-ferrari-andrea-.jpg",
-      "published_at": "2026-11-03T19:14:39+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a expliqué que la sensation d’avoir vu Kimi Antonelli devenir champion de F1 était différente de celle ressentie pendant les années Lewis Hamilton. Antonelli a remporté son premier titre à 20 ans, le plus jeune champion de l’histoire.",
-      "summary_en": "Toto Wolff said that watching Kimi Antonelli become Formula 1 champion felt different from the years he saw Lewis Hamilton win. Antonelli clinched his first title at 20, becoming the youngest champion in F1 history."
-    },
-    {
-      "id": "4dd3a1b333f9",
-      "title": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
-      "title_fr": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
-      "title_en": "Why Bearman is yet to be announced as a Haas driver for F1 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15R8O0/s6/oliver-bearman-haas-f1-team.jpg",
-      "published_at": "2026-11-03T17:39:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "With Oliver Bearman firing on all cylinders in his sophomore Formula 1 campaign, it feels odd that Haas has been able to confirm the identity of Esteban Ocon's replacement in the second seat for 2027 ",
-      "summary_en": "With Oliver Bearman firing on all cylinders in his sophomore Formula 1 campaign, it feels odd that Haas has been able to confirm the identity of Esteban Ocon's replacement in the second seat for 2027 "
-    },
-    {
-      "id": "000700602d20",
-      "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
-      "title_fr": "McLaren introduit des améliorations au GP du Brésil en vue de 2027",
-      "title_en": "McLaren to unveil upgrades at Brazil GP ahead of 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP741QG2/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-11-03T16:48:36+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "McLaren apportera des améliorations à son MCL40 lors du Grand Prix du Brésil, notamment un nouveau concept d'aileron avant qui devrait figurer sur son modèle 2027. L’équipe a déjà montré son potentiel en Hongrie.",
-      "summary_en": "McLaren will unveil upgrades to its MCL40 at the Brazil Grand Prix, featuring a front‑wing concept slated for its 2027 model. The team had shown strong form after a major update in Hungary."
-    },
-    {
-      "id": "38487756d83b",
-      "title": "McLaren to introduce 2027 F1 front wing at Brazil GP",
-      "title_fr": "McLaren dévoile son aile avant 2027 au GP du Brésil",
-      "title_en": "McLaren to unveil 2027 front wing at Brazil GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0arEVnw2/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-11-03T16:43:26+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "McLaren introduira son aile avant 2027 lors du Grand Prix du Brésil, après une mise à jour majeure du MCL40 qui a propulsé Lando Norris à la victoire. L’équipe vise à renforcer son avantage.",
-      "summary_en": "McLaren will debut its 2027 front wing at the Brazil Grand Prix, following a major upgrade of the MCL40 that saw Lando Norris win in Hungary. The team aims to sharpen its edge."
     }
   ]
 }
