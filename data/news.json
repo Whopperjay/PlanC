@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-05T11:49:07Z",
+  "last_updated": "2026-11-05T14:51:00Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7ce26e7e0fd4",
+      "title": "Toto Wolff on the moment Lewis Hamilton’s exit decided Antonelli’s future",
+      "title_fr": "Toto Wolff : la sortie de Hamilton a scellé le futur d'Antonelli",
+      "title_en": "Toto Wolff: Hamilton's exit sealed Antonelli's future",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimis-in-the-car-toto-wolff-on-the-moment-lewis-hamiltons-exit-decided-antonellis-future/10871605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNZaA2/s6/motorsport-com-graphics-74-2.jpg",
+      "published_at": "2026-11-05T13:42:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff explique que le départ inattendu de Lewis Hamilton de Mercedes a accéléré la décision de faire entrer Kimi Antonelli dans l'equipe. Le pilote italien a ainsi obtenu son poste après la victoire du championnat en Mexique.",
+      "summary_en": "Toto Wolff said Lewis Hamilton's sudden exit from Mercedes hastened the decision to bring Kimi Antonelli into the team. The Italian driver secured his seat after winning the championship in Mexico."
+    },
+    {
+      "id": "5bc60629c7a0",
+      "title": "How young can a Formula 1 world champion actually be?",
+      "title_fr": "Antonelli devient champion F1 à 20 ans, record historique",
+      "title_en": "Antonelli becomes F1 champion at 20, breaking record",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-young-can-a-formula-1-world-champion-actually-be/10871702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6b8ZXDE2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-05T13:20:02+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté le championnat de Formule 1 en 2026 à 20 ans et 68 jours, dépassant de plus de trois ans le record de Sebastian Vettel. Il reste le plus jeune champion, mais d'autres pilotes pourraient le surpasser.",
+      "summary_en": "Kimi Antonelli won the 2026 Formula 1 championship at 20 years and 68 days, breaking Sebastian Vettel's record by over three years. He remains the youngest champion, though future drivers could overtake him."
+    },
     {
       "id": "5346bb760b39",
       "title": "Social Media: Williams show off 40-year-old Jacarepagua Brazilian GP trophy | Brief",
@@ -153,6 +191,25 @@
       "is_breaking": true,
       "summary_fr": "Le champion du monde de Formule 1, Alan Jones, est décédé le 5 novembre à la Gold Coast, après une courte maladie. La famille a publié un communiqué de condoléances.",
       "summary_en": "Former F1 world champion Alan Jones died on November 5 on the Gold Coast after a brief illness. His family released a statement expressing their sorrow."
+    },
+    {
+      "id": "889e99f5891d",
+      "title": "Audi swaps grey livery for “Piso Paulista” design in Brazil | Formula 1",
+      "title_fr": "Audi passe au 'Piso Paulista' pour le Brésil",
+      "title_en": "Audi swaps grey livery for 'Piso Paulista' in Brazil",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/05/audi-swaps-grey-livery-for-piso-paulista-design-in-brazil/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-05-08-43-15-1-A2621664_large.jpg",
+      "published_at": "2026-11-05T08:46:55+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Audi présentera ce week-end son nouveau look 'Piso Paulista' sur ses deux R26 pour le Grand Prix du Brésil. La marque change de livery grise pour un design brésilien.",
+      "summary_en": "Audi will debut a new 'Piso Paulista' livery on its two R26 cars for the Brazilian Grand Prix this weekend, replacing the usual grey scheme."
     },
     {
       "id": "05fd45e4ba3e",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Au premier tour du Grand Prix de Mexico, Leclerc et Hamilton se livrent à un duel acharné, entraînant une sortie hors circuit et une pénalité de temps pour le Monegasque. Leclerc a déclaré qu'il pourrait être mécontent aussi.",
       "summary_en": "On the opening lap of the Mexico City Grand Prix, Leclerc and Hamilton fought a fierce duel that led to an off-track excursion and a time penalty for the Monegasque. Leclerc said he could be unhappy too."
-    },
-    {
-      "id": "9ac3a3286886",
-      "title": "Colton Herta to run Cadillac FP1 in Brazil as FIA superlicense quest continues",
-      "title_fr": "Herta pilote la Cadillac FP1 a Sao Paulo pour son superlicense",
-      "title_en": "Herta to drive Cadillac FP1 in Sao Paulo to secure superlicense",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVx3Am0/s6/colton-herta.jpg",
-      "published_at": "2026-11-03T23:01:56+00:00",
-      "race_id": "brazil",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta pilote de test Cadillac conduira la FP1 lors de la séance de pratique de vendredi a Sao Paulo afin de rassembler les 40 points manquants pour obtenir la superlicense FIA.",
-      "summary_en": "Colton Herta, Cadillac test driver, will run the FP1 during Friday's practice at Sao Paulo to collect the 40 points he needs for his FIA superlicense."
-    },
-    {
-      "id": "fe1718753c9d",
-      "title": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
-      "title_fr": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
-      "title_en": "Mercedes boss praises Antonelli’s masterclass while admitting they failed George Russell",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YP74l7j2/s6/motorsport-com-graphics-63-2.jpg",
-      "published_at": "2026-11-03T22:49:22+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history o",
-      "summary_en": "The Brackley garage experienced the absolute extremes of motorsport at the Autodromo Hermanos Rodríguez. While the team successfully crowned the youngest world drivers' champion in Formula 1 history o"
-    },
-    {
-      "id": "a8f19226cdaa",
-      "title": "Ocon dropped by Haas for rest of season after row",
-      "title_fr": "Ocon exclu par Haas pour le reste de la saison",
-      "title_en": "Ocon dropped by Haas for rest of season",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768d/live/8674eeb0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
-      "published_at": "2026-11-03T21:15:53+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Haas a annoncé que Esteban Ocon ne concourra plus en 2026 après son exclusion du Grand Prix du Mexique. Le pilote sera sans équipe pour le reste de la saison.",
-      "summary_en": "Haas announced that Esteban Ocon will not compete in 2026 after being dropped from the Mexican Grand Prix. The driver will be without a team for the rest of the season."
     }
   ]
 }
