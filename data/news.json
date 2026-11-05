@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-05T05:45:13Z",
+  "last_updated": "2026-11-05T08:46:40Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "05fd45e4ba3e",
+      "title": "Alan Jones, 1980 Formula 1 world champion, dies aged 80 | Formula 1",
+      "title_fr": "Alan Jones, champion du monde de F1, décède à 80 ans",
+      "title_en": "Alan Jones, 1980 F1 World Champion, Dies at 80",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/05/alan-jones-1980-formula-1-world-champion-dies-aged-80/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-23-03-30-11-38-10-1.jpg",
+      "published_at": "2026-11-05T08:35:46+00:00",
+      "race_id": null,
+      "category": "breaking",
+      "tags": [
+        "breaking"
+      ],
+      "importance": 92,
+      "is_breaking": true,
+      "summary_fr": "Le champion du monde de Formule 1 Alan Jones est décédé à l'âge de 80 ans. Sa carrière, marquée par le titre de 1980, laisse un vide dans le sport.",
+      "summary_en": "Former Formula 1 world champion Alan Jones died at the age of 80. His 1980 title and racing career left a lasting legacy in the sport."
+    },
+    {
+      "id": "f7bd3441dbd9",
+      "title": "Former F1 champion Jones dies aged 80",
+      "title_fr": "Alan Jones, champion australien, décède à 80 ans",
+      "title_en": "Alan Jones, former F1 champion, dies at 80",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d61/live/b5d021f0-d8e6-11f1-8a29-751f921d505b.jpg",
+      "published_at": "2026-11-05T07:57:44+00:00",
+      "race_id": "australia",
+      "category": "breaking",
+      "tags": [
+        "breaking"
+      ],
+      "importance": 92,
+      "is_breaking": true,
+      "summary_fr": "Alan Jones, dernier champion australien et premier pilote Williams à remporter le titre mondial de Formule 1, est décédé à l'âge de 80 ans.",
+      "summary_en": "Alan Jones, the last Australian and first Williams driver to win the Formula 1 world title, has died at the age of 80."
+    },
+    {
+      "id": "5d08a9036a75",
+      "title": "A home debutant and another Mercedes title? Six Brazilian GP talking points | Formula 1",
+      "title_fr": "Mercedes vise un titre constructeurs à Brésil",
+      "title_en": "Mercedes eyes another constructors title at Brazil",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/05/a-home-debutant-and-another-mercedes-title-six-brazilian-gp-talking-points/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-09-14-03-22-2-2245863684.jpg",
+      "published_at": "2026-11-05T07:15:35+00:00",
+      "race_id": "brazil",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Mercedes peut reprendre le championnat des constructeurs pour la première fois en cinq ans lors du Grand Prix du Brésil. Voici les points clés à surveiller.",
+      "summary_en": "Mercedes could reclaim the constructors' championship for the first time in five years at the Brazilian GP. Here are the key talking points."
+    },
     {
       "id": "5aa381681399",
       "title": "Max Verstappen brings “some samba” to Sao Paulo with Brazil-themed F1 helmet",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "McLaren introduira son aile avant 2027 lors du Grand Prix du Brésil, après une mise à jour majeure du MCL40 qui a propulsé Lando Norris à la victoire. L’équipe vise à renforcer son avantage.",
       "summary_en": "McLaren will debut its 2027 front wing at the Brazil Grand Prix, following a major upgrade of the MCL40 that saw Lando Norris win in Hungary. The team aims to sharpen its edge."
-    },
-    {
-      "id": "8071d6ebb666",
-      "title": "Red Bull's rumoured €27million deal takes shape in leaked Max Verstappen shoot",
-      "title_fr": "Verstappen en photo révèle un futur contrat de 27 m€",
-      "title_en": "Verstappen photo hints at 27 m€ deal",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/leaked-photos-reveal-max-verstappen-sporting-adidas-gear-as-27m-red-bull-rumors-erupt/10871317/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7L975Y/s6/motorsport-com-graphics-62-2.jpg",
-      "published_at": "2026-11-03T16:25:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Des photos fuitées de Max Verstappen portant un maillot non encore dévoilé suggèrent un contrat de 27 m€ avec Red Bull.",
-      "summary_en": "Leaked photos of Max Verstappen in an unreleased kit hint at a €27 million deal with Red Bull."
-    },
-    {
-      "id": "ac5afa375df7",
-      "title": "Isack Hadjar rues missed opportunity after George Russell clash at Mexico GP",
-      "title_fr": "Hadjar regrette la perte de piste après l'impact avec Russell à Mexico",
-      "title_en": "Hadjar laments lost pace after clash with Russell in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-rues-lost-mexico-city-pace-after-russells-turn-6-torpedo/10871234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAzb30/s6/motorsport-com-graphics-61-2.jpg",
-      "published_at": "2026-11-03T16:08:34+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar, pilote Red Bull, a débuté septième et a franchi les premiers virages en tête, mais a perdu de la vitesse après un choc avec George Russell à l'angle 6 de l'Autódromo Hermanos Rodríguez.",
-      "summary_en": "Isack Hadjar, the Red Bull driver, started seventh and surged to fifth early on, but lost pace after a collision with George Russell at turn 6 of the Autódromo Hermanos Rodríguez."
-    },
-    {
-      "id": "9fd438b96850",
-      "title": "Marco Antonelli: \"I saw the champion in Kimi after his Australia crash\"",
-      "title_fr": "Marco Antonelli confie qu'il a vu Kimi champion après l'accident australien",
-      "title_en": "Marco Antonelli says he saw Kimi become champion after Australia crash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/marco-antonelli-i-saw-the-champion-in-kimi-after-his-australia-crash/10871229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVP1GO0/s6/marco-antonelli-2.jpg",
-      "published_at": "2026-11-03T14:22:11+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le père de Kimi Antonelli, ancien pilote et directeur d'équipe, explique comment il a compris que son fils deviendrait champion après l'accident australien. Le champion italien a remporté son premier titre à Mexico, devenant le plus jeune de l'histoire.",
-      "summary_en": "Kimi Antonelli's father, former driver and team principal, says he realised his son would become champion after the Australia crash. The Italian won his first title in Mexico, becoming Formula 1’s youngest ever champion."
     }
   ]
 }
