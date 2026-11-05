@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-05T17:52:51Z",
+  "last_updated": "2026-11-05T20:54:52Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "47ec174e3ce1",
+      "title": "Max Verstappen responds to Toto Wolff’s claim that era of \"ruthless\" F1 drivers is over",
+      "title_fr": "Verstappen riposte à la déclaration de Wolff",
+      "title_en": "Verstappen responds to Wolff's claim that ruthless era is over",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-toto-wolffs-claim-that-era-of-ruthless-f1-drivers-is-over/10871913/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlKyrWY/s6/motorsport-com-graphics-58.jpg",
+      "published_at": "2026-11-05T20:44:59+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a rétorqué la remarque de Toto Wolff, qui a déclaré que l'ère des pilotes sans pitié était terminée. Le champion de quatre titres défend son approche de la compétition.",
+      "summary_en": "Max Verstappen rebuts Toto Wolff's claim that the ruthless era of F1 drivers is over, defending his competitive approach."
+    },
+    {
+      "id": "8b7778b52523",
+      "title": "Kimi Antonelli admits he questioned himself throughout his rookie campaign",
+      "title_fr": "Antonelli avoue ses doutes de première saison",
+      "title_en": "Antonelli admits doubts during rookie season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-admits-he-questioned-himself-throughout-his-rookie-campaign/10871901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoDjyj0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-05T20:32:35+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, champion de Formule 1, a avoué qu'il s'est interrogé tout au long de sa première saison. Malgré ses doutes, il a dominé la saison et a remporté le titre en Mexico.",
+      "summary_en": "Kimi Antonelli, Formula 1 champion, admitted he questioned himself throughout his rookie season. Despite his doubts, he dominated the season and clinched the title in Mexico."
+    },
+    {
+      "id": "b2d1fba162a8",
+      "title": "F1 Brazil GP: Friday schedule, weather forecast and how to watch",
+      "title_fr": "F1 : Interlagos, programme et météo du vendredi",
+      "title_en": "F1 Brazil GP: Friday schedule, weather forecast and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-friday-schedule-weather-forecast-and-how-to-watch/10871866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0JXRljpY/s6/a-detailed-view-of-the-tracksi-3.jpg",
+      "published_at": "2026-11-05T20:24:53+00:00",
+      "race_id": null,
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 s'apprête à Interlagos, où Kimi Antonelli, champion du monde, arrive après son titre au Mexique. Le programme du vendredi, la météo et les options de diffusion sont détaillés.",
+      "summary_en": "Formula 1 heads to Interlagos with Kimi Antonelli, the new world champion, arriving after his Mexico GP title. Friday's schedule, weather forecast and viewing options are outlined."
+    },
+    {
+      "id": "0f1824d65d40",
+      "title": "Oscar Piastri accepts Arvid Lindblad clash penalty; guidelines 'tricky' to enforce at Mexico opening corners",
+      "title_fr": "Piastri accepte pénalité pour collision avec Lindblad à Mexico",
+      "title_en": "Piastri accepts penalty for clash with Lindblad at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-accepts-lindblad-clash-penalty-guidelines-tricky-to-enforce-at-mexico-opening-corners/10871893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/25dLD8E0/s6/oscar-piastri-mclaren-arvid-li.jpg",
+      "published_at": "2026-11-05T20:20:07+00:00",
+      "race_id": "australia",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri a accepté la pénalité infligée pour sa collision avec Arvid Lindblad à l'ouverture du circuit de Mexico, soulignant que les directives de conduite de la F1 sont difficiles à appliquer dans les virages complexes.",
+      "summary_en": "Oscar Piastri accepted the penalty for colliding with Arvid Lindblad at the opening of the Mexico City circuit, noting that Formula 1 driving guidelines are hard to enforce on complex corners."
+    },
+    {
+      "id": "a74ca6bd7bf0",
+      "title": "Lewis Hamilton admits his outspoken nature has made Ferrari move more difficult",
+      "title_fr": "Hamilton avoue que son franc-parler complique son intégration chez Ferrari",
+      "title_en": "Hamilton admits his outspoken nature complicates his fit at Ferrari",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-admits-his-outspoken-nature-has-made-ferrari-move-more-difficult/10871887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BlDB2/s6/motorsport-com-graphics-57.jpg",
+      "published_at": "2026-11-05T19:44:14+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton, champion à sept titres, a déclaré que son franc-parler rend son intégration chez Ferrari, avec Charles Leclerc, plus difficile. Il a souligné que 'il n’est pas si simple d’avoir quelqu’un comme moi dans l’équipe'.",
+      "summary_en": "Lewis Hamilton, a seven-time champion, said his outspoken style makes fitting in at Ferrari with Charles Leclerc harder. He noted that 'it’s not so easy having someone like me come into a team'."
+    },
+    {
+      "id": "1efcd1646c2b",
+      "title": "Ralf Schumacher accuses Lewis Hamilton of acting like “Al Capone” amid Mexico City GP drama",
+      "title_fr": "Schumacher critique Hamilton comme Al Capone après le GP de Mexico",
+      "title_en": "Schumacher slams Hamilton as 'Al Capone' after Mexico City GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-accuses-lewis-hamilton-of-acting-like-al-capone-during-mexico-city-gp-drama/10871637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YP74ldo2/s6/motorsport-com-graphics-76-2.jpg",
+      "published_at": "2026-11-05T19:09:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ralf Schumacher a accusé Lewis Hamilton de se comporter comme Al Capone lors du Grand Prix de Mexico, dénonçant les messages radio furieux du pilote britannique.",
+      "summary_en": "Ralf Schumacher blasted Lewis Hamilton for acting like 'Al Capone' during the Mexico City Grand Prix, condemning the driver's heated radio messages."
+    },
+    {
+      "id": "d7018254fd28",
+      "title": "Max Verstappen jokes about rain threat in Brazil: \"I've installed antivirus now!\"",
+      "title_fr": "Verstappen se moque de la pluie au Brésil : « J’ai installé un antivirus »",
+      "title_en": "Verstappen jokes about rain threat in Brazil: 'I’ve installed antivirus now!'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-rain-threat-in-brazil-ive-installed-antivirus-now/10871860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0qgKdyQY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-05T19:03:52+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a plaisanté sur la menace de pluie au Brésil, évoquant l’installation d’un antivirus après qu’un bug logiciel lié aux restrictions de 250 kW ait immobilisé près de la moitié du peloton lors des tours de formation.",
+      "summary_en": "Max Verstappen joked about a rain threat in Brazil after a software bug linked to the FIA’s 250 kW wet-weather restriction halted nearly half the field during formation laps."
+    },
+    {
+      "id": "ea6633c256e9",
+      "title": "Hamilton backs claims Leclerc races him harder than F1 rivals",
+      "title_fr": "Hamilton backs claims Leclerc races him harder than F1 rivals",
+      "title_en": "Hamilton backs claims Leclerc races him harder than F1 rivals",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-backs-claims-charles-leclerc-races-him-harder-than-f1-rivals/10871859/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-11-05T18:58:43+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton maintains Ferrari needs further talks to iron out its rules of engagement, backing claims Charles Leclerc races him harder than drivers from rival teams.<br />Hamilton and Leclerc came ",
+      "summary_en": "Lewis Hamilton maintains Ferrari needs further talks to iron out its rules of engagement, backing claims Charles Leclerc races him harder than drivers from rival teams.<br />Hamilton and Leclerc came "
+    },
+    {
+      "id": "f51b7124f34a",
+      "title": "Lewis Hamilton backs claims Charles Leclerc races him harder than F1 rivals",
+      "title_fr": "Hamilton confirme que Leclerc l'affronte plus durement",
+      "title_en": "Hamilton confirms Leclerc races him harder",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-claims-charles-leclerc-races-him-harder-than-f1-rivals/10871849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKyPKY/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-11-05T18:53:45+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a confirmé que Charles Leclerc l'affronte plus durement que les pilotes des équipes rivales. Le duel a éclaté lors du premier tour du Grand Prix du Mexique, où les deux pilotes ont quitté la piste.",
+      "summary_en": "Lewis Hamilton confirmed that Charles Leclerc races him harder than rivals. The clash erupted on lap one of the Mexican Grand Prix, where both drivers left the track."
+    },
+    {
+      "id": "c572113e5c01",
+      "title": "Colton Herta backs Mexico IndyCar race following Pato O’Ward promoter callout",
+      "title_fr": "Herta soutient la course de Mexico en IndyCar",
+      "title_en": "Herta backs Mexico IndyCar race",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/indycar/news/colton-herta-backs-mexico-indycar-race-following-pato-oward-promoter-callout/10871847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPjKd0/s6/colton-herta-cadillac-racing.jpg",
+      "published_at": "2026-11-05T18:44:14+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Arrow McLaren, Colton Herta, a exprimé son soutien à une future course de l'IndyCar au Mexique, après un appel du promoteur de Pato O'Ward.",
+      "summary_en": "Arrow McLaren driver Colton Herta has voiced support for a future IndyCar race in Mexico, following a promoter callout by Pato O'Ward."
+    },
     {
       "id": "e34a97b146e4",
       "title": "How rough diamond Camara feels ahead of 'very surprising' F1 home debut",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le moteur d'Andrea Kimi Antonelli a perdu de l'huile vers la fin du Grand Prix de Mexico, menant Mercedes à déclarer un problème de cuvette fissurée. Le pilote a fini la course malgré l'incident.",
       "summary_en": "Mercedes said Andrea Kimi Antonelli's engine was losing oil at the race's end due to a cracked sump. The driver finished the Mexican Grand Prix despite the issue."
-    },
-    {
-      "id": "8db400f1c8a4",
-      "title": "Ocon dropped - is it the end of his F1 career?",
-      "title_fr": "Ocon exclu de Haas, fin de carrière ?",
-      "title_en": "Ocon dropped by Haas, career in doubt",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3822/live/1d503240-d859-11f1-94f3-cf7d1e52bb8c.jpg",
-      "published_at": "2026-11-04T15:00:26+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon est exclu de Haas, mettant fin à son contrat pour la saison. Le pilote français se retrouve sans équipe, laissant l'incertitude quant à son avenir en Formule 1.",
-      "summary_en": "Esteban Ocon has been dropped by Haas, ending his contract for the season. The French driver is now team-less, leaving his future in Formula 1 uncertain."
-    },
-    {
-      "id": "577e3c62cc69",
-      "title": "Charles Leclerc welcomes first child with wife Alexandra as couple shares baby news",
-      "title_fr": "Leclerc et Alexandra annoncent l'arrivée de leur bébé",
-      "title_en": "Leclerc and Alexandra announce the birth of their child",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-welcomes-first-child-with-wife-alexandra-as-couple-shares-baby-news/10871509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YN7vlbP6/s6/motorsport-com-graphics-53.jpg",
-      "published_at": "2026-11-04T14:35:38+00:00",
-      "race_id": "monaco",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc et sa femme Alexandra ont accueilli leur premier enfant, nommé Bianca, après leur mariage à Monaco en février 2026. Le couple a partagé une photo des pieds du bébé sur les réseaux sociaux.",
-      "summary_en": "Charles Leclerc and his wife Alexandra welcomed their first child, Bianca, after their private wedding in Monaco in February 2026. The couple posted a photo of the newborn’s feet on social media."
-    },
-    {
-      "id": "c7af844031f2",
-      "title": "Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty",
-      "title_fr": "Liverpool FC en lice pour acheter des parts Cadillac F1",
-      "title_en": "Liverpool FC owners eye Cadillac F1 shares",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/liverpool-fc-owners-emerge-as-potential-buyers-of-cadillac-f1-shares-amid-twg-uncertainty/10871500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8bZL6/s6/sergio-perez-cadillac.jpg",
-      "published_at": "2026-11-04T14:34:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Les propriétaires de Liverpool FC, Fenway Sports Group, sont parmi les intéressés par l'achat d'actions majoritaires de Cadillac F1, alors que TWG Global cherche à se désengager.",
-      "summary_en": "Liverpool FC owners Fenway Sports Group are among those looking to buy majority shares of Cadillac F1 as TWG Global seeks to divest."
-    },
-    {
-      "id": "728a263dacc4",
-      "title": "Max Verstappen needs \"a conversation\" with Red Bull engine after \"random\" engine braking issues",
-      "title_fr": "Max Verstappen needs \"a conversation\" with Red Bull engine after \"random\" engine braking issues",
-      "title_en": "Max Verstappen needs \"a conversation\" with Red Bull engine after \"random\" engine braking issues",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-a-conversation-with-red-bull-engine-after-random-engine-braking-issues/10871469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDxnl0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-04T13:46:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ahead of the race weekend at the Autodromo Hermanos Rodriguez – at 2,286 metres above sea level, by far the highest circuit on the Formula 1 calendar – the discussion in the paddock largely revolved a",
-      "summary_en": "Ahead of the race weekend at the Autodromo Hermanos Rodriguez – at 2,286 metres above sea level, by far the highest circuit on the Formula 1 calendar – the discussion in the paddock largely revolved a"
-    },
-    {
-      "id": "151a48d3b17d",
-      "title": "Why Daniel Ricciardo is staying away from the F1 paddock",
-      "title_fr": "Why Daniel Ricciardo is staying away from the F1 paddock",
-      "title_en": "Why Daniel Ricciardo is staying away from the F1 paddock",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-daniel-ricciardo-is-staying-away-from-the-f1-paddock/10871443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6VRzqDn6/s6/a-fan-holds-up-a-sign-of-danie.jpg",
-      "published_at": "2026-11-04T12:27:54+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo has delved into the reasons why he has been staying away from the Formula 1 paddock.<br />Ricciardo’s F1 career ended after the 2024 Singapore Grand Prix, when the RB driver was repla",
-      "summary_en": "Daniel Ricciardo has delved into the reasons why he has been staying away from the Formula 1 paddock.<br />Ricciardo’s F1 career ended after the 2024 Singapore Grand Prix, when the RB driver was repla"
-    },
-    {
-      "id": "a2f8221ba325",
-      "title": "Ocon's F1 story is one of success, even if this is the end",
-      "title_fr": "Ocon's F1 story is one of success, even if this is the end",
-      "title_en": "Ocon's F1 story is one of success, even if this is the end",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ocons-f1-story-is-one-of-success/10871449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2eZxl1aY/s6/esteban-ocon-haas-f1-team-2.jpg",
-      "published_at": "2026-11-04T10:38:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand",
-      "summary_en": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand"
-    },
-    {
-      "id": "532a1af328f2",
-      "title": "Esteban Ocon's F1 career may be ending, but his story is one of success",
-      "title_fr": "Esteban Ocon's F1 career may be ending, but his story is one of success",
-      "title_en": "Esteban Ocon's F1 career may be ending, but his story is one of success",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/esteban-ocons-f1-career-may-be-ending-but-his-story-is-one-of-success/10871440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YpbAVRX0/s6/esteban-ocon-haas-f1-team.jpg",
-      "published_at": "2026-11-04T10:34:54+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand",
-      "summary_en": "There's really not much reason to think otherwise: it looks increasingly likely that this could be the end of Esteban Ocon's active Formula 1 career. A career blessed with plenty of highlights, a hand"
-    },
-    {
-      "id": "431067021766",
-      "title": "Mercedes takes blame for Russell's poor Mexico GP: \"We let him down\"",
-      "title_fr": "Mercedes blâme Russell pour sa mauvaise performance au Mexique",
-      "title_en": "Mercedes blames Russell for poor Mexico GP performance",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mercedes-takes-blame-for-russells-poor-mexico-gp/10871439/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/25dLDgN0/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-11-04T10:00:55+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a admis avoir laissé George Russell tomber lors du Grand Prix du Mexique, où une défaillance technique a brisé sa course dès les premières secondes.",
-      "summary_en": "Toto Wolff admitted he let George Russell down at the Mexico Grand Prix, where a technical glitch cut his race short within seconds."
-    },
-    {
-      "id": "5437710a73a6",
-      "title": "“We let him down” – Mercedes takes blame for George Russell’s Mexico GP heartbreak",
-      "title_fr": "Mercedes blâme Toto Wolff pour la déception de Russell au Mexique",
-      "title_en": "Mercedes blames Toto Wolff for Russell's heartbreak in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/we-let-him-down-mercedes-takes-blame-for-george-russells-mexico-gp-heartbreak/10871299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7zXPJ6/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-11-04T09:57:11+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a admis avoir laissé George Russell tomber lors du Grand Prix du Mexique, où une panne technique a brisé sa tentative de victoire.",
-      "summary_en": "Toto Wolff admitted he let George Russell down at the Mexican Grand Prix, where a technical glitch halted his bid for victory."
-    },
-    {
-      "id": "282901c443e5",
-      "title": "Herta to contest FP1 for Cadillac in Brazil to obtain final superlicence point",
-      "title_fr": "Herta cherche son point superlicence en FP1 de Brésil",
-      "title_en": "Herta seeks final superlicence point in Brazil FP1",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/herta-to-contest-fp1-in-brazil/10871438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6n7ABxe0/s6/colton-herta-cadillac-f1-team-2.jpg",
-      "published_at": "2026-11-04T09:42:43+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le pilote de test Cadillac Colton Herta participera à la séance de FP1 du Grand Prix du Brésil pour obtenir le point manquant de superlicence requis par la FIA.",
-      "summary_en": "Cadillac test driver Colton Herta will take part in Brazil's FP1 to secure the final FIA superlicence point he needs to race in Formula 1."
     }
   ]
 }
