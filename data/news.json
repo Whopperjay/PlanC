@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-04T23:42:26Z",
+  "last_updated": "2026-11-05T02:44:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5aa381681399",
+      "title": "Max Verstappen brings “some samba” to Sao Paulo with Brazil-themed F1 helmet",
+      "title_fr": "Verstappen arbore un casque brésilien à São Paulo",
+      "title_en": "Verstappen sports Brazil-themed helmet at Sao Paulo",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/63Qa3WJ2/s6/motorsport-com-graphics-72.jpg",
+      "published_at": "2026-11-05T00:20:58+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Red Bull, Max Verstappen, a dévoilé un casque aux couleurs du drapeau brésilien pour le Grand Prix de São Paulo, ajoutant une touche de samba à la course.",
+      "summary_en": "Red Bull driver Max Verstappen unveiled a Brazil‑flag‑colored helmet for the Sao Paulo Grand Prix, adding a touch of samba to the race."
+    },
+    {
+      "id": "41f2c4797613",
+      "title": "Kimi Antonelli to honour Ayrton Senna with special helmet at Brazilian GP",
+      "title_fr": "Antonelli honore Senna avec casque spécial à Interlagos",
+      "title_en": "Antonelli honors Senna with special helmet at Interlagos",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-to-honour-ayrton-senna-with-special-helmet-at-brazilian-gp/10871582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXblgn2/s6/motorsport-com-graphics-55.jpg",
+      "published_at": "2026-11-05T00:19:06+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, champion du monde 2026, portera un casque spécial à Interlagos pour rendre hommage à Ayrton Senna, marquant 35 ans depuis la victoire de Senna à son pays natal.",
+      "summary_en": "Kimi Antonelli, the 2026 world champion, will wear a special helmet at Interlagos to pay tribute to Ayrton Senna, marking 35 years since Senna's first home win."
+    },
+    {
+      "id": "e2717766a949",
+      "title": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
+      "title_fr": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
+      "title_en": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-shares-unforgettable-ayrton-senna-moment-after-f1-title-win/10871578/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7L9KjY/s6/motorsport-com-graphics-54.jpg",
+      "published_at": "2026-11-04T23:59:18+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "2026 Formula 1 champion Kimi Antonelli went from winning his maiden title to sitting in his hero's car in the space of two days.<br />The Mercedes driver, who clinched the title at the Mexican Grand P",
+      "summary_en": "2026 Formula 1 champion Kimi Antonelli went from winning his maiden title to sitting in his hero's car in the space of two days.<br />The Mercedes driver, who clinched the title at the Mexican Grand P"
+    },
+    {
+      "id": "9ceb303f2948",
+      "title": "Mercedes to race in new suits at Brazil GP in nod to legendary era",
+      "title_fr": "Mercedes change de tenue pour le GP du Brésil",
+      "title_en": "Mercedes swaps to new suits for Brazil GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-to-race-in-new-suits-at-brazil-gp-in-nod-to-legendary-era/10871575/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAzVW0/s6/motorsport-com-graphics-71.jpg",
+      "published_at": "2026-11-04T23:55:57+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Mercedes adopte des combinaisons violettes pour le Grand Prix du Brésil, en hommage à l'ère légendaire. Le pilote Kimi Antonelli et George Russell portent les nouvelles tenues à Sao Paulo.",
+      "summary_en": "Mercedes will wear purple race suits at the Brazil GP, paying tribute to a legendary era. Kimi Antonelli and George Russell will don the new outfits in Sao Paulo."
+    },
+    {
+      "id": "12b5644e0822",
+      "title": "Laurent Mekies: Charles Leclerc’s penalty “felt a bit light”",
+      "title_fr": "Leclerc se plaint de la pénalité jugée trop légère",
+      "title_en": "Leclerc Criticises Penalty as Too Light",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/laurent-mekies-charles-leclercs-penalty-felt-a-bit-light/10871284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7BlpE2/s6/motorsport-com-graphics-70-2.jpg",
+      "published_at": "2026-11-04T23:44:09+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Laurent Mekies estime que la pénalité infligée à Charles Leclerc après l'accident du 4e virage à Mexico est trop légère. Le pilote Ferrari exprime son mécontentement face à la décision des commissaires.",
+      "summary_en": "Laurent Mekies says the penalty given to Charles Leclerc after the 4th corner clash in Mexico was too light. The Ferrari driver voices his frustration with the stewards' decision."
+    },
     {
       "id": "3b533049823c",
       "title": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le père de Kimi Antonelli, ancien pilote et directeur d'équipe, explique comment il a compris que son fils deviendrait champion après l'accident australien. Le champion italien a remporté son premier titre à Mexico, devenant le plus jeune de l'histoire.",
       "summary_en": "Kimi Antonelli's father, former driver and team principal, says he realised his son would become champion after the Australia crash. The Italian won his first title in Mexico, becoming Formula 1’s youngest ever champion."
-    },
-    {
-      "id": "0ede31ce3c47",
-      "title": "The reason behind Honda’s power unit lasting five laps in Mexico GP",
-      "title_fr": "Honda : l’unité de puissance échoue après cinq tours à Mexico",
-      "title_en": "Honda power unit fails after five laps in Mexico",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-reason-behind-hondas-power-unit-lasting-five-laps-in-mexico/10871286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6x7Lb1rY/s6/lance-stroll-aston-martin-raci-2.jpg",
-      "published_at": "2026-11-03T13:45:54+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Honda a vu son unité de puissance échouer après seulement cinq tours à l’Autodromo Hermanos Rodríguez, mettant en lumière les défis techniques du circuit mexicain.",
-      "summary_en": "Honda’s power unit failed after just five laps at the Autodromo Hermanos Rodríguez, highlighting the technical challenges of the Mexican circuit."
-    },
-    {
-      "id": "ea5df2cb2ad2",
-      "title": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
-      "title_fr": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
-      "title_en": "Why Honda’s power unit lasted barely five laps in F1 Mexico GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-hondas-power-unit-lasted-barely-five-laps-in-f1-mexico-gp/10871279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNjML2/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-03T13:34:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s week",
-      "summary_en": "In its Mexico Grand Prix preview, Honda’s Shintaro Orihara had described Autodromo Hermanos Rodriguez as “a very challenging track for the power unit”, but he perhaps didn’t expect Aston Martin’s week"
-    },
-    {
-      "id": "cb3a5e255724",
-      "title": "Red Bull's key strategy call behind Verstappen's Mexico win",
-      "title_fr": "Stratégie Red Bull clé du 6e titre de Verstappen au Mexique",
-      "title_en": "Red Bull’s key strategy call behind Verstappen’s Mexico win",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/red-bulls-key-strategy-call-behind-verstappens-mexico-win-10871260/10871260/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNZvb2/s6/max-verstappen-red-bull-racing-3.jpg",
-      "published_at": "2026-11-03T12:04:20+00:00",
-      "race_id": "netherlands",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a joué un rôle décisif grâce à une décision stratégique qui a permis à Max Verstappen de remporter son sixième titre en Mexique.",
-      "summary_en": "Red Bull’s key strategy call was decisive in Max Verstappen’s sixth win in Mexico."
-    },
-    {
-      "id": "7392a34a2528",
-      "title": "How Red Bull's crucial strategy call helped Max Verstappen win the \"Maxico Grand Prix\"",
-      "title_fr": "Stratégie Red Bull clé de la victoire de Verstappen au Mexique",
-      "title_en": "Red Bull strategy key to Verstappen's Mexico win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bulls-key-strategy-call-behind-max-verstappens-mexico-win-explained/10871128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6DGg8WKY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-03T11:59:50+00:00",
-      "race_id": "netherlands",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "La décision stratégique de Red Bull a permis à Max Verstappen de remporter son sixième titre au Grand Prix du Mexique, malgré la journée de Kimi Antonelli et les tensions chez Ferrari.",
-      "summary_en": "Red Bull's strategic call enabled Max Verstappen to secure his sixth win at the Mexican Grand Prix, even as Kimi Antonelli had a standout day and Ferrari faced internal tensions."
-    },
-    {
-      "id": "f6fcf62c53f2",
-      "title": "Spotlight: Verstappen puzzled by engine braking: ‘It just decides by itself what to do’ | Formula 1",
-      "title_fr": "Verstappen perplexe par la décélération moteur au Mexique",
-      "title_en": "Verstappen baffled by engine braking at Mexican GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/03/spotlight-verstappen-puzzled-by-engine-braking-it-just-decides-by-itself-what-to-do/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-00-46-39-6-SI202611010503.jpg",
-      "published_at": "2026-11-03T11:21:51+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Red Bull, Max Verstappen, a exprimé son étonnement face à une décélération moteur apparemment aléatoire lors du Grand Prix du Mexique. Il affirme que le système décide de lui‑même ce qu’il doit faire.",
-      "summary_en": "Red Bull driver Max Verstappen was baffled by what he described as random engine braking during the Mexican Grand Prix, saying the system seemed to decide on its own what to do."
     }
   ]
 }
