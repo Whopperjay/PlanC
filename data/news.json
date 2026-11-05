@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-05T20:54:52Z",
+  "last_updated": "2026-11-05T23:56:54Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f87c8f794167",
+      "title": "Mercedes held its breath over Kimi Antonelli’s title-winning move on Charles Leclerc",
+      "title_fr": "Antonelli s'achève champion en dépassant Leclerc à l'entrée du premier virage",
+      "title_en": "Antonelli clinches title with late-braking move on Leclerc",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg",
+      "published_at": "2026-11-05T23:28:33+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté le championnat de F1 en finissant neuvième, mais a choisi de gagner en dépassant Charles Leclerc à l'entrée du premier virage du Grand Prix du Mexique. Certains membres de Mercedes ont exprimé leurs doutes.",
+      "summary_en": "Kimi Antonelli won the F1 championship by finishing ninth, yet chose to clinch it by overtaking Charles Leclerc at the first corner of the Mexican Grand Prix. Some Mercedes members voiced doubts."
+    },
+    {
+      "id": "9b061badb4a6",
+      "title": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
+      "title_fr": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
+      "title_en": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6n7bwpO0/s6/motorsport-com-graphics-62.jpg",
+      "published_at": "2026-11-05T23:14:24+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges.<br />The Mercedes driver started 2026 as the favourite for the title, but aft",
+      "summary_en": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges.<br />The Mercedes driver started 2026 as the favourite for the title, but aft"
+    },
+    {
+      "id": "a1706c8fb89f",
+      "title": "Kimi Antonelli admits George Russell still holds one massive advantage over him",
+      "title_fr": "Antonelli confie que Russell a un avantage massif",
+      "title_en": "Antonelli admits Russell still holds massive advantage",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-admits-george-russell-still-holds-one-massive-advantage-over-him/10871794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0o5AwpDY/s6/motorsport-com-graphics-78-2.jpg",
+      "published_at": "2026-11-05T21:53:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a reconnu que George Russell possède encore un avantage considérable sur lui, malgré la saison difficile de Russell en 2026. Le pilote italien souligne la supériorité du Britannique.",
+      "summary_en": "Kimi Antonelli admitted that George Russell still holds a massive advantage over him, despite Russell's tough 2026 campaign. The Italian driver highlights the Briton's superiority."
+    },
+    {
+      "id": "af577f1c6fab",
+      "title": "Kimi Antonelli opens up on \"very emotional\" visit to Ayrton Senna's family estate",
+      "title_fr": "Kimi Antonelli opens up on \"very emotional\" visit to Ayrton Senna's family estate",
+      "title_en": "Kimi Antonelli opens up on \"very emotional\" visit to Ayrton Senna's family estate",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-very-emotional-visit-to-ayrton-sennas-family-estate/10871927/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBDzn6/s6/motorsport-com-graphics-61.jpg",
+      "published_at": "2026-11-05T21:43:40+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "2026 Formula 1 champion Kimi Antonelli has opened up about his recent visit to Ayrton Senna's family home ahead of this weekend's Brazilian Grand Prix.<br />The Mercedes driver went to Fazenda Dois La",
+      "summary_en": "2026 Formula 1 champion Kimi Antonelli has opened up about his recent visit to Ayrton Senna's family home ahead of this weekend's Brazilian Grand Prix.<br />The Mercedes driver went to Fazenda Dois La"
+    },
+    {
+      "id": "c3ab56cf719e",
+      "title": "Kimi Antonelli reacts to Max Verstappen and Lewis Hamilton on Mexico podium: “I will frame it”",
+      "title_fr": "Antonelli réagit à la victoire de Verstappen et Hamilton sur le podium mexicain",
+      "title_en": "Antonelli reacts to Verstappen and Hamilton's podium win in Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-verstappen-and-hamilton-hoisting-him-on-the-mexico-podium-i-will-frame-it/10871768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxw53Y/s6/motorsport-com-graphics-77-2.jpg",
+      "published_at": "2026-11-05T21:07:17+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli partage le podium avec Max Verstappen et Lewis Hamilton à Mexico, déclarant qu'il va le mettre en cadre. Le pilote de 20 ans a salué l'intensité de la victoire.",
+      "summary_en": "Kimi Antonelli shared the podium with Max Verstappen and Lewis Hamilton in Mexico, saying he will frame it. The 20‑year‑old praised the intensity of the win."
+    },
     {
       "id": "47ec174e3ce1",
       "title": "Max Verstappen responds to Toto Wolff’s claim that era of \"ruthless\" F1 drivers is over",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Riding in the slipstream is supposed to be the ultimate offensive weapon for a Formula 1 driver. But according to Lando Norris, the current technical regulations have turned the draft into something a",
       "summary_en": "Riding in the slipstream is supposed to be the ultimate offensive weapon for a Formula 1 driver. But according to Lando Norris, the current technical regulations have turned the draft into something a"
-    },
-    {
-      "id": "b8b121441b24",
-      "title": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
-      "title_fr": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
-      "title_en": "Liam Lawson’s remarkable form is giving Red Bull a headache for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/liam-lawsons-remarkable-form-is-giving-red-bull-a-headache-for-2027/10871541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg",
-      "published_at": "2026-11-04T18:24:31+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "So far in 2026, Liam Lawson has been a clear standout performer in Formula 1’s midfield.<br />Lawson has scored 83 points so far, nearly twice as many as second-best Pierre Gasly’s 42 – and that’s not",
-      "summary_en": "So far in 2026, Liam Lawson has been a clear standout performer in Formula 1’s midfield.<br />Lawson has scored 83 points so far, nearly twice as many as second-best Pierre Gasly’s 42 – and that’s not"
-    },
-    {
-      "id": "2885505df861",
-      "title": "How the F1 world reacted to Charles Leclerc becoming a father",
-      "title_fr": "Leclerc devient papa, la F1 s'unit pour féliciter",
-      "title_en": "Leclerc becomes a father, F1 celebrates",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-the-f1-world-reacted-to-charles-leclerc-becoming-a-father/10871549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0rVP81d0/s6/motorsport-com-graphics-68.jpg",
-      "published_at": "2026-11-04T17:01:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc et sa femme Alexandra ont annoncé la naissance de leur fille Bianca. La communauté de la Formule 1 a réagi en envoyant de nombreux messages de félicitations.",
-      "summary_en": "Charles Leclerc and his wife Alexandra announced the birth of their daughter Bianca. The Formula 1 community reacted with a flood of congratulatory messages."
-    },
-    {
-      "id": "7313cbdac66a",
-      "title": "Toto Wolff reveals how Kimi Antonelli came to his office with title pressure “on his chest”",
-      "title_fr": "Wolff explique l'arrivée d'Antonelli à son bureau sous pression",
-      "title_en": "Wolff explains Antonelli's arrival at his office under title pressure",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-kimi-antonelli-came-to-his-office-with-title-pressure-on-his-chest/10871272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0arElvX2/s6/motorsport-com-graphics-67-2.jpg",
-      "published_at": "2026-11-04T16:33:53+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a expliqué comment le jeune pilote Kimi Antonelli est arrivé à son bureau, la pression du titre déjà sur ses épaules. Les félicitations précoces ont presque fait dérailler le 20-ans.",
-      "summary_en": "Toto Wolff explained how the 20-year-old Kimi Antonelli arrived at his office, already feeling the weight of the title. Early praise almost derailed the young driver."
-    },
-    {
-      "id": "36b0dff38c6e",
-      "title": "Five things to look out for at F1 Brazil GP",
-      "title_fr": "Cinq points à surveiller lors du Grand Prix du Brésil",
-      "title_en": "Five things to watch at the Brazil GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1-brazil-gp/10871528/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoJMzP0/s6/charles-leclerc-ferrari-lando-.jpg",
-      "published_at": "2026-11-04T16:27:53+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix du Brésil, quatrième à la fin de la saison 2026, se profile comme le dernier défi après la victoire de Kimi Antonelli au Mexique. Voici cinq éléments clés à surveiller.",
-      "summary_en": "The Brazil GP, the fourth-to-last round of the 2026 season, follows Kimi Antonelli's Mexican win. Here are five key aspects to watch."
-    },
-    {
-      "id": "ecca37932a28",
-      "title": "Cracked sump almost put Antonelli out of Mexican Grand Prix | Formula 1",
-      "title_fr": "Cuvette fissurée menace Antonelli à Mexico",
-      "title_en": "Cracked sump threatens Antonelli at Mexico",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/04/cracked-sump-almost-put-antonelli-out-of-mexican-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-11-00-44-6-M647703_F1_Grand_Prix_of_Mexico.jpg",
-      "published_at": "2026-11-04T16:09:58+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le moteur d'Andrea Kimi Antonelli a perdu de l'huile vers la fin du Grand Prix de Mexico, menant Mercedes à déclarer un problème de cuvette fissurée. Le pilote a fini la course malgré l'incident.",
-      "summary_en": "Mercedes said Andrea Kimi Antonelli's engine was losing oil at the race's end due to a cracked sump. The driver finished the Mexican Grand Prix despite the issue."
     }
   ]
 }
