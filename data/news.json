@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T23:56:54Z",
+  "last_updated": "2026-11-06T02:58:39Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -172,6 +172,25 @@
       "is_breaking": false,
       "summary_fr": "Oscar Piastri a accepté la pénalité infligée pour sa collision avec Arvid Lindblad à l'ouverture du circuit de Mexico, soulignant que les directives de conduite de la F1 sont difficiles à appliquer dans les virages complexes.",
       "summary_en": "Oscar Piastri accepted the penalty for colliding with Arvid Lindblad at the opening of the Mexico City circuit, noting that Formula 1 driving guidelines are hard to enforce on complex corners."
+    },
+    {
+      "id": "ecfc56fad870",
+      "title": "Russell to have 'deep, deep look in mirror'",
+      "title_fr": "Russell se penche sur sa saison après la victoire d'Antonelli",
+      "title_en": "Russell reflects on his season after Antonelli's championship win",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr3wvvpxnx1wo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d596/live/aca0e540-d951-11f1-b2ee-87d22b17ac74.jpg",
+      "published_at": "2026-11-05T19:55:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell, pilote Mercedes, a déclaré qu'il allait se pencher en profondeur sur sa saison après que son coéquipier Kimi Antonelli ait remporté le championnat. Il évoque les points forts et les axes d'amélioration.",
+      "summary_en": "Mercedes driver George Russell said he would take a deep look at his season after teammate Kimi Antonelli won the championship. He highlighted strengths and areas for improvement."
     },
     {
       "id": "a74ca6bd7bf0",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Laurent Mekies estime que la pénalité infligée à Charles Leclerc après l'accident du 4e virage à Mexico est trop légère. Le pilote Ferrari exprime son mécontentement face à la décision des commissaires.",
       "summary_en": "Laurent Mekies says the penalty given to Charles Leclerc after the 4th corner clash in Mexico was too light. The Ferrari driver voices his frustration with the stewards' decision."
-    },
-    {
-      "id": "3b533049823c",
-      "title": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
-      "title_fr": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
-      "title_en": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-blasts-f1-top-speed-limiters-we-should-easily-go-quicker-than-a-motorbike/10871276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNZqZ2/s6/motorsport-com-graphics-69-2.jpg",
-      "published_at": "2026-11-04T23:24:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Riding in the slipstream is supposed to be the ultimate offensive weapon for a Formula 1 driver. But according to Lando Norris, the current technical regulations have turned the draft into something a",
-      "summary_en": "Riding in the slipstream is supposed to be the ultimate offensive weapon for a Formula 1 driver. But according to Lando Norris, the current technical regulations have turned the draft into something a"
     }
   ]
 }
