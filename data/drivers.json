@@ -5,7 +5,7 @@
     "url": "https://api.jolpi.ca/ergast/f1/current/drivers/",
     "limit": "100",
     "offset": "0",
-    "total": "35",
+    "total": "36",
     "DriverTable": {
       "season": "2026",
       "Drivers": [
@@ -94,6 +94,14 @@
           "permanentNumber": "97"
         },
         {
+          "driverId": "rafael_camara",
+          "givenName": "Rafael",
+          "familyName": "Camara",
+          "dateOfBirth": "1900-01-01",
+          "nationality": "Unknown",
+          "permanentNumber": "96"
+        },
+        {
           "driverId": "colapinto",
           "permanentNumber": "43",
           "code": "COL",
@@ -109,7 +117,7 @@
           "familyName": "Crawford",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "96"
+          "permanentNumber": "95"
         },
         {
           "driverId": "leonardo_fornaroli",
@@ -117,7 +125,7 @@
           "familyName": "Fornaroli",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "95"
+          "permanentNumber": "94"
         },
         {
           "driverId": "gasly",
@@ -155,7 +163,7 @@
           "familyName": "Herta",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "94"
+          "permanentNumber": "93"
         },
         {
           "driverId": "ryo_hirakawa",
@@ -183,7 +191,7 @@
           "familyName": "Iwasa",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "93"
+          "permanentNumber": "92"
         },
         {
           "driverId": "lawson",
@@ -221,7 +229,7 @@
           "familyName": "Mini",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "92"
+          "permanentNumber": "91"
         },
         {
           "driverId": "norris",
@@ -289,7 +297,7 @@
           "familyName": "Slater",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "91"
+          "permanentNumber": "90"
         },
         {
           "driverId": "stroll",
@@ -307,7 +315,7 @@
           "familyName": "Tsolov",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "90"
+          "permanentNumber": "89"
         },
         {
           "driverId": "tsunoda",
@@ -335,7 +343,7 @@
           "familyName": "Vesti",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "89"
+          "permanentNumber": "88"
         }
       ]
     }
