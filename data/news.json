@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-06T06:00:11Z",
+  "last_updated": "2026-11-06T09:01:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a30905ac357e",
+      "title": "Hamilton admits he’s “really struggled” with F1’s tyres since 2022 size change | Formula 1",
+      "title_fr": "Hamilton avoue des difficultés avec les pneus depuis le changement de taille en 2022",
+      "title_en": "Hamilton admits tyre struggles since 2022 size change",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/hamilton-admits-hes-really-struggled-with-f1s-tyres-since-2022-size-change/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2022/03/racefansdotnet-21-03-10-07-34-54-1.jpg",
+      "published_at": "2026-11-06T07:16:40+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré qu’il a eu du mal à exploiter les pneus de Formule 1 depuis le passage à la taille de jante de 13 pouces en 2022.",
+      "summary_en": "Lewis Hamilton said he has struggled to get the most out of Formula 1's tyres since the series switched to 13‑inch wheels in 2022."
+    },
     {
       "id": "f87c8f794167",
       "title": "Mercedes held its breath over Kimi Antonelli’s title-winning move on Charles Leclerc",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes adopte des combinaisons violettes pour le Grand Prix du Brésil, en hommage à l'ère légendaire. Le pilote Kimi Antonelli et George Russell portent les nouvelles tenues à Sao Paulo.",
       "summary_en": "Mercedes will wear purple race suits at the Brazil GP, paying tribute to a legendary era. Kimi Antonelli and George Russell will don the new outfits in Sao Paulo."
-    },
-    {
-      "id": "12b5644e0822",
-      "title": "Laurent Mekies: Charles Leclerc’s penalty “felt a bit light”",
-      "title_fr": "Leclerc se plaint de la pénalité jugée trop légère",
-      "title_en": "Leclerc Criticises Penalty as Too Light",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/laurent-mekies-charles-leclercs-penalty-felt-a-bit-light/10871284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0R7BlpE2/s6/motorsport-com-graphics-70-2.jpg",
-      "published_at": "2026-11-04T23:44:09+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies estime que la pénalité infligée à Charles Leclerc après l'accident du 4e virage à Mexico est trop légère. Le pilote Ferrari exprime son mécontentement face à la décision des commissaires.",
-      "summary_en": "Laurent Mekies says the penalty given to Charles Leclerc after the 4th corner clash in Mexico was too light. The Ferrari driver voices his frustration with the stewards' decision."
     }
   ]
 }
