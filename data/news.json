@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-06T12:04:18Z",
+  "last_updated": "2026-11-06T15:06:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "260d0e9c214a",
+      "title": "Spotlight: Who won F1 and F2 in the same year? Colapinto knows his history | Brief",
+      "title_fr": "Colapinto, pilote F2, connaît son parcours F1",
+      "title_en": "Colapinto, F2 driver, knows his F1 history",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/spotlight-who-won-f1-and-f2-in-the-same-year-colapinto-knows-his-history/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2018/04/racefansdotnet-20160211-180428-5.jpg",
+      "published_at": "2026-11-06T13:31:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Colapinto, pilote de Formule 2, évoque son parcours en Formule 1 et en Formule 2, rappelant les moments clés de sa carrière. Il souligne son ambition de remporter les deux championnats la même année.",
+      "summary_en": "Colapinto, a Formula 2 driver, reflects on his Formula 1 and Formula 2 career, recalling key moments. He highlights his ambition to win both championships in the same year."
+    },
+    {
+      "id": "a2a8f5f665d0",
+      "title": "Nico Rosberg compares Ferrari’s clashes to his own Mercedes F1 rivalry: “The instructions are not clear enough”",
+      "title_fr": "Rosberg compare les affrontements Ferrari à son rival Mercedes",
+      "title_en": "Rosberg compares Ferrari clashes to his own Mercedes rivalry",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/27No9xX0/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-06T13:30:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Nico Rosberg évoque la rivalité qu’il a eue avec Lewis Hamilton chez Mercedes pour illustrer les tensions entre Hamilton et Leclerc chez Ferrari. Il souligne que les instructions de l’équipe restent floues.",
+      "summary_en": "Nico Rosberg draws a parallel between his intense rivalry with Lewis Hamilton at Mercedes and the current friction between Hamilton and Leclerc at Ferrari, noting that team instructions remain unclear."
+    },
+    {
+      "id": "282fda4aeeee",
+      "title": "Carlos Sainz recalls Charles Leclerc battles: “We always managed to find a solution”",
+      "title_fr": "Sainz rappelle les duels de Leclerc",
+      "title_en": "Sainz recalls Leclerc battles",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YXR3MwN0/s6/charles-leclerc-scuderia-ferra.jpg",
+      "published_at": "2026-11-06T12:42:02+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz se souvient des duels intenses avec Charles Leclerc à Ferrari et commente la confrontation de Leclerc avec Lewis Hamilton lors du Grand Prix du Mexique.",
+      "summary_en": "Carlos Sainz recalls his fierce duels with Charles Leclerc at Ferrari and comments on Leclerc's fight with Lewis Hamilton at the Mexican Grand Prix."
+    },
+    {
+      "id": "c91d04bec3fa",
+      "title": "Lawson unsure if Racing Bulls will keep him: “I don’t know what else they want me to do” | Formula 1",
+      "title_fr": "Lawson incertain de son avenir chez Racing Bulls",
+      "title_en": "Lawson unsure of future with Racing Bulls",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/lawson-unsure-if-racing-bulls-will-keep-him-i-dont-know-what-else-they-want-me-to-do/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-31-23-57-28-1-SI202610310712.jpg",
+      "published_at": "2026-11-06T12:10:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Liam Lawson exprime son incertitude quant à la décision tardive de Racing Bulls sur la composition de son équipe, craignant qu'il ne reste aucune alternative pour 2027.",
+      "summary_en": "Liam Lawson says Racing Bulls' late decision on its driver line-up could leave him with no alternatives in 2027."
+    },
     {
       "id": "6f807ba544a3",
       "title": "Herta’s latest practice run does not mean he’ll replace me in 2027 – Bottas | Formula 1",
@@ -20,6 +96,25 @@
       "is_breaking": false,
       "summary_fr": "Valtteri Bottas confirme qu'il restera chez Cadillac à long terme, malgré la dernière séance d'essai de Colton Herta au Brésil. Le pilote ne prévoit pas de changement de poste en 2027.",
       "summary_en": "Valtteri Bottas confirms he will stay with Cadillac long-term, despite Colton Herta's recent practice session in Brazil. The driver does not foresee a seat change in 2027."
+    },
+    {
+      "id": "988123f4c087",
+      "title": "Permane to stay as Racing Bulls team principal",
+      "title_fr": "Permane conserve son poste chez Racing Bulls",
+      "title_en": "Permane stays as Racing Bulls team principal",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw80zzd8jk1go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/964e/live/556c3370-d9d2-11f1-9e5a-c30c5e3d8c85.jpg",
+      "published_at": "2026-11-06T11:53:34+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Red Bull prolonge le contrat d'Alan Permane en tant que directeur de l'équipe satellite jusqu'à fin 2031.",
+      "summary_en": "Red Bull extends Alan Permane's contract as team principal of its satellite team until the end of 2031."
     },
     {
       "id": "d331c064442c",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a plaisanté sur la différence entre lui et le champion Kimi Antonelli, déclarant que la clé réside dans la langue italienne. Le pilote Red Bull a fait rire les fans après le Grand Prix du Mexique.",
       "summary_en": "Max Verstappen joked about the key difference with champion Kimi Antonelli, saying it lies in speaking Italian. The Red Bull driver made fans laugh after the Mexican Grand Prix."
-    },
-    {
-      "id": "819e675f2606",
-      "title": "Kimi Antonelli almost had to retire in Mexico due to an oil leak",
-      "title_fr": "Antonelli presque retiré à Mexico à cause d'une fuite d'huile",
-      "title_en": "Antonelli almost retired in Mexico due to an oil leak",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-almost-had-to-retire-in-mexico-due-to-an-oil-leak/10871667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YE9EpwDY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-05T10:22:12+00:00",
-      "race_id": "italy",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a presque dû abandonner la course de Mexico à cause d'une fuite d'huile, mais a fini par remporter son premier championnat du monde, célébré aux côtés de Hamilton et Verstappen",
-      "summary_en": "Kimi Antonelli almost had to retire from the Mexican Grand Prix because of an oil leak, yet he secured his first world championship, celebrated alongside Lewis Hamilton and Max Verstappen"
-    },
-    {
-      "id": "369f8dfd88df",
-      "title": "How Mercedes can win the F1 world constructors’ title in Brazil",
-      "title_fr": "Mercedes vise le titre des constructeurs en Brésil",
-      "title_en": "Mercedes aims for constructors' title in Brazil",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/how-mercedes-can-win-the-f1-world-constructors-title-in-brazil/10871661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2GdKZbEY/s6/george-russell-mercedes-andrea-2.jpg",
-      "published_at": "2026-11-05T09:52:25+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Après la victoire de Kimi Antonelli au Grand Prix du Mexique, Mercedes est à neuf points du titre des constructeurs. La marque domine le championnat avec 12 victoires sur 19 courses, laissant Ferrari loin derrière.",
-      "summary_en": "After Kimi Antonelli won the Mexican Grand Prix, Mercedes is nine points from the constructors' title. The team has won 12 of 19 races this season, leaving Ferrari far behind."
-    },
-    {
-      "id": "fe905d41ff87",
-      "title": "How Mercedes can win F1’s world constructors’ title at Brazil GP",
-      "title_fr": "Mercedes vise le neuvième titre constructeurs au Brésil",
-      "title_en": "Mercedes eye ninth constructors' title at Brazil GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-mercedes-can-win-f1s-world-constructors-title-at-brazil-gp/10871496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvxjwY/s6/george-russell-mercedes-andrea.jpg",
-      "published_at": "2026-11-05T09:49:47+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Mercedes peut décrocher son neuvième titre constructeurs au Brésil, menant le championnat avec un écart de 126 points sur Ferrari, après la victoire de Kimi Antonelli au Mexique.",
-      "summary_en": "Mercedes can secure its ninth constructors' title in Brazil, leading the championship by 126 points over Ferrari after Kimi Antonelli's win in Mexico."
-    },
-    {
-      "id": "44ad29bb3314",
-      "title": "Alan Jones, 1946-2026 | F1 history",
-      "title_fr": "Alan Jones, 1946-2026, décède à 80 ans",
-      "title_en": "Alan Jones, 1946-2026, dies at 80",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/05/alan-jones-1946-2026/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-alan-jones.jpg",
-      "published_at": "2026-11-05T09:48:25+00:00",
-      "race_id": null,
-      "category": "breaking",
-      "tags": [
-        "breaking"
-      ],
-      "importance": 92,
-      "is_breaking": true,
-      "summary_fr": "Alan Jones, champion du monde 1980 pour Williams, est décédé à l'âge de 80 ans. Le pilote australien laisse un héritage durable dans la Formule 1.",
-      "summary_en": "Alan Jones, the 1980 World Champion for Williams, died at 80. The Australian driver leaves a lasting legacy in Formula 1."
-    },
-    {
-      "id": "46da99a915f3",
-      "title": "1980 F1 world champion Alan Jones dies aged 80",
-      "title_fr": "Alan Jones, champion du monde 1980, décède à 80 ans",
-      "title_en": "Alan Jones, 1980 F1 World Champion, Dies at 80",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6zQ9lGlY/s6/alan-jones-williams-fw07b-ford-2.jpg",
-      "published_at": "2026-11-05T08:58:53+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Alan Jones, champion du monde de Formule 1 en 1980, est décédé à 80 ans après une courte maladie. Sa décision de quitter la compétition en 1981 a ouvert la voie à Keke Rosberg.",
-      "summary_en": "Alan Jones, the 1980 Formula 1 World Champion, died at 80 after a brief illness. His decision to retire at the end of 1981 paved the way for Keke Rosberg to win the 1982 title."
     }
   ]
 }
