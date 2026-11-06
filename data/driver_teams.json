@@ -290,6 +290,19 @@
   },
   {
     "driver": {
+      "driverId": "rafael_camara",
+      "givenName": "Rafael",
+      "familyName": "Camara"
+    },
+    "constructor": {
+      "constructorId": "haas",
+      "url": "https://en.wikipedia.org/wiki/Haas_F1_Team",
+      "name": "Haas F1 Team",
+      "nationality": "American"
+    }
+  },
+  {
+    "driver": {
       "driverId": "ryo_hirakawa",
       "permanentNumber": "50",
       "code": "HIR",
