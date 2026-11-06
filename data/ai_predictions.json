@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:00:03Z",
+  "generated_at": "2026-11-06T13:00:25Z",
   "model": "claude",
   "predictions": [
     {
@@ -142,15 +142,15 @@
       "race_id": "brazilian",
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
-      "p1": "hamilton",
-      "p2": "max_verstappen",
-      "p3": "antonelli",
-      "reasoning_fr": "Hamilton a dominé la dernière qualification à Mexico (P1) et a terminé 2e en course, montrant un excellent rythme sur un tour. Verstappen, champion en titre, a remporté la course mexicaine et était 4e en qualification, indiquant une forte vitesse brute adaptée à Interlagos. Antonelli, champion du monde, a terminé 5e en qualification mais a montré une progression constante et bénéficie d'une Merced",
-      "reasoning_en": "Hamilton topped the Mexico qualifying and finished second in the race, proving he can extract a perfect lap on evolving grip. Verstappen, the reigning champion, won the Mexican race and was fourth in qualifying, indicating raw speed that suits Interlagos. Antonelli, the world champion, was fifth in qualifying but has shown steady improvement and drives a strong Mercedes, keeping him in contention ",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 380 points, soit 119 de plus que Verstappen, et Mercedes cumule 630 points à deux pilotes. Il avait aussi signé P2 en qualif à Interlagos en 2025. Russell dispose de la même voiture. Verstappen reste la principale menace, mais l'absence d'actualités et de données d'essais limite la certitude de ce pronostic.",
+      "reasoning_en": "Antonelli dominates the championship with 380 points, 119 clear of Verstappen, and Mercedes has 630 points across its two drivers. He also qualified P2 at Interlagos in 2025. Russell has the same car. Verstappen remains the main threat, but the lack of recent news and practice data limits the certainty of this prediction.",
       "confidence": "medium",
-      "key_factor_fr": "Performance récente en qualification et forme du champion",
+      "key_factor_fr": "Avantage Mercedes au championnat et référence d'Antonelli à Interlagos",
       "news_used_ids": [],
-      "generated_at": "2026-11-06T02:59:29Z"
+      "generated_at": "2026-11-06T13:00:25Z"
     },
     {
       "event_id": "brazilian_grand_prix",
@@ -159,13 +159,13 @@
       "session_date": "2026-11-08T17:00:00+00:00",
       "p1": "antonelli",
       "p2": "max_verstappen",
-      "p3": "hamilton",
-      "reasoning_fr": "Antonelli partira en bonne position, bénéficie du moral du champion et d’une stratégie Mercedes solide. Verstappen, malgré un départ en quatrième, possède la meilleure gestion des pneus et la vitesse pure de Red Bull, lui permettant de grimper rapidement. Hamilton, pole position, garde l’avantage initial mais doit gérer la dégradation Ferrari, le plaçant en lutte pour le podium. Ces trois combinen",
-      "reasoning_en": "Antonelli will start well, boosted by champion confidence and a strong Mercedes race‑strategy. Verstappen, despite starting fourth, has Red Bull’s superior tyre management and outright speed to move up quickly. Hamilton, on pole, holds the early lead but must cope with Ferrari tyre wear, keeping him in podium contention. These three blend recent form, strategy and reliability to occupy the top thr",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 119 points d'avance sur Verstappen, et Mercedes place deux pilotes dans le top 4. Il avait aussi fini 2e à Interlagos en 2025. Verstappen, vainqueur ici en 2023 et 2024 et 3e en 2025 après un départ des stands, excelle sur ce circuit. Russell, vainqueur en 2022, complète le podium malgré la menace Ferrari et le risque de pluie.",
+      "reasoning_en": "Antonelli leads the championship by 119 points over Verstappen, and Mercedes has two drivers in the top four. He also finished second at Interlagos in 2025. Verstappen won here in 2023 and 2024 and took third in 2025 from a pit-lane start, so he excels at this track. Russell, the 2022 winner, completes the podium despite the Ferrari threat and rain risk.",
       "confidence": "medium",
-      "key_factor_fr": "Forme + stratégie + fiabilité",
+      "key_factor_fr": "Domination de Mercedes au championnat et maîtrise d'Interlagos par Verstappen",
       "news_used_ids": [],
-      "generated_at": "2026-11-06T02:59:17Z"
+      "generated_at": "2026-11-06T13:00:14Z"
     }
   ]
 }
