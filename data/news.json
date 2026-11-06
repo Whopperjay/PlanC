@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-06T15:06:19Z",
+  "last_updated": "2026-11-06T18:08:18Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "26c5a0a5fb9c",
+      "title": "\"Unacceptable downshifts\" – Max Verstappen explains what's behind a recurring F1 radio complaint",
+      "title_fr": "Verstappen explique les 'downshifts' inacceptables",
+      "title_en": "Verstappen explains unacceptable downshifts",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/unacceptable-downshifts-max-verstappen-explains-whats-behind-a-recurring-f1-radio-complaint/10872196/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/27NoB1K0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-06T17:26:25+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a terminé troisième lors de la séance d'entraînement d'ouverture à São Paulo, à 0,2 seconde de Lando Norris. Il a expliqué que les 'downshifts' inacceptables de son RB22 ont affecté son ressenti.",
+      "summary_en": "Max Verstappen finished third in the opening practice at São Paulo, just 0.2 s behind Lando Norris. He said the RB22’s unacceptable downshifts hurt his feel."
+    },
+    {
+      "id": "93bf8e85ece7",
+      "title": "F1 champion Kimi Antonelli plans special purchase after historic title win",
+      "title_fr": "Antonelli prévoit l'achat d'une voiture de prestige après son titre",
+      "title_en": "Antonelli plans special car purchase after historic title win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-champion-kimi-antonelli-plans-special-purchase-after-historic-title-win/10872187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedlWm2/s6/motorsport-com-graphics-65.jpg",
+      "published_at": "2026-11-06T17:06:13+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Kimi Antonelli, 20 ans, a annoncé qu'il s'offrirait une nouvelle voiture après avoir remporté le championnat du monde de Formule 1, devenant le plus jeune champion de l'histoire.",
+      "summary_en": "The 20‑year‑old champion Kimi Antonelli announced he will buy a new car after winning the 2026 Formula 1 World Championship, becoming the youngest champion in history."
+    },
+    {
+      "id": "579d7c6f1cb1",
+      "title": "“Unfiltered” Lewis Hamilton is ready to exploit Charles Leclerc’s “silly” move, says Martin Brundle",
+      "title_fr": "Hamilton prêt à profiter de la faute de Leclerc à Mexico",
+      "title_en": "Hamilton ready to exploit Leclerc's mistake at Mexico",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/unfiltered-hamilton-is-ready-to-exploit-leclercs-silly-move-says-martin-brundle/10872156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6lmAw710/s6/motorsport-com-graphics-80-2.jpg",
+      "published_at": "2026-11-06T17:02:37+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Leclerc a gardé son pied sur l'herbe au virage 4 de Mexico, déclenchant une pénalité de cinq secondes. Le commentateur Martin Brundle estime que Hamilton pourra en tirer parti.",
+      "summary_en": "Leclerc kept his foot on the grass at turn 4 in Mexico, earning a five‑second penalty. Commentator Martin Brundle says Hamilton can exploit the mistake."
+    },
+    {
+      "id": "3cb4e8994bdc",
+      "title": "Herta qualifies for F1 superlicence as Bottas remains bullish on 2027 seat",
+      "title_fr": "Herta obtient la superlicence, Bottas reste confiant pour 2027",
+      "title_en": "Herta secures F1 superlicence, Bottas stays bullish on 2027 seat",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/herta-qualifies-for-f1-superlicence-as-bottas-remains-bullish-on-2027-seat/10872179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
+      "published_at": "2026-11-06T16:57:16+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta a enfin obtenu le point de superlicence manquant après sa séance de test à Interlagos, tandis que Valtteri Bottas garde confiance en son avenir avec l’équipe.",
+      "summary_en": "Colton Herta finally earned the last superlicence point after his Interlagos test, while Valtteri Bottas remains confident about his future with the team."
+    },
+    {
+      "id": "1cbf345fc3ad",
+      "title": "Colton Herta qualifies for F1 superlicence as Valtteri Bottas remains bullish on 2027 seat",
+      "title_fr": "Herta obtient son superlicence, Bottas reste confiant pour 2027",
+      "title_en": "Herta secures F1 superlicence, Bottas stays bullish on 2027 seat",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/colton-herta-qualifies-for-f1-superlicence-as-valtteri-bottas-remains-bullish-on-2027-seat/10872177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
+      "published_at": "2026-11-06T16:53:04+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta a enfin obtenu le point de superlicence manquant pour piloter en Formule 1 après avoir franchi le seuil de 100 km à Interlagos. Valtteri Bottas, quant à lui, reste confiant sur son avenir avec l’équipe.",
+      "summary_en": "Colton Herta finally earned the last superlicence point needed to race in Formula 1 after hitting the 100‑km threshold at Interlagos. Valtteri Bottas remains confident about his future with the team."
+    },
+    {
+      "id": "1f477dc6a250",
+      "title": "F1 Brazilian GP: Lando Norris tops FP1 as Colton Herta clinches superlicence",
+      "title_fr": "Norris domine la FP1 du GP brésilien, Herta obtient la superlicence",
+      "title_en": "Norris tops FP1 at Brazilian GP, Herta secures superlicence",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-fp1-report-10872160/10872160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVj1g8Y/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-11-06T16:43:42+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a été le plus rapide en première séance de formation du Grand Prix brésilien, devançant Kimi Antonelli, Max Verstappen et Lewis Hamilton. Colton Herta a obtenu sa superlicence.",
+      "summary_en": "Lando Norris was fastest in Free Practice 1 at the Brazilian Grand Prix, beating Kimi Antonelli, Max Verstappen and Lewis Hamilton. Colton Herta secured his superlicence."
+    },
+    {
+      "id": "b029206f023b",
+      "title": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
+      "title_fr": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
+      "title_en": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-norris-fastest-in-opening-practice-from-new-champion-antonelli/10872162/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/24QGzjNY/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-11-06T16:41:55+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris was fastest in first practice at Formula 1’s Brazilian Grand Prix, leading Kimi Antonelli, Max Verstappen and Lewis Hamilton.<br />This classification meant the four top teams were again ",
+      "summary_en": "Lando Norris was fastest in first practice at Formula 1’s Brazilian Grand Prix, leading Kimi Antonelli, Max Verstappen and Lewis Hamilton.<br />This classification meant the four top teams were again "
+    },
+    {
+      "id": "0cdc913cd669",
+      "title": "Oscar Piastri pays tribute to Australian F1 legend Alan Jones following his death",
+      "title_fr": "Piastri rend hommage à Alan Jones, champion australien décédé",
+      "title_en": "Piastri pays tribute to late Australian champion Alan Jones",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-pays-tribute-to-australian-f1-legend-alan-jones-following-his-death/10872171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YXyKlej6/s6/motorsport-com-graphics-64.jpg",
+      "published_at": "2026-11-06T16:40:11+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri, pilote de McLaren, a rendu hommage à Alan Jones, décédé à 80 ans, après une courte maladie. Le champion australien, vainqueur de 12 Grands Prix, laisse un vide dans la F1.",
+      "summary_en": "McLaren's Oscar Piastri paid tribute to the late Australian champion Alan Jones, who died at 80 after a brief illness. Jones won 12 Grands Prix and left a lasting legacy in F1."
+    },
+    {
+      "id": "a445f39e8564",
+      "title": "George Russell breaks silence on Mexican GP media absence after Mercedes fine",
+      "title_fr": "Russell explique son absence médiatique après le Grand Prix du Mexique",
+      "title_en": "Russell explains his media absence after Mexican GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-on-mexican-gp-media-absence-after-mercedes-fine/10872146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVP8km0/s6/motorsport-com-graphics-63.jpg",
+      "published_at": "2026-11-06T15:53:26+00:00",
+      "race_id": "mexico",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "George Russell a justifié son absence aux briefings après le Grand Prix du Mexique, après avoir félicité Kimi Antonelli. Mercedes a été sanctionnée d’une amende de 5 000 € par la FIA.",
+      "summary_en": "George Russell explained his media absence after the Mexican Grand Prix, after congratulating teammate Kimi Antonelli. Mercedes was fined €5,000 by the FIA."
+    },
+    {
+      "id": "3febddead953",
+      "title": "\"Exhausted\" George Russell set for Brazilian F1 grid penalty",
+      "title_fr": "Russell pénalisé de cinq places pour le Grand Prix du Brésil",
+      "title_en": "Russell faces five-place grid penalty for Brazil",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/exhausted-george-russell-set-for-brazil-f1-grid-penalty/10872130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YWKAlB1Y/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-11-06T15:23:50+00:00",
+      "race_id": "bahrain",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "George Russell perd cinq places sur la grille du Grand Prix du Brésil après avoir utilisé son sixième moteur à combustion interne de la saison. La Mercedes a déjà subi plusieurs problèmes de puissance cette année.",
+      "summary_en": "George Russell will lose five grid positions at the Brazilian Grand Prix after using his sixth internal combustion engine of the season. Mercedes has already faced several power unit issues this year."
+    },
     {
       "id": "260d0e9c214a",
       "title": "Spotlight: Who won F1 and F2 in the same year? Colapinto knows his history | Brief",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a confirmé que Charles Leclerc l'affronte plus durement que les pilotes des équipes rivales. Le duel a éclaté lors du premier tour du Grand Prix du Mexique, où les deux pilotes ont quitté la piste.",
       "summary_en": "Lewis Hamilton confirmed that Charles Leclerc races him harder than rivals. The clash erupted on lap one of the Mexican Grand Prix, where both drivers left the track."
-    },
-    {
-      "id": "c572113e5c01",
-      "title": "Colton Herta backs Mexico IndyCar race following Pato O’Ward promoter callout",
-      "title_fr": "Herta soutient la course de Mexico en IndyCar",
-      "title_en": "Herta backs Mexico IndyCar race",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/indycar/news/colton-herta-backs-mexico-indycar-race-following-pato-oward-promoter-callout/10871847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPjKd0/s6/colton-herta-cadillac-racing.jpg",
-      "published_at": "2026-11-05T18:44:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Arrow McLaren, Colton Herta, a exprimé son soutien à une future course de l'IndyCar au Mexique, après un appel du promoteur de Pato O'Ward.",
-      "summary_en": "Arrow McLaren driver Colton Herta has voiced support for a future IndyCar race in Mexico, following a promoter callout by Pato O'Ward."
-    },
-    {
-      "id": "e34a97b146e4",
-      "title": "How rough diamond Camara feels ahead of 'very surprising' F1 home debut",
-      "title_fr": "Camara fait ses débuts en F1 sur son sol natal",
-      "title_en": "Camara makes his F1 debut on home soil",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/how-rough-diamond-camara-feels-ahead-of-very-surprising-f1-home-debut/10871811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YE9EpZ1Y/s6/rafael-camara-haas-f1-team-2.jpg",
-      "published_at": "2026-11-05T17:37:33+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafa Camara, junior Ferrari, débute en Formule 1 sur son sol natal sans montrer de nervosité, alors qu'il prépare son passage chez Haas pour la saison prochaine.",
-      "summary_en": "Rafa Camara, Ferrari junior, makes his Formula 1 debut on home soil without showing nerves, while preparing to join Haas for next season."
-    },
-    {
-      "id": "488c44da6884",
-      "title": "How raw talent Rafa Camara feels ahead of 'very surprising' F1 home debut in Brazil",
-      "title_fr": "Camara fait son debut F1 à Brésil sans trembler",
-      "title_en": "Camara makes his F1 debut in Brazil",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-raw-diamond-rafa-camara-feels-ahead-of-very-surprising-f1-home-debut-in-brazil/10871809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0o5AwmlY/s6/rafael-camara-haas-f1-team.jpg",
-      "published_at": "2026-11-05T17:27:37+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafa Camara, pilote junior Ferrari, débute en F1 à Brésil sans montrer de nervosité, malgré la pression d'un debut à domicile. Il remplace Esteban Ocon chez Haas pour la saison prochaine.",
-      "summary_en": "Rafa Camara, Ferrari junior, makes his F1 debut in Brazil without showing nerves, despite the pressure of a home debut. He replaces Esteban Ocon at Haas for next season."
-    },
-    {
-      "id": "cc949e186b79",
-      "title": "Ferrari confirms Charles Leclerc's Brazilian GP schedule after birth of first child",
-      "title_fr": "Leclerc absent du media day du Brésil après la naissance de sa fille",
-      "title_en": "Leclerc misses Brazilian GP media day after daughter’s birth",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-confirms-charles-leclercs-brazilian-gp-schedule-after-birth-of-first-child/10871798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zlpw6/s6/motorsport-com-graphics-56.jpg",
-      "published_at": "2026-11-05T17:12:25+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc ne participera pas au media day du jeudi à São Paulo, car il vient d’accueillir sa fille Bianca. Ferrari a confirmé que le pilote monégasque sera absent de la journée médiatique.",
-      "summary_en": "Charles Leclerc will miss Thursday’s media day in São Paulo after welcoming his daughter Bianca. Ferrari confirmed the Monégasque driver will be absent from the media session."
-    },
-    {
-      "id": "6157e9754a7c",
-      "title": "Aston Martin knew before Mexico GP it would not finish, Honda brings new countermeasures",
-      "title_fr": "Aston Martin prévoyait l'échec au Mexique, Honda lance des contre-mesures",
-      "title_en": "Aston Martin Expected Failure in Mexico, Honda Introduces Countermeasures",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/aston-martin-knew-before-mexico-gp-it-would-not-finish-honda-brings-new-countermeasures/10871784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0kZXBxV6/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-05T16:50:49+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Avant le Grand Prix du Mexique, Aston Martin savait qu'ils ne termineraient pas la course. Honda a alors introduit de nouvelles contre-mesures pour limiter le retard du turbo.",
-      "summary_en": "Before the Mexico Grand Prix, Aston Martin knew they would not finish. Honda introduced new countermeasures to curb turbo lag."
-    },
-    {
-      "id": "0c0a990da3b4",
-      "title": "How to follow Sao Paulo Grand Prix on the BBC",
-      "title_fr": "BBC couvre le Grand Prix de São Paulo",
-      "title_en": "BBC covers the Sao Paulo Grand Prix",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw0k0ylj6lj3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5221/live/85a75910-d654-11f1-bfaa-ade3b5994a33.jpg",
-      "published_at": "2026-11-05T15:03:34+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La BBC propose une couverture complète du Grand Prix de São Paulo, du 6 au 8 novembre, avec des commentaires en direct, des analyses d'experts et des repérages sur les circuits.",
-      "summary_en": "BBC will provide comprehensive coverage of the Sao Paulo Grand Prix from 6-8 November, featuring live commentary, expert analysis, and on‑site reports from the circuit."
-    },
-    {
-      "id": "7ce26e7e0fd4",
-      "title": "Toto Wolff on the moment Lewis Hamilton’s exit decided Antonelli’s future",
-      "title_fr": "Toto Wolff : la sortie de Hamilton a scellé le futur d'Antonelli",
-      "title_en": "Toto Wolff: Hamilton's exit sealed Antonelli's future",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimis-in-the-car-toto-wolff-on-the-moment-lewis-hamiltons-exit-decided-antonellis-future/10871605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNZaA2/s6/motorsport-com-graphics-74-2.jpg",
-      "published_at": "2026-11-05T13:42:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff explique que le départ inattendu de Lewis Hamilton de Mercedes a accéléré la décision de faire entrer Kimi Antonelli dans l'equipe. Le pilote italien a ainsi obtenu son poste après la victoire du championnat en Mexique.",
-      "summary_en": "Toto Wolff said Lewis Hamilton's sudden exit from Mercedes hastened the decision to bring Kimi Antonelli into the team. The Italian driver secured his seat after winning the championship in Mexico."
-    },
-    {
-      "id": "5bc60629c7a0",
-      "title": "How young can a Formula 1 world champion actually be?",
-      "title_fr": "Antonelli devient champion F1 à 20 ans, record historique",
-      "title_en": "Antonelli becomes F1 champion at 20, breaking record",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-young-can-a-formula-1-world-champion-actually-be/10871702/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6b8ZXDE2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-05T13:20:02+00:00",
-      "race_id": "italy",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le championnat de Formule 1 en 2026 à 20 ans et 68 jours, dépassant de plus de trois ans le record de Sebastian Vettel. Il reste le plus jeune champion, mais d'autres pilotes pourraient le surpasser.",
-      "summary_en": "Kimi Antonelli won the 2026 Formula 1 championship at 20 years and 68 days, breaking Sebastian Vettel's record by over three years. He remains the youngest champion, though future drivers could overtake him."
-    },
-    {
-      "id": "5346bb760b39",
-      "title": "Social Media: Williams show off 40-year-old Jacarepagua Brazilian GP trophy | Brief",
-      "title_fr": "Williams exhibe son trophée du Grand Prix du Brésil 1986",
-      "title_en": "Williams shows off 1986 Brazilian GP trophy",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/05/social-media-williams-show-off-their-1986-brazilian-grand-prix-trophy/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-05-11-03-25-1-williams_1986-1.jpg",
-      "published_at": "2026-11-05T11:20:01+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Williams a dévoilé son trophée du Grand Prix du Brésil 1986, rappelant la victoire de Jacarepagua. Le tableau est partagé sur les réseaux sociaux.",
-      "summary_en": "Williams showcased its 1986 Brazilian GP trophy, commemorating Jacarepagua's win. The image was shared on social media."
-    },
-    {
-      "id": "80889a22421f",
-      "title": "Max Verstappen jokes about key difference with Kimi Antonelli at 20: “He speaks Italian!”",
-      "title_fr": "Verstappen se moque d'Antonelli : « Il parle italien ! »",
-      "title_en": "Verstappen jokes about Antonelli: 'He speaks Italian!'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-key-difference-with-kimi-antonelli-at-20-he-speaks-italian/10871670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0qgKrQQY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-05T11:00:03+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a plaisanté sur la différence entre lui et le champion Kimi Antonelli, déclarant que la clé réside dans la langue italienne. Le pilote Red Bull a fait rire les fans après le Grand Prix du Mexique.",
-      "summary_en": "Max Verstappen joked about the key difference with champion Kimi Antonelli, saying it lies in speaking Italian. The Red Bull driver made fans laugh after the Mexican Grand Prix."
     }
   ]
 }
