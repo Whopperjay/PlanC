@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T13:00:22Z",
-  "model": "claude",
+  "generated_at": "2026-11-06T02:59:30Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -142,15 +142,15 @@
       "race_id": "brazilian",
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 380 points, soit 119 d'avance sur Verstappen, ce qui fait de Mercedes la référence probable. Russell, quatrième à 250 points, dispose de la même voiture et reste le rival le plus direct. Verstappen peut s'immiscer devant. Interlagos, tour court, resserre les écarts et la météo peut tout bouleverser. Aucune donnée d'essais n'est disponible.",
-      "reasoning_en": "Antonelli leads the championship with 380 points, 119 clear of Verstappen, making Mercedes the likely benchmark. Russell, fourth on 250 points, has the same car and remains the most direct rival. Verstappen could still break through. Interlagos's short lap tightens the gaps, and weather could upset everything. No practice data is available, so this forecast relies on standings.",
+      "p1": "hamilton",
+      "p2": "max_verstappen",
+      "p3": "antonelli",
+      "reasoning_fr": "Hamilton a dominé la dernière qualification à Mexico (P1) et a terminé 2e en course, montrant un excellent rythme sur un tour. Verstappen, champion en titre, a remporté la course mexicaine et était 4e en qualification, indiquant une forte vitesse brute adaptée à Interlagos. Antonelli, champion du monde, a terminé 5e en qualification mais a montré une progression constante et bénéficie d'une Merced",
+      "reasoning_en": "Hamilton topped the Mexico qualifying and finished second in the race, proving he can extract a perfect lap on evolving grip. Verstappen, the reigning champion, won the Mexican race and was fourth in qualifying, indicating raw speed that suits Interlagos. Antonelli, the world champion, was fifth in qualifying but has shown steady improvement and drives a strong Mercedes, keeping him in contention ",
       "confidence": "medium",
-      "key_factor_fr": "Avantage Mercedes au championnat, mais tour court et météo incertaine",
+      "key_factor_fr": "Performance récente en qualification et forme du champion",
       "news_used_ids": [],
-      "generated_at": "2026-11-05T13:00:22Z"
+      "generated_at": "2026-11-06T02:59:29Z"
     },
     {
       "event_id": "brazilian_grand_prix",
@@ -159,13 +159,13 @@
       "session_date": "2026-11-08T17:00:00+00:00",
       "p1": "antonelli",
       "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 119 points d'avance et une Mercedes visiblement la référence. Il avait déjà fini deuxième à Interlagos en 2025. Verstappen, deuxième au général et vainqueur ici en 2024, reste redoutable, surtout si la pluie s'invite. Russell complète le podium grâce à la Mercedes, devant les Ferrari très proches au classement. Aucune actualité récente ne vient modifier cette h",
-      "reasoning_en": "Antonelli leads the championship by 119 points, with Mercedes apparently the benchmark car. He already finished second at Interlagos in 2025. Verstappen, second overall and the 2024 winner here, remains dangerous, especially if rain arrives. Russell completes the podium thanks to the Mercedes, ahead of the closely matched Ferraris. No recent news changes this order, though Interlagos often produce",
+      "p3": "hamilton",
+      "reasoning_fr": "Antonelli partira en bonne position, bénéficie du moral du champion et d’une stratégie Mercedes solide. Verstappen, malgré un départ en quatrième, possède la meilleure gestion des pneus et la vitesse pure de Red Bull, lui permettant de grimper rapidement. Hamilton, pole position, garde l’avantage initial mais doit gérer la dégradation Ferrari, le plaçant en lutte pour le podium. Ces trois combinen",
+      "reasoning_en": "Antonelli will start well, boosted by champion confidence and a strong Mercedes race‑strategy. Verstappen, despite starting fourth, has Red Bull’s superior tyre management and outright speed to move up quickly. Hamilton, on pole, holds the early lead but must cope with Ferrari tyre wear, keeping him in podium contention. These three blend recent form, strategy and reliability to occupy the top thr",
       "confidence": "medium",
-      "key_factor_fr": "Avance de Mercedes au championnat, météo d'Interlagos comme inconnue",
+      "key_factor_fr": "Forme + stratégie + fiabilité",
       "news_used_ids": [],
-      "generated_at": "2026-11-05T13:00:14Z"
+      "generated_at": "2026-11-06T02:59:17Z"
     }
   ]
 }
