@@ -1,7 +1,178 @@
 {
-  "last_updated": "2026-11-06T09:01:37Z",
+  "last_updated": "2026-11-06T12:04:18Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6f807ba544a3",
+      "title": "Herta’s latest practice run does not mean he’ll replace me in 2027 – Bottas | Formula 1",
+      "title_fr": "Bottas rassure : Herta ne le remplacera pas en 2027",
+      "title_en": "Bottas says Herta won't replace him in 2027",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/hertas-latest-practice-run-does-not-mean-hell-replace-me-in-2027-bottas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-20-49-22-1.jpg",
+      "published_at": "2026-11-06T11:55:17+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Valtteri Bottas confirme qu'il restera chez Cadillac à long terme, malgré la dernière séance d'essai de Colton Herta au Brésil. Le pilote ne prévoit pas de changement de poste en 2027.",
+      "summary_en": "Valtteri Bottas confirms he will stay with Cadillac long-term, despite Colton Herta's recent practice session in Brazil. The driver does not foresee a seat change in 2027."
+    },
+    {
+      "id": "d331c064442c",
+      "title": "Ferrari must not throw away another ‘easy one-two’ again – Hamilton | Formula 1",
+      "title_fr": "Hamilton exige plus d'une réunion pour Ferrari après la défaite mexicaine",
+      "title_en": "Hamilton demands more than one meeting for Ferrari after Mexican defeat",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/ferrari-must-not-throw-away-another-easy-one-two-again-hamilton/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-00-46-50-5-SI202611010509.jpg",
+      "published_at": "2026-11-06T11:29:17+00:00",
+      "race_id": "mexico",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré que Ferrari doit organiser plus d'une réunion pour surmonter les conséquences de leur défaite du Grand Prix du Mexique.",
+      "summary_en": "Lewis Hamilton said Ferrari needs more than one meeting to address the fallout from their Mexican Grand Prix defeat."
+    },
+    {
+      "id": "e1d1dbda3b11",
+      "title": "Ferrari set for crunch meeting as Hamilton and Leclerc tension reaches Brazil",
+      "title_fr": "Ferrari en réunion de crise à Interlagos, tension entre Hamilton et Leclerc",
+      "title_en": "Ferrari heads to crisis meeting at Interlagos as Hamilton-Leclerc tension rises",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ferrari-set-for-crunch-meeting-as-hamilton-and-leclerc-tension-reaches-brazil/10872030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "published_at": "2026-11-06T11:09:53+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Ferrari arrive à Interlagos pour une réunion de crise alors que la tension entre Hamilton et Leclerc atteint son apogée. L’équipe a enfin trouvé des réponses à ses problèmes techniques, confirmés par les derniers résultats.",
+      "summary_en": "Ferrari arrives at Interlagos for a crisis meeting as Hamilton-Leclerc tension peaks. The team has finally found answers to its technical issues, confirmed by recent results."
+    },
+    {
+      "id": "3561ce6a2011",
+      "title": "Ferrari set for crunch meeting as Lewis Hamilton and Charles Leclerc tension reaches Brazil",
+      "title_fr": "Ferrari se prépare à une réunion cruciale à Interlagos, tension Hamilton-Leclerc",
+      "title_en": "Ferrari heads to a crunch meeting at Interlagos amid Hamilton-Leclerc tension",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPA850/s6/frederic-vasseur-ferrari.jpg",
+      "published_at": "2026-11-06T11:05:33+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Ferrari arrive à Interlagos après une saison de recherche de compétitivité. La tension entre Lewis Hamilton et Charles Leclerc atteint le Brésil, suscitant une réunion cruciale.",
+      "summary_en": "Ferrari arrives at Interlagos after a season of chasing competitiveness. Tension between Lewis Hamilton and Charles Leclerc reaches Brazil, prompting a crucial meeting."
+    },
+    {
+      "id": "28fe16c2186c",
+      "title": "“I’ve never had a season where there’s been so many blows” – Russell | Formula 1",
+      "title_fr": "Russell dénonce un problème technique après le Mexique",
+      "title_en": "Russell blames technical glitch after Mexico",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/ive-never-had-a-season-where-theres-been-so-many-blows-russell/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-50-01-1-M649485_S_o_Paulo_Grand_Prix__Thursday.jpg",
+      "published_at": "2026-11-06T10:28:24+00:00",
+      "race_id": "mexico",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell a refusé de parler aux médias après le Grand Prix du Mexique, déplorant un problème technique qui l'a laissé extrêmement déçu.",
+      "summary_en": "George Russell refused to speak to the press after the Mexican Grand Prix, citing a technical issue that left him extremely disappointed."
+    },
+    {
+      "id": "c6f525783b04",
+      "title": "Kimi Antonelli: “My 2027 preparation starts now” after F1 title triumph",
+      "title_fr": "Antonelli prépare 2027 dès maintenant après son titre mondial",
+      "title_en": "Antonelli starts 2027 prep after F1 title triumph",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YpbAzjM0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-06T09:42:17+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, champion du monde, annonce qu’il commence dès maintenant les préparatifs pour 2027 après la victoire au Grand Prix du Mexique.",
+      "summary_en": "Kimi Antonelli, the world champion, says he is starting his 2027 preparations now after winning the Mexican Grand Prix."
+    },
+    {
+      "id": "85a28d6a0cfa",
+      "title": "Permane signs new Racing Bulls F1 deal",
+      "title_fr": "Permane signs new Racing Bulls F1 deal",
+      "title_en": "Permane signs new Racing Bulls F1 deal",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/permane-signs-new-racing-bulls-f1-deal/10871999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/24QebeqY/s6/alan-permane-racing-bulls-2.jpg",
+      "published_at": "2026-11-06T09:24:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br ",
+      "summary_en": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br "
+    },
+    {
+      "id": "fe7479414a70",
+      "title": "Alan Permane signs new Racing Bulls F1 deal",
+      "title_fr": "Alan Permane signs new Racing Bulls F1 deal",
+      "title_en": "Alan Permane signs new Racing Bulls F1 deal",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/alan-permane-signs-new-racing-bulls-f1-deal/10871996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YpbPZzW0/s6/allan-permane-racing-bulls.jpg",
+      "published_at": "2026-11-06T09:21:37+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br ",
+      "summary_en": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br "
+    },
+    {
+      "id": "9f44faa0416f",
+      "title": "Verstappen says his sudden rise to second in the championship is a “big surprise” | Formula 1",
+      "title_fr": "Verstappen : sa montée à la deuxième place, une surprise",
+      "title_en": "Verstappen: his sudden rise to second place, a surprise",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/verstappen-says-his-sudden-rise-to-second-in-the-championship-is-a-big-surprise/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-06-31-1-SI202611050359.jpg",
+      "published_at": "2026-11-06T09:10:17+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen est passé de sixième à deuxième en seulement trois manches, déclarant que cette progression est une grande surprise.",
+      "summary_en": "Max Verstappen has leapt from sixth to second in just three races, saying the jump is a big surprise."
+    },
     {
       "id": "a30905ac357e",
       "title": "Hamilton admits he’s “really struggled” with F1’s tyres since 2022 size change | Formula 1",
@@ -590,177 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Alan Jones, champion du monde de Formule 1 en 1980, est décédé à 80 ans après une courte maladie. Sa décision de quitter la compétition en 1981 a ouvert la voie à Keke Rosberg.",
       "summary_en": "Alan Jones, the 1980 Formula 1 World Champion, died at 80 after a brief illness. His decision to retire at the end of 1981 paved the way for Keke Rosberg to win the 1982 title."
-    },
-    {
-      "id": "ba49eced9e8d",
-      "title": "1980 F1 world champion Alan Jones dies aged 80",
-      "title_fr": "Alan Jones, champion du monde 1980, décède à 80 ans",
-      "title_en": "Alan Jones, 1980 F1 World Champion, Dies at 80",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YKEQqXw0/s6/1980-f1-drivers-champion-alan-.jpg",
-      "published_at": "2026-11-05T08:50:37+00:00",
-      "race_id": null,
-      "category": "breaking",
-      "tags": [
-        "breaking"
-      ],
-      "importance": 92,
-      "is_breaking": true,
-      "summary_fr": "Le champion du monde de Formule 1, Alan Jones, est décédé le 5 novembre à la Gold Coast, après une courte maladie. La famille a publié un communiqué de condoléances.",
-      "summary_en": "Former F1 world champion Alan Jones died on November 5 on the Gold Coast after a brief illness. His family released a statement expressing their sorrow."
-    },
-    {
-      "id": "889e99f5891d",
-      "title": "Audi swaps grey livery for “Piso Paulista” design in Brazil | Formula 1",
-      "title_fr": "Audi passe au 'Piso Paulista' pour le Brésil",
-      "title_en": "Audi swaps grey livery for 'Piso Paulista' in Brazil",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/05/audi-swaps-grey-livery-for-piso-paulista-design-in-brazil/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-05-08-43-15-1-A2621664_large.jpg",
-      "published_at": "2026-11-05T08:46:55+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Audi présentera ce week-end son nouveau look 'Piso Paulista' sur ses deux R26 pour le Grand Prix du Brésil. La marque change de livery grise pour un design brésilien.",
-      "summary_en": "Audi will debut a new 'Piso Paulista' livery on its two R26 cars for the Brazilian Grand Prix this weekend, replacing the usual grey scheme."
-    },
-    {
-      "id": "05fd45e4ba3e",
-      "title": "Alan Jones, 1980 Formula 1 world champion, dies aged 80 | Formula 1",
-      "title_fr": "Alan Jones, champion du monde de F1, décède à 80 ans",
-      "title_en": "Alan Jones, 1980 F1 World Champion, Dies at 80",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/05/alan-jones-1980-formula-1-world-champion-dies-aged-80/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2023/03/racefansdotnet-23-03-30-11-38-10-1.jpg",
-      "published_at": "2026-11-05T08:35:46+00:00",
-      "race_id": null,
-      "category": "breaking",
-      "tags": [
-        "breaking"
-      ],
-      "importance": 92,
-      "is_breaking": true,
-      "summary_fr": "Le champion du monde de Formule 1 Alan Jones est décédé à l'âge de 80 ans. Sa carrière, marquée par le titre de 1980, laisse un vide dans le sport.",
-      "summary_en": "Former Formula 1 world champion Alan Jones died at the age of 80. His 1980 title and racing career left a lasting legacy in the sport."
-    },
-    {
-      "id": "f7bd3441dbd9",
-      "title": "Former F1 champion Jones dies aged 80",
-      "title_fr": "Alan Jones, champion australien, décède à 80 ans",
-      "title_en": "Alan Jones, former F1 champion, dies at 80",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d61/live/b5d021f0-d8e6-11f1-8a29-751f921d505b.jpg",
-      "published_at": "2026-11-05T07:57:44+00:00",
-      "race_id": "australia",
-      "category": "breaking",
-      "tags": [
-        "breaking"
-      ],
-      "importance": 92,
-      "is_breaking": true,
-      "summary_fr": "Alan Jones, dernier champion australien et premier pilote Williams à remporter le titre mondial de Formule 1, est décédé à l'âge de 80 ans.",
-      "summary_en": "Alan Jones, the last Australian and first Williams driver to win the Formula 1 world title, has died at the age of 80."
-    },
-    {
-      "id": "5d08a9036a75",
-      "title": "A home debutant and another Mercedes title? Six Brazilian GP talking points | Formula 1",
-      "title_fr": "Mercedes vise un titre constructeurs à Brésil",
-      "title_en": "Mercedes eyes another constructors title at Brazil",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/05/a-home-debutant-and-another-mercedes-title-six-brazilian-gp-talking-points/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-09-14-03-22-2-2245863684.jpg",
-      "published_at": "2026-11-05T07:15:35+00:00",
-      "race_id": "brazil",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Mercedes peut reprendre le championnat des constructeurs pour la première fois en cinq ans lors du Grand Prix du Brésil. Voici les points clés à surveiller.",
-      "summary_en": "Mercedes could reclaim the constructors' championship for the first time in five years at the Brazilian GP. Here are the key talking points."
-    },
-    {
-      "id": "5aa381681399",
-      "title": "Max Verstappen brings “some samba” to Sao Paulo with Brazil-themed F1 helmet",
-      "title_fr": "Verstappen arbore un casque brésilien à São Paulo",
-      "title_en": "Verstappen sports Brazil-themed helmet at Sao Paulo",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/63Qa3WJ2/s6/motorsport-com-graphics-72.jpg",
-      "published_at": "2026-11-05T00:20:58+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Red Bull, Max Verstappen, a dévoilé un casque aux couleurs du drapeau brésilien pour le Grand Prix de São Paulo, ajoutant une touche de samba à la course.",
-      "summary_en": "Red Bull driver Max Verstappen unveiled a Brazil‑flag‑colored helmet for the Sao Paulo Grand Prix, adding a touch of samba to the race."
-    },
-    {
-      "id": "41f2c4797613",
-      "title": "Kimi Antonelli to honour Ayrton Senna with special helmet at Brazilian GP",
-      "title_fr": "Antonelli honore Senna avec casque spécial à Interlagos",
-      "title_en": "Antonelli honors Senna with special helmet at Interlagos",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-to-honour-ayrton-senna-with-special-helmet-at-brazilian-gp/10871582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXblgn2/s6/motorsport-com-graphics-55.jpg",
-      "published_at": "2026-11-05T00:19:06+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, champion du monde 2026, portera un casque spécial à Interlagos pour rendre hommage à Ayrton Senna, marquant 35 ans depuis la victoire de Senna à son pays natal.",
-      "summary_en": "Kimi Antonelli, the 2026 world champion, will wear a special helmet at Interlagos to pay tribute to Ayrton Senna, marking 35 years since Senna's first home win."
-    },
-    {
-      "id": "e2717766a949",
-      "title": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
-      "title_fr": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
-      "title_en": "Kimi Antonelli shares \"unforgettable\" Ayrton Senna moment after F1 title win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-shares-unforgettable-ayrton-senna-moment-after-f1-title-win/10871578/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6x7L9KjY/s6/motorsport-com-graphics-54.jpg",
-      "published_at": "2026-11-04T23:59:18+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "2026 Formula 1 champion Kimi Antonelli went from winning his maiden title to sitting in his hero's car in the space of two days.<br />The Mercedes driver, who clinched the title at the Mexican Grand P",
-      "summary_en": "2026 Formula 1 champion Kimi Antonelli went from winning his maiden title to sitting in his hero's car in the space of two days.<br />The Mercedes driver, who clinched the title at the Mexican Grand P"
-    },
-    {
-      "id": "9ceb303f2948",
-      "title": "Mercedes to race in new suits at Brazil GP in nod to legendary era",
-      "title_fr": "Mercedes change de tenue pour le GP du Brésil",
-      "title_en": "Mercedes swaps to new suits for Brazil GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-to-race-in-new-suits-at-brazil-gp-in-nod-to-legendary-era/10871575/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAzVW0/s6/motorsport-com-graphics-71.jpg",
-      "published_at": "2026-11-04T23:55:57+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Mercedes adopte des combinaisons violettes pour le Grand Prix du Brésil, en hommage à l'ère légendaire. Le pilote Kimi Antonelli et George Russell portent les nouvelles tenues à Sao Paulo.",
-      "summary_en": "Mercedes will wear purple race suits at the Brazil GP, paying tribute to a legendary era. Kimi Antonelli and George Russell will don the new outfits in Sao Paulo."
     }
   ]
 }
