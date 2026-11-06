@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-06T18:08:18Z",
+  "last_updated": "2026-11-06T21:10:16Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "04199f5dadc3",
+      "title": "Why Toto Wolff sees Ferrari clash as \"déjà vu\" – and why escalation may be necessary",
+      "title_fr": "Wolff qualifie le clash Ferrari de déjà vu",
+      "title_en": "Wolff calls Ferrari clash déjà vu, warns of possible escalation",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-toto-wolff-sees-ferrari-clash-as-deja-vu-and-why-escalation-may-be-necessary/10872244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKQ5nE6/s6/toto-wolff-mercedes.jpg",
+      "published_at": "2026-11-06T20:14:48+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a qualifié le clash de Ferrari lors du Grand Prix du Mexique de déjà vu et a averti que des mesures d'escalade pourraient être nécessaires.",
+      "summary_en": "Toto Wolff described the Ferrari clash at the Mexico Grand Prix as déjà vu and warned that escalation might be necessary."
+    },
+    {
+      "id": "1e8e62f2801f",
+      "title": "F1 Brazilian GP: Antonelli quickest in tricky FP2",
+      "title_fr": "Antonelli en tête du FP2 à Interlagos",
+      "title_en": "Antonelli tops FP2 at Interlagos",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-kimi-antonelli-fastest-in-tricky-fp2/10872299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/68VwEnB2/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-06T20:07:29+00:00",
+      "race_id": "italy",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le champion du monde Kimi Antonelli a été le plus rapide lors de la deuxième séance d'essais libres du Grand Prix du Brésil, dépassant Lando Norris et Max Verstappen.",
+      "summary_en": "World champion Kimi Antonelli set the fastest time in Friday's second practice at Interlagos, beating Lando Norris and Max Verstappen."
+    },
+    {
+      "id": "799c2fb68751",
+      "title": "F1 Brazilian GP: Kimi Antonelli fastest in tricky FP2",
+      "title_fr": "Antonelli domine la FP2 du Brésil",
+      "title_en": "Antonelli tops FP2 at Brazilian GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-fp2-report-10872288/10872288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YP74lX42/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-06T20:05:34+00:00",
+      "race_id": "italy",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, champion du monde, a été le plus rapide lors de la deuxième séance de formation du Grand Prix du Brésil, dépassant Lando Norris et Max Verstappen.",
+      "summary_en": "World champion Kimi Antonelli set the fastest time in Friday's second practice at the Brazilian GP, beating Lando Norris and Max Verstappen."
+    },
+    {
+      "id": "d0448c551d75",
+      "title": "Kimi Antonelli reveals special gifts from Ayrton Senna's family ahead of F1 Brazilian GP",
+      "title_fr": "Antonelli reçoit des cadeaux de la famille Senna avant le GP du Brésil",
+      "title_en": "Antonelli receives gifts from Senna family ahead of Brazilian GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YXyKloK6/s6/motorsport-com-graphics-66.jpg",
+      "published_at": "2026-11-06T19:00:02+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Mercedes Kimi Antonelli a reçu des cadeaux de la famille Ayrton Senna lors de sa visite à Fazenda Dois Lagos, et a été photographié dans la Lotus 98T de Senna.",
+      "summary_en": "Mercedes driver Kimi Antonelli received gifts from Ayrton Senna's family during a visit to Fazenda Dois Lagos and was photographed in Senna's 1986 Lotus 98T."
+    },
+    {
+      "id": "899114e62d9b",
+      "title": "Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks",
+      "title_fr": "Vasseur rassure Hamilton et Leclerc après l'affrontement mexicain",
+      "title_en": "Vasseur reassures Hamilton and Leclerc after Mexican clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872249/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BMbg2/s6/fred-vasseur-ferrari-2.jpg",
+      "published_at": "2026-11-06T18:46:02+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, affirme avoir clarifié les tensions entre Lewis Hamilton et Charles Leclerc suite à leur clash lors du Grand Prix du Mexique. Les deux pilotes ont repris la course sans incident majeur.",
+      "summary_en": "Ferrari chief Fred Vasseur says he has cleared the air with Lewis Hamilton and Charles Leclerc after their clash at the Mexican Grand Prix. Both drivers returned to the race without major incidents."
+    },
+    {
+      "id": "9d0644e12f8e",
+      "title": "\"We failed so we had to react\" - Fred Vasseur on Ferrari driver talks and Mexico F1 fallout",
+      "title_fr": "Vasseur clarifie les tensions après le choc à Mexico",
+      "title_en": "Vasseur clears air after Mexico clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari.jpg",
+      "published_at": "2026-11-06T18:42:33+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, a déclaré avoir réconcilié Charles Leclerc et Lewis Hamilton après leur affrontement à Mexico. Les deux pilotes ont échangé leurs positions dès le premier tour, provoquant un incident majeur.",
+      "summary_en": "Ferrari chief Fred Vasseur said he has cleared the air with Charles Leclerc and Lewis Hamilton after their clash at Mexico. The two drivers swapped positions on the first lap, causing a major incident."
+    },
     {
       "id": "26c5a0a5fb9c",
       "title": "\"Unacceptable downshifts\" – Max Verstappen explains what's behind a recurring F1 radio complaint",
@@ -172,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell a justifié son absence aux briefings après le Grand Prix du Mexique, après avoir félicité Kimi Antonelli. Mercedes a été sanctionnée d’une amende de 5 000 € par la FIA.",
       "summary_en": "George Russell explained his media absence after the Mexican Grand Prix, after congratulating teammate Kimi Antonelli. Mercedes was fined €5,000 by the FIA."
+    },
+    {
+      "id": "d2dfc47c66be",
+      "title": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
+      "title_fr": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
+      "title_en": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/exhausted-russell-set-for-brazilian-f1-grid-penalty/10872138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YK15qjD0/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-11-06T15:37:02+00:00",
+      "race_id": "bahrain",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes driver George Russell will lose five places on Sunday's Formula 1 Brazilian Grand Prix grid as he takes his sixth internal combustion engine of the season.<br />Following a brace of power uni",
+      "summary_en": "Mercedes driver George Russell will lose five places on Sunday's Formula 1 Brazilian Grand Prix grid as he takes his sixth internal combustion engine of the season.<br />Following a brace of power uni"
     },
     {
       "id": "3febddead953",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 s'apprête à Interlagos, où Kimi Antonelli, champion du monde, arrive après son titre au Mexique. Le programme du vendredi, la météo et les options de diffusion sont détaillés.",
       "summary_en": "Formula 1 heads to Interlagos with Kimi Antonelli, the new world champion, arriving after his Mexico GP title. Friday's schedule, weather forecast and viewing options are outlined."
-    },
-    {
-      "id": "0f1824d65d40",
-      "title": "Oscar Piastri accepts Arvid Lindblad clash penalty; guidelines 'tricky' to enforce at Mexico opening corners",
-      "title_fr": "Piastri accepte pénalité pour collision avec Lindblad à Mexico",
-      "title_en": "Piastri accepts penalty for clash with Lindblad at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-accepts-lindblad-clash-penalty-guidelines-tricky-to-enforce-at-mexico-opening-corners/10871893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/25dLD8E0/s6/oscar-piastri-mclaren-arvid-li.jpg",
-      "published_at": "2026-11-05T20:20:07+00:00",
-      "race_id": "australia",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri a accepté la pénalité infligée pour sa collision avec Arvid Lindblad à l'ouverture du circuit de Mexico, soulignant que les directives de conduite de la F1 sont difficiles à appliquer dans les virages complexes.",
-      "summary_en": "Oscar Piastri accepted the penalty for colliding with Arvid Lindblad at the opening of the Mexico City circuit, noting that Formula 1 driving guidelines are hard to enforce on complex corners."
-    },
-    {
-      "id": "ecfc56fad870",
-      "title": "Russell to have 'deep, deep look in mirror'",
-      "title_fr": "Russell se penche sur sa saison après la victoire d'Antonelli",
-      "title_en": "Russell reflects on his season after Antonelli's championship win",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr3wvvpxnx1wo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d596/live/aca0e540-d951-11f1-b2ee-87d22b17ac74.jpg",
-      "published_at": "2026-11-05T19:55:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell, pilote Mercedes, a déclaré qu'il allait se pencher en profondeur sur sa saison après que son coéquipier Kimi Antonelli ait remporté le championnat. Il évoque les points forts et les axes d'amélioration.",
-      "summary_en": "Mercedes driver George Russell said he would take a deep look at his season after teammate Kimi Antonelli won the championship. He highlighted strengths and areas for improvement."
-    },
-    {
-      "id": "a74ca6bd7bf0",
-      "title": "Lewis Hamilton admits his outspoken nature has made Ferrari move more difficult",
-      "title_fr": "Hamilton avoue que son franc-parler complique son intégration chez Ferrari",
-      "title_en": "Hamilton admits his outspoken nature complicates his fit at Ferrari",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-admits-his-outspoken-nature-has-made-ferrari-move-more-difficult/10871887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BlDB2/s6/motorsport-com-graphics-57.jpg",
-      "published_at": "2026-11-05T19:44:14+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton, champion à sept titres, a déclaré que son franc-parler rend son intégration chez Ferrari, avec Charles Leclerc, plus difficile. Il a souligné que 'il n’est pas si simple d’avoir quelqu’un comme moi dans l’équipe'.",
-      "summary_en": "Lewis Hamilton, a seven-time champion, said his outspoken style makes fitting in at Ferrari with Charles Leclerc harder. He noted that 'it’s not so easy having someone like me come into a team'."
-    },
-    {
-      "id": "1efcd1646c2b",
-      "title": "Ralf Schumacher accuses Lewis Hamilton of acting like “Al Capone” amid Mexico City GP drama",
-      "title_fr": "Schumacher critique Hamilton comme Al Capone après le GP de Mexico",
-      "title_en": "Schumacher slams Hamilton as 'Al Capone' after Mexico City GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-accuses-lewis-hamilton-of-acting-like-al-capone-during-mexico-city-gp-drama/10871637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YP74ldo2/s6/motorsport-com-graphics-76-2.jpg",
-      "published_at": "2026-11-05T19:09:14+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Ralf Schumacher a accusé Lewis Hamilton de se comporter comme Al Capone lors du Grand Prix de Mexico, dénonçant les messages radio furieux du pilote britannique.",
-      "summary_en": "Ralf Schumacher blasted Lewis Hamilton for acting like 'Al Capone' during the Mexico City Grand Prix, condemning the driver's heated radio messages."
-    },
-    {
-      "id": "d7018254fd28",
-      "title": "Max Verstappen jokes about rain threat in Brazil: \"I've installed antivirus now!\"",
-      "title_fr": "Verstappen se moque de la pluie au Brésil : « J’ai installé un antivirus »",
-      "title_en": "Verstappen jokes about rain threat in Brazil: 'I’ve installed antivirus now!'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-rain-threat-in-brazil-ive-installed-antivirus-now/10871860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0qgKdyQY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-05T19:03:52+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a plaisanté sur la menace de pluie au Brésil, évoquant l’installation d’un antivirus après qu’un bug logiciel lié aux restrictions de 250 kW ait immobilisé près de la moitié du peloton lors des tours de formation.",
-      "summary_en": "Max Verstappen joked about a rain threat in Brazil after a software bug linked to the FIA’s 250 kW wet-weather restriction halted nearly half the field during formation laps."
-    },
-    {
-      "id": "ea6633c256e9",
-      "title": "Hamilton backs claims Leclerc races him harder than F1 rivals",
-      "title_fr": "Hamilton backs claims Leclerc races him harder than F1 rivals",
-      "title_en": "Hamilton backs claims Leclerc races him harder than F1 rivals",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-backs-claims-charles-leclerc-races-him-harder-than-f1-rivals/10871859/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-11-05T18:58:43+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton maintains Ferrari needs further talks to iron out its rules of engagement, backing claims Charles Leclerc races him harder than drivers from rival teams.<br />Hamilton and Leclerc came ",
-      "summary_en": "Lewis Hamilton maintains Ferrari needs further talks to iron out its rules of engagement, backing claims Charles Leclerc races him harder than drivers from rival teams.<br />Hamilton and Leclerc came "
-    },
-    {
-      "id": "f51b7124f34a",
-      "title": "Lewis Hamilton backs claims Charles Leclerc races him harder than F1 rivals",
-      "title_fr": "Hamilton confirme que Leclerc l'affronte plus durement",
-      "title_en": "Hamilton confirms Leclerc races him harder",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backs-claims-charles-leclerc-races-him-harder-than-f1-rivals/10871849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/2wlKyPKY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-11-05T18:53:45+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a confirmé que Charles Leclerc l'affronte plus durement que les pilotes des équipes rivales. Le duel a éclaté lors du premier tour du Grand Prix du Mexique, où les deux pilotes ont quitté la piste.",
-      "summary_en": "Lewis Hamilton confirmed that Charles Leclerc races him harder than rivals. The clash erupted on lap one of the Mexican Grand Prix, where both drivers left the track."
     }
   ]
 }
