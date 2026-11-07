@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T00:12:16Z",
+  "last_updated": "2026-11-07T03:14:15Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -117,6 +117,44 @@
       "summary_en": "Ferrari team principal Frederic Vasseur said the team's racing guidelines remain unchanged following their loss at the Mexican Grand Prix."
     },
     {
+      "id": "18ba4c93e674",
+      "title": "Camara reprimanded over “clearly dangerous” incident with Leclerc in practice | Formula 1",
+      "title_fr": "Camara sanctionné pour incident dangereux avec Leclerc en séance d'essais",
+      "title_en": "Camara penalised for dangerous incident with Leclerc in practice",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/camara-reprimanded-over-clearly-dangerous-incident-with-leclerc-in-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-13-05-53-1-14-friday-saopaulo-2026.jpg",
+      "published_at": "2026-11-06T21:17:13+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les commissaires ont jugé que Rafael Camara aurait dû faire plus attention pour ne pas gêner Charles Leclerc à l'un des points les plus rapides de la piste.",
+      "summary_en": "Stewards ruled that Rafael Camara should have taken more care to avoid impeding Charles Leclerc at one of the fastest points on the track."
+    },
+    {
+      "id": "49b13a18466a",
+      "title": "Wolff criticises Moto GP riders over Qatar race: ‘They know nothing about what’s going on’ | Formula 1",
+      "title_fr": "Wolff critique les pilotes MotoGP sur la course de Qatar",
+      "title_en": "Wolff criticises MotoGP riders over Qatar race",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/wolff-criticises-moto-gp-riders-opposing-qatar-race-they-know-nothing-about-whats-going-on/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-43-2-2249035418.jpg",
+      "published_at": "2026-11-06T20:57:11+00:00",
+      "race_id": "qatar",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Mercedes a dénoncé les pilotes MotoGP qui ont exprimé leurs inquiétudes concernant la course de Qatar, après le retrait de Yamaha.",
+      "summary_en": "Mercedes chief Toto Wolff slammed MotoGP riders for voicing concerns about the Qatar race, following Yamaha's withdrawal."
+    },
+    {
       "id": "04199f5dadc3",
       "title": "Why Toto Wolff sees Ferrari clash as \"déjà vu\" – and why escalation may be necessary",
       "title_fr": "Wolff qualifie le clash Ferrari de déjà vu",
@@ -174,6 +212,25 @@
       "summary_en": "World champion Kimi Antonelli set the fastest time in Friday's second practice at the Brazilian GP, beating Lando Norris and Max Verstappen."
     },
     {
+      "id": "1e120e0391c7",
+      "title": "Antonelli comfortably on top in second practice | Formula 1",
+      "title_fr": "Antonelli en tête de la deuxième séance d'essais",
+      "title_en": "Antonelli tops second practice",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/antonelli-comfortably-on-top-in-second-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-13-07-02-1-17-friday-saopaulo-2026.jpg",
+      "published_at": "2026-11-06T20:04:55+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a pris la tête de la deuxième séance d'essais, laissant Lando Norris derrière. Les deux pilotes ont échangé les positions de leader au fil des tours.",
+      "summary_en": "Andrea Kimi Antonelli topped the second practice session, with Lando Norris falling behind. The two drivers swapped the front spot during the session."
+    },
+    {
       "id": "d0448c551d75",
       "title": "Kimi Antonelli reveals special gifts from Ayrton Senna's family ahead of F1 Brazilian GP",
       "title_fr": "Antonelli reçoit des cadeaux de la famille Senna avant le GP du Brésil",
@@ -229,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "Le directeur de Ferrari, Fred Vasseur, a déclaré avoir réconcilié Charles Leclerc et Lewis Hamilton après leur affrontement à Mexico. Les deux pilotes ont échangé leurs positions dès le premier tour, provoquant un incident majeur.",
       "summary_en": "Ferrari chief Fred Vasseur said he has cleared the air with Charles Leclerc and Lewis Hamilton after their clash at Mexico. The two drivers swapped positions on the first lap, causing a major incident."
+    },
+    {
+      "id": "819fc22e9984",
+      "title": "Williams has not upgraded 2026 car to “save the cost cap dollars for next year” – Vowles | Formula 1",
+      "title_fr": "Williams évite les améliorations 2026 pour économiser le plafond de coûts",
+      "title_en": "Williams skips 2026 upgrades to save cost‑cap dollars",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/williams-has-not-upgraded-2026-car-to-save-the-cost-cap-dollars-for-next-year-vowles/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-13-07-49-2-2296874572.jpg",
+      "published_at": "2026-11-06T17:30:57+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique James Vowles déclare que la décision de ne pas apporter d’améliorations supplémentaires à la voiture 2026 est « horriblement douloureuse ». L’équipe évite les dépenses pour préserver le plafond de coûts.",
+      "summary_en": "Team principal James Vowles says the decision not to bring further upgrades to the 2026 car was “horribly painful.” The team is saving cost‑cap dollars for next year."
     },
     {
       "id": "26c5a0a5fb9c",
@@ -324,6 +400,25 @@
       "is_breaking": false,
       "summary_fr": "Colton Herta a enfin obtenu le point de superlicence manquant pour piloter en Formule 1 après avoir franchi le seuil de 100 km à Interlagos. Valtteri Bottas, quant à lui, reste confiant sur son avenir avec l’équipe.",
       "summary_en": "Colton Herta finally earned the last superlicence point needed to race in Formula 1 after hitting the 100‑km threshold at Interlagos. Valtteri Bottas remains confident about his future with the team."
+    },
+    {
+      "id": "630ea07dba73",
+      "title": "Norris narrowly leads Antonelli in first practice at Interlagos | Formula 1",
+      "title_fr": "Norris dépasse Antonelli à Interlagos",
+      "title_en": "Norris narrowly leads Antonelli in first practice at Interlagos",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/norris-narrowly-leads-antonelli-in-first-practice-at-interlagos/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-12-32-05-3-2303841771.jpg",
+      "published_at": "2026-11-06T16:45:25+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris, champion du monde sortant, a mené Andrea Kimi Antonelli lors de la première séance de formation du Grand Prix du Brésil à Interlagos. La différence a été minime, soulignant la compétitivité des deux pilotes.",
+      "summary_en": "Outgoing world champion Lando Norris topped Andrea Kimi Antonelli in the first practice session for the Brazilian Grand Prix at Interlagos. The gap was narrow, highlighting the competitiveness between the two drivers."
     },
     {
       "id": "1f477dc6a250",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br ",
       "summary_en": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br "
-    },
-    {
-      "id": "fe7479414a70",
-      "title": "Alan Permane signs new Racing Bulls F1 deal",
-      "title_fr": "Alan Permane signs new Racing Bulls F1 deal",
-      "title_en": "Alan Permane signs new Racing Bulls F1 deal",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/alan-permane-signs-new-racing-bulls-f1-deal/10871996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YpbPZzW0/s6/allan-permane-racing-bulls.jpg",
-      "published_at": "2026-11-06T09:21:37+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br ",
-      "summary_en": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br "
-    },
-    {
-      "id": "9f44faa0416f",
-      "title": "Verstappen says his sudden rise to second in the championship is a “big surprise” | Formula 1",
-      "title_fr": "Verstappen : sa montée à la deuxième place, une surprise",
-      "title_en": "Verstappen: his sudden rise to second place, a surprise",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/verstappen-says-his-sudden-rise-to-second-in-the-championship-is-a-big-surprise/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-06-31-1-SI202611050359.jpg",
-      "published_at": "2026-11-06T09:10:17+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen est passé de sixième à deuxième en seulement trois manches, déclarant que cette progression est une grande surprise.",
-      "summary_en": "Max Verstappen has leapt from sixth to second in just three races, saying the jump is a big surprise."
-    },
-    {
-      "id": "a30905ac357e",
-      "title": "Hamilton admits he’s “really struggled” with F1’s tyres since 2022 size change | Formula 1",
-      "title_fr": "Hamilton avoue des difficultés avec les pneus depuis le changement de taille en 2022",
-      "title_en": "Hamilton admits tyre struggles since 2022 size change",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/hamilton-admits-hes-really-struggled-with-f1s-tyres-since-2022-size-change/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2022/03/racefansdotnet-21-03-10-07-34-54-1.jpg",
-      "published_at": "2026-11-06T07:16:40+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré qu’il a eu du mal à exploiter les pneus de Formule 1 depuis le passage à la taille de jante de 13 pouces en 2022.",
-      "summary_en": "Lewis Hamilton said he has struggled to get the most out of Formula 1's tyres since the series switched to 13‑inch wheels in 2022."
-    },
-    {
-      "id": "f87c8f794167",
-      "title": "Mercedes held its breath over Kimi Antonelli’s title-winning move on Charles Leclerc",
-      "title_fr": "Antonelli s'achève champion en dépassant Leclerc à l'entrée du premier virage",
-      "title_en": "Antonelli clinches title with late-braking move on Leclerc",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-the-dark-2025-slump-that-built-a-champion-i-questioned-myself-over-and-over/10871786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YP74lEG2/s6/motorsport-com-graphics-79-3.jpg",
-      "published_at": "2026-11-05T23:28:33+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté le championnat de F1 en finissant neuvième, mais a choisi de gagner en dépassant Charles Leclerc à l'entrée du premier virage du Grand Prix du Mexique. Certains membres de Mercedes ont exprimé leurs doutes.",
-      "summary_en": "Kimi Antonelli won the F1 championship by finishing ninth, yet chose to clinch it by overtaking Charles Leclerc at the first corner of the Mexican Grand Prix. Some Mercedes members voiced doubts."
-    },
-    {
-      "id": "9b061badb4a6",
-      "title": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
-      "title_fr": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
-      "title_en": "George Russell opens up on mental exhaustion after frustrating 2026 F1 season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-opens-up-on-mental-exhaustion-after-frustrating-2026-f1-season/10871940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6n7bwpO0/s6/motorsport-com-graphics-62.jpg",
-      "published_at": "2026-11-05T23:14:24+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges.<br />The Mercedes driver started 2026 as the favourite for the title, but aft",
-      "summary_en": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges.<br />The Mercedes driver started 2026 as the favourite for the title, but aft"
     }
   ]
 }
