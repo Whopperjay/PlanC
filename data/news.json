@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-07T15:22:13Z",
+  "last_updated": "2026-11-07T18:24:13Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d78076b27b3c",
+      "title": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
+      "title_fr": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
+      "title_en": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-11-07T17:32:44+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur",
+      "summary_en": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur"
+    },
+    {
+      "id": "c2a673e9be07",
+      "title": "Lewis Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
+      "title_fr": "Lewis Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
+      "title_en": "Lewis Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872640/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmAwWK0/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-11-07T17:30:52+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur",
+      "summary_en": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur"
+    },
+    {
+      "id": "0acd031a6675",
+      "title": "Fred Vasseur personally contributed $1m to Esteban Ocon’s first F1 drive",
+      "title_fr": "Vasseur finance 1 million de dollars pour Ocon",
+      "title_en": "Vasseur funds $1 million for Ocon",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-personally-contributed-1m-to-esteban-ocons-first-f1-drive/10872524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7LzZMY/s6/esteban-ocon-manor-racing.jpg",
+      "published_at": "2026-11-07T16:43:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fred Vasseur a versé un million de dollars pour soutenir la première saison d'Esteban Ocon en Formule 1, selon Toto Wolff.",
+      "summary_en": "Fred Vasseur reportedly donated $1 million to back Esteban Ocon's debut F1 season, according to Mercedes team principal Toto Wolff."
+    },
+    {
+      "id": "cc9bbf186886",
+      "title": "F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble",
+      "title_fr": "Verstappen bat Antonelli en FP3, Hamilton en panne mécanique",
+      "title_en": "Verstappen beats Antonelli in FP3, Hamilton suffers mechanical issue",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-verstappen-edges-out-antonelli-to-top-fp3-as-hamilton-hits-mechanical-trouble/10872582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7L93jY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-07T15:37:40+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a franchi la ligne en tête de la pratique libre 3 du Grand Prix du Brésil, dépassant de peu Kimi Antonelli. Lewis Hamilton a vu sa Ferrari tomber en panne mécanique.",
+      "summary_en": "Max Verstappen topped FP3 at the Brazilian Grand Prix, narrowly beating Kimi Antonelli. Lewis Hamilton's Ferrari suffered a mechanical failure."
+    },
+    {
+      "id": "c8d534bc3a87",
+      "title": "F1 Brazilian GP: Max Verstappen edges out Kimi Antonelli in FP3",
+      "title_fr": "F1 Brazilian GP: Max Verstappen edges out Kimi Antonelli in FP3",
+      "title_en": "F1 Brazilian GP: Max Verstappen edges out Kimi Antonelli in FP3",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-fp3-report/10872574/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/01QNp5e0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-07T15:35:48+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue.<br />The impendi",
+      "summary_en": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue.<br />The impendi"
+    },
     {
       "id": "6404e90ec248",
       "title": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le champion Kimi Antonelli, 20 ans, a annoncé qu'il s'offrirait une nouvelle voiture après avoir remporté le championnat du monde de Formule 1, devenant le plus jeune champion de l'histoire.",
       "summary_en": "The 20‑year‑old champion Kimi Antonelli announced he will buy a new car after winning the 2026 Formula 1 World Championship, becoming the youngest champion in history."
-    },
-    {
-      "id": "579d7c6f1cb1",
-      "title": "“Unfiltered” Lewis Hamilton is ready to exploit Charles Leclerc’s “silly” move, says Martin Brundle",
-      "title_fr": "Hamilton prêt à profiter de la faute de Leclerc à Mexico",
-      "title_en": "Hamilton ready to exploit Leclerc's mistake at Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/unfiltered-hamilton-is-ready-to-exploit-leclercs-silly-move-says-martin-brundle/10872156/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6lmAw710/s6/motorsport-com-graphics-80-2.jpg",
-      "published_at": "2026-11-06T17:02:37+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Leclerc a gardé son pied sur l'herbe au virage 4 de Mexico, déclenchant une pénalité de cinq secondes. Le commentateur Martin Brundle estime que Hamilton pourra en tirer parti.",
-      "summary_en": "Leclerc kept his foot on the grass at turn 4 in Mexico, earning a five‑second penalty. Commentator Martin Brundle says Hamilton can exploit the mistake."
-    },
-    {
-      "id": "3cb4e8994bdc",
-      "title": "Herta qualifies for F1 superlicence as Bottas remains bullish on 2027 seat",
-      "title_fr": "Herta obtient la superlicence, Bottas reste confiant pour 2027",
-      "title_en": "Herta secures F1 superlicence, Bottas stays bullish on 2027 seat",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/herta-qualifies-for-f1-superlicence-as-bottas-remains-bullish-on-2027-seat/10872179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
-      "published_at": "2026-11-06T16:57:16+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta a enfin obtenu le point de superlicence manquant après sa séance de test à Interlagos, tandis que Valtteri Bottas garde confiance en son avenir avec l’équipe.",
-      "summary_en": "Colton Herta finally earned the last superlicence point after his Interlagos test, while Valtteri Bottas remains confident about his future with the team."
-    },
-    {
-      "id": "1cbf345fc3ad",
-      "title": "Colton Herta qualifies for F1 superlicence as Valtteri Bottas remains bullish on 2027 seat",
-      "title_fr": "Herta obtient son superlicence, Bottas reste confiant pour 2027",
-      "title_en": "Herta secures F1 superlicence, Bottas stays bullish on 2027 seat",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/colton-herta-qualifies-for-f1-superlicence-as-valtteri-bottas-remains-bullish-on-2027-seat/10872177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
-      "published_at": "2026-11-06T16:53:04+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta a enfin obtenu le point de superlicence manquant pour piloter en Formule 1 après avoir franchi le seuil de 100 km à Interlagos. Valtteri Bottas, quant à lui, reste confiant sur son avenir avec l’équipe.",
-      "summary_en": "Colton Herta finally earned the last superlicence point needed to race in Formula 1 after hitting the 100‑km threshold at Interlagos. Valtteri Bottas remains confident about his future with the team."
-    },
-    {
-      "id": "630ea07dba73",
-      "title": "Norris narrowly leads Antonelli in first practice at Interlagos | Formula 1",
-      "title_fr": "Norris dépasse Antonelli à Interlagos",
-      "title_en": "Norris narrowly leads Antonelli in first practice at Interlagos",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/norris-narrowly-leads-antonelli-in-first-practice-at-interlagos/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-12-32-05-3-2303841771.jpg",
-      "published_at": "2026-11-06T16:45:25+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris, champion du monde sortant, a mené Andrea Kimi Antonelli lors de la première séance de formation du Grand Prix du Brésil à Interlagos. La différence a été minime, soulignant la compétitivité des deux pilotes.",
-      "summary_en": "Outgoing world champion Lando Norris topped Andrea Kimi Antonelli in the first practice session for the Brazilian Grand Prix at Interlagos. The gap was narrow, highlighting the competitiveness between the two drivers."
-    },
-    {
-      "id": "1f477dc6a250",
-      "title": "F1 Brazilian GP: Lando Norris tops FP1 as Colton Herta clinches superlicence",
-      "title_fr": "Norris domine la FP1 du GP brésilien, Herta obtient la superlicence",
-      "title_en": "Norris tops FP1 at Brazilian GP, Herta secures superlicence",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-fp1-report-10872160/10872160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVj1g8Y/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-11-06T16:43:42+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a été le plus rapide en première séance de formation du Grand Prix brésilien, devançant Kimi Antonelli, Max Verstappen et Lewis Hamilton. Colton Herta a obtenu sa superlicence.",
-      "summary_en": "Lando Norris was fastest in Free Practice 1 at the Brazilian Grand Prix, beating Kimi Antonelli, Max Verstappen and Lewis Hamilton. Colton Herta secured his superlicence."
     }
   ]
 }
