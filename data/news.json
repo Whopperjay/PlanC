@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-07T06:16:12Z",
+  "last_updated": "2026-11-07T09:18:08Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "b734d2a3ff17",
+      "title": "Racing Bulls boss ‘understands frustration’ over driver decision delay",
+      "title_fr": "Permane comprend la frustration sur le choix des pilotes",
+      "title_en": "Permane Understands Frustration Over Driver Decision Delay",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7LvO1Y/s6/liam-lawson-racing-bulls.jpg",
+      "published_at": "2026-11-07T08:51:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Alan Permane, directeur de Racing Bulls, a déclaré comprendre la frustration liée au retard de décision concernant la place de Liam Lawson ou de Nikola Tsolov pour 2027. L'équipe prépare sa saison la plus réussie.",
+      "summary_en": "Alan Permane, Racing Bulls boss, said he understands the frustration over the delay in deciding whether to keep Liam Lawson or promote reserve driver Nikola Tsolov for 2027. The team is gearing up for its most successful season."
+    },
     {
       "id": "ca65c82feedb",
       "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari arrive à Interlagos pour une réunion de crise alors que la tension entre Hamilton et Leclerc atteint son apogée. L’équipe a enfin trouvé des réponses à ses problèmes techniques, confirmés par les derniers résultats.",
       "summary_en": "Ferrari arrives at Interlagos for a crisis meeting as Hamilton-Leclerc tension peaks. The team has finally found answers to its technical issues, confirmed by recent results."
-    },
-    {
-      "id": "3561ce6a2011",
-      "title": "Ferrari set for crunch meeting as Lewis Hamilton and Charles Leclerc tension reaches Brazil",
-      "title_fr": "Ferrari se prépare à une réunion cruciale à Interlagos, tension Hamilton-Leclerc",
-      "title_en": "Ferrari heads to a crunch meeting at Interlagos amid Hamilton-Leclerc tension",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0rVPA850/s6/frederic-vasseur-ferrari.jpg",
-      "published_at": "2026-11-06T11:05:33+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Ferrari arrive à Interlagos après une saison de recherche de compétitivité. La tension entre Lewis Hamilton et Charles Leclerc atteint le Brésil, suscitant une réunion cruciale.",
-      "summary_en": "Ferrari arrives at Interlagos after a season of chasing competitiveness. Tension between Lewis Hamilton and Charles Leclerc reaches Brazil, prompting a crucial meeting."
     }
   ]
 }
