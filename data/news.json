@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T03:14:15Z",
+  "last_updated": "2026-11-07T06:16:12Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -117,6 +117,25 @@
       "summary_en": "Ferrari team principal Frederic Vasseur said the team's racing guidelines remain unchanged following their loss at the Mexican Grand Prix."
     },
     {
+      "id": "0c0a990da3b4",
+      "title": "How to follow Sao Paulo Grand Prix on the BBC",
+      "title_fr": "Suivre le Grand Prix de São Paulo sur la BBC",
+      "title_en": "How to follow the Sao Paulo Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw0k0ylj6lj3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5221/live/85a75910-d654-11f1-bfaa-ade3b5994a33.jpg",
+      "published_at": "2026-11-06T21:26:31+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La BBC propose une couverture complète du Grand Prix de São Paulo, du 6 au 8 novembre. Retrouvez les diffusions en direct, les analyses et les commentaires sur le site officiel et les chaînes partenaires.",
+      "summary_en": "The BBC offers comprehensive coverage of the Sao Paulo Grand Prix from 6-8 November. Watch live streams, expert analysis, and commentary on the official site and partner channels."
+    },
+    {
       "id": "18ba4c93e674",
       "title": "Camara reprimanded over “clearly dangerous” incident with Leclerc in practice | Formula 1",
       "title_fr": "Camara sanctionné pour incident dangereux avec Leclerc en séance d'essais",
@@ -155,6 +174,25 @@
       "summary_en": "Mercedes chief Toto Wolff slammed MotoGP riders for voicing concerns about the Qatar race, following Yamaha's withdrawal."
     },
     {
+      "id": "2a482906b8fe",
+      "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
+      "title_fr": "Problème Ferrari entre Hamilton et Leclerc",
+      "title_en": "Ferrari's Hamilton-Leclerc problem",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511a/live/712d8810-da0f-11f1-bbd1-cf41b7fd4e9b.jpg",
+      "published_at": "2026-11-06T20:52:24+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix de São Paulo a marqué le début du prochain duel de championnat. Ferrari fait face à un problème entre Hamilton et Leclerc, tandis que d'autres histoires de Formule 1 attendent.",
+      "summary_en": "The Sao Paulo Grand Prix marked the start of the next championship battle. Ferrari faces a Hamilton-Leclerc issue, while other Formula 1 stories await."
+    },
+    {
       "id": "04199f5dadc3",
       "title": "Why Toto Wolff sees Ferrari clash as \"déjà vu\" – and why escalation may be necessary",
       "title_fr": "Wolff qualifie le clash Ferrari de déjà vu",
@@ -172,6 +210,25 @@
       "is_breaking": false,
       "summary_fr": "Toto Wolff a qualifié le clash de Ferrari lors du Grand Prix du Mexique de déjà vu et a averti que des mesures d'escalade pourraient être nécessaires.",
       "summary_en": "Toto Wolff described the Ferrari clash at the Mexico Grand Prix as déjà vu and warned that escalation might be necessary."
+    },
+    {
+      "id": "b23f34a37496",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "title_fr": "Andrew Benson lance une série de questions-réponses hebdomadaires",
+      "title_en": "Andrew Benson launches weekly Q&A",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": "2026-11-06T20:07:58+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le correspondant F1 Andrew Benson propose une séance de questions-réponses hebdomadaire cette saison. Les fans peuvent soumettre leurs questions dès maintenant.",
+      "summary_en": "F1 correspondent Andrew Benson is running a weekly Q&A this season. Fans can submit their questions now."
     },
     {
       "id": "1e8e62f2801f",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari arrive à Interlagos après une saison de recherche de compétitivité. La tension entre Lewis Hamilton et Charles Leclerc atteint le Brésil, suscitant une réunion cruciale.",
       "summary_en": "Ferrari arrives at Interlagos after a season of chasing competitiveness. Tension between Lewis Hamilton and Charles Leclerc reaches Brazil, prompting a crucial meeting."
-    },
-    {
-      "id": "28fe16c2186c",
-      "title": "“I’ve never had a season where there’s been so many blows” – Russell | Formula 1",
-      "title_fr": "Russell dénonce un problème technique après le Mexique",
-      "title_en": "Russell blames technical glitch after Mexico",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/ive-never-had-a-season-where-theres-been-so-many-blows-russell/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-50-01-1-M649485_S_o_Paulo_Grand_Prix__Thursday.jpg",
-      "published_at": "2026-11-06T10:28:24+00:00",
-      "race_id": "mexico",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell a refusé de parler aux médias après le Grand Prix du Mexique, déplorant un problème technique qui l'a laissé extrêmement déçu.",
-      "summary_en": "George Russell refused to speak to the press after the Mexican Grand Prix, citing a technical issue that left him extremely disappointed."
-    },
-    {
-      "id": "c6f525783b04",
-      "title": "Kimi Antonelli: “My 2027 preparation starts now” after F1 title triumph",
-      "title_fr": "Antonelli prépare 2027 dès maintenant après son titre mondial",
-      "title_en": "Antonelli starts 2027 prep after F1 title triumph",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YpbAzjM0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-06T09:42:17+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, champion du monde, annonce qu’il commence dès maintenant les préparatifs pour 2027 après la victoire au Grand Prix du Mexique.",
-      "summary_en": "Kimi Antonelli, the world champion, says he is starting his 2027 preparations now after winning the Mexican Grand Prix."
-    },
-    {
-      "id": "85a28d6a0cfa",
-      "title": "Permane signs new Racing Bulls F1 deal",
-      "title_fr": "Permane signs new Racing Bulls F1 deal",
-      "title_en": "Permane signs new Racing Bulls F1 deal",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/permane-signs-new-racing-bulls-f1-deal/10871999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/24QebeqY/s6/alan-permane-racing-bulls-2.jpg",
-      "published_at": "2026-11-06T09:24:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br ",
-      "summary_en": "Red Bull has given Alan Permane a new contract as the Racing Bulls Formula 1 squad’s team principal.<br />Permane will retain the reins of the Faenza-based outfit until the end of the 2031 season.<br "
     }
   ]
 }
