@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-11-07T18:24:13Z",
+  "last_updated": "2026-11-07T21:26:09Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5bddc2e17d26",
+      "title": "Toto Wolff responds to George Russell's angry radio messages in Brazilian GP qualifying",
+      "title_fr": "Wolff réagit aux messages radio de Russell à Interlagos",
+      "title_en": "Wolff reacts to Russell's angry radio messages at Interlagos",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-responds-to-george-russells-angry-radio-messages-in-brazilian-gp-qualifying/10872744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedB3m2/s6/motorsport-com-graphics-1.jpg",
+      "published_at": "2026-11-07T21:16:47+00:00",
+      "race_id": "uk",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Mercedes a répondu aux messages radio de George Russell, qui a terminé deuxième après Lando Norris, alors que la pluie s'intensifiait. Le directeur technique a demandé au pilote de ralentir.",
+      "summary_en": "Mercedes responded to George Russell's angry radio messages after he finished second behind Lando Norris in a rain-affected session. Team principal Toto Wolff told the driver to back off as rain increased."
+    },
+    {
+      "id": "5431a32f975d",
+      "title": "Oscar Piastri explains what led to Brazilian GP qualifying disappointment",
+      "title_fr": "Piastri explique la déception de qualification au Brésil",
+      "title_en": "Piastri explains Brazilian GP qualifying disappointment",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-explains-what-led-to-brazilian-gp-qualifying-disappointment/10872735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7Lz7mY/s6/motorsport-com-graphics.jpg",
+      "published_at": "2026-11-07T21:00:06+00:00",
+      "race_id": "australia",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri dénonce le retard de McLaren pour changer de pneus intermédiaires, ce qui l’a laissé 12e en qualification. Il débutera 10e après les pénalités de Leclerc et Hamilton.",
+      "summary_en": "Oscar Piastri blamed McLaren’s late switch to intermediate tyres for his 12th-place qualification. He will start 10th after penalties to Leclerc and Hamilton."
+    },
+    {
+      "id": "9b30011b0af9",
+      "title": "2026 F1 Brazilian Grand Prix starting grid",
+      "title_fr": "Grid du GP brésilien 2026 : Norris en tête",
+      "title_en": "2026 Brazilian GP grid: Norris leads",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EVMwY/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-11-07T20:47:59+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le pilote McLaren Lando Norris démarre premier sur le grid du Grand Prix brésilien 2026, suivi de Kimi Antonelli de Mercedes et de Liam Lawson des Racing Bulls.",
+      "summary_en": "McLaren's Lando Norris starts on pole for the 2026 Brazilian GP, followed by Mercedes' Kimi Antonelli and Racing Bulls' Liam Lawson."
+    },
+    {
+      "id": "2d7763d781a3",
+      "title": "F1 Brazilian GP: Norris splashes to pole from Russell",
+      "title_fr": "F1 Brazilian GP: Norris splashes to pole from Russell",
+      "title_en": "F1 Brazilian GP: Norris splashes to pole from Russell",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YK15xbk0/s6/lando-norris-mclaren-oscar-pia-2.jpg",
+      "published_at": "2026-11-07T20:33:59+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.<br />In a challenging session that ",
+      "summary_en": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.<br />In a challenging session that "
+    },
+    {
+      "id": "89c9c7bdcb40",
+      "title": "F1 Brazilian GP: Lando Norris takes pole in soaking wet qualifying",
+      "title_fr": "Norris décroche pole en pleine pluie à Interlagos",
+      "title_en": "Norris Secures Pole in Wet Interlagos Qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/27No3ae0/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-11-07T20:32:58+00:00",
+      "race_id": "brazil",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a remporté le pole lors de la séance de qualification mouillée du Grand Prix du Brésil, surpassant George Russell sur le circuit d'Interlagos. La session a été interrompue par une pluie torrentielle.",
+      "summary_en": "Lando Norris clinched pole position in a rain-soaked qualifying session at the Brazilian Grand Prix, beating George Russell on Interlagos. The session was halted by heavy rain."
+    },
+    {
+      "id": "04dd3c0cc741",
+      "title": "Toto Wolff explains the emotional Mercedes factory email leaked online",
+      "title_fr": "Toto Wolff révèle l'email volé de Mercedes",
+      "title_en": "Toto Wolff reveals leaked Mercedes email",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/24QGbvNY/s6/motorsport-com-graphics-82-2.jpg",
+      "published_at": "2026-11-07T20:32:28+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a expliqué l'émotion derrière l'email de l'équipe Mercedes qui a été divulgué en ligne après la victoire de Kimi Antonelli. Le message, très long, a suscité l'attention des fans.",
+      "summary_en": "Toto Wolff explained the emotion behind the leaked Mercedes team email after Kimi Antonelli's historic win. The lengthy message drew fans' attention."
+    },
+    {
+      "id": "29062825a906",
+      "title": "Toto Wolff doesn’t think Kimi Antonelli “would have lasted in other teams”",
+      "title_fr": "Wolff déclare qu'Antonelli n'aurait pas survécu dans d'autres équipes",
+      "title_en": "Wolff says Antonelli wouldn't have survived in other teams",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-mercedes-shielded-kimi-antonelli-during-his-brutal-2025-slump/10872603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0o5AVR1Y/s6/motorsport-com-graphics-81-2.jpg",
+      "published_at": "2026-11-07T18:35:37+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff affirme que Kimi Antonelli n'aurait pas réussi à rester dans une autre équipe de Formule 1. Le pilote Mercedes a mis en lumière la difficulté de la montée en puissance des jeunes talents.",
+      "summary_en": "Toto Wolff says Kimi Antonelli would not have survived in another F1 team. The Mercedes driver highlighted the harsh reality of young talents' rapid rise."
+    },
     {
       "id": "d78076b27b3c",
       "title": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli, champion du monde, a été le plus rapide lors de la deuxième séance de formation du Grand Prix du Brésil, dépassant Lando Norris et Max Verstappen.",
       "summary_en": "World champion Kimi Antonelli set the fastest time in Friday's second practice at the Brazilian GP, beating Lando Norris and Max Verstappen."
-    },
-    {
-      "id": "1e120e0391c7",
-      "title": "Antonelli comfortably on top in second practice | Formula 1",
-      "title_fr": "Antonelli en tête de la deuxième séance d'essais",
-      "title_en": "Antonelli tops second practice",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/antonelli-comfortably-on-top-in-second-practice/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-13-07-02-1-17-friday-saopaulo-2026.jpg",
-      "published_at": "2026-11-06T20:04:55+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a pris la tête de la deuxième séance d'essais, laissant Lando Norris derrière. Les deux pilotes ont échangé les positions de leader au fil des tours.",
-      "summary_en": "Andrea Kimi Antonelli topped the second practice session, with Lando Norris falling behind. The two drivers swapped the front spot during the session."
-    },
-    {
-      "id": "d0448c551d75",
-      "title": "Kimi Antonelli reveals special gifts from Ayrton Senna's family ahead of F1 Brazilian GP",
-      "title_fr": "Antonelli reçoit des cadeaux de la famille Senna avant le GP du Brésil",
-      "title_en": "Antonelli receives gifts from Senna family ahead of Brazilian GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YXyKloK6/s6/motorsport-com-graphics-66.jpg",
-      "published_at": "2026-11-06T19:00:02+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Mercedes Kimi Antonelli a reçu des cadeaux de la famille Ayrton Senna lors de sa visite à Fazenda Dois Lagos, et a été photographié dans la Lotus 98T de Senna.",
-      "summary_en": "Mercedes driver Kimi Antonelli received gifts from Ayrton Senna's family during a visit to Fazenda Dois Lagos and was photographed in Senna's 1986 Lotus 98T."
-    },
-    {
-      "id": "899114e62d9b",
-      "title": "Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks",
-      "title_fr": "Vasseur rassure Hamilton et Leclerc après l'affrontement mexicain",
-      "title_en": "Vasseur reassures Hamilton and Leclerc after Mexican clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872249/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BMbg2/s6/fred-vasseur-ferrari-2.jpg",
-      "published_at": "2026-11-06T18:46:02+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, affirme avoir clarifié les tensions entre Lewis Hamilton et Charles Leclerc suite à leur clash lors du Grand Prix du Mexique. Les deux pilotes ont repris la course sans incident majeur.",
-      "summary_en": "Ferrari chief Fred Vasseur says he has cleared the air with Lewis Hamilton and Charles Leclerc after their clash at the Mexican Grand Prix. Both drivers returned to the race without major incidents."
-    },
-    {
-      "id": "9d0644e12f8e",
-      "title": "\"We failed so we had to react\" - Fred Vasseur on Ferrari driver talks and Mexico F1 fallout",
-      "title_fr": "Vasseur clarifie les tensions après le choc à Mexico",
-      "title_en": "Vasseur clears air after Mexico clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari.jpg",
-      "published_at": "2026-11-06T18:42:33+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, a déclaré avoir réconcilié Charles Leclerc et Lewis Hamilton après leur affrontement à Mexico. Les deux pilotes ont échangé leurs positions dès le premier tour, provoquant un incident majeur.",
-      "summary_en": "Ferrari chief Fred Vasseur said he has cleared the air with Charles Leclerc and Lewis Hamilton after their clash at Mexico. The two drivers swapped positions on the first lap, causing a major incident."
-    },
-    {
-      "id": "819fc22e9984",
-      "title": "Williams has not upgraded 2026 car to “save the cost cap dollars for next year” – Vowles | Formula 1",
-      "title_fr": "Williams évite les améliorations 2026 pour économiser le plafond de coûts",
-      "title_en": "Williams skips 2026 upgrades to save cost‑cap dollars",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/williams-has-not-upgraded-2026-car-to-save-the-cost-cap-dollars-for-next-year-vowles/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-13-07-49-2-2296874572.jpg",
-      "published_at": "2026-11-06T17:30:57+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique James Vowles déclare que la décision de ne pas apporter d’améliorations supplémentaires à la voiture 2026 est « horriblement douloureuse ». L’équipe évite les dépenses pour préserver le plafond de coûts.",
-      "summary_en": "Team principal James Vowles says the decision not to bring further upgrades to the 2026 car was “horribly painful.” The team is saving cost‑cap dollars for next year."
-    },
-    {
-      "id": "26c5a0a5fb9c",
-      "title": "\"Unacceptable downshifts\" – Max Verstappen explains what's behind a recurring F1 radio complaint",
-      "title_fr": "Verstappen explique les 'downshifts' inacceptables",
-      "title_en": "Verstappen explains unacceptable downshifts",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/unacceptable-downshifts-max-verstappen-explains-whats-behind-a-recurring-f1-radio-complaint/10872196/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/27NoB1K0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-06T17:26:25+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a terminé troisième lors de la séance d'entraînement d'ouverture à São Paulo, à 0,2 seconde de Lando Norris. Il a expliqué que les 'downshifts' inacceptables de son RB22 ont affecté son ressenti.",
-      "summary_en": "Max Verstappen finished third in the opening practice at São Paulo, just 0.2 s behind Lando Norris. He said the RB22’s unacceptable downshifts hurt his feel."
-    },
-    {
-      "id": "93bf8e85ece7",
-      "title": "F1 champion Kimi Antonelli plans special purchase after historic title win",
-      "title_fr": "Antonelli prévoit l'achat d'une voiture de prestige après son titre",
-      "title_en": "Antonelli plans special car purchase after historic title win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-champion-kimi-antonelli-plans-special-purchase-after-historic-title-win/10872187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedlWm2/s6/motorsport-com-graphics-65.jpg",
-      "published_at": "2026-11-06T17:06:13+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Kimi Antonelli, 20 ans, a annoncé qu'il s'offrirait une nouvelle voiture après avoir remporté le championnat du monde de Formule 1, devenant le plus jeune champion de l'histoire.",
-      "summary_en": "The 20‑year‑old champion Kimi Antonelli announced he will buy a new car after winning the 2026 Formula 1 World Championship, becoming the youngest champion in history."
     }
   ]
 }
