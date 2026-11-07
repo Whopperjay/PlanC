@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-07T09:18:08Z",
+  "last_updated": "2026-11-07T12:20:03Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "42cf1cf833de",
+      "title": "Ralf Schumacher slams Colton Herta's F1 prospects: \"He's just burning fuel\"",
+      "title_fr": "Schumacher critique les perspectives de Herta",
+      "title_en": "Schumacher slams Herta's F1 prospects",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0LdelPj0/s6/colton-herta-cadillac-f1-team.jpg",
+      "published_at": "2026-11-07T12:10:03+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ralf Schumacher, ancien pilote et commentateur, a déclaré que Colton Herta ne ferait que brûler du carburant, remettant en cause ses chances de carrière en Formule 1.",
+      "summary_en": "Former F1 driver turned pundit Ralf Schumacher slammed Colton Herta, saying he was just burning fuel and questioning his future in Formula 1."
+    },
+    {
+      "id": "968e168238c1",
+      "title": "Ocon axing ‘surprised everybody at Haas’",
+      "title_fr": "Ocon exclu de Haas, tout le monde surpris",
+      "title_en": "Ocon axed from Haas, everyone surprised",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVPoPO0/s6/esteban-ocon-haas-f1-team-2.jpg",
+      "published_at": "2026-11-07T11:00:49+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Esteban Ocon a été exclu de Haas pour le Grand Prix du Mexique, selon Ayao Komatsu. La décision, prise après un différend lors de la séance d'essais, a surpris toute l'équipe.",
+      "summary_en": "Esteban Ocon was axed from Haas for the Mexican Grand Prix, says Ayao Komatsu. The move, following a dispute during Friday practice, surprised the entire team."
+    },
+    {
+      "id": "2dd1cd8260c9",
+      "title": "Komatsu was ‘protecting Haas from rhetoric’ by dropping Ocon – Wolff | Formula 1",
+      "title_fr": "Komatsu évite la polémique en retirant Ocon",
+      "title_en": "Komatsu avoids controversy by dropping Ocon",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/komatsu-was-protecting-haas-from-rhetoric-by-dropping-ocon-wolff/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-15-46-35-3.jpg",
+      "published_at": "2026-11-07T11:00:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Haas, Ayao Komatsu, aurait retiré Esteban Ocon pour protéger l'équipe de la critique, selon Mercedes.",
+      "summary_en": "Mercedes' team principal suspects Haas' director Ayao Komatsu dropped Esteban Ocon to shield the team from criticism."
+    },
+    {
+      "id": "497e5edda0c9",
+      "title": "“Everyone will be happy” with Racing Bulls’ decision on its 2027 driver line-up – Permane | Formula 1",
+      "title_fr": "Permane : tout le monde sera content de la décision 2027",
+      "title_en": "Permane says everyone will be happy with Racing Bulls' 2027 lineup",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/everyone-will-be-happy-with-racing-bulls-decision-on-its-2027-driver-line-up-permane/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-21-53-40-3-SI202611060415.jpg",
+      "published_at": "2026-11-07T10:37:18+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Racing Bulls, Alan Permane, affirme que la composition de l'équipe pour 2027 satisfera tous les intéressés. Il se montre confiant quant à la décision prise.",
+      "summary_en": "Racing Bulls team principal Alan Permane says the 2027 driver lineup will satisfy everyone. He expresses confidence in the decision made."
+    },
+    {
+      "id": "b0e0b7ef3202",
+      "title": "Ferrari slow on straights, struggling in corners: ‘One of the worst feelings’ for Charles Leclerc",
+      "title_fr": "Ferrari lente sur les lignes droites, Leclerc en difficulté en virage",
+      "title_en": "Ferrari slow on straights, Leclerc struggles in corners",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BlnE2/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-11-07T10:14:35+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a qualifié la Ferrari SF-26 de lente sur les lignes droites et de mauvaise performance en virage après la séance d'essai du vendredi. Le pilote a exprimé son mécontentement face à ces résultats.",
+      "summary_en": "Charles Leclerc described the Ferrari SF-26 as slow on straights and struggling in corners after Friday's free practice. The driver expressed frustration with the car’s performance."
+    },
     {
       "id": "b734d2a3ff17",
       "title": "Racing Bulls boss ‘understands frustration’ over driver decision delay",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Carlos Sainz se souvient des duels intenses avec Charles Leclerc à Ferrari et commente la confrontation de Leclerc avec Lewis Hamilton lors du Grand Prix du Mexique.",
       "summary_en": "Carlos Sainz recalls his fierce duels with Charles Leclerc at Ferrari and comments on Leclerc's fight with Lewis Hamilton at the Mexican Grand Prix."
-    },
-    {
-      "id": "c91d04bec3fa",
-      "title": "Lawson unsure if Racing Bulls will keep him: “I don’t know what else they want me to do” | Formula 1",
-      "title_fr": "Lawson incertain de son avenir chez Racing Bulls",
-      "title_en": "Lawson unsure of future with Racing Bulls",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/lawson-unsure-if-racing-bulls-will-keep-him-i-dont-know-what-else-they-want-me-to-do/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-31-23-57-28-1-SI202610310712.jpg",
-      "published_at": "2026-11-06T12:10:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson exprime son incertitude quant à la décision tardive de Racing Bulls sur la composition de son équipe, craignant qu'il ne reste aucune alternative pour 2027.",
-      "summary_en": "Liam Lawson says Racing Bulls' late decision on its driver line-up could leave him with no alternatives in 2027."
-    },
-    {
-      "id": "6f807ba544a3",
-      "title": "Herta’s latest practice run does not mean he’ll replace me in 2027 – Bottas | Formula 1",
-      "title_fr": "Bottas rassure : Herta ne le remplacera pas en 2027",
-      "title_en": "Bottas says Herta won't replace him in 2027",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/hertas-latest-practice-run-does-not-mean-hell-replace-me-in-2027-bottas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-20-49-22-1.jpg",
-      "published_at": "2026-11-06T11:55:17+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Valtteri Bottas confirme qu'il restera chez Cadillac à long terme, malgré la dernière séance d'essai de Colton Herta au Brésil. Le pilote ne prévoit pas de changement de poste en 2027.",
-      "summary_en": "Valtteri Bottas confirms he will stay with Cadillac long-term, despite Colton Herta's recent practice session in Brazil. The driver does not foresee a seat change in 2027."
-    },
-    {
-      "id": "988123f4c087",
-      "title": "Permane to stay as Racing Bulls team principal",
-      "title_fr": "Permane conserve son poste chez Racing Bulls",
-      "title_en": "Permane stays as Racing Bulls team principal",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw80zzd8jk1go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/964e/live/556c3370-d9d2-11f1-9e5a-c30c5e3d8c85.jpg",
-      "published_at": "2026-11-06T11:53:34+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Red Bull prolonge le contrat d'Alan Permane en tant que directeur de l'équipe satellite jusqu'à fin 2031.",
-      "summary_en": "Red Bull extends Alan Permane's contract as team principal of its satellite team until the end of 2031."
-    },
-    {
-      "id": "d331c064442c",
-      "title": "Ferrari must not throw away another ‘easy one-two’ again – Hamilton | Formula 1",
-      "title_fr": "Hamilton exige plus d'une réunion pour Ferrari après la défaite mexicaine",
-      "title_en": "Hamilton demands more than one meeting for Ferrari after Mexican defeat",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/ferrari-must-not-throw-away-another-easy-one-two-again-hamilton/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-02-00-46-50-5-SI202611010509.jpg",
-      "published_at": "2026-11-06T11:29:17+00:00",
-      "race_id": "mexico",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que Ferrari doit organiser plus d'une réunion pour surmonter les conséquences de leur défaite du Grand Prix du Mexique.",
-      "summary_en": "Lewis Hamilton said Ferrari needs more than one meeting to address the fallout from their Mexican Grand Prix defeat."
-    },
-    {
-      "id": "e1d1dbda3b11",
-      "title": "Ferrari set for crunch meeting as Hamilton and Leclerc tension reaches Brazil",
-      "title_fr": "Ferrari en réunion de crise à Interlagos, tension entre Hamilton et Leclerc",
-      "title_en": "Ferrari heads to crisis meeting at Interlagos as Hamilton-Leclerc tension rises",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ferrari-set-for-crunch-meeting-as-hamilton-and-leclerc-tension-reaches-brazil/10872030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": "2026-11-06T11:09:53+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Ferrari arrive à Interlagos pour une réunion de crise alors que la tension entre Hamilton et Leclerc atteint son apogée. L’équipe a enfin trouvé des réponses à ses problèmes techniques, confirmés par les derniers résultats.",
-      "summary_en": "Ferrari arrives at Interlagos for a crisis meeting as Hamilton-Leclerc tension peaks. The team has finally found answers to its technical issues, confirmed by recent results."
     }
   ]
 }
