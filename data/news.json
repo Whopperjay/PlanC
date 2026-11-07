@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-11-07T12:20:03Z",
+  "last_updated": "2026-11-07T15:22:13Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6404e90ec248",
+      "title": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
+      "title_fr": "Hamilton, Leclerc et Verstappen pénalisés à Interlagos",
+      "title_en": "Hamilton, Leclerc and Verstappen penalised for Brazilian GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "published_at": "2026-11-07T15:05:04+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton, Charles Leclerc et Max Verstappen subiront chacun une pénalité de dix places à Interlagos suite à un changement de moteur. Ferrari a opté pour un nouveau moteur sur les SF‑26.",
+      "summary_en": "Lewis Hamilton, Charles Leclerc and Max Verstappen will each receive a ten‑place grid penalty at Interlagos after an engine change. Ferrari opted for a new engine on the SF‑26."
+    },
+    {
+      "id": "5a939be0962f",
+      "title": "Lewis Hamilton, Charles Leclerc and Max Verstappen hit with F1 grid penalties for Brazilian GP",
+      "title_fr": "Hamilton, Leclerc et Verstappen pénalisés sur grille pour le Grand Prix du Brésil",
+      "title_en": "Hamilton, Leclerc and Verstappen hit with grid penalties for Brazilian GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "published_at": "2026-11-07T15:04:02+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton, Charles Leclerc et Max Verstappen subiront chacun une pénalité de dix places sur la grille après un changement de moteur prévu pour le Grand Prix du Brésil.",
+      "summary_en": "Lewis Hamilton, Charles Leclerc and Max Verstappen will each serve a ten-place grid penalty after a scheduled engine change for the Brazilian Grand Prix."
+    },
+    {
+      "id": "366c327cc4f9",
+      "title": "Haas justifies picking Rafael Camara over Ryo Hirakawa for F1 Brazilian GP",
+      "title_fr": "Haas choisit Camara pour le GP du Brésil, justifie son choix",
+      "title_en": "Haas picks Camara for Brazilian GP, explains decision",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/haas-justifies-picking-rafael-camara-over-ryo-hirakawa-for-f1-brazilian-gp/10872474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXblGg2/s6/ayao-komatsu-haas-f1-team.jpg",
+      "published_at": "2026-11-07T14:40:27+00:00",
+      "race_id": "brazil",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique d’Haas, Ayao Komatsu, a expliqué que le choix de Rafael Camara pour son entrée en F1 au Grand Prix du Brésil s’appuie sur le professionnalisme, excluant toute critique envers Ryo Hirakawa.",
+      "summary_en": "Haas team principal Ayao Komatsu said the decision to give Rafael Camara his Formula 1 debut at the Brazilian Grand Prix was based purely on professionalism, not a critique of Ryo Hirakawa."
+    },
+    {
+      "id": "4415c15784fd",
+      "title": "Max Verstappen to start Brazilian GP from back of grid as Red Bull confirms penalty",
+      "title_fr": "Verstappen démarrera le Grand Prix du Brésil à l'arrière du tableau de départ",
+      "title_en": "Verstappen to start Brazilian GP from back of grid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-to-start-brazilian-gp-from-back-of-grid-as-red-bull-confirms-penalty/10872541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8lKL6/s6/motorsport-com-graphics-69.jpg",
+      "published_at": "2026-11-07T14:34:35+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen commencera le Grand Prix du Brésil à l'arrière du tableau de départ après que Red Bull ait confirmé une pénalité. Le principal Laurent Mekies a confirmé la décision.",
+      "summary_en": "Max Verstappen will start the Brazilian GP from the back of the grid after Red Bull confirmed a penalty. Team principal Laurent Mekies confirmed the decision."
+    },
+    {
+      "id": "075053b4b7e8",
+      "title": "F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal",
+      "title_fr": "F1 prolonge le GP du Brésil jusqu'en 2035",
+      "title_en": "F1 extends Brazilian GP to 2035 with new São Paulo deal",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-retains-brazilian-gp-until-2035-with-fresh-sao-paulo-deal/10872539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6O7zlya6/s6/gabriel-bortoleto-audi-f1-team.jpg",
+      "published_at": "2026-11-07T14:31:52+00:00",
+      "race_id": "brazil",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 a confirmé la présence du Grand Prix du Brésil sur son calendrier jusqu'en 2035, suite à un accord de cinq ans signé avec la ville de São Paulo. Le nouveau contrat renforce la contribution de la municipalité.",
+      "summary_en": "Formula 1 has confirmed the Brazilian Grand Prix will remain on the calendar until 2035, following a five‑year extension signed with the city of São Paulo. The new deal underscores the municipality’s financial contribution."
+    },
+    {
+      "id": "94805238dcf9",
+      "title": "F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal",
+      "title_fr": "F1 prolonge le Grand Prix brésilien jusqu'en 2035",
+      "title_en": "F1 keeps Brazilian GP until 2035 with new Sao Paulo deal",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-to-remain-in-brazil-until-2035-after-fresh-sao-paulo-deal/10872537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zlya6/s6/gabriel-bortoleto-audi-f1-team.jpg",
+      "published_at": "2026-11-07T14:30:22+00:00",
+      "race_id": "brazil",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 confirme le Grand Prix brésilien jusqu'en 2035 grâce à un nouveau contrat de cinq ans signé par la ville de Sao Paulo. Le circuit reste sur le calendrier jusqu'en 2035",
+      "summary_en": "Formula 1 has secured the Brazilian Grand Prix on its calendar through 2035 after signing a fresh five‑year deal with the city of Sao Paulo. The race will remain a fixture until 2035"
+    },
+    {
+      "id": "dd8ce2deefd2",
+      "title": "Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’",
+      "title_fr": "Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’",
+      "title_en": "Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/63QaBl72/s6/esteban-ocon-haas-f1-team.jpg",
+      "published_at": "2026-11-07T13:13:57+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ayao Komatsu says “everybody was surprised” when he told the Haas squad that Esteban Ocon wouldn’t compete for the outfit in Formula 1’s Mexican Grand Prix.<br />Ocon was dropped by Haas after a falli",
+      "summary_en": "Ayao Komatsu says “everybody was surprised” when he told the Haas squad that Esteban Ocon wouldn’t compete for the outfit in Formula 1’s Mexican Grand Prix.<br />Ocon was dropped by Haas after a falli"
+    },
+    {
+      "id": "f386c0cd2b0d",
+      "title": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
+      "title_fr": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
+      "title_en": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7QRyy6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-07T12:44:57+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in Free Practice 2, but a",
+      "summary_en": "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in Free Practice 2, but a"
+    },
     {
       "id": "42cf1cf833de",
       "title": "Ralf Schumacher slams Colton Herta's F1 prospects: \"He's just burning fuel\"",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a été le plus rapide en première séance de formation du Grand Prix brésilien, devançant Kimi Antonelli, Max Verstappen et Lewis Hamilton. Colton Herta a obtenu sa superlicence.",
       "summary_en": "Lando Norris was fastest in Free Practice 1 at the Brazilian Grand Prix, beating Kimi Antonelli, Max Verstappen and Lewis Hamilton. Colton Herta secured his superlicence."
-    },
-    {
-      "id": "b029206f023b",
-      "title": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
-      "title_fr": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
-      "title_en": "F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-norris-fastest-in-opening-practice-from-new-champion-antonelli/10872162/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/24QGzjNY/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-11-06T16:41:55+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris was fastest in first practice at Formula 1’s Brazilian Grand Prix, leading Kimi Antonelli, Max Verstappen and Lewis Hamilton.<br />This classification meant the four top teams were again ",
-      "summary_en": "Lando Norris was fastest in first practice at Formula 1’s Brazilian Grand Prix, leading Kimi Antonelli, Max Verstappen and Lewis Hamilton.<br />This classification meant the four top teams were again "
-    },
-    {
-      "id": "0cdc913cd669",
-      "title": "Oscar Piastri pays tribute to Australian F1 legend Alan Jones following his death",
-      "title_fr": "Piastri rend hommage à Alan Jones, champion australien décédé",
-      "title_en": "Piastri pays tribute to late Australian champion Alan Jones",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-pays-tribute-to-australian-f1-legend-alan-jones-following-his-death/10872171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YXyKlej6/s6/motorsport-com-graphics-64.jpg",
-      "published_at": "2026-11-06T16:40:11+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri, pilote de McLaren, a rendu hommage à Alan Jones, décédé à 80 ans, après une courte maladie. Le champion australien, vainqueur de 12 Grands Prix, laisse un vide dans la F1.",
-      "summary_en": "McLaren's Oscar Piastri paid tribute to the late Australian champion Alan Jones, who died at 80 after a brief illness. Jones won 12 Grands Prix and left a lasting legacy in F1."
-    },
-    {
-      "id": "a445f39e8564",
-      "title": "George Russell breaks silence on Mexican GP media absence after Mercedes fine",
-      "title_fr": "Russell explique son absence médiatique après le Grand Prix du Mexique",
-      "title_en": "Russell explains his media absence after Mexican GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-on-mexican-gp-media-absence-after-mercedes-fine/10872146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0rVP8km0/s6/motorsport-com-graphics-63.jpg",
-      "published_at": "2026-11-06T15:53:26+00:00",
-      "race_id": "mexico",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "George Russell a justifié son absence aux briefings après le Grand Prix du Mexique, après avoir félicité Kimi Antonelli. Mercedes a été sanctionnée d’une amende de 5 000 € par la FIA.",
-      "summary_en": "George Russell explained his media absence after the Mexican Grand Prix, after congratulating teammate Kimi Antonelli. Mercedes was fined €5,000 by the FIA."
-    },
-    {
-      "id": "d2dfc47c66be",
-      "title": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
-      "title_fr": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
-      "title_en": "\"Exhausted\" Russell set for Brazilian F1 grid penalty",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/exhausted-russell-set-for-brazilian-f1-grid-penalty/10872138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YK15qjD0/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-11-06T15:37:02+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes driver George Russell will lose five places on Sunday's Formula 1 Brazilian Grand Prix grid as he takes his sixth internal combustion engine of the season.<br />Following a brace of power uni",
-      "summary_en": "Mercedes driver George Russell will lose five places on Sunday's Formula 1 Brazilian Grand Prix grid as he takes his sixth internal combustion engine of the season.<br />Following a brace of power uni"
-    },
-    {
-      "id": "3febddead953",
-      "title": "\"Exhausted\" George Russell set for Brazilian F1 grid penalty",
-      "title_fr": "Russell pénalisé de cinq places pour le Grand Prix du Brésil",
-      "title_en": "Russell faces five-place grid penalty for Brazil",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/exhausted-george-russell-set-for-brazil-f1-grid-penalty/10872130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YWKAlB1Y/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-11-06T15:23:50+00:00",
-      "race_id": "bahrain",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "George Russell perd cinq places sur la grille du Grand Prix du Brésil après avoir utilisé son sixième moteur à combustion interne de la saison. La Mercedes a déjà subi plusieurs problèmes de puissance cette année.",
-      "summary_en": "George Russell will lose five grid positions at the Brazilian Grand Prix after using his sixth internal combustion engine of the season. Mercedes has already faced several power unit issues this year."
-    },
-    {
-      "id": "260d0e9c214a",
-      "title": "Spotlight: Who won F1 and F2 in the same year? Colapinto knows his history | Brief",
-      "title_fr": "Colapinto, pilote F2, connaît son parcours F1",
-      "title_en": "Colapinto, F2 driver, knows his F1 history",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/06/spotlight-who-won-f1-and-f2-in-the-same-year-colapinto-knows-his-history/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2018/04/racefansdotnet-20160211-180428-5.jpg",
-      "published_at": "2026-11-06T13:31:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Colapinto, pilote de Formule 2, évoque son parcours en Formule 1 et en Formule 2, rappelant les moments clés de sa carrière. Il souligne son ambition de remporter les deux championnats la même année.",
-      "summary_en": "Colapinto, a Formula 2 driver, reflects on his Formula 1 and Formula 2 career, recalling key moments. He highlights his ambition to win both championships in the same year."
-    },
-    {
-      "id": "a2a8f5f665d0",
-      "title": "Nico Rosberg compares Ferrari’s clashes to his own Mercedes F1 rivalry: “The instructions are not clear enough”",
-      "title_fr": "Rosberg compare les affrontements Ferrari à son rival Mercedes",
-      "title_en": "Rosberg compares Ferrari clashes to his own Mercedes rivalry",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-compares-ferraris-clashes-to-his-own-mercedes-f1-rivalry-the-instructions-are-not-clea/10872061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/27No9xX0/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-06T13:30:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Nico Rosberg évoque la rivalité qu’il a eue avec Lewis Hamilton chez Mercedes pour illustrer les tensions entre Hamilton et Leclerc chez Ferrari. Il souligne que les instructions de l’équipe restent floues.",
-      "summary_en": "Nico Rosberg draws a parallel between his intense rivalry with Lewis Hamilton at Mercedes and the current friction between Hamilton and Leclerc at Ferrari, noting that team instructions remain unclear."
-    },
-    {
-      "id": "282fda4aeeee",
-      "title": "Carlos Sainz recalls Charles Leclerc battles: “We always managed to find a solution”",
-      "title_fr": "Sainz rappelle les duels de Leclerc",
-      "title_en": "Sainz recalls Leclerc battles",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-recalls-charles-leclerc-battles-we-always-managed-to-find-a-solution/10871952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YXR3MwN0/s6/charles-leclerc-scuderia-ferra.jpg",
-      "published_at": "2026-11-06T12:42:02+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Carlos Sainz se souvient des duels intenses avec Charles Leclerc à Ferrari et commente la confrontation de Leclerc avec Lewis Hamilton lors du Grand Prix du Mexique.",
-      "summary_en": "Carlos Sainz recalls his fierce duels with Charles Leclerc at Ferrari and comments on Leclerc's fight with Lewis Hamilton at the Mexican Grand Prix."
     }
   ]
 }
