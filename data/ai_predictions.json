@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T13:00:25Z",
-  "model": "claude",
+  "generated_at": "2026-11-07T03:15:06Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -143,14 +143,14 @@
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 380 points, soit 119 de plus que Verstappen, et Mercedes cumule 630 points à deux pilotes. Il avait aussi signé P2 en qualif à Interlagos en 2025. Russell dispose de la même voiture. Verstappen reste la principale menace, mais l'absence d'actualités et de données d'essais limite la certitude de ce pronostic.",
-      "reasoning_en": "Antonelli dominates the championship with 380 points, 119 clear of Verstappen, and Mercedes has 630 points across its two drivers. He also qualified P2 at Interlagos in 2025. Russell has the same car. Verstappen remains the main threat, but the lack of recent news and practice data limits the certainty of this prediction.",
+      "p2": "hamilton",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli montre le meilleur rythme sur un tour à Interlagos (1:10.763) et mène la pratique, signe d'une forte performance en qualification. Hamilton a remporté la dernière qualification à Mexico, prouvant son aptitude à extraire le maximum d'une voiture en un seul tour. Russell, deuxième à Mexico et constant en course, bénéficie d'une Mercedes fiable et d'une bonne évolution de piste, le plaçant ",
+      "reasoning_en": "Antonelli displayed the fastest single‑lap pace in practice at Interlagos (1:10.763) and topped the session, indicating strong qualifying potential. Hamilton won the most recent qualifying in Mexico, showing he can extract peak performance in a single lap. Russell, second in Mexico and consistently fast in races, benefits from a reliable Mercedes and track evolution, naturally placing him in the t",
       "confidence": "medium",
-      "key_factor_fr": "Avantage Mercedes au championnat et référence d'Antonelli à Interlagos",
+      "key_factor_fr": "Rythme sur un tour + pratique Interlagos + grille cruciale",
       "news_used_ids": [],
-      "generated_at": "2026-11-06T13:00:25Z"
+      "generated_at": "2026-11-07T03:15:05Z"
     },
     {
       "event_id": "brazilian_grand_prix",
@@ -159,13 +159,13 @@
       "session_date": "2026-11-08T17:00:00+00:00",
       "p1": "antonelli",
       "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 119 points d'avance sur Verstappen, et Mercedes place deux pilotes dans le top 4. Il avait aussi fini 2e à Interlagos en 2025. Verstappen, vainqueur ici en 2023 et 2024 et 3e en 2025 après un départ des stands, excelle sur ce circuit. Russell, vainqueur en 2022, complète le podium malgré la menace Ferrari et le risque de pluie.",
-      "reasoning_en": "Antonelli leads the championship by 119 points over Verstappen, and Mercedes has two drivers in the top four. He also finished second at Interlagos in 2025. Verstappen won here in 2023 and 2024 and took third in 2025 from a pit-lane start, so he excels at this track. Russell, the 2022 winner, completes the podium despite the Ferrari threat and rain risk.",
+      "p3": "hamilton",
+      "reasoning_fr": "Antonelli domine la pratique à Interlagos (1:10.763) et arrive en tête du championnat, ce qui lui assure une bonne place sur la grille, cruciale sur ce circuit à dépassements limités. Verstappen, malgré un test interrompu, reste le pilote le plus rapide en course et possède une stratégie Red Bull solide. Hamilton, fort en qualification (P1 à Mexico) et bénéficiant d’une Ferrari fiable, pourra capi",
+      "reasoning_en": "Antonelli topped the second practice at Interlagos (1:10.763) and leads the championship, giving him a strong grid position, vital on a track where overtaking is hard. Verstappen, despite an early‑ended test, remains the fastest race‑pace driver and benefits from Red Bull's proven strategy. Hamilton, who qualified on pole in Mexico and drives a reliable Ferrari, can exploit a good start and tyre m",
       "confidence": "medium",
-      "key_factor_fr": "Domination de Mercedes au championnat et maîtrise d'Interlagos par Verstappen",
+      "key_factor_fr": "Grille de départ + rythme d'Antonielli à Interlagos",
       "news_used_ids": [],
-      "generated_at": "2026-11-06T13:00:14Z"
+      "generated_at": "2026-11-07T03:14:53Z"
     }
   ]
 }
