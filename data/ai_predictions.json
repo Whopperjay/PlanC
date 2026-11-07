@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:00:04Z",
+  "generated_at": "2026-11-07T13:00:25Z",
   "model": "claude",
   "predictions": [
     {
@@ -143,14 +143,14 @@
       "session_type": "qualifying",
       "session_date": "2026-11-07T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "hamilton",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli montre le meilleur rythme sur un tour à Interlagos (1:10.763) et mène la pratique, signe d'une forte performance en qualification. Hamilton a remporté la dernière qualification à Mexico, prouvant son aptitude à extraire le maximum d'une voiture en un seul tour. Russell, deuxième à Mexico et constant en course, bénéficie d'une Mercedes fiable et d'une bonne évolution de piste, le plaçant ",
-      "reasoning_en": "Antonelli displayed the fastest single‑lap pace in practice at Interlagos (1:10.763) and topped the session, indicating strong qualifying potential. Hamilton won the most recent qualifying in Mexico, showing he can extract peak performance in a single lap. Russell, second in Mexico and consistently fast in races, benefits from a reliable Mercedes and track evolution, naturally placing him in the t",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 119 points d'avance, signe que la Mercedes est la référence en 2026. Russell, son coéquipier, profite de la même voiture et reste un excellent qualifieur. Verstappen excelle à Interlagos et peut tirer le maximum de la Red Bull sur un tour, surtout si la météo change. Ferrari reste une menace, mais elle manque de constance sur un tour.",
+      "reasoning_en": "Antonelli leads the championship by 119 points, a sign that Mercedes is the benchmark car in 2026. Russell, his teammate, has the same car and remains an excellent qualifier. Verstappen thrives at Interlagos and can extract the most from the Red Bull over one lap, especially if the weather changes. Ferrari remains a threat but lacks one-lap consistency.",
       "confidence": "medium",
-      "key_factor_fr": "Rythme sur un tour + pratique Interlagos + grille cruciale",
+      "key_factor_fr": "Supériorité Mercedes et météo changeante à Interlagos",
       "news_used_ids": [],
-      "generated_at": "2026-11-07T03:15:05Z"
+      "generated_at": "2026-11-07T13:00:25Z"
     },
     {
       "event_id": "brazilian_grand_prix",
@@ -158,14 +158,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "hamilton",
-      "reasoning_fr": "Antonelli domine la pratique à Interlagos (1:10.763) et arrive en tête du championnat, ce qui lui assure une bonne place sur la grille, cruciale sur ce circuit à dépassements limités. Verstappen, malgré un test interrompu, reste le pilote le plus rapide en course et possède une stratégie Red Bull solide. Hamilton, fort en qualification (P1 à Mexico) et bénéficiant d’une Ferrari fiable, pourra capi",
-      "reasoning_en": "Antonelli topped the second practice at Interlagos (1:10.763) and leads the championship, giving him a strong grid position, vital on a track where overtaking is hard. Verstappen, despite an early‑ended test, remains the fastest race‑pace driver and benefits from Red Bull's proven strategy. Hamilton, who qualified on pole in Mexico and drives a reliable Ferrari, can exploit a good start and tyre m",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "",
+      "reasoning_en": "",
       "confidence": "medium",
-      "key_factor_fr": "Grille de départ + rythme d'Antonielli à Interlagos",
+      "key_factor_fr": "",
       "news_used_ids": [],
-      "generated_at": "2026-11-07T03:14:53Z"
+      "generated_at": "2026-11-07T13:00:14Z"
     }
   ]
 }
