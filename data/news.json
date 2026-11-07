@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-06T21:10:16Z",
+  "last_updated": "2026-11-07T00:12:16Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ca65c82feedb",
+      "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
+      "title_fr": "Norris explique comment Hamilton a changé ses ambitions",
+      "title_en": "Norris explains how Hamilton has reshaped his ambitions",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YWKAlQKY/s6/motorsport-com-graphics-68.jpg",
+      "published_at": "2026-11-06T23:15:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Norris a déclaré que les sept titres de Hamilton l'ont poussé à vouloir plus, alors qu'il a lui-même remporté son premier championnat en 2025 après une bataille acharnée contre Piastri et Verstappen.",
+      "summary_en": "Norris said Hamilton's seven titles have made him want more, while Norris himself won his first championship in 2025 after a fierce battle with Piastri and Verstappen."
+    },
+    {
+      "id": "1d22b348a97e",
+      "title": "Why Max Verstappen ended F1 practice early in Brazil – Red Bull explains",
+      "title_fr": "Verstappen termine prématurément la séance de test à Sao Paulo",
+      "title_en": "Verstappen ends practice early in Sao Paulo",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-06T22:32:59+00:00",
+      "race_id": "netherlands",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a terminé la séance de test de vendredi à Sao Paulo en troisième place, mais a quitté prématurément les stands. Red Bull affirme que la voiture possède encore suffisamment de potentiel pour rivaliser.",
+      "summary_en": "Max Verstappen finished Friday's practice in Sao Paulo in third place but left the session early. Red Bull says the car still has enough potential to compete."
+    },
+    {
+      "id": "a788d08180af",
+      "title": "Fred Vasseur turns down being godfather to Charles Leclerc’s baby: “I have four children”",
+      "title_fr": "Vasseur refuse d’être parrain de la petite Leclerc",
+      "title_en": "Vasseur Declines to Be Godfather to Leclerc's Baby",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvXkvY/s6/motorsport-com-graphics-67.jpg",
+      "published_at": "2026-11-06T22:12:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, a décliné la demande de Charles Leclerc de devenir parrain de sa fille Bianca, affirmant qu’il a déjà quatre enfants à s’occuper.",
+      "summary_en": "Ferrari team principal Fred Vasseur declined Charles Leclerc’s request to be godfather to his daughter Bianca, saying he already has four children to look after."
+    },
+    {
+      "id": "5b27beb2b4a9",
+      "title": "F1 Brazil GP: Saturday schedule, weather forecast and how to watch",
+      "title_fr": "Antonelli mène la deuxième séance de pratique à Interlagos",
+      "title_en": "Antonelli leads second practice at Interlagos",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8lnd6/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-06T22:05:41+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a établi le chrono de la deuxième séance de pratique du Grand Prix du Brésil, franchissant la barre des 1m10.763s. Il dépasse Lando Norris, Max Verstappen et George Russell, tandis que Mercedes, McLaren et Red Bull restent serrés.",
+      "summary_en": "Kimi Antonelli set the fastest time in the second practice session for the Brazil Grand Prix, clocking 1m10.763s. He beat Lando Norris, Max Verstappen and George Russell, with Mercedes, McLaren and Red Bull close behind."
+    },
+    {
+      "id": "715a3e2153b8",
+      "title": "McLaren’s upgrade is \"a pleasant surprise\" – but will it stay on the car in Brazil?",
+      "title_fr": "McLaren : la mise à jour séduit Norris, mais son avenir reste incertain",
+      "title_en": "McLaren's upgrade impresses Norris, but its future remains uncertain",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBDW16/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-11-06T21:49:40+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La dernière mise à jour de McLaren a séduit Lando Norris, qui a dominé le premier entraînement à São Paulo, mais son avenir sur la voiture reste incertain.",
+      "summary_en": "McLaren's latest upgrade impressed Lando Norris, who topped the first practice in São Paulo, but its future on the car remains uncertain."
+    },
+    {
+      "id": "412118e43348",
+      "title": "Ferrari’s racing guidelines “still the same” after Mexican GP talks – Vasseur | Formula 1",
+      "title_fr": "Vasseur confirme que les règles de course de Ferrari restent inchangées après le Mexique",
+      "title_en": "Vasseur confirms Ferrari's racing rules unchanged after Mexico",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/06/ferraris-racing-guidelines-still-the-same-after-mexican-gp-talks-vasseur/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-28-13-14-01-3-15-japan-gp-2026-saturday_fc656068-2f6e-488d-9bdb-98d3ab59490a.jpg",
+      "published_at": "2026-11-06T21:29:40+00:00",
+      "race_id": "mexico",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de Ferrari, Frederic Vasseur, a déclaré que les directives de course demeurent les mêmes après la défaite de l’équipe au Grand Prix du Mexique.",
+      "summary_en": "Ferrari team principal Frederic Vasseur said the team's racing guidelines remain unchanged following their loss at the Mexican Grand Prix."
+    },
     {
       "id": "04199f5dadc3",
       "title": "Why Toto Wolff sees Ferrari clash as \"déjà vu\" – and why escalation may be necessary",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges.<br />The Mercedes driver started 2026 as the favourite for the title, but aft",
       "summary_en": "George Russell has admitted he is mentally exhausted after a season in which he has repeatedly had to overcome challenges.<br />The Mercedes driver started 2026 as the favourite for the title, but aft"
-    },
-    {
-      "id": "a1706c8fb89f",
-      "title": "Kimi Antonelli admits George Russell still holds one massive advantage over him",
-      "title_fr": "Antonelli confie que Russell a un avantage massif",
-      "title_en": "Antonelli admits Russell still holds massive advantage",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-admits-george-russell-still-holds-one-massive-advantage-over-him/10871794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0o5AwpDY/s6/motorsport-com-graphics-78-2.jpg",
-      "published_at": "2026-11-05T21:53:34+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a reconnu que George Russell possède encore un avantage considérable sur lui, malgré la saison difficile de Russell en 2026. Le pilote italien souligne la supériorité du Britannique.",
-      "summary_en": "Kimi Antonelli admitted that George Russell still holds a massive advantage over him, despite Russell's tough 2026 campaign. The Italian driver highlights the Briton's superiority."
-    },
-    {
-      "id": "af577f1c6fab",
-      "title": "Kimi Antonelli opens up on \"very emotional\" visit to Ayrton Senna's family estate",
-      "title_fr": "Kimi Antonelli opens up on \"very emotional\" visit to Ayrton Senna's family estate",
-      "title_en": "Kimi Antonelli opens up on \"very emotional\" visit to Ayrton Senna's family estate",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-very-emotional-visit-to-ayrton-sennas-family-estate/10871927/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YvKBDzn6/s6/motorsport-com-graphics-61.jpg",
-      "published_at": "2026-11-05T21:43:40+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "2026 Formula 1 champion Kimi Antonelli has opened up about his recent visit to Ayrton Senna's family home ahead of this weekend's Brazilian Grand Prix.<br />The Mercedes driver went to Fazenda Dois La",
-      "summary_en": "2026 Formula 1 champion Kimi Antonelli has opened up about his recent visit to Ayrton Senna's family home ahead of this weekend's Brazilian Grand Prix.<br />The Mercedes driver went to Fazenda Dois La"
-    },
-    {
-      "id": "c3ab56cf719e",
-      "title": "Kimi Antonelli reacts to Max Verstappen and Lewis Hamilton on Mexico podium: “I will frame it”",
-      "title_fr": "Antonelli réagit à la victoire de Verstappen et Hamilton sur le podium mexicain",
-      "title_en": "Antonelli reacts to Verstappen and Hamilton's podium win in Mexico",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-verstappen-and-hamilton-hoisting-him-on-the-mexico-podium-i-will-frame-it/10871768/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxw53Y/s6/motorsport-com-graphics-77-2.jpg",
-      "published_at": "2026-11-05T21:07:17+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli partage le podium avec Max Verstappen et Lewis Hamilton à Mexico, déclarant qu'il va le mettre en cadre. Le pilote de 20 ans a salué l'intensité de la victoire.",
-      "summary_en": "Kimi Antonelli shared the podium with Max Verstappen and Lewis Hamilton in Mexico, saying he will frame it. The 20‑year‑old praised the intensity of the win."
-    },
-    {
-      "id": "47ec174e3ce1",
-      "title": "Max Verstappen responds to Toto Wolff’s claim that era of \"ruthless\" F1 drivers is over",
-      "title_fr": "Verstappen riposte à la déclaration de Wolff",
-      "title_en": "Verstappen responds to Wolff's claim that ruthless era is over",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-toto-wolffs-claim-that-era-of-ruthless-f1-drivers-is-over/10871913/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2wlKyrWY/s6/motorsport-com-graphics-58.jpg",
-      "published_at": "2026-11-05T20:44:59+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a rétorqué la remarque de Toto Wolff, qui a déclaré que l'ère des pilotes sans pitié était terminée. Le champion de quatre titres défend son approche de la compétition.",
-      "summary_en": "Max Verstappen rebuts Toto Wolff's claim that the ruthless era of F1 drivers is over, defending his competitive approach."
-    },
-    {
-      "id": "8b7778b52523",
-      "title": "Kimi Antonelli admits he questioned himself throughout his rookie campaign",
-      "title_fr": "Antonelli avoue ses doutes de première saison",
-      "title_en": "Antonelli admits doubts during rookie season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-admits-he-questioned-himself-throughout-his-rookie-campaign/10871901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6zoDjyj0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-05T20:32:35+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, champion de Formule 1, a avoué qu'il s'est interrogé tout au long de sa première saison. Malgré ses doutes, il a dominé la saison et a remporté le titre en Mexico.",
-      "summary_en": "Kimi Antonelli, Formula 1 champion, admitted he questioned himself throughout his rookie season. Despite his doubts, he dominated the season and clinched the title in Mexico."
-    },
-    {
-      "id": "b2d1fba162a8",
-      "title": "F1 Brazil GP: Friday schedule, weather forecast and how to watch",
-      "title_fr": "F1 : Interlagos, programme et météo du vendredi",
-      "title_en": "F1 Brazil GP: Friday schedule, weather forecast and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-friday-schedule-weather-forecast-and-how-to-watch/10871866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0JXRljpY/s6/a-detailed-view-of-the-tracksi-3.jpg",
-      "published_at": "2026-11-05T20:24:53+00:00",
-      "race_id": null,
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 s'apprête à Interlagos, où Kimi Antonelli, champion du monde, arrive après son titre au Mexique. Le programme du vendredi, la météo et les options de diffusion sont détaillés.",
-      "summary_en": "Formula 1 heads to Interlagos with Kimi Antonelli, the new world champion, arriving after his Mexico GP title. Friday's schedule, weather forecast and viewing options are outlined."
     }
   ]
 }
