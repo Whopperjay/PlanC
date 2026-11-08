@@ -1,7 +1,178 @@
 {
-  "last_updated": "2026-11-08T18:40:11Z",
+  "last_updated": "2026-11-08T21:42:12Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e4bd1d4a590f",
+      "title": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
+      "title_fr": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
+      "title_en": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/antonelli-explains-weird-spin-and-car-instability-which-cost-f1-brazilian-gp-win/10873132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2eZx8n9Y/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-08T20:57:57+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli vowed to put aside his Brazilian Grand Prix anger to celebrate Mercedes winning the Formula 1 constructors' title, as he rued the balance issues and the spin that took him out of victor",
+      "summary_en": "Kimi Antonelli vowed to put aside his Brazilian Grand Prix anger to celebrate Mercedes winning the Formula 1 constructors' title, as he rued the balance issues and the spin that took him out of victor"
+    },
+    {
+      "id": "8c62f9f83b07",
+      "title": "Kimi Antonelli: \"Weird\" spin and car instability cost F1 Brazilian GP win",
+      "title_fr": "Antonelli perd la victoire du GP brésilien après un spin étrange",
+      "title_en": "Antonelli loses Brazilian GP win after weird spin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-weird-spin-and-car-instability-cost-f1-brazilian-gp-win/10873125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQEoVY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-08T20:56:10+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a perdu la victoire du Grand Prix brésilien à cause d'un spin étrange et d'une instabilité de la voiture, malgré un départ en tête.",
+      "summary_en": "Kimi Antonelli lost the Brazilian Grand Prix after a weird spin and car instability, despite taking the lead from Lando Norris at the start."
+    },
+    {
+      "id": "c2e86e00ac16",
+      "title": "F1 CEO Stefano Domenicali sends heartfelt message to Mercedes after constructors' title victory",
+      "title_fr": "Domenicali félicite Mercedes pour le titre des constructeurs",
+      "title_en": "Domenicali Congratulates Mercedes on Constructors' Title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-ceo-stefano-domenicali-sends-heartfelt-message-to-mercedes-after-constructors-title-victory/10873115/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YWKARlxY/s6/motorsport-com-graphics-74.jpg",
+      "published_at": "2026-11-08T20:26:15+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de la F1, Stefano Domenicali, a félicité Mercedes pour avoir remporté le championnat des constructeurs 2026, en soulignant la place de Toto Wolff aux côtés de Sir Frank Williams.",
+      "summary_en": "F1 chief Stefano Domenicali congratulated Mercedes on winning the 2026 constructors' championship, highlighting Toto Wolff's record alongside Sir Frank Williams."
+    },
+    {
+      "id": "bf8dab3aaaf6",
+      "title": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
+      "title_fr": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
+      "title_en": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-and-charles-leclerc-summoned-to-stewards-after-f1-brazilian-gp/10873093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
+      "published_at": "2026-11-08T19:52:06+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Following the Formula 1 Brazilian Grand Prix, which was convincingly won by outgoing world champion Lando Norris, several drivers still have to pay a visit to the stewards post-race.<br />Kimi Antonel",
+      "summary_en": "Following the Formula 1 Brazilian Grand Prix, which was convincingly won by outgoing world champion Lando Norris, several drivers still have to pay a visit to the stewards post-race.<br />Kimi Antonel"
+    },
+    {
+      "id": "02b1e1571919",
+      "title": "Lando Norris goes viral after Brazilian GP podium celebration goes wrong",
+      "title_fr": "Norris fait sensation à Interlagos après un podium qui tourne mal",
+      "title_en": "Norris goes viral after Brazilian GP podium mishap",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-goes-viral-after-brazilian-gp-podium-celebration-goes-wrong/10873089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/24QGbZAY/s6/motorsport-com-graphics-73.jpg",
+      "published_at": "2026-11-08T19:39:51+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote McLaren Lando Norris a déclenché la vague sur les réseaux après avoir fait tomber le bouchon de champagne sur le podium d'Interlagos, provoquant un éclat de bulles inattendu.",
+      "summary_en": "McLaren's Lando Norris went viral after a champagne bottle mishap on the Brazilian GP podium, sending a splash of bubbles across the track."
+    },
+    {
+      "id": "377224393b78",
+      "title": "Five quick takeaways from Brazilian GP",
+      "title_fr": "Verstappen revient, Norris domine, 2026 rend les dépassements plus difficiles",
+      "title_en": "Verstappen returns, Norris dominates, 2026 makes overtaking harder",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-brazil-gp/10873014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws.jpg",
+      "published_at": "2026-11-08T18:55:25+00:00",
+      "race_id": "brazil",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a réalisé une remontée impressionnante, tandis que Lando Norris a montré une performance hors pair. Les voitures 2026, sans DRS, rendent les dépassements plus difficiles, comme l'ont souligné Verstappen et Hamilton.",
+      "summary_en": "Max Verstappen staged an impressive comeback, while Lando Norris delivered a dominant performance. The 2026 cars, lacking DRS, make overtaking harder, as both Verstappen and Hamilton noted."
+    },
+    {
+      "id": "8f42c893f2f1",
+      "title": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors’ title",
+      "title_fr": "Norris triomphe au Brésil, Mercedes remporte le championnat des constructeurs",
+      "title_en": "Norris wins in Brazil, Mercedes clinch constructors' title",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg",
+      "published_at": "2026-11-08T18:50:51+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a remporté son troisième victoire de 2026 au Grand Prix brésilien, battant Max Verstappen dans des conditions variables. Mercedes a ainsi scellé le championnat du monde des constructeurs.",
+      "summary_en": "Lando Norris secured his third 2026 win at the Brazilian Grand Prix, defeating Max Verstappen amid mixed conditions. Mercedes clinched the World Constructors' Championship."
+    },
+    {
+      "id": "53b262c626be",
+      "title": "F1 Brazilian GP: Lando Norris wins in mixed conditions, Mercedes clinch constructors’ title",
+      "title_fr": "Norris triomphe à Brésil, Mercedes remporte le titre des constructeurs",
+      "title_en": "Norris wins in Brazil, Mercedes clinches constructors title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0arE3Nw2/s6/lando-norris-mclaren-3.jpg",
+      "published_at": "2026-11-08T18:48:58+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a remporté son troisième victoire de 2026 au Grand Prix brésilien, battant Max Verstappen dans des conditions variables. Mercedes a décroché le championnat des constructeurs.",
+      "summary_en": "Lando Norris secured his third win of 2026 at the Brazilian Grand Prix, defeating Max Verstappen amid mixed weather. Mercedes clinched the constructors' championship."
+    },
+    {
+      "id": "f5298a1d8788",
+      "title": "Mercedes crowned 2026 F1 constructors' champion at Brazilian GP",
+      "title_fr": "Mercedes crowned 2026 F1 constructors' champion at Brazilian GP",
+      "title_en": "Mercedes crowned 2026 F1 constructors' champion at Brazilian GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-crowned-2026-f1-constructors-champion-at-brazilian-gp/10873044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/68VwMaX2/s6/motorsport-com-graphics-84-2.jpg",
+      "published_at": "2026-11-08T18:43:09+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes has won the 2026 Formula 1 constructors' championship, sealing the title at the Brazilian Grand Prix at Interlagos.<br />Kimi Antonelli and George Russell started second and seventh on the gr",
+      "summary_en": "Mercedes has won the 2026 Formula 1 constructors' championship, sealing the title at the Brazilian Grand Prix at Interlagos.<br />Kimi Antonelli and George Russell started second and seventh on the gr"
+    },
     {
       "id": "13585eb4e82a",
       "title": "Rate the race: 2026 Brazilian Grand Prix | Formula 1",
@@ -590,177 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris claimed pole position in a soaking wet qualifying session for the Brazilian Grand Prix.",
       "summary_en": "Lando Norris claimed pole position in a soaking wet qualifying session for the Brazilian Grand Prix."
-    },
-    {
-      "id": "89c9c7bdcb40",
-      "title": "F1 Brazilian GP: Lando Norris takes pole in soaking wet qualifying",
-      "title_fr": "Norris décroche pole en pleine pluie à Interlagos",
-      "title_en": "Norris Secures Pole in Wet Interlagos Qualifying",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/27No3ae0/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-11-07T20:32:58+00:00",
-      "race_id": "brazil",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a remporté le pole lors de la séance de qualification mouillée du Grand Prix du Brésil, surpassant George Russell sur le circuit d'Interlagos. La session a été interrompue par une pluie torrentielle.",
-      "summary_en": "Lando Norris clinched pole position in a rain-soaked qualifying session at the Brazilian Grand Prix, beating George Russell on Interlagos. The session was halted by heavy rain."
-    },
-    {
-      "id": "04dd3c0cc741",
-      "title": "Toto Wolff explains the emotional Mercedes factory email leaked online",
-      "title_fr": "Toto Wolff révèle l'email volé de Mercedes",
-      "title_en": "Toto Wolff reveals leaked Mercedes email",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-emotional-mercedes-factory-email-that-got-leaked-online/10872607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/24QGbvNY/s6/motorsport-com-graphics-82-2.jpg",
-      "published_at": "2026-11-07T20:32:28+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a expliqué l'émotion derrière l'email de l'équipe Mercedes qui a été divulgué en ligne après la victoire de Kimi Antonelli. Le message, très long, a suscité l'attention des fans.",
-      "summary_en": "Toto Wolff explained the emotion behind the leaked Mercedes team email after Kimi Antonelli's historic win. The lengthy message drew fans' attention."
-    },
-    {
-      "id": "9f568ea71159",
-      "title": "Qualifying halted by heavy rain at Interlagos | Formula 1",
-      "title_fr": "Qualification interrompue par la pluie à Interlagos",
-      "title_en": "Qualifying halted by heavy rain at Interlagos",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/qualifying-halted-by-heavy-rain-at-interlagos/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-15-02-25-6-2303999858.jpg",
-      "published_at": "2026-11-07T18:40:11+00:00",
-      "race_id": null,
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "La séance de qualification de la Formule 1 à Interlagos a été arrêtée deux minutes et demie après le début à cause d’une forte pluie.",
-      "summary_en": "The Formula 1 qualifying session at Interlagos was red-flagged two-and-a-half minutes after it started due to heavy rain."
-    },
-    {
-      "id": "29062825a906",
-      "title": "Toto Wolff doesn’t think Kimi Antonelli “would have lasted in other teams”",
-      "title_fr": "Wolff déclare qu'Antonelli n'aurait pas survécu dans d'autres équipes",
-      "title_en": "Wolff says Antonelli wouldn't have survived in other teams",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-mercedes-shielded-kimi-antonelli-during-his-brutal-2025-slump/10872603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0o5AVR1Y/s6/motorsport-com-graphics-81-2.jpg",
-      "published_at": "2026-11-07T18:35:37+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff affirme que Kimi Antonelli n'aurait pas réussi à rester dans une autre équipe de Formule 1. Le pilote Mercedes a mis en lumière la difficulté de la montée en puissance des jeunes talents.",
-      "summary_en": "Toto Wolff says Kimi Antonelli would not have survived in another F1 team. The Mercedes driver highlighted the harsh reality of young talents' rapid rise."
-    },
-    {
-      "id": "d78076b27b3c",
-      "title": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
-      "title_fr": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
-      "title_en": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0qgKrwgY/s6/lewis-hamilton-ferrari-2.jpg",
-      "published_at": "2026-11-07T17:32:44+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur",
-      "summary_en": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur"
-    },
-    {
-      "id": "c2a673e9be07",
-      "title": "Lewis Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
-      "title_fr": "Lewis Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
-      "title_en": "Lewis Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872640/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmAwWK0/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-11-07T17:30:52+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur",
-      "summary_en": "Lewis Hamilton will have to start Formula 1’s Brazilian Grand Prix from the back of the grid, Ferrari has announced.<br />Hamilton was given his fifth internal combustion engine of the season on Satur"
-    },
-    {
-      "id": "0acd031a6675",
-      "title": "Fred Vasseur personally contributed $1m to Esteban Ocon’s first F1 drive",
-      "title_fr": "Vasseur finance 1 million de dollars pour Ocon",
-      "title_en": "Vasseur funds $1 million for Ocon",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-personally-contributed-1m-to-esteban-ocons-first-f1-drive/10872524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7LzZMY/s6/esteban-ocon-manor-racing.jpg",
-      "published_at": "2026-11-07T16:43:53+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fred Vasseur a versé un million de dollars pour soutenir la première saison d'Esteban Ocon en Formule 1, selon Toto Wolff.",
-      "summary_en": "Fred Vasseur reportedly donated $1 million to back Esteban Ocon's debut F1 season, according to Mercedes team principal Toto Wolff."
-    },
-    {
-      "id": "cc9bbf186886",
-      "title": "F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble",
-      "title_fr": "Verstappen bat Antonelli en FP3, Hamilton en panne mécanique",
-      "title_en": "Verstappen beats Antonelli in FP3, Hamilton suffers mechanical issue",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-verstappen-edges-out-antonelli-to-top-fp3-as-hamilton-hits-mechanical-trouble/10872582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6x7L93jY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-07T15:37:40+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a franchi la ligne en tête de la pratique libre 3 du Grand Prix du Brésil, dépassant de peu Kimi Antonelli. Lewis Hamilton a vu sa Ferrari tomber en panne mécanique.",
-      "summary_en": "Max Verstappen topped FP3 at the Brazilian Grand Prix, narrowly beating Kimi Antonelli. Lewis Hamilton's Ferrari suffered a mechanical failure."
-    },
-    {
-      "id": "c8d534bc3a87",
-      "title": "F1 Brazilian GP: Max Verstappen edges out Kimi Antonelli in FP3",
-      "title_fr": "F1 Brazilian GP: Max Verstappen edges out Kimi Antonelli in FP3",
-      "title_en": "F1 Brazilian GP: Max Verstappen edges out Kimi Antonelli in FP3",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-fp3-report/10872574/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/01QNp5e0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-07T15:35:48+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue.<br />The impendi",
-      "summary_en": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue.<br />The impendi"
     }
   ]
 }
