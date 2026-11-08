@@ -604,7 +604,9 @@
               "Driver": {
                 "driverId": "rafael_camara",
                 "givenName": "Rafael",
-                "familyName": "Camara"
+                "familyName": "Camara",
+                "dateOfBirth": "1900-01-01",
+                "nationality": "Unknown"
               },
               "Constructors": [
                 {
