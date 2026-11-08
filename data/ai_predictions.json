@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T13:00:25Z",
-  "model": "claude",
+  "generated_at": "2026-11-08T03:30:46Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -157,15 +157,15 @@
       "race_id": "brazilian",
       "session_type": "grand_prix",
       "session_date": "2026-11-08T17:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "",
-      "reasoning_en": "",
-      "confidence": "medium",
-      "key_factor_fr": "",
+      "p1": "norris",
+      "p2": "antonelli",
+      "p3": "russell",
+      "reasoning_fr": "Norris part en pole sur un circuit où le dépassement est très difficile, surtout sous la pluie. Son rythme en qualification montre une bonne gestion des pneus mouillés. Antonelli, troisième sur la grille, a montré une forme exceptionnelle à Mexico et possède le même avantage de départ. Russell, deuxième, a exprimé sa frustration mais dispose d’un bon départ et d’une stratégie Mercedes solide, ce q",
+      "reasoning_en": "Norris starts from pole on a track where overtaking is extremely hard, especially in wet conditions. His qualifying pace indicates strong wet‑tyre management. Antonelli, third on the grid, displayed excellent form in Mexico and benefits from the same front‑row advantage. Russell, second, voiced frustration but has a good start and a solid Mercedes strategy, putting him naturally on the podium.",
+      "confidence": "high",
+      "key_factor_fr": "Grille de départ + difficulté de dépassement",
       "news_used_ids": [],
-      "generated_at": "2026-11-07T13:00:14Z"
+      "generated_at": "2026-11-08T03:30:45Z"
     }
   ]
 }
