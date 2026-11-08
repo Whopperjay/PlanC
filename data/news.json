@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T03:30:07Z",
+  "last_updated": "2026-11-08T06:32:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -231,6 +231,25 @@
       "summary_en": "Max Verstappen called it a day after Q1 during Formula 1 qualifying in Sao Paulo, as he already knew he would be starting from the back of the grid for the Brazilian Grand Prix due to an engine-relate"
     },
     {
+      "id": "1f2bbd711b09",
+      "title": "2026 Brazilian Grand Prix grid | Formula 1",
+      "title_fr": "Norris en pole provisoire pour le Grand Prix du Brésil",
+      "title_en": "Norris takes provisional pole for Brazilian GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/2026-brazilian-grand-prix-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-15-01-57-1-1COL3221_f1MRVP2E_20261107061720.jpg",
+      "published_at": "2026-11-07T21:22:08+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a obtenu la pole provisoire du Grand Prix du Brésil, devant Andrea Kimi Antonelli et Liam Lawson.",
+      "summary_en": "Lando Norris secured provisional pole for the Brazilian GP, ahead of Andrea Kimi Antonelli and Liam Lawson."
+    },
+    {
       "id": "5bddc2e17d26",
       "title": "Toto Wolff responds to George Russell's angry radio messages in Brazilian GP qualifying",
       "title_fr": "Wolff réagit aux messages radio de Russell à Interlagos",
@@ -307,6 +326,25 @@
       "summary_en": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.<br />In a challenging session that "
     },
     {
+      "id": "666cff066f0a",
+      "title": "Norris claims pole in rain-lashed Brazilian Grand Prix qualifying | 2026 Brazilian Grand Prix qualifying report",
+      "title_fr": "Norris claims pole in rain-lashed Brazilian Grand Prix qualifying | 2026 Brazilian Grand Prix qualifying report",
+      "title_en": "Norris claims pole in rain-lashed Brazilian Grand Prix qualifying | 2026 Brazilian Grand Prix qualifying report",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/norris-claims-pole-in-rain-lashed-brazilian-grand-prix-qualifying/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-15-03-04-3-2303998507.jpg",
+      "published_at": "2026-11-07T20:33:40+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris claimed pole position in a soaking wet qualifying session for the Brazilian Grand Prix.",
+      "summary_en": "Lando Norris claimed pole position in a soaking wet qualifying session for the Brazilian Grand Prix."
+    },
+    {
       "id": "89c9c7bdcb40",
       "title": "F1 Brazilian GP: Lando Norris takes pole in soaking wet qualifying",
       "title_fr": "Norris décroche pole en pleine pluie à Interlagos",
@@ -343,6 +381,25 @@
       "is_breaking": false,
       "summary_fr": "Toto Wolff a expliqué l'émotion derrière l'email de l'équipe Mercedes qui a été divulgué en ligne après la victoire de Kimi Antonelli. Le message, très long, a suscité l'attention des fans.",
       "summary_en": "Toto Wolff explained the emotion behind the leaked Mercedes team email after Kimi Antonelli's historic win. The lengthy message drew fans' attention."
+    },
+    {
+      "id": "9f568ea71159",
+      "title": "Qualifying halted by heavy rain at Interlagos | Formula 1",
+      "title_fr": "Qualification interrompue par la pluie à Interlagos",
+      "title_en": "Qualifying halted by heavy rain at Interlagos",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/qualifying-halted-by-heavy-rain-at-interlagos/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-15-02-25-6-2303999858.jpg",
+      "published_at": "2026-11-07T18:40:11+00:00",
+      "race_id": null,
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "La séance de qualification de la Formule 1 à Interlagos a été arrêtée deux minutes et demie après le début à cause d’une forte pluie.",
+      "summary_en": "The Formula 1 qualifying session at Interlagos was red-flagged two-and-a-half minutes after it started due to heavy rain."
     },
     {
       "id": "29062825a906",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc a qualifié la Ferrari SF-26 de lente sur les lignes droites et de mauvaise performance en virage après la séance d'essai du vendredi. Le pilote a exprimé son mécontentement face à ces résultats.",
       "summary_en": "Charles Leclerc described the Ferrari SF-26 as slow on straights and struggling in corners after Friday's free practice. The driver expressed frustration with the car’s performance."
-    },
-    {
-      "id": "b734d2a3ff17",
-      "title": "Racing Bulls boss ‘understands frustration’ over driver decision delay",
-      "title_fr": "Permane comprend la frustration sur le choix des pilotes",
-      "title_en": "Permane Understands Frustration Over Driver Decision Delay",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7LvO1Y/s6/liam-lawson-racing-bulls.jpg",
-      "published_at": "2026-11-07T08:51:50+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Alan Permane, directeur de Racing Bulls, a déclaré comprendre la frustration liée au retard de décision concernant la place de Liam Lawson ou de Nikola Tsolov pour 2027. L'équipe prépare sa saison la plus réussie.",
-      "summary_en": "Alan Permane, Racing Bulls boss, said he understands the frustration over the delay in deciding whether to keep Liam Lawson or promote reserve driver Nikola Tsolov for 2027. The team is gearing up for its most successful season."
-    },
-    {
-      "id": "ca65c82feedb",
-      "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
-      "title_fr": "Norris explique comment Hamilton a changé ses ambitions",
-      "title_en": "Norris explains how Hamilton has reshaped his ambitions",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YWKAlQKY/s6/motorsport-com-graphics-68.jpg",
-      "published_at": "2026-11-06T23:15:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Norris a déclaré que les sept titres de Hamilton l'ont poussé à vouloir plus, alors qu'il a lui-même remporté son premier championnat en 2025 après une bataille acharnée contre Piastri et Verstappen.",
-      "summary_en": "Norris said Hamilton's seven titles have made him want more, while Norris himself won his first championship in 2025 after a fierce battle with Piastri and Verstappen."
-    },
-    {
-      "id": "1d22b348a97e",
-      "title": "Why Max Verstappen ended F1 practice early in Brazil – Red Bull explains",
-      "title_fr": "Verstappen termine prématurément la séance de test à Sao Paulo",
-      "title_en": "Verstappen ends practice early in Sao Paulo",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-06T22:32:59+00:00",
-      "race_id": "netherlands",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a terminé la séance de test de vendredi à Sao Paulo en troisième place, mais a quitté prématurément les stands. Red Bull affirme que la voiture possède encore suffisamment de potentiel pour rivaliser.",
-      "summary_en": "Max Verstappen finished Friday's practice in Sao Paulo in third place but left the session early. Red Bull says the car still has enough potential to compete."
     }
   ]
 }
