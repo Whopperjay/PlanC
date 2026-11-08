@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-08T12:36:17Z",
+  "last_updated": "2026-11-08T15:38:12Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ba9cdbbfaf01",
+      "title": "Gabriel Bortoleto's partner Isabella Bernardini shows off custom Audi dress at Brazil GP",
+      "title_fr": "Isabella Bernardini arbore une robe Audi à Interlagos",
+      "title_en": "Isabella Bernardini Showcases Custom Audi Dress at Brazil GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2y7QrPK6/s6/motorsport-com-graphics-71.jpg",
+      "published_at": "2026-11-08T14:28:32+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Isabella Bernardini, partenaire de Gabriel Bortoleto, a fait sensation à Interlagos en portant une robe unique fabriquée à partir de la collection adidas Sampa Soul d’Audi. La créatrice Fiona Roerig a intégré leurs idées.",
+      "summary_en": "Isabella Bernardini, partner of Gabriel Bortoleto, turned heads at Interlagos wearing a one‑off dress made from Audi’s special adidas Sampa Soul collection. Designer Fiona Roerig incorporated their ideas into the upcycled design."
+    },
+    {
+      "id": "db50567c1fb6",
+      "title": "Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?",
+      "title_fr": "Hamilton et Verstappen en quête de la victoire brésilienne",
+      "title_en": "Hamilton and Verstappen eye Brazilian GP victory",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
+      "published_at": "2026-11-08T13:29:32+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton et Max Verstappen, classés 20e et 21e, cherchent à renverser la situation sur le circuit de São Paulo. Le duel promet d’être captivant, malgré les incertitudes climatiques.",
+      "summary_en": "Lewis Hamilton and Max Verstappen, starting 20th and 21st, aim to overturn the standings at São Paulo. Their duel promises excitement, despite uncertain weather."
+    },
+    {
+      "id": "b806de31000f",
+      "title": "‘I’ll try to win, somehow’ – Can Lewis Hamilton and Max Verstappen fight back for F1 Brazilian GP victory?",
+      "title_fr": "Hamilton et Verstappen, à la recherche de la victoire brésilienne",
+      "title_en": "Hamilton and Verstappen eye Brazilian GP victory",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2eZxbDjY/s6/lewis-hamilton-ferrari-max-ver.jpg",
+      "published_at": "2026-11-08T13:28:55+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton et Max Verstappen, classés 20e et 21e, promettent une bataille passionnante au Grand Prix du Brésil. Le circuit favorise les dépassements, offrant une chance de retournement.",
+      "summary_en": "Lewis Hamilton and Max Verstappen, starting 20th and 21st, promise a thrilling fight at the Brazilian GP. The track favours overtaking, giving them a chance to turn the race."
+    },
     {
       "id": "f160819260fc",
       "title": "McLaren’s 2027-spec front wing is making its F1 car more predictable",
@@ -58,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "La séance de qualification du Grand Prix du Brésil à São Paulo a été interrompue par une forte pluie, mais un passage de nuages a permis de reprendre les essais. Les pilotes ont dû s'adapter rapidement aux conditions changeantes.",
       "summary_en": "The qualifying session for the Brazilian Grand Prix in São Paulo was halted by heavy rain, but a break in the clouds allowed it to resume. Drivers had to quickly adapt to the changing conditions."
+    },
+    {
+      "id": "7bdcedb8f46e",
+      "title": "‘Very high chance of a horrific crash’ if F1 races in same conditions as qualifying | Formula 1",
+      "title_fr": "GP brésilien suspendu pour cause de pluie",
+      "title_en": "Brazilian GP suspended due to wet conditions",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/very-high-chance-of-a-horrific-crash-if-f1-races-in-same-conditions-as-qualifying-drivers-warn/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-11-07-15-01-56-13.jpg",
+      "published_at": "2026-11-08T10:29:14+00:00",
+      "race_id": "brazil",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Les pilotes de Formule 1 ont averti que le Grand Prix du Brésil ne pourrait se tenir dans les conditions humides d’hier. La course est suspendue tant que la météo ne s’améliorera pas.",
+      "summary_en": "F1 drivers warned that the Brazilian Grand Prix could not run in the wet conditions of yesterday’s qualifying. The race is suspended until the weather improves."
     },
     {
       "id": "1963917cd521",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur technique d’Haas, Ayao Komatsu, a expliqué que le choix de Rafael Camara pour son entrée en F1 au Grand Prix du Brésil s’appuie sur le professionnalisme, excluant toute critique envers Ryo Hirakawa.",
       "summary_en": "Haas team principal Ayao Komatsu said the decision to give Rafael Camara his Formula 1 debut at the Brazilian Grand Prix was based purely on professionalism, not a critique of Ryo Hirakawa."
-    },
-    {
-      "id": "4415c15784fd",
-      "title": "Max Verstappen to start Brazilian GP from back of grid as Red Bull confirms penalty",
-      "title_fr": "Verstappen démarrera le Grand Prix du Brésil à l'arrière du tableau de départ",
-      "title_en": "Verstappen to start Brazilian GP from back of grid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-to-start-brazilian-gp-from-back-of-grid-as-red-bull-confirms-penalty/10872541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0Zq8lKL6/s6/motorsport-com-graphics-69.jpg",
-      "published_at": "2026-11-07T14:34:35+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen commencera le Grand Prix du Brésil à l'arrière du tableau de départ après que Red Bull ait confirmé une pénalité. Le principal Laurent Mekies a confirmé la décision.",
-      "summary_en": "Max Verstappen will start the Brazilian GP from the back of the grid after Red Bull confirmed a penalty. Team principal Laurent Mekies confirmed the decision."
-    },
-    {
-      "id": "4c65092bb0fb",
-      "title": "New contract keeps Brazilian Grand Prix on the calendar until 2035 | Formula 1",
-      "title_fr": "Interlagos reste sur le calendrier jusqu'en 2035",
-      "title_en": "Interlagos stays on calendar until 2035",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/new-contract-keeps-brazilian-grand-prix-on-the-calendar-until-2035/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-09-14-03-02-6-2245857011.jpg",
-      "published_at": "2026-11-07T14:34:34+00:00",
-      "race_id": "brazil",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 a prolongé son accord pour que le Grand Prix du Brésil se déroule à Interlagos au moins jusqu'en 2035.",
-      "summary_en": "Formula 1 has extended its contract to keep the Brazilian Grand Prix at Interlagos through 2035."
-    },
-    {
-      "id": "075053b4b7e8",
-      "title": "F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal",
-      "title_fr": "F1 prolonge le GP du Brésil jusqu'en 2035",
-      "title_en": "F1 extends Brazilian GP to 2035 with new São Paulo deal",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-retains-brazilian-gp-until-2035-with-fresh-sao-paulo-deal/10872539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6O7zlya6/s6/gabriel-bortoleto-audi-f1-team.jpg",
-      "published_at": "2026-11-07T14:31:52+00:00",
-      "race_id": "brazil",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 a confirmé la présence du Grand Prix du Brésil sur son calendrier jusqu'en 2035, suite à un accord de cinq ans signé avec la ville de São Paulo. Le nouveau contrat renforce la contribution de la municipalité.",
-      "summary_en": "Formula 1 has confirmed the Brazilian Grand Prix will remain on the calendar until 2035, following a five‑year extension signed with the city of São Paulo. The new deal underscores the municipality’s financial contribution."
-    },
-    {
-      "id": "94805238dcf9",
-      "title": "F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal",
-      "title_fr": "F1 prolonge le Grand Prix brésilien jusqu'en 2035",
-      "title_en": "F1 keeps Brazilian GP until 2035 with new Sao Paulo deal",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-to-remain-in-brazil-until-2035-after-fresh-sao-paulo-deal/10872537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6O7zlya6/s6/gabriel-bortoleto-audi-f1-team.jpg",
-      "published_at": "2026-11-07T14:30:22+00:00",
-      "race_id": "brazil",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 confirme le Grand Prix brésilien jusqu'en 2035 grâce à un nouveau contrat de cinq ans signé par la ville de Sao Paulo. Le circuit reste sur le calendrier jusqu'en 2035",
-      "summary_en": "Formula 1 has secured the Brazilian Grand Prix on its calendar through 2035 after signing a fresh five‑year deal with the city of Sao Paulo. The race will remain a fixture until 2035"
     }
   ]
 }
