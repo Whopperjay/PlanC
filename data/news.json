@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-08T15:38:12Z",
+  "last_updated": "2026-11-08T18:40:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "13585eb4e82a",
+      "title": "Rate the race: 2026 Brazilian Grand Prix | Formula 1",
+      "title_fr": "Alonso d'Aston Martin triomphe au Brésil 2026",
+      "title_en": "Alonso of Aston Martin triumphs at 2026 Brazilian GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/rate-the-race-2026-brazilian-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-03-08-9-2304146499.jpg",
+      "published_at": "2026-11-08T18:38:17+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso d'Aston Martin a remporté le Grand Prix du Brésil 2026 après une bataille acharnée avec Max Verstappen de Red Bull. Les équipes ont mis en avant leurs stratégies, tandis que les fans ont salé la performance.",
+      "summary_en": "Fernando Alonso of Aston Martin won the 2026 Brazilian GP after a fierce duel with Max Verstappen of Red Bull. Teams highlighted their strategies while fans praised the performance."
+    },
+    {
+      "id": "d5dd1ed76d40",
+      "title": "2026 Brazilian Grand Prix in pictures | F1 Pictures",
+      "title_fr": "Interlagos en images : Grand Prix brésilien 2026",
+      "title_en": "Interlagos in pictures: 2026 Brazilian GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/2026-brazilian-grand-prix-in-pictures/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-08-22-8-2304147627.jpg",
+      "published_at": "2026-11-08T18:18:32+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix brésilien 2026 à Interlagos est présenté à travers une série d'images. Les photographies montrent les circuits, les équipes et les préparatifs avant la course.",
+      "summary_en": "The 2026 Brazilian GP at Interlagos is showcased through a series of images. The photos capture the track, teams, and pre-race preparations."
+    },
+    {
+      "id": "81f893db0d08",
+      "title": "Charles Leclerc turns heads with $125,000 watch at F1 Brazilian GP",
+      "title_fr": "Leclerc fait sensation à Interlagos avec une montre de 125 000 $",
+      "title_en": "Leclerc turns heads at Interlagos with a $125,000 watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-turns-heads-with-125000-watch-at-f1-brazilian-gp/10873032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6zoD8va0/s6/motorsport-com-graphics-72.jpg",
+      "published_at": "2026-11-08T18:12:58+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Ferrari, Charles Leclerc, a fait sensation à Interlagos en arborant une montre Richard Mille RM 33-02, évaluée à 125 000 $",
+      "summary_en": "Ferrari driver Charles Leclerc turned heads at Interlagos wearing a Richard Mille RM 33-02 watch worth $125,000"
+    },
+    {
+      "id": "3af775529c11",
+      "title": "Toto Wolff wants the FIA to lift the salary cap on junior staff: “We need to pay them better”",
+      "title_fr": "Toto Wolff veut lever le plafond salarial junior",
+      "title_en": "Toto Wolff wants to lift the junior salary cap",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6grQEGmY/s6/motorsport-com-graphics-83-2.jpg",
+      "published_at": "2026-11-08T18:00:14+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Mercedes, Toto Wolff, demande a la FIA de lever le plafond salarial des equipes juniors afin dameliorer les conditions de remuneration.",
+      "summary_en": "Mercedes team principal Toto Wolff has asked the FIA to lift the junior salary cap to improve pay conditions for staff."
+    },
     {
       "id": "ba9cdbbfaf01",
       "title": "Gabriel Bortoleto's partner Isabella Bernardini shows off custom Audi dress at Brazil GP",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue.<br />The impendi",
       "summary_en": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue.<br />The impendi"
-    },
-    {
-      "id": "c71569d6a11d",
-      "title": "Verstappen pips Antonelli in final practice as Hamilton suffers engine trouble | Formula 1",
-      "title_fr": "Verstappen mène la pratique finale, Antonelli à ses trousses, Hamilton en panne moteur",
-      "title_en": "Verstappen leads final practice, Antonelli close, Hamilton suffers engine trouble",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/verstappen-pips-antonelli-in-final-practice-as-hamilton-suffers-engine-trouble/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-12-59-30-5-8-friday-saopaulo-2026.jpg",
-      "published_at": "2026-11-07T15:34:55+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a mené la séance de pratique finale du Grand Prix du Brésil, avec Andrea Kimi Antonelli à ses trousses. Lewis Hamilton a subi un problème de moteur.",
-      "summary_en": "Max Verstappen led the final practice session for the Brazilian Grand Prix, with Andrea Kimi Antonelli close behind. Lewis Hamilton suffered an engine problem."
-    },
-    {
-      "id": "6404e90ec248",
-      "title": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
-      "title_fr": "Hamilton, Leclerc et Verstappen pénalisés à Interlagos",
-      "title_en": "Hamilton, Leclerc and Verstappen penalised for Brazilian GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver.jpg",
-      "published_at": "2026-11-07T15:05:04+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton, Charles Leclerc et Max Verstappen subiront chacun une pénalité de dix places à Interlagos suite à un changement de moteur. Ferrari a opté pour un nouveau moteur sur les SF‑26.",
-      "summary_en": "Lewis Hamilton, Charles Leclerc and Max Verstappen will each receive a ten‑place grid penalty at Interlagos after an engine change. Ferrari opted for a new engine on the SF‑26."
-    },
-    {
-      "id": "5a939be0962f",
-      "title": "Lewis Hamilton, Charles Leclerc and Max Verstappen hit with F1 grid penalties for Brazilian GP",
-      "title_fr": "Hamilton, Leclerc et Verstappen pénalisés sur grille pour le Grand Prix du Brésil",
-      "title_en": "Hamilton, Leclerc and Verstappen hit with grid penalties for Brazilian GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872560/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver.jpg",
-      "published_at": "2026-11-07T15:04:02+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton, Charles Leclerc et Max Verstappen subiront chacun une pénalité de dix places sur la grille après un changement de moteur prévu pour le Grand Prix du Brésil.",
-      "summary_en": "Lewis Hamilton, Charles Leclerc and Max Verstappen will each serve a ten-place grid penalty after a scheduled engine change for the Brazilian Grand Prix."
-    },
-    {
-      "id": "366c327cc4f9",
-      "title": "Haas justifies picking Rafael Camara over Ryo Hirakawa for F1 Brazilian GP",
-      "title_fr": "Haas choisit Camara pour le GP du Brésil, justifie son choix",
-      "title_en": "Haas picks Camara for Brazilian GP, explains decision",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/haas-justifies-picking-rafael-camara-over-ryo-hirakawa-for-f1-brazilian-gp/10872474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXblGg2/s6/ayao-komatsu-haas-f1-team.jpg",
-      "published_at": "2026-11-07T14:40:27+00:00",
-      "race_id": "brazil",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique d’Haas, Ayao Komatsu, a expliqué que le choix de Rafael Camara pour son entrée en F1 au Grand Prix du Brésil s’appuie sur le professionnalisme, excluant toute critique envers Ryo Hirakawa.",
-      "summary_en": "Haas team principal Ayao Komatsu said the decision to give Rafael Camara his Formula 1 debut at the Brazilian Grand Prix was based purely on professionalism, not a critique of Ryo Hirakawa."
     }
   ]
 }
