@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T06:32:19Z",
+  "last_updated": "2026-11-08T09:34:18Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -516,6 +516,25 @@
       "summary_en": "Max Verstappen set the fastest time in Free Practice 3 at Formula 1’s Brazilian Grand Prix, narrowly edging out Kimi Antonelli as Lewis Hamilton’s Ferrari suffered a mechanical issue.<br />The impendi"
     },
     {
+      "id": "c71569d6a11d",
+      "title": "Verstappen pips Antonelli in final practice as Hamilton suffers engine trouble | Formula 1",
+      "title_fr": "Verstappen mène la pratique finale, Antonelli à ses trousses, Hamilton en panne moteur",
+      "title_en": "Verstappen leads final practice, Antonelli close, Hamilton suffers engine trouble",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/verstappen-pips-antonelli-in-final-practice-as-hamilton-suffers-engine-trouble/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-12-59-30-5-8-friday-saopaulo-2026.jpg",
+      "published_at": "2026-11-07T15:34:55+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a mené la séance de pratique finale du Grand Prix du Brésil, avec Andrea Kimi Antonelli à ses trousses. Lewis Hamilton a subi un problème de moteur.",
+      "summary_en": "Max Verstappen led the final practice session for the Brazilian Grand Prix, with Andrea Kimi Antonelli close behind. Lewis Hamilton suffered an engine problem."
+    },
+    {
       "id": "6404e90ec248",
       "title": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
       "title_fr": "Hamilton, Leclerc et Verstappen pénalisés à Interlagos",
@@ -592,6 +611,25 @@
       "summary_en": "Max Verstappen will start the Brazilian GP from the back of the grid after Red Bull confirmed a penalty. Team principal Laurent Mekies confirmed the decision."
     },
     {
+      "id": "4c65092bb0fb",
+      "title": "New contract keeps Brazilian Grand Prix on the calendar until 2035 | Formula 1",
+      "title_fr": "Interlagos reste sur le calendrier jusqu'en 2035",
+      "title_en": "Interlagos stays on calendar until 2035",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/new-contract-keeps-brazilian-grand-prix-on-the-calendar-until-2035/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-09-14-03-02-6-2245857011.jpg",
+      "published_at": "2026-11-07T14:34:34+00:00",
+      "race_id": "brazil",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 a prolongé son accord pour que le Grand Prix du Brésil se déroule à Interlagos au moins jusqu'en 2035.",
+      "summary_en": "Formula 1 has extended its contract to keep the Brazilian Grand Prix at Interlagos through 2035."
+    },
+    {
       "id": "075053b4b7e8",
       "title": "F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal",
       "title_fr": "F1 prolonge le GP du Brésil jusqu'en 2035",
@@ -628,6 +666,44 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 confirme le Grand Prix brésilien jusqu'en 2035 grâce à un nouveau contrat de cinq ans signé par la ville de Sao Paulo. Le circuit reste sur le calendrier jusqu'en 2035",
       "summary_en": "Formula 1 has secured the Brazilian Grand Prix on its calendar through 2035 after signing a fresh five‑year deal with the city of Sao Paulo. The race will remain a fixture until 2035"
+    },
+    {
+      "id": "5d8360ef5f4b",
+      "title": "Verstappen, Hamilton and Leclerc to take grid penalties at Brazilian GP | Formula 1",
+      "title_fr": "Verstappen, Hamilton et Leclerc pénalisés sur grille au Brésil",
+      "title_en": "Verstappen, Hamilton and Leclerc face grid penalties at Brazilian GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/verstappen-hamilton-and-leclerc-to-take-grid-penalties-at-brazilian-gp/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-11-07-10-45-35-1.jpg",
+      "published_at": "2026-11-07T14:19:54+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen, Lewis Hamilton et Charles Leclerc subiront des pénalités de grille au Grand Prix du Brésil, conséquence de changements d'unité de puissance.",
+      "summary_en": "Max Verstappen, Lewis Hamilton and Charles Leclerc will take grid penalties at the Brazilian Grand Prix due to power‑unit changes."
+    },
+    {
+      "id": "26fd6cd799b0",
+      "title": "‘I don’t care to connect, I’m here to win’: Verstappen on how he’s different to Senna | Formula 1",
+      "title_fr": "Verstappen : « Je ne veux pas me connecter, je suis là pour gagner »",
+      "title_en": "Verstappen: 'I don't care to connect, I'm here to win'",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/i-dont-care-to-connect-im-here-to-win-verstappen-on-the-difference-between-him-and-senna/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-11-07-10-45-46-2.jpg",
+      "published_at": "2026-11-07T13:36:21+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen affirme qu'il ne cherche pas à se connecter aux autres pilotes, mais à gagner. Il se distingue de Senna par son approche directe et son ambition de domination.",
+      "summary_en": "Max Verstappen says he doesn't aim to connect with other drivers but to win. He claims to differ from Senna by his direct approach and ambition for domination."
     },
     {
       "id": "dd8ce2deefd2",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ralf Schumacher, ancien pilote et commentateur, a déclaré que Colton Herta ne ferait que brûler du carburant, remettant en cause ses chances de carrière en Formule 1.",
       "summary_en": "Former F1 driver turned pundit Ralf Schumacher slammed Colton Herta, saying he was just burning fuel and questioning his future in Formula 1."
-    },
-    {
-      "id": "968e168238c1",
-      "title": "Ocon axing ‘surprised everybody at Haas’",
-      "title_fr": "Ocon exclu de Haas, tout le monde surpris",
-      "title_en": "Ocon axed from Haas, everyone surprised",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0rVPoPO0/s6/esteban-ocon-haas-f1-team-2.jpg",
-      "published_at": "2026-11-07T11:00:49+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Esteban Ocon a été exclu de Haas pour le Grand Prix du Mexique, selon Ayao Komatsu. La décision, prise après un différend lors de la séance d'essais, a surpris toute l'équipe.",
-      "summary_en": "Esteban Ocon was axed from Haas for the Mexican Grand Prix, says Ayao Komatsu. The move, following a dispute during Friday practice, surprised the entire team."
-    },
-    {
-      "id": "2dd1cd8260c9",
-      "title": "Komatsu was ‘protecting Haas from rhetoric’ by dropping Ocon – Wolff | Formula 1",
-      "title_fr": "Komatsu évite la polémique en retirant Ocon",
-      "title_en": "Komatsu avoids controversy by dropping Ocon",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/komatsu-was-protecting-haas-from-rhetoric-by-dropping-ocon-wolff/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-21-10-30-15-46-35-3.jpg",
-      "published_at": "2026-11-07T11:00:05+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Haas, Ayao Komatsu, aurait retiré Esteban Ocon pour protéger l'équipe de la critique, selon Mercedes.",
-      "summary_en": "Mercedes' team principal suspects Haas' director Ayao Komatsu dropped Esteban Ocon to shield the team from criticism."
-    },
-    {
-      "id": "497e5edda0c9",
-      "title": "“Everyone will be happy” with Racing Bulls’ decision on its 2027 driver line-up – Permane | Formula 1",
-      "title_fr": "Permane : tout le monde sera content de la décision 2027",
-      "title_en": "Permane says everyone will be happy with Racing Bulls' 2027 lineup",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/everyone-will-be-happy-with-racing-bulls-decision-on-its-2027-driver-line-up-permane/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-21-53-40-3-SI202611060415.jpg",
-      "published_at": "2026-11-07T10:37:18+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Racing Bulls, Alan Permane, affirme que la composition de l'équipe pour 2027 satisfera tous les intéressés. Il se montre confiant quant à la décision prise.",
-      "summary_en": "Racing Bulls team principal Alan Permane says the 2027 driver lineup will satisfy everyone. He expresses confidence in the decision made."
-    },
-    {
-      "id": "b0e0b7ef3202",
-      "title": "Ferrari slow on straights, struggling in corners: ‘One of the worst feelings’ for Charles Leclerc",
-      "title_fr": "Ferrari lente sur les lignes droites, Leclerc en difficulté en virage",
-      "title_en": "Ferrari slow on straights, Leclerc struggles in corners",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BlnE2/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-11-07T10:14:35+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a qualifié la Ferrari SF-26 de lente sur les lignes droites et de mauvaise performance en virage après la séance d'essai du vendredi. Le pilote a exprimé son mécontentement face à ces résultats.",
-      "summary_en": "Charles Leclerc described the Ferrari SF-26 as slow on straights and struggling in corners after Friday's free practice. The driver expressed frustration with the car’s performance."
     }
   ]
 }
