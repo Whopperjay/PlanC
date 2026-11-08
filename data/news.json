@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-08T09:34:18Z",
+  "last_updated": "2026-11-08T12:36:17Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f160819260fc",
+      "title": "McLaren’s 2027-spec front wing is making its F1 car more predictable",
+      "title_fr": "McLaren améliore la prévisibilité de son MCL40 grâce à l’aile avant 2027",
+      "title_en": "McLaren boosts MCL40 predictability with 2027 front wing",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0o5AwWwY/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-11-08T12:07:45+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique Andrea Stella affirme que l’aile avant 2027 introduite sur le MCL40 à Interlagos rend la voiture plus maniable et prévisible. L’upgrade comprend également une aile arrière, une aile de pont et un nouveau sol",
+      "summary_en": "Team principal Andrea Stella says the 2027 front wing introduced on the MCL40 at Interlagos improves the car’s driveability and predictability. The upgrade package also includes a rear wing, a beam wing and new floor furniture"
+    },
+    {
+      "id": "0e55853e8a23",
+      "title": "The wet-weather challenges thrown up by Brazilian GP qualifying",
+      "title_fr": "Qualif. de Sao Paulo : la pluie met les pilotes à l'épreuve",
+      "title_en": "Brazil GP qualifying: rain throws challenges",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872894/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg",
+      "published_at": "2026-11-08T11:09:51+00:00",
+      "race_id": "brazil",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "La séance de qualification du Grand Prix du Brésil a été suspendue par une forte pluie, mais un passage de nuages a permis de reprendre les essais. Les pilotes ont dû s'adapter rapidement aux conditions changeantes.",
+      "summary_en": "The qualifying session for the Brazilian Grand Prix was halted by heavy rain, but a break in the clouds allowed it to resume. Drivers had to quickly adapt to the changing conditions."
+    },
+    {
+      "id": "af223a08fa7b",
+      "title": "The wet-weather challenges thrown up by Brazilian GP qualifying",
+      "title_fr": "Qualif. du Brésil : la pluie met à l'épreuve",
+      "title_en": "Brazil GP qualifying: rain tests drivers",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7vzbe6/s6/gabriel-bortoleto-audi-f1-team-2.jpg",
+      "published_at": "2026-11-08T11:06:21+00:00",
+      "race_id": "brazil",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "La séance de qualification du Grand Prix du Brésil à São Paulo a été interrompue par une forte pluie, mais un passage de nuages a permis de reprendre les essais. Les pilotes ont dû s'adapter rapidement aux conditions changeantes.",
+      "summary_en": "The qualifying session for the Brazilian Grand Prix in São Paulo was halted by heavy rain, but a break in the clouds allowed it to resume. Drivers had to quickly adapt to the changing conditions."
+    },
+    {
+      "id": "1963917cd521",
+      "title": "Pierre Gasly on Franco Colapinto fan pressure: “Once you deal with Helmut Marko, anything else is no pressure”",
+      "title_fr": "Gasly : la pression des fans n’est qu’une formalité après Helmut Marko",
+      "title_en": "Gasly says fan pressure is just a formality after Helmut Marko",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/pierre-gasly-on-colapinto-fan-pressure-once-you-deal-with-helmut-marko-anything-else-is-no-pressure/10872811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKlawY/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-11-08T10:20:36+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Pierre Gasly affirme que la pression des fans sur Franco Colapinto n’est qu’une formalité une fois qu’on a traité Helmut Marko. Le pilote Alpine souligne l’impact de l’enthousiasme argentin à Interlagos.",
+      "summary_en": "Pierre Gasly says fan pressure on Franco Colapinto is just a formality once Helmut Marko is dealt with. The Alpine driver highlights the Argentine enthusiasm at Interlagos."
+    },
+    {
+      "id": "d1ed50415bb6",
+      "title": "F1 2026 qualifying head-to-head: Brazilian GP",
+      "title_fr": "Statistiques de qualification en tête‑à‑tête au GP du Brésil 2026",
+      "title_en": "Head‑to‑head qualifying stats at the 2026 Brazilian GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-brazilian-gp/10872869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8V1M6/s6/arvid-lindblad-racing-bulls.jpg",
+      "published_at": "2026-11-08T09:48:18+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Motorsport.com publie chaque équipe, en fonction des batailles entre coéquipiers, son bilan de qualification au GP du Brésil 2026. Les résultats ne tiennent pas compte des pénalités de grille, et signalent les problèmes techniques.",
+      "summary_en": "Motorsport.com publishes each team's head‑to‑head qualifying record for the 2026 Brazilian GP, based solely on qualifying results and excluding grid penalties. The table notes any technical issues or incidents that prevented a representative lap."
+    },
     {
       "id": "7ad2cb286f33",
       "title": "Hadjar not happy with F1’s wet weather tyres after rain hits qualifying | Formula 1",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 confirme le Grand Prix brésilien jusqu'en 2035 grâce à un nouveau contrat de cinq ans signé par la ville de Sao Paulo. Le circuit reste sur le calendrier jusqu'en 2035",
       "summary_en": "Formula 1 has secured the Brazilian Grand Prix on its calendar through 2035 after signing a fresh five‑year deal with the city of Sao Paulo. The race will remain a fixture until 2035"
-    },
-    {
-      "id": "5d8360ef5f4b",
-      "title": "Verstappen, Hamilton and Leclerc to take grid penalties at Brazilian GP | Formula 1",
-      "title_fr": "Verstappen, Hamilton et Leclerc pénalisés sur grille au Brésil",
-      "title_en": "Verstappen, Hamilton and Leclerc face grid penalties at Brazilian GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/verstappen-hamilton-and-leclerc-to-take-grid-penalties-at-brazilian-gp/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-11-07-10-45-35-1.jpg",
-      "published_at": "2026-11-07T14:19:54+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen, Lewis Hamilton et Charles Leclerc subiront des pénalités de grille au Grand Prix du Brésil, conséquence de changements d'unité de puissance.",
-      "summary_en": "Max Verstappen, Lewis Hamilton and Charles Leclerc will take grid penalties at the Brazilian Grand Prix due to power‑unit changes."
-    },
-    {
-      "id": "26fd6cd799b0",
-      "title": "‘I don’t care to connect, I’m here to win’: Verstappen on how he’s different to Senna | Formula 1",
-      "title_fr": "Verstappen : « Je ne veux pas me connecter, je suis là pour gagner »",
-      "title_en": "Verstappen: 'I don't care to connect, I'm here to win'",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/i-dont-care-to-connect-im-here-to-win-verstappen-on-the-difference-between-him-and-senna/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-11-07-10-45-46-2.jpg",
-      "published_at": "2026-11-07T13:36:21+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen affirme qu'il ne cherche pas à se connecter aux autres pilotes, mais à gagner. Il se distingue de Senna par son approche directe et son ambition de domination.",
-      "summary_en": "Max Verstappen says he doesn't aim to connect with other drivers but to win. He claims to differ from Senna by his direct approach and ambition for domination."
-    },
-    {
-      "id": "dd8ce2deefd2",
-      "title": "Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’",
-      "title_fr": "Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’",
-      "title_en": "Ayao Komatsu: Esteban Ocon axing ‘surprised everybody at Haas’",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/63QaBl72/s6/esteban-ocon-haas-f1-team.jpg",
-      "published_at": "2026-11-07T13:13:57+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ayao Komatsu says “everybody was surprised” when he told the Haas squad that Esteban Ocon wouldn’t compete for the outfit in Formula 1’s Mexican Grand Prix.<br />Ocon was dropped by Haas after a falli",
-      "summary_en": "Ayao Komatsu says “everybody was surprised” when he told the Haas squad that Esteban Ocon wouldn’t compete for the outfit in Formula 1’s Mexican Grand Prix.<br />Ocon was dropped by Haas after a falli"
-    },
-    {
-      "id": "f386c0cd2b0d",
-      "title": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
-      "title_fr": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
-      "title_en": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7QRyy6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-07T12:44:57+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in Free Practice 2, but a",
-      "summary_en": "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in Free Practice 2, but a"
-    },
-    {
-      "id": "42cf1cf833de",
-      "title": "Ralf Schumacher slams Colton Herta's F1 prospects: \"He's just burning fuel\"",
-      "title_fr": "Schumacher critique les perspectives de Herta",
-      "title_en": "Schumacher slams Herta's F1 prospects",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0LdelPj0/s6/colton-herta-cadillac-f1-team.jpg",
-      "published_at": "2026-11-07T12:10:03+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Ralf Schumacher, ancien pilote et commentateur, a déclaré que Colton Herta ne ferait que brûler du carburant, remettant en cause ses chances de carrière en Formule 1.",
-      "summary_en": "Former F1 driver turned pundit Ralf Schumacher slammed Colton Herta, saying he was just burning fuel and questioning his future in Formula 1."
     }
   ]
 }
