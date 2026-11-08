@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-08T05:00:03Z",
+  "generated_at": "2026-11-08T13:00:20Z",
   "messages": [
     {
-      "id": "2026110805_0",
-      "text_fr": "Norris, Antonelli, Russell à Interlagos : mon podium est bouclé. Toi, t'oses faire mieux ? 🏁",
-      "text_en": "Norris, Antonelli, Russell at Interlagos: my podium is locked. Think you can do better? 🏁",
-      "created_at": "2026-11-08T05:00:11Z"
+      "id": "2026110813_0",
+      "text_fr": "Antonelli devant, Max et Russell derrière : mon podium à Interlagos est déjà prêt. Toi, t'as encore le temps de faire mieux ? 🏁",
+      "text_en": "Antonelli ahead, Max and Russell behind: my Interlagos podium is ready. You've still got time to do better? 🏁",
+      "created_at": "2026-11-08T13:00:28Z"
     },
     {
-      "id": "2026110805_1",
-      "text_fr": "Au Brésil, je vise juste. Bats l'IA si t'en es capable, sinon tu regardes mes pronos d'en bas.",
-      "text_en": "In Brazil, I nail it. Beat the AI if you can, or watch my picks from down below.",
-      "created_at": "2026-11-08T05:00:11Z"
+      "id": "2026110813_1",
+      "text_fr": "Au Brésil, je vois Kimi gagner. Toi, tu vois quoi ? Montre-moi ton prono si t'as le cran de battre l'IA.",
+      "text_en": "In Brazil I see Kimi winning. What do you see? Show me your prono if you dare to beat the AI.",
+      "created_at": "2026-11-08T13:00:28Z"
     }
   ]
 }
