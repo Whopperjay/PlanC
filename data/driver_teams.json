@@ -3,9 +3,7 @@
     "driver": {
       "driverId": "paul_aron",
       "givenName": "Paul",
-      "familyName": "Aron",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Aron"
     },
     "constructor": {
       "constructorId": "alpine",
@@ -54,9 +52,7 @@
     "driver": {
       "driverId": "gabriele_mini",
       "givenName": "Gabriele",
-      "familyName": "Mini",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Mini"
     },
     "constructor": {
       "constructorId": "alpine",
@@ -87,9 +83,7 @@
     "driver": {
       "driverId": "jak_crawford",
       "givenName": "Jak",
-      "familyName": "Crawford",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Crawford"
     },
     "constructor": {
       "constructorId": "aston_martin",
@@ -120,9 +114,7 @@
     "driver": {
       "driverId": "paul_aron",
       "givenName": "Paul",
-      "familyName": "Aron",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Aron"
     },
     "constructor": {
       "constructorId": "audi",
@@ -171,9 +163,7 @@
     "driver": {
       "driverId": "freddie_slater",
       "givenName": "Freddie",
-      "familyName": "Slater",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Slater"
     },
     "constructor": {
       "constructorId": "audi",
@@ -204,9 +194,7 @@
     "driver": {
       "driverId": "colton_herta",
       "givenName": "Colton",
-      "familyName": "Herta",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Herta"
     },
     "constructor": {
       "constructorId": "cadillac",
@@ -237,9 +225,7 @@
     "driver": {
       "driverId": "dino_beganovic",
       "givenName": "Dino",
-      "familyName": "Beganovic",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Beganovic"
     },
     "constructor": {
       "constructorId": "ferrari",
@@ -306,9 +292,7 @@
     "driver": {
       "driverId": "rafael_camara",
       "givenName": "Rafael",
-      "familyName": "Camara",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Camara"
     },
     "constructor": {
       "constructorId": "haas",
@@ -357,9 +341,7 @@
     "driver": {
       "driverId": "leonardo_fornaroli",
       "givenName": "Leonardo",
-      "familyName": "Fornaroli",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Fornaroli"
     },
     "constructor": {
       "constructorId": "mclaren",
@@ -444,9 +426,7 @@
     "driver": {
       "driverId": "frederik_vesti",
       "givenName": "Frederik",
-      "familyName": "Vesti",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Vesti"
     },
     "constructor": {
       "constructorId": "mercedes",
@@ -459,9 +439,7 @@
     "driver": {
       "driverId": "ayumu_iwasa",
       "givenName": "Ayumu",
-      "familyName": "Iwasa",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Iwasa"
     },
     "constructor": {
       "constructorId": "rb",
@@ -510,9 +488,7 @@
     "driver": {
       "driverId": "nikola_tsolov",
       "givenName": "Nikola",
-      "familyName": "Tsolov",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Tsolov"
     },
     "constructor": {
       "constructorId": "rb",
@@ -561,9 +537,7 @@
     "driver": {
       "driverId": "ayumu_iwasa",
       "givenName": "Ayumu",
-      "familyName": "Iwasa",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Iwasa"
     },
     "constructor": {
       "constructorId": "red_bull",
@@ -630,9 +604,7 @@
     "driver": {
       "driverId": "luke_browning",
       "givenName": "Luke",
-      "familyName": "Browning",
-      "dateOfBirth": "1900-01-01",
-      "nationality": "Unknown"
+      "familyName": "Browning"
     },
     "constructor": {
       "constructorId": "williams",

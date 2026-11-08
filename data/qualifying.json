@@ -9878,9 +9878,7 @@
               "Driver": {
                 "driverId": "rafael_camara",
                 "givenName": "Rafael",
-                "familyName": "Camara",
-                "dateOfBirth": "1900-01-01",
-                "nationality": "Unknown"
+                "familyName": "Camara"
               },
               "Constructor": {
                 "constructorId": "haas",
