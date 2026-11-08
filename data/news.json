@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-08T00:28:10Z",
+  "last_updated": "2026-11-08T03:30:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7ad2cb286f33",
+      "title": "Hadjar not happy with F1’s wet weather tyres after rain hits qualifying | Formula 1",
+      "title_fr": "Hadjar dénonce les pneus pluie de la F1",
+      "title_en": "Hadjar criticises F1 wet‑weather tyres after rain hits qualifying",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/hadjar-not-happy-with-f1s-wet-weather-tyres-after-rain-hits-qualifying/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-23-18-44-1-SI202611070551.jpg",
+      "published_at": "2026-11-07T23:21:05+00:00",
+      "race_id": null,
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a qualifié la qualification sous la pluie de « très douteux » en raison des pneus pluie de la F1. Le pilote a exprimé son mécontentement face à la performance des pneus.",
+      "summary_en": "Isack Hadjar called the rain‑shrouded qualifying 'very sketchy' because of Formula 1's wet‑weather tyres. The driver voiced his frustration over the tyre performance."
+    },
     {
       "id": "4d783ed67262",
       "title": "Liam Lawson rues Brazilian GP qualifying mistake despite third-place grid start",
@@ -98,6 +117,25 @@
       "summary_en": "Lando Norris secured pole at Interlagos after a rain-soaked qualifying, while Kimi Antonelli was promoted to the front row following George Russell’s penalty."
     },
     {
+      "id": "ee23e57ee758",
+      "title": "Social Media: Wolff believes Russell’s aborted lap would have put him second | Brief",
+      "title_fr": "Social Media: Wolff believes Russell’s aborted lap would have put him second | Brief",
+      "title_en": "Social Media: Wolff believes Russell’s aborted lap would have put him second | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/social-media-wolff-believes-russells-aborted-lap-would-have-put-him-second/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-21-56-39-1-M650888_F1_Grand_Prix_of_Brazil_Qualifying.jpg",
+      "published_at": "2026-11-07T21:57:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Russell 'would have been second' with aborted lap - Wolff",
+      "summary_en": "Russell 'would have been second' with aborted lap - Wolff"
+    },
+    {
       "id": "7bdc7d111a21",
       "title": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\"",
       "title_fr": "Hamilton confirme la fin des tensions avec Leclerc",
@@ -153,6 +191,25 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a expliqué la conversation claire‑air qu’il a eue avec Charles Leclerc après la collision du premier tour du Grand Prix du Mexique. Les deux pilotes ont échangé leurs points de vue avant le Grand Prix brésilien.",
       "summary_en": "Lewis Hamilton explained the clear‑air conversation he had with Charles Leclerc after the first‑lap clash at the Mexican Grand Prix. The two drivers exchanged views before the Brazilian GP."
+    },
+    {
+      "id": "2c38cfeff994",
+      "title": "Russell fumes at Mercedes after pit wall error costs him shot at fastest time | Formula 1",
+      "title_fr": "Russell en colère après erreur de pit wall",
+      "title_en": "Russell fumes after pit wall error cost him fastest time",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/07/russell-fumes-at-mercedes-after-pit-wall-error-costs-him-shot-at-fastest-time/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-21-31-12-1-M650845_F1_Grand_Prix_of_Brazil_Qualifying.jpg",
+      "published_at": "2026-11-07T21:39:09+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell a exprimé sa frustration après que son ingénieur de course l'ait invité à abandonner un tour qui aurait été le plus rapide en Q3, faute d'une erreur de la pit wall.",
+      "summary_en": "George Russell expressed frustration after his race engineer told him to abandon a lap that would have been the fastest in Q3, due to a pit wall error."
     },
     {
       "id": "9e970d76faae",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a terminé la séance de test de vendredi à Sao Paulo en troisième place, mais a quitté prématurément les stands. Red Bull affirme que la voiture possède encore suffisamment de potentiel pour rivaliser.",
       "summary_en": "Max Verstappen finished Friday's practice in Sao Paulo in third place but left the session early. Red Bull says the car still has enough potential to compete."
-    },
-    {
-      "id": "a788d08180af",
-      "title": "Fred Vasseur turns down being godfather to Charles Leclerc’s baby: “I have four children”",
-      "title_fr": "Vasseur refuse d’être parrain de la petite Leclerc",
-      "title_en": "Vasseur Declines to Be Godfather to Leclerc's Baby",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6AlvXkvY/s6/motorsport-com-graphics-67.jpg",
-      "published_at": "2026-11-06T22:12:01+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, a décliné la demande de Charles Leclerc de devenir parrain de sa fille Bianca, affirmant qu’il a déjà quatre enfants à s’occuper.",
-      "summary_en": "Ferrari team principal Fred Vasseur declined Charles Leclerc’s request to be godfather to his daughter Bianca, saying he already has four children to look after."
-    },
-    {
-      "id": "5b27beb2b4a9",
-      "title": "F1 Brazil GP: Saturday schedule, weather forecast and how to watch",
-      "title_fr": "Antonelli mène la deuxième séance de pratique à Interlagos",
-      "title_en": "Antonelli leads second practice at Interlagos",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0Zq8lnd6/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-06T22:05:41+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a établi le chrono de la deuxième séance de pratique du Grand Prix du Brésil, franchissant la barre des 1m10.763s. Il dépasse Lando Norris, Max Verstappen et George Russell, tandis que Mercedes, McLaren et Red Bull restent serrés.",
-      "summary_en": "Kimi Antonelli set the fastest time in the second practice session for the Brazil Grand Prix, clocking 1m10.763s. He beat Lando Norris, Max Verstappen and George Russell, with Mercedes, McLaren and Red Bull close behind."
-    },
-    {
-      "id": "715a3e2153b8",
-      "title": "McLaren’s upgrade is \"a pleasant surprise\" – but will it stay on the car in Brazil?",
-      "title_fr": "McLaren : la mise à jour séduit Norris, mais son avenir reste incertain",
-      "title_en": "McLaren's upgrade impresses Norris, but its future remains uncertain",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YvKBDW16/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-11-06T21:49:40+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La dernière mise à jour de McLaren a séduit Lando Norris, qui a dominé le premier entraînement à São Paulo, mais son avenir sur la voiture reste incertain.",
-      "summary_en": "McLaren's latest upgrade impressed Lando Norris, who topped the first practice in São Paulo, but its future on the car remains uncertain."
     }
   ]
 }
