@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-08T21:42:12Z",
+  "last_updated": "2026-11-09T00:44:10Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "88b0eb97b31f",
+      "title": "Red Bull boss hails Max Verstappen's Brazil podium: \"He's beating the sim on a regular basis\"",
+      "title_fr": "Verstappen décroche le podium à Interlagos, Red Bull le félicite",
+      "title_en": "Verstappen secures podium at Interlagos, Red Bull praises him",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-boss-hails-max-verstappens-brazil-podium-hes-beating-the-sim-on-a-regular-basis/10873193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7Qrrm6/s6/motorsport-com-graphics-76.jpg",
+      "published_at": "2026-11-08T23:11:39+00:00",
+      "race_id": "netherlands",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a franchi le podium à Interlagos, partant de 21e après pénalité moteur. Laurent Mekies a salué sa performance, affirmant qu'il dépasse les simulations.",
+      "summary_en": "Max Verstappen secured a podium finish at Interlagos, starting from 21st after an engine penalty. Red Bull chief Laurent Mekies praised his drive, saying he outperforms simulations."
+    },
+    {
+      "id": "379b9b07a50b",
+      "title": "Winners and losers from F1's chaotic Brazilian Grand Prix",
+      "title_fr": "Norris triomphe, Verstappen domine à Brésil",
+      "title_en": "Norris wins, Verstappen dominates in Brazil",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotic-brazilian-grand-prix/10873189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyK9rdY/s6/lando-norris-mclaren-max-verst.jpg",
+      "published_at": "2026-11-08T22:59:54+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a remporté son troisième podium de la saison en brisant la domination de Mercedes, tandis que Max Verstappen a continué sa série de performances magistrales à Brésil.",
+      "summary_en": "Lando Norris secured his third podium of the season in Brazil, breaking Mercedes' streak, while Max Verstappen continued his masterful run."
+    },
+    {
+      "id": "353e487e7eec",
+      "title": "Max Verstappen gives emotional farewell gift to long-serving Red Bull mechanic",
+      "title_fr": "Verstappen offre son casque à son mécanicien de longue date",
+      "title_en": "Verstappen gives his helmet to long‑serving mechanic",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-gives-emotional-farewell-gift-to-long-serving-red-bull-mechanic/10873184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8VV56/s6/motorsport-com-graphics-75.jpg",
+      "published_at": "2026-11-08T22:36:27+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le champion Max Verstappen a remis son casque à Ole Schack, mécanicien de Red Bull depuis 2005, lors de la dernière course d'Interlagos. L'équipe a également créé une canette unique en l'honneur de son parcours.",
+      "summary_en": "Max Verstappen handed his helmet to Ole Schack, Red Bull's long‑time mechanic, during Interlagos' final race. The team also produced a one‑off Red Bull can celebrating Schack's career."
+    },
+    {
+      "id": "f78a377298c5",
+      "title": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
+      "title_fr": "Leclerc pénalisé après collision avec Lawson",
+      "title_en": "Leclerc penalised after clash with Lawson",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
+      "published_at": "2026-11-08T21:59:31+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a reçu une pénalité de cinq secondes pour collision avec Liam Lawson, le faisant passer de la septième à la huitième place.",
+      "summary_en": "Charles Leclerc received a five-second penalty for a clash with Liam Lawson, dropping him from seventh to eighth place."
+    },
+    {
+      "id": "c641a775c997",
+      "title": "Charles Leclerc penalised for Liam Lawson clash; Kimi Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
+      "title_fr": "Leclerc pénalisé après collision avec Lawson",
+      "title_en": "Leclerc penalised after clash with Lawson",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-penalised-for-liam-lawson-clash-kimi-antonelli-and-oliver-bearman-also-punished-aft/10873163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
+      "published_at": "2026-11-08T21:54:53+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a reçu une pénalité de cinq secondes pour collision avec Liam Lawson, le faisant passer de septième à huitième place.",
+      "summary_en": "Charles Leclerc received a five‑second penalty for a clash with Liam Lawson, dropping him from seventh to eighth place."
+    },
+    {
+      "id": "fe9a77112900",
+      "title": "Max Verstappen \"needs to understand what happened\" after \"night and day\" F1 comeback in Brazilian GP",
+      "title_fr": "Verstappen, de 21e a deuxieme, doit comprendre son parcours",
+      "title_en": "Verstappen, from 21st to second, must understand his comeback",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-to-understand-what-happened-after-night-and-day-f1-comeback-in-brazil/10873146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0o5AVQ7Y/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-08T21:53:41+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a termine deuxieme du Grand Prix du Brasil apres une remontee spectaculaire depuis la 21e place. Le pilote doit analyser ce qui a failli au depart.",
+      "summary_en": "Max Verstappen finished second in the Brazilian Grand Prix after a dramatic climb from 21st on the grid. The driver must analyse what went wrong at the start."
+    },
     {
       "id": "e4bd1d4a590f",
       "title": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen called it a day after Q1 during Formula 1 qualifying in Sao Paulo, as he already knew he would be starting from the back of the grid for the Brazilian Grand Prix due to an engine-relate",
       "summary_en": "Max Verstappen called it a day after Q1 during Formula 1 qualifying in Sao Paulo, as he already knew he would be starting from the back of the grid for the Brazilian Grand Prix due to an engine-relate"
-    },
-    {
-      "id": "1f2bbd711b09",
-      "title": "2026 Brazilian Grand Prix grid | Formula 1",
-      "title_fr": "Norris en pole provisoire pour le Grand Prix du Brésil",
-      "title_en": "Norris takes provisional pole for Brazilian GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/2026-brazilian-grand-prix-grid/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-15-01-57-1-1COL3221_f1MRVP2E_20261107061720.jpg",
-      "published_at": "2026-11-07T21:22:08+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a obtenu la pole provisoire du Grand Prix du Brésil, devant Andrea Kimi Antonelli et Liam Lawson.",
-      "summary_en": "Lando Norris secured provisional pole for the Brazilian GP, ahead of Andrea Kimi Antonelli and Liam Lawson."
-    },
-    {
-      "id": "5bddc2e17d26",
-      "title": "Toto Wolff responds to George Russell's angry radio messages in Brazilian GP qualifying",
-      "title_fr": "Wolff réagit aux messages radio de Russell à Interlagos",
-      "title_en": "Wolff reacts to Russell's angry radio messages at Interlagos",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-responds-to-george-russells-angry-radio-messages-in-brazilian-gp-qualifying/10872744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedB3m2/s6/motorsport-com-graphics-1.jpg",
-      "published_at": "2026-11-07T21:16:47+00:00",
-      "race_id": "uk",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Mercedes a répondu aux messages radio de George Russell, qui a terminé deuxième après Lando Norris, alors que la pluie s'intensifiait. Le directeur technique a demandé au pilote de ralentir.",
-      "summary_en": "Mercedes responded to George Russell's angry radio messages after he finished second behind Lando Norris in a rain-affected session. Team principal Toto Wolff told the driver to back off as rain increased."
-    },
-    {
-      "id": "5431a32f975d",
-      "title": "Oscar Piastri explains what led to Brazilian GP qualifying disappointment",
-      "title_fr": "Piastri explique la déception de qualification au Brésil",
-      "title_en": "Piastri explains Brazilian GP qualifying disappointment",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-explains-what-led-to-brazilian-gp-qualifying-disappointment/10872735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7Lz7mY/s6/motorsport-com-graphics.jpg",
-      "published_at": "2026-11-07T21:00:06+00:00",
-      "race_id": "australia",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri dénonce le retard de McLaren pour changer de pneus intermédiaires, ce qui l’a laissé 12e en qualification. Il débutera 10e après les pénalités de Leclerc et Hamilton.",
-      "summary_en": "Oscar Piastri blamed McLaren’s late switch to intermediate tyres for his 12th-place qualification. He will start 10th after penalties to Leclerc and Hamilton."
-    },
-    {
-      "id": "9b30011b0af9",
-      "title": "2026 F1 Brazilian Grand Prix starting grid",
-      "title_fr": "Grid du GP brésilien 2026 : Norris en tête",
-      "title_en": "2026 Brazilian GP grid: Norris leads",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EVMwY/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-11-07T20:47:59+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le pilote McLaren Lando Norris démarre premier sur le grid du Grand Prix brésilien 2026, suivi de Kimi Antonelli de Mercedes et de Liam Lawson des Racing Bulls.",
-      "summary_en": "McLaren's Lando Norris starts on pole for the 2026 Brazilian GP, followed by Mercedes' Kimi Antonelli and Racing Bulls' Liam Lawson."
-    },
-    {
-      "id": "2d7763d781a3",
-      "title": "F1 Brazilian GP: Norris splashes to pole from Russell",
-      "title_fr": "F1 Brazilian GP: Norris splashes to pole from Russell",
-      "title_en": "F1 Brazilian GP: Norris splashes to pole from Russell",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YK15xbk0/s6/lando-norris-mclaren-oscar-pia-2.jpg",
-      "published_at": "2026-11-07T20:33:59+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.<br />In a challenging session that ",
-      "summary_en": "McLaren's Lando Norris has claimed pole in a wet qualifying session at Formula 1's Brazilian Grand Prix, beating George Russell on a treacherous Interlagos circuit.<br />In a challenging session that "
-    },
-    {
-      "id": "666cff066f0a",
-      "title": "Norris claims pole in rain-lashed Brazilian Grand Prix qualifying | 2026 Brazilian Grand Prix qualifying report",
-      "title_fr": "Norris claims pole in rain-lashed Brazilian Grand Prix qualifying | 2026 Brazilian Grand Prix qualifying report",
-      "title_en": "Norris claims pole in rain-lashed Brazilian Grand Prix qualifying | 2026 Brazilian Grand Prix qualifying report",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/norris-claims-pole-in-rain-lashed-brazilian-grand-prix-qualifying/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-15-03-04-3-2303998507.jpg",
-      "published_at": "2026-11-07T20:33:40+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris claimed pole position in a soaking wet qualifying session for the Brazilian Grand Prix.",
-      "summary_en": "Lando Norris claimed pole position in a soaking wet qualifying session for the Brazilian Grand Prix."
     }
   ]
 }
