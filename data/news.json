@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-09T12:52:10Z",
+  "last_updated": "2026-11-09T15:54:09Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "54c51f6be968",
+      "title": "Why Mercedes says a repeat of its 2014-2021 dominance is \"impossible\"",
+      "title_fr": "Mercedes juge impossible la reprise de sa domination 2014-2021",
+      "title_en": "Mercedes says repeat of 2014-2021 dominance is impossible",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-mercedes-says-a-repeat-of-its-2014-2021-dominance-is-impossible/10873407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0Zq8VG86/s6/motorsport-com-graphics-79.jpg",
+      "published_at": "2026-11-09T15:46:27+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de l'ingénierie de Mercedes, Andrew Shovlin, affirme que l'équipe ne pourra pas reproduire ses huit titres consécutifs de constructeurs après son succès de 2026.",
+      "summary_en": "Mercedes engineering director Andrew Shovlin says the team cannot repeat its eight consecutive constructors' titles after its 2026 success."
+    },
+    {
+      "id": "7bebd043dcd5",
+      "title": "Spotlight: FIA president Ben Sulayem ‘planning to remove age limits’ for office-holders | Brief",
+      "title_fr": "FIA : Ben Sulayem envisage de supprimer les limites d’âge",
+      "title_en": "FIA: Ben Sulayem plans to remove age limits",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/09/spotlight-fia-president-ben-sulayem-planning-to-remove-age-limits-for-office-holders/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-09-15-38-18-1-2280186105.jpg",
+      "published_at": "2026-11-09T15:45:11+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le président de la FIA, Ben Sulayem, aurait l'intention de supprimer les limites d’âge pour les représentants de l'organisation, selon un rapport. Cette décision pourrait élargir la participation des officiels.",
+      "summary_en": "FIA president Ben Sulayem reportedly plans to eliminate age limits for officials, a move that could broaden participation. The decision, if confirmed, would change the regulatory framework."
+    },
+    {
+      "id": "811c5174c595",
+      "title": "Aston Martin told Alonso he was “quicker than the Mercedes” at end of Brazilian GP | Formula 1",
+      "title_fr": "Aston Martin dit qu'Alonso battait Mercedes à Rio",
+      "title_en": "Aston Martin says Alonso was faster than Mercedes at Rio",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/09/aston-martin-told-alonso-he-was-quicker-than-the-mercedes-at-end-of-brazilian-gp/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-16-30-16-4-2304036372.jpg",
+      "published_at": "2026-11-09T14:35:19+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Aston Martin a déclaré que Fernando Alonso était plus rapide que les pilotes Mercedes lors des dernières phases du Grand Prix du Brésil. Le pilote Aston Martin a ainsi affirmé sa supériorité sur la Mercedes.",
+      "summary_en": "Aston Martin claimed that Fernando Alonso was faster than the Mercedes drivers in the final stages of the Brazilian Grand Prix, asserting the Aston Martin driver's superiority over Mercedes."
+    },
+    {
+      "id": "c8d1be39d8f2",
+      "title": "George Russell has lost 90 points to Max Verstappen in F1 2026 runner-up battle",
+      "title_fr": "Mercedes envisage de pousser Russell à la deuxième place",
+      "title_en": "Mercedes considers pushing Russell to runner‑up",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-considers-push-for-george-russell-to-be-f1-2026-runner-up/10873310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6zoDvWa0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-09T13:46:01+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Mercedes envisage de donner toute la puissance à George Russell pour qu’il atteigne la deuxième place du championnat, après une saison difficile. Le pilote est à 262 points, derrière Max Verstappen.",
+      "summary_en": "Mercedes is considering giving George Russell all the power to secure the runner‑up spot after a rough season. The driver sits at 262 points, trailing Max Verstappen."
+    },
+    {
+      "id": "0001b6c1c1a2",
+      "title": "Lewis Hamilton sends message to Ferrari fans after 'devastating' Brazil GP",
+      "title_fr": "Hamilton déclare sa déception après le Grand Prix du Brésil",
+      "title_en": "Hamilton expresses disappointment after Brazil GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-ferrari-fans-after-devastating-brazil-gp/10873360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0arE3jP2/s6/motorsport-com-graphics-78.jpg",
+      "published_at": "2026-11-09T13:38:32+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré sa déception après avoir terminé neuvième à Interlagos, après une pénalité moteur qui l'a relégué à la 20e place. Il a partagé ses pensées sur Instagram.",
+      "summary_en": "Lewis Hamilton said he was devastated after finishing ninth at Interlagos, after an engine penalty dropped him to 20th. He shared his thoughts on Instagram."
+    },
+    {
+      "id": "3b61f8e6316a",
+      "title": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
+      "title_fr": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
+      "title_en": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ayrton-sennas-rare-honda-nsx-smashes-auction-estimate-with-record-six-figure-sale/10873355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YP748WQ2/s6/motorsport-com-graphics-77.jpg",
+      "published_at": "2026-11-09T13:19:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model.<br />The car, which had been estimated to sell for between £500,000 and £800,000 prior to the au",
+      "summary_en": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model.<br />The car, which had been estimated to sell for between £500,000 and £800,000 prior to the au"
+    },
     {
       "id": "d023aaf1d48d",
       "title": "How the Racing Bulls pendulum is swinging back towards undeniable Liam Lawson",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur de Mercedes, Toto Wolff, demande a la FIA de lever le plafond salarial des equipes juniors afin dameliorer les conditions de remuneration.",
       "summary_en": "Mercedes team principal Toto Wolff has asked the FIA to lift the junior salary cap to improve pay conditions for staff."
-    },
-    {
-      "id": "ba9cdbbfaf01",
-      "title": "Gabriel Bortoleto's partner Isabella Bernardini shows off custom Audi dress at Brazil GP",
-      "title_fr": "Isabella Bernardini arbore une robe Audi à Interlagos",
-      "title_en": "Isabella Bernardini Showcases Custom Audi Dress at Brazil GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2y7QrPK6/s6/motorsport-com-graphics-71.jpg",
-      "published_at": "2026-11-08T14:28:32+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Isabella Bernardini, partenaire de Gabriel Bortoleto, a fait sensation à Interlagos en portant une robe unique fabriquée à partir de la collection adidas Sampa Soul d’Audi. La créatrice Fiona Roerig a intégré leurs idées.",
-      "summary_en": "Isabella Bernardini, partner of Gabriel Bortoleto, turned heads at Interlagos wearing a one‑off dress made from Audi’s special adidas Sampa Soul collection. Designer Fiona Roerig incorporated their ideas into the upcycled design."
-    },
-    {
-      "id": "db50567c1fb6",
-      "title": "Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?",
-      "title_fr": "Hamilton et Verstappen en quête de la victoire brésilienne",
-      "title_en": "Hamilton and Verstappen eye Brazilian GP victory",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVj1bMY/s6/lewis-hamilton-ferrari-max-ver-2.jpg",
-      "published_at": "2026-11-08T13:29:32+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton et Max Verstappen, classés 20e et 21e, cherchent à renverser la situation sur le circuit de São Paulo. Le duel promet d’être captivant, malgré les incertitudes climatiques.",
-      "summary_en": "Lewis Hamilton and Max Verstappen, starting 20th and 21st, aim to overturn the standings at São Paulo. Their duel promises excitement, despite uncertain weather."
-    },
-    {
-      "id": "b806de31000f",
-      "title": "‘I’ll try to win, somehow’ – Can Lewis Hamilton and Max Verstappen fight back for F1 Brazilian GP victory?",
-      "title_fr": "Hamilton et Verstappen, à la recherche de la victoire brésilienne",
-      "title_en": "Hamilton and Verstappen eye Brazilian GP victory",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2eZxbDjY/s6/lewis-hamilton-ferrari-max-ver.jpg",
-      "published_at": "2026-11-08T13:28:55+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton et Max Verstappen, classés 20e et 21e, promettent une bataille passionnante au Grand Prix du Brésil. Le circuit favorise les dépassements, offrant une chance de retournement.",
-      "summary_en": "Lewis Hamilton and Max Verstappen, starting 20th and 21st, promise a thrilling fight at the Brazilian GP. The track favours overtaking, giving them a chance to turn the race."
-    },
-    {
-      "id": "f160819260fc",
-      "title": "McLaren’s 2027-spec front wing is making its F1 car more predictable",
-      "title_fr": "McLaren améliore la prévisibilité de son MCL40 grâce à l’aile avant 2027",
-      "title_en": "McLaren boosts MCL40 predictability with 2027 front wing",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0o5AwWwY/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-11-08T12:07:45+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique Andrea Stella affirme que l’aile avant 2027 introduite sur le MCL40 à Interlagos rend la voiture plus maniable et prévisible. L’upgrade comprend également une aile arrière, une aile de pont et un nouveau sol",
-      "summary_en": "Team principal Andrea Stella says the 2027 front wing introduced on the MCL40 at Interlagos improves the car’s driveability and predictability. The upgrade package also includes a rear wing, a beam wing and new floor furniture"
-    },
-    {
-      "id": "0e55853e8a23",
-      "title": "The wet-weather challenges thrown up by Brazilian GP qualifying",
-      "title_fr": "Qualif. de Sao Paulo : la pluie met les pilotes à l'épreuve",
-      "title_en": "Brazil GP qualifying: rain throws challenges",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872894/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0qgK1NQY/s6/rafael-camara-haas-f1-team-3.jpg",
-      "published_at": "2026-11-08T11:09:51+00:00",
-      "race_id": "brazil",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "La séance de qualification du Grand Prix du Brésil a été suspendue par une forte pluie, mais un passage de nuages a permis de reprendre les essais. Les pilotes ont dû s'adapter rapidement aux conditions changeantes.",
-      "summary_en": "The qualifying session for the Brazilian Grand Prix was halted by heavy rain, but a break in the clouds allowed it to resume. Drivers had to quickly adapt to the changing conditions."
-    },
-    {
-      "id": "af223a08fa7b",
-      "title": "The wet-weather challenges thrown up by Brazilian GP qualifying",
-      "title_fr": "Qualif. du Brésil : la pluie met à l'épreuve",
-      "title_en": "Brazil GP qualifying: rain tests drivers",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YN7vzbe6/s6/gabriel-bortoleto-audi-f1-team-2.jpg",
-      "published_at": "2026-11-08T11:06:21+00:00",
-      "race_id": "brazil",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "La séance de qualification du Grand Prix du Brésil à São Paulo a été interrompue par une forte pluie, mais un passage de nuages a permis de reprendre les essais. Les pilotes ont dû s'adapter rapidement aux conditions changeantes.",
-      "summary_en": "The qualifying session for the Brazilian Grand Prix in São Paulo was halted by heavy rain, but a break in the clouds allowed it to resume. Drivers had to quickly adapt to the changing conditions."
     }
   ]
 }
