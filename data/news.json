@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T03:46:10Z",
+  "last_updated": "2026-11-09T06:48:09Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -250,6 +250,25 @@
       "summary_en": "F1 chief Stefano Domenicali congratulated Mercedes on winning the 2026 constructors' championship, highlighting Toto Wolff's record alongside Sir Frank Williams."
     },
     {
+      "id": "7bc5b8baffd0",
+      "title": "Spotlight: F1 displays wrong race name in bizarre podium graphic error | Brief",
+      "title_fr": "F1 affiche erreur de nom de course sur podium du GP du Brésil",
+      "title_en": "F1 displays wrong race name on Brazilian GP podium",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/spotlight-f1-displays-wrong-race-name-in-bizarre-podium-graphic-error/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-15-56-42-4-2304169643.jpg",
+      "published_at": "2026-11-08T19:52:35+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 a affiché un nom de course incorrect sur le podium du Grand Prix du Brésil, indiquant à tort \"Mexico\" au lieu de \"Brésil\". L'erreur a été rapidement corrigée.",
+      "summary_en": "F1 displayed an incorrect race name on the Brazilian GP podium, mistakenly showing 'Mexico' instead of 'Brazil'. The error was quickly corrected."
+    },
+    {
       "id": "bf8dab3aaaf6",
       "title": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
       "title_fr": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
@@ -269,6 +288,25 @@
       "summary_en": "Following the Formula 1 Brazilian Grand Prix, which was convincingly won by outgoing world champion Lando Norris, several drivers still have to pay a visit to the stewards post-race.<br />Kimi Antonel"
     },
     {
+      "id": "00fd9f10f734",
+      "title": "Verstappen says he “did 85% of the race with a f***ed car” after finishing second | Formula 1",
+      "title_fr": "Verstappen, 2e place malgré un bolide déséquilibré",
+      "title_en": "Verstappen finishes second after battling a misbalanced car",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/verstappen-says-he-did-85-of-the-race-with-a-fed-car-after-finishing-second/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-19-38-47-1-SI202611080342.jpg",
+      "published_at": "2026-11-08T19:43:50+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a grimpé de 21e à la ligne d’arrivée en deuxième place, mais a déclaré que 85 % de la course se déroulait avec un bolide déséquilibré. Le pilote de Red Bull reste mécontent de la tenue de sa voiture.",
+      "summary_en": "Max Verstappen climbed from 21st on the grid to finish second, yet he said 85 % of the race was run with a misbalanced car. The Red Bull driver remains unhappy with the car’s handling."
+    },
+    {
       "id": "02b1e1571919",
       "title": "Lando Norris goes viral after Brazilian GP podium celebration goes wrong",
       "title_fr": "Norris fait sensation à Interlagos après un podium qui tourne mal",
@@ -286,6 +324,44 @@
       "is_breaking": false,
       "summary_fr": "Le pilote McLaren Lando Norris a déclenché la vague sur les réseaux après avoir fait tomber le bouchon de champagne sur le podium d'Interlagos, provoquant un éclat de bulles inattendu.",
       "summary_en": "McLaren's Lando Norris went viral after a champagne bottle mishap on the Brazilian GP podium, sending a splash of bubbles across the track."
+    },
+    {
+      "id": "6e2c74ec79d5",
+      "title": "2026 Brazilian Grand Prix interactive data: lap charts, times and tyres | 2026 Brazilian Grand Prix interactive data",
+      "title_fr": "Interlagos : pluie et stratégies de pneus",
+      "title_en": "Interlagos: rain and tyre strategies",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/2026-brazilian-grand-prix-interactive-data-lap-charts-times-and-tyres/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/brazillapchat.jpg",
+      "published_at": "2026-11-08T19:27:32+00:00",
+      "race_id": "brazil",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "À Interlagos, la pluie a alterné, poussant les pilotes à adopter des stratégies de pneus très similaires. Toutes les données de la course sont disponibles.",
+      "summary_en": "At Interlagos, rain alternated, pushing drivers into very similar tyre strategies. All race data is available."
+    },
+    {
+      "id": "ee7b567537f9",
+      "title": "Norris wins after Antonelli spins out of the lead at soggy Interlagos | 2026 Brazilian Grand Prix report",
+      "title_fr": "Norris triomphe à Interlagos après la sortie d'Antonelli",
+      "title_en": "Norris wins Brazilian GP after Antonelli spins at Interlagos",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/norris-wins-after-antonelli-spins-out-of-the-lead-at-soggy-interlagos/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-15-58-38-2-2304162750.jpg",
+      "published_at": "2026-11-08T18:55:30+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a remporté son troisième Grand Prix de 2026 à Interlagos, franchissant la tête de Max Verstappen. Le pilote Red Bull a grimpé du fond du peloton pour finir deuxième.",
+      "summary_en": "Lando Norris secured his third 2026 Grand Prix victory at Interlagos, beating Max Verstappen. The Red Bull driver climbed from the back of the field to finish second."
     },
     {
       "id": "377224393b78",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference.",
       "summary_en": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference."
-    },
-    {
-      "id": "48bc1bb1db94",
-      "title": "Lewis Hamilton and Max Verstappen warn of difficult F1 Brazilian GP comebacks",
-      "title_fr": "Hamilton et Verstappen prévoient des retours difficiles à Interlagos",
-      "title_en": "Hamilton and Verstappen warn of tough Brazilian GP comebacks",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-warn-of-difficult-brazilian-gp-comebacks/10872784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Lde3Vg0/s6/motorsport-com-graphics-70.jpg",
-      "published_at": "2026-11-07T22:06:47+00:00",
-      "race_id": "brazil",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton et Max Verstappen, qui débuteront à la 20e et 21e places, prévoient que les dépassements seront plus difficiles à Interlagos après avoir dépassé leur allocation de pièces de moteur.",
-      "summary_en": "Lewis Hamilton and Max Verstappen, starting 20th and 21st, say overtaking will be harder at Interlagos after exceeding their power‑unit part allocation."
-    },
-    {
-      "id": "71c7bed91fc8",
-      "title": "F1 Brazilian GP: Sunday schedule, weather forecast and how to watch",
-      "title_fr": "Norris sur pole à Interlagos, Antonelli promu à la première rangée",
-      "title_en": "Norris on pole at Interlagos, Antonelli promoted to front row",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazil-gp-sunday-schedule-weather-forecast-and-how-to-watch/10872772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0Zq8Vqb6/s6/oscar-piastri-mclaren.jpg",
-      "published_at": "2026-11-07T21:59:47+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a décroché le pole à Interlagos après une séance de qualification pluvieuse, tandis que Kimi Antonelli, promu à la première rangée suite à la pénalité de George Russell, attend la course.",
-      "summary_en": "Lando Norris secured pole at Interlagos after a rain-soaked qualifying, while Kimi Antonelli was promoted to the front row following George Russell’s penalty."
-    },
-    {
-      "id": "ee23e57ee758",
-      "title": "Social Media: Wolff believes Russell’s aborted lap would have put him second | Brief",
-      "title_fr": "Social Media: Wolff believes Russell’s aborted lap would have put him second | Brief",
-      "title_en": "Social Media: Wolff believes Russell’s aborted lap would have put him second | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/social-media-wolff-believes-russells-aborted-lap-would-have-put-him-second/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-21-56-39-1-M650888_F1_Grand_Prix_of_Brazil_Qualifying.jpg",
-      "published_at": "2026-11-07T21:57:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Russell 'would have been second' with aborted lap - Wolff",
-      "summary_en": "Russell 'would have been second' with aborted lap - Wolff"
-    },
-    {
-      "id": "7bdc7d111a21",
-      "title": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\"",
-      "title_fr": "Hamilton confirme la fin des tensions avec Leclerc",
-      "title_en": "Hamilton says Ferrari tensions with Leclerc are over",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": "2026-11-07T21:48:47+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a declare que les tensions entre Charles Leclerc et Ferrari etaient resolues apres leur clash a Mexico, sans lintervention de Fred Vasseur.",
-      "summary_en": "Lewis Hamilton said the tensions with Charles Leclerc were cleared after their clash at Mexico, without Fred Vasseur's involvement."
     }
   ]
 }
