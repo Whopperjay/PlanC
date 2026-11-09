@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-09T15:54:09Z",
+  "last_updated": "2026-11-09T18:56:12Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "87a6acd2128a",
+      "title": "George Russell teases imminent karting announcement as F1 fans spot major clue",
+      "title_fr": "George Russell teases imminent karting announcement as F1 fans spot major clue",
+      "title_en": "George Russell teases imminent karting announcement as F1 fans spot major clue",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-teases-imminent-karting-announcement-as-f1-fans-spot-major-clue/10873459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vzGV6/s6/motorsport-com-graphics-81.jpg",
+      "published_at": "2026-11-09T18:31:47+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell has teased an imminent announcement linked to karting on 12 November.<br />The Mercedes driver posted a video to Instagram on Monday with the caption \"Stay tuned\". He talks about his fi",
+      "summary_en": "George Russell has teased an imminent announcement linked to karting on 12 November.<br />The Mercedes driver posted a video to Instagram on Monday with the caption \"Stay tuned\". He talks about his fi"
+    },
+    {
+      "id": "6cd8ad3bd44e",
+      "title": "Apple TV confirms free F1 Las Vegas Grand Prix coverage: How to watch in the US",
+      "title_fr": "Apple TV diffuse le Grand Prix de Las Vegas gratuitement",
+      "title_en": "Apple TV to stream Las Vegas GP for free",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/apple-tv-confirms-free-f1-las-vegas-grand-prix-coverage-how-to-watch-in-the-us/10873443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/27No31e0/s6/motorsport-com-graphics-80.jpg",
+      "published_at": "2026-11-09T17:56:51+00:00",
+      "race_id": "usa",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Apple TV a confirmé que le week‑end complet du Grand Prix de Las Vegas sera diffusé gratuitement aux États‑Unis, sans abonnement requis, couvrant toutes les sessions, de la première séance d’essai à la course du samedi.",
+      "summary_en": "Apple TV confirmed that the entire Las Vegas Grand Prix weekend will stream for free in the U.S., covering every session from Thursday’s first practice to Saturday’s race, with no subscription required."
+    },
+    {
+      "id": "18ef7749c7bf",
+      "title": "“The car is steering by itself, don’t you see it?”: How handling trouble baffled Antonelli | Formula 1",
+      "title_fr": "Antonelli se plaint d’une conduite étrange après son premier arrêt aux boxes",
+      "title_en": "Antonelli complains of strange handling after first pit stop",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-09-08-54-15-9-M651632_F1_SAO_PAULO_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-11-09T17:05:55+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Antonelli a signalé un comportement étrange de sa voiture après son premier arrêt aux boxes, demandant à Mercedes d’en identifier la cause, ce qui l’a fait perdre la course.",
+      "summary_en": "Antonelli reported odd handling after his first pit stop, asking Mercedes to investigate, which cost him a chance at victory."
+    },
+    {
+      "id": "f04f0edc93f5",
+      "title": "What's behind Piastri's split with Webber – and what it means for his F1 career",
+      "title_fr": "Piastri rompt avec Webber, impact sur sa carriere",
+      "title_en": "Piastri parts ways with Webber, implications for his F1 career",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/whats-behind-piastris-split-with-webber-and-what-it-means-for-his-f1-career/10873410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg",
+      "published_at": "2026-11-09T15:53:07+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri et Mark Webber ont annonce la fin de leur collaboration, ce qui pourrait influencer la trajectoire du jeune pilote McLaren",
+      "summary_en": "Oscar Piastri and Mark Webber announced the end of their partnership, potentially affecting the young McLaren driver's future"
+    },
+    {
+      "id": "e7546dae5543",
+      "title": "What's behind Oscar Piastri's split with Mark Webber – and what it means for his F1 career",
+      "title_fr": "Piastri et Webber se séparent, fin de l'ancienne équipe de gestion",
+      "title_en": "Piastri and Webber part ways, ending old management team",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/what-the-split-with-mark-webber-says-about-the-next-phase-of-oscar-piastris-f1-career/10873385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg",
+      "published_at": "2026-11-09T15:51:41+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri et Mark Webber ont annoncé la fin de leur collaboration, Webber et Ann Neal ne gèrent plus le pilote de 25 ans. La décision intervient après le Grand Prix brésilien.",
+      "summary_en": "Oscar Piastri and Mark Webber announced the end of their partnership, with Webber and Ann Neal no longer managing the 25-year-old driver. The decision follows the Brazilian Grand Prix."
+    },
     {
       "id": "54c51f6be968",
       "title": "Why Mercedes says a repeat of its 2014-2021 dominance is \"impossible\"",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a remporté son troisième victoire de 2026 au Grand Prix brésilien, battant Max Verstappen dans des conditions variables. Mercedes a décroché le championnat des constructeurs.",
       "summary_en": "Lando Norris secured his third win of 2026 at the Brazilian Grand Prix, defeating Max Verstappen amid mixed weather. Mercedes clinched the constructors' championship."
-    },
-    {
-      "id": "f5298a1d8788",
-      "title": "Mercedes crowned 2026 F1 constructors' champion at Brazilian GP",
-      "title_fr": "Mercedes crowned 2026 F1 constructors' champion at Brazilian GP",
-      "title_en": "Mercedes crowned 2026 F1 constructors' champion at Brazilian GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-crowned-2026-f1-constructors-champion-at-brazilian-gp/10873044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/68VwMaX2/s6/motorsport-com-graphics-84-2.jpg",
-      "published_at": "2026-11-08T18:43:09+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes has won the 2026 Formula 1 constructors' championship, sealing the title at the Brazilian Grand Prix at Interlagos.<br />Kimi Antonelli and George Russell started second and seventh on the gr",
-      "summary_en": "Mercedes has won the 2026 Formula 1 constructors' championship, sealing the title at the Brazilian Grand Prix at Interlagos.<br />Kimi Antonelli and George Russell started second and seventh on the gr"
-    },
-    {
-      "id": "13585eb4e82a",
-      "title": "Rate the race: 2026 Brazilian Grand Prix | Formula 1",
-      "title_fr": "Alonso d'Aston Martin triomphe au Brésil 2026",
-      "title_en": "Alonso of Aston Martin triumphs at 2026 Brazilian GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/rate-the-race-2026-brazilian-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-03-08-9-2304146499.jpg",
-      "published_at": "2026-11-08T18:38:17+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso d'Aston Martin a remporté le Grand Prix du Brésil 2026 après une bataille acharnée avec Max Verstappen de Red Bull. Les équipes ont mis en avant leurs stratégies, tandis que les fans ont salé la performance.",
-      "summary_en": "Fernando Alonso of Aston Martin won the 2026 Brazilian GP after a fierce duel with Max Verstappen of Red Bull. Teams highlighted their strategies while fans praised the performance."
-    },
-    {
-      "id": "d5dd1ed76d40",
-      "title": "2026 Brazilian Grand Prix in pictures | F1 Pictures",
-      "title_fr": "Interlagos en images : Grand Prix brésilien 2026",
-      "title_en": "Interlagos in pictures: 2026 Brazilian GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/2026-brazilian-grand-prix-in-pictures/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-08-22-8-2304147627.jpg",
-      "published_at": "2026-11-08T18:18:32+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix brésilien 2026 à Interlagos est présenté à travers une série d'images. Les photographies montrent les circuits, les équipes et les préparatifs avant la course.",
-      "summary_en": "The 2026 Brazilian GP at Interlagos is showcased through a series of images. The photos capture the track, teams, and pre-race preparations."
-    },
-    {
-      "id": "81f893db0d08",
-      "title": "Charles Leclerc turns heads with $125,000 watch at F1 Brazilian GP",
-      "title_fr": "Leclerc fait sensation à Interlagos avec une montre de 125 000 $",
-      "title_en": "Leclerc turns heads at Interlagos with a $125,000 watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-turns-heads-with-125000-watch-at-f1-brazilian-gp/10873032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6zoD8va0/s6/motorsport-com-graphics-72.jpg",
-      "published_at": "2026-11-08T18:12:58+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Ferrari, Charles Leclerc, a fait sensation à Interlagos en arborant une montre Richard Mille RM 33-02, évaluée à 125 000 $",
-      "summary_en": "Ferrari driver Charles Leclerc turned heads at Interlagos wearing a Richard Mille RM 33-02 watch worth $125,000"
-    },
-    {
-      "id": "3af775529c11",
-      "title": "Toto Wolff wants the FIA to lift the salary cap on junior staff: “We need to pay them better”",
-      "title_fr": "Toto Wolff veut lever le plafond salarial junior",
-      "title_en": "Toto Wolff wants to lift the junior salary cap",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-wants-the-fia-to-lift-the-salary-cap-on-junior-staff-we-need-to-pay-them-better/10872625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6grQEGmY/s6/motorsport-com-graphics-83-2.jpg",
-      "published_at": "2026-11-08T18:00:14+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Mercedes, Toto Wolff, demande a la FIA de lever le plafond salarial des equipes juniors afin dameliorer les conditions de remuneration.",
-      "summary_en": "Mercedes team principal Toto Wolff has asked the FIA to lift the junior salary cap to improve pay conditions for staff."
     }
   ]
 }
