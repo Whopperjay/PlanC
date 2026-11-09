@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T00:44:10Z",
+  "last_updated": "2026-11-09T03:46:10Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -60,6 +60,25 @@
       "summary_en": "Max Verstappen handed his helmet to Ole Schack, Red Bull's long‑time mechanic, during Interlagos' final race. The team also produced a one‑off Red Bull can celebrating Schack's career."
     },
     {
+      "id": "ad5bea0c668d",
+      "title": "Social Media: No hand injury after breaking another champagne bottle, says Norris | Brief",
+      "title_fr": "Norris évite blessure après avoir brisé une bouteille de champagne",
+      "title_en": "Norris avoids injury after smashing another champagne bottle",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/social-media-norris-avoids-injury-after-breaking-another-champagne-bottle/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-17-16-17-7-2304175676.jpg",
+      "published_at": "2026-11-08T22:20:59+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Lewis Norris a déclaré qu’il n’avait subi aucune blessure à la main après avoir brisé une autre bouteille de champagne. L’incident a été confirmé sur les réseaux sociaux.",
+      "summary_en": "Lewis Norris said he suffered no hand injury after smashing another champagne bottle, a claim confirmed on social media."
+    },
+    {
       "id": "f78a377298c5",
       "title": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
       "title_fr": "Leclerc pénalisé après collision avec Lawson",
@@ -117,6 +136,44 @@
       "summary_en": "Max Verstappen finished second in the Brazilian Grand Prix after a dramatic climb from 21st on the grid. The driver must analyse what went wrong at the start."
     },
     {
+      "id": "d9348855cf7b",
+      "title": "Stewards ruled Hamilton “gained no advantage” by passing Bearman off-track | Formula 1",
+      "title_fr": "Stewards : Hamilton n'a pas gagné d'avantage en dépassant Bearman hors piste",
+      "title_en": "Stewards rule Hamilton did not gain advantage by passing Bearman off-track",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/stewards-ruled-hamilton-gained-no-advantage-by-passing-bearman-off-track/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-04-15-5-2304144987-830.jpg",
+      "published_at": "2026-11-08T21:50:30+00:00",
+      "race_id": "brazil",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les commissaires du Grand Prix du Brésil ont jugé que Lewis Hamilton n'a pas obtenu d'avantage en dépassant Oliver Bearman hors piste. La décision confirme que la manoeuvre n'a pas violé les règles.",
+      "summary_en": "Stewards ruled that Lewis Hamilton did not gain an advantage by passing Oliver Bearman off-track during the Brazilian Grand Prix. The decision confirms the manoeuvre complied with the regulations."
+    },
+    {
+      "id": "b1aaf1bb2c47",
+      "title": "Lawson moves up to seventh as stewards penalise Leclerc for collision | Formula 1",
+      "title_fr": "Lawson passe à la septième place après la pénalité de Leclerc",
+      "title_en": "Lawson moves up to seventh as Leclerc penalised for collision",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/lawson-moves-up-to-seventh-as-stewards-penalise-leclerc-for-collision/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-20-53-25-1-SI202611080377.jpg",
+      "published_at": "2026-11-08T21:21:37+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Liam Lawson a grimpé à la septième place du classement du Grand Prix du Brésil après que les commissaires aient sanctionné Charles Leclerc pour collision. Leclerc perd des points.",
+      "summary_en": "Liam Lawson climbed to seventh in the Brazilian Grand Prix after stewards penalised Charles Leclerc for a collision. Leclerc lost points."
+    },
+    {
       "id": "e4bd1d4a590f",
       "title": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
       "title_fr": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
@@ -153,6 +210,25 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a perdu la victoire du Grand Prix brésilien à cause d'un spin étrange et d'une instabilité de la voiture, malgré un départ en tête.",
       "summary_en": "Kimi Antonelli lost the Brazilian Grand Prix after a weird spin and car instability, despite taking the lead from Lando Norris at the start."
+    },
+    {
+      "id": "1afe9e167485",
+      "title": "Hamilton “didn’t hear that it was raining more” before high-speed spin | Formula 1",
+      "title_fr": "Hamilton fait un spin à São Paulo sans se rendre compte de la pluie",
+      "title_en": "Hamilton spins in São Paulo after missing rain",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/08/hamilton-didnt-hear-that-it-was-raining-more-before-high-speed-spin/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-13-17-4-25-sunday-saopaulo-2026.jpg",
+      "published_at": "2026-11-08T20:46:37+00:00",
+      "race_id": "brazil",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a perdu le contrôle à São Paulo, faisant un spin tardif, car il n’avait pas remarqué l’augmentation de la pluie. Le pilote a déclaré qu’il n’avait pas compris les conditions.",
+      "summary_en": "Lewis Hamilton spun late in São Paulo after failing to notice worsening rain. The driver said he hadn’t realized the conditions were deteriorating."
     },
     {
       "id": "c2e86e00ac16",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a declare que les tensions entre Charles Leclerc et Ferrari etaient resolues apres leur clash a Mexico, sans lintervention de Fred Vasseur.",
       "summary_en": "Lewis Hamilton said the tensions with Charles Leclerc were cleared after their clash at Mexico, without Fred Vasseur's involvement."
-    },
-    {
-      "id": "5d824e54de44",
-      "title": "Lewis Hamilton insists Ferrari tensions with Charles Leclerc are over: \"We've squashed it\"",
-      "title_fr": "Hamilton affirme que les tensions avec Leclerc sont dissipées",
-      "title_en": "Hamilton says tensions with Leclerc are over",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872756/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/0Zq8lQ56/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-07T21:45:25+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que les tensions entre lui et Charles Leclerc, qui ont éclaté lors du Grand Prix de Mexico, sont désormais résolues. Les deux pilotes ont réglé leurs différends sans l'intervention de Fred Vasseur.",
-      "summary_en": "Lewis Hamilton said the tensions with Charles Leclerc, sparked by their clash at the Mexico Grand Prix, have been resolved. The two drivers settled their differences without Fred Vasseur's involvement."
-    },
-    {
-      "id": "9a7020d5fc4d",
-      "title": "Lewis Hamilton opens up on clear-the-air talks with Charles Leclerc after Mexican GP clash",
-      "title_fr": "Hamilton évoque la discussion post‑collision avec Leclerc",
-      "title_en": "Hamilton discusses post‑clash talk with Leclerc",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-opens-up-on-clear-the-air-talks-with-charles-leclerc-after-mexican-gp-clash/10872761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YP748Re2/s6/motorsport-com-graphics-2.jpg",
-      "published_at": "2026-11-07T21:39:36+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a expliqué la conversation claire‑air qu’il a eue avec Charles Leclerc après la collision du premier tour du Grand Prix du Mexique. Les deux pilotes ont échangé leurs points de vue avant le Grand Prix brésilien.",
-      "summary_en": "Lewis Hamilton explained the clear‑air conversation he had with Charles Leclerc after the first‑lap clash at the Mexican Grand Prix. The two drivers exchanged views before the Brazilian GP."
-    },
-    {
-      "id": "2c38cfeff994",
-      "title": "Russell fumes at Mercedes after pit wall error costs him shot at fastest time | Formula 1",
-      "title_fr": "Russell en colère après erreur de pit wall",
-      "title_en": "Russell fumes after pit wall error cost him fastest time",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/07/russell-fumes-at-mercedes-after-pit-wall-error-costs-him-shot-at-fastest-time/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-21-31-12-1-M650845_F1_Grand_Prix_of_Brazil_Qualifying.jpg",
-      "published_at": "2026-11-07T21:39:09+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell a exprimé sa frustration après que son ingénieur de course l'ait invité à abandonner un tour qui aurait été le plus rapide en Q3, faute d'une erreur de la pit wall.",
-      "summary_en": "George Russell expressed frustration after his race engineer told him to abandon a lap that would have been the fastest in Q3, due to a pit wall error."
-    },
-    {
-      "id": "9e970d76faae",
-      "title": "Max Verstappen watched Premier League football during Brazilian GP qualifying delay: \"12 hours I'll never get back\"",
-      "title_fr": "Max Verstappen watched Premier League football during Brazilian GP qualifying delay: \"12 hours I'll never get back\"",
-      "title_en": "Max Verstappen watched Premier League football during Brazilian GP qualifying delay: \"12 hours I'll never get back\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-watched-premier-league-football-during-f1-delay-12-hours-ill-never-get-back/10872746/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0o5AVQ7Y/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-07T21:27:08+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen called it a day after Q1 during Formula 1 qualifying in Sao Paulo, as he already knew he would be starting from the back of the grid for the Brazilian Grand Prix due to an engine-relate",
-      "summary_en": "Max Verstappen called it a day after Q1 during Formula 1 qualifying in Sao Paulo, as he already knew he would be starting from the back of the grid for the Brazilian Grand Prix due to an engine-relate"
     }
   ]
 }
