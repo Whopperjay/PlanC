@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T18:56:12Z",
+  "last_updated": "2026-11-09T21:58:39Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -136,6 +136,25 @@
       "summary_en": "FIA president Ben Sulayem reportedly plans to eliminate age limits for officials, a move that could broaden participation. The decision, if confirmed, would change the regulatory framework."
     },
     {
+      "id": "89fde9b1612c",
+      "title": "FIA boss planning to end age limits for office holders",
+      "title_fr": "FIA : Ben Sulayem veut abolir les plafonds d’âge",
+      "title_en": "FIA boss Ben Sulayem plans to end age limits",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr9dz7w1xgxvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6f4/live/d9881880-dbb3-11f1-b35d-8ff000e4934a.jpg",
+      "published_at": "2026-11-09T15:20:35+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le président de la FIA, Mohammed Ben Sulayem, prévoit d'abolir les plafonds d’âge pour les responsables de la fédération. Cette réforme vise à moderniser la gouvernance du sport automobile.",
+      "summary_en": "FIA president Mohammed Ben Sulayem plans to abolish age limits for officials, aiming to modernise the sport's governance."
+    },
+    {
       "id": "811c5174c595",
       "title": "Aston Martin told Alonso he was “quicker than the Mercedes” at end of Brazilian GP | Formula 1",
       "title_fr": "Aston Martin dit qu'Alonso battait Mercedes à Rio",
@@ -210,6 +229,25 @@
       "is_breaking": false,
       "summary_fr": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model.<br />The car, which had been estimated to sell for between £500,000 and £800,000 prior to the au",
       "summary_en": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model.<br />The car, which had been estimated to sell for between £500,000 and £800,000 prior to the au"
+    },
+    {
+      "id": "03e779ba6e9d",
+      "title": "“S***, I missed the pit lane”: Hamilton’s unheard radio from his Brazilian GP struggle | Formula 1",
+      "title_fr": "Hamilton, radio oubliée : il a raté le pit lane",
+      "title_en": "Hamilton's unheard radio: he missed the pit lane",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/09/i-missed-the-pit-lane-hamiltons-unheard-radio-from-his-brazilian-gp-struggle/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hamilton-radio-brazil.jpg",
+      "published_at": "2026-11-09T12:00:50+00:00",
+      "race_id": "brazil",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a raté le pit lane à Interlagos quand la pluie est revenue, après avoir reçu l'ordre de Ferrari. Le manque de réaction a entraîné une perte de temps et un spin coûteux.",
+      "summary_en": "Lewis Hamilton missed the pit lane at Interlagos when rain returned after Ferrari's instruction, causing a costly spin and time loss."
     },
     {
       "id": "d023aaf1d48d",
@@ -288,6 +326,25 @@
       "summary_en": "Toto Wolff secured his ninth constructors' title, matching the records of Frank Williams and Ron Dennis. The Mercedes-Benz Racing director confirmed his achievement during an interview in Sao Paulo."
     },
     {
+      "id": "6ca0bc7ebb3e",
+      "title": "Russell explains pit exit spin: ‘I took too much risk because I saw a chance to win’ | Formula 1",
+      "title_fr": "Russell explains pit exit spin: ‘I took too much risk because I saw a chance to win’ | Formula 1",
+      "title_en": "Russell explains pit exit spin: ‘I took too much risk because I saw a chance to win’ | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/09/russell-explains-pit-exit-spin-i-took-too-much-risk-because-i-saw-a-chance-to-win/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/russell-spin.jpg",
+      "published_at": "2026-11-09T09:36:27+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell says he spun in the pit lane exit during the Brazilian Grand Prix because he thought he had a race-winning opportunity.",
+      "summary_en": "George Russell says he spun in the pit lane exit during the Brazilian Grand Prix because he thought he had a race-winning opportunity."
+    },
+    {
       "id": "f18406934abd",
       "title": "Who slept worst last night: Fernando Alonso",
       "title_fr": "Alonso devient champion du monde à 24 ans",
@@ -305,6 +362,25 @@
       "is_breaking": false,
       "summary_fr": "Fernando Alonso a remporté le championnat du monde de Formule 1 en 2005 à l'âge de 24 ans, devenant ainsi le plus jeune champion de l'histoire. Il a remplacé Emerson Fittipaldi et a défié Michael Schumacher.",
       "summary_en": "Fernando Alonso won the 2005 Formula 1 World Championship at 24, becoming the sport's youngest champion. He replaced Emerson Fittipaldi and challenged Michael Schumacher."
+    },
+    {
+      "id": "87b23d38d993",
+      "title": "Piastri splits from Webber’s management team | Formula 1",
+      "title_fr": "Piastri splits from Webber’s management team | Formula 1",
+      "title_en": "Piastri splits from Webber’s management team | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/09/piastri-splits-from-webbers-management-team/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2024/09/racefansdotnet-2024-09-08_172303.jpg",
+      "published_at": "2026-11-09T09:01:06+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren driver Oscar Piastri has confirmed he is no longer being represented by Mark Webber's management team.",
+      "summary_en": "McLaren driver Oscar Piastri has confirmed he is no longer being represented by Mark Webber's management team."
     },
     {
       "id": "197c01cf875f",
@@ -343,6 +419,25 @@
       "is_breaking": false,
       "summary_fr": "Oscar Piastri et Mark Webber ont mis fin à leur contrat de gestion, après une collaboration depuis 2019. Le pilote australien a quitté l’équipe de Webber, qui l’avait accompagné depuis son ascension en Formule 1.",
       "summary_en": "Oscar Piastri and Mark Webber have mutually ended their management agreement, ending a partnership that began in 2019. The Australian driver has left Webber’s team after a successful rise to Formula 1."
+    },
+    {
+      "id": "d3a5a29c619f",
+      "title": "Norris sparkles in Sao Paulo despite firework mishap",
+      "title_fr": "Norris sparkles in Sao Paulo despite firework mishap",
+      "title_en": "Norris sparkles in Sao Paulo despite firework mishap",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd44/live/561b1180-dbc9-11f1-a639-8fd896d95a18.jpg",
+      "published_at": "2026-11-08T23:44:53+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
+      "summary_en": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits."
     },
     {
       "id": "88b0eb97b31f",
@@ -421,6 +516,25 @@
       "summary_en": "Lewis Norris said he suffered no hand injury after smashing another champagne bottle, a claim confirmed on social media."
     },
     {
+      "id": "cbdb986b4248",
+      "title": "Norris wins gripping race after Antonelli and Russell errors",
+      "title_fr": "Norris triomphe à São Paulo malgré les erreurs d'Antonelli et Russell",
+      "title_en": "Norris wins gripping São Paulo GP after Antonelli and Russell errors",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b718/live/a6329430-dba7-11f1-9580-17f5674d0b29.jpg",
+      "published_at": "2026-11-08T22:11:31+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a remporté le Grand Prix de São Paulo dans des conditions difficiles, profitant des erreurs d'Antonelli et de Russell. Mercedes a ainsi scellé le championnat des constructeurs 2026.",
+      "summary_en": "Lando Norris won the São Paulo Grand Prix in tough conditions, capitalising on Antonelli and Russell's mistakes. Mercedes secured the 2026 constructors' championship."
+    },
+    {
       "id": "f78a377298c5",
       "title": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
       "title_fr": "Leclerc pénalisé après collision avec Lawson",
@@ -438,6 +552,25 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc a reçu une pénalité de cinq secondes pour collision avec Liam Lawson, le faisant passer de la septième à la huitième place.",
       "summary_en": "Charles Leclerc received a five-second penalty for a clash with Liam Lawson, dropping him from seventh to eighth place."
+    },
+    {
+      "id": "41fc099f487a",
+      "title": "Norris brilliant in wet & Verstappen recovery extraordinary - driver ratings",
+      "title_fr": "Norris brille sous la pluie, Verstappen se relève",
+      "title_en": "Norris shines in wet, Verstappen recovers brilliantly",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y43jzvrnz0o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3356/live/e6fd4000-dbbb-11f1-93e1-3b657b665bcf.png",
+      "published_at": "2026-11-08T21:56:33+00:00",
+      "race_id": "brazil",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Harry Benjamin a évalué les performances de Norris et Verstappen lors du Grand Prix de Sao Paulo, soulignant la maîtrise de Norris dans la pluie et la récupération exceptionnelle de Verstappen.",
+      "summary_en": "BBC commentator Harry Benjamin rated Norris and Verstappen at the Sao Paulo GP, praising Norris's wet-weather performance and Verstappen's extraordinary recovery."
     },
     {
       "id": "c641a775c997",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Following the Formula 1 Brazilian Grand Prix, which was convincingly won by outgoing world champion Lando Norris, several drivers still have to pay a visit to the stewards post-race.<br />Kimi Antonel",
       "summary_en": "Following the Formula 1 Brazilian Grand Prix, which was convincingly won by outgoing world champion Lando Norris, several drivers still have to pay a visit to the stewards post-race.<br />Kimi Antonel"
-    },
-    {
-      "id": "00fd9f10f734",
-      "title": "Verstappen says he “did 85% of the race with a f***ed car” after finishing second | Formula 1",
-      "title_fr": "Verstappen, 2e place malgré un bolide déséquilibré",
-      "title_en": "Verstappen finishes second after battling a misbalanced car",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/verstappen-says-he-did-85-of-the-race-with-a-fed-car-after-finishing-second/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-19-38-47-1-SI202611080342.jpg",
-      "published_at": "2026-11-08T19:43:50+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a grimpé de 21e à la ligne d’arrivée en deuxième place, mais a déclaré que 85 % de la course se déroulait avec un bolide déséquilibré. Le pilote de Red Bull reste mécontent de la tenue de sa voiture.",
-      "summary_en": "Max Verstappen climbed from 21st on the grid to finish second, yet he said 85 % of the race was run with a misbalanced car. The Red Bull driver remains unhappy with the car’s handling."
-    },
-    {
-      "id": "02b1e1571919",
-      "title": "Lando Norris goes viral after Brazilian GP podium celebration goes wrong",
-      "title_fr": "Norris fait sensation à Interlagos après un podium qui tourne mal",
-      "title_en": "Norris goes viral after Brazilian GP podium mishap",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-goes-viral-after-brazilian-gp-podium-celebration-goes-wrong/10873089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/24QGbZAY/s6/motorsport-com-graphics-73.jpg",
-      "published_at": "2026-11-08T19:39:51+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote McLaren Lando Norris a déclenché la vague sur les réseaux après avoir fait tomber le bouchon de champagne sur le podium d'Interlagos, provoquant un éclat de bulles inattendu.",
-      "summary_en": "McLaren's Lando Norris went viral after a champagne bottle mishap on the Brazilian GP podium, sending a splash of bubbles across the track."
-    },
-    {
-      "id": "6e2c74ec79d5",
-      "title": "2026 Brazilian Grand Prix interactive data: lap charts, times and tyres | 2026 Brazilian Grand Prix interactive data",
-      "title_fr": "Interlagos : pluie et stratégies de pneus",
-      "title_en": "Interlagos: rain and tyre strategies",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/2026-brazilian-grand-prix-interactive-data-lap-charts-times-and-tyres/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/brazillapchat.jpg",
-      "published_at": "2026-11-08T19:27:32+00:00",
-      "race_id": "brazil",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "À Interlagos, la pluie a alterné, poussant les pilotes à adopter des stratégies de pneus très similaires. Toutes les données de la course sont disponibles.",
-      "summary_en": "At Interlagos, rain alternated, pushing drivers into very similar tyre strategies. All race data is available."
-    },
-    {
-      "id": "ee7b567537f9",
-      "title": "Norris wins after Antonelli spins out of the lead at soggy Interlagos | 2026 Brazilian Grand Prix report",
-      "title_fr": "Norris triomphe à Interlagos après la sortie d'Antonelli",
-      "title_en": "Norris wins Brazilian GP after Antonelli spins at Interlagos",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/norris-wins-after-antonelli-spins-out-of-the-lead-at-soggy-interlagos/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-15-58-38-2-2304162750.jpg",
-      "published_at": "2026-11-08T18:55:30+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a remporté son troisième Grand Prix de 2026 à Interlagos, franchissant la tête de Max Verstappen. Le pilote Red Bull a grimpé du fond du peloton pour finir deuxième.",
-      "summary_en": "Lando Norris secured his third 2026 Grand Prix victory at Interlagos, beating Max Verstappen. The Red Bull driver climbed from the back of the field to finish second."
-    },
-    {
-      "id": "377224393b78",
-      "title": "Five quick takeaways from Brazilian GP",
-      "title_fr": "Verstappen revient, Norris domine, 2026 rend les dépassements plus difficiles",
-      "title_en": "Verstappen returns, Norris dominates, 2026 makes overtaking harder",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-brazil-gp/10873014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws.jpg",
-      "published_at": "2026-11-08T18:55:25+00:00",
-      "race_id": "brazil",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a réalisé une remontée impressionnante, tandis que Lando Norris a montré une performance hors pair. Les voitures 2026, sans DRS, rendent les dépassements plus difficiles, comme l'ont souligné Verstappen et Hamilton.",
-      "summary_en": "Max Verstappen staged an impressive comeback, while Lando Norris delivered a dominant performance. The 2026 cars, lacking DRS, make overtaking harder, as both Verstappen and Hamilton noted."
-    },
-    {
-      "id": "8f42c893f2f1",
-      "title": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors’ title",
-      "title_fr": "Norris triomphe au Brésil, Mercedes remporte le championnat des constructeurs",
-      "title_en": "Norris wins in Brazil, Mercedes clinch constructors' title",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRprQY/s6/lando-norris-mclaren-4.jpg",
-      "published_at": "2026-11-08T18:50:51+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a remporté son troisième victoire de 2026 au Grand Prix brésilien, battant Max Verstappen dans des conditions variables. Mercedes a ainsi scellé le championnat du monde des constructeurs.",
-      "summary_en": "Lando Norris secured his third 2026 win at the Brazilian Grand Prix, defeating Max Verstappen amid mixed conditions. Mercedes clinched the World Constructors' Championship."
-    },
-    {
-      "id": "53b262c626be",
-      "title": "F1 Brazilian GP: Lando Norris wins in mixed conditions, Mercedes clinch constructors’ title",
-      "title_fr": "Norris triomphe à Brésil, Mercedes remporte le titre des constructeurs",
-      "title_en": "Norris wins in Brazil, Mercedes clinches constructors title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0arE3Nw2/s6/lando-norris-mclaren-3.jpg",
-      "published_at": "2026-11-08T18:48:58+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a remporté son troisième victoire de 2026 au Grand Prix brésilien, battant Max Verstappen dans des conditions variables. Mercedes a décroché le championnat des constructeurs.",
-      "summary_en": "Lando Norris secured his third win of 2026 at the Brazilian Grand Prix, defeating Max Verstappen amid mixed weather. Mercedes clinched the constructors' championship."
     }
   ]
 }
