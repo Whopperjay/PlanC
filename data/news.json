@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-09T06:48:09Z",
+  "last_updated": "2026-11-09T09:50:06Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f18406934abd",
+      "title": "Who slept worst last night: Fernando Alonso",
+      "title_fr": "Alonso devient champion du monde à 24 ans",
+      "title_en": "Alonso becomes world champion at 24",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-fernando-alonso/10873272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/68VwMBV2/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-09T09:33:04+00:00",
+      "race_id": "spain-barcelona",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a remporté le championnat du monde de Formule 1 en 2005 à l'âge de 24 ans, devenant ainsi le plus jeune champion de l'histoire. Il a remplacé Emerson Fittipaldi et a défié Michael Schumacher.",
+      "summary_en": "Fernando Alonso won the 2005 Formula 1 World Championship at 24, becoming the sport's youngest champion. He replaced Emerson Fittipaldi and challenged Michael Schumacher."
+    },
+    {
+      "id": "197c01cf875f",
+      "title": "Piastri and Webber terminate management agreement",
+      "title_fr": "Piastri et Webber rompent leur contrat de gestion",
+      "title_en": "Piastri and Webber end management deal",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/oscar-piastri-splits-from-mark-webber-management/10873258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0a9ajnr0/s6/oscar-piastri-mclaren-1st-posi.jpg",
+      "published_at": "2026-11-09T08:43:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri et Mark Webber ont mis fin à leur contrat de gestion, après que Webber et sa femme aient dirigé la carrière de Piastri depuis 2019.",
+      "summary_en": "Oscar Piastri and Mark Webber have mutually ended their management contract, after Webber and his wife guided Piastri's career since 2019."
+    },
+    {
+      "id": "2e4ffb3a542c",
+      "title": "Oscar Piastri splits from Mark Webber management",
+      "title_fr": "Piastri rompt avec Mark Webber",
+      "title_en": "Piastri parts ways with Mark Webber",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-wont-have-mark-webber-as-his-manager-anymore/10873253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0a9ajnr0/s6/oscar-piastri-mclaren-1st-posi.jpg",
+      "published_at": "2026-11-09T08:39:26+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri et Mark Webber ont mis fin à leur contrat de gestion, après une collaboration depuis 2019. Le pilote australien a quitté l’équipe de Webber, qui l’avait accompagné depuis son ascension en Formule 1.",
+      "summary_en": "Oscar Piastri and Mark Webber have mutually ended their management agreement, ending a partnership that began in 2019. The Australian driver has left Webber’s team after a successful rise to Formula 1."
+    },
     {
       "id": "88b0eb97b31f",
       "title": "Red Bull boss hails Max Verstappen's Brazil podium: \"He's beating the sim on a regular basis\"",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar a qualifié la qualification sous la pluie de « très douteux » en raison des pneus pluie de la F1. Le pilote a exprimé son mécontentement face à la performance des pneus.",
       "summary_en": "Isack Hadjar called the rain‑shrouded qualifying 'very sketchy' because of Formula 1's wet‑weather tyres. The driver voiced his frustration over the tyre performance."
-    },
-    {
-      "id": "4d783ed67262",
-      "title": "Liam Lawson rues Brazilian GP qualifying mistake despite third-place grid start",
-      "title_fr": "Liam Lawson rues Brazilian GP qualifying mistake despite third-place grid start",
-      "title_en": "Liam Lawson rues Brazilian GP qualifying mistake despite third-place grid start",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/despite-p3-on-the-grid-lawson-rues-qualifying-mistake-and-believes-front-row-was-possible/10872792/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGg5lVY/s6/liam-lawson-racing-bulls.jpg",
-      "published_at": "2026-11-07T22:32:01+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson reckons he had enough pace to earn a front-row grid spot in Sao Paulo – but rues his own \"mistake\" in qualifying, which meant he'll have to start from P3.<br />The New Zealander starred in",
-      "summary_en": "Liam Lawson reckons he had enough pace to earn a front-row grid spot in Sao Paulo – but rues his own \"mistake\" in qualifying, which meant he'll have to start from P3.<br />The New Zealander starred in"
-    },
-    {
-      "id": "4ec63530c1f7",
-      "title": "Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty",
-      "title_fr": "Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty",
-      "title_en": "Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-russell-was-so-angry-in-brazilian-gp-qualifying-despite-already-having-a-grid-penalty/10872788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0kZX9Qy6/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-11-07T22:15:40+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference.",
-      "summary_en": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference."
-    },
-    {
-      "id": "5ded25cc2f0f",
-      "title": "George Russell's Brazilian GP qualifying fury explained: \"Pole was there for the taking\"",
-      "title_fr": "George Russell's Brazilian GP qualifying fury explained: \"Pole was there for the taking\"",
-      "title_en": "George Russell's Brazilian GP qualifying fury explained: \"Pole was there for the taking\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russells-brazilian-gp-qualifying-fury-explained-pole-was-there-for-the-taking/10872782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZX9Qy6/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-11-07T22:12:17+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference.",
-      "summary_en": "In keeping with the theme of the Brazilian Grand Prix's weather-hit qualifying, George Russell had a thunderous look on his face when he faced the Formula 1 media in the post-session press conference."
     }
   ]
 }
