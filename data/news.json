@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-10T16:10:02Z",
+  "last_updated": "2026-11-10T19:12:01Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0c4c9e0b8920",
+      "title": "‘Kimi Antonelli isn’t Ayrton Senna yet, but he may be a Senninha’ – Toto Wolff",
+      "title_fr": "Antonelli, la prochaine Senninha ?",
+      "title_en": "Antonelli, the next Senninha?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YpbAXjN0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-10T16:25:05+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, pilote de Formule 1, est comparé à Ayrton Senna par Toto Wolff, mais il n'est pas encore à la hauteur. Le jeune pilote brésilien est vu comme la prochaine Senninha.",
+      "summary_en": "Kimi Antonelli, the Formula 1 driver, is compared to Ayrton Senna by Toto Wolff, but he is not yet at that level. The young Brazilian is seen as the next Senninha."
+    },
     {
       "id": "630942d0e105",
       "title": "F1 scraps back-up plan to race at Imola if Middle East GPs are cancelled – reports | Formula 1",
@@ -20,6 +39,25 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 a décidé de ne pas tenir un second plan de course à Imola si les Grands Prix du Moyen-Orient sont annulés. Les deux derniers tours de la saison 2026 seront donc obligatoirement au Moyen-Orient ou annulés.",
       "summary_en": "Formula 1 has scrapped a backup Imola plan if the Middle East Grands Prix are cancelled. The final two rounds of the 2026 season will therefore be held in the Middle East or not at all."
+    },
+    {
+      "id": "b8980f6f9c5d",
+      "title": "Formula 1 to finish season in Middle East",
+      "title_fr": "F1 conclut la saison au Moyen-Orient",
+      "title_en": "F1 to finish season in Middle East",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f4/live/e7754920-dd0e-11f1-97df-bd0937690c4d.jpg",
+      "published_at": "2026-11-10T15:04:46+00:00",
+      "race_id": "qatar",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La saison 2026 de Formule 1 se terminera aux Grands Prix du Qatar et d’Abu Dhabi, comme prévu. Le circuit d’Imola en Italie est mis de côté comme piste de secours.",
+      "summary_en": "The 2026 Formula 1 season will end with the Qatar and Abu Dhabi Grands Prix as planned. Italy’s Imola circuit is kept as a backup track."
     },
     {
       "id": "d84dc5a1b22f",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a remporté son troisième podium de la saison en brisant la domination de Mercedes, tandis que Max Verstappen a continué sa série de performances magistrales à Brésil.",
       "summary_en": "Lando Norris secured his third podium of the season in Brazil, breaking Mercedes' streak, while Max Verstappen continued his masterful run."
-    },
-    {
-      "id": "e01cf79601c3",
-      "title": "F1: Chequered Flag",
-      "title_fr": "F1 : drapeau rouge à São Paulo",
-      "title_en": "F1: Checkered Flag in São Paulo",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0plz2wv?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": "2026-11-08T22:55:00+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Les équipes ont réagi à une course captivante à São Paulo, soulignant la performance de leurs pilotes et les stratégies mises en place.",
-      "summary_en": "Teams reacted to an absorbing race in São Paulo, highlighting their drivers' performance and the strategies employed."
-    },
-    {
-      "id": "e747e64decb8",
-      "title": "'He was in a league of his own' - Benson on Norris' Brazil GP win",
-      "title_fr": "Norris remporte le GP de Brésil, Benson le loue",
-      "title_en": "Norris wins Brazil GP, Benson praises him",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/videos/cr5yn1n99lqno?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffad/live/01291aa0-dbc4-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-11-08T22:46:44+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a remporté le Grand Prix de Brésil pour McLaren, un exploit salué par Andrew Benson qui le décrit comme « dans une catégorie à part ». Sa victoire a marqué la saison.",
-      "summary_en": "Lando Norris won the Brazil Grand Prix for McLaren, a performance praised by Andrew Benson who called him “in a league of his own.” His victory marked a high point in the season."
     }
   ]
 }
