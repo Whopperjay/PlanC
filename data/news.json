@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-10T13:07:59Z",
+  "last_updated": "2026-11-10T16:10:02Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "630942d0e105",
+      "title": "F1 scraps back-up plan to race at Imola if Middle East GPs are cancelled – reports | Formula 1",
+      "title_fr": "F1 abandonne le plan de secours à Imola si les GP du Moyen-Orient sont annulés",
+      "title_en": "F1 drops backup Imola plan if Middle East GPs are cancelled",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/10/f1-scraps-back-up-plan-to-race-at-imola-if-middle-east-gps-are-cancelled-reports/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-20-7-2249021119.jpg",
+      "published_at": "2026-11-10T15:58:22+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 a décidé de ne pas tenir un second plan de course à Imola si les Grands Prix du Moyen-Orient sont annulés. Les deux derniers tours de la saison 2026 seront donc obligatoirement au Moyen-Orient ou annulés.",
+      "summary_en": "Formula 1 has scrapped a backup Imola plan if the Middle East Grands Prix are cancelled. The final two rounds of the 2026 season will therefore be held in the Middle East or not at all."
+    },
+    {
+      "id": "d84dc5a1b22f",
+      "title": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
+      "title_fr": "Imola retiré du calendrier 2026, Qatar et Abu Dhabi restent confirmés",
+      "title_en": "Imola dropped from 2026 calendar, Qatar and Abu Dhabi stay confirmed",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg",
+      "published_at": "2026-11-10T14:52:26+00:00",
+      "race_id": "usa",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le circuit d'Imola est exclu du calendrier 2026 de la F1. Les Grands Prix du Qatar et d'Abu Dhabi resteront en place, à condition que la guerre en Iran ne s'aggrave.",
+      "summary_en": "Imola is removed from the 2026 F1 calendar. The Qatar and Abu Dhabi Grands Prix will stay, provided the Iran war does not intensify."
+    },
+    {
+      "id": "0e34b4476856",
+      "title": "F1 2026 calendar update: Imola GP off the table, no plan B if war escalates",
+      "title_fr": "Imola retiré du calendrier 2026, Qatar et Abu Dhabi maintenus",
+      "title_en": "Imola removed from 2026 calendar, Qatar and Abu Dhabi kept",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-2026-calendar-update-imola-gp-off-the-table-no-plan-b-if-war-escalates/10873637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/27No3jm0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-10T14:50:41+00:00",
+      "race_id": "usa",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le calendrier 2026 de la Formule 1 conserve les Grands Prix du Qatar et d'Abu Dhabi, mais retire Imola. Aucun plan de secours n'est prévu si la guerre en Iran s'intensifie.",
+      "summary_en": "The 2026 F1 calendar keeps the Qatar and Abu Dhabi Grands Prix but drops Imola. No backup is planned if the Iran war escalates."
+    },
     {
       "id": "e00dcbe00cda",
       "title": "FIA reveals ADUO results in final review of 2026 F1 season",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a remporté le Grand Prix de Brésil pour McLaren, un exploit salué par Andrew Benson qui le décrit comme « dans une catégorie à part ». Sa victoire a marqué la saison.",
       "summary_en": "Lando Norris won the Brazil Grand Prix for McLaren, a performance praised by Andrew Benson who called him “in a league of his own.” His victory marked a high point in the season."
-    },
-    {
-      "id": "353e487e7eec",
-      "title": "Max Verstappen gives emotional farewell gift to long-serving Red Bull mechanic",
-      "title_fr": "Verstappen offre son casque à son mécanicien de longue date",
-      "title_en": "Verstappen gives his helmet to long‑serving mechanic",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-gives-emotional-farewell-gift-to-long-serving-red-bull-mechanic/10873184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8VV56/s6/motorsport-com-graphics-75.jpg",
-      "published_at": "2026-11-08T22:36:27+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen a remis son casque à Ole Schack, mécanicien de Red Bull depuis 2005, lors de la dernière course d'Interlagos. L'équipe a également créé une canette unique en l'honneur de son parcours.",
-      "summary_en": "Max Verstappen handed his helmet to Ole Schack, Red Bull's long‑time mechanic, during Interlagos' final race. The team also produced a one‑off Red Bull can celebrating Schack's career."
-    },
-    {
-      "id": "ad5bea0c668d",
-      "title": "Social Media: No hand injury after breaking another champagne bottle, says Norris | Brief",
-      "title_fr": "Norris évite blessure après avoir brisé une bouteille de champagne",
-      "title_en": "Norris avoids injury after smashing another champagne bottle",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/social-media-norris-avoids-injury-after-breaking-another-champagne-bottle/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-17-16-17-7-2304175676.jpg",
-      "published_at": "2026-11-08T22:20:59+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Lewis Norris a déclaré qu’il n’avait subi aucune blessure à la main après avoir brisé une autre bouteille de champagne. L’incident a été confirmé sur les réseaux sociaux.",
-      "summary_en": "Lewis Norris said he suffered no hand injury after smashing another champagne bottle, a claim confirmed on social media."
-    },
-    {
-      "id": "cbdb986b4248",
-      "title": "Norris wins gripping race after Antonelli and Russell errors",
-      "title_fr": "Norris triomphe à São Paulo malgré les erreurs d'Antonelli et Russell",
-      "title_en": "Norris wins gripping São Paulo GP after Antonelli and Russell errors",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b718/live/a6329430-dba7-11f1-9580-17f5674d0b29.jpg",
-      "published_at": "2026-11-08T22:11:31+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a remporté le Grand Prix de São Paulo dans des conditions difficiles, profitant des erreurs d'Antonelli et de Russell. Mercedes a ainsi scellé le championnat des constructeurs 2026.",
-      "summary_en": "Lando Norris won the São Paulo Grand Prix in tough conditions, capitalising on Antonelli and Russell's mistakes. Mercedes secured the 2026 constructors' championship."
     }
   ]
 }
