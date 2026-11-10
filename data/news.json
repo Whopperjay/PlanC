@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-10T10:06:00Z",
+  "last_updated": "2026-11-10T13:07:59Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e00dcbe00cda",
+      "title": "FIA reveals ADUO results in final review of 2026 F1 season",
+      "title_fr": "FIA publie les résultats finaux des ADUO 2026",
+      "title_en": "FIA releases final ADUO results for 2026 season",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws-2.jpg",
+      "published_at": "2026-11-10T11:45:39+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a publié les résultats finaux des ADUO pour la saison 2026, sans aucune modification accordée aux constructeurs d'unités de puissance. Le mécanisme de jetons permet aux constructeurs de rattraper un retard.",
+      "summary_en": "The FIA has released the final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 season, granting no changes to any power-unit manufacturers. The token mechanism allows manufacturers to catch up if they fall behind."
+    },
+    {
+      "id": "cfa4e3507301",
+      "title": "FIA reveals latest ADUO results in final review of 2026 F1 season",
+      "title_fr": "FIA publie les derniers résultats ADUO pour la saison 2026",
+      "title_en": "FIA releases latest ADUO results for 2026 season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-10T11:42:46+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a publié les résultats finaux des Opportunités de Développement et de Mise à Niveau Additionnelles (ADUO) pour la saison 2026, sans accorder de modifications aux constructeurs d'unités de puissance.",
+      "summary_en": "The FIA released the final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 season, granting no changes to any power‑unit manufacturers."
+    },
+    {
+      "id": "26ac3fcffebd",
+      "title": "Hadjar kept asking Red Bull if they would reverse his position swap with Verstappen | Formula 1",
+      "title_fr": "Hadjar réclame le retour de la place qu’il a donnée à Verstappen",
+      "title_en": "Hadjar asks Red Bull to reverse his position swap with Verstappen",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/10/hadjar-repeatedly-asked-red-bull-if-they-would-reverse-his-position-swap-with-verstappen/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hadjar-verstappen.jpg",
+      "published_at": "2026-11-10T11:41:32+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a sollicité à plusieurs reprises son ingénieur de course chez Red Bull pour récupérer la place qu’il a cédée à Max Verstappen.",
+      "summary_en": "Isack Hadjar repeatedly asked his Red Bull race engineer to get back the position he gave to Max Verstappen."
+    },
+    {
+      "id": "c87a99616b55",
+      "title": "No F1 engine manufacturers to get extra upgrades after FIA’s third ADUO evaluation | Formula 1",
+      "title_fr": "Aucun constructeur moteur ne bénéficiera d'améliorations supplémentaires après l'évaluation ADUO",
+      "title_en": "No engine manufacturers to receive extra upgrades after FIA's third ADUO evaluation",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-53-41-4-A2621796.jpg",
+      "published_at": "2026-11-10T11:20:33+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de la FIA, Nikolas Tombazis, a défendu les règles ADUO tout en précisant qu'elles pourraient être révisées dans les saisons à venir.",
+      "summary_en": "FIA single-seater director Nikolas Tombazis defended the ADUO rules but said they may be revised in future seasons."
+    },
+    {
+      "id": "3953ac6b18c5",
+      "title": "Honda struggling to explain Lance Stroll’s 13th DNF of the season",
+      "title_fr": "Honda cherche l’origine des problèmes de batterie de Stroll",
+      "title_en": "Honda seeks root cause of Stroll's battery woes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNZkP2/s6/lance-stroll-aston-martin-raci-2.jpg",
+      "published_at": "2026-11-10T10:25:06+00:00",
+      "race_id": "brazil",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Honda doit identifier la cause des problèmes de batterie qui ont conduit Lance Stroll à abandonner pour la treizième fois cette saison, après son départ à 30 tours à São Paulo, 18e place.",
+      "summary_en": "Honda is trying to pinpoint the root cause of the battery issues that forced Lance Stroll to retire for the thirteenth time this season, after he exited at 30 laps in São Paulo, 18th place."
+    },
     {
       "id": "cfa4ee572011",
       "title": "Laurent Mekies: Liam Lawson’s fate has nothing to do with me",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a remporté le Grand Prix de São Paulo dans des conditions difficiles, profitant des erreurs d'Antonelli et de Russell. Mercedes a ainsi scellé le championnat des constructeurs 2026.",
       "summary_en": "Lando Norris won the São Paulo Grand Prix in tough conditions, capitalising on Antonelli and Russell's mistakes. Mercedes secured the 2026 constructors' championship."
-    },
-    {
-      "id": "f78a377298c5",
-      "title": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
-      "title_fr": "Leclerc pénalisé après collision avec Lawson",
-      "title_en": "Leclerc penalised after clash with Lawson",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
-      "published_at": "2026-11-08T21:59:31+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a reçu une pénalité de cinq secondes pour collision avec Liam Lawson, le faisant passer de la septième à la huitième place.",
-      "summary_en": "Charles Leclerc received a five-second penalty for a clash with Liam Lawson, dropping him from seventh to eighth place."
-    },
-    {
-      "id": "41fc099f487a",
-      "title": "Norris brilliant in wet & Verstappen recovery extraordinary - driver ratings",
-      "title_fr": "Norris brille sous la pluie, Verstappen se relève",
-      "title_en": "Norris shines in wet, Verstappen recovers brilliantly",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y43jzvrnz0o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3356/live/e6fd4000-dbbb-11f1-93e1-3b657b665bcf.png",
-      "published_at": "2026-11-08T21:56:33+00:00",
-      "race_id": "brazil",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "Harry Benjamin a évalué les performances de Norris et Verstappen lors du Grand Prix de Sao Paulo, soulignant la maîtrise de Norris dans la pluie et la récupération exceptionnelle de Verstappen.",
-      "summary_en": "BBC commentator Harry Benjamin rated Norris and Verstappen at the Sao Paulo GP, praising Norris's wet-weather performance and Verstappen's extraordinary recovery."
-    },
-    {
-      "id": "c641a775c997",
-      "title": "Charles Leclerc penalised for Liam Lawson clash; Kimi Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
-      "title_fr": "Leclerc pénalisé après collision avec Lawson",
-      "title_en": "Leclerc penalised after clash with Lawson",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-penalised-for-liam-lawson-clash-kimi-antonelli-and-oliver-bearman-also-punished-aft/10873163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
-      "published_at": "2026-11-08T21:54:53+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a reçu une pénalité de cinq secondes pour collision avec Liam Lawson, le faisant passer de septième à huitième place.",
-      "summary_en": "Charles Leclerc received a five‑second penalty for a clash with Liam Lawson, dropping him from seventh to eighth place."
-    },
-    {
-      "id": "fe9a77112900",
-      "title": "Max Verstappen \"needs to understand what happened\" after \"night and day\" F1 comeback in Brazilian GP",
-      "title_fr": "Verstappen, de 21e a deuxieme, doit comprendre son parcours",
-      "title_en": "Verstappen, from 21st to second, must understand his comeback",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-needs-to-understand-what-happened-after-night-and-day-f1-comeback-in-brazil/10873146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0o5AVQ7Y/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-08T21:53:41+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a termine deuxieme du Grand Prix du Brasil apres une remontee spectaculaire depuis la 21e place. Le pilote doit analyser ce qui a failli au depart.",
-      "summary_en": "Max Verstappen finished second in the Brazilian Grand Prix after a dramatic climb from 21st on the grid. The driver must analyse what went wrong at the start."
-    },
-    {
-      "id": "d9348855cf7b",
-      "title": "Stewards ruled Hamilton “gained no advantage” by passing Bearman off-track | Formula 1",
-      "title_fr": "Stewards : Hamilton n'a pas gagné d'avantage en dépassant Bearman hors piste",
-      "title_en": "Stewards rule Hamilton did not gain advantage by passing Bearman off-track",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/stewards-ruled-hamilton-gained-no-advantage-by-passing-bearman-off-track/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-04-15-5-2304144987-830.jpg",
-      "published_at": "2026-11-08T21:50:30+00:00",
-      "race_id": "brazil",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires du Grand Prix du Brésil ont jugé que Lewis Hamilton n'a pas obtenu d'avantage en dépassant Oliver Bearman hors piste. La décision confirme que la manoeuvre n'a pas violé les règles.",
-      "summary_en": "Stewards ruled that Lewis Hamilton did not gain an advantage by passing Oliver Bearman off-track during the Brazilian Grand Prix. The decision confirms the manoeuvre complied with the regulations."
     }
   ]
 }
