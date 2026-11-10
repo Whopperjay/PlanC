@@ -28669,8 +28669,13 @@
               "status": "Lapped",
               "Driver": {
                 "driverId": "rafael_camara",
+                "permanentNumber": "51",
+                "code": "CAM",
+                "url": "https://en.wikipedia.org/wiki/Rafael_C%C3%A2mara",
                 "givenName": "Rafael",
-                "familyName": "Camara"
+                "familyName": "Camara",
+                "dateOfBirth": "2005-05-05",
+                "nationality": "Brazilian"
               },
               "Constructor": {
                 "constructorId": "haas",
@@ -29041,8 +29046,13 @@
               "status": "Finished",
               "Driver": {
                 "driverId": "rafael_camara",
+                "permanentNumber": "51",
+                "code": "CAM",
+                "url": "https://en.wikipedia.org/wiki/Rafael_C%C3%A2mara",
                 "givenName": "Rafael",
-                "familyName": "Camara"
+                "familyName": "Camara",
+                "dateOfBirth": "2005-05-05",
+                "nationality": "Brazilian"
               },
               "Constructor": {
                 "constructorId": "haas",

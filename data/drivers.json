@@ -95,11 +95,13 @@
         },
         {
           "driverId": "rafael_camara",
+          "permanentNumber": "51",
+          "code": "CAM",
+          "url": "https://en.wikipedia.org/wiki/Rafael_C%C3%A2mara",
           "givenName": "Rafael",
           "familyName": "Camara",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "96"
+          "dateOfBirth": "2005-05-05",
+          "nationality": "Brazilian"
         },
         {
           "driverId": "colapinto",
@@ -117,7 +119,7 @@
           "familyName": "Crawford",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "95"
+          "permanentNumber": "96"
         },
         {
           "driverId": "leonardo_fornaroli",
@@ -125,7 +127,7 @@
           "familyName": "Fornaroli",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "94"
+          "permanentNumber": "95"
         },
         {
           "driverId": "gasly",
@@ -163,7 +165,7 @@
           "familyName": "Herta",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "93"
+          "permanentNumber": "94"
         },
         {
           "driverId": "ryo_hirakawa",
@@ -191,7 +193,7 @@
           "familyName": "Iwasa",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "92"
+          "permanentNumber": "93"
         },
         {
           "driverId": "lawson",
@@ -229,7 +231,7 @@
           "familyName": "Mini",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "91"
+          "permanentNumber": "92"
         },
         {
           "driverId": "norris",
@@ -297,7 +299,7 @@
           "familyName": "Slater",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "90"
+          "permanentNumber": "91"
         },
         {
           "driverId": "stroll",
@@ -315,7 +317,7 @@
           "familyName": "Tsolov",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "89"
+          "permanentNumber": "90"
         },
         {
           "driverId": "tsunoda",
@@ -343,7 +345,7 @@
           "familyName": "Vesti",
           "dateOfBirth": "1900-01-01",
           "nationality": "Unknown",
-          "permanentNumber": "88"
+          "permanentNumber": "89"
         }
       ]
     }
