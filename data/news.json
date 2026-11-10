@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-10T19:12:01Z",
+  "last_updated": "2026-11-10T22:12:51Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "85687401436c",
+      "title": "Social Media: Hamilton witnesses humanitarian relief effort in Gaza Strip | Brief",
+      "title_fr": "Hamilton visite Gaza pour voir les secours",
+      "title_en": "Hamilton visits Gaza to witness relief efforts",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/10/social-media-hamilton-witnesses-humanitarian-relief-effort-in-gaza-strip/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hamgaza.jpg",
+      "published_at": "2026-11-10T21:38:25+00:00",
+      "race_id": null,
+      "category": "breaking",
+      "tags": [
+        "breaking"
+      ],
+      "importance": 92,
+      "is_breaking": true,
+      "summary_fr": "Lewis Hamilton a visité la bande de Gaza pour observer les opérations de secours humanitaires. Le pilote de Formule 1 a exprimé son soutien aux populations touchées.",
+      "summary_en": "Lewis Hamilton visited the Gaza Strip to observe humanitarian relief operations. The Formula 1 driver expressed support for the affected populations."
+    },
     {
       "id": "0c4c9e0b8920",
       "title": "‘Kimi Antonelli isn’t Ayrton Senna yet, but he may be a Senninha’ – Toto Wolff",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a franchi le podium à Interlagos, partant de 21e après pénalité moteur. Laurent Mekies a salué sa performance, affirmant qu'il dépasse les simulations.",
       "summary_en": "Max Verstappen secured a podium finish at Interlagos, starting from 21st after an engine penalty. Red Bull chief Laurent Mekies praised his drive, saying he outperforms simulations."
-    },
-    {
-      "id": "379b9b07a50b",
-      "title": "Winners and losers from F1's chaotic Brazilian Grand Prix",
-      "title_fr": "Norris triomphe, Verstappen domine à Brésil",
-      "title_en": "Norris wins, Verstappen dominates in Brazil",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotic-brazilian-grand-prix/10873189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6VyK9rdY/s6/lando-norris-mclaren-max-verst.jpg",
-      "published_at": "2026-11-08T22:59:54+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a remporté son troisième podium de la saison en brisant la domination de Mercedes, tandis que Max Verstappen a continué sa série de performances magistrales à Brésil.",
-      "summary_en": "Lando Norris secured his third podium of the season in Brazil, breaking Mercedes' streak, while Max Verstappen continued his masterful run."
     }
   ]
 }
