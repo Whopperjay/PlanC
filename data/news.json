@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-09T21:58:39Z",
+  "last_updated": "2026-11-10T01:00:35Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7e8afcd19b99",
+      "title": "F1 Las Vegas Grand Prix announces pre-race music line-up",
+      "title_fr": "Steve Aoki revient à Las Vegas pour le Grand Prix",
+      "title_en": "Steve Aoki returns to Las Vegas Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b5XR0/s6/motorsport-com-graphics-84.jpg",
+      "published_at": "2026-11-09T23:57:29+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le DJ américain Steve Aoki revient sur le grid de Las Vegas pour une performance avant la course du 21 novembre, accompagné de MORTEN et de la chanteuse Jordin Sparks.",
+      "summary_en": "American DJ Steve Aoki returns to the Las Vegas Grand Prix grid for a pre‑race performance on 21 November, joined by DJ MORTEN and singer Jordin Sparks."
+    },
+    {
+      "id": "427c9fdfc970",
+      "title": "Lewis Hamilton to share flight with Mercedes after former team's F1 title triumph",
+      "title_fr": "Hamilton partage le même avion que Mercedes après le titre des constructeurs",
+      "title_en": "Hamilton shares flight with Mercedes after constructors' title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-to-share-flight-with-mercedes-after-former-teams-f1-title-triumph/10873483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedBGJ2/s6/motorsport-com-graphics-83.jpg",
+      "published_at": "2026-11-09T23:30:48+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton, champion septuple, voyagera avec Mercedes après que Toto Wolff ait annoncé que le pilote Ferrari partagerait l’avion avec les champions des constructeurs. Le retour d’Interlagos promet d’être inattendu.",
+      "summary_en": "Lewis Hamilton, the seven‑time champion, will fly with Mercedes after Toto Wolff revealed that the Ferrari driver would share the plane with the constructors’ champions. The Interlagos return is set to be awkward."
+    },
+    {
+      "id": "199b603bc139",
+      "title": "George Russell \"keeps getting kicked\" as F1 pundit addresses 2026 struggles",
+      "title_fr": "Hinchcliffe critique Russell après une journée difficile à Brésil",
+      "title_en": "Hinchcliffe criticises Russell after tough day in Brazil",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-keeps-getting-kicked-as-f1-pundit-addresses-2026-struggles/10873477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6lmAR5k0/s6/motorsport-com-graphics-82.jpg",
+      "published_at": "2026-11-09T22:59:41+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "James Hinchcliffe, ancien pilote d'IndyCar et commentateur F1 TV, a déclaré que George Russell semblait 'un peu découragé' après une journée difficile au Grand Prix du Brésil. Mercedes a remporté le championnat des constructeurs.",
+      "summary_en": "Former IndyCar driver and F1 TV pundit James Hinchcliffe said George Russell looked 'a bit defeated' after a tough afternoon at the Brazilian Grand Prix, while Mercedes clinched the constructors' title."
+    },
     {
       "id": "87a6acd2128a",
       "title": "George Russell teases imminent karting announcement as F1 fans spot major clue",
@@ -478,6 +535,25 @@
       "summary_en": "Lando Norris secured his third podium of the season in Brazil, breaking Mercedes' streak, while Max Verstappen continued his masterful run."
     },
     {
+      "id": "e01cf79601c3",
+      "title": "F1: Chequered Flag",
+      "title_fr": "F1 : drapeau rouge à São Paulo",
+      "title_en": "F1: Checkered Flag in São Paulo",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0plz2wv?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": "2026-11-08T22:55:00+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Les équipes ont réagi à une course captivante à São Paulo, soulignant la performance de leurs pilotes et les stratégies mises en place.",
+      "summary_en": "Teams reacted to an absorbing race in São Paulo, highlighting their drivers' performance and the strategies employed."
+    },
+    {
       "id": "353e487e7eec",
       "title": "Max Verstappen gives emotional farewell gift to long-serving Red Bull mechanic",
       "title_fr": "Verstappen offre son casque à son mécanicien de longue date",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a perdu la victoire du Grand Prix brésilien à cause d'un spin étrange et d'une instabilité de la voiture, malgré un départ en tête.",
       "summary_en": "Kimi Antonelli lost the Brazilian Grand Prix after a weird spin and car instability, despite taking the lead from Lando Norris at the start."
-    },
-    {
-      "id": "1afe9e167485",
-      "title": "Hamilton “didn’t hear that it was raining more” before high-speed spin | Formula 1",
-      "title_fr": "Hamilton fait un spin à São Paulo sans se rendre compte de la pluie",
-      "title_en": "Hamilton spins in São Paulo after missing rain",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/hamilton-didnt-hear-that-it-was-raining-more-before-high-speed-spin/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-13-17-4-25-sunday-saopaulo-2026.jpg",
-      "published_at": "2026-11-08T20:46:37+00:00",
-      "race_id": "brazil",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a perdu le contrôle à São Paulo, faisant un spin tardif, car il n’avait pas remarqué l’augmentation de la pluie. Le pilote a déclaré qu’il n’avait pas compris les conditions.",
-      "summary_en": "Lewis Hamilton spun late in São Paulo after failing to notice worsening rain. The driver said he hadn’t realized the conditions were deteriorating."
-    },
-    {
-      "id": "c2e86e00ac16",
-      "title": "F1 CEO Stefano Domenicali sends heartfelt message to Mercedes after constructors' title victory",
-      "title_fr": "Domenicali félicite Mercedes pour le titre des constructeurs",
-      "title_en": "Domenicali Congratulates Mercedes on Constructors' Title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-ceo-stefano-domenicali-sends-heartfelt-message-to-mercedes-after-constructors-title-victory/10873115/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YWKARlxY/s6/motorsport-com-graphics-74.jpg",
-      "published_at": "2026-11-08T20:26:15+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le directeur général de la F1, Stefano Domenicali, a félicité Mercedes pour avoir remporté le championnat des constructeurs 2026, en soulignant la place de Toto Wolff aux côtés de Sir Frank Williams.",
-      "summary_en": "F1 chief Stefano Domenicali congratulated Mercedes on winning the 2026 constructors' championship, highlighting Toto Wolff's record alongside Sir Frank Williams."
-    },
-    {
-      "id": "7bc5b8baffd0",
-      "title": "Spotlight: F1 displays wrong race name in bizarre podium graphic error | Brief",
-      "title_fr": "F1 affiche erreur de nom de course sur podium du GP du Brésil",
-      "title_en": "F1 displays wrong race name on Brazilian GP podium",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/08/spotlight-f1-displays-wrong-race-name-in-bizarre-podium-graphic-error/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-15-56-42-4-2304169643.jpg",
-      "published_at": "2026-11-08T19:52:35+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 a affiché un nom de course incorrect sur le podium du Grand Prix du Brésil, indiquant à tort \"Mexico\" au lieu de \"Brésil\". L'erreur a été rapidement corrigée.",
-      "summary_en": "F1 displayed an incorrect race name on the Brazilian GP podium, mistakenly showing 'Mexico' instead of 'Brazil'. The error was quickly corrected."
-    },
-    {
-      "id": "bf8dab3aaaf6",
-      "title": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
-      "title_fr": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
-      "title_en": "Kimi Antonelli and Charles Leclerc summoned to stewards after F1 Brazilian GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-and-charles-leclerc-summoned-to-stewards-after-f1-brazilian-gp/10873093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0Zq8VdL6/s6/charles-leclerc-ferrari-arvid-.jpg",
-      "published_at": "2026-11-08T19:52:06+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Following the Formula 1 Brazilian Grand Prix, which was convincingly won by outgoing world champion Lando Norris, several drivers still have to pay a visit to the stewards post-race.<br />Kimi Antonel",
-      "summary_en": "Following the Formula 1 Brazilian Grand Prix, which was convincingly won by outgoing world champion Lando Norris, several drivers still have to pay a visit to the stewards post-race.<br />Kimi Antonel"
     }
   ]
 }
