@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-11T13:16:41Z",
+  "last_updated": "2026-11-11T16:16:55Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "3146a05a603b",
+      "title": "Mercedes explains \"unusual\" car behaviour behind Kimi Antonelli's costly Interlagos spin",
+      "title_fr": "Mercedes explique le comportement anormal après la perte d'Antonelli à Interlagos",
+      "title_en": "Mercedes explains unusual car behaviour after Antonelli's spin at Interlagos",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-explains-unusual-car-behaviour-behind-kimi-antonellis-costly-brazil-spin/10873891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZx8jKY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-11T16:00:58+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Mercedes a détaillé les raisons du comportement anormal du véhicule de Kimi Antonelli, qui a perdu le contrôle à Interlagos, provoquant une perte de temps importante. Le pilote a tenté de récupérer la position après la sortie des pneus intermédiaires.",
+      "summary_en": "Mercedes detailed the reasons behind the car's unusual behaviour that caused Kimi Antonelli to spin at Interlagos, costing him time. The driver tried to regain position after switching from intermediates to slicks."
+    },
     {
       "id": "6205d57aeff1",
       "title": "Featured Comment: Why one reader is “glad” F1 will try to hold Middle East races | Brief",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Aston Martin a déclaré que Fernando Alonso était plus rapide que les pilotes Mercedes lors des dernières phases du Grand Prix du Brésil. Le pilote Aston Martin a ainsi affirmé sa supériorité sur la Mercedes.",
       "summary_en": "Aston Martin claimed that Fernando Alonso was faster than the Mercedes drivers in the final stages of the Brazilian Grand Prix, asserting the Aston Martin driver's superiority over Mercedes."
-    },
-    {
-      "id": "c8d1be39d8f2",
-      "title": "George Russell has lost 90 points to Max Verstappen in F1 2026 runner-up battle",
-      "title_fr": "Mercedes envisage de pousser Russell à la deuxième place",
-      "title_en": "Mercedes considers pushing Russell to runner‑up",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-considers-push-for-george-russell-to-be-f1-2026-runner-up/10873310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6zoDvWa0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-09T13:46:01+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Mercedes envisage de donner toute la puissance à George Russell pour qu’il atteigne la deuxième place du championnat, après une saison difficile. Le pilote est à 262 points, derrière Max Verstappen.",
-      "summary_en": "Mercedes is considering giving George Russell all the power to secure the runner‑up spot after a rough season. The driver sits at 262 points, trailing Max Verstappen."
     }
   ]
 }
