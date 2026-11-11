@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-11T19:17:32Z",
+  "last_updated": "2026-11-11T22:17:58Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a284af5cf02c",
+      "title": "Lewis Hamilton loses most marketable athlete crown as Charles Leclerc moves ahead",
+      "title_fr": "Hamilton perd son titre de sportif le plus commercialisable face à Leclerc",
+      "title_en": "Hamilton loses most marketable athlete crown to Leclerc",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-loses-most-marketable-athlete-crown-as-charles-leclerc-moves-ahead/10873959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Lde3Qg0/s6/motorsport-com-graphics-92-2.jpg",
+      "published_at": "2026-11-11T21:14:59+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a perdu la première place du classement des athlètes les plus commercialisables, tombant à la 22e place, tandis que Charles Leclerc l'emporte.",
+      "summary_en": "Lewis Hamilton has slipped to 22nd in the most marketable athletes list, while Charles Leclerc takes the top spot."
+    },
+    {
+      "id": "402701d2684c",
+      "title": "Kimi Antonelli keeps F1 title promise with Italian flag hair at Mercedes factory",
+      "title_fr": "Antonelli honore sa promesse en arborant les couleurs italiennes à Brackley",
+      "title_en": "Antonelli keeps his promise, sports Italian flag hair at Mercedes factory",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-keeps-f1-title-promise-with-italian-flag-hair-at-mercedes-factory/10873952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6Alv9kGY/s6/motorsport-com-graphics-91.jpg",
+      "published_at": "2026-11-11T20:55:48+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, nouveau champion du monde, est arrivé à l'usine de Brackley avec ses cheveux teintés vert, blanc et rouge, rappelant le drapeau italien, pour célébrer la saison réussie de Mercedes.",
+      "summary_en": "Kimi Antonelli, the new world champion, arrived at Mercedes' Brackley factory with his hair dyed green, white and red, echoing the Italian flag, as the team celebrated its successful season."
+    },
     {
       "id": "3146a05a603b",
       "title": "Mercedes explains \"unusual\" car behaviour behind Kimi Antonelli's costly Interlagos spin",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le président de la FIA, Ben Sulayem, aurait l'intention de supprimer les limites d’âge pour les représentants de l'organisation, selon un rapport. Cette décision pourrait élargir la participation des officiels.",
       "summary_en": "FIA president Ben Sulayem reportedly plans to eliminate age limits for officials, a move that could broaden participation. The decision, if confirmed, would change the regulatory framework."
-    },
-    {
-      "id": "89fde9b1612c",
-      "title": "FIA boss planning to end age limits for office holders",
-      "title_fr": "FIA : Ben Sulayem veut abolir les plafonds d’âge",
-      "title_en": "FIA boss Ben Sulayem plans to end age limits",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr9dz7w1xgxvo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6f4/live/d9881880-dbb3-11f1-b35d-8ff000e4934a.jpg",
-      "published_at": "2026-11-09T15:20:35+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le président de la FIA, Mohammed Ben Sulayem, prévoit d'abolir les plafonds d’âge pour les responsables de la fédération. Cette réforme vise à moderniser la gouvernance du sport automobile.",
-      "summary_en": "FIA president Mohammed Ben Sulayem plans to abolish age limits for officials, aiming to modernise the sport's governance."
-    },
-    {
-      "id": "811c5174c595",
-      "title": "Aston Martin told Alonso he was “quicker than the Mercedes” at end of Brazilian GP | Formula 1",
-      "title_fr": "Aston Martin dit qu'Alonso battait Mercedes à Rio",
-      "title_en": "Aston Martin says Alonso was faster than Mercedes at Rio",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/09/aston-martin-told-alonso-he-was-quicker-than-the-mercedes-at-end-of-brazilian-gp/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-07-16-30-16-4-2304036372.jpg",
-      "published_at": "2026-11-09T14:35:19+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Aston Martin a déclaré que Fernando Alonso était plus rapide que les pilotes Mercedes lors des dernières phases du Grand Prix du Brésil. Le pilote Aston Martin a ainsi affirmé sa supériorité sur la Mercedes.",
-      "summary_en": "Aston Martin claimed that Fernando Alonso was faster than the Mercedes drivers in the final stages of the Brazilian Grand Prix, asserting the Aston Martin driver's superiority over Mercedes."
     }
   ]
 }
