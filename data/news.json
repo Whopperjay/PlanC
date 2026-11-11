@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-11T10:15:09Z",
+  "last_updated": "2026-11-11T13:16:41Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6205d57aeff1",
+      "title": "Featured Comment: Why one reader is “glad” F1 will try to hold Middle East races | Brief",
+      "title_fr": "Un lecteur applaudit la décision de la F1 de maintenir les courses au Moyen-Orient",
+      "title_en": "Reader welcomes F1's decision to keep Middle East races",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/11/featured-comment-why-one-reader-is-glad-f1-will-try-to-hold-middle-east-races/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/12/racefansdotnet-24-12-07-17-06-11-5-2250515206.jpg",
+      "published_at": "2026-11-11T13:11:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Un lecteur exprime son contentement face à la décision de la F1 de conserver les courses au Moyen-Orient. Il estime que ces événements renforceront la visibilité mondiale du sport",
+      "summary_en": "A reader expresses satisfaction with F1's decision to keep the Middle East races, believing the events will boost the sport's global visibility"
+    },
+    {
+      "id": "7d67620b07cd",
+      "title": "Max Verstappen explains why he’s so good in the rain in Brazil",
+      "title_fr": "Verstappen révèle pourquoi il excelle sous la pluie à São Paulo",
+      "title_en": "Verstappen explains why he excels in the rain at São Paulo",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YP748ne2/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-11T12:23:42+00:00",
+      "race_id": "usa",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a détaillé les raisons de son succès sous la pluie à Interlagos, où il a obtenu le plus de podiums de sa carrière. Le pilote Red Bull souligne son instinct et son expérience sur circuits mouillés.",
+      "summary_en": "Max Verstappen explained why he excels in wet conditions at Interlagos, where he has the highest podium rate in his career. The Red Bull driver credits his instinct and experience on slippery tracks."
+    },
+    {
+      "id": "f53551a6178c",
+      "title": "Andrea Stella wants McLaren to \"finally\" make peace with Las Vegas",
+      "title_fr": "Stella veut que McLaren trouve enfin la paix à Las Vegas",
+      "title_en": "Stella urges McLaren to finally find peace in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/andrea-stella-wants-mclaren-to-finally-make-peace-with-las-vegas/10873819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YK15xn10/s6/motorsport-com-graphics-89-2.jpg",
+      "published_at": "2026-11-11T11:18:24+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Andrea Stella affirme que McLaren doit enfin surmonter les difficultés de Las Vegas, après un week-end réussi à São Paulo avec Lando Norris et Oscar Piastri.",
+      "summary_en": "Andrea Stella says McLaren must finally overcome Las Vegas' historic challenges, after a successful São Paulo week-end featuring Lando Norris' third win and Oscar Piastri's pace boost."
+    },
+    {
+      "id": "92aa934635ca",
+      "title": "On This Day: F1’s first female racer, Maria Teresa de Filiipis, born 100 years ago | Formula 1",
+      "title_fr": "Maria Teresa de Filiipis, pionnière féminine de F1, fête ses 100 ans",
+      "title_en": "Maria Teresa de Filiipis, F1's first female driver, turns 100",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/11/on-this-day-f1s-first-female-racer-maria-teresa-de-filiipis-born-100-years-ago/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/de-filippis-scaled.jpg",
+      "published_at": "2026-11-11T11:18:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Maria Teresa de Filiipis, la première pilote féminine de Formule 1, a célébré son centième anniversaire aujourd'hui. Son parcours ouvre la voie aux femmes dans le sport automobile.",
+      "summary_en": "Maria Teresa de Filiipis, the first female Formula 1 driver, celebrated her 100th birthday today. Her pioneering career paved the way for women in motorsport."
+    },
+    {
+      "id": "c5ebc13f5b65",
+      "title": "Oscar Piastri admits he is \"missing\" the stress of an F1 title fight",
+      "title_fr": "Piastri avoue qu'il manque la pression d'un combat pour le titre",
+      "title_en": "Piastri admits he misses the pressure of a title fight",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-admits-he-is-missing-the-stress-of-an-f1-title-fight/10873816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/27No3JE0/s6/motorsport-com-graphics-88.jpg",
+      "published_at": "2026-11-11T10:54:44+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri, pilote de McLaren, a déclaré qu'il manque la tension d'un combat pour le championnat du monde. Après une saison 2026 difficile, il se sent moins motivé sans la course à la victoire.",
+      "summary_en": "McLaren's Oscar Piastri said he misses the pressure of a title fight. After a tough 2026 season, he feels less motivated without the championship battle."
+    },
+    {
+      "id": "81dfb94436b8",
+      "title": "\"Colapinto never hit the apex\" – Audi's take on contentious Nico Hulkenberg penalty in Brazilian GP",
+      "title_fr": "Colapinto n'a pas touché l'apex : Audi critique la pénalité de Hulkenberg",
+      "title_en": "Colapinto never hit the apex: Audi criticises Hulkenberg penalty",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/colapinto-never-hit-the-apex-audis-take-on-contentious-hulkenberg-penalty-in-sao-paulo-gp/10873551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2QedBbJ2/s6/nico-hulkenberg-audi-f1-team.jpg",
+      "published_at": "2026-11-11T10:13:12+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Audi, classé huitième du championnat des constructeurs, remet en cause la pénalité infligée à Nico Hulkenberg lors du Grand Prix du Brésil, soulignant que Colapinto n'a pas touché l'apex.",
+      "summary_en": "Audi, ranked eighth in the constructors' standings, challenges the penalty given to Nico Hulkenberg at the Brazilian GP, arguing that Colapinto never hit the apex."
+    },
     {
       "id": "5f48e33c5568",
       "title": "What the Brazilian GP revealed about F1's ability to cope with rain",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes envisage de donner toute la puissance à George Russell pour qu’il atteigne la deuxième place du championnat, après une saison difficile. Le pilote est à 262 points, derrière Max Verstappen.",
       "summary_en": "Mercedes is considering giving George Russell all the power to secure the runner‑up spot after a rough season. The driver sits at 262 points, trailing Max Verstappen."
-    },
-    {
-      "id": "0001b6c1c1a2",
-      "title": "Lewis Hamilton sends message to Ferrari fans after 'devastating' Brazil GP",
-      "title_fr": "Hamilton déclare sa déception après le Grand Prix du Brésil",
-      "title_en": "Hamilton expresses disappointment after Brazil GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-ferrari-fans-after-devastating-brazil-gp/10873360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0arE3jP2/s6/motorsport-com-graphics-78.jpg",
-      "published_at": "2026-11-09T13:38:32+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré sa déception après avoir terminé neuvième à Interlagos, après une pénalité moteur qui l'a relégué à la 20e place. Il a partagé ses pensées sur Instagram.",
-      "summary_en": "Lewis Hamilton said he was devastated after finishing ninth at Interlagos, after an engine penalty dropped him to 20th. He shared his thoughts on Instagram."
-    },
-    {
-      "id": "3b61f8e6316a",
-      "title": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
-      "title_fr": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
-      "title_en": "Ayrton Senna's rare Honda NSX smashes auction estimate with record six-figure sale",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ayrton-sennas-rare-honda-nsx-smashes-auction-estimate-with-record-six-figure-sale/10873355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YP748WQ2/s6/motorsport-com-graphics-77.jpg",
-      "published_at": "2026-11-09T13:19:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model.<br />The car, which had been estimated to sell for between £500,000 and £800,000 prior to the au",
-      "summary_en": "A Honda NSX used by three-time Formula 1 champion Ayrton Senna has set an auction record for the model.<br />The car, which had been estimated to sell for between £500,000 and £800,000 prior to the au"
-    },
-    {
-      "id": "03e779ba6e9d",
-      "title": "“S***, I missed the pit lane”: Hamilton’s unheard radio from his Brazilian GP struggle | Formula 1",
-      "title_fr": "Hamilton, radio oubliée : il a raté le pit lane",
-      "title_en": "Hamilton's unheard radio: he missed the pit lane",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/09/i-missed-the-pit-lane-hamiltons-unheard-radio-from-his-brazilian-gp-struggle/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hamilton-radio-brazil.jpg",
-      "published_at": "2026-11-09T12:00:50+00:00",
-      "race_id": "brazil",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a raté le pit lane à Interlagos quand la pluie est revenue, après avoir reçu l'ordre de Ferrari. Le manque de réaction a entraîné une perte de temps et un spin coûteux.",
-      "summary_en": "Lewis Hamilton missed the pit lane at Interlagos when rain returned after Ferrari's instruction, causing a costly spin and time loss."
-    },
-    {
-      "id": "d023aaf1d48d",
-      "title": "How the Racing Bulls pendulum is swinging back towards undeniable Liam Lawson",
-      "title_fr": "Liam Lawson, la force retrouvée des Racing Bulls",
-      "title_en": "Liam Lawson, the Rising Force of Racing Bulls",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-the-racing-bulls-pendulum-is-swinging-back-towards-undeniable-liam-lawson/10873304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/2QedBBa2/s6/liam-lawson-racing-bulls-2.jpg",
-      "published_at": "2026-11-09T11:55:10+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson a prouvé sa valeur lors du triple-Grand Prix américain, consolidant la position des Racing Bulls à la cinquième place du championnat des constructeurs. Sa performance ouvre de nouvelles perspectives de carrière.",
-      "summary_en": "Liam Lawson proved his worth during the American triple‑Grand Prix, cementing Racing Bulls' fifth place in the constructors' championship. His performance opens new career prospects."
-    },
-    {
-      "id": "ea9ba71a4118",
-      "title": "How the Racing Bulls pendulum is swinging back towards Lawson",
-      "title_fr": "How the Racing Bulls pendulum is swinging back towards Lawson",
-      "title_en": "How the Racing Bulls pendulum is swinging back towards Lawson",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/how-the-racing-bulls-pendulum-is-swinging-back-towards-lawson/10873320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YK15ARz0/s6/liam-lawson-racing-bulls-3.jpg",
-      "published_at": "2026-11-09T11:54:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "When job security is in short supply, there's one solution for an Formula 1 driver. Be so good they can't ignore you.<br />That's easier said than done, but it certainly seems to be what Liam Lawson h",
-      "summary_en": "When job security is in short supply, there's one solution for an Formula 1 driver. Be so good they can't ignore you.<br />That's easier said than done, but it certainly seems to be what Liam Lawson h"
-    },
-    {
-      "id": "39bed0e10012",
-      "title": "How Max Verstappen beat Red Bull's own simulation tools with P2 in Brazil",
-      "title_fr": "Verstappen passe de 21e à deuxième à Sao Paulo",
-      "title_en": "Verstappen climbs from 21st to second in Sao Paulo",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-max-verstappen-beat-red-bulls-own-simulation-tools-with-p2-in-brazil/10873308/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6Alv98EY/s6/max-verstappen-red-bull-racing-3.jpg",
-      "published_at": "2026-11-09T11:33:44+00:00",
-      "race_id": "netherlands",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a réalisé une remontée spectaculaire, passant de 21e à la grille à deuxième place à Sao Paulo. Le pilote néerlandais a battu les simulations de Red Bull pour décrocher la deuxième position.",
-      "summary_en": "Max Verstappen staged a dramatic comeback, moving from 21st on the grid to second place in Sao Paulo. The Dutch driver outperformed Red Bull's own simulation tools to secure the podium."
     }
   ]
 }
