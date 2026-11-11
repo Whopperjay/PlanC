@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-11T01:13:41Z",
+  "last_updated": "2026-11-11T04:14:09Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "417ed93a88d6",
+      "title": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
+      "title_fr": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
+      "title_en": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YP748J42/s6/motorsport-com-graphics-87.jpg",
+      "published_at": "2026-11-11T02:05:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units.<br />Ricciardo",
+      "summary_en": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units.<br />Ricciardo"
+    },
     {
       "id": "9b93639bf235",
       "title": "Oscar Piastri reveals unexpected upside of being out of F1 title fight",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Fernando Alonso a remporté le championnat du monde de Formule 1 en 2005 à l'âge de 24 ans, devenant ainsi le plus jeune champion de l'histoire. Il a remplacé Emerson Fittipaldi et a défié Michael Schumacher.",
       "summary_en": "Fernando Alonso won the 2005 Formula 1 World Championship at 24, becoming the sport's youngest champion. He replaced Emerson Fittipaldi and challenged Michael Schumacher."
-    },
-    {
-      "id": "87b23d38d993",
-      "title": "Piastri splits from Webber’s management team | Formula 1",
-      "title_fr": "Piastri splits from Webber’s management team | Formula 1",
-      "title_en": "Piastri splits from Webber’s management team | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/09/piastri-splits-from-webbers-management-team/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2024/09/racefansdotnet-2024-09-08_172303.jpg",
-      "published_at": "2026-11-09T09:01:06+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren driver Oscar Piastri has confirmed he is no longer being represented by Mark Webber's management team.",
-      "summary_en": "McLaren driver Oscar Piastri has confirmed he is no longer being represented by Mark Webber's management team."
     }
   ]
 }
