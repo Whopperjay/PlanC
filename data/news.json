@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-10T22:12:51Z",
+  "last_updated": "2026-11-11T01:13:41Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "9b93639bf235",
+      "title": "Oscar Piastri reveals unexpected upside of being out of F1 title fight",
+      "title_fr": "Piastri révèle l'avantage inattendu d'être hors de la lutte pour le titre",
+      "title_en": "Piastri reveals unexpected upside of being out of F1 title fight",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-reveals-unexpected-upside-of-being-out-of-f1-title-fight/10873740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YWKARZDY/s6/motorsport-com-graphics-86.jpg",
+      "published_at": "2026-11-11T00:21:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri déclare qu'il manque la pression de la bataille pour le championnat, mais souligne les avantages d'être hors de la lutte. Il a terminé troisième, tandis que Norris a remporté le titre.",
+      "summary_en": "Oscar Piastri says he misses the pressure of fighting for the championship, but notes the benefits of being out of the title battle. He finished third, while Norris won the title."
+    },
+    {
+      "id": "8b83dd120b44",
+      "title": "Lando Norris questions Charles Leclerc's Brazilian GP penalty: \"Just racing\"",
+      "title_fr": "Norris critique la pénalité de Leclerc à Interlagos",
+      "title_en": "Norris questions Leclerc's penalty at Interlagos",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6n7b5kA0/s6/motorsport-com-graphics-85.jpg",
+      "published_at": "2026-11-10T23:58:55+00:00",
+      "race_id": "brazil",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a contesté la pénalité de cinq secondes infligée à Charles Leclerc après son impact sur Liam Lawson à l'Interlagos, qui l'a relégué à la septième place.",
+      "summary_en": "Lando Norris has challenged the five‑second penalty given to Charles Leclerc after his collision with Liam Lawson at Interlagos, which dropped the Ferrari driver to seventh."
+    },
+    {
+      "id": "95548e0c1a7f",
+      "title": "Max Verstappen names the one condition that would make him retire from F1",
+      "title_fr": "Max Verstappen names the one condition that would make him retire from F1",
+      "title_en": "Max Verstappen names the one condition that would make him retire from F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-id-quit-f1-if-i-didnt-think-i-was-the-best-driver/10873734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2QedBrA2/s6/motorsport-com-graphics-86.jpg",
+      "published_at": "2026-11-10T23:58:32+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen says he would walk away from Formula 1 if he ever stopped believing he was the best driver in the field.<br />The four-time world champion has not won the title since 2024, with Lando N",
+      "summary_en": "Max Verstappen says he would walk away from Formula 1 if he ever stopped believing he was the best driver in the field.<br />The four-time world champion has not won the title since 2024, with Lando N"
+    },
+    {
+      "id": "b6d26e87365d",
+      "title": "Lewis Hamilton tours Gaza aid operation at Egypt's Rafah border",
+      "title_fr": "Hamilton visite l'opération d'aide à Rafah",
+      "title_en": "Hamilton visits aid operation at Rafah",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-tours-gaza-aid-operation-at-egypts-rafah-border/10873731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/6lmARkL0/s6/motorsport-com-graphics-85-2.jpg",
+      "published_at": "2026-11-10T23:42:03+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton s'est rendu à Rafah, en Égypte, pour observer l'opération d'aide au Gaza, deux jours après le Grand Prix de Sao Paulo.",
+      "summary_en": "Lewis Hamilton visited the aid operation at Rafah, Egypt, two days after racing at the Sao Paulo Grand Prix."
+    },
     {
       "id": "85687401436c",
       "title": "Social Media: Hamilton witnesses humanitarian relief effort in Gaza Strip | Brief",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "McLaren driver Oscar Piastri has confirmed he is no longer being represented by Mark Webber's management team.",
       "summary_en": "McLaren driver Oscar Piastri has confirmed he is no longer being represented by Mark Webber's management team."
-    },
-    {
-      "id": "197c01cf875f",
-      "title": "Piastri and Webber terminate management agreement",
-      "title_fr": "Piastri et Webber rompent leur contrat de gestion",
-      "title_en": "Piastri and Webber end management deal",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/oscar-piastri-splits-from-mark-webber-management/10873258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0a9ajnr0/s6/oscar-piastri-mclaren-1st-posi.jpg",
-      "published_at": "2026-11-09T08:43:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri et Mark Webber ont mis fin à leur contrat de gestion, après que Webber et sa femme aient dirigé la carrière de Piastri depuis 2019.",
-      "summary_en": "Oscar Piastri and Mark Webber have mutually ended their management contract, after Webber and his wife guided Piastri's career since 2019."
-    },
-    {
-      "id": "2e4ffb3a542c",
-      "title": "Oscar Piastri splits from Mark Webber management",
-      "title_fr": "Piastri rompt avec Mark Webber",
-      "title_en": "Piastri parts ways with Mark Webber",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-wont-have-mark-webber-as-his-manager-anymore/10873253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0a9ajnr0/s6/oscar-piastri-mclaren-1st-posi.jpg",
-      "published_at": "2026-11-09T08:39:26+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri et Mark Webber ont mis fin à leur contrat de gestion, après une collaboration depuis 2019. Le pilote australien a quitté l’équipe de Webber, qui l’avait accompagné depuis son ascension en Formule 1.",
-      "summary_en": "Oscar Piastri and Mark Webber have mutually ended their management agreement, ending a partnership that began in 2019. The Australian driver has left Webber’s team after a successful rise to Formula 1."
-    },
-    {
-      "id": "d3a5a29c619f",
-      "title": "Norris sparkles in Sao Paulo despite firework mishap",
-      "title_fr": "Norris sparkles in Sao Paulo despite firework mishap",
-      "title_en": "Norris sparkles in Sao Paulo despite firework mishap",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd44/live/561b1180-dbc9-11f1-a639-8fd896d95a18.jpg",
-      "published_at": "2026-11-08T23:44:53+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
-      "summary_en": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits."
-    },
-    {
-      "id": "88b0eb97b31f",
-      "title": "Red Bull boss hails Max Verstappen's Brazil podium: \"He's beating the sim on a regular basis\"",
-      "title_fr": "Verstappen décroche le podium à Interlagos, Red Bull le félicite",
-      "title_en": "Verstappen secures podium at Interlagos, Red Bull praises him",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-boss-hails-max-verstappens-brazil-podium-hes-beating-the-sim-on-a-regular-basis/10873193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7Qrrm6/s6/motorsport-com-graphics-76.jpg",
-      "published_at": "2026-11-08T23:11:39+00:00",
-      "race_id": "netherlands",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a franchi le podium à Interlagos, partant de 21e après pénalité moteur. Laurent Mekies a salué sa performance, affirmant qu'il dépasse les simulations.",
-      "summary_en": "Max Verstappen secured a podium finish at Interlagos, starting from 21st after an engine penalty. Red Bull chief Laurent Mekies praised his drive, saying he outperforms simulations."
     }
   ]
 }
