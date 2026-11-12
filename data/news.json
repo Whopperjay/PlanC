@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-12T13:23:09Z",
+  "last_updated": "2026-11-12T16:24:08Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ab45c0f3f7f8",
+      "title": "Lindblad and Lawson to continue at Racing Bulls",
+      "title_fr": "Lindblad et Lawson restent chez Racing Bulls",
+      "title_en": "Lindblad and Lawson stay with Racing Bulls",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw24epe29566o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4405/live/9695bf60-de8c-11f1-9afe-1f03bfe02283.jpg",
+      "published_at": "2026-11-12T16:02:16+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Arvid Lindblad et Liam Lawson prolongent leur contrat avec la deuxieme equipe de Red Bull, Racing Bulls, pour la saison 2027.",
+      "summary_en": "Arvid Lindblad and Liam Lawson will continue as drivers for Red Bull's second team Racing Bulls in 2027."
+    },
+    {
+      "id": "fb8a38e5c9b5",
+      "title": "Tsolov lands reserve driver role for F1 2027",
+      "title_fr": "Tsolov nommé pilote de réserve pour Red Bull et Racing Bulls en 2027",
+      "title_en": "Tsolov named reserve driver for Red Bull and Racing Bulls in 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/tsolov-lands-reserve-driver-role-for-f1-2027/10874151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7LbPRY/s6/nikola-tsolov-racing-bulls-4.jpg",
+      "published_at": "2026-11-12T15:21:07+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le 19-ans Nikola Tsolov, originaire de Bulgarie, a été désigné pilote de réserve pour Red Bull et Racing Bulls pour la saison 2027, après avoir manqué une place à temps plein.",
+      "summary_en": "The 19-year-old Bulgarian Nikola Tsolov has been appointed reserve driver for Red Bull and Racing Bulls for the 2027 season, after missing out on a full-time seat."
+    },
+    {
+      "id": "995c941e6fad",
+      "title": "Tsolov named Red Bull, Racing Bulls reserve driver after missing out on 2027 F1 race seat",
+      "title_fr": "Tsolov nommé pilote de réserve pour Red Bull et Racing Bulls",
+      "title_en": "Tsolov named reserve driver for Red Bull and Racing Bulls",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/tsolov-named-red-bull-racing-bulls-reserve-driver-after-missing-out-on-2027-f1-race-seat/10874147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPVOP0/s6/nikola-tsolov-racing-bulls.jpg",
+      "published_at": "2026-11-12T15:19:49+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le 19‑ans Nikola Tsolov, originaire de Bulgarie, a été désigné pilote de réserve pour Red Bull et Racing Bulls en 2027, après avoir échoué à obtenir un poste à temps plein.",
+      "summary_en": "The 19‑year‑old Bulgarian Nikola Tsolov has been named reserve driver for Red Bull and Racing Bulls in 2027, after missing out on a full‑time seat."
+    },
     {
       "id": "9e63b8d48891",
       "title": "Fred Vasseur: Lewis Hamilton and Charles Leclerc “left my room joking together”",
@@ -136,6 +193,25 @@
       "summary_en": "Racing Bulls has confirmed an unchanged driver line-up for the 2027 Formula 1 season."
     },
     {
+      "id": "3bfd6da478a7",
+      "title": "Racing Bulls keep Lawson and Lindblad as Tsolov gets Red Bull reserve role | Formula 1",
+      "title_fr": "Tsolov rejoint Red Bull en réserve, Lawson et Lindblad restent Racing Bulls",
+      "title_en": "Tsolov joins Red Bull as reserve, Lawson and Lindblad stay with Racing Bulls",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/12/racing-bulls-keep-lawson-and-lindblad-as-tsolov-gets-red-bull-reserve-role/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-12-11-26-42-1-SI202610230451.jpg",
+      "published_at": "2026-11-12T11:06:09+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Nikola Tsolov sera pilote de réserve chez Red Bull l'année prochaine, tandis que Racing Bulls conserve Liam Lawson et Arvid Lindblad.",
+      "summary_en": "Nikola Tsolov will serve as Red Bull's reserve driver next year, while Racing Bulls keep Liam Lawson and Arvid Lindblad."
+    },
+    {
       "id": "9769531ff797",
       "title": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
       "title_fr": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
@@ -172,6 +248,25 @@
       "is_breaking": false,
       "summary_fr": "Liam Lawson et Arvid Lindblad prolongent leur contrat avec Racing Bulls pour la saison 2027, après une année où le duo a mené l’équipe à la cinquième place du championnat des constructeurs.",
       "summary_en": "Liam Lawson and Arvid Lindblad will stay with Racing Bulls for the 2027 Formula 1 season, following a year that saw the pair push the team to fifth in the constructors' championship."
+    },
+    {
+      "id": "bb37cd89fb4e",
+      "title": "F1: Chequered Flag",
+      "title_fr": "Kimi Antonelli, champion le plus jeune de l’histoire de la F1",
+      "title_en": "Kimi Antonelli, F1’s youngest champion",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pmlb1r?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmlb62.jpg",
+      "published_at": "2026-11-12T11:03:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a gravi les échelons de la F1 pour devenir le champion le plus jeune de l’histoire. Son ascension fulgurante a marqué les esprits depuis son premier podium.",
+      "summary_en": "Kimi Antonelli climbed the F1 ladder to become the sport’s youngest champion. His meteoric rise has captivated fans since his first podium."
     },
     {
       "id": "a34ad573c83a",
@@ -666,101 +761,6 @@
       "is_breaking": true,
       "summary_fr": "Lewis Hamilton a visité la bande de Gaza pour observer les opérations de secours humanitaires. Le pilote de Formule 1 a exprimé son soutien aux populations touchées.",
       "summary_en": "Lewis Hamilton visited the Gaza Strip to observe humanitarian relief operations. The Formula 1 driver expressed support for the affected populations."
-    },
-    {
-      "id": "0c4c9e0b8920",
-      "title": "‘Kimi Antonelli isn’t Ayrton Senna yet, but he may be a Senninha’ – Toto Wolff",
-      "title_fr": "Antonelli, la prochaine Senninha ?",
-      "title_en": "Antonelli, the next Senninha?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YpbAXjN0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-10T16:25:05+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, pilote de Formule 1, est comparé à Ayrton Senna par Toto Wolff, mais il n'est pas encore à la hauteur. Le jeune pilote brésilien est vu comme la prochaine Senninha.",
-      "summary_en": "Kimi Antonelli, the Formula 1 driver, is compared to Ayrton Senna by Toto Wolff, but he is not yet at that level. The young Brazilian is seen as the next Senninha."
-    },
-    {
-      "id": "630942d0e105",
-      "title": "F1 scraps back-up plan to race at Imola if Middle East GPs are cancelled – reports | Formula 1",
-      "title_fr": "F1 abandonne le plan de secours à Imola si les GP du Moyen-Orient sont annulés",
-      "title_en": "F1 drops backup Imola plan if Middle East GPs are cancelled",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/10/f1-scraps-back-up-plan-to-race-at-imola-if-middle-east-gps-are-cancelled-reports/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-20-7-2249021119.jpg",
-      "published_at": "2026-11-10T15:58:22+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 a décidé de ne pas tenir un second plan de course à Imola si les Grands Prix du Moyen-Orient sont annulés. Les deux derniers tours de la saison 2026 seront donc obligatoirement au Moyen-Orient ou annulés.",
-      "summary_en": "Formula 1 has scrapped a backup Imola plan if the Middle East Grands Prix are cancelled. The final two rounds of the 2026 season will therefore be held in the Middle East or not at all."
-    },
-    {
-      "id": "b8980f6f9c5d",
-      "title": "Formula 1 to finish season in Middle East",
-      "title_fr": "F1 conclut la saison au Moyen-Orient",
-      "title_en": "F1 to finish season in Middle East",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f4/live/e7754920-dd0e-11f1-97df-bd0937690c4d.jpg",
-      "published_at": "2026-11-10T15:04:46+00:00",
-      "race_id": "qatar",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La saison 2026 de Formule 1 se terminera aux Grands Prix du Qatar et d’Abu Dhabi, comme prévu. Le circuit d’Imola en Italie est mis de côté comme piste de secours.",
-      "summary_en": "The 2026 Formula 1 season will end with the Qatar and Abu Dhabi Grands Prix as planned. Italy’s Imola circuit is kept as a backup track."
-    },
-    {
-      "id": "d84dc5a1b22f",
-      "title": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
-      "title_fr": "Imola retiré du calendrier 2026, Qatar et Abu Dhabi restent confirmés",
-      "title_en": "Imola dropped from 2026 calendar, Qatar and Abu Dhabi stay confirmed",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6x7Lz8jY/s6/lando-norris-mclaren-liam-laws-2.jpg",
-      "published_at": "2026-11-10T14:52:26+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le circuit d'Imola est exclu du calendrier 2026 de la F1. Les Grands Prix du Qatar et d'Abu Dhabi resteront en place, à condition que la guerre en Iran ne s'aggrave.",
-      "summary_en": "Imola is removed from the 2026 F1 calendar. The Qatar and Abu Dhabi Grands Prix will stay, provided the Iran war does not intensify."
-    },
-    {
-      "id": "0e34b4476856",
-      "title": "F1 2026 calendar update: Imola GP off the table, no plan B if war escalates",
-      "title_fr": "Imola retiré du calendrier 2026, Qatar et Abu Dhabi maintenus",
-      "title_en": "Imola removed from 2026 calendar, Qatar and Abu Dhabi kept",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-2026-calendar-update-imola-gp-off-the-table-no-plan-b-if-war-escalates/10873637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/27No3jm0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-10T14:50:41+00:00",
-      "race_id": "usa",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le calendrier 2026 de la Formule 1 conserve les Grands Prix du Qatar et d'Abu Dhabi, mais retire Imola. Aucun plan de secours n'est prévu si la guerre en Iran s'intensifie.",
-      "summary_en": "The 2026 F1 calendar keeps the Qatar and Abu Dhabi Grands Prix but drops Imola. No backup is planned if the Iran war escalates."
     }
   ]
 }
