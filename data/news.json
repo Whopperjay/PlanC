@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-11T22:17:58Z",
+  "last_updated": "2026-11-12T01:18:50Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "65693225c30c",
+      "title": "Final Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6million",
+      "title_fr": "SLR McLaren Stirling Moss de Mercedes-Benz mise aux enchères pour plus de 6 millions de dollars",
+      "title_en": "Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6 million",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/final-mercedes-benz-slr-mclaren-stirling-moss-heads-to-auction-for-over-6million/10873978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YBVjRG7Y/s6/motorsport-com-graphics-88.jpg",
+      "published_at": "2026-11-12T00:31:56+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le dernier SLR McLaren Stirling Moss de Mercedes-Benz, numéro de châssis 75, est de retour sur le marché. RM Sotheby's l'évalue à plus de 6 millions de dollars et l'enchère se tiendra en décembre.",
+      "summary_en": "The final Mercedes-Benz SLR McLaren Stirling Moss, chassis 75, is back on the market. RM Sotheby's values the roofless speedster at over $6 million and the auction will run in December."
+    },
+    {
+      "id": "d80aa086d055",
+      "title": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
+      "title_fr": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
+      "title_en": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-credits-toto-wolffs-loyalty-for-mercedes-f1-title-return-nobody-was-hired-or-fired/10873975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwM3B2/s6/motorsport-com-graphics-94.jpg",
+      "published_at": "2026-11-12T00:01:07+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell says Toto Wolff's refusal to change Mercedes during the difficult years of the ground effect era is a big reason the team is back on top of Formula 1.<br />The Brackley outfit sealed it",
+      "summary_en": "George Russell says Toto Wolff's refusal to change Mercedes during the difficult years of the ground effect era is a big reason the team is back on top of Formula 1.<br />The Brackley outfit sealed it"
+    },
+    {
+      "id": "1eb645431508",
+      "title": "Bruno Senna reveals plans to put Kimi Antonelli behind the wheel of Ayrton Senna's F1 car",
+      "title_fr": "Bruno Senna veut confier la voiture d'Ayrton à Kimi Antonelli",
+      "title_en": "Bruno Senna plans to give Kimi Antonelli Ayrton Senna's F1 car",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/bruno-senna-reveals-plans-to-put-kimi-antonelli-behind-the-wheel-of-ayrton-sennas-f1-car/10873973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPO5O0/s6/motorsport-com-graphics-87.jpg",
+      "published_at": "2026-11-11T23:55:02+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Bruno Senna souhaite offrir à Kimi Antonelli la chance de piloter l'une des voitures d'Ayrton Senna l'an prochain, après la visite du champion 2026 au domaine familial au Brésil",
+      "summary_en": "Bruno Senna says he wants to give Kimi Antonelli the chance to drive one of Ayrton Senna's cars next year, after the 2026 champion visited the family estate in Brazil"
+    },
+    {
+      "id": "609314cd6755",
+      "title": "Max Verstappen questions Ferrari’s decision to let Lewis Hamilton and Charles Leclerc race freely",
+      "title_fr": "Verstappen critique la décision Ferrari de laisser Hamilton et Leclerc s'affronter",
+      "title_en": "Verstappen criticises Ferrari's decision to let Hamilton and Leclerc battle",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-questions-ferraris-decision-to-let-lewis-hamilton-and-charles-leclerc-race-freely/10873971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6zoD83j0/s6/motorsport-com-graphics-93-2.jpg",
+      "published_at": "2026-11-11T23:48:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Après sa victoire à Mexico, Max Verstappen a déclaré qu'il ne mettrait jamais deux pilotes numéro un ensemble s'il était directeur de Ferrari. Il estime que la confrontation entre Lewis Hamilton et Charles Leclerc lui a permis de gagner",
+      "summary_en": "After winning in Mexico, Max Verstappen said he would never pair two number-one drivers together if he were Ferrari's team principal. He believes the clash between Lewis Hamilton and Charles Leclerc gave him the victory"
+    },
     {
       "id": "a284af5cf02c",
       "title": "Lewis Hamilton loses most marketable athlete crown as Charles Leclerc moves ahead",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Antonelli a signalé un comportement étrange de sa voiture après son premier arrêt aux boxes, demandant à Mercedes d’en identifier la cause, ce qui l’a fait perdre la course.",
       "summary_en": "Antonelli reported odd handling after his first pit stop, asking Mercedes to investigate, which cost him a chance at victory."
-    },
-    {
-      "id": "f04f0edc93f5",
-      "title": "What's behind Piastri's split with Webber – and what it means for his F1 career",
-      "title_fr": "Piastri rompt avec Webber, impact sur sa carriere",
-      "title_en": "Piastri parts ways with Webber, implications for his F1 career",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/whats-behind-piastris-split-with-webber-and-what-it-means-for-his-f1-career/10873410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg",
-      "published_at": "2026-11-09T15:53:07+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri et Mark Webber ont annonce la fin de leur collaboration, ce qui pourrait influencer la trajectoire du jeune pilote McLaren",
-      "summary_en": "Oscar Piastri and Mark Webber announced the end of their partnership, potentially affecting the young McLaren driver's future"
-    },
-    {
-      "id": "e7546dae5543",
-      "title": "What's behind Oscar Piastri's split with Mark Webber – and what it means for his F1 career",
-      "title_fr": "Piastri et Webber se séparent, fin de l'ancienne équipe de gestion",
-      "title_en": "Piastri and Webber part ways, ending old management team",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-the-split-with-mark-webber-says-about-the-next-phase-of-oscar-piastris-f1-career/10873385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGg5rKY/s6/oscar-piastri-mclaren-with-mar.jpg",
-      "published_at": "2026-11-09T15:51:41+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri et Mark Webber ont annoncé la fin de leur collaboration, Webber et Ann Neal ne gèrent plus le pilote de 25 ans. La décision intervient après le Grand Prix brésilien.",
-      "summary_en": "Oscar Piastri and Mark Webber announced the end of their partnership, with Webber and Ann Neal no longer managing the 25-year-old driver. The decision follows the Brazilian Grand Prix."
-    },
-    {
-      "id": "54c51f6be968",
-      "title": "Why Mercedes says a repeat of its 2014-2021 dominance is \"impossible\"",
-      "title_fr": "Mercedes juge impossible la reprise de sa domination 2014-2021",
-      "title_en": "Mercedes says repeat of 2014-2021 dominance is impossible",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-mercedes-says-a-repeat-of-its-2014-2021-dominance-is-impossible/10873407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0Zq8VG86/s6/motorsport-com-graphics-79.jpg",
-      "published_at": "2026-11-09T15:46:27+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de l'ingénierie de Mercedes, Andrew Shovlin, affirme que l'équipe ne pourra pas reproduire ses huit titres consécutifs de constructeurs après son succès de 2026.",
-      "summary_en": "Mercedes engineering director Andrew Shovlin says the team cannot repeat its eight consecutive constructors' titles after its 2026 success."
-    },
-    {
-      "id": "7bebd043dcd5",
-      "title": "Spotlight: FIA president Ben Sulayem ‘planning to remove age limits’ for office-holders | Brief",
-      "title_fr": "FIA : Ben Sulayem envisage de supprimer les limites d’âge",
-      "title_en": "FIA: Ben Sulayem plans to remove age limits",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/09/spotlight-fia-president-ben-sulayem-planning-to-remove-age-limits-for-office-holders/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-09-15-38-18-1-2280186105.jpg",
-      "published_at": "2026-11-09T15:45:11+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le président de la FIA, Ben Sulayem, aurait l'intention de supprimer les limites d’âge pour les représentants de l'organisation, selon un rapport. Cette décision pourrait élargir la participation des officiels.",
-      "summary_en": "FIA president Ben Sulayem reportedly plans to eliminate age limits for officials, a move that could broaden participation. The decision, if confirmed, would change the regulatory framework."
     }
   ]
 }
