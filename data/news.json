@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-12T07:19:55Z",
+  "last_updated": "2026-11-12T10:21:06Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "42c18a433f79",
+      "title": "Stats: Verstappen claims second place from lowest grid position since 1983 | 2026 Brazilian Grand Prix stats and facts",
+      "title_fr": "Verstappen second depuis 1983, Brésil 2026",
+      "title_en": "Verstappen finishes second from lowest grid position since 1983 at 2026 Brazilian GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/12/stats-verstappen-claims-second-place-from-lowest-grid-position-since-1983/",
+      "image_url": null,
+      "published_at": "2026-11-12T10:11:49+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a terminé deuxième, sortant de la plus basse position de grille depuis 1983, lors du Grand Prix du Brésil 2026. Le circuit a également vu le premier pilote brésilien débutant en presque 20 ans.",
+      "summary_en": "Max Verstappen finished second, emerging from the lowest grid position since 1983, at the 2026 Brazilian Grand Prix. The race also featured the first home debutant in almost 20 years."
+    },
+    {
+      "id": "585cf349e2f0",
+      "title": "Social media: Russell launches GR63 Academy to find 25 future racers | Brief",
+      "title_fr": "Russell lance l'Académie GR63 pour dénicher les futurs pilotes",
+      "title_en": "Russell launches GR63 Academy to spot future racing stars",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/12/social-media-russell-launches-gr63-academy-to-find-25-future-racers/",
+      "image_url": null,
+      "published_at": "2026-11-12T09:29:55+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de Formule 1 Lando Norris a créé l'Académie GR63, une école de karting visant à repérer les talents cachés pour la prochaine génération de pilotes.",
+      "summary_en": "Formula 1 driver Lando Norris has launched the GR63 Academy, a karting school aimed at spotting hidden talents for the next generation of racers."
+    },
+    {
+      "id": "95f940f00e37",
+      "title": "Max Verstappen on Ferrari clashes: \"I would never sign two number-one drivers\"",
+      "title_fr": "Verstappen dénonce la présence de deux pilotes de tête chez Ferrari",
+      "title_en": "Verstappen criticises Ferrari for having two top drivers",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAGa90/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "published_at": "2026-11-12T09:05:37+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a déclaré qu'il ne signerait jamais deux pilotes de tête, après le clash de Ferrari à Mexico. Le pilote Red Bull a souligné que l'incident était le résultat d'une dynamique d'équipe.",
+      "summary_en": "Max Verstappen said he would never sign two top drivers after Ferrari's clash in Mexico. The Red Bull driver said the incident stemmed from team dynamics."
+    },
     {
       "id": "65693225c30c",
       "title": "Final Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6million",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "James Hinchcliffe, ancien pilote d'IndyCar et commentateur F1 TV, a déclaré que George Russell semblait 'un peu découragé' après une journée difficile au Grand Prix du Brésil. Mercedes a remporté le championnat des constructeurs.",
       "summary_en": "Former IndyCar driver and F1 TV pundit James Hinchcliffe said George Russell looked 'a bit defeated' after a tough afternoon at the Brazilian Grand Prix, while Mercedes clinched the constructors' title."
-    },
-    {
-      "id": "87a6acd2128a",
-      "title": "George Russell teases imminent karting announcement as F1 fans spot major clue",
-      "title_fr": "George Russell teases imminent karting announcement as F1 fans spot major clue",
-      "title_en": "George Russell teases imminent karting announcement as F1 fans spot major clue",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-teases-imminent-karting-announcement-as-f1-fans-spot-major-clue/10873459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YN7vzGV6/s6/motorsport-com-graphics-81.jpg",
-      "published_at": "2026-11-09T18:31:47+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell has teased an imminent announcement linked to karting on 12 November.<br />The Mercedes driver posted a video to Instagram on Monday with the caption \"Stay tuned\". He talks about his fi",
-      "summary_en": "George Russell has teased an imminent announcement linked to karting on 12 November.<br />The Mercedes driver posted a video to Instagram on Monday with the caption \"Stay tuned\". He talks about his fi"
-    },
-    {
-      "id": "6cd8ad3bd44e",
-      "title": "Apple TV confirms free F1 Las Vegas Grand Prix coverage: How to watch in the US",
-      "title_fr": "Apple TV diffuse le Grand Prix de Las Vegas gratuitement",
-      "title_en": "Apple TV to stream Las Vegas GP for free",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/apple-tv-confirms-free-f1-las-vegas-grand-prix-coverage-how-to-watch-in-the-us/10873443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27No31e0/s6/motorsport-com-graphics-80.jpg",
-      "published_at": "2026-11-09T17:56:51+00:00",
-      "race_id": "usa",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Apple TV a confirmé que le week‑end complet du Grand Prix de Las Vegas sera diffusé gratuitement aux États‑Unis, sans abonnement requis, couvrant toutes les sessions, de la première séance d’essai à la course du samedi.",
-      "summary_en": "Apple TV confirmed that the entire Las Vegas Grand Prix weekend will stream for free in the U.S., covering every session from Thursday’s first practice to Saturday’s race, with no subscription required."
-    },
-    {
-      "id": "18ef7749c7bf",
-      "title": "“The car is steering by itself, don’t you see it?”: How handling trouble baffled Antonelli | Formula 1",
-      "title_fr": "Antonelli se plaint d’une conduite étrange après son premier arrêt aux boxes",
-      "title_en": "Antonelli complains of strange handling after first pit stop",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/09/the-car-is-steering-by-itself-dont-you-see-it-how-handling-trouble-baffled-antonelli/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-09-08-54-15-9-M651632_F1_SAO_PAULO_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-11-09T17:05:55+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Antonelli a signalé un comportement étrange de sa voiture après son premier arrêt aux boxes, demandant à Mercedes d’en identifier la cause, ce qui l’a fait perdre la course.",
-      "summary_en": "Antonelli reported odd handling after his first pit stop, asking Mercedes to investigate, which cost him a chance at victory."
     }
   ]
 }
