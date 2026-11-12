@@ -2,8 +2,12 @@
   {
     "driver": {
       "driverId": "paul_aron",
+      "code": "ARO",
+      "url": "https://en.wikipedia.org/wiki/Paul_Aron",
       "givenName": "Paul",
-      "familyName": "Aron"
+      "familyName": "Aron",
+      "dateOfBirth": "2004-02-04",
+      "nationality": "Estonian"
     },
     "constructor": {
       "constructorId": "alpine",
@@ -51,8 +55,13 @@
   {
     "driver": {
       "driverId": "gabriele_mini",
+      "permanentNumber": "61",
+      "code": "MIN",
+      "url": "https://en.wikipedia.org/wiki/Gabriele_Mini",
       "givenName": "Gabriele",
-      "familyName": "Mini"
+      "familyName": "Mini",
+      "dateOfBirth": "2005-03-20",
+      "nationality": "Italian"
     },
     "constructor": {
       "constructorId": "alpine",
@@ -82,8 +91,13 @@
   {
     "driver": {
       "driverId": "jak_crawford",
+      "permanentNumber": "34",
+      "code": "CRA",
+      "url": "https://en.wikipedia.org/wiki/Jak_Crawford",
       "givenName": "Jak",
-      "familyName": "Crawford"
+      "familyName": "Crawford",
+      "dateOfBirth": "2005-05-02",
+      "nationality": "American"
     },
     "constructor": {
       "constructorId": "aston_martin",
@@ -113,8 +127,12 @@
   {
     "driver": {
       "driverId": "paul_aron",
+      "code": "ARO",
+      "url": "https://en.wikipedia.org/wiki/Paul_Aron",
       "givenName": "Paul",
-      "familyName": "Aron"
+      "familyName": "Aron",
+      "dateOfBirth": "2004-02-04",
+      "nationality": "Estonian"
     },
     "constructor": {
       "constructorId": "audi",
@@ -162,8 +180,13 @@
   {
     "driver": {
       "driverId": "freddie_slater",
+      "permanentNumber": "98",
+      "code": "SLA",
+      "url": "https://en.wikipedia.org/wiki/Freddie_Slater_(racing_driver)",
       "givenName": "Freddie",
-      "familyName": "Slater"
+      "familyName": "Slater",
+      "dateOfBirth": "2008-08-09",
+      "nationality": "British"
     },
     "constructor": {
       "constructorId": "audi",
@@ -193,8 +216,12 @@
   {
     "driver": {
       "driverId": "colton_herta",
+      "code": "HER",
+      "url": "https://en.wikipedia.org/wiki/Colton_Herta",
       "givenName": "Colton",
-      "familyName": "Herta"
+      "familyName": "Herta",
+      "dateOfBirth": "2000-03-30",
+      "nationality": "American"
     },
     "constructor": {
       "constructorId": "cadillac",
@@ -224,8 +251,13 @@
   {
     "driver": {
       "driverId": "dino_beganovic",
+      "permanentNumber": "38",
+      "code": "BEG",
+      "url": "https://en.wikipedia.org/wiki/Dino_Beganovic",
       "givenName": "Dino",
-      "familyName": "Beganovic"
+      "familyName": "Beganovic",
+      "dateOfBirth": "2004-01-19",
+      "nationality": "Swedish"
     },
     "constructor": {
       "constructorId": "ferrari",
@@ -345,8 +377,13 @@
   {
     "driver": {
       "driverId": "leonardo_fornaroli",
+      "permanentNumber": "67",
+      "code": "FOR",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_Fornaroli",
       "givenName": "Leonardo",
-      "familyName": "Fornaroli"
+      "familyName": "Fornaroli",
+      "dateOfBirth": "2004-12-03",
+      "nationality": "Italian"
     },
     "constructor": {
       "constructorId": "mclaren",
@@ -430,8 +467,13 @@
   {
     "driver": {
       "driverId": "frederik_vesti",
+      "permanentNumber": "72",
+      "code": "VES",
+      "url": "https://en.wikipedia.org/wiki/Frederik_Vesti",
       "givenName": "Frederik",
-      "familyName": "Vesti"
+      "familyName": "Vesti",
+      "dateOfBirth": "2002-01-13",
+      "nationality": "Danish"
     },
     "constructor": {
       "constructorId": "mercedes",
@@ -443,8 +485,13 @@
   {
     "driver": {
       "driverId": "ayumu_iwasa",
+      "permanentNumber": "36",
+      "code": "IWA",
+      "url": "https://en.wikipedia.org/wiki/Ayumu_Iwasa",
       "givenName": "Ayumu",
-      "familyName": "Iwasa"
+      "familyName": "Iwasa",
+      "dateOfBirth": "2001-09-22",
+      "nationality": "Japanese"
     },
     "constructor": {
       "constructorId": "rb",
@@ -492,8 +539,13 @@
   {
     "driver": {
       "driverId": "nikola_tsolov",
+      "permanentNumber": "91",
+      "code": "TSO",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tsolov",
       "givenName": "Nikola",
-      "familyName": "Tsolov"
+      "familyName": "Tsolov",
+      "dateOfBirth": "2006-12-21",
+      "nationality": "Bulgarian"
     },
     "constructor": {
       "constructorId": "rb",
@@ -541,8 +593,13 @@
   {
     "driver": {
       "driverId": "ayumu_iwasa",
+      "permanentNumber": "36",
+      "code": "IWA",
+      "url": "https://en.wikipedia.org/wiki/Ayumu_Iwasa",
       "givenName": "Ayumu",
-      "familyName": "Iwasa"
+      "familyName": "Iwasa",
+      "dateOfBirth": "2001-09-22",
+      "nationality": "Japanese"
     },
     "constructor": {
       "constructorId": "red_bull",
@@ -608,8 +665,13 @@
   {
     "driver": {
       "driverId": "luke_browning",
+      "permanentNumber": "46",
+      "code": "BRO",
+      "url": "https://en.wikipedia.org/wiki/Luke_Browning",
       "givenName": "Luke",
-      "familyName": "Browning"
+      "familyName": "Browning",
+      "dateOfBirth": "2002-01-31",
+      "nationality": "British"
     },
     "constructor": {
       "constructorId": "williams",
