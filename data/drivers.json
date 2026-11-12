@@ -41,10 +41,12 @@
         },
         {
           "driverId": "paul_aron",
+          "code": "ARO",
+          "url": "https://en.wikipedia.org/wiki/Paul_Aron",
           "givenName": "Paul",
           "familyName": "Aron",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
+          "dateOfBirth": "2004-02-04",
+          "nationality": "Estonian",
           "permanentNumber": "99"
         },
         {
@@ -59,11 +61,13 @@
         },
         {
           "driverId": "dino_beganovic",
+          "permanentNumber": "38",
+          "code": "BEG",
+          "url": "https://en.wikipedia.org/wiki/Dino_Beganovic",
           "givenName": "Dino",
           "familyName": "Beganovic",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "98"
+          "dateOfBirth": "2004-01-19",
+          "nationality": "Swedish"
         },
         {
           "driverId": "bortoleto",
@@ -87,11 +91,13 @@
         },
         {
           "driverId": "luke_browning",
+          "permanentNumber": "46",
+          "code": "BRO",
+          "url": "https://en.wikipedia.org/wiki/Luke_Browning",
           "givenName": "Luke",
           "familyName": "Browning",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "97"
+          "dateOfBirth": "2002-01-31",
+          "nationality": "British"
         },
         {
           "driverId": "rafael_camara",
@@ -115,19 +121,23 @@
         },
         {
           "driverId": "jak_crawford",
+          "permanentNumber": "34",
+          "code": "CRA",
+          "url": "https://en.wikipedia.org/wiki/Jak_Crawford",
           "givenName": "Jak",
           "familyName": "Crawford",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "96"
+          "dateOfBirth": "2005-05-02",
+          "nationality": "American"
         },
         {
           "driverId": "leonardo_fornaroli",
+          "permanentNumber": "67",
+          "code": "FOR",
+          "url": "https://en.wikipedia.org/wiki/Leonardo_Fornaroli",
           "givenName": "Leonardo",
           "familyName": "Fornaroli",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "95"
+          "dateOfBirth": "2004-12-03",
+          "nationality": "Italian"
         },
         {
           "driverId": "gasly",
@@ -161,11 +171,13 @@
         },
         {
           "driverId": "colton_herta",
+          "code": "HER",
+          "url": "https://en.wikipedia.org/wiki/Colton_Herta",
           "givenName": "Colton",
           "familyName": "Herta",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "94"
+          "dateOfBirth": "2000-03-30",
+          "nationality": "American",
+          "permanentNumber": "97"
         },
         {
           "driverId": "ryo_hirakawa",
@@ -189,11 +201,13 @@
         },
         {
           "driverId": "ayumu_iwasa",
+          "permanentNumber": "36",
+          "code": "IWA",
+          "url": "https://en.wikipedia.org/wiki/Ayumu_Iwasa",
           "givenName": "Ayumu",
           "familyName": "Iwasa",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "93"
+          "dateOfBirth": "2001-09-22",
+          "nationality": "Japanese"
         },
         {
           "driverId": "lawson",
@@ -227,11 +241,13 @@
         },
         {
           "driverId": "gabriele_mini",
+          "permanentNumber": "61",
+          "code": "MIN",
+          "url": "https://en.wikipedia.org/wiki/Gabriele_Mini",
           "givenName": "Gabriele",
           "familyName": "Mini",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "92"
+          "dateOfBirth": "2005-03-20",
+          "nationality": "Italian"
         },
         {
           "driverId": "norris",
@@ -295,11 +311,13 @@
         },
         {
           "driverId": "freddie_slater",
+          "permanentNumber": "98",
+          "code": "SLA",
+          "url": "https://en.wikipedia.org/wiki/Freddie_Slater_(racing_driver)",
           "givenName": "Freddie",
           "familyName": "Slater",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "91"
+          "dateOfBirth": "2008-08-09",
+          "nationality": "British"
         },
         {
           "driverId": "stroll",
@@ -313,11 +331,13 @@
         },
         {
           "driverId": "nikola_tsolov",
+          "permanentNumber": "91",
+          "code": "TSO",
+          "url": "https://en.wikipedia.org/wiki/Nikola_Tsolov",
           "givenName": "Nikola",
           "familyName": "Tsolov",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "90"
+          "dateOfBirth": "2006-12-21",
+          "nationality": "Bulgarian"
         },
         {
           "driverId": "tsunoda",
@@ -341,11 +361,13 @@
         },
         {
           "driverId": "frederik_vesti",
+          "permanentNumber": "72",
+          "code": "VES",
+          "url": "https://en.wikipedia.org/wiki/Frederik_Vesti",
           "givenName": "Frederik",
           "familyName": "Vesti",
-          "dateOfBirth": "1900-01-01",
-          "nationality": "Unknown",
-          "permanentNumber": "89"
+          "dateOfBirth": "2002-01-13",
+          "nationality": "Danish"
         }
       ]
     }
