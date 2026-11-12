@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-12T16:24:08Z",
+  "last_updated": "2026-11-12T19:25:25Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8b451ec8034b",
+      "title": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
+      "title_fr": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
+      "title_en": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guether-steiner-warns-oscar-piastris-mclaren-future-could-be-at-risk-after-2027/10874189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YXyKjJK6/s6/motorsport-com-graphics-94.jpg",
+      "published_at": "2026-11-12T17:44:49+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.<br />Piastri, who fought for the worl",
+      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.<br />Piastri, who fought for the worl"
+    },
+    {
+      "id": "a020c4a92cec",
+      "title": "Toto Wolff reflects on Mercedes’ non-title years: ‘We weren’t complete losers’",
+      "title_fr": "Wolff : Mercedes n’était pas des perdants complets",
+      "title_en": "Wolff: Mercedes Wasn't Complete Losers",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/YWKARzOY/s6/lewis-hamilton-mercedes-amg-ge.jpg",
+      "published_at": "2026-11-12T17:25:35+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a déclaré que la Mercedes n’était pas des perdants complets durant ses quatre années sans titre. Le constructeur a pourtant remporté son neuvième championnat des constructeurs à Brésil, après le passage à de nouveaux châssis et moteurs.",
+      "summary_en": "Toto Wolff said Mercedes was not 'complete losers' during its four years without a title. The team still captured its ninth constructors' championship in Brazil, following the switch to new chassis and power units."
+    },
+    {
+      "id": "9118a477a7a8",
+      "title": "Court of Appeal to hear Audi’s case over Tsunoda decision on November 25th | Formula 1",
+      "title_fr": "Audi conteste la décision des commissaires sur Tsunoda",
+      "title_en": "Audi challenges stewards' decision on Tsunoda",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/12/court-of-appeal-to-hear-audis-case-over-tsunoda-decision-on-november-25th/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-15-05-46-1-SI202609060774_hires_jpeg_24bit_rgb.jpg",
+      "published_at": "2026-11-12T16:52:19+00:00",
+      "race_id": "italy",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Audi conteste la décision des commissaires qui n'ont pas sanctionné Yuki Tsunoda pour une infraction lors du Grand Prix d'Italie. La Cour d'appel entendra l'affaire le 25 novembre.",
+      "summary_en": "Audi is challenging the stewards' decision not to penalise Yuki Tsunoda for an infringement at the Italian Grand Prix. The Court of Appeal will hear the case on November 25."
+    },
+    {
+      "id": "659017a0bfa6",
+      "title": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
+      "title_fr": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
+      "title_en": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNz382/s6/motorsport-com-graphics-96-2.jpg",
+      "published_at": "2026-11-12T16:41:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar ",
+      "summary_en": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar "
+    },
+    {
+      "id": "812be07a4bda",
+      "title": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
+      "title_fr": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
+      "title_en": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg",
+      "published_at": "2026-11-12T16:35:22+00:00",
+      "race_id": "usa",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work.<br />The Briton, who races for Campos Racing as par",
+      "summary_en": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work.<br />The Briton, who races for Campos Racing as par"
+    },
     {
       "id": "ab45c0f3f7f8",
       "title": "Lindblad and Lawson to continue at Racing Bulls",
@@ -345,6 +440,25 @@
       "summary_en": "Max Verstappen said he would never sign two top drivers after Ferrari's clash in Mexico. The Red Bull driver said the incident stemmed from team dynamics."
     },
     {
+      "id": "ae5ec84c8818",
+      "title": "Freddie Slater's 'surreal' first taste of Formula 1",
+      "title_fr": "Freddie Slater's 'surreal' first taste of Formula 1",
+      "title_en": "Freddie Slater's 'surreal' first taste of Formula 1",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0k771043xo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd2/live/04ef2330-dd4c-11f1-a2ff-1f577adb9bef.jpg",
+      "published_at": "2026-11-12T06:11:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The rising star tells the BBC about his experience taking part in F1 practice in Mexico.",
+      "summary_en": "The rising star tells the BBC about his experience taking part in F1 practice in Mexico."
+    },
+    {
       "id": "65693225c30c",
       "title": "Final Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6million",
       "title_fr": "SLR McLaren Stirling Moss de Mercedes-Benz mise aux enchères pour plus de 6 millions de dollars",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Liam Lawson a souligné l’un des exemples les plus clairs de l’aide de Red Bull à Verstappen lors du Grand Prix du Brésil, après l’incident au Mexique.",
       "summary_en": "Liam Lawson highlighted one of the clearest examples of Red Bull helping Verstappen during the Brazilian Grand Prix, following the incident in Mexico."
-    },
-    {
-      "id": "417ed93a88d6",
-      "title": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
-      "title_fr": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
-      "title_en": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YP748J42/s6/motorsport-com-graphics-87.jpg",
-      "published_at": "2026-11-11T02:05:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units.<br />Ricciardo",
-      "summary_en": "Daniel Ricciardo says Max Verstappen will \"go down as one of the best ever\", and admits he cannot comprehend what Red Bull has achieved in its first season building its own power units.<br />Ricciardo"
-    },
-    {
-      "id": "9b93639bf235",
-      "title": "Oscar Piastri reveals unexpected upside of being out of F1 title fight",
-      "title_fr": "Piastri révèle l'avantage inattendu d'être hors de la lutte pour le titre",
-      "title_en": "Piastri reveals unexpected upside of being out of F1 title fight",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-reveals-unexpected-upside-of-being-out-of-f1-title-fight/10873740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YWKARZDY/s6/motorsport-com-graphics-86.jpg",
-      "published_at": "2026-11-11T00:21:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri déclare qu'il manque la pression de la bataille pour le championnat, mais souligne les avantages d'être hors de la lutte. Il a terminé troisième, tandis que Norris a remporté le titre.",
-      "summary_en": "Oscar Piastri says he misses the pressure of fighting for the championship, but notes the benefits of being out of the title battle. He finished third, while Norris won the title."
-    },
-    {
-      "id": "8b83dd120b44",
-      "title": "Lando Norris questions Charles Leclerc's Brazilian GP penalty: \"Just racing\"",
-      "title_fr": "Norris critique la pénalité de Leclerc à Interlagos",
-      "title_en": "Norris questions Leclerc's penalty at Interlagos",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-questions-charles-leclercs-brazilian-gp-penalty-just-racing/10873736/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6n7b5kA0/s6/motorsport-com-graphics-85.jpg",
-      "published_at": "2026-11-10T23:58:55+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a contesté la pénalité de cinq secondes infligée à Charles Leclerc après son impact sur Liam Lawson à l'Interlagos, qui l'a relégué à la septième place.",
-      "summary_en": "Lando Norris has challenged the five‑second penalty given to Charles Leclerc after his collision with Liam Lawson at Interlagos, which dropped the Ferrari driver to seventh."
-    },
-    {
-      "id": "95548e0c1a7f",
-      "title": "Max Verstappen names the one condition that would make him retire from F1",
-      "title_fr": "Max Verstappen names the one condition that would make him retire from F1",
-      "title_en": "Max Verstappen names the one condition that would make him retire from F1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-id-quit-f1-if-i-didnt-think-i-was-the-best-driver/10873734/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2QedBrA2/s6/motorsport-com-graphics-86.jpg",
-      "published_at": "2026-11-10T23:58:32+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen says he would walk away from Formula 1 if he ever stopped believing he was the best driver in the field.<br />The four-time world champion has not won the title since 2024, with Lando N",
-      "summary_en": "Max Verstappen says he would walk away from Formula 1 if he ever stopped believing he was the best driver in the field.<br />The four-time world champion has not won the title since 2024, with Lando N"
-    },
-    {
-      "id": "b6d26e87365d",
-      "title": "Lewis Hamilton tours Gaza aid operation at Egypt's Rafah border",
-      "title_fr": "Hamilton visite l'opération d'aide à Rafah",
-      "title_en": "Hamilton visits aid operation at Rafah",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-tours-gaza-aid-operation-at-egypts-rafah-border/10873731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6lmARkL0/s6/motorsport-com-graphics-85-2.jpg",
-      "published_at": "2026-11-10T23:42:03+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton s'est rendu à Rafah, en Égypte, pour observer l'opération d'aide au Gaza, deux jours après le Grand Prix de Sao Paulo.",
-      "summary_en": "Lewis Hamilton visited the aid operation at Rafah, Egypt, two days after racing at the Sao Paulo Grand Prix."
-    },
-    {
-      "id": "85687401436c",
-      "title": "Social Media: Hamilton witnesses humanitarian relief effort in Gaza Strip | Brief",
-      "title_fr": "Hamilton visite Gaza pour voir les secours",
-      "title_en": "Hamilton visits Gaza to witness relief efforts",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/10/social-media-hamilton-witnesses-humanitarian-relief-effort-in-gaza-strip/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hamgaza.jpg",
-      "published_at": "2026-11-10T21:38:25+00:00",
-      "race_id": null,
-      "category": "breaking",
-      "tags": [
-        "breaking"
-      ],
-      "importance": 92,
-      "is_breaking": true,
-      "summary_fr": "Lewis Hamilton a visité la bande de Gaza pour observer les opérations de secours humanitaires. Le pilote de Formule 1 a exprimé son soutien aux populations touchées.",
-      "summary_en": "Lewis Hamilton visited the Gaza Strip to observe humanitarian relief operations. The Formula 1 driver expressed support for the affected populations."
     }
   ]
 }
