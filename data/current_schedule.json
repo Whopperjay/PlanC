@@ -27848,31 +27848,6 @@
               }
             },
             {
-              "number": "30",
-              "position": "8",
-              "positionText": "8",
-              "points": "0",
-              "grid": "",
-              "laps": "",
-              "status": "Finished",
-              "Driver": {
-                "driverId": "lawson",
-                "permanentNumber": "30",
-                "code": "LAW",
-                "url": "http://en.wikipedia.org/wiki/Liam_Lawson",
-                "givenName": "Liam",
-                "familyName": "Lawson",
-                "dateOfBirth": "2002-02-11",
-                "nationality": "New Zealander"
-              },
-              "Constructor": {
-                "constructorId": "rb",
-                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
-                "name": "RB F1 Team",
-                "nationality": "Italian"
-              }
-            },
-            {
               "number": "10",
               "position": "9",
               "positionText": "9",
@@ -28145,6 +28120,31 @@
                 "url": "https://en.wikipedia.org/wiki/Cadillac_in_Formula_One",
                 "name": "Cadillac F1 Team",
                 "nationality": "American"
+              }
+            },
+            {
+              "number": "30",
+              "position": "22",
+              "positionText": "22",
+              "points": "0",
+              "grid": "",
+              "laps": "",
+              "status": "Finished",
+              "Driver": {
+                "driverId": "lawson",
+                "permanentNumber": "30",
+                "code": "LAW",
+                "url": "http://en.wikipedia.org/wiki/Liam_Lawson",
+                "givenName": "Liam",
+                "familyName": "Lawson",
+                "dateOfBirth": "2002-02-11",
+                "nationality": "New Zealander"
+              },
+              "Constructor": {
+                "constructorId": "rb",
+                "url": "https://en.wikipedia.org/wiki/Racing_Bulls",
+                "name": "RB F1 Team",
+                "nationality": "Italian"
               }
             }
           ]
