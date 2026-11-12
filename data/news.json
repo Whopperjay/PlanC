@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-12T19:25:25Z",
+  "last_updated": "2026-11-12T22:25:39Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a674b8d5a283",
+      "title": "Guenther Steiner suggests Max Verstappen could be better suited to lead Ferrari",
+      "title_fr": "Steiner suggère que Verstappen pourrait mieux diriger Ferrari",
+      "title_en": "Steiner says Verstappen could better lead Ferrari",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-max-verstappen-could-be-better-suited-to-lead-ferrari/10874192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/01QNX1q0/s6/motorsport-com-graphics-95.jpg",
+      "published_at": "2026-11-12T21:00:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de Haas, Guenther Steiner, remet en question le choix de Lewis Hamilton pour Ferrari, estimant que Max Verstappen serait plus adapté à la tête de l'équipe.",
+      "summary_en": "Haas chief Guenther Steiner questions Lewis Hamilton's fit for Ferrari, suggesting Max Verstappen might be a better choice to lead the team."
+    },
     {
       "id": "8b451ec8034b",
       "title": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La course de Brésil a mis à l'épreuve la capacité de la Formule 1 à gérer la pluie, avec un temps incertain dès la qualification et la course. Les équipes ont dû ajuster leurs stratégies en temps réel.",
       "summary_en": "The Brazilian GP tested F1's rain‑handling ability, with wet conditions expected from qualifying to the race. Teams had to adapt strategies on the fly."
-    },
-    {
-      "id": "c681bc35d918",
-      "title": "Lawson made sure Red Bull saw he helped Verstappen in Brazil after Mexico incident | Formula 1",
-      "title_fr": "Lawson met en lumière l’aide de Red Bull à Verstappen en Brésil",
-      "title_en": "Lawson highlights Red Bull's support for Verstappen in Brazil",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/11/lawson-made-sure-red-bull-saw-he-helped-verstappen-at-interlagos/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-10-20-57-55-1-SI202611080377.jpg",
-      "published_at": "2026-11-11T07:15:10+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson a souligné l’un des exemples les plus clairs de l’aide de Red Bull à Verstappen lors du Grand Prix du Brésil, après l’incident au Mexique.",
-      "summary_en": "Liam Lawson highlighted one of the clearest examples of Red Bull helping Verstappen during the Brazilian Grand Prix, following the incident in Mexico."
     }
   ]
 }
