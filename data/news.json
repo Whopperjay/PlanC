@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-12T10:21:06Z",
+  "last_updated": "2026-11-12T13:23:09Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "9e63b8d48891",
+      "title": "Fred Vasseur: Lewis Hamilton and Charles Leclerc “left my room joking together”",
+      "title_fr": "Vasseur: Hamilton et Leclerc ont réglé leurs différends",
+      "title_en": "Vasseur: Hamilton and Leclerc have settled their differences",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-lewis-hamilton-and-charles-leclerc-left-my-room-joking-together/10874079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YP7489X2/s6/motorsport-com-graphics-91-2.jpg",
+      "published_at": "2026-11-12T13:15:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de Ferrari, Fred Vasseur, a confirmé que Lewis Hamilton et Charles Leclerc ont résolu leurs tensions lors d’une discussion privée avant le Grand Prix de São Paulo. Les deux pilotes ont quitté la salle en plaisantant.",
+      "summary_en": "Ferrari team principal Fred Vasseur confirmed that Lewis Hamilton and Charles Leclerc resolved their tensions during a private sit-down before the São Paulo Grand Prix. The two drivers left the room joking."
+    },
+    {
+      "id": "8ca7da5062d5",
+      "title": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
+      "title_fr": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
+      "title_en": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-impressive-stats-underpinning-liam-lawsons-career-saving-f1-season/10874116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls.jpg",
+      "published_at": "2026-11-12T12:42:31+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed up keeping Lawson on ",
+      "summary_en": "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed up keeping Lawson on "
+    },
+    {
+      "id": "cf9bfd7d83c2",
+      "title": "Ralf Schumacher questions Lewis Hamilton's leadership as he issues Max Verstappen warning",
+      "title_fr": "Schumacher critique Hamilton après avertissement à Verstappen",
+      "title_en": "Schumacher Criticises Hamilton After Warning Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-questions-lewis-hamiltons-leadership-as-he-issues-max-verstappen-warning/10874111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/6Alv9e9Y/s6/motorsport-com-graphics-90.jpg",
+      "published_at": "2026-11-12T12:38:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ralf Schumacher estime que Max Verstappen aurait du mal à s’intégrer chez Mercedes et reproche à Lewis Hamilton de ne pas savoir diriger une équipe.",
+      "summary_en": "Ralf Schumacher says Max Verstappen would struggle at Mercedes and accuses Lewis Hamilton of never learning how to run a team."
+    },
+    {
+      "id": "2f84da09203a",
+      "title": "Russell partners with BRDC to launch karting academy",
+      "title_fr": "Russell lance une académie de karting à Silverstone",
+      "title_en": "Russell launches karting academy at Silverstone",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/russell-and-brdc-launch-karting-academy/10874110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
+      "published_at": "2026-11-12T12:27:55+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell a inauguré la GR63 Karting Academy à Silverstone, ouverte aux enfants de huit à neuf ans, avec un parcours en quatre étapes vers le sommet.",
+      "summary_en": "George Russell inaugurated the GR63 Karting Academy at Silverstone, open to eight-to-nine-year-old boys and girls, featuring a four-stage path to the top."
+    },
+    {
+      "id": "5149a0c04193",
+      "title": "George Russell launches karting academy",
+      "title_fr": "George Russell launches karting academy",
+      "title_en": "George Russell launches karting academy",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-launches-karting-academy/10874105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
+      "published_at": "2026-11-12T12:18:46+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. <br />The eight-time grand prix w",
+      "summary_en": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. <br />The eight-time grand prix w"
+    },
+    {
+      "id": "2bb71f1bde0c",
+      "title": "Ayrton Senna's 1994 Williams F1 car heads to auction with $6million estimate",
+      "title_fr": "Voiture de Senna 1994 mise aux enchères à New York",
+      "title_en": "Senna's 1994 Williams car goes to auction in New York",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ayrton-sennas-1994-williams-f1-car-heads-to-auction-with-6million-estimate/10874089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZX9ro6/s6/motorsport-com-graphics-89.jpg",
+      "published_at": "2026-11-12T11:43:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le FW16 de Ayrton Senna, utilisé lors de sa dernière saison en 1994, sera vendu aux enchères à New York. Le châssis FW16B-01 est proposé par RM Sotheby's avec une estimation de 4 à 6 millions de dollars.",
+      "summary_en": "Ayrton Senna's 1994 Williams FW16, used in his final season, is up for auction in New York. RM Sotheby's is offering chassis FW16B-01 with an estimated price of $4-6 million."
+    },
+    {
+      "id": "2e8313c56818",
+      "title": "Racing Bulls keep Lawson alongside Lindblad for 2027 season | Formula 1",
+      "title_fr": "Racing Bulls keep Lawson alongside Lindblad for 2027 season | Formula 1",
+      "title_en": "Racing Bulls keep Lawson alongside Lindblad for 2027 season | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/12/racing-bulls-confirm-lawson-will-remain-with-team-in-2027-alongside-lindblad/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-12-11-26-42-1-SI202610230451.jpg",
+      "published_at": "2026-11-12T11:06:09+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Racing Bulls has confirmed an unchanged driver line-up for the 2027 Formula 1 season.",
+      "summary_en": "Racing Bulls has confirmed an unchanged driver line-up for the 2027 Formula 1 season."
+    },
+    {
+      "id": "9769531ff797",
+      "title": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
+      "title_fr": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
+      "title_en": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairing/10874063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls-2.jpg",
+      "published_at": "2026-11-12T11:06:00+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 campaign, partnering Arvid Lindblad for a second, straight season.<br />They have formed a formidable duo this yea",
+      "summary_en": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 campaign, partnering Arvid Lindblad for a second, straight season.<br />They have formed a formidable duo this yea"
+    },
+    {
+      "id": "f9ff659d8a23",
+      "title": "Liam Lawson retained by Racing Bulls for 2027 alongside Arvid Lindblad",
+      "title_fr": "Lawson et Lindblad restent chez Racing Bulls pour 2027",
+      "title_en": "Lawson and Lindblad stay with Racing Bulls for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YWKAEqxY/s6/arvid-lindblad-racing-bulls-li.jpg",
+      "published_at": "2026-11-12T11:05:10+00:00",
+      "race_id": "italy",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Liam Lawson et Arvid Lindblad prolongent leur contrat avec Racing Bulls pour la saison 2027, après une année où le duo a mené l’équipe à la cinquième place du championnat des constructeurs.",
+      "summary_en": "Liam Lawson and Arvid Lindblad will stay with Racing Bulls for the 2027 Formula 1 season, following a year that saw the pair push the team to fifth in the constructors' championship."
+    },
+    {
+      "id": "a34ad573c83a",
+      "title": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
+      "title_fr": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
+      "title_en": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/2dEorgDY/s6/motorsport-com-graphics-95-2.jpg",
+      "published_at": "2026-11-12T10:35:02+00:00",
+      "race_id": "uk",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to ch",
+      "summary_en": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to ch"
+    },
     {
       "id": "42c18a433f79",
       "title": "Stats: Verstappen claims second place from lowest grid position since 1983 | 2026 Brazilian Grand Prix stats and facts",
@@ -9,7 +199,7 @@
       "title_en": "Verstappen finishes second from lowest grid position since 1983 at 2026 Brazilian GP",
       "source": "racefans.net",
       "url": "https://www.racefans.net/2026/11/12/stats-verstappen-claims-second-place-from-lowest-grid-position-since-1983/",
-      "image_url": null,
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-17-59-01-3-SI202611080333.jpg",
       "published_at": "2026-11-12T10:11:49+00:00",
       "race_id": "brazil",
       "category": "résultat",
@@ -28,7 +218,7 @@
       "title_en": "Russell launches GR63 Academy to spot future racing stars",
       "source": "racefans.net",
       "url": "https://www.racefans.net/2026/11/12/social-media-russell-launches-gr63-academy-to-find-25-future-racers/",
-      "image_url": null,
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/russell-kart.jpg",
       "published_at": "2026-11-12T09:29:55+00:00",
       "race_id": null,
       "category": "rumeur",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le calendrier 2026 de la Formule 1 conserve les Grands Prix du Qatar et d'Abu Dhabi, mais retire Imola. Aucun plan de secours n'est prévu si la guerre en Iran s'intensifie.",
       "summary_en": "The 2026 F1 calendar keeps the Qatar and Abu Dhabi Grands Prix but drops Imola. No backup is planned if the Iran war escalates."
-    },
-    {
-      "id": "e00dcbe00cda",
-      "title": "FIA reveals ADUO results in final review of 2026 F1 season",
-      "title_fr": "FIA publie les résultats finaux des ADUO 2026",
-      "title_en": "FIA releases final ADUO results for 2026 season",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws-2.jpg",
-      "published_at": "2026-11-10T11:45:39+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a publié les résultats finaux des ADUO pour la saison 2026, sans aucune modification accordée aux constructeurs d'unités de puissance. Le mécanisme de jetons permet aux constructeurs de rattraper un retard.",
-      "summary_en": "The FIA has released the final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 season, granting no changes to any power-unit manufacturers. The token mechanism allows manufacturers to catch up if they fall behind."
-    },
-    {
-      "id": "cfa4e3507301",
-      "title": "FIA reveals latest ADUO results in final review of 2026 F1 season",
-      "title_fr": "FIA publie les derniers résultats ADUO pour la saison 2026",
-      "title_en": "FIA releases latest ADUO results for 2026 season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-10T11:42:46+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a publié les résultats finaux des Opportunités de Développement et de Mise à Niveau Additionnelles (ADUO) pour la saison 2026, sans accorder de modifications aux constructeurs d'unités de puissance.",
-      "summary_en": "The FIA released the final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 season, granting no changes to any power‑unit manufacturers."
-    },
-    {
-      "id": "26ac3fcffebd",
-      "title": "Hadjar kept asking Red Bull if they would reverse his position swap with Verstappen | Formula 1",
-      "title_fr": "Hadjar réclame le retour de la place qu’il a donnée à Verstappen",
-      "title_en": "Hadjar asks Red Bull to reverse his position swap with Verstappen",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/10/hadjar-repeatedly-asked-red-bull-if-they-would-reverse-his-position-swap-with-verstappen/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hadjar-verstappen.jpg",
-      "published_at": "2026-11-10T11:41:32+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a sollicité à plusieurs reprises son ingénieur de course chez Red Bull pour récupérer la place qu’il a cédée à Max Verstappen.",
-      "summary_en": "Isack Hadjar repeatedly asked his Red Bull race engineer to get back the position he gave to Max Verstappen."
-    },
-    {
-      "id": "c87a99616b55",
-      "title": "No F1 engine manufacturers to get extra upgrades after FIA’s third ADUO evaluation | Formula 1",
-      "title_fr": "Aucun constructeur moteur ne bénéficiera d'améliorations supplémentaires après l'évaluation ADUO",
-      "title_en": "No engine manufacturers to receive extra upgrades after FIA's third ADUO evaluation",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-14-53-41-4-A2621796.jpg",
-      "published_at": "2026-11-10T11:20:33+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de la FIA, Nikolas Tombazis, a défendu les règles ADUO tout en précisant qu'elles pourraient être révisées dans les saisons à venir.",
-      "summary_en": "FIA single-seater director Nikolas Tombazis defended the ADUO rules but said they may be revised in future seasons."
-    },
-    {
-      "id": "3953ac6b18c5",
-      "title": "Honda struggling to explain Lance Stroll’s 13th DNF of the season",
-      "title_fr": "Honda cherche l’origine des problèmes de batterie de Stroll",
-      "title_en": "Honda seeks root cause of Stroll's battery woes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/Y9lNZkP2/s6/lance-stroll-aston-martin-raci-2.jpg",
-      "published_at": "2026-11-10T10:25:06+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Honda doit identifier la cause des problèmes de batterie qui ont conduit Lance Stroll à abandonner pour la treizième fois cette saison, après son départ à 30 tours à São Paulo, 18e place.",
-      "summary_en": "Honda is trying to pinpoint the root cause of the battery issues that forced Lance Stroll to retire for the thirteenth time this season, after he exited at 30 laps in São Paulo, 18th place."
-    },
-    {
-      "id": "cfa4ee572011",
-      "title": "Laurent Mekies: Liam Lawson’s fate has nothing to do with me",
-      "title_fr": "Mekies : la décision sur Lawson revient aux Racing Bulls",
-      "title_en": "Mekies: Lawson's fate is up to Racing Bulls",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YE9wPXPY/s6/liam-lawson-racing-bulls-laure.jpg",
-      "published_at": "2026-11-10T08:28:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Laurent Mekies déclare que la décision concernant Liam Lawson appartient aux Racing Bulls, tandis que le pilote de F2 Nikola Tsolov reste le favori pour le siège de 2027, même si son état de forme est incertain.",
-      "summary_en": "Laurent Mekies says the decision on Liam Lawson belongs to Racing Bulls, while F2 title contender Nikola Tsolov remains the favourite for the 2027 seat, though his form is uncertain."
-    },
-    {
-      "id": "171986f403ab",
-      "title": "How good is Hamilton and how long can he stay in F1? - Q&A",
-      "title_fr": "Hamilton : performance et avenir en F1, questions/réponses",
-      "title_en": "Hamilton: performance and future in F1, Q&A",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmp3g005zyxko?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cadd/live/b2a33930-dc4d-11f1-b441-2b33b063138f.jpg",
-      "published_at": "2026-11-10T08:00:49+00:00",
-      "race_id": "brazil",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Andrew Benson, correspondant BBC F1, répond aux questions les plus pressantes sur la performance de Lewis Hamilton et la durée de sa carrière après le Grand Prix de São Paulo.",
-      "summary_en": "BBC F1 correspondent Andrew Benson answers the most pressing questions about Lewis Hamilton's performance and the length of his career after the Sao Paulo Grand Prix."
-    },
-    {
-      "id": "7e8afcd19b99",
-      "title": "F1 Las Vegas Grand Prix announces pre-race music line-up",
-      "title_fr": "Steve Aoki revient à Las Vegas pour le Grand Prix",
-      "title_en": "Steve Aoki returns to Las Vegas Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b5XR0/s6/motorsport-com-graphics-84.jpg",
-      "published_at": "2026-11-09T23:57:29+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le DJ américain Steve Aoki revient sur le grid de Las Vegas pour une performance avant la course du 21 novembre, accompagné de MORTEN et de la chanteuse Jordin Sparks.",
-      "summary_en": "American DJ Steve Aoki returns to the Las Vegas Grand Prix grid for a pre‑race performance on 21 November, joined by DJ MORTEN and singer Jordin Sparks."
-    },
-    {
-      "id": "427c9fdfc970",
-      "title": "Lewis Hamilton to share flight with Mercedes after former team's F1 title triumph",
-      "title_fr": "Hamilton partage le même avion que Mercedes après le titre des constructeurs",
-      "title_en": "Hamilton shares flight with Mercedes after constructors' title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-to-share-flight-with-mercedes-after-former-teams-f1-title-triumph/10873483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2QedBGJ2/s6/motorsport-com-graphics-83.jpg",
-      "published_at": "2026-11-09T23:30:48+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton, champion septuple, voyagera avec Mercedes après que Toto Wolff ait annoncé que le pilote Ferrari partagerait l’avion avec les champions des constructeurs. Le retour d’Interlagos promet d’être inattendu.",
-      "summary_en": "Lewis Hamilton, the seven‑time champion, will fly with Mercedes after Toto Wolff revealed that the Ferrari driver would share the plane with the constructors’ champions. The Interlagos return is set to be awkward."
-    },
-    {
-      "id": "199b603bc139",
-      "title": "George Russell \"keeps getting kicked\" as F1 pundit addresses 2026 struggles",
-      "title_fr": "Hinchcliffe critique Russell après une journée difficile à Brésil",
-      "title_en": "Hinchcliffe criticises Russell after tough day in Brazil",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-keeps-getting-kicked-as-f1-pundit-addresses-2026-struggles/10873477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6lmAR5k0/s6/motorsport-com-graphics-82.jpg",
-      "published_at": "2026-11-09T22:59:41+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "James Hinchcliffe, ancien pilote d'IndyCar et commentateur F1 TV, a déclaré que George Russell semblait 'un peu découragé' après une journée difficile au Grand Prix du Brésil. Mercedes a remporté le championnat des constructeurs.",
-      "summary_en": "Former IndyCar driver and F1 TV pundit James Hinchcliffe said George Russell looked 'a bit defeated' after a tough afternoon at the Brazilian Grand Prix, while Mercedes clinched the constructors' title."
     }
   ]
 }
