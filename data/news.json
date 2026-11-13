@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-13T07:26:57Z",
+  "last_updated": "2026-11-13T10:28:02Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "33783d9a925c",
+      "title": "The Kimi Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
+      "title_fr": "Kimi Antonelli, le champion qui fait des blagues dans le garage Mercedes",
+      "title_en": "Kimi Antonelli, the champion who pulls pranks in the Mercedes garage",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-kimi-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion-/10874164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmAwPK0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-13T10:05:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le nouveau champion du monde, Kimi Antonelli, surprend les mécaniciens de Mercedes en leur faisant des blagues, notamment en pinçant leurs tétons. Cette habitude inhabituelle crée une ambiance de folie dans le garage.",
+      "summary_en": "Kimi Antonelli, the newly crowned Formula One world champion, is known for pranking Mercedes mechanics, even pinching their nipples during pit stops. The odd habit has become a running joke inside the team."
+    },
+    {
+      "id": "c8265cd6b910",
+      "title": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
+      "title_fr": "Antonelli, le champion qui fait des blagues dans le garage Mercedes",
+      "title_en": "Antonelli, the champion who pulls pranks in the Mercedes garage",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-13T10:04:48+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, nouveau champion du monde, surprend les mécaniciens de Mercedes en leur faisant des blagues, notamment en pinçant leurs mamelons. Cette farce montre son côté espiègle et son intégration dans l’équipe.",
+      "summary_en": "Kimi Antonelli, the newly crowned world champion, surprises Mercedes mechanics with pranks, including pinching their nipples. The joke highlights his playful side and his integration into the team."
+    },
+    {
+      "id": "97eff65bf581",
+      "title": "Spotlight: FIA pulls F1 reporter’s pass over column calling Leclerc a ‘sneaky b*****d’ | Brief",
+      "title_fr": "Spotlight: FIA pulls F1 reporter’s pass over column calling Leclerc a ‘sneaky b*****d’ | Brief",
+      "title_en": "Spotlight: FIA pulls F1 reporter’s pass over column calling Leclerc a ‘sneaky b*****d’ | Brief",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/13/spotlight-fia-pulls-f1-reporters-pass-over-column-calling-leclerc-a-sneaky-bd/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-07-10-56-53-6-12-australia-gp-sat-2026_29e56545-780f-4b8d-b9ef-47200e838052.jpg",
+      "published_at": "2026-11-13T09:33:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "FIA pulls F1 reporter's pass over Leclerc 'b*****d' column",
+      "summary_en": "FIA pulls F1 reporter's pass over Leclerc 'b*****d' column"
+    },
+    {
+      "id": "5eaac6f42cbb",
+      "title": "F1 driver contracts: How long is each driver tied down for?",
+      "title_fr": "Durée des contrats F1 : combien de temps chaque pilote est lié",
+      "title_en": "F1 driver contracts: How long each driver is tied down",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-driver-contracts-how-long-is-each-driver-tied-down-for/10850679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
+      "published_at": "2026-11-13T09:32:20+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Les contrats des pilotes de Formule 1 sont souvent gardés secrets, mais la durée de chaque accord est généralement connue. L'article détaille les durées des contrats actuels, notamment celui de Lando Norris jusqu'en 2030.",
+      "summary_en": "F1 driver contracts are usually kept confidential, but the length of each deal is often public. The article outlines the current contract durations, including Lando Norris’s four‑year deal with McLaren until 2030."
+    },
+    {
+      "id": "0ba6dbeaece5",
+      "title": "Grosjean admits his single-seater career is likely over after ending IndyCar season 19th | Formula 1",
+      "title_fr": "Grosjean admits his single-seater career is likely over after ending IndyCar season 19th | Formula 1",
+      "title_en": "Grosjean admits his single-seater career is likely over after ending IndyCar season 19th | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/13/grosjean-admits-his-single-seater-racing-career-is-likely-over-after-ending-indycar-season-19th/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-09-05-16-24-17-1.jpg",
+      "published_at": "2026-11-13T08:39:39+00:00",
+      "race_id": "bahrain",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Former Formula 1 driver Romain Grosjean, who survived a fireball crash six years ago in Bahrain, is preparing to call time on his single-seater racing career.",
+      "summary_en": "Former Formula 1 driver Romain Grosjean, who survived a fireball crash six years ago in Bahrain, is preparing to call time on his single-seater racing career."
+    },
     {
       "id": "5de73707b796",
       "title": "Whatever happened to the diamond that went missing in F1 crash?",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Un lecteur exprime son contentement face à la décision de la F1 de conserver les courses au Moyen-Orient. Il estime que ces événements renforceront la visibilité mondiale du sport",
       "summary_en": "A reader expresses satisfaction with F1's decision to keep the Middle East races, believing the events will boost the sport's global visibility"
-    },
-    {
-      "id": "7d67620b07cd",
-      "title": "Max Verstappen explains why he’s so good in the rain in Brazil",
-      "title_fr": "Verstappen révèle pourquoi il excelle sous la pluie à São Paulo",
-      "title_en": "Verstappen explains why he excels in the rain at São Paulo",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-explains-why-hes-so-good-in-the-rain-in-brazil/10873830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YP748ne2/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-11T12:23:42+00:00",
-      "race_id": "usa",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a détaillé les raisons de son succès sous la pluie à Interlagos, où il a obtenu le plus de podiums de sa carrière. Le pilote Red Bull souligne son instinct et son expérience sur circuits mouillés.",
-      "summary_en": "Max Verstappen explained why he excels in wet conditions at Interlagos, where he has the highest podium rate in his career. The Red Bull driver credits his instinct and experience on slippery tracks."
-    },
-    {
-      "id": "f53551a6178c",
-      "title": "Andrea Stella wants McLaren to \"finally\" make peace with Las Vegas",
-      "title_fr": "Stella veut que McLaren trouve enfin la paix à Las Vegas",
-      "title_en": "Stella urges McLaren to finally find peace in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/andrea-stella-wants-mclaren-to-finally-make-peace-with-las-vegas/10873819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YK15xn10/s6/motorsport-com-graphics-89-2.jpg",
-      "published_at": "2026-11-11T11:18:24+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Andrea Stella affirme que McLaren doit enfin surmonter les difficultés de Las Vegas, après un week-end réussi à São Paulo avec Lando Norris et Oscar Piastri.",
-      "summary_en": "Andrea Stella says McLaren must finally overcome Las Vegas' historic challenges, after a successful São Paulo week-end featuring Lando Norris' third win and Oscar Piastri's pace boost."
-    },
-    {
-      "id": "92aa934635ca",
-      "title": "On This Day: F1’s first female racer, Maria Teresa de Filiipis, born 100 years ago | Formula 1",
-      "title_fr": "Maria Teresa de Filiipis, pionnière féminine de F1, fête ses 100 ans",
-      "title_en": "Maria Teresa de Filiipis, F1's first female driver, turns 100",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/11/on-this-day-f1s-first-female-racer-maria-teresa-de-filiipis-born-100-years-ago/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/de-filippis-scaled.jpg",
-      "published_at": "2026-11-11T11:18:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Maria Teresa de Filiipis, la première pilote féminine de Formule 1, a célébré son centième anniversaire aujourd'hui. Son parcours ouvre la voie aux femmes dans le sport automobile.",
-      "summary_en": "Maria Teresa de Filiipis, the first female Formula 1 driver, celebrated her 100th birthday today. Her pioneering career paved the way for women in motorsport."
-    },
-    {
-      "id": "c5ebc13f5b65",
-      "title": "Oscar Piastri admits he is \"missing\" the stress of an F1 title fight",
-      "title_fr": "Piastri avoue qu'il manque la pression d'un combat pour le titre",
-      "title_en": "Piastri admits he misses the pressure of a title fight",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-admits-he-is-missing-the-stress-of-an-f1-title-fight/10873816/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/27No3JE0/s6/motorsport-com-graphics-88.jpg",
-      "published_at": "2026-11-11T10:54:44+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri, pilote de McLaren, a déclaré qu'il manque la tension d'un combat pour le championnat du monde. Après une saison 2026 difficile, il se sent moins motivé sans la course à la victoire.",
-      "summary_en": "McLaren's Oscar Piastri said he misses the pressure of a title fight. After a tough 2026 season, he feels less motivated without the championship battle."
-    },
-    {
-      "id": "81dfb94436b8",
-      "title": "\"Colapinto never hit the apex\" – Audi's take on contentious Nico Hulkenberg penalty in Brazilian GP",
-      "title_fr": "Colapinto n'a pas touché l'apex : Audi critique la pénalité de Hulkenberg",
-      "title_en": "Colapinto never hit the apex: Audi criticises Hulkenberg penalty",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/colapinto-never-hit-the-apex-audis-take-on-contentious-hulkenberg-penalty-in-sao-paulo-gp/10873551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2QedBbJ2/s6/nico-hulkenberg-audi-f1-team.jpg",
-      "published_at": "2026-11-11T10:13:12+00:00",
-      "race_id": "brazil",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Audi, classé huitième du championnat des constructeurs, remet en cause la pénalité infligée à Nico Hulkenberg lors du Grand Prix du Brésil, soulignant que Colapinto n'a pas touché l'apex.",
-      "summary_en": "Audi, ranked eighth in the constructors' standings, challenges the penalty given to Nico Hulkenberg at the Brazilian GP, arguing that Colapinto never hit the apex."
     }
   ]
 }
