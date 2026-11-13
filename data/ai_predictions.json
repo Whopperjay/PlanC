@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T13:00:20Z",
-  "model": "claude",
+  "generated_at": "2026-11-13T16:30:18Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -166,6 +166,21 @@
       "key_factor_fr": "Avance de la Mercedes, talent de Verstappen à Interlagos, risque de pluie",
       "news_used_ids": [],
       "generated_at": "2026-11-08T13:00:20Z"
+    },
+    {
+      "event_id": "las_vegas_qualifying",
+      "race_id": "las_vegas",
+      "session_type": "qualifying",
+      "session_date": "2026-11-21T04:00:00+00:00",
+      "p1": "norris",
+      "p2": "russell",
+      "p3": "antonelli",
+      "reasoning_fr": "Norris a dominé la dernière qualification à Rio (P1) et a converti en victoire, montrant une excellente vitesse sur un tour unique, essentielle sur le circuit urbain de Las Vegas. Russell, deuxième à Rio, possède une constance élevée et bénéficie d'une Mercedes bien équilibrée pour les rues. Antonelli, troisième à Rio et leader du championnat, combine le rythme d'un jeune talent avec la puissance ",
+      "reasoning_en": "Norris topped the Brazilian qualifying and turned it into a race win, proving his one‑lap speed crucial for a street circuit like Las Vegas. Russell, second in Brazil, shows consistent pace and a well‑balanced Mercedes suited to tight layouts. Antonelli, third in Brazil and championship leader, blends youthful rhythm with Mercedes power, placing him firmly in the top three on this demanding track.",
+      "confidence": "high",
+      "key_factor_fr": "Performance récente en qualification sur circuits urbains",
+      "news_used_ids": [],
+      "generated_at": "2026-11-13T16:30:17Z"
     }
   ]
 }
