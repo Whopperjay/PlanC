@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-13T16:29:39Z",
+  "last_updated": "2026-11-13T19:30:26Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "00334c301641",
+      "title": "Guenther Steiner suggests Mark Webber became too involved in Oscar Piastri’s career",
+      "title_fr": "Steiner accuse Webber d'avoir trop influencé Piastri",
+      "title_en": "Steiner accuses Webber of over-influencing Piastri",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-mark-webber-became-too-involved-in-oscar-piastris-career/10874383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6zoD8dL0/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-13T17:20:10+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de Haas, Guenther Steiner, affirme que Mark Webber a trop impliqué Oscar Piastri dans la seconde moitié de 2025, avant que le pilote McLaren ne décide de gérer sa carrière seul.",
+      "summary_en": "Former Haas chief Guenther Steiner claims Mark Webber over-involved Oscar Piastri in the second half of 2025, before the McLaren driver decided to steer his career alone."
+    },
+    {
+      "id": "0070c20f5e74",
+      "title": "The surprising convergence behind F1's increasingly competitive 2026 season",
+      "title_fr": "The surprising convergence behind F1's increasingly competitive 2026 season",
+      "title_en": "The surprising convergence behind F1's increasingly competitive 2026 season",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/the-surprising-convergence-behind-f1s-increasingly-competitive-2026-season/10874375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZX9KA6/s6/lando-norris-mclaren-liam-laws.jpg",
+      "published_at": "2026-11-13T17:14:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "As George Russell took pole for F1 2026's curtain raiser in Australia by a whopping eight tenths over Mercedes's nearest rivals, you could see the collective heads drop in the paddock.<br />With this ",
+      "summary_en": "As George Russell took pole for F1 2026's curtain raiser in Australia by a whopping eight tenths over Mercedes's nearest rivals, you could see the collective heads drop in the paddock.<br />With this "
+    },
+    {
+      "id": "fec60adb4c1f",
+      "title": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
+      "title_fr": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
+      "title_en": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/27vEn7m0/s6/daniel-ricciardo-rb-f1-team.jpg",
+      "published_at": "2026-11-13T17:06:56+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he requi",
+      "summary_en": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he requi"
+    },
     {
       "id": "e69aa7882a1e",
       "title": "Damon Hill: Ferrari has a “political problem” as Lewis Hamilton “rebuilt himself”",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a terminé deuxième, sortant de la plus basse position de grille depuis 1983, lors du Grand Prix du Brésil 2026. Le circuit a également vu le premier pilote brésilien débutant en presque 20 ans.",
       "summary_en": "Max Verstappen finished second, emerging from the lowest grid position since 1983, at the 2026 Brazilian Grand Prix. The race also featured the first home debutant in almost 20 years."
-    },
-    {
-      "id": "585cf349e2f0",
-      "title": "Social media: Russell launches GR63 Academy to find 25 future racers | Brief",
-      "title_fr": "Russell lance l'Académie GR63 pour dénicher les futurs pilotes",
-      "title_en": "Russell launches GR63 Academy to spot future racing stars",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/12/social-media-russell-launches-gr63-academy-to-find-25-future-racers/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/russell-kart.jpg",
-      "published_at": "2026-11-12T09:29:55+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote de Formule 1 Lando Norris a créé l'Académie GR63, une école de karting visant à repérer les talents cachés pour la prochaine génération de pilotes.",
-      "summary_en": "Formula 1 driver Lando Norris has launched the GR63 Academy, a karting school aimed at spotting hidden talents for the next generation of racers."
-    },
-    {
-      "id": "95f940f00e37",
-      "title": "Max Verstappen on Ferrari clashes: \"I would never sign two number-one drivers\"",
-      "title_fr": "Verstappen dénonce la présence de deux pilotes de tête chez Ferrari",
-      "title_en": "Verstappen criticises Ferrari for having two top drivers",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2jEAGa90/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": "2026-11-12T09:05:37+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a déclaré qu'il ne signerait jamais deux pilotes de tête, après le clash de Ferrari à Mexico. Le pilote Red Bull a souligné que l'incident était le résultat d'une dynamique d'équipe.",
-      "summary_en": "Max Verstappen said he would never sign two top drivers after Ferrari's clash in Mexico. The Red Bull driver said the incident stemmed from team dynamics."
-    },
-    {
-      "id": "ae5ec84c8818",
-      "title": "Freddie Slater's 'surreal' first taste of Formula 1",
-      "title_fr": "Freddie Slater's 'surreal' first taste of Formula 1",
-      "title_en": "Freddie Slater's 'surreal' first taste of Formula 1",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/news/articles/c6z0k771043xo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd2/live/04ef2330-dd4c-11f1-a2ff-1f577adb9bef.jpg",
-      "published_at": "2026-11-12T06:11:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The rising star tells the BBC about his experience taking part in F1 practice in Mexico.",
-      "summary_en": "The rising star tells the BBC about his experience taking part in F1 practice in Mexico."
     }
   ]
 }
