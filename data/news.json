@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-13T04:26:32Z",
+  "last_updated": "2026-11-13T07:26:57Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5de73707b796",
+      "title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "title_fr": "Diamant disparu après l'accident de la Formule 1",
+      "title_en": "Missing diamond after F1 crash",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
+      "published_at": "2026-11-13T06:12:20+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Un diamant aurait disparu après l'accident d'une voiture de Formule 1. Les enquêteurs cherchent à déterminer son sort, mais aucune preuve concluante n'a encore été trouvée.",
+      "summary_en": "A diamond reportedly went missing after a Formula 1 car crashed. Investigators are looking into its whereabouts, but no conclusive evidence has surfaced yet."
+    },
     {
       "id": "7f824d2e4a9f",
       "title": "On This Day: Verstappen stars as Hamilton wins soaked Brazilian Grand Prix | Brief",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Audi, classé huitième du championnat des constructeurs, remet en cause la pénalité infligée à Nico Hulkenberg lors du Grand Prix du Brésil, soulignant que Colapinto n'a pas touché l'apex.",
       "summary_en": "Audi, ranked eighth in the constructors' standings, challenges the penalty given to Nico Hulkenberg at the Brazilian GP, arguing that Colapinto never hit the apex."
-    },
-    {
-      "id": "5f48e33c5568",
-      "title": "What the Brazilian GP revealed about F1's ability to cope with rain",
-      "title_fr": "Interlagos : la pluie révèle les faiblesses de la F1",
-      "title_en": "Interlagos rain exposes F1's shortcomings",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6DGg53wY/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-11-11T09:26:23+00:00",
-      "race_id": "brazil",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "La course du Grand Prix brésilien a montré que la Formule 1 peine à gérer la pluie, avec des stratégies de pneus et des arrêts de course compliqués.",
-      "summary_en": "The Brazilian Grand Prix showed that Formula 1 struggles to manage rain, with complex tire strategies and race stops."
     }
   ]
 }
