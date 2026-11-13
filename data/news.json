@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-13T19:30:26Z",
+  "last_updated": "2026-11-13T22:31:05Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6d78c933e2e6",
+      "title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
+      "title_fr": "Allison dévoile la technique audacieuse qui a permis à Antonelli de devenir champion",
+      "title_en": "Allison reveals the daring trick that helped Antonelli become champion",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BEmE2/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-13T21:56:05+00:00",
+      "race_id": "italy",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "James Allison, directeur technique de Mercedes, explique comment l'utilisation audacieuse d'outils sur le volant de Kimi Antonelli a contribué à son titre de champion du monde en 2026, à l'âge de 20 ans.",
+      "summary_en": "Mercedes technical director James Allison explains how Kimi Antonelli’s bold use of steering‑wheel tools helped him win the 2026 world title at age 20."
+    },
     {
       "id": "00334c301641",
       "title": "Guenther Steiner suggests Mark Webber became too involved in Oscar Piastri’s career",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to ch",
       "summary_en": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to ch"
-    },
-    {
-      "id": "42c18a433f79",
-      "title": "Stats: Verstappen claims second place from lowest grid position since 1983 | 2026 Brazilian Grand Prix stats and facts",
-      "title_fr": "Verstappen second depuis 1983, Brésil 2026",
-      "title_en": "Verstappen finishes second from lowest grid position since 1983 at 2026 Brazilian GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/12/stats-verstappen-claims-second-place-from-lowest-grid-position-since-1983/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-17-59-01-3-SI202611080333.jpg",
-      "published_at": "2026-11-12T10:11:49+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a terminé deuxième, sortant de la plus basse position de grille depuis 1983, lors du Grand Prix du Brésil 2026. Le circuit a également vu le premier pilote brésilien débutant en presque 20 ans.",
-      "summary_en": "Max Verstappen finished second, emerging from the lowest grid position since 1983, at the 2026 Brazilian Grand Prix. The race also featured the first home debutant in almost 20 years."
     }
   ]
 }
