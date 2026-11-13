@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-13T13:28:50Z",
+  "last_updated": "2026-11-13T16:29:39Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e69aa7882a1e",
+      "title": "Damon Hill: Ferrari has a “political problem” as Lewis Hamilton “rebuilt himself”",
+      "title_fr": "Hill dénonce la politique de Ferrari après la réunion avec Hamilton",
+      "title_en": "Hill criticises Ferrari's politics after meeting with Hamilton",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/damon-hill-ferrari-has-a-political-problem-as-lewis-hamilton-rebuilt-himself-after-abu-dhabi-202/10874278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVjRDMY/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": "2026-11-13T16:25:05+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Damon Hill accuse Ferrari de dissimuler un conflit interne après que le directeur technique Fred Vasseur ait déclaré que Hamilton et Leclerc se sont retrouvés en privé. Le champion 1996 ne croit pas à la cohésion apparente.",
+      "summary_en": "Damon Hill accuses Ferrari of hiding an internal rift after team principal Fred Vasseur said Hamilton and Leclerc had a private meeting. The 1996 champion doubts the apparent harmony."
+    },
+    {
+      "id": "1482ab5468e5",
+      "title": "Las Vegas GP reveals neon sign-inspired trophy design",
+      "title_fr": "Trophée Las Vegas inspiré des néons dévoilé",
+      "title_en": "Las Vegas GP unveils neon-inspired trophy",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/6zoD8dJ0/s6/20949for-2026-f1-trophy206172.jpg",
+      "published_at": "2026-11-13T16:09:45+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix de Las Vegas présente un trophée de 3,6 kg, 56 cm de haut, inspiré des néons emblématiques de la ville. Conçu en six mois, il compte 122 lumières.",
+      "summary_en": "The Las Vegas Grand Prix unveiled a 3.6‑kg, 56‑cm trophy inspired by the city’s neon lights. Built over six months, it features 122 lights."
+    },
+    {
+      "id": "2f3a7739b1b3",
+      "title": "Featured Comment: Pay more attention to Racing Bulls helping Red Bull | Brief",
+      "title_fr": "Racing Bulls, l'allié inattendu de Red Bull",
+      "title_en": "Racing Bulls, the unexpected ally of Red Bull",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/13/featured-comment-pay-more-attention-to-racing-bulls-helping-red-bull/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-29-10-01-48-3-SI202603290536.jpg",
+      "published_at": "2026-11-13T15:35:32+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Les Racing Bulls méritent plus d'attention pour leur soutien à Red Bull, une équipe concurrente. Cette collaboration soulève des questions sur la neutralité des équipes.",
+      "summary_en": "Racing Bulls deserve more scrutiny for supporting Red Bull, a rival team. Their collaboration raises questions about team neutrality."
+    },
+    {
+      "id": "069660e76511",
+      "title": "Mercedes could only gamble on Kimi Antonelli because of George Russell, Toto Wolff told staff",
+      "title_fr": "Mercedes ne risque pas d'Antonelli sans Russell, dit Wolff",
+      "title_en": "Mercedes could only gamble on Antonelli with Russell, says Wolff",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-could-only-gamble-on-kimi-antonelli-because-of-george-russell-toto-wolff-told-staff/10874338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmARg80/s6/motorsport-com-graphics-100.jpg",
+      "published_at": "2026-11-13T15:30:07+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a expliqué que Mercedes ne pouvait prendre le risque de promouvoir Kimi Antonelli sans déjà compter sur George Russell. Le pilote italien, champion en 2025, rejoint l'équipe après la sortie de Lewis Hamilton.",
+      "summary_en": "Toto Wolff said Mercedes could only risk promoting Kimi Antonelli because they already had George Russell. The Italian champion, who won his first title in 2025, joins the team after Lewis Hamilton left for Ferrari."
+    },
     {
       "id": "e43bf0fda234",
       "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The rising star tells the BBC about his experience taking part in F1 practice in Mexico.",
       "summary_en": "The rising star tells the BBC about his experience taking part in F1 practice in Mexico."
-    },
-    {
-      "id": "65693225c30c",
-      "title": "Final Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6million",
-      "title_fr": "SLR McLaren Stirling Moss de Mercedes-Benz mise aux enchères pour plus de 6 millions de dollars",
-      "title_en": "Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6 million",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/final-mercedes-benz-slr-mclaren-stirling-moss-heads-to-auction-for-over-6million/10873978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YBVjRG7Y/s6/motorsport-com-graphics-88.jpg",
-      "published_at": "2026-11-12T00:31:56+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le dernier SLR McLaren Stirling Moss de Mercedes-Benz, numéro de châssis 75, est de retour sur le marché. RM Sotheby's l'évalue à plus de 6 millions de dollars et l'enchère se tiendra en décembre.",
-      "summary_en": "The final Mercedes-Benz SLR McLaren Stirling Moss, chassis 75, is back on the market. RM Sotheby's values the roofless speedster at over $6 million and the auction will run in December."
-    },
-    {
-      "id": "d80aa086d055",
-      "title": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
-      "title_fr": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
-      "title_en": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-credits-toto-wolffs-loyalty-for-mercedes-f1-title-return-nobody-was-hired-or-fired/10873975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/68VwM3B2/s6/motorsport-com-graphics-94.jpg",
-      "published_at": "2026-11-12T00:01:07+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell says Toto Wolff's refusal to change Mercedes during the difficult years of the ground effect era is a big reason the team is back on top of Formula 1.<br />The Brackley outfit sealed it",
-      "summary_en": "George Russell says Toto Wolff's refusal to change Mercedes during the difficult years of the ground effect era is a big reason the team is back on top of Formula 1.<br />The Brackley outfit sealed it"
-    },
-    {
-      "id": "1eb645431508",
-      "title": "Bruno Senna reveals plans to put Kimi Antonelli behind the wheel of Ayrton Senna's F1 car",
-      "title_fr": "Bruno Senna veut confier la voiture d'Ayrton à Kimi Antonelli",
-      "title_en": "Bruno Senna plans to give Kimi Antonelli Ayrton Senna's F1 car",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/bruno-senna-reveals-plans-to-put-kimi-antonelli-behind-the-wheel-of-ayrton-sennas-f1-car/10873973/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPO5O0/s6/motorsport-com-graphics-87.jpg",
-      "published_at": "2026-11-11T23:55:02+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Bruno Senna souhaite offrir à Kimi Antonelli la chance de piloter l'une des voitures d'Ayrton Senna l'an prochain, après la visite du champion 2026 au domaine familial au Brésil",
-      "summary_en": "Bruno Senna says he wants to give Kimi Antonelli the chance to drive one of Ayrton Senna's cars next year, after the 2026 champion visited the family estate in Brazil"
-    },
-    {
-      "id": "609314cd6755",
-      "title": "Max Verstappen questions Ferrari’s decision to let Lewis Hamilton and Charles Leclerc race freely",
-      "title_fr": "Verstappen critique la décision Ferrari de laisser Hamilton et Leclerc s'affronter",
-      "title_en": "Verstappen criticises Ferrari's decision to let Hamilton and Leclerc battle",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-questions-ferraris-decision-to-let-lewis-hamilton-and-charles-leclerc-race-freely/10873971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6zoD83j0/s6/motorsport-com-graphics-93-2.jpg",
-      "published_at": "2026-11-11T23:48:50+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Après sa victoire à Mexico, Max Verstappen a déclaré qu'il ne mettrait jamais deux pilotes numéro un ensemble s'il était directeur de Ferrari. Il estime que la confrontation entre Lewis Hamilton et Charles Leclerc lui a permis de gagner",
-      "summary_en": "After winning in Mexico, Max Verstappen said he would never pair two number-one drivers together if he were Ferrari's team principal. He believes the clash between Lewis Hamilton and Charles Leclerc gave him the victory"
     }
   ]
 }
