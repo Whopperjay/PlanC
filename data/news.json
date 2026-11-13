@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-12T22:25:39Z",
+  "last_updated": "2026-11-13T01:26:06Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7f824d2e4a9f",
+      "title": "On This Day: Verstappen stars as Hamilton wins soaked Brazilian Grand Prix | Brief",
+      "title_fr": "Hamilton remporte le Grand Prix du Brésil sous la pluie, Verstappen brille",
+      "title_en": "Hamilton wins soaked Brazilian GP, Verstappen shines",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/13/on-this-day-brazilian-grand-prix-2/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-13-16-09-42-8-P-20161113-01003_HiRes-JPEG-24bit-RGB.jpg",
+      "published_at": "2026-11-13T00:01:00+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a remporté le Grand Prix du Brésil malgré la pluie, tandis que Max Verstappen a également brillé sur la piste mouillée.",
+      "summary_en": "Lewis Hamilton won the Brazilian Grand Prix in wet conditions, while Max Verstappen also shone on the slick track."
+    },
     {
       "id": "a674b8d5a283",
       "title": "Guenther Steiner suggests Max Verstappen could be better suited to lead Ferrari",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La course du Grand Prix brésilien a montré que la Formule 1 peine à gérer la pluie, avec des stratégies de pneus et des arrêts de course compliqués.",
       "summary_en": "The Brazilian Grand Prix showed that Formula 1 struggles to manage rain, with complex tire strategies and race stops."
-    },
-    {
-      "id": "b1d93e3cc68d",
-      "title": "What the Brazilian GP revealed about F1's ability to cope with rain",
-      "title_fr": "Interlagos : la pluie teste la capacité de la F1",
-      "title_en": "Brazil GP shows how F1 handles rain",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/what-the-brazilian-gp-revealed-about-f1s-ability-to-cope-with-rain/10873789/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/Y9lNzqb2/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": "2026-11-11T09:23:42+00:00",
-      "race_id": "brazil",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "La course de Brésil a mis à l'épreuve la capacité de la Formule 1 à gérer la pluie, avec un temps incertain dès la qualification et la course. Les équipes ont dû ajuster leurs stratégies en temps réel.",
-      "summary_en": "The Brazilian GP tested F1's rain‑handling ability, with wet conditions expected from qualifying to the race. Teams had to adapt strategies on the fly."
     }
   ]
 }
