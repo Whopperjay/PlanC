@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-13T10:28:02Z",
+  "last_updated": "2026-11-13T13:28:50Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e43bf0fda234",
+      "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
+      "title_fr": "Toto Wolff propose sa démission, la direction refuse",
+      "title_en": "Toto Wolff offers resignation, Mercedes CEO refuses",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vz9j6/s6/motorsport-com-graphics-99-2.jpg",
+      "published_at": "2026-11-13T12:37:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a proposé sa démission lors des difficultés récentes de Mercedes, mais le directeur général a refusé de le laisser partir.",
+      "summary_en": "Toto Wolff offered to resign amid Mercedes' recent struggles, but the CEO declined to let him leave."
+    },
+    {
+      "id": "4a500a98bf0e",
+      "title": "Red Bull F1 car takes on MotoGP bike, rally car and snowmobile in extreme ice race",
+      "title_fr": "Red Bull oppose F1, MotoGP, rallye et motoneige sur glace",
+      "title_en": "Red Bull pits F1 car against MotoGP bike, rally car and snowmobile in ice race",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/27No3m30/s6/motorsport-com-graphics-98.jpg",
+      "published_at": "2026-11-13T12:25:26+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a organisé une course d'hiver extrême où une Formule 1, un MotoGP, un rallye, un camion Pro 4 et une motoneige ont concouru sur un lac gelé. Dani Pedrosa a gagné sur une KTM MotoGP.",
+      "summary_en": "Red Bull organized an extreme winter race where a Formula 1 car, a MotoGP bike, a rally car, a Pro 4 truck and a snowmobile competed on a frozen lake. Dani Pedrosa won on a KTM MotoGP."
+    },
+    {
+      "id": "7f003d4030bc",
+      "title": "\"It's horribly painful\" - Williams drops 2026 car upgrades to benefit 2027",
+      "title_fr": "Williams abandonne les améliorations 2026 pour préparer 2027",
+      "title_en": "Williams drops 2026 upgrades to prepare for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwMox2/s6/alexander-albon-williams.jpg",
+      "published_at": "2026-11-13T12:15:32+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Williams, James Vowles, a déclaré que renoncer aux améliorations aérodynamiques 2026 était horriblement douloureux afin de concentrer les ressources sur la prochaine saison 2027.",
+      "summary_en": "Williams team boss James Vowles said it was \"horribly painful\" to skip 2026 aero upgrades, choosing instead to save resources for the 2027 season."
+    },
+    {
+      "id": "b23f34a37496",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "title_fr": "Andrew Benson lance une série de Q&A hebdomadaires",
+      "title_en": "Andrew Benson launches weekly Q&A series",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": "2026-11-13T11:30:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Notre correspondant Andrew Benson propose une séance de questions-réponses hebdomadaire cette saison. Envoyez vos questions dès maintenant.",
+      "summary_en": "Our F1 correspondent Andrew Benson is hosting a weekly Q&A this season. Send in your questions now."
+    },
     {
       "id": "33783d9a925c",
       "title": "The Kimi Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Après sa victoire à Mexico, Max Verstappen a déclaré qu'il ne mettrait jamais deux pilotes numéro un ensemble s'il était directeur de Ferrari. Il estime que la confrontation entre Lewis Hamilton et Charles Leclerc lui a permis de gagner",
       "summary_en": "After winning in Mexico, Max Verstappen said he would never pair two number-one drivers together if he were Ferrari's team principal. He believes the clash between Lewis Hamilton and Charles Leclerc gave him the victory"
-    },
-    {
-      "id": "a284af5cf02c",
-      "title": "Lewis Hamilton loses most marketable athlete crown as Charles Leclerc moves ahead",
-      "title_fr": "Hamilton perd son titre de sportif le plus commercialisable face à Leclerc",
-      "title_en": "Hamilton loses most marketable athlete crown to Leclerc",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-loses-most-marketable-athlete-crown-as-charles-leclerc-moves-ahead/10873959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Lde3Qg0/s6/motorsport-com-graphics-92-2.jpg",
-      "published_at": "2026-11-11T21:14:59+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a perdu la première place du classement des athlètes les plus commercialisables, tombant à la 22e place, tandis que Charles Leclerc l'emporte.",
-      "summary_en": "Lewis Hamilton has slipped to 22nd in the most marketable athletes list, while Charles Leclerc takes the top spot."
-    },
-    {
-      "id": "402701d2684c",
-      "title": "Kimi Antonelli keeps F1 title promise with Italian flag hair at Mercedes factory",
-      "title_fr": "Antonelli honore sa promesse en arborant les couleurs italiennes à Brackley",
-      "title_en": "Antonelli keeps his promise, sports Italian flag hair at Mercedes factory",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-keeps-f1-title-promise-with-italian-flag-hair-at-mercedes-factory/10873952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6Alv9kGY/s6/motorsport-com-graphics-91.jpg",
-      "published_at": "2026-11-11T20:55:48+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, nouveau champion du monde, est arrivé à l'usine de Brackley avec ses cheveux teintés vert, blanc et rouge, rappelant le drapeau italien, pour célébrer la saison réussie de Mercedes.",
-      "summary_en": "Kimi Antonelli, the new world champion, arrived at Mercedes' Brackley factory with his hair dyed green, white and red, echoing the Italian flag, as the team celebrated its successful season."
-    },
-    {
-      "id": "3146a05a603b",
-      "title": "Mercedes explains \"unusual\" car behaviour behind Kimi Antonelli's costly Interlagos spin",
-      "title_fr": "Mercedes explique le comportement anormal après la perte d'Antonelli à Interlagos",
-      "title_en": "Mercedes explains unusual car behaviour after Antonelli's spin at Interlagos",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-explains-unusual-car-behaviour-behind-kimi-antonellis-costly-brazil-spin/10873891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2eZx8jKY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-11T16:00:58+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Mercedes a détaillé les raisons du comportement anormal du véhicule de Kimi Antonelli, qui a perdu le contrôle à Interlagos, provoquant une perte de temps importante. Le pilote a tenté de récupérer la position après la sortie des pneus intermédiaires.",
-      "summary_en": "Mercedes detailed the reasons behind the car's unusual behaviour that caused Kimi Antonelli to spin at Interlagos, costing him time. The driver tried to regain position after switching from intermediates to slicks."
-    },
-    {
-      "id": "6205d57aeff1",
-      "title": "Featured Comment: Why one reader is “glad” F1 will try to hold Middle East races | Brief",
-      "title_fr": "Un lecteur applaudit la décision de la F1 de maintenir les courses au Moyen-Orient",
-      "title_en": "Reader welcomes F1's decision to keep Middle East races",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/11/featured-comment-why-one-reader-is-glad-f1-will-try-to-hold-middle-east-races/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/12/racefansdotnet-24-12-07-17-06-11-5-2250515206.jpg",
-      "published_at": "2026-11-11T13:11:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Un lecteur exprime son contentement face à la décision de la F1 de conserver les courses au Moyen-Orient. Il estime que ces événements renforceront la visibilité mondiale du sport",
-      "summary_en": "A reader expresses satisfaction with F1's decision to keep the Middle East races, believing the events will boost the sport's global visibility"
     }
   ]
 }
