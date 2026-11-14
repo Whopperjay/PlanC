@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-13T22:31:05Z",
+  "last_updated": "2026-11-14T01:31:55Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "1d0e5fe18659",
+      "title": "On This Day: Racing rules in spotlight as Hamilton takes Brazil win from Verstappen | Brief",
+      "title_fr": "Hamilton remporte le GP du Brésil en passant Verstappen",
+      "title_en": "Hamilton wins Brazil GP by passing Verstappen",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/14/on-this-day-2021-brazilian-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/09/racefansdotnet-24-09-15-11-34-36-1-M289956.jpg",
+      "published_at": "2026-11-14T00:01:00+00:00",
+      "race_id": "brazil",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a remporté le Grand Prix du Brésil en dépassant Max Verstappen. Le pilote Aston Martin a consolidé sa position grâce à une stratégie solide.",
+      "summary_en": "Lewis Hamilton won the Brazilian Grand Prix by passing Max Verstappen. The Aston Martin driver secured the victory with a solid strategy."
+    },
     {
       "id": "6d78c933e2e6",
       "title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a gravi les échelons de la F1 pour devenir le champion le plus jeune de l’histoire. Son ascension fulgurante a marqué les esprits depuis son premier podium.",
       "summary_en": "Kimi Antonelli climbed the F1 ladder to become the sport’s youngest champion. His meteoric rise has captivated fans since his first podium."
-    },
-    {
-      "id": "a34ad573c83a",
-      "title": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
-      "title_fr": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
-      "title_en": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/2dEorgDY/s6/motorsport-com-graphics-95-2.jpg",
-      "published_at": "2026-11-12T10:35:02+00:00",
-      "race_id": "uk",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to ch",
-      "summary_en": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to ch"
     }
   ]
 }
