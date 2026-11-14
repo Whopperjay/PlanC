@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-14T07:33:12Z",
+  "last_updated": "2026-11-14T10:34:02Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "786a25337a90",
+      "title": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
+      "title_fr": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
+      "title_en": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-is-looking-down-the-barrel-of-kimi-antonellis-raw-pace-says-allison/10874424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaO7J2/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": "2026-11-14T10:10:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "For an established Formula 1 driver, being beaten by a 20-year-old team-mate can sometimes lead to garage politics and excuses. For George Russell, the 2026 season delivered exactly that high-pressure",
+      "summary_en": "For an established Formula 1 driver, being beaten by a 20-year-old team-mate can sometimes lead to garage politics and excuses. For George Russell, the 2026 season delivered exactly that high-pressure"
+    },
+    {
+      "id": "8e9550808333",
+      "title": "Ignore social media echo chamber and trust F1 over Middle East races – Wolff | Formula 1",
+      "title_fr": "Wolff défend les courses du Moyen-Orient",
+      "title_en": "Wolff backs F1's Middle East races",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/14/ignore-social-media-echo-chamber-trust-f1-over-middle-east-races-wolff/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-22-12-2249020900.jpg",
+      "published_at": "2026-11-14T10:00:10+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Mercedes, Toto Wolff, affirme que la Formule 1 a raison de poursuivre ses courses au Moyen-Orient, tout en précisant qu'il ne forcera pas le personnel à y assister.",
+      "summary_en": "Mercedes team principal Toto Wolff says Formula 1 is right to go ahead with its Middle East races, but he won't force staff to attend."
+    },
+    {
+      "id": "a4558b1fded9",
+      "title": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas",
+      "title_fr": "McLaren introduit des améliorations sur le MCL40 à Las Vegas",
+      "title_en": "McLaren upgrades MCL40 at Las Vegas GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/68VwEx92/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-11-14T09:13:34+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "McLaren prévoit d’installer de nouvelles pièces sur le MCL40 lors du Grand Prix de Las Vegas, les qualifiant de « fondation pour la voiture de 2027 ». Le concept de l’aile avant 2027 a déjà fait ses preuves à Interlagos",
+      "summary_en": "McLaren will fit new parts on the MCL40 at the Las Vegas Grand Prix, calling them the “foundation for next year’s car.” The 2027 front‑wing concept, already proven at Interlagos, promises better driveability and predictability"
+    },
+    {
+      "id": "085f9a7e33f5",
+      "title": "McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas",
+      "title_fr": "McLaren introduit des améliorations du MCL40 à Las Vegas",
+      "title_en": "McLaren upgrades MCL40 at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/01QNp9q0/s6/leonardo-fornaroli-mclaren.jpg",
+      "published_at": "2026-11-14T09:09:51+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "McLaren introduira des pièces de mise à jour du MCL40 lors du Grand Prix de Las Vegas, les qualifiant de « fondation pour la voiture de l’année prochaine ». Le concept d’aileron avant 2027 a déjà été présenté au Brésil.",
+      "summary_en": "McLaren will unveil upgrades to its MCL40 at the Las Vegas Grand Prix, calling the new parts the foundation for next year's car. The 2027 front‑wing concept was first shown in Brazil."
+    },
     {
       "id": "1d0e5fe18659",
       "title": "On This Day: Racing rules in spotlight as Hamilton takes Brazil win from Verstappen | Brief",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Racing Bulls has confirmed an unchanged driver line-up for the 2027 Formula 1 season.",
       "summary_en": "Racing Bulls has confirmed an unchanged driver line-up for the 2027 Formula 1 season."
-    },
-    {
-      "id": "3bfd6da478a7",
-      "title": "Racing Bulls keep Lawson and Lindblad as Tsolov gets Red Bull reserve role | Formula 1",
-      "title_fr": "Tsolov rejoint Red Bull en réserve, Lawson et Lindblad restent Racing Bulls",
-      "title_en": "Tsolov joins Red Bull as reserve, Lawson and Lindblad stay with Racing Bulls",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/12/racing-bulls-keep-lawson-and-lindblad-as-tsolov-gets-red-bull-reserve-role/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-12-11-26-42-1-SI202610230451.jpg",
-      "published_at": "2026-11-12T11:06:09+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Nikola Tsolov sera pilote de réserve chez Red Bull l'année prochaine, tandis que Racing Bulls conserve Liam Lawson et Arvid Lindblad.",
-      "summary_en": "Nikola Tsolov will serve as Red Bull's reserve driver next year, while Racing Bulls keep Liam Lawson and Arvid Lindblad."
-    },
-    {
-      "id": "9769531ff797",
-      "title": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
-      "title_fr": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
-      "title_en": "Lawson to stay in F1 as Racing Bulls announces 2027 driver pairing",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lawson-to-stay-in-f1-as-racing-bulls-announces-2027-driver-pairing/10874063/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls-2.jpg",
-      "published_at": "2026-11-12T11:06:00+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 campaign, partnering Arvid Lindblad for a second, straight season.<br />They have formed a formidable duo this yea",
-      "summary_en": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 campaign, partnering Arvid Lindblad for a second, straight season.<br />They have formed a formidable duo this yea"
-    },
-    {
-      "id": "f9ff659d8a23",
-      "title": "Liam Lawson retained by Racing Bulls for 2027 alongside Arvid Lindblad",
-      "title_fr": "Lawson et Lindblad restent chez Racing Bulls pour 2027",
-      "title_en": "Lawson and Lindblad stay with Racing Bulls for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YWKAEqxY/s6/arvid-lindblad-racing-bulls-li.jpg",
-      "published_at": "2026-11-12T11:05:10+00:00",
-      "race_id": "italy",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson et Arvid Lindblad prolongent leur contrat avec Racing Bulls pour la saison 2027, après une année où le duo a mené l’équipe à la cinquième place du championnat des constructeurs.",
-      "summary_en": "Liam Lawson and Arvid Lindblad will stay with Racing Bulls for the 2027 Formula 1 season, following a year that saw the pair push the team to fifth in the constructors' championship."
-    },
-    {
-      "id": "bb37cd89fb4e",
-      "title": "F1: Chequered Flag",
-      "title_fr": "Kimi Antonelli, champion le plus jeune de l’histoire de la F1",
-      "title_en": "Kimi Antonelli, F1’s youngest champion",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pmlb1r?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0pmlb62.jpg",
-      "published_at": "2026-11-12T11:03:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a gravi les échelons de la F1 pour devenir le champion le plus jeune de l’histoire. Son ascension fulgurante a marqué les esprits depuis son premier podium.",
-      "summary_en": "Kimi Antonelli climbed the F1 ladder to become the sport’s youngest champion. His meteoric rise has captivated fans since his first podium."
     }
   ]
 }
