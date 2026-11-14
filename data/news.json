@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-14T13:34:56Z",
+  "last_updated": "2026-11-14T16:35:24Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7c282014cfca",
+      "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
+      "title_fr": "Rosberg explique la rupture avec Hamilton à Mercedes",
+      "title_en": "Rosberg Reveals the Conspiracy Behind Hamilton's Rivalry at Mercedes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BEVZ2/s6/lewis-hamilton-mercdes-nico-ro.jpg",
+      "published_at": "2026-11-14T16:30:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Nico Rosberg explique que la relation amicale avec Lewis Hamilton s’est transformée en rivalité interne à Mercedes, évoquant une conspiration qui a failli ruiner leur partenariat.",
+      "summary_en": "Nico Rosberg says the friendship with Lewis Hamilton turned into an intra-team rivalry at Mercedes, alleging a conspiracy that nearly ruined their partnership."
+    },
+    {
+      "id": "7fc778c293c9",
+      "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
+      "title_fr": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
+      "title_en": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card/10874547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EV1qY/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-14T16:24:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.<br />The Ferrari driver became only the secon",
+      "summary_en": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.<br />The Ferrari driver became only the secon"
+    },
     {
       "id": "fc49de363c38",
       "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur technique de Ferrari, Fred Vasseur, a confirmé que Lewis Hamilton et Charles Leclerc ont résolu leurs tensions lors d’une discussion privée avant le Grand Prix de São Paulo. Les deux pilotes ont quitté la salle en plaisantant.",
       "summary_en": "Ferrari team principal Fred Vasseur confirmed that Lewis Hamilton and Charles Leclerc resolved their tensions during a private sit-down before the São Paulo Grand Prix. The two drivers left the room joking."
-    },
-    {
-      "id": "8ca7da5062d5",
-      "title": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
-      "title_fr": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
-      "title_en": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-impressive-stats-underpinning-liam-lawsons-career-saving-f1-season/10874116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls.jpg",
-      "published_at": "2026-11-12T12:42:31+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed up keeping Lawson on ",
-      "summary_en": "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed up keeping Lawson on "
-    },
-    {
-      "id": "cf9bfd7d83c2",
-      "title": "Ralf Schumacher questions Lewis Hamilton's leadership as he issues Max Verstappen warning",
-      "title_fr": "Schumacher critique Hamilton après avertissement à Verstappen",
-      "title_en": "Schumacher Criticises Hamilton After Warning Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-questions-lewis-hamiltons-leadership-as-he-issues-max-verstappen-warning/10874111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/6Alv9e9Y/s6/motorsport-com-graphics-90.jpg",
-      "published_at": "2026-11-12T12:38:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Ralf Schumacher estime que Max Verstappen aurait du mal à s’intégrer chez Mercedes et reproche à Lewis Hamilton de ne pas savoir diriger une équipe.",
-      "summary_en": "Ralf Schumacher says Max Verstappen would struggle at Mercedes and accuses Lewis Hamilton of never learning how to run a team."
     }
   ]
 }
