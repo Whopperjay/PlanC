@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:30:18Z",
+  "generated_at": "2026-11-14T04:33:11Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -172,15 +172,15 @@
       "race_id": "las_vegas",
       "session_type": "qualifying",
       "session_date": "2026-11-21T04:00:00+00:00",
-      "p1": "norris",
-      "p2": "russell",
-      "p3": "antonelli",
-      "reasoning_fr": "Norris a dominé la dernière qualification à Rio (P1) et a converti en victoire, montrant une excellente vitesse sur un tour unique, essentielle sur le circuit urbain de Las Vegas. Russell, deuxième à Rio, possède une constance élevée et bénéficie d'une Mercedes bien équilibrée pour les rues. Antonelli, troisième à Rio et leader du championnat, combine le rythme d'un jeune talent avec la puissance ",
-      "reasoning_en": "Norris topped the Brazilian qualifying and turned it into a race win, proving his one‑lap speed crucial for a street circuit like Las Vegas. Russell, second in Brazil, shows consistent pace and a well‑balanced Mercedes suited to tight layouts. Antonelli, third in Brazil and championship leader, blends youthful rhythm with Mercedes power, placing him firmly in the top three on this demanding track.",
-      "confidence": "high",
-      "key_factor_fr": "Performance récente en qualification sur circuits urbains",
+      "p1": "antonelli",
+      "p2": "norris",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli a montré un rythme exceptionnel en qualification (pole à Brésil) et bénéficie d’une voiture Mercedes très performante sur les longues lignes du circuit urbain de Las Vegas. Norris, vainqueur du Brésil et pole‑position là‑bas, garde une excellente forme et une bonne maîtrise des rues. Russell, deuxième en qualification brésilienne, possède l’expérience et la constance nécessaires pour res",
+      "reasoning_en": "Antonelli displayed outstanding one‑lap speed (Brazil pole) and drives a Mercedes that excels on the long straights of the Las Vegas street layout. Norris, the Brazilian race winner and pole‑sitter, is in strong form and adept at street circuits. Russell, who qualified second in Brazil, brings experience and consistency to stay among the top three. Rapid track‑grip evolution further benefits drive",
+      "confidence": "medium",
+      "key_factor_fr": "Performance récente en qualification sur circuit urbain",
       "news_used_ids": [],
-      "generated_at": "2026-11-13T16:30:17Z"
+      "generated_at": "2026-11-14T04:33:10Z"
     }
   ]
 }
