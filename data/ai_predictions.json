@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T13:00:12Z",
-  "model": "claude",
+  "generated_at": "2026-11-14T16:36:17Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -181,6 +181,21 @@
       "key_factor_fr": "Vitesse de pointe Mercedes et mise en température des pneus à froid",
       "news_used_ids": [],
       "generated_at": "2026-11-14T13:00:12Z"
+    },
+    {
+      "event_id": "las_vegas_grand_prix",
+      "race_id": "las_vegas",
+      "session_type": "grand_prix",
+      "session_date": "2026-11-22T04:00:00+00:00",
+      "p1": "norris",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Norris a montré une forme exceptionnelle en remportant le Brésil et en partant P1 en qualification, ce qui est crucial sur le circuit urbain de Las Vegas où le dépassement est difficile. Verstappen conserve son rythme de course et sa capacité à gérer la dégradation des pneus, comme le prouve son deuxième place à São Paulo. Russell, deuxième en qualification et constant en course, possède la consta",
+      "reasoning_en": "Norris demonstrated outstanding form by winning Brazil and securing pole, a decisive advantage on Las Vegas’ tight street layout where overtaking is limited. Verstappen maintains his race pace and tyre‑management skill, evident from his second‑place finish in São Paulo, keeping him a strong contender. Russell, who qualified second in Brazil and showed consistent race performance, has the reliabili",
+      "confidence": "medium",
+      "key_factor_fr": "Qualif' pole + gestion pneus sur circuit urbain",
+      "news_used_ids": [],
+      "generated_at": "2026-11-14T16:36:16Z"
     }
   ]
 }
