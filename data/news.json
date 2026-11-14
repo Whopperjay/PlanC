@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-14T16:35:24Z",
+  "last_updated": "2026-11-14T19:35:48Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "18a5444b9420",
+      "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
+      "title_fr": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
+      "title_en": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-14T17:39:40+00:00",
+      "race_id": "australia",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.<br />The Australian driver",
+      "summary_en": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.<br />The Australian driver"
+    },
     {
       "id": "7c282014cfca",
       "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le 19‑ans Nikola Tsolov, originaire de Bulgarie, a été désigné pilote de réserve pour Red Bull et Racing Bulls en 2027, après avoir échoué à obtenir un poste à temps plein.",
       "summary_en": "The 19‑year‑old Bulgarian Nikola Tsolov has been named reserve driver for Red Bull and Racing Bulls in 2027, after missing out on a full‑time seat."
-    },
-    {
-      "id": "9e63b8d48891",
-      "title": "Fred Vasseur: Lewis Hamilton and Charles Leclerc “left my room joking together”",
-      "title_fr": "Vasseur: Hamilton et Leclerc ont réglé leurs différends",
-      "title_en": "Vasseur: Hamilton and Leclerc have settled their differences",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-lewis-hamilton-and-charles-leclerc-left-my-room-joking-together/10874079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YP7489X2/s6/motorsport-com-graphics-91-2.jpg",
-      "published_at": "2026-11-12T13:15:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique de Ferrari, Fred Vasseur, a confirmé que Lewis Hamilton et Charles Leclerc ont résolu leurs tensions lors d’une discussion privée avant le Grand Prix de São Paulo. Les deux pilotes ont quitté la salle en plaisantant.",
-      "summary_en": "Ferrari team principal Fred Vasseur confirmed that Lewis Hamilton and Charles Leclerc resolved their tensions during a private sit-down before the São Paulo Grand Prix. The two drivers left the room joking."
     }
   ]
 }
