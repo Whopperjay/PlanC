@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-14T10:34:02Z",
+  "last_updated": "2026-11-14T13:34:56Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "fc49de363c38",
+      "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
+      "title_fr": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
+      "title_en": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-tech-boss-warns-f1-teams-wont-lie-down-over-massive-2027-downforce-cuts/10874433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/6lmARXD0/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": "2026-11-14T12:14:36+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under ",
+      "summary_en": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under "
+    },
+    {
+      "id": "6ce44eb4e2f7",
+      "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
+      "title_fr": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
+      "title_en": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5AVbPY/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-14T11:32:50+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.<br />Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both ",
+      "summary_en": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.<br />Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both "
+    },
+    {
+      "id": "7ca2da7f3c95",
+      "title": "Max Verstappen signs ambassador deal with Dutch technical group VDK",
+      "title_fr": "Verstappen devient ambassadeur du groupe VDK",
+      "title_en": "Verstappen signs ambassador deal with VDK Group",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7vzaP6/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-14T11:03:24+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Max Verstappen s’engage comme ambassadeur du groupe VDK, une société néerlandaise d’installations techniques qui se développe en Europe. Il participera aux campagnes de communication et de promotion.",
+      "summary_en": "Max Verstappen has become the ambassador of the Dutch VDK Group, a technical installation company expanding across Europe. He will feature in the group's international branding and marketing campaigns."
+    },
+    {
+      "id": "feee71011508",
+      "title": "Kimi Antonelli meets Italian president Sergio Mattarella",
+      "title_fr": "Antonelli rencontre le président italien",
+      "title_en": "Antonelli meets Italian president",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BEaE2/s6/il-presidente-sergio-mattarell.jpg",
+      "published_at": "2026-11-14T10:37:42+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le nouveau champion du monde de Formule 1, Kimi Antonelli, a rencontré le président Sergio Mattarella, saluant son soutien après la victoire au Grand Prix du Mexique.",
+      "summary_en": "New Formula 1 world champion Kimi Antonelli met Italian President Sergio Mattarella, thanking him for support after winning the Mexican Grand Prix."
+    },
     {
       "id": "786a25337a90",
       "title": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ralf Schumacher estime que Max Verstappen aurait du mal à s’intégrer chez Mercedes et reproche à Lewis Hamilton de ne pas savoir diriger une équipe.",
       "summary_en": "Ralf Schumacher says Max Verstappen would struggle at Mercedes and accuses Lewis Hamilton of never learning how to run a team."
-    },
-    {
-      "id": "2f84da09203a",
-      "title": "Russell partners with BRDC to launch karting academy",
-      "title_fr": "Russell lance une académie de karting à Silverstone",
-      "title_en": "Russell launches karting academy at Silverstone",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/russell-and-brdc-launch-karting-academy/10874110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
-      "published_at": "2026-11-12T12:27:55+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell a inauguré la GR63 Karting Academy à Silverstone, ouverte aux enfants de huit à neuf ans, avec un parcours en quatre étapes vers le sommet.",
-      "summary_en": "George Russell inaugurated the GR63 Karting Academy at Silverstone, open to eight-to-nine-year-old boys and girls, featuring a four-stage path to the top."
-    },
-    {
-      "id": "5149a0c04193",
-      "title": "George Russell launches karting academy",
-      "title_fr": "George Russell launches karting academy",
-      "title_en": "George Russell launches karting academy",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-launches-karting-academy/10874105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
-      "published_at": "2026-11-12T12:18:46+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. <br />The eight-time grand prix w",
-      "summary_en": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. <br />The eight-time grand prix w"
-    },
-    {
-      "id": "2bb71f1bde0c",
-      "title": "Ayrton Senna's 1994 Williams F1 car heads to auction with $6million estimate",
-      "title_fr": "Voiture de Senna 1994 mise aux enchères à New York",
-      "title_en": "Senna's 1994 Williams car goes to auction in New York",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ayrton-sennas-1994-williams-f1-car-heads-to-auction-with-6million-estimate/10874089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0kZX9ro6/s6/motorsport-com-graphics-89.jpg",
-      "published_at": "2026-11-12T11:43:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le FW16 de Ayrton Senna, utilisé lors de sa dernière saison en 1994, sera vendu aux enchères à New York. Le châssis FW16B-01 est proposé par RM Sotheby's avec une estimation de 4 à 6 millions de dollars.",
-      "summary_en": "Ayrton Senna's 1994 Williams FW16, used in his final season, is up for auction in New York. RM Sotheby's is offering chassis FW16B-01 with an estimated price of $4-6 million."
-    },
-    {
-      "id": "2e8313c56818",
-      "title": "Racing Bulls keep Lawson alongside Lindblad for 2027 season | Formula 1",
-      "title_fr": "Racing Bulls keep Lawson alongside Lindblad for 2027 season | Formula 1",
-      "title_en": "Racing Bulls keep Lawson alongside Lindblad for 2027 season | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/12/racing-bulls-confirm-lawson-will-remain-with-team-in-2027-alongside-lindblad/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-12-11-26-42-1-SI202610230451.jpg",
-      "published_at": "2026-11-12T11:06:09+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Racing Bulls has confirmed an unchanged driver line-up for the 2027 Formula 1 season.",
-      "summary_en": "Racing Bulls has confirmed an unchanged driver line-up for the 2027 Formula 1 season."
     }
   ]
 }
