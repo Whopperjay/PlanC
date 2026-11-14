@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:00:03Z",
+  "generated_at": "2026-11-14T13:00:12Z",
   "model": "claude",
   "predictions": [
     {
@@ -173,14 +173,14 @@
       "session_type": "qualifying",
       "session_date": "2026-11-21T04:00:00+00:00",
       "p1": "antonelli",
-      "p2": "norris",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli a montré un rythme exceptionnel en qualification (pole à Brésil) et bénéficie d’une voiture Mercedes très performante sur les longues lignes du circuit urbain de Las Vegas. Norris, vainqueur du Brésil et pole‑position là‑bas, garde une excellente forme et une bonne maîtrise des rues. Russell, deuxième en qualification brésilienne, possède l’expérience et la constance nécessaires pour res",
-      "reasoning_en": "Antonelli displayed outstanding one‑lap speed (Brazil pole) and drives a Mercedes that excels on the long straights of the Las Vegas street layout. Norris, the Brazilian race winner and pole‑sitter, is in strong form and adept at street circuits. Russell, who qualified second in Brazil, brings experience and consistency to stay among the top three. Rapid track‑grip evolution further benefits drive",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli mène le championnat avec 111 points d'avance, signe d'une Mercedes très performante en 2026. Le tracé de Las Vegas, avec ses longues lignes droites et son asphalte froid, favorise une monoplace efficace et capable de chauffer vite ses pneus, un point fort historique de Mercedes ici. Russell est un spécialiste du tour lancé. Verstappen reste la principale menace.",
+      "reasoning_en": "Antonelli leads the championship by 111 points, a sign of a very strong Mercedes in 2026. Las Vegas, with its long straights and cold asphalt, rewards an efficient car that brings its tyres up to temperature quickly, a historic Mercedes strength here. Russell excels over a single lap. Verstappen remains the main threat.",
       "confidence": "medium",
-      "key_factor_fr": "Performance récente en qualification sur circuit urbain",
+      "key_factor_fr": "Vitesse de pointe Mercedes et mise en température des pneus à froid",
       "news_used_ids": [],
-      "generated_at": "2026-11-14T04:33:10Z"
+      "generated_at": "2026-11-14T13:00:12Z"
     }
   ]
 }
