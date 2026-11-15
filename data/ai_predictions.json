@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:36:17Z",
+  "generated_at": "2026-11-15T01:37:24Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -172,15 +172,15 @@
       "race_id": "las_vegas",
       "session_type": "qualifying",
       "session_date": "2026-11-21T04:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "norris",
       "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli mène le championnat avec 111 points d'avance, signe d'une Mercedes très performante en 2026. Le tracé de Las Vegas, avec ses longues lignes droites et son asphalte froid, favorise une monoplace efficace et capable de chauffer vite ses pneus, un point fort historique de Mercedes ici. Russell est un spécialiste du tour lancé. Verstappen reste la principale menace.",
-      "reasoning_en": "Antonelli leads the championship by 111 points, a sign of a very strong Mercedes in 2026. Las Vegas, with its long straights and cold asphalt, rewards an efficient car that brings its tyres up to temperature quickly, a historic Mercedes strength here. Russell excels over a single lap. Verstappen remains the main threat.",
+      "p3": "antonelli",
+      "reasoning_fr": "Norris a remporté la dernière course et a été pole au Brésil, montrant une excellente forme et une maîtrise du circuit urbain. Russell, deuxième au Brésil, bénéficie d'une bonne constance et d'une expérience solide sur les circuits à évolution rapide. Antonelli, champion du monde, reste très rapide malgré la mise à jour 18 qui a affaibli la Mercedes, mais son talent et son rythme récent le maintie",
+      "reasoning_en": "Norris won the previous race and topped qualifying in Brazil, demonstrating strong form and street‑circuit mastery. Russell, second in Brazil, shows consistent pace and experience on rapidly evolving tracks. Antonelli, the world champion, remains very quick despite Mercedes' update 18 weakening the car, but his talent and recent speed keep him in the top three.",
       "confidence": "medium",
-      "key_factor_fr": "Vitesse de pointe Mercedes et mise en température des pneus à froid",
+      "key_factor_fr": "Forme récente + évolution piste",
       "news_used_ids": [],
-      "generated_at": "2026-11-14T13:00:12Z"
+      "generated_at": "2026-11-15T01:37:23Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
