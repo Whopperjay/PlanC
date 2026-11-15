@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-15T19:39:08Z",
+  "last_updated": "2026-11-15T22:39:33Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "3343805d8ba8",
+      "title": "Kimi Antonelli names biggest threat to 2027 title defence as he warns Mercedes advantage may fade",
+      "title_fr": "Antonelli pointe Verstappen comme menace majeure pour 2027",
+      "title_en": "Antonelli names Verstappen biggest threat to 2027 title defence",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-names-biggest-threat-to-2027-title-defence-as-he-warns-mercedes-advantage-may-fade/10874729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/6O7zrGw6/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-15T22:26:14+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, champion 2026, considère Max Verstappen, champion de Mercedes, comme le principal obstacle à sa défense de titre en 2027. Il avertit que l’avantage de Mercedes pourrait s’estomper.",
+      "summary_en": "Kimi Antonelli, 2026 champion, names Max Verstappen as the main threat to his 2027 title defence, warning that Mercedes' advantage could fade."
+    },
+    {
+      "id": "eaca9fda9b61",
+      "title": "Lewis Hamilton criticises ex-F1 drivers for \"talking smack\" about young stars",
+      "title_fr": "Hamilton dénonce les anciens pilotes",
+      "title_en": "Hamilton criticises ex‑drivers for talking smack",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/01QNXVQ0/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-15T22:11:44+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a dénoncé les anciens pilotes qui se moquent des jeunes talents, affirmant qu'il ne souhaite pas devenir ce type de pilote. Il a évoqué la réussite de Kimi Antonelli lors d'Interlagos.",
+      "summary_en": "Lewis Hamilton criticized former drivers for talking smack about young stars, saying he will not become that type of driver. He also reflected on Kimi Antonelli's title success at Interlagos."
+    },
     {
       "id": "95c376f5cefc",
       "title": "Christian Horner explains why Max Verstappen’s “abnormal” driving style destroys his team-mates",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Les contrats des pilotes de Formule 1 sont souvent gardés secrets, mais la durée de chaque accord est généralement connue. L'article détaille les durées des contrats actuels, notamment celui de Lando Norris jusqu'en 2030.",
       "summary_en": "F1 driver contracts are usually kept confidential, but the length of each deal is often public. The article outlines the current contract durations, including Lando Norris’s four‑year deal with McLaren until 2030."
-    },
-    {
-      "id": "0ba6dbeaece5",
-      "title": "Grosjean admits his single-seater career is likely over after ending IndyCar season 19th | Formula 1",
-      "title_fr": "Grosjean admits his single-seater career is likely over after ending IndyCar season 19th | Formula 1",
-      "title_en": "Grosjean admits his single-seater career is likely over after ending IndyCar season 19th | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/13/grosjean-admits-his-single-seater-racing-career-is-likely-over-after-ending-indycar-season-19th/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-21-09-05-16-24-17-1.jpg",
-      "published_at": "2026-11-13T08:39:39+00:00",
-      "race_id": "bahrain",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Formula 1 driver Romain Grosjean, who survived a fireball crash six years ago in Bahrain, is preparing to call time on his single-seater racing career.",
-      "summary_en": "Former Formula 1 driver Romain Grosjean, who survived a fireball crash six years ago in Bahrain, is preparing to call time on his single-seater racing career."
-    },
-    {
-      "id": "5de73707b796",
-      "title": "Whatever happened to the diamond that went missing in F1 crash?",
-      "title_fr": "Diamant disparu après l'accident de la Formule 1",
-      "title_en": "Missing diamond after F1 crash",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
-      "published_at": "2026-11-13T06:12:20+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Un diamant aurait disparu après l'accident d'une voiture de Formule 1. Les enquêteurs cherchent à déterminer son sort, mais aucune preuve concluante n'a encore été trouvée.",
-      "summary_en": "A diamond reportedly went missing after a Formula 1 car crashed. Investigators are looking into its whereabouts, but no conclusive evidence has surfaced yet."
     }
   ]
 }
