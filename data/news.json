@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-15T07:37:10Z",
+  "last_updated": "2026-11-15T10:37:59Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e13a65a0f9bf",
+      "title": "Inside Turkey’s revamp for the return of a modern F1 classic",
+      "title_fr": "Réforme turque pour le retour d'un classique moderne de F1",
+      "title_en": "Turkey revamps for the return of a modern F1 classic",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EVzGY/s6/track-action-2.jpg",
+      "published_at": "2026-11-15T09:39:18+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Turquie ajuste son calendrier et ses règles techniques pour réintroduire un classique moderne de la F1, cherchant un équilibre entre pilotes, puristes et jeunes spectateurs, tout en assurant un spectacle de dépassements.",
+      "summary_en": "Turkey is tweaking its calendar and technical rules to bring back a modern F1 classic, aiming to balance drivers, purists and younger fans while delivering a spectacle of overtaking."
+    },
+    {
+      "id": "c05e965a1916",
+      "title": "How Istanbul is revamping its F1 circuit to clinch long-term future",
+      "title_fr": "Istanbul refond son circuit pour assurer son avenir",
+      "title_en": "Istanbul revamps its circuit to secure long-term future",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/YBVjRLWY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-15T09:39:16+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Istanbul travaille à moderniser son circuit afin de garantir sa place dans le calendrier de la Formule 1 à long terme. Les modifications visent à améliorer la sécurité et l'expérience des pilotes.",
+      "summary_en": "Istanbul is revamping its circuit to secure a long-term place on the Formula 1 calendar, focusing on safety upgrades and improved driver experience."
+    },
+    {
+      "id": "f37b9f4f793d",
+      "title": "Mercedes technical director details the psychological toll of F1 underperformance",
+      "title_fr": "Mercedes technical director details the psychological toll of F1 underperformance",
+      "title_en": "Mercedes technical director details the psychological toll of F1 underperformance",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-technical-director-details-the-brutal-psychological-toll-of-f1-underperformance/10874429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7Qrj96/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": "2026-11-15T09:33:19+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "In Formula 1, PR-trained executives routinely frame losing seasons as \"learning opportunities\" and promise that the team will quickly bounce back. But Mercedes technical director James Allison recentl",
+      "summary_en": "In Formula 1, PR-trained executives routinely frame losing seasons as \"learning opportunities\" and promise that the team will quickly bounce back. But Mercedes technical director James Allison recentl"
+    },
+    {
+      "id": "aa4fc9f8057d",
+      "title": "Poll: How many F1 drivers could have won the championship in Antonelli’s car? | Debates and Polls",
+      "title_fr": "Combien de pilotes auraient pu gagner le titre en voiture d'Antonelli ?",
+      "title_en": "How many drivers could have won the championship in Antonelli’s car?",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/15/how-many-f1-drivers-could-have-won-the-championship-in-antonellis-car/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-08-13-01-51-1-A264149.jpg",
+      "published_at": "2026-11-15T08:30:30+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a couronné champion du monde en 2026. Le sondage interroge les fans sur les pilotes qui auraient pu remporter le titre en conduisant sa voiture.",
+      "summary_en": "Andrea Kimi Antonelli was crowned 2026 world champion. The poll asks fans which rivals could have won the title driving his car."
+    },
     {
       "id": "3ec2ca07887f",
       "title": "James Allison admits flawed “Update 18” made the Mercedes W17 a “handful”",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Audi conteste la décision des commissaires qui n'ont pas sanctionné Yuki Tsunoda pour une infraction lors du Grand Prix d'Italie. La Cour d'appel entendra l'affaire le 25 novembre.",
       "summary_en": "Audi is challenging the stewards' decision not to penalise Yuki Tsunoda for an infringement at the Italian Grand Prix. The Court of Appeal will hear the case on November 25."
-    },
-    {
-      "id": "659017a0bfa6",
-      "title": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
-      "title_fr": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
-      "title_en": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lNz382/s6/motorsport-com-graphics-96-2.jpg",
-      "published_at": "2026-11-12T16:41:01+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar ",
-      "summary_en": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar "
-    },
-    {
-      "id": "812be07a4bda",
-      "title": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
-      "title_fr": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
-      "title_en": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg",
-      "published_at": "2026-11-12T16:35:22+00:00",
-      "race_id": "usa",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work.<br />The Briton, who races for Campos Racing as par",
-      "summary_en": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work.<br />The Briton, who races for Campos Racing as par"
-    },
-    {
-      "id": "ab45c0f3f7f8",
-      "title": "Lindblad and Lawson to continue at Racing Bulls",
-      "title_fr": "Lindblad et Lawson restent chez Racing Bulls",
-      "title_en": "Lindblad and Lawson stay with Racing Bulls",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw24epe29566o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4405/live/9695bf60-de8c-11f1-9afe-1f03bfe02283.jpg",
-      "published_at": "2026-11-12T16:02:16+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Arvid Lindblad et Liam Lawson prolongent leur contrat avec la deuxieme equipe de Red Bull, Racing Bulls, pour la saison 2027.",
-      "summary_en": "Arvid Lindblad and Liam Lawson will continue as drivers for Red Bull's second team Racing Bulls in 2027."
-    },
-    {
-      "id": "fb8a38e5c9b5",
-      "title": "Tsolov lands reserve driver role for F1 2027",
-      "title_fr": "Tsolov nommé pilote de réserve pour Red Bull et Racing Bulls en 2027",
-      "title_en": "Tsolov named reserve driver for Red Bull and Racing Bulls in 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/tsolov-lands-reserve-driver-role-for-f1-2027/10874151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6x7LbPRY/s6/nikola-tsolov-racing-bulls-4.jpg",
-      "published_at": "2026-11-12T15:21:07+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le 19-ans Nikola Tsolov, originaire de Bulgarie, a été désigné pilote de réserve pour Red Bull et Racing Bulls pour la saison 2027, après avoir manqué une place à temps plein.",
-      "summary_en": "The 19-year-old Bulgarian Nikola Tsolov has been appointed reserve driver for Red Bull and Racing Bulls for the 2027 season, after missing out on a full-time seat."
     }
   ]
 }
