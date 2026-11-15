@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:00:06Z",
+  "generated_at": "2026-11-15T13:00:38Z",
   "model": "claude",
   "predictions": [
     {
@@ -172,30 +172,30 @@
       "race_id": "las_vegas",
       "session_type": "qualifying",
       "session_date": "2026-11-21T04:00:00+00:00",
-      "p1": "norris",
+      "p1": "antonelli",
       "p2": "russell",
-      "p3": "antonelli",
-      "reasoning_fr": "Norris a remporté la dernière course et a été pole au Brésil, montrant une excellente forme et une maîtrise du circuit urbain. Russell, deuxième au Brésil, bénéficie d'une bonne constance et d'une expérience solide sur les circuits à évolution rapide. Antonelli, champion du monde, reste très rapide malgré la mise à jour 18 qui a affaibli la Mercedes, mais son talent et son rythme récent le maintie",
-      "reasoning_en": "Norris won the previous race and topped qualifying in Brazil, demonstrating strong form and street‑circuit mastery. Russell, second in Brazil, shows consistent pace and experience on rapidly evolving tracks. Antonelli, the world champion, remains very quick despite Mercedes' update 18 weakening the car, but his talent and recent speed keep him in the top three.",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance, et la Mercedes est la référence en 2026. Las Vegas, avec ses longues lignes droites, ses températures fraîches de nuit et une adhérence faible, a historiquement réussi aux Flèches d'Argent, qui y chauffent bien leurs pneus. Russell, vainqueur ici en 2024, est son rival direct. Verstappen reste redoutable sur un tour lancé.",
+      "reasoning_en": "Antonelli leads the championship by 111 points, and Mercedes is the 2026 benchmark car. Las Vegas has long straights, cool night temperatures and low grip, which have historically suited the Silver Arrows and their ability to warm up the tyres. Russell, who won here in 2024, is his closest threat. Verstappen remains dangerous over a single flying lap.",
       "confidence": "medium",
-      "key_factor_fr": "Forme récente + évolution piste",
+      "key_factor_fr": "Mercedes dominante, efficace dans le froid nocturne de Vegas",
       "news_used_ids": [],
-      "generated_at": "2026-11-15T01:37:23Z"
+      "generated_at": "2026-11-15T13:00:38Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
       "race_id": "las_vegas",
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
-      "p1": "norris",
+      "p1": "antonelli",
       "p2": "russell",
-      "p3": "antonelli",
-      "reasoning_fr": "Sur le circuit urbain de Las Vegas, la grille compte plus que tout. Norris a décroché la pole au Brésil et a remporté la course, montrant une excellente gestion des pneus et des arrêts. Russell, deuxième en qualification, a montré une constance solide et une bonne stratégie. Antonelli, champion, part de la troisième place mais la mise à jour 18 affaiblit la Mercedes, ce qui le place légèrement der",
-      "reasoning_en": "On the Las Vegas street circuit, starting position is paramount. Norris secured pole in Brazil and won, proving superior tyre management and pit strategy. Russell qualified second and has demonstrated consistent pace and smart strategy. Antonelli, the champion, starts third but the recent Update 18 has weakened the Mercedes, likely leaving him just behind Norris and Russell in race pace.",
-      "confidence": "high",
-      "key_factor_fr": "Qualif sur circuit urbain + forme récente",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance, ce qui confirme que la Mercedes est la référence en 2026. Sur le tracé rapide et froid de Las Vegas, Mercedes s'est déjà montrée très efficace, avec la victoire de Russell en 2024. Russell devrait donc compléter un doublé. Verstappen, deuxième au championnat, reste le plus régulier face aux Ferrari et aux McLaren.",
+      "reasoning_en": "Antonelli leads the championship by 111 points, which confirms Mercedes is the benchmark car in 2026. Mercedes has a strong record on the fast, cold Las Vegas layout, with Russell winning there in 2024. Russell should therefore complete a one-two. Verstappen, second in the standings, remains the most consistent challenger ahead of Ferrari and McLaren.",
+      "confidence": "medium",
+      "key_factor_fr": "Domination Mercedes et efficacité sur les longues lignes droites froides",
       "news_used_ids": [],
-      "generated_at": "2026-11-15T04:37:49Z"
+      "generated_at": "2026-11-15T13:00:28Z"
     }
   ]
 }
