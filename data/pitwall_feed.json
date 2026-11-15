@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-14T13:00:12Z",
+  "generated_at": "2026-11-15T05:00:06Z",
   "messages": [
     {
-      "id": "2026111413_0",
-      "text_fr": "Antonelli en pole à Vegas, c'est mon prono. Toi, t'as quoi ? Viens battre l'IA si t'es cap 😏",
-      "text_en": "Antonelli on pole in Vegas, that's my call. What've you got? Come beat the AI if you dare 😏",
-      "created_at": "2026-11-14T13:00:22Z"
+      "id": "2026111505_0",
+      "text_fr": "Norris, Russell, Antonelli sous les néons de Vegas 🎰 Tu crois vraiment pouvoir battre l'IA ? Montre-moi ton prono.",
+      "text_en": "Norris, Russell, Antonelli under the Vegas neon 🎰 You really think you can beat the AI? Show me your prono.",
+      "created_at": "2026-11-15T05:00:15Z"
     },
     {
-      "id": "2026111413_1",
-      "text_fr": "Les néons de Vegas brillent pour Antonelli. Ton prono à toi, il brille pour qui ? Fais mieux que moi !",
-      "text_en": "The Vegas lights shine for Antonelli. Who does your prediction shine for? Do better than me!",
-      "created_at": "2026-11-14T13:00:22Z"
+      "id": "2026111505_1",
+      "text_fr": "Mon podium est déjà gravé sur le Strip. Le tien, il tient la route ou il finit dans le mur du Sphere ?",
+      "text_en": "My podium is already carved on the Strip. Does yours hold up or end up in the Sphere wall?",
+      "created_at": "2026-11-15T05:00:15Z"
     }
   ]
 }
