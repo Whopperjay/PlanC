@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:37:24Z",
+  "generated_at": "2026-11-15T04:37:50Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -188,14 +188,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
       "p1": "norris",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Norris a montré une forme exceptionnelle en remportant le Brésil et en partant P1 en qualification, ce qui est crucial sur le circuit urbain de Las Vegas où le dépassement est difficile. Verstappen conserve son rythme de course et sa capacité à gérer la dégradation des pneus, comme le prouve son deuxième place à São Paulo. Russell, deuxième en qualification et constant en course, possède la consta",
-      "reasoning_en": "Norris demonstrated outstanding form by winning Brazil and securing pole, a decisive advantage on Las Vegas’ tight street layout where overtaking is limited. Verstappen maintains his race pace and tyre‑management skill, evident from his second‑place finish in São Paulo, keeping him a strong contender. Russell, who qualified second in Brazil and showed consistent race performance, has the reliabili",
-      "confidence": "medium",
-      "key_factor_fr": "Qualif' pole + gestion pneus sur circuit urbain",
+      "p2": "russell",
+      "p3": "antonelli",
+      "reasoning_fr": "Sur le circuit urbain de Las Vegas, la grille compte plus que tout. Norris a décroché la pole au Brésil et a remporté la course, montrant une excellente gestion des pneus et des arrêts. Russell, deuxième en qualification, a montré une constance solide et une bonne stratégie. Antonelli, champion, part de la troisième place mais la mise à jour 18 affaiblit la Mercedes, ce qui le place légèrement der",
+      "reasoning_en": "On the Las Vegas street circuit, starting position is paramount. Norris secured pole in Brazil and won, proving superior tyre management and pit strategy. Russell qualified second and has demonstrated consistent pace and smart strategy. Antonelli, the champion, starts third but the recent Update 18 has weakened the Mercedes, likely leaving him just behind Norris and Russell in race pace.",
+      "confidence": "high",
+      "key_factor_fr": "Qualif sur circuit urbain + forme récente",
       "news_used_ids": [],
-      "generated_at": "2026-11-14T16:36:16Z"
+      "generated_at": "2026-11-15T04:37:49Z"
     }
   ]
 }
