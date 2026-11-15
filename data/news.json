@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-14T22:36:00Z",
+  "last_updated": "2026-11-15T01:36:14Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "3ec2ca07887f",
+      "title": "James Allison admits flawed “Update 18” made the Mercedes W17 a “handful”",
+      "title_fr": "Allison confesse l'erreur de la mise à jour 18",
+      "title_en": "Allison admits flaw in Update 18",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/james-allison-admits-flawed-update-18-made-the-mercedes-w17-a-handful/10874437/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8VQo6/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": "2026-11-14T23:12:53+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "James Allison, directeur technique de Mercedes, reconnaît que la mise à jour 18 a affaibli la W17, contribuant à la convergence des performances vers la fin de la saison 2026.",
+      "summary_en": "Mercedes technical director James Allison admits that Update 18 weakened the W17, helping the car catch up as the 2026 season nears its end."
+    },
     {
       "id": "18a5444b9420",
       "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le 19-ans Nikola Tsolov, originaire de Bulgarie, a été désigné pilote de réserve pour Red Bull et Racing Bulls pour la saison 2027, après avoir manqué une place à temps plein.",
       "summary_en": "The 19-year-old Bulgarian Nikola Tsolov has been appointed reserve driver for Red Bull and Racing Bulls for the 2027 season, after missing out on a full-time seat."
-    },
-    {
-      "id": "995c941e6fad",
-      "title": "Tsolov named Red Bull, Racing Bulls reserve driver after missing out on 2027 F1 race seat",
-      "title_fr": "Tsolov nommé pilote de réserve pour Red Bull et Racing Bulls",
-      "title_en": "Tsolov named reserve driver for Red Bull and Racing Bulls",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/tsolov-named-red-bull-racing-bulls-reserve-driver-after-missing-out-on-2027-f1-race-seat/10874147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0rVPVOP0/s6/nikola-tsolov-racing-bulls.jpg",
-      "published_at": "2026-11-12T15:19:49+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le 19‑ans Nikola Tsolov, originaire de Bulgarie, a été désigné pilote de réserve pour Red Bull et Racing Bulls en 2027, après avoir échoué à obtenir un poste à temps plein.",
-      "summary_en": "The 19‑year‑old Bulgarian Nikola Tsolov has been named reserve driver for Red Bull and Racing Bulls in 2027, after missing out on a full‑time seat."
     }
   ]
 }
