@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-15T13:38:26Z",
+  "last_updated": "2026-11-15T16:38:39Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8ec25029dc1f",
+      "title": "Christian Horner blames Red Bull leadership structure for missing F1’s future stars",
+      "title_fr": "Horner blâme Red Bull pour les talents manqués",
+      "title_en": "Horner blames Red Bull for missing future stars",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8V7L6/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": "2026-11-15T16:01:16+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner accuse la structure de direction de Red Bull de l’avoir empêché de recruter Lando Norris, George Russell et Oscar Piastri. Le directeur de l’équipe de Milton Keynes pointe le modèle à double chef comme principal défaut.",
+      "summary_en": "Christian Horner accuses Red Bull’s dual-leadership structure of preventing the team from signing Lando Norris, George Russell and Oscar Piastri. The Milton Keynes principal blames the two-person model as the main flaw."
+    },
     {
       "id": "6eca20a33593",
       "title": "Retaining Lawson isn't enough – Red Bull must stop treating him like a failure",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur général de Haas, Guenther Steiner, remet en question le choix de Lewis Hamilton pour Ferrari, estimant que Max Verstappen serait plus adapté à la tête de l'équipe.",
       "summary_en": "Haas chief Guenther Steiner questions Lewis Hamilton's fit for Ferrari, suggesting Max Verstappen might be a better choice to lead the team."
-    },
-    {
-      "id": "8b451ec8034b",
-      "title": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
-      "title_fr": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
-      "title_en": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guether-steiner-warns-oscar-piastris-mclaren-future-could-be-at-risk-after-2027/10874189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YXyKjJK6/s6/motorsport-com-graphics-94.jpg",
-      "published_at": "2026-11-12T17:44:49+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.<br />Piastri, who fought for the worl",
-      "summary_en": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.<br />Piastri, who fought for the worl"
     }
   ]
 }
