@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T05:00:06Z",
+  "generated_at": "2026-11-16T13:00:43Z",
   "model": "claude",
   "predictions": [
     {
@@ -172,30 +172,30 @@
       "race_id": "las_vegas",
       "session_type": "qualifying",
       "session_date": "2026-11-21T04:00:00+00:00",
-      "p1": "norris",
+      "p1": "antonelli",
       "p2": "russell",
-      "p3": "antonelli",
-      "reasoning_fr": "Sur un circuit urbain où le dépassement est difficile, la grille de départ prime. Norris a remporté la dernière qualification, suivi de près par Russell et Antonelli, qui étaient 3e. Tous trois affichent une excellente forme en qualification et bénéficient d'une évolution rapide du revêtement, favorisant les pilotes à rythme élevé sur un tour. Leur constance en Q et leurs voitures performantes les",
-      "reasoning_en": "On a street circuit where overtaking is limited, the starting grid is paramount. Norris won the last qualifying, with Russell second and Antonelli third. All three show strong recent qualifying form and benefit from rapid track evolution, favoring drivers with high single‑lap pace. Their consistency in Q and competitive cars logically put them at the top.",
-      "confidence": "high",
-      "key_factor_fr": "Qualif récente + évolution piste + circuit urbain",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance : la Mercedes est la référence sur un tour. Las Vegas, avec ses longues lignes droites et ses températures froides, a souvent réussi à Mercedes, qui gère bien la mise en température des pneus (pole et victoire de Russell en 2024). Russell connaît parfaitement ce tracé. Verstappen reste le principal outsider grâce à son efficacité en ligne droite.",
+      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead: Mercedes is the benchmark over one lap. Las Vegas, with its long straights and cold temperatures, has often suited Mercedes, which handles tyre warm-up well (Russell took pole and the win in 2024). Russell knows this layout perfectly. Verstappen remains the main outsider thanks to his straight-line efficiency.",
+      "confidence": "medium",
+      "key_factor_fr": "Mise en température des pneus par nuit froide, avantage Mercedes",
       "news_used_ids": [],
-      "generated_at": "2026-11-16T01:41:01Z"
+      "generated_at": "2026-11-16T13:00:43Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
       "race_id": "las_vegas",
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
-      "p1": "norris",
-      "p2": "russell",
-      "p3": "antonelli",
-      "reasoning_fr": "Sur le Las Vegas Strip, circuit urbain étroit où le dépassement est limité, la grille de départ est décisive. Lando Norris a montré une excellente vitesse sur un tour en qualification (P1 au Brésil) et a remporté la course, prouvant sa maîtrise des rues. George Russell, deuxième en qualification et constant en course, possède une bonne gestion des pneus. Andrea Kimi Antonelli, champion 2026, a con",
-      "reasoning_en": "The Las Vegas Strip is a tight street circuit where overtaking is hard, making the starting grid crucial. Lando Norris demonstrated top‑one qualifying speed in Brazil and won the race, showing his street‑circuit expertise. George Russell, second in qualifying and consistently strong in races, manages tyre wear well. Andrea Kimi Antonelli, the 2026 champion, proved his pace with a P3 in qualifying ",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance et une Mercedes très performante. Las Vegas récompense la vitesse de pointe et la maîtrise des pneus par temps froid, un terrain historiquement favorable à Mercedes (Russell vainqueur en 2024). Verstappen, vainqueur en 2025, reste la principale menace. Russell complète un double podium Mercedes probable.",
+      "reasoning_en": "Antonelli dominates the championship with a 111-point lead and a very strong Mercedes. Las Vegas rewards top speed and cold-weather tyre management, historically good ground for Mercedes (Russell won in 2024). Verstappen, the 2025 winner, remains the main threat. Russell completes a likely double Mercedes podium.",
       "confidence": "medium",
-      "key_factor_fr": "Position de grille sur circuit urbain",
+      "key_factor_fr": "Chauffe des pneus par temps froid et vitesse de pointe",
       "news_used_ids": [],
-      "generated_at": "2026-11-16T01:40:49Z"
+      "generated_at": "2026-11-16T13:00:32Z"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-16T05:00:06Z",
+  "generated_at": "2026-11-16T13:00:43Z",
   "messages": [
     {
-      "id": "2026111605_0",
-      "text_fr": "Norris, Russell, Antonelli sous les néons de Vegas. Mon prono brille plus que le Strip, viens le battre si t'oses 😏",
-      "text_en": "Norris, Russell, Antonelli under the Vegas lights. My prono shines brighter than the Strip, come beat it if you dare 😏",
-      "created_at": "2026-11-16T05:00:17Z"
+      "id": "2026111613_0",
+      "text_fr": "Antonelli, Max, Russell : mon podium vegas est déjà gravé. Toi t'as quoi, un prono au hasard ? Viens battre l'IA 🎰",
+      "text_en": "Antonelli, Max, Russell: my Vegas podium is set in stone. What've you got, a random guess? Come beat the AI 🎰",
+      "created_at": "2026-11-16T13:00:55Z"
     },
     {
-      "id": "2026111605_1",
-      "text_fr": "À Vegas, l'IA a déjà rendu sa copie. Toi, tu cherches encore ton podium ? Défie-moi au lieu de cogiter.",
-      "text_en": "In Vegas, the AI has already handed in its sheet. Still hunting for your podium? Challenge me instead of overthinking.",
-      "created_at": "2026-11-16T05:00:17Z"
+      "id": "2026111613_1",
+      "text_fr": "Sous les néons de Vegas, mon prono brille plus que le Strip. Défie-moi si t'oses, je t'attends au drapeau à damier.",
+      "text_en": "Under the Vegas neons, my prono shines brighter than the Strip. Challenge me if you dare, I'll wait at the chequered flag.",
+      "created_at": "2026-11-16T13:00:55Z"
     }
   ]
 }
