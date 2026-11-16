@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-16T04:40:19Z",
+  "last_updated": "2026-11-16T07:40:45Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "224075377999",
+      "title": "How to watch the 2026 Las Vegas Grand Prix live this weekend | TV Times",
+      "title_fr": "Comment suivre le Grand Prix de Las Vegas 2026 en direct ce week-end",
+      "title_en": "How to watch the 2026 Las Vegas Grand Prix live this weekend",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/16/how-to-watch-the-2026-las-vegas-grand-prix-live-this-weekend/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-23-04-48-33-10-SI202511230197.jpg",
+      "published_at": "2026-11-16T07:15:50+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 s'apprête à franchir le Strip de Las Vegas pour le Grand Prix 2026. Voici les diffusions disponibles et comment les suivre en direct ce week-end.",
+      "summary_en": "Formula 1 heads to the Las Vegas Strip Circuit for the 2026 Grand Prix. Here’s how to watch the race live this weekend, with TV times and streaming options."
+    },
+    {
+      "id": "c61ce8696ae8",
+      "title": "Formula 1's one-race wonders",
+      "title_fr": "Les pilotes qui n’ont eu qu’une seule course en F1",
+      "title_en": "Drivers Who Only Had One F1 Race",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqp9dr4kedd3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee4/live/0fa3dfd0-e041-11f1-88e1-eb4e155225b3.png",
+      "published_at": "2026-11-16T06:53:18+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le texte explore les parcours de pilotes qui n’ont participé qu’à une seule course de Formule 1, depuis leur ascension jusqu’à leur départ. Il rappelle que franchir le seuil de la F1 reste un accomplissement majeur.",
+      "summary_en": "The piece examines the careers of drivers who only raced once in Formula 1, from their rise to their exit, reminding readers that reaching the F1 grid remains a major achievement."
+    },
     {
       "id": "6a58cdacdc1e",
       "title": "Much still to do on F1 diversity - Hamilton",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur de Williams, James Vowles, a déclaré que renoncer aux améliorations aérodynamiques 2026 était horriblement douloureux afin de concentrer les ressources sur la prochaine saison 2027.",
       "summary_en": "Williams team boss James Vowles said it was \"horribly painful\" to skip 2026 aero upgrades, choosing instead to save resources for the 2027 season."
-    },
-    {
-      "id": "b23f34a37496",
-      "title": "Andrew Benson Q&A: Send us your questions",
-      "title_fr": "Andrew Benson lance une série de Q&A hebdomadaires",
-      "title_en": "Andrew Benson launches weekly Q&A series",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
-      "published_at": "2026-11-13T11:30:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Notre correspondant Andrew Benson propose une séance de questions-réponses hebdomadaire cette saison. Envoyez vos questions dès maintenant.",
-      "summary_en": "Our F1 correspondent Andrew Benson is hosting a weekly Q&A this season. Send in your questions now."
-    },
-    {
-      "id": "33783d9a925c",
-      "title": "The Kimi Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
-      "title_fr": "Kimi Antonelli, le champion qui fait des blagues dans le garage Mercedes",
-      "title_en": "Kimi Antonelli, the champion who pulls pranks in the Mercedes garage",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-kimi-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion-/10874164/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6lmAwPK0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-13T10:05:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le nouveau champion du monde, Kimi Antonelli, surprend les mécaniciens de Mercedes en leur faisant des blagues, notamment en pinçant leurs tétons. Cette habitude inhabituelle crée une ambiance de folie dans le garage.",
-      "summary_en": "Kimi Antonelli, the newly crowned Formula One world champion, is known for pranking Mercedes mechanics, even pinching their nipples during pit stops. The odd habit has become a running joke inside the team."
     }
   ]
 }
