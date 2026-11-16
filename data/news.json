@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-16T16:44:26Z",
+  "last_updated": "2026-11-16T19:45:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "c5cc50b7eb04",
+      "title": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
+      "title_fr": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
+      "title_en": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/williams-aston-martin-among-new-f1-liveries-for-las-vegas-gp-as-acura-replaces-honda/10874925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKxKQY/s6/williams-las-vegas-livery.jpg",
+      "published_at": "2026-11-16T18:45:08+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Williams and Aston Martin are among the F1 teams to have revamped their car liveries for this weekend's Las Vegas Grand Prix.<br />F1 heads to Las Vegas for its third of three US races, with the enter",
+      "summary_en": "Williams and Aston Martin are among the F1 teams to have revamped their car liveries for this weekend's Las Vegas Grand Prix.<br />F1 heads to Las Vegas for its third of three US races, with the enter"
+    },
+    {
+      "id": "360fb8e2d699",
+      "title": "Lando Norris's LN4 Fusion signs former Red Bull junior Oliver Goethe as its first F2 driver",
+      "title_fr": "Norris lance LN4 Fusion avec Oliver Goethe en F2",
+      "title_en": "Norris launches LN4 Fusion with Oliver Goethe in F2",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norriss-ln4-fusion-signs-former-red-bull-junior-oliver-goethe-as-its-first-f2-driver/10874918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/0LdereN0/s6/motorsport-com-graphics.jpg",
+      "published_at": "2026-11-16T17:51:34+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a créé l'équipe junior LN4 Fusion qui a signé Oliver Goethe, ancien junior de Red Bull, comme premier pilote pour la saison 2027 de la Formule 2. Goethe, 22 ans, quitte MP Motorsport après deux podiums cette année.",
+      "summary_en": "Lando Norris has launched the junior team LN4 Fusion, signing former Red Bull junior Oliver Goethe as its first driver for the 2027 Formula 2 season. Goethe, 22, leaves MP Motorsport after two podiums this year."
+    },
+    {
+      "id": "b951ca1bb305",
+      "title": "Lando Norris: F1 needs better rain tyres as wet Las Vegas would be \"scary\"",
+      "title_fr": "Norris réclame de meilleurs pneus pluie pour Las Vegas",
+      "title_en": "Norris calls for better rain tyres for Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-f1-needs-better-rain-tyres-as-wet-las-vegas-would-be-scary/10874689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/27No3ae0/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-11-16T17:30:42+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le champion du monde Lando Norris demande à Pirelli de proposer des pneus pluie nettement améliorés pour 2027, estimant que les modèles actuels ne suffiraient pas sur un circuit à faible downforce comme Las Vegas.",
+      "summary_en": "World champion Lando Norris urges Pirelli to deliver significantly better rain tyres for 2027, saying the current range will not perform adequately on a low-downforce track like Las Vegas."
+    },
+    {
+      "id": "0ffc1ed40ea0",
+      "title": "Norris: Las Vegas GP would be \"scary\" with current F1 wet tyres",
+      "title_fr": "Norris exige de meilleurs pneus pluie pour Las Vegas",
+      "title_en": "Norris demands better wet tyres for Las Vegas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/lando-norris-f1-needs-better-rain-tyres-as-wet-las-vegas-would-be-scary/10874886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/0o5AVObY/s6/lando-norris-mclaren-george-ru-2.jpg",
+      "published_at": "2026-11-16T17:30:03+00:00",
+      "race_id": "singapore",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris réclame des pneus pluie améliorés pour le Grand Prix de Las Vegas, estimant que la gamme actuelle ne suffira pas sur le circuit à faible downforce. Il cite les conditions humides du Grand Prix brésilien.",
+      "summary_en": "Lando Norris is calling for improved wet tyres for the Las Vegas GP, saying the current range will not cope on the low‑downforce circuit. He points to the rain‑affected qualifying at the Brazilian Grand Prix."
+    },
+    {
+      "id": "59a0af464702",
+      "title": "Hamilton tells F1 to spend £50 million in promoting under-represented talent | Formula 1",
+      "title_fr": "Hamilton réclame 50 millions de livres pour les talents sous-représentés",
+      "title_en": "Hamilton calls for £50 million to promote under‑represented talent",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/16/hamilton-tells-f1-to-spend-50-million-in-promoting-under-represented-talent/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-20-00-51-5-261025_R18_USA_DP_XB3_0609.jpg",
+      "published_at": "2026-11-16T17:10:16+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton, via son organisation Mission 44, a demandé à la Formule 1 d’investir 50 millions de livres sterling pour soutenir les talents sous‑représentés. Le pilote espère une meilleure visibilité pour ces pilotes.",
+      "summary_en": "Lewis Hamilton, through his Mission 44 organisation, has urged Formula 1 to invest £50 million to support under‑represented talent. The driver hopes for greater visibility for these drivers."
+    },
     {
       "id": "4b4552a11008",
       "title": "Toto Wolff predicts Kimi Antonelli will become more popular in Italy than Michael Schumacher",
@@ -39,6 +134,25 @@
       "is_breaking": false,
       "summary_fr": "Aston Martin reveals special livery for Las Vegas Grand Prix",
       "summary_en": "Aston Martin reveals special livery for Las Vegas Grand Prix"
+    },
+    {
+      "id": "7622ed877cb6",
+      "title": "Williams and Aston Martin reveal one-off liveries for Las Vegas Grand Prix | Formula 1",
+      "title_fr": "Williams et Aston Martin dévoilent des liveries uniques pour le Grand Prix de Las Vegas",
+      "title_en": "Williams and Aston Martin unveil unique liveries for Las Vegas Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/16/williams-and-aston-martin-reveal-one-off-liveries-for-las-vegas-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-16-17-11-53-1-Atlassian-and-Williams-F1-Team-light-the-way-forward-with-blue-chrome-Las-Vegas-livery.jpg",
+      "published_at": "2026-11-16T16:10:54+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Williams et Aston Martin ont présenté des carrosseries exclusives pour le Grand Prix de Las Vegas, marquant un changement visuel notable pour la saison.",
+      "summary_en": "Williams and Aston Martin unveiled exclusive liveries for the Las Vegas Grand Prix, marking a notable visual change for the season."
     },
     {
       "id": "745bc07dc3dd",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Andrea Kimi Antonelli a couronné champion du monde en 2026. Le sondage interroge les fans sur les pilotes qui auraient pu remporter le titre en conduisant sa voiture.",
       "summary_en": "Andrea Kimi Antonelli was crowned 2026 world champion. The poll asks fans which rivals could have won the title driving his car."
-    },
-    {
-      "id": "3ec2ca07887f",
-      "title": "James Allison admits flawed “Update 18” made the Mercedes W17 a “handful”",
-      "title_fr": "Allison confesse l'erreur de la mise à jour 18",
-      "title_en": "Allison admits flaw in Update 18",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/james-allison-admits-flawed-update-18-made-the-mercedes-w17-a-handful/10874437/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8VQo6/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": "2026-11-14T23:12:53+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "James Allison, directeur technique de Mercedes, reconnaît que la mise à jour 18 a affaibli la W17, contribuant à la convergence des performances vers la fin de la saison 2026.",
-      "summary_en": "Mercedes technical director James Allison admits that Update 18 weakened the W17, helping the car catch up as the 2026 season nears its end."
-    },
-    {
-      "id": "18a5444b9420",
-      "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
-      "title_fr": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
-      "title_en": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-14T17:39:40+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.<br />The Australian driver",
-      "summary_en": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.<br />The Australian driver"
-    },
-    {
-      "id": "7c282014cfca",
-      "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
-      "title_fr": "Rosberg explique la rupture avec Hamilton à Mercedes",
-      "title_en": "Rosberg Reveals the Conspiracy Behind Hamilton's Rivalry at Mercedes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0R7BEVZ2/s6/lewis-hamilton-mercdes-nico-ro.jpg",
-      "published_at": "2026-11-14T16:30:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Nico Rosberg explique que la relation amicale avec Lewis Hamilton s’est transformée en rivalité interne à Mercedes, évoquant une conspiration qui a failli ruiner leur partenariat.",
-      "summary_en": "Nico Rosberg says the friendship with Lewis Hamilton turned into an intra-team rivalry at Mercedes, alleging a conspiracy that nearly ruined their partnership."
-    },
-    {
-      "id": "7fc778c293c9",
-      "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
-      "title_fr": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
-      "title_en": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card/10874547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YE9EV1qY/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-14T16:24:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.<br />The Ferrari driver became only the secon",
-      "summary_en": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.<br />The Ferrari driver became only the secon"
-    },
-    {
-      "id": "fc49de363c38",
-      "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
-      "title_fr": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
-      "title_en": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-tech-boss-warns-f1-teams-wont-lie-down-over-massive-2027-downforce-cuts/10874433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/6lmARXD0/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": "2026-11-14T12:14:36+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under ",
-      "summary_en": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under "
-    },
-    {
-      "id": "6ce44eb4e2f7",
-      "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
-      "title_fr": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
-      "title_en": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/0o5AVbPY/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-14T11:32:50+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.<br />Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both ",
-      "summary_en": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.<br />Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both "
     }
   ]
 }
