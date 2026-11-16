@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-15T22:39:33Z",
+  "last_updated": "2026-11-16T01:40:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6a58cdacdc1e",
+      "title": "Much still to do on F1 diversity - Hamilton",
+      "title_fr": "Hamilton appelle à plus de diversité en F1",
+      "title_en": "Hamilton calls for more diversity in F1",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c1/live/e6f16ac0-df8d-11f1-a5d4-0b20a170e974.jpg",
+      "published_at": "2026-11-16T00:04:45+00:00",
+      "race_id": "uk",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton, pilote britannique, expose trois mesures pour renforcer la diversité dans la Formule 1.",
+      "summary_en": "Lewis Hamilton, the British F1 driver, outlines three steps to boost diversity in the sport."
+    },
+    {
+      "id": "93611f6fc2c9",
+      "title": "Christian Horner admits Red Bull prospects were thrown in against Max Verstappen too soon",
+      "title_fr": "Horner dénonce la précocité des pilotes chez Red Bull",
+      "title_en": "Horner criticises Red Bull's early driver pipeline",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAXRj0/s6/motorsport-com-graphics-2026-1-2.jpg",
+      "published_at": "2026-11-15T23:30:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner, ancien directeur de Red Bull, a déclaré que les jeunes pilotes étaient introduits trop tôt dans l'équipe, avant d'être prêts à suivre Max Verstappen.",
+      "summary_en": "Former Red Bull chief Christian Horner admitted that the team's young drivers were promoted too early, before they were ready to follow Max Verstappen."
+    },
+    {
+      "id": "f0992f8befca",
+      "title": "Topps reveals Gem Mint 10 Lando Norris card with Coca-Cola suit patch",
+      "title_fr": "Topps dévoile la carte Gem Mint 10 de Lando Norris avec patch Coca-Cola",
+      "title_en": "Topps unveils Lando Norris Gem Mint 10 card with Coca-Cola patch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-6.motorsport.com/images/amp/6b8ZMdv2/s6/motorsport-com-graphics-2026-1.jpg",
+      "published_at": "2026-11-15T22:47:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Topps a publié une carte Gem Mint 10 de Lando Norris, signée et portant un patch Coca-Cola issu de son maillot McLaren. La carte est issue de la série Single Driver Dual Relic",
+      "summary_en": "Topps released a Gem Mint 10 Lando Norris card, signed and featuring a Coca-Cola patch cut from his McLaren race suit. The card comes from the Single Driver Dual Relic series"
+    },
     {
       "id": "3343805d8ba8",
       "title": "Kimi Antonelli names biggest threat to 2027 title defence as he warns Mercedes advantage may fade",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le nouveau champion du monde, Kimi Antonelli, surprend les mécaniciens de Mercedes en leur faisant des blagues, notamment en pinçant leurs tétons. Cette habitude inhabituelle crée une ambiance de folie dans le garage.",
       "summary_en": "Kimi Antonelli, the newly crowned Formula One world champion, is known for pranking Mercedes mechanics, even pinching their nipples during pit stops. The odd habit has become a running joke inside the team."
-    },
-    {
-      "id": "c8265cd6b910",
-      "title": "The Antonelli you don't know: Inside the Mercedes garage with F1's new world champion",
-      "title_fr": "Antonelli, le champion qui fait des blagues dans le garage Mercedes",
-      "title_en": "Antonelli, the champion who pulls pranks in the Mercedes garage",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/the-antonelli-you-dont-know-inside-the-mercedes-garage-with-f1s-new-world-champion/10874265/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0o5AwKwY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-11-13T10:04:48+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, nouveau champion du monde, surprend les mécaniciens de Mercedes en leur faisant des blagues, notamment en pinçant leurs mamelons. Cette farce montre son côté espiègle et son intégration dans l’équipe.",
-      "summary_en": "Kimi Antonelli, the newly crowned world champion, surprises Mercedes mechanics with pranks, including pinching their nipples. The joke highlights his playful side and his integration into the team."
-    },
-    {
-      "id": "97eff65bf581",
-      "title": "Spotlight: FIA pulls F1 reporter’s pass over column calling Leclerc a ‘sneaky b*****d’ | Brief",
-      "title_fr": "Spotlight: FIA pulls F1 reporter’s pass over column calling Leclerc a ‘sneaky b*****d’ | Brief",
-      "title_en": "Spotlight: FIA pulls F1 reporter’s pass over column calling Leclerc a ‘sneaky b*****d’ | Brief",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/13/spotlight-fia-pulls-f1-reporters-pass-over-column-calling-leclerc-a-sneaky-bd/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-07-10-56-53-6-12-australia-gp-sat-2026_29e56545-780f-4b8d-b9ef-47200e838052.jpg",
-      "published_at": "2026-11-13T09:33:53+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "FIA pulls F1 reporter's pass over Leclerc 'b*****d' column",
-      "summary_en": "FIA pulls F1 reporter's pass over Leclerc 'b*****d' column"
-    },
-    {
-      "id": "5eaac6f42cbb",
-      "title": "F1 driver contracts: How long is each driver tied down for?",
-      "title_fr": "Durée des contrats F1 : combien de temps chaque pilote est lié",
-      "title_en": "F1 driver contracts: How long each driver is tied down",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-driver-contracts-how-long-is-each-driver-tied-down-for/10850679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/0Ld5LDa0/s6/drivers-group-photo.jpg",
-      "published_at": "2026-11-13T09:32:20+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Les contrats des pilotes de Formule 1 sont souvent gardés secrets, mais la durée de chaque accord est généralement connue. L'article détaille les durées des contrats actuels, notamment celui de Lando Norris jusqu'en 2030.",
-      "summary_en": "F1 driver contracts are usually kept confidential, but the length of each deal is often public. The article outlines the current contract durations, including Lando Norris’s four‑year deal with McLaren until 2030."
     }
   ]
 }
