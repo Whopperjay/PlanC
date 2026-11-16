@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T13:00:38Z",
-  "model": "claude",
+  "generated_at": "2026-11-16T01:41:02Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -172,30 +172,30 @@
       "race_id": "las_vegas",
       "session_type": "qualifying",
       "session_date": "2026-11-21T04:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "norris",
       "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance, et la Mercedes est la référence en 2026. Las Vegas, avec ses longues lignes droites, ses températures fraîches de nuit et une adhérence faible, a historiquement réussi aux Flèches d'Argent, qui y chauffent bien leurs pneus. Russell, vainqueur ici en 2024, est son rival direct. Verstappen reste redoutable sur un tour lancé.",
-      "reasoning_en": "Antonelli leads the championship by 111 points, and Mercedes is the 2026 benchmark car. Las Vegas has long straights, cool night temperatures and low grip, which have historically suited the Silver Arrows and their ability to warm up the tyres. Russell, who won here in 2024, is his closest threat. Verstappen remains dangerous over a single flying lap.",
-      "confidence": "medium",
-      "key_factor_fr": "Mercedes dominante, efficace dans le froid nocturne de Vegas",
+      "p3": "antonelli",
+      "reasoning_fr": "Sur un circuit urbain où le dépassement est difficile, la grille de départ prime. Norris a remporté la dernière qualification, suivi de près par Russell et Antonelli, qui étaient 3e. Tous trois affichent une excellente forme en qualification et bénéficient d'une évolution rapide du revêtement, favorisant les pilotes à rythme élevé sur un tour. Leur constance en Q et leurs voitures performantes les",
+      "reasoning_en": "On a street circuit where overtaking is limited, the starting grid is paramount. Norris won the last qualifying, with Russell second and Antonelli third. All three show strong recent qualifying form and benefit from rapid track evolution, favoring drivers with high single‑lap pace. Their consistency in Q and competitive cars logically put them at the top.",
+      "confidence": "high",
+      "key_factor_fr": "Qualif récente + évolution piste + circuit urbain",
       "news_used_ids": [],
-      "generated_at": "2026-11-15T13:00:38Z"
+      "generated_at": "2026-11-16T01:41:01Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
       "race_id": "las_vegas",
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "norris",
       "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance, ce qui confirme que la Mercedes est la référence en 2026. Sur le tracé rapide et froid de Las Vegas, Mercedes s'est déjà montrée très efficace, avec la victoire de Russell en 2024. Russell devrait donc compléter un doublé. Verstappen, deuxième au championnat, reste le plus régulier face aux Ferrari et aux McLaren.",
-      "reasoning_en": "Antonelli leads the championship by 111 points, which confirms Mercedes is the benchmark car in 2026. Mercedes has a strong record on the fast, cold Las Vegas layout, with Russell winning there in 2024. Russell should therefore complete a one-two. Verstappen, second in the standings, remains the most consistent challenger ahead of Ferrari and McLaren.",
+      "p3": "antonelli",
+      "reasoning_fr": "Sur le Las Vegas Strip, circuit urbain étroit où le dépassement est limité, la grille de départ est décisive. Lando Norris a montré une excellente vitesse sur un tour en qualification (P1 au Brésil) et a remporté la course, prouvant sa maîtrise des rues. George Russell, deuxième en qualification et constant en course, possède une bonne gestion des pneus. Andrea Kimi Antonelli, champion 2026, a con",
+      "reasoning_en": "The Las Vegas Strip is a tight street circuit where overtaking is hard, making the starting grid crucial. Lando Norris demonstrated top‑one qualifying speed in Brazil and won the race, showing his street‑circuit expertise. George Russell, second in qualifying and consistently strong in races, manages tyre wear well. Andrea Kimi Antonelli, the 2026 champion, proved his pace with a P3 in qualifying ",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes et efficacité sur les longues lignes droites froides",
+      "key_factor_fr": "Position de grille sur circuit urbain",
       "news_used_ids": [],
-      "generated_at": "2026-11-15T13:00:28Z"
+      "generated_at": "2026-11-16T01:40:49Z"
     }
   ]
 }
