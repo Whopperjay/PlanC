@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-11-16T07:40:45Z",
+  "last_updated": "2026-11-16T10:42:23Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "10d332dca0fb",
+      "title": "Racing Bulls boss Permane “should talk up” need for cost cap changes – Vowles | Formula 1",
+      "title_fr": "Vowles réclame des révisions du plafond de dépenses pour Williams",
+      "title_en": "Vowles calls for cost-cap changes at Williams",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/16/racing-bulls-boss-permane-should-talk-up-need-for-cost-cap-changes-vowles/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-16-08-48-30-1-SI202509070602.jpg",
+      "published_at": "2026-11-16T10:05:49+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "James Vowles, directeur de Williams, estime que l’équipe de milieu de terrain dominante en 2026 doit pousser à revoir le plafond de dépenses de la Formule 1.",
+      "summary_en": "James Vowles, Williams team principal, says the leading midfield outfit of 2026 should push for changes to Formula 1's cost cap."
+    },
+    {
+      "id": "44b4df099261",
+      "title": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
+      "title_fr": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
+      "title_en": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/haas-sticks-with-rafael-camara-for-las-vegas-ryo-hirakawa-in-for-fp1/10874781/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg",
+      "published_at": "2026-11-16T09:52:30+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara will race again for Haas at Formula 1's upcoming Las Vegas Grand Prix, as Ryo Hirakawa takes Ollie Bearman's seat for the opening practice session.<br />Both Hirakawa and Camara have now",
+      "summary_en": "Rafael Camara will race again for Haas at Formula 1's upcoming Las Vegas Grand Prix, as Ryo Hirakawa takes Ollie Bearman's seat for the opening practice session.<br />Both Hirakawa and Camara have now"
+    },
+    {
+      "id": "f179fdc588c5",
+      "title": "Haas sticks with Rafael Camara for Las Vegas, Ryo Hirakawa in for FP1",
+      "title_fr": "Haas conserve Camara pour Las Vegas, Hirakawa remplace Bearman en FP1",
+      "title_en": "Haas keeps Camara for Las Vegas, Hirakawa replaces Bearman in FP1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/haas-sticks-with-camara-for-las-vegas-hirakawa-in-for-fp1/10874778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-2.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg",
+      "published_at": "2026-11-16T09:51:16+00:00",
+      "race_id": "lasvegas",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara reste pilote de Haas pour le Grand Prix de Las Vegas, tandis que Ryo Hirakawa prend la place d'Ollie Bearman lors de la séance d'entraînement FP1. Les deux pilotes ont couru pour l'équipe après le retrait d'Esteban Ocon.",
+      "summary_en": "Rafael Camara will stay with Haas for the Las Vegas Grand Prix, while Ryo Hirakawa takes Ollie Bearman's seat for the FP1 session. Both drivers have already raced for the team after Esteban Ocon was stood down."
+    },
+    {
+      "id": "38065aca1d0c",
+      "title": "What is left to fight for in F1 2026?",
+      "title_fr": "Quelles batailles restent à livrer en F1 2026 ?",
+      "title_en": "What battles remain in F1 2026?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/YWKAgaVY/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-11-16T09:29:36+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté son premier titre mondial, devenant le plus jeune champion de Formule 1. Max Verstappen, en tête des points depuis huit manches, se trouve à la deuxième place, bataille pour la deuxième place plus serrée que jamais.",
+      "summary_en": "Kimi Antonelli captured his first world title, becoming Formula 1's youngest champion. Max Verstappen, leading the points over the last eight races, sits in second place, and the fight for second is tighter than ever."
+    },
+    {
+      "id": "ac82cebbadd0",
+      "title": "What is left to fight for in F1 2026?",
+      "title_fr": "Quelles batailles restent à livrer en 2026 ?",
+      "title_en": "What battles remain in 2026?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbAX7g0/s6/lewis-hamilton-ferrari-max-ver-3.jpg",
+      "published_at": "2026-11-16T09:28:44+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a remporté son premier titre mondial, devenant le plus jeune champion de F1. Max Verstappen, deuxième du classement, poursuit la lutte pour la deuxième place, tandis que cinq pilotes se disputent la troisième position.",
+      "summary_en": "Kimi Antonelli clinched his first world title, becoming the youngest F1 champion. Max Verstappen, now second in the standings, is chasing the top spot while five drivers battle for third."
+    },
+    {
+      "id": "9f8c1a3e0d6e",
+      "title": "Camara to race again for Haas in Las Vegas",
+      "title_fr": "Camara revient chez Haas pour Las Vegas",
+      "title_en": "Camara returns to Haas for Las Vegas",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c804w7nxr61zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/c21954a0-e196-11f1-9e84-492a244b27cc.jpg",
+      "published_at": "2026-11-16T08:35:56+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara reprendra la grille de Haas au Grand Prix de Las Vegas après le licenciement d'Esteban Ocon.",
+      "summary_en": "Rafael Camara will race again for Haas at the Las Vegas Grand Prix following Esteban Ocon's sacking."
+    },
+    {
+      "id": "eac563f2f21e",
+      "title": "Camara to race for Haas again in Las Vegas, Hirakawa to drive in practice | Formula 1",
+      "title_fr": "Camara revient chez Haas pour le Grand Prix de Las Vegas",
+      "title_en": "Camara returns to Haas for Las Vegas Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/16/camara-to-race-for-haas-again-in-las-vegas-hirakawa-to-drive-in-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-09-33-11-7-2304108143-481.jpg",
+      "published_at": "2026-11-16T08:12:57+00:00",
+      "race_id": "lasvegas",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara reprendra la ligne de départ de Haas à Las Vegas, tandis que Hirakawa participera aux séances d’essai. Le pilote brésilien confirme son retour après une absence de la saison.",
+      "summary_en": "Rafael Camara will race for Haas again in Las Vegas, while Hirakawa will drive in practice sessions. The Brazilian driver confirms his return after missing the season."
+    },
+    {
+      "id": "e3318224dc95",
+      "title": "How to follow Las Vegas Grand Prix on the BBC",
+      "title_fr": "Suivre le Grand Prix de Las Vegas sur la chaîne britannique",
+      "title_en": "Follow the Las Vegas Grand Prix on BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b17f/live/9bd4e250-ddc2-11f1-a50f-85eebf9e50e5.jpg",
+      "published_at": "2026-11-16T08:07:20+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La chaîne britannique propose une couverture complète du Grand Prix de Las Vegas du 20 au 22 novembre. Suivez les diffusions, les commentaires et les analyses en direct.",
+      "summary_en": "BBC will provide full coverage of the Las Vegas Grand Prix from 20 to 22 November. Follow live broadcasts, commentary and analysis."
+    },
     {
       "id": "224075377999",
       "title": "How to watch the 2026 Las Vegas Grand Prix live this weekend | TV Times",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "As George Russell took pole for F1 2026's curtain raiser in Australia by a whopping eight tenths over Mercedes's nearest rivals, you could see the collective heads drop in the paddock.<br />With this ",
       "summary_en": "As George Russell took pole for F1 2026's curtain raiser in Australia by a whopping eight tenths over Mercedes's nearest rivals, you could see the collective heads drop in the paddock.<br />With this "
-    },
-    {
-      "id": "fec60adb4c1f",
-      "title": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
-      "title_fr": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
-      "title_en": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27vEn7m0/s6/daniel-ricciardo-rb-f1-team.jpg",
-      "published_at": "2026-11-13T17:06:56+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he requi",
-      "summary_en": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he requi"
-    },
-    {
-      "id": "e69aa7882a1e",
-      "title": "Damon Hill: Ferrari has a “political problem” as Lewis Hamilton “rebuilt himself”",
-      "title_fr": "Hill dénonce la politique de Ferrari après la réunion avec Hamilton",
-      "title_en": "Hill criticises Ferrari's politics after meeting with Hamilton",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/damon-hill-ferrari-has-a-political-problem-as-lewis-hamilton-rebuilt-himself-after-abu-dhabi-202/10874278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YBVjRDMY/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": "2026-11-13T16:25:05+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Damon Hill accuse Ferrari de dissimuler un conflit interne après que le directeur technique Fred Vasseur ait déclaré que Hamilton et Leclerc se sont retrouvés en privé. Le champion 1996 ne croit pas à la cohésion apparente.",
-      "summary_en": "Damon Hill accuses Ferrari of hiding an internal rift after team principal Fred Vasseur said Hamilton and Leclerc had a private meeting. The 1996 champion doubts the apparent harmony."
-    },
-    {
-      "id": "1482ab5468e5",
-      "title": "Las Vegas GP reveals neon sign-inspired trophy design",
-      "title_fr": "Trophée Las Vegas inspiré des néons dévoilé",
-      "title_en": "Las Vegas GP unveils neon-inspired trophy",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/6zoD8dJ0/s6/20949for-2026-f1-trophy206172.jpg",
-      "published_at": "2026-11-13T16:09:45+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Las Vegas présente un trophée de 3,6 kg, 56 cm de haut, inspiré des néons emblématiques de la ville. Conçu en six mois, il compte 122 lumières.",
-      "summary_en": "The Las Vegas Grand Prix unveiled a 3.6‑kg, 56‑cm trophy inspired by the city’s neon lights. Built over six months, it features 122 lights."
-    },
-    {
-      "id": "2f3a7739b1b3",
-      "title": "Featured Comment: Pay more attention to Racing Bulls helping Red Bull | Brief",
-      "title_fr": "Racing Bulls, l'allié inattendu de Red Bull",
-      "title_en": "Racing Bulls, the unexpected ally of Red Bull",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/13/featured-comment-pay-more-attention-to-racing-bulls-helping-red-bull/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-29-10-01-48-3-SI202603290536.jpg",
-      "published_at": "2026-11-13T15:35:32+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Les Racing Bulls méritent plus d'attention pour leur soutien à Red Bull, une équipe concurrente. Cette collaboration soulève des questions sur la neutralité des équipes.",
-      "summary_en": "Racing Bulls deserve more scrutiny for supporting Red Bull, a rival team. Their collaboration raises questions about team neutrality."
-    },
-    {
-      "id": "069660e76511",
-      "title": "Mercedes could only gamble on Kimi Antonelli because of George Russell, Toto Wolff told staff",
-      "title_fr": "Mercedes ne risque pas d'Antonelli sans Russell, dit Wolff",
-      "title_en": "Mercedes could only gamble on Antonelli with Russell, says Wolff",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-could-only-gamble-on-kimi-antonelli-because-of-george-russell-toto-wolff-told-staff/10874338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6lmARg80/s6/motorsport-com-graphics-100.jpg",
-      "published_at": "2026-11-13T15:30:07+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a expliqué que Mercedes ne pouvait prendre le risque de promouvoir Kimi Antonelli sans déjà compter sur George Russell. Le pilote italien, champion en 2025, rejoint l'équipe après la sortie de Lewis Hamilton.",
-      "summary_en": "Toto Wolff said Mercedes could only risk promoting Kimi Antonelli because they already had George Russell. The Italian champion, who won his first title in 2025, joins the team after Lewis Hamilton left for Ferrari."
-    },
-    {
-      "id": "e43bf0fda234",
-      "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
-      "title_fr": "Toto Wolff propose sa démission, la direction refuse",
-      "title_en": "Toto Wolff offers resignation, Mercedes CEO refuses",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YN7vz9j6/s6/motorsport-com-graphics-99-2.jpg",
-      "published_at": "2026-11-13T12:37:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a proposé sa démission lors des difficultés récentes de Mercedes, mais le directeur général a refusé de le laisser partir.",
-      "summary_en": "Toto Wolff offered to resign amid Mercedes' recent struggles, but the CEO declined to let him leave."
-    },
-    {
-      "id": "4a500a98bf0e",
-      "title": "Red Bull F1 car takes on MotoGP bike, rally car and snowmobile in extreme ice race",
-      "title_fr": "Red Bull oppose F1, MotoGP, rallye et motoneige sur glace",
-      "title_en": "Red Bull pits F1 car against MotoGP bike, rally car and snowmobile in ice race",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/27No3m30/s6/motorsport-com-graphics-98.jpg",
-      "published_at": "2026-11-13T12:25:26+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a organisé une course d'hiver extrême où une Formule 1, un MotoGP, un rallye, un camion Pro 4 et une motoneige ont concouru sur un lac gelé. Dani Pedrosa a gagné sur une KTM MotoGP.",
-      "summary_en": "Red Bull organized an extreme winter race where a Formula 1 car, a MotoGP bike, a rally car, a Pro 4 truck and a snowmobile competed on a frozen lake. Dani Pedrosa won on a KTM MotoGP."
-    },
-    {
-      "id": "7f003d4030bc",
-      "title": "\"It's horribly painful\" - Williams drops 2026 car upgrades to benefit 2027",
-      "title_fr": "Williams abandonne les améliorations 2026 pour préparer 2027",
-      "title_en": "Williams drops 2026 upgrades to prepare for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwMox2/s6/alexander-albon-williams.jpg",
-      "published_at": "2026-11-13T12:15:32+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Williams, James Vowles, a déclaré que renoncer aux améliorations aérodynamiques 2026 était horriblement douloureux afin de concentrer les ressources sur la prochaine saison 2027.",
-      "summary_en": "Williams team boss James Vowles said it was \"horribly painful\" to skip 2026 aero upgrades, choosing instead to save resources for the 2027 season."
     }
   ]
 }
