@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-11-16T13:42:49Z",
+  "last_updated": "2026-11-16T16:44:26Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "4b4552a11008",
+      "title": "Toto Wolff predicts Kimi Antonelli will become more popular in Italy than Michael Schumacher",
+      "title_fr": "Wolff : Antonelli plus populaire que Schumacher en Italie",
+      "title_en": "Wolff: Antonelli will outshine Schumacher in Italy",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-says-kimi-antonelli-is-more-loved-in-italy-than-michael-schumacher-was-at-ferrari/10874809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/2dEoloBY/s6/motorsport-com-graphics-5-2.jpg",
+      "published_at": "2026-11-16T16:17:25+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Mercedes, Toto Wolff, affirme que Kimi Antonelli deviendra plus populaire en Italie que Michael Schumacher après la victoire du jeune pilote au championnat du monde 2026.",
+      "summary_en": "Mercedes team principal Toto Wolff claims Kimi Antonelli will become more popular in Italy than Michael Schumacher after his 2026 world championship win."
+    },
+    {
+      "id": "ee8211edb9b2",
+      "title": "Spotlight: Aston Martin reveals one-off livery for Las Vegas Grand Prix | Spotlight",
+      "title_fr": "Spotlight: Aston Martin reveals one-off livery for Las Vegas Grand Prix | Spotlight",
+      "title_en": "Spotlight: Aston Martin reveals one-off livery for Las Vegas Grand Prix | Spotlight",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/16/spotlight-aston-martin-reveals-one-off-livery-for-las-vegas-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-16-16-09-48-2-53d7e603-9bac-4698-e00c-ba6a0a0f7d6e.jpg",
+      "published_at": "2026-11-16T16:10:54+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Aston Martin reveals special livery for Las Vegas Grand Prix",
+      "summary_en": "Aston Martin reveals special livery for Las Vegas Grand Prix"
+    },
+    {
+      "id": "745bc07dc3dd",
+      "title": "Christian Horner’s private message to Toto Wolff revealed after Kimi Antonelli's 2026 F1 title",
+      "title_fr": "Horner félicite Wolff après la victoire d'Antonelli",
+      "title_en": "Horner sends message to Wolff after Antonelli's title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horners-private-message-to-toto-wolff-revealed-respect-for-you/10874823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/6O7zEzX6/s6/motorsport-com-graphics-4-2.jpg",
+      "published_at": "2026-11-16T16:02:29+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner a envoyé un message de félicitations à Toto Wolff après la victoire historique de Kimi Antonelli en 2026. Le directeur de Red Bull a salué la performance de Mercedes.",
+      "summary_en": "Christian Horner sent a congratulatory message to Toto Wolff after Kimi Antonelli's historic 2026 title win. The Red Bull chief praised Mercedes' performance."
+    },
+    {
+      "id": "e0daec267ee9",
+      "title": "Zak Brown recalls McLaren's \"very toxic environment\" after joining team in 2016",
+      "title_fr": "Zak Brown dénonce l'environnement toxique de McLaren",
+      "title_en": "Zak Brown calls McLaren environment toxic",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/zak-brown-recalls-mclarens-very-toxic-environment-after-joining-team-in-2016/10874891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-4.motorsport.com/images/amp/YXyKXKd6/s6/motorsport-com-graphics-3.jpg",
+      "published_at": "2026-11-16T15:54:25+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur général de McLaren, Zak Brown, décrit l'équipe qu'il a intégrée en 2016 comme très toxique, attribuant les résultats décevants à un roulement constant de dirigeants.",
+      "summary_en": "McLaren CEO Zak Brown calls the team he joined in 2016 a 'very toxic environment', blaming a revolving door of leaders for poor results on and off the track."
+    },
+    {
+      "id": "ed78846d0eed",
+      "title": "Lewis Hamilon reportedly house-hunting in LA amid Kim Kardashian relationship",
+      "title_fr": "Hamilton cherche une maison à Los Angeles",
+      "title_en": "Hamilton looks for a home in Los Angeles",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilon-reportedly-house-hunting-in-la-amid-kim-kardashian-relationship/10874877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2jEAkAp0/s6/motorsport-com-graphics-2.jpg",
+      "published_at": "2026-11-16T15:08:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Lewis Hamilton, sept fois champion du monde, cherche une maison à Los Angeles pour passer plus de temps avec Kim Kardashian et ses enfants, selon le Daily Mail.",
+      "summary_en": "Lewis Hamilton, the seven-time world champion, is reportedly looking for a house in Los Angeles to spend more time with Kim Kardashian and her children, according to the Daily Mail."
+    },
+    {
+      "id": "690118f31ab2",
+      "title": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
+      "title_fr": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
+      "title_en": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVorJzY/s6/the-welcome-to-las-vegas-sign.jpg",
+      "published_at": "2026-11-16T15:02:24+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.<br />Las Vegas Grand Prix 2026 sc",
+      "summary_en": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.<br />Las Vegas Grand Prix 2026 sc"
+    },
+    {
+      "id": "2939a39c7b7b",
+      "title": "F1 Las Vegas GP 2026: UK times, schedule and how to watch",
+      "title_fr": "Las Vegas GP 2026 : horaires UK et programme complet",
+      "title_en": "Las Vegas GP 2026: UK times and full schedule",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-uk-times-schedule-how-to-watch/10874860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7AZ9g6/s6/a-rainbow-above-the-welcome-to.jpg",
+      "published_at": "2026-11-16T14:50:05+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix de Las Vegas 2026 débute à 4h du matin, heure du Royaume-Uni, le 22 novembre. Toutes les sessions se déroulent la nuit à Las Vegas et sont diffusées en direct sur Sky Sports F1.",
+      "summary_en": "The Las Vegas Grand Prix 2026 starts at 4 am UK time on Sunday 22 November. All sessions run overnight in Las Vegas and are broadcast live on Sky Sports F1."
+    },
+    {
+      "id": "ce0536a69e1d",
+      "title": "F1 driver manager Enrico Zanarini recounts his 50 years in motorsport",
+      "title_fr": "F1 driver manager Enrico Zanarini recounts his 50 years in motorsport",
+      "title_en": "F1 driver manager Enrico Zanarini recounts his 50 years in motorsport",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-driver-manager-enrico-zanarini-recounts-his-50-years-in-motorsport/10874697/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7Qrqp6/s6/enrico-zanarini.jpg",
+      "published_at": "2026-11-16T14:39:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Sometimes, a single incident – mere seconds – is enough to alter the course of a career. Enrico Zanarini recalls one such moment, which took place in the paddock at the 1993 Portuguese Grand Prix. Ema",
+      "summary_en": "Sometimes, a single incident – mere seconds – is enough to alter the course of a career. Enrico Zanarini recalls one such moment, which took place in the paddock at the 1993 Portuguese Grand Prix. Ema"
+    },
     {
       "id": "749102298ed7",
       "title": "Christian Horner reveals how Max Verstappen’s management reshaped 2022 Red Bull development",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.<br />Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both ",
       "summary_en": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.<br />Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both "
-    },
-    {
-      "id": "7ca2da7f3c95",
-      "title": "Max Verstappen signs ambassador deal with Dutch technical group VDK",
-      "title_fr": "Verstappen devient ambassadeur du groupe VDK",
-      "title_en": "Verstappen signs ambassador deal with VDK Group",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-9.motorsport.com/images/amp/YN7vzaP6/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-14T11:03:24+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen s’engage comme ambassadeur du groupe VDK, une société néerlandaise d’installations techniques qui se développe en Europe. Il participera aux campagnes de communication et de promotion.",
-      "summary_en": "Max Verstappen has become the ambassador of the Dutch VDK Group, a technical installation company expanding across Europe. He will feature in the group's international branding and marketing campaigns."
-    },
-    {
-      "id": "feee71011508",
-      "title": "Kimi Antonelli meets Italian president Sergio Mattarella",
-      "title_fr": "Antonelli rencontre le président italien",
-      "title_en": "Antonelli meets Italian president",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/0R7BEaE2/s6/il-presidente-sergio-mattarell.jpg",
-      "published_at": "2026-11-14T10:37:42+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le nouveau champion du monde de Formule 1, Kimi Antonelli, a rencontré le président Sergio Mattarella, saluant son soutien après la victoire au Grand Prix du Mexique.",
-      "summary_en": "New Formula 1 world champion Kimi Antonelli met Italian President Sergio Mattarella, thanking him for support after winning the Mexican Grand Prix."
-    },
-    {
-      "id": "786a25337a90",
-      "title": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
-      "title_fr": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
-      "title_en": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-is-looking-down-the-barrel-of-kimi-antonellis-raw-pace-says-allison/10874424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaO7J2/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": "2026-11-14T10:10:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "For an established Formula 1 driver, being beaten by a 20-year-old team-mate can sometimes lead to garage politics and excuses. For George Russell, the 2026 season delivered exactly that high-pressure",
-      "summary_en": "For an established Formula 1 driver, being beaten by a 20-year-old team-mate can sometimes lead to garage politics and excuses. For George Russell, the 2026 season delivered exactly that high-pressure"
-    },
-    {
-      "id": "8e9550808333",
-      "title": "Ignore social media echo chamber and trust F1 over Middle East races – Wolff | Formula 1",
-      "title_fr": "Wolff défend les courses du Moyen-Orient",
-      "title_en": "Wolff backs F1's Middle East races",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/14/ignore-social-media-echo-chamber-trust-f1-over-middle-east-races-wolff/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-22-12-2249020900.jpg",
-      "published_at": "2026-11-14T10:00:10+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Mercedes, Toto Wolff, affirme que la Formule 1 a raison de poursuivre ses courses au Moyen-Orient, tout en précisant qu'il ne forcera pas le personnel à y assister.",
-      "summary_en": "Mercedes team principal Toto Wolff says Formula 1 is right to go ahead with its Middle East races, but he won't force staff to attend."
-    },
-    {
-      "id": "a4558b1fded9",
-      "title": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas",
-      "title_fr": "McLaren introduit des améliorations sur le MCL40 à Las Vegas",
-      "title_en": "McLaren upgrades MCL40 at Las Vegas GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/68VwEx92/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-11-14T09:13:34+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "McLaren prévoit d’installer de nouvelles pièces sur le MCL40 lors du Grand Prix de Las Vegas, les qualifiant de « fondation pour la voiture de 2027 ». Le concept de l’aile avant 2027 a déjà fait ses preuves à Interlagos",
-      "summary_en": "McLaren will fit new parts on the MCL40 at the Las Vegas Grand Prix, calling them the “foundation for next year’s car.” The 2027 front‑wing concept, already proven at Interlagos, promises better driveability and predictability"
-    },
-    {
-      "id": "085f9a7e33f5",
-      "title": "McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas",
-      "title_fr": "McLaren introduit des améliorations du MCL40 à Las Vegas",
-      "title_en": "McLaren upgrades MCL40 at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/01QNp9q0/s6/leonardo-fornaroli-mclaren.jpg",
-      "published_at": "2026-11-14T09:09:51+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "McLaren introduira des pièces de mise à jour du MCL40 lors du Grand Prix de Las Vegas, les qualifiant de « fondation pour la voiture de l’année prochaine ». Le concept d’aileron avant 2027 a déjà été présenté au Brésil.",
-      "summary_en": "McLaren will unveil upgrades to its MCL40 at the Las Vegas Grand Prix, calling the new parts the foundation for next year's car. The 2027 front‑wing concept was first shown in Brazil."
-    },
-    {
-      "id": "1d0e5fe18659",
-      "title": "On This Day: Racing rules in spotlight as Hamilton takes Brazil win from Verstappen | Brief",
-      "title_fr": "Hamilton remporte le GP du Brésil en passant Verstappen",
-      "title_en": "Hamilton wins Brazil GP by passing Verstappen",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/14/on-this-day-2021-brazilian-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/09/racefansdotnet-24-09-15-11-34-36-1-M289956.jpg",
-      "published_at": "2026-11-14T00:01:00+00:00",
-      "race_id": "brazil",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a remporté le Grand Prix du Brésil en dépassant Max Verstappen. Le pilote Aston Martin a consolidé sa position grâce à une stratégie solide.",
-      "summary_en": "Lewis Hamilton won the Brazilian Grand Prix by passing Max Verstappen. The Aston Martin driver secured the victory with a solid strategy."
-    },
-    {
-      "id": "6d78c933e2e6",
-      "title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
-      "title_fr": "Allison dévoile la technique audacieuse qui a permis à Antonelli de devenir champion",
-      "title_en": "Allison reveals the daring trick that helped Antonelli become champion",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/0R7BEmE2/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-13T21:56:05+00:00",
-      "race_id": "italy",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "James Allison, directeur technique de Mercedes, explique comment l'utilisation audacieuse d'outils sur le volant de Kimi Antonelli a contribué à son titre de champion du monde en 2026, à l'âge de 20 ans.",
-      "summary_en": "Mercedes technical director James Allison explains how Kimi Antonelli’s bold use of steering‑wheel tools helped him win the 2026 world title at age 20."
     }
   ]
 }
