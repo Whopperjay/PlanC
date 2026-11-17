@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-17T04:46:11Z",
+  "last_updated": "2026-11-17T07:46:25Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "35008a2d52ce",
+      "title": "Is Bearman stuck in a Ferrari bottleneck? F1 Q&A",
+      "title_fr": "Bearman coincé dans le goulot d'étranglement Ferrari",
+      "title_en": "Bearman stuck in Ferrari bottleneck?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vg2l8240emo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8462/live/b7eea3c0-e1bb-11f1-b26a-85d0ea0c2ac8.jpg",
+      "published_at": "2026-11-17T07:45:02+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Andrew Benson, correspondant BBC F1, répond aux questions les plus fréquentes sur la présence de Bearman dans le goulot d'étranglement Ferrari avant le Grand Prix de Las Vegas.",
+      "summary_en": "BBC F1 correspondent Andrew Benson answers the most asked questions about Bearman's potential bottleneck with Ferrari before the Las Vegas Grand Prix."
+    },
     {
       "id": "c5cc50b7eb04",
       "title": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "In Formula 1, PR-trained executives routinely frame losing seasons as \"learning opportunities\" and promise that the team will quickly bounce back. But Mercedes technical director James Allison recentl",
       "summary_en": "In Formula 1, PR-trained executives routinely frame losing seasons as \"learning opportunities\" and promise that the team will quickly bounce back. But Mercedes technical director James Allison recentl"
-    },
-    {
-      "id": "aa4fc9f8057d",
-      "title": "Poll: How many F1 drivers could have won the championship in Antonelli’s car? | Debates and Polls",
-      "title_fr": "Combien de pilotes auraient pu gagner le titre en voiture d'Antonelli ?",
-      "title_en": "How many drivers could have won the championship in Antonelli’s car?",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/15/how-many-f1-drivers-could-have-won-the-championship-in-antonellis-car/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-08-13-01-51-1-A264149.jpg",
-      "published_at": "2026-11-15T08:30:30+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a couronné champion du monde en 2026. Le sondage interroge les fans sur les pilotes qui auraient pu remporter le titre en conduisant sa voiture.",
-      "summary_en": "Andrea Kimi Antonelli was crowned 2026 world champion. The poll asks fans which rivals could have won the title driving his car."
     }
   ]
 }
