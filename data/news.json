@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-17T10:47:25Z",
+  "last_updated": "2026-11-17T13:47:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5153891e727c",
+      "title": "Toto Wolff is not afraid of losing Kimi Antonelli to Ferrari",
+      "title_fr": "Wolff rassure sur la fidélité d'Antonelli",
+      "title_en": "Wolff says he's not worried about Antonelli moving to Ferrari",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-is-not-afraid-of-losing-kimi-antonelli-to-ferrari/10875044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNjD72/s6/lewis-hamilton-ferrari-andrea-.jpg",
+      "published_at": "2026-11-17T11:45:10+00:00",
+      "race_id": "italy",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Mercedes, Toto Wolff, affirme ne pas craindre que Kimi Antonelli ne rejoigne Ferrari, soulignant la loyauté de l’italien et de sa famille.",
+      "summary_en": "Mercedes team principal Toto Wolff says he is not worried about Kimi Antonelli moving to Ferrari, citing the Italian's loyalty and his family."
+    },
     {
       "id": "36b7c1b587c0",
       "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty | Brief",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Liam Lawson n'a jamais échoué chez Red Bull en 2025, c'est l'équipe qui l'a laissé tomber. Conserver son contrat pour une année supplémentaire pourrait être le premier pas vers un changement de culture.",
       "summary_en": "Liam Lawson never failed at Red Bull in 2025; the team did. Keeping him for another year may signal a shift away from the Helmut Marko era, but more steps are needed to avoid repeating past mistakes."
-    },
-    {
-      "id": "8ec25029dc1f",
-      "title": "Christian Horner blames Red Bull leadership structure for missing F1’s future stars",
-      "title_fr": "Horner blâme Red Bull pour les talents manqués",
-      "title_en": "Horner blames Red Bull for missing future stars",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/i-never-had-responsibility-horner-blames-fractured-red-bull-leadership-for-missing-f1s-future-stars/10874624/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8V7L6/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": "2026-11-15T16:01:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner accuse la structure de direction de Red Bull de l’avoir empêché de recruter Lando Norris, George Russell et Oscar Piastri. Le directeur de l’équipe de Milton Keynes pointe le modèle à double chef comme principal défaut.",
-      "summary_en": "Christian Horner accuses Red Bull’s dual-leadership structure of preventing the team from signing Lando Norris, George Russell and Oscar Piastri. The Milton Keynes principal blames the two-person model as the main flaw."
     }
   ]
 }
