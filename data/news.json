@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-17T07:46:25Z",
+  "last_updated": "2026-11-17T10:47:25Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "36b7c1b587c0",
+      "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty | Brief",
+      "title_fr": "Alonso revient au Dakar dans une Aston Martin inspirée de Call of Duty",
+      "title_en": "Alonso to return to Dakar in Call of Duty‑designed Aston Martin",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-17-09-46-38-1-Aston-Martin-Racing_Dakar-2027_02a.jpg",
+      "published_at": "2026-11-17T09:16:48+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso prévoit de revenir au Dakar, pilotant une Aston Martin spécialement conçue pour le jeu Call of Duty. Le pilote Aston Martin aurait reçu un véhicule unique, mais aucune confirmation officielle n’a encore été donnée.",
+      "summary_en": "Fernando Alonso is set to return to the Dakar Rally, driving an Aston Martin specially built for the Call of Duty game. The Aston Martin driver would receive a unique vehicle, but no official confirmation has yet been issued."
+    },
+    {
+      "id": "3f349efacf98",
+      "title": "An early season finale? Five talking points for the 2026 Las Vegas Grand Prix | Formula 1",
+      "title_fr": "Las Vegas : première étape d’une série de trois courses consécutives",
+      "title_en": "Las Vegas: First of Three Consecutive Race Weekends",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/17/an-early-season-finale-five-talking-points-for-the-2026-las-vegas-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-22-20-03-53-5-2248010436.jpg",
+      "published_at": "2026-11-17T09:07:11+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 arrive à Las Vegas ce week-end, prévu comme la première d’une série de trois courses consécutives. Les équipes se préparent à un défi unique.",
+      "summary_en": "Formula 1 heads to Las Vegas this weekend, slated as the first of three consecutive race weekends. Teams are gearing up for a unique challenge."
+    },
+    {
+      "id": "8817ab3fc863",
+      "title": "Alonso, Loeb join Aston Martin for 2027 Dakar Rally",
+      "title_fr": "Alonso et Loeb rejoignent Aston Martin pour le Dakar 2027",
+      "title_en": "Alonso and Loeb join Aston Martin for Dakar 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/dakar/news/alonso-loeb-join-aston-martin-for-2027-dakar-rally/10875003/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-8.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin-3.jpg",
+      "published_at": "2026-11-17T09:01:58+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion de Formule 1 Fernando Alonso, accompagné de Sébastien Loeb et Lucas Moraes, sera le pilote phare de l’entrée officielle d’Aston Martin au Dakar 2027. Le rallye se tiendra au Portugal et au Maroc du 9 au 23 janvier.",
+      "summary_en": "Formula 1 champion Fernando Alonso will headline Aston Martin’s factory entry into the 2027 Dakar Rally, alongside Sébastien Loeb and Lucas Moraes. The 49th edition will run through Portugal and Morocco from January 9‑23, 2027."
+    },
+    {
+      "id": "bd72624d0aeb",
+      "title": "Fernando Alonso to return to Dakar Rally with Aston Martin in 2027",
+      "title_fr": "Alonso revient au Dakar 2027 avec Aston Martin",
+      "title_en": "Alonso returns to Dakar 2027 with Aston Martin",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/dakar/news/fernando-alonso-to-return-to-dakar-rally-with-aston-martin-in-2027/10874907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaLLb2/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": "2026-11-17T09:01:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Fernando Alonso participera au Dakar 2027 à bord d’une Aston Martin Dreadnought, après avoir rejoint Sebastien Loeb et Lucas Moraes dans la ligne de participants étoilée.",
+      "summary_en": "Fernando Alonso will race in the 2027 Dakar Rally aboard an Aston Martin Dreadnought, joining Sébastien Loeb and Lucas Moraes in the star‑filled lineup."
+    },
+    {
+      "id": "132d558a3fab",
+      "title": "Alonso to drive in Dakar Rally for Aston Martin",
+      "title_fr": "Alonso pilote l'Aston Martin au Dakar 2027",
+      "title_en": "Alonso to drive Aston Martin at Dakar 2027",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/motorsport/articles/crp3e1783xq3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd24/live/fd35f1b0-e209-11f1-b023-f7d19fda92c1.jpg",
+      "published_at": "2026-11-17T09:00:08+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso, champion du monde de Formule 1 à deux titres, prépare l'Aston Martin pour la course du Dakar 2027.",
+      "summary_en": "Two-time Formula 1 world champion Fernando Alonso is preparing Aston Martin for the 2027 Dakar Rally."
+    },
     {
       "id": "35008a2d52ce",
       "title": "Is Bearman stuck in a Ferrari bottleneck? F1 Q&A",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Christian Horner accuse la structure de direction de Red Bull de l’avoir empêché de recruter Lando Norris, George Russell et Oscar Piastri. Le directeur de l’équipe de Milton Keynes pointe le modèle à double chef comme principal défaut.",
       "summary_en": "Christian Horner accuses Red Bull’s dual-leadership structure of preventing the team from signing Lando Norris, George Russell and Oscar Piastri. The Milton Keynes principal blames the two-person model as the main flaw."
-    },
-    {
-      "id": "6eca20a33593",
-      "title": "Retaining Lawson isn't enough – Red Bull must stop treating him like a failure",
-      "title_fr": "Red Bull doit arrester de traiter Lawson comme un echec",
-      "title_en": "Red Bull must stop treating Lawson as a failure",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/retaining-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP743Le2/s6/liam-lawson-red-bull-2.jpg",
-      "published_at": "2026-11-15T13:08:22+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a retenu Liam Lawson pour 2026, mais l equipe doit changer son approche. Le pilote estime que l organisation ne l a pas soutenu correctement en 2025.",
-      "summary_en": "Red Bull retained Liam Lawson for 2026, but the team must change its approach. The driver says the organisation failed to support him properly in 2025."
-    },
-    {
-      "id": "ea8e52b32e2c",
-      "title": "Mercedes pitwall admits floundering Ferraris relieved title pressure in São Paulo",
-      "title_fr": "Mercedes reconnaît la débâcle des Ferraris à Sao Paulo",
-      "title_en": "Mercedes admits Ferraris’ struggle at Sao Paulo",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-pit-wall-admits-floundering-ferraris-relieved-all-title-pressure-in-sao-paulo/10874440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/Y9lNzKA2/s6/motorsport-com-graphics-2026-1-3.jpg",
-      "published_at": "2026-11-15T13:00:02+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lors du Grand Prix de Sao Paulo, la pluie a provoqué un chaos sur la piste mouillée et sèche. Mercedes a admis que les Ferraris étaient en difficulté, soulageant ainsi la pression du titre.",
-      "summary_en": "During the Sao Paulo Grand Prix, rain turned the track into a chaotic wet‑dry mix. Mercedes admitted the Ferraris were struggling, easing the title pressure."
-    },
-    {
-      "id": "e13a65a0f9bf",
-      "title": "Inside Turkey’s revamp for the return of a modern F1 classic",
-      "title_fr": "Réforme turque pour le retour d'un classique moderne de F1",
-      "title_en": "Turkey revamps for the return of a modern F1 classic",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/YE9EVzGY/s6/track-action-2.jpg",
-      "published_at": "2026-11-15T09:39:18+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Turquie ajuste son calendrier et ses règles techniques pour réintroduire un classique moderne de la F1, cherchant un équilibre entre pilotes, puristes et jeunes spectateurs, tout en assurant un spectacle de dépassements.",
-      "summary_en": "Turkey is tweaking its calendar and technical rules to bring back a modern F1 classic, aiming to balance drivers, purists and younger fans while delivering a spectacle of overtaking."
-    },
-    {
-      "id": "c05e965a1916",
-      "title": "How Istanbul is revamping its F1 circuit to clinch long-term future",
-      "title_fr": "Istanbul refond son circuit pour assurer son avenir",
-      "title_en": "Istanbul revamps its circuit to secure long-term future",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/inside-turkeys-revamp-for-the-return-of-a-modern-f1-classic/10874598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YBVjRLWY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-15T09:39:16+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Istanbul travaille à moderniser son circuit afin de garantir sa place dans le calendrier de la Formule 1 à long terme. Les modifications visent à améliorer la sécurité et l'expérience des pilotes.",
-      "summary_en": "Istanbul is revamping its circuit to secure a long-term place on the Formula 1 calendar, focusing on safety upgrades and improved driver experience."
-    },
-    {
-      "id": "f37b9f4f793d",
-      "title": "Mercedes technical director details the psychological toll of F1 underperformance",
-      "title_fr": "Mercedes technical director details the psychological toll of F1 underperformance",
-      "title_en": "Mercedes technical director details the psychological toll of F1 underperformance",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-technical-director-details-the-brutal-psychological-toll-of-f1-underperformance/10874429/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2y7Qrj96/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": "2026-11-15T09:33:19+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In Formula 1, PR-trained executives routinely frame losing seasons as \"learning opportunities\" and promise that the team will quickly bounce back. But Mercedes technical director James Allison recentl",
-      "summary_en": "In Formula 1, PR-trained executives routinely frame losing seasons as \"learning opportunities\" and promise that the team will quickly bounce back. But Mercedes technical director James Allison recentl"
     }
   ]
 }
