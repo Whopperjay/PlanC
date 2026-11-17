@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T13:00:43Z",
-  "model": "claude",
+  "generated_at": "2026-11-17T01:46:54Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -172,30 +172,30 @@
       "race_id": "las_vegas",
       "session_type": "qualifying",
       "session_date": "2026-11-21T04:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "norris",
       "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance : la Mercedes est la référence sur un tour. Las Vegas, avec ses longues lignes droites et ses températures froides, a souvent réussi à Mercedes, qui gère bien la mise en température des pneus (pole et victoire de Russell en 2024). Russell connaît parfaitement ce tracé. Verstappen reste le principal outsider grâce à son efficacité en ligne droite.",
-      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead: Mercedes is the benchmark over one lap. Las Vegas, with its long straights and cold temperatures, has often suited Mercedes, which handles tyre warm-up well (Russell took pole and the win in 2024). Russell knows this layout perfectly. Verstappen remains the main outsider thanks to his straight-line efficiency.",
-      "confidence": "medium",
-      "key_factor_fr": "Mise en température des pneus par nuit froide, avantage Mercedes",
+      "p3": "antonelli",
+      "reasoning_fr": "Norris a montré une excellente vitesse sur un tour à Rio, décrochant la pole, et il maîtrise les circuits urbains. Russell a confirmé une constance en qualification, deuxième à Rio, et possède une bonne adaptation aux tracés techniques. Antonelli, champion en titre, a déjà affiché un top‑trois à Rio et bénéficie d’une voiture Mercedes très performante, ce qui le place naturellement parmi les trois",
+      "reasoning_en": "Norris demonstrated blistering one‑lap speed in Brazil, taking pole and showing his comfort on street layouts. Russell proved consistent, qualifying second at Rio and adapting well to technical tracks. Antonelli, the championship leader, already posted a top‑three qualifying at Brazil and benefits from a strong Mercedes chassis, making him a natural contender for the front row on the Las Vegas Str",
+      "confidence": "high",
+      "key_factor_fr": "Performance récente en qualification sur circuits urbains",
       "news_used_ids": [],
-      "generated_at": "2026-11-16T13:00:43Z"
+      "generated_at": "2026-11-17T01:46:53Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
       "race_id": "las_vegas",
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
-      "p1": "antonelli",
+      "p1": "norris",
       "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance et une Mercedes très performante. Las Vegas récompense la vitesse de pointe et la maîtrise des pneus par temps froid, un terrain historiquement favorable à Mercedes (Russell vainqueur en 2024). Verstappen, vainqueur en 2025, reste la principale menace. Russell complète un double podium Mercedes probable.",
-      "reasoning_en": "Antonelli dominates the championship with a 111-point lead and a very strong Mercedes. Las Vegas rewards top speed and cold-weather tyre management, historically good ground for Mercedes (Russell won in 2024). Verstappen, the 2025 winner, remains the main threat. Russell completes a likely double Mercedes podium.",
+      "p3": "antonelli",
+      "reasoning_fr": "Norris a dominé la dernière course et a débuté en pole au Brésil, ce qui montre son rythme sur un circuit de rue. Verstappen, bien que moins présent en qualification, conserve une excellente capacité de gestion de course et de stratégie pneus, le plaçant souvent sur le podium. Antonelli, leader du championnat, a montré une forme constante et une bonne qualif, ce qui lui permet de rester parmi les ",
+      "reasoning_en": "Norris won the last race and started from pole in Brazil, demonstrating strong pace on street circuits. Verstappen, despite a weaker recent qualifying, retains excellent race management and tyre strategy, often securing a podium. Antonelli, the championship leader, has shown consistent form and solid qualifying, allowing him to stay in the top three on a circuit where overtaking is hard.",
       "confidence": "medium",
-      "key_factor_fr": "Chauffe des pneus par temps froid et vitesse de pointe",
+      "key_factor_fr": "Qualif sur circuit de rue",
       "news_used_ids": [],
-      "generated_at": "2026-11-16T13:00:32Z"
+      "generated_at": "2026-11-17T01:46:39Z"
     }
   ]
 }
