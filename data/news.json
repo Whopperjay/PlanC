@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T13:47:38Z",
+  "last_updated": "2026-11-17T16:47:56Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -286,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "Williams et Aston Martin ont présenté des carrosseries exclusives pour le Grand Prix de Las Vegas, marquant un changement visuel notable pour la saison.",
       "summary_en": "Williams and Aston Martin unveiled exclusive liveries for the Las Vegas Grand Prix, marking a notable visual change for the season."
+    },
+    {
+      "id": "d27cf98fe7dc",
+      "title": "Cadillac, Williams and Aston Martin reveal one-off liveries for Las Vegas GP | Formula 1",
+      "title_fr": "Cadillac, Williams et Aston Martin présentent des liveries inédites pour Las Vegas",
+      "title_en": "Cadillac, Williams and Aston Martin unveil one‑off liveries for Las Vegas GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/16/cadillac-williams-and-aston-martin-reveal-one-off-liveries-for-las-vegas-gp/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/cadillac-vegas.jpg",
+      "published_at": "2026-11-16T16:10:54+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Cadillac, Williams et Aston Martin ont dévoilé des liveries uniques pour le Grand Prix de Las Vegas. Chaque équipe présente un design distinctif qui marquera la course.",
+      "summary_en": "Cadillac, Williams and Aston Martin have unveiled unique liveries for the Las Vegas Grand Prix. Each team showcases a distinct design that will set the race apart."
     },
     {
       "id": "745bc07dc3dd",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The narrative surrounding Red Bull Racing over the last half-decade has consistently featured a rotating cast of drivers struggling - and often failing - to survive alongside Max Verstappen.<br />Form",
       "summary_en": "The narrative surrounding Red Bull Racing over the last half-decade has consistently featured a rotating cast of drivers struggling - and often failing - to survive alongside Max Verstappen.<br />Form"
-    },
-    {
-      "id": "0416f8e493f3",
-      "title": "Retaining Liam Lawson isn't enough – Red Bull must stop treating him like a failure",
-      "title_fr": "Red Bull doit arrêter de traiter Lawson comme un échec",
-      "title_en": "Red Bull must stop treating Lawson as a failure",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/retaining-liam-lawson-isnt-enough-red-bull-must-stop-treating-him-like-a-failure/10874659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/YpbAe4N0/s6/liam-lawson-racing-bulls.jpg",
-      "published_at": "2026-11-15T18:30:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson n'a jamais échoué chez Red Bull en 2025, c'est l'équipe qui l'a laissé tomber. Conserver son contrat pour une année supplémentaire pourrait être le premier pas vers un changement de culture.",
-      "summary_en": "Liam Lawson never failed at Red Bull in 2025; the team did. Keeping him for another year may signal a shift away from the Helmut Marko era, but more steps are needed to avoid repeating past mistakes."
     }
   ]
 }
