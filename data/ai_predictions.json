@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:00:24Z",
+  "generated_at": "2026-11-18T05:00:26Z",
   "model": "claude",
   "predictions": [
     {
@@ -175,12 +175,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance, et la Mercedes est la référence sur un tour. Las Vegas récompense la vitesse de pointe et la faible traînée, et Mercedes y a déjà brillé (pole de Russell en 2024). Le froid complique la chauffe des pneus, mais Mercedes l'a bien gérée. Verstappen reste le principal outsider grâce à son efficacité en ligne droite.",
-      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead, and Mercedes is the benchmark over one lap. Las Vegas rewards top speed and low drag, and Mercedes has shone there before (Russell's 2024 pole). Cold temperatures make tyre warm-up tricky, but Mercedes has handled it well. Verstappen remains the main threat thanks to his straight-line efficiency.",
+      "reasoning_fr": "Antonelli domine 2026 avec 390 points et une Mercedes de référence. Les longues lignes droites et l'asphalte froid de Las Vegas favorisent historiquement Mercedes : Russell y a signé la pole et la victoire en 2024. Verstappen reste la principale menace hors Mercedes grâce à sa vitesse de pointe en qualif. Le froid nocturne rend la chauffe des pneus décisive.",
+      "reasoning_en": "Antonelli dominates 2026 with 390 points in the benchmark Mercedes. Las Vegas's long straights and cold track have historically suited Mercedes: Russell took pole and the win there in 2024. Verstappen remains the main non-Mercedes threat thanks to his one-lap pace. Cold night conditions make tyre warm-up decisive.",
       "confidence": "medium",
-      "key_factor_fr": "Vitesse de pointe Mercedes et chauffe des pneus par temps froid",
+      "key_factor_fr": "Mise en température des pneus sur piste froide nocturne",
       "news_used_ids": [],
-      "generated_at": "2026-11-17T13:00:24Z"
+      "generated_at": "2026-11-18T05:00:26Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
@@ -190,12 +190,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance et une Mercedes très performante. Mercedes est historiquement forte à Las Vegas : Russell a gagné en 2024 et a fini 2e en 2025. Ce tracé froid à faible appui favorise leur mise en température des pneus. Verstappen, vainqueur en 2025 ici, reste le meilleur rival grâce à sa vitesse de pointe.",
-      "reasoning_en": "Antonelli dominates the championship with a 111-point lead and a very strong Mercedes. Mercedes has a strong Las Vegas record: Russell won in 2024 and finished second in 2025. This cold, low-downforce track suits their tyre warm-up. Verstappen, the 2025 winner here, remains the strongest challenger thanks to his straight-line speed.",
+      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance et une Mercedes de référence en 2026. Le tracé de Las Vegas, froid et rapide, avantage historiquement Mercedes : Russell a gagné en 2024 et a fini P2 en 2025. Verstappen, vainqueur de l'édition 2025, reste la principale menace grâce à son efficacité dans les longues lignes droites.",
+      "reasoning_en": "Antonelli dominates the championship with a 111-point lead and Mercedes is the 2026 benchmark car. The cold, fast Las Vegas layout has historically suited Mercedes: Russell won in 2024 and finished P2 in 2025. Verstappen, the 2025 winner, remains the main threat thanks to his straight-line efficiency on the long straights.",
       "confidence": "medium",
-      "key_factor_fr": "Mise en température des pneus par nuit froide",
+      "key_factor_fr": "Piste froide et rapide favorable à Mercedes",
       "news_used_ids": [],
-      "generated_at": "2026-11-17T13:00:15Z"
+      "generated_at": "2026-11-18T05:00:14Z"
     }
   ]
 }
