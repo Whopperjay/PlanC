@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:00:24Z",
+  "generated_at": "2026-11-19T13:00:25Z",
   "model": "claude",
   "predictions": [
     {
@@ -175,12 +175,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli mène le championnat avec 111 points d'avance, signe que la Mercedes est la référence en 2026. À Las Vegas, il fait froid et les longues lignes droites favorisent l'efficacité moteur : Mercedes y excelle (pole de Russell en 2024). Russell connaît bien ce circuit et reste un excellent qualifieur. Verstappen, solide sur un tour, est l'outsider principal.",
-      "reasoning_en": "Antonelli leads the championship by 111 points, which shows Mercedes is the benchmark car in 2026. Las Vegas brings cold track temperatures and long straights that reward power-unit efficiency, where Mercedes shines (Russell took pole in 2024). Russell knows this track well and is a strong qualifier. Verstappen, always quick over one lap, is the main outsider.",
+      "reasoning_fr": "Mercedes domine 2026 et Antonelli mène le championnat avec 111 points d'avance, signe d'une vitesse pure régulière. Les nuits froides de Las Vegas compliquent la mise en température des pneus, ce qui a souvent réussi à Mercedes : Russell y a signé la pole et la victoire en 2024. Verstappen reste le premier rival, fort sur les longues lignes droites et en faible appui.",
+      "reasoning_en": "Mercedes dominates 2026 and Antonelli leads the championship by 111 points, a sign of consistent raw pace. Las Vegas's cold nights make tyre warm-up tricky, which has often suited Mercedes: Russell took pole and the win there in 2024. Verstappen remains the main threat, strong on the long straights and in low-downforce trim.",
       "confidence": "medium",
-      "key_factor_fr": "Domination Mercedes, piste froide et longues lignes droites",
+      "key_factor_fr": "Domination Mercedes et mise en température des pneus à froid",
       "news_used_ids": [],
-      "generated_at": "2026-11-19T05:00:24Z"
+      "generated_at": "2026-11-19T13:00:25Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
@@ -188,14 +188,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance, et la Mercedes semble la monoplace de référence. Le circuit de Las Vegas, avec ses longues lignes droites et sa faible charge, favorise une bonne efficacité moteur. Verstappen a gagné ici en 2025 et reste le plus régulier hors Mercedes. Russell, solide en conditions fraîches, complète le podium devant les Ferrari.",
-      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead, and Mercedes looks like the benchmark car. Las Vegas, with its long straights and low downforce, rewards power-unit efficiency. Verstappen won here in 2025 and remains the most consistent non-Mercedes driver. Russell, strong in cool conditions, completes the podium ahead of the Ferraris.",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Mercedes domine 2026 et Antonelli, large leader avec 390 points, arrive en confiance. Las Vegas, avec ses températures nocturnes froides et ses longues lignes droites, a souvent souri à Mercedes : Russell y a gagné en 2024. Russell devrait suivre son coéquipier. Verstappen, deuxième du championnat, reste le seul capable de s'intercaler grâce à une Red Bull efficace en faible appui.",
+      "reasoning_en": "Mercedes dominate 2026 and Antonelli, the clear leader on 390 points, arrives full of confidence. Las Vegas, with cold night temperatures and long straights, has often favoured Mercedes: Russell won there in 2024. Russell should follow his teammate home. Verstappen, second in the championship, remains the only driver likely to split them thanks to an efficient low-downforce Red Bull.",
       "confidence": "medium",
-      "key_factor_fr": "Vitesse de pointe Mercedes et gestion des pneus au froid",
+      "key_factor_fr": "Nuit froide et faible appui favorables à Mercedes",
       "news_used_ids": [],
-      "generated_at": "2026-11-19T05:00:15Z"
+      "generated_at": "2026-11-19T13:00:14Z"
     }
   ]
 }
