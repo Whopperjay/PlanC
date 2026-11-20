@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:00:29Z",
+  "generated_at": "2026-11-20T13:00:30Z",
   "model": "claude",
   "predictions": [
     {
@@ -175,12 +175,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance, et la Mercedes est la référence du plateau. Las Vegas favorise l'efficacité en ligne droite et la mise en température des pneus par temps froid, deux points forts historiques de Mercedes (pole et victoire de Russell en 2024). Russell reste très rapide sur un tour. Verstappen est l'outsider : vitesse de pointe Red Bull et talent sur un tour.",
-      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead, and Mercedes is the benchmark car. Las Vegas rewards straight-line efficiency and tyre warm-up in cold conditions, both historical Mercedes strengths (Russell took pole and the win in 2024). Russell remains elite over one lap. Verstappen is the outsider thanks to Red Bull top speed and his single-lap talent.",
+      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance, ce qui confirme que la Mercedes est la référence en qualif. À Las Vegas, les longues lignes droites et le froid nocturne favorisent une monoplace efficace en faible appui et capable de chauffer ses pneus. Russell, poleman ici en 2024, reste une menace directe. Verstappen est le meilleur outsider grâce à sa vitesse de pointe Red Bull.",
+      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead, confirming Mercedes as the qualifying benchmark. In Las Vegas, long straights and cold night conditions favour a car that is efficient in low downforce and can warm its tyres. Russell, pole-sitter here in 2024, remains a direct threat. Verstappen is the strongest outsider thanks to Red Bull's top speed.",
       "confidence": "medium",
-      "key_factor_fr": "Mise en température des pneus par temps froid et efficacité Mercedes",
+      "key_factor_fr": "Efficacité Mercedes en faible appui et chauffe des pneus",
       "news_used_ids": [],
-      "generated_at": "2026-11-20T05:00:29Z"
+      "generated_at": "2026-11-20T13:00:30Z"
     },
     {
       "event_id": "las_vegas_grand_prix",
@@ -190,12 +190,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance, et la Mercedes 2026 est la référence. Las Vegas, avec ses longues lignes droites et ses températures froides, a souvent réussi à Mercedes : Russell y a gagné en 2024 et fini deuxième en 2025. Verstappen, vainqueur en 2025 et deuxième du championnat, reste le meilleur adversaire pour le podium face à Ferrari.",
-      "reasoning_en": "Antonelli leads the championship by 111 points, and the 2026 Mercedes is the benchmark car. Las Vegas, with its long straights and cold track, has often suited Mercedes: Russell won there in 2024 and was second in 2025. Verstappen, the 2025 winner and second in the standings, remains the strongest rival for a podium spot ahead of Ferrari.",
+      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance et une Mercedes très performante. À Las Vegas, le froid nocturne et les longues lignes droites ont souvent souri à Mercedes (victoire de Russell en 2024), car la voiture y chauffe bien ses pneus. Russell connaît parfaitement ce circuit. Verstappen, vainqueur en 2025 et deuxième au championnat, reste la principale menace pour le podium.",
+      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead and a very strong Mercedes. In Las Vegas, the cold night conditions and long straights have often favoured Mercedes (Russell won in 2024), as the car warms its tyres well there. Russell knows this circuit very well. Verstappen, the 2025 winner and second in the championship, remains the main threat for the podium.",
       "confidence": "medium",
-      "key_factor_fr": "Vitesse de pointe Mercedes et maîtrise des pneus froids",
+      "key_factor_fr": "Mise en température des pneus par nuit froide",
       "news_used_ids": [],
-      "generated_at": "2026-11-20T05:00:16Z"
+      "generated_at": "2026-11-20T13:00:21Z"
     }
   ]
 }
