@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-17T16:47:56Z",
+  "last_updated": "2026-11-21T18:54:25Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7d604d45b5e8",
+      "title": "Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil",
+      "title_fr": "Verstappen décroche pole à Las Vegas malgré des problèmes",
+      "title_en": "Verstappen secures Las Vegas pole amid weird issues",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-takes-las-vegas-pole-despite-weird-issues-since-brazil/10876373/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing-a10876373-b707-2.jpg",
+      "published_at": "2026-11-21T18:21:40+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a obtenu la pole position du Grand Prix de Las Vegas avec un chrono de 1m34,151, 0,258 s derrière Kimi Antonelli. Le champion a dû régler des soucis techniques en fin de journée.",
+      "summary_en": "Max Verstappen secured the Las Vegas pole with a time of 1m34.151, 0.258 seconds behind Kimi Antonelli. The champion had to resolve technical issues late on Friday."
+    },
+    {
+      "id": "11462edc8a93",
+      "title": "Why Mercedes' tow plan for George Russell fell apart in Las Vegas",
+      "title_fr": "Plan de remorquage de Mercedes pour Russell échoue à Las Vegas",
+      "title_en": "Mercedes' tow plan for Russell fails in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-mercedes-tow-plan-for-george-russell-fell-apart-in-las-vegas/10876341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EbBMY/s6/george-russell-mercedes-a10876341-b705-3.jpg",
+      "published_at": "2026-11-21T18:15:21+00:00",
+      "race_id": "lasvegas",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Grand Prix de Las Vegas, le plan de remorquage de Mercedes pour George Russell a échoué, laissant le pilote inférieure face à Max Verstappen. Kimi Antonelli a remporté le départ avec un 1m33.893s, mais subit une pénalité de cinq places.",
+      "summary_en": "At the Las Vegas Grand Prix, Mercedes' tow plan for George Russell fell apart, leaving him in a grid position despite battling Max Verstappen for second. Kimi Antonelli set the fastest time of 1m33.893s but received a five-place grid penalty."
+    },
+    {
+      "id": "2f11c8abe5c7",
+      "title": "Isack Hadjar: “We looked stupid” in Las Vegas as I don’t like slipstreaming",
+      "title_fr": "Hadjar se déclare stupide après une qualification à Las Vegas",
+      "title_en": "Hadjar calls himself stupid after Las Vegas qualifying",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-we-looked-stupid-in-las-vegas-as-i-dont-like-slipstreaming/10876445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7Byjr2/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-11-21T16:00:04+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a admis qu'il a mal performé en qualification à Las Vegas, faute de comprendre la puissance du tow. Il était 0,67s plus lent que Verstappen en Q2 et 0,44s en Q3, terminant cinquième.",
+      "summary_en": "Isack Hadjar admitted he performed poorly in Las Vegas qualifying, failing to grasp the tow's power. He was 0.67s slower than Verstappen in Q2 and 0.44s in Q3, finishing fifth."
+    },
+    {
+      "id": "1d55aeff3b8b",
+      "title": "How McLaren tried to mitigate its Las Vegas F1 top speed deficit",
+      "title_fr": "McLaren lutte contre son déficit de vitesse à Las Vegas",
+      "title_en": "McLaren tackles Las Vegas top‑speed deficit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-mclaren-tried-to-mitigate-its-las-vegas-f1-top-speed-deficit/10876451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEGwP2/s6/oscar-piastri-mclaren-lando-no.jpg",
+      "published_at": "2026-11-21T11:41:02+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a qualifié le circuit de Las Vegas de « chocant sur les lignes droites », après avoir terminé cinquième, à huit dixièmes de seconde du pole Kimi Antonelli. McLaren cherche à compenser son manque de vitesse.",
+      "summary_en": "Lando Norris described Las Vegas as “shocking on the straights” after qualifying fifth, eight-tenths behind pole-sitter Kimi Antonelli. McLaren is working to offset its top‑speed shortfall."
+    },
+    {
+      "id": "6179a1172835",
+      "title": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes",
+      "title_fr": "Russell et Antonelli prévoient de parler des problèmes de qualification à Las Vegas",
+      "title_en": "Russell and Antonelli to discuss Las Vegas qualifying woes",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-and-george-russell-to-discuss-traffic-woes-in-las-vegas-gp-qualifying/10876431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAVQOY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-21T11:02:55+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell et Kimi Antonelli vont se rencontrer pour analyser les difficultés de qualification à Las Vegas, notamment le trafic et les ordres d’équipe.",
+      "summary_en": "George Russell and Kimi Antonelli will meet to review Las Vegas qualifying issues, focusing on traffic and team orders."
+    },
+    {
+      "id": "c16df8d5730e",
+      "title": "Max Verstappen shares theory on Ferrari's lack of top speed in F1 2026",
+      "title_fr": "Verstappen pointe la faiblesse de Ferrari à Las Vegas",
+      "title_en": "Verstappen blames Ferrari's low top speed at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-shares-theory-on-ferraris-lack-of-top-speed-in-f1-2026/10876424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykW56/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-11-21T10:31:10+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a exprimé son mécontentement après la séance de qualification à Las Vegas, attribuant la faible vitesse de pointe de Ferrari à un problème mystérieux du RB22. La Scuderia a vu ses deux voitures éliminées en Q2.",
+      "summary_en": "Max Verstappen expressed frustration after Las Vegas qualifying, blaming Ferrari's low top speed on a mysterious RB22 issue. The Scuderia saw both cars eliminated in Q2."
+    },
+    {
+      "id": "7d83b7eac9ac",
+      "title": "Fernando Alonso: Honda lacks so much power that rivals take extra margin behind us",
+      "title_fr": "Alonso critique la puissance de Honda à Las Vegas",
+      "title_en": "Alonso blames Honda power deficit at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7Q8pK6/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-21T09:43:39+00:00",
+      "race_id": "japan",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso dénonce le déficit de puissance de Honda, qui laisse les concurrents prendre un avantage supplémentaire autour des Aston Martin lors du Grand Prix de Las Vegas.",
+      "summary_en": "Fernando Alonso says Honda's power deficit is so severe that rivals are gaining extra margin around the Aston Martins at the Las Vegas Grand Prix."
+    },
+    {
+      "id": "1946b64a45bf",
+      "title": "Max Verstappen reveals mysterious Red Bull issue that cannot be fixed in Las Vegas",
+      "title_fr": "Verstappen révèle un problème mystérieux de Red Bull à Las Vegas",
+      "title_en": "Verstappen reveals mysterious Red Bull issue at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-mysterious-red-bull-issue-that-cannot-be-fixed-in-las-vegas/10876399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOAVY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-21T08:52:06+00:00",
+      "race_id": "netherlands",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen, en pole position grâce à la pénalité de Kimi Antonelli, a déclaré que Red Bull ne peut pas résoudre un problème technique à Las Vegas. Le pilote reste incertain quant à la performance.",
+      "summary_en": "Max Verstappen, starting from pole thanks to Kimi Antonelli's grid penalty, said Red Bull cannot fix a technical issue at Las Vegas. The driver remains uncertain about the car's performance."
+    },
+    {
+      "id": "7d9ff7e1b75e",
+      "title": "Lando Norris frustrated by McLaren's \"shocking\" top speed at Las Vegas GP qualifying",
+      "title_fr": "Norris déçu par la vitesse de McLaren à Las Vegas",
+      "title_en": "Norris frustrated by McLaren's top speed at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-frustrated-by-mclarens-shocking-top-speed-at-las-vegas-gp-qualifying/10876362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren.jpg",
+      "published_at": "2026-11-21T08:28:44+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a exprimé sa frustration après avoir terminé quatrième en qualification à Las Vegas, 0,351 s derrière Kimi Antonelli, avec une perte de vitesse notable dans le dernier secteur.",
+      "summary_en": "Lando Norris expressed frustration after finishing fourth in Las Vegas qualifying, 0.351 s behind Kimi Antonelli, with a noticeable loss of speed in the final sector."
+    },
+    {
+      "id": "5f218f1dadb4",
+      "title": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
+      "title_fr": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
+      "title_en": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/we-lost-one-second-down-the-straight-charles-leclerc-upset-with-ferraris-crazy-las-vegas-deficiency/10876355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwBJD2/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-11-21T07:50:13+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.<br />Leclerc and team-mate Lewis Hamilton were fourth and eigh",
+      "summary_en": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.<br />Leclerc and team-mate Lewis Hamilton were fourth and eigh"
+    },
     {
       "id": "5153891e727c",
       "title": "Toto Wolff is not afraid of losing Kimi Antonelli to Ferrari",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Rafael Camara reprendra la grille de Haas au Grand Prix de Las Vegas après le licenciement d'Esteban Ocon.",
       "summary_en": "Rafael Camara will race again for Haas at the Las Vegas Grand Prix following Esteban Ocon's sacking."
-    },
-    {
-      "id": "eac563f2f21e",
-      "title": "Camara to race for Haas again in Las Vegas, Hirakawa to drive in practice | Formula 1",
-      "title_fr": "Camara revient chez Haas pour le Grand Prix de Las Vegas",
-      "title_en": "Camara returns to Haas for Las Vegas Grand Prix",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/16/camara-to-race-for-haas-again-in-las-vegas-hirakawa-to-drive-in-practice/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-09-33-11-7-2304108143-481.jpg",
-      "published_at": "2026-11-16T08:12:57+00:00",
-      "race_id": "lasvegas",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara reprendra la ligne de départ de Haas à Las Vegas, tandis que Hirakawa participera aux séances d’essai. Le pilote brésilien confirme son retour après une absence de la saison.",
-      "summary_en": "Rafael Camara will race for Haas again in Las Vegas, while Hirakawa will drive in practice sessions. The Brazilian driver confirms his return after missing the season."
-    },
-    {
-      "id": "e3318224dc95",
-      "title": "How to follow Las Vegas Grand Prix on the BBC",
-      "title_fr": "Suivre le Grand Prix de Las Vegas sur la chaîne britannique",
-      "title_en": "Follow the Las Vegas Grand Prix on BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cx4gnlr603mqo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b17f/live/9bd4e250-ddc2-11f1-a50f-85eebf9e50e5.jpg",
-      "published_at": "2026-11-16T08:07:20+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La chaîne britannique propose une couverture complète du Grand Prix de Las Vegas du 20 au 22 novembre. Suivez les diffusions, les commentaires et les analyses en direct.",
-      "summary_en": "BBC will provide full coverage of the Las Vegas Grand Prix from 20 to 22 November. Follow live broadcasts, commentary and analysis."
-    },
-    {
-      "id": "224075377999",
-      "title": "How to watch the 2026 Las Vegas Grand Prix live this weekend | TV Times",
-      "title_fr": "Comment suivre le Grand Prix de Las Vegas 2026 en direct ce week-end",
-      "title_en": "How to watch the 2026 Las Vegas Grand Prix live this weekend",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/16/how-to-watch-the-2026-las-vegas-grand-prix-live-this-weekend/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-23-04-48-33-10-SI202511230197.jpg",
-      "published_at": "2026-11-16T07:15:50+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 s'apprête à franchir le Strip de Las Vegas pour le Grand Prix 2026. Voici les diffusions disponibles et comment les suivre en direct ce week-end.",
-      "summary_en": "Formula 1 heads to the Las Vegas Strip Circuit for the 2026 Grand Prix. Here’s how to watch the race live this weekend, with TV times and streaming options."
-    },
-    {
-      "id": "c61ce8696ae8",
-      "title": "Formula 1's one-race wonders",
-      "title_fr": "Les pilotes qui n’ont eu qu’une seule course en F1",
-      "title_en": "Drivers Who Only Had One F1 Race",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqp9dr4kedd3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee4/live/0fa3dfd0-e041-11f1-88e1-eb4e155225b3.png",
-      "published_at": "2026-11-16T06:53:18+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le texte explore les parcours de pilotes qui n’ont participé qu’à une seule course de Formule 1, depuis leur ascension jusqu’à leur départ. Il rappelle que franchir le seuil de la F1 reste un accomplissement majeur.",
-      "summary_en": "The piece examines the careers of drivers who only raced once in Formula 1, from their rise to their exit, reminding readers that reaching the F1 grid remains a major achievement."
-    },
-    {
-      "id": "6a58cdacdc1e",
-      "title": "Much still to do on F1 diversity - Hamilton",
-      "title_fr": "Hamilton appelle à plus de diversité en F1",
-      "title_en": "Hamilton calls for more diversity in F1",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c52e8kpnje42o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c1/live/e6f16ac0-df8d-11f1-a5d4-0b20a170e974.jpg",
-      "published_at": "2026-11-16T00:04:45+00:00",
-      "race_id": "uk",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton, pilote britannique, expose trois mesures pour renforcer la diversité dans la Formule 1.",
-      "summary_en": "Lewis Hamilton, the British F1 driver, outlines three steps to boost diversity in the sport."
-    },
-    {
-      "id": "93611f6fc2c9",
-      "title": "Christian Horner admits Red Bull prospects were thrown in against Max Verstappen too soon",
-      "title_fr": "Horner dénonce la précocité des pilotes chez Red Bull",
-      "title_en": "Horner criticises Red Bull's early driver pipeline",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/horner-admits-red-bull-broken-pierre-gasly-and-promoted-drivers-too-soon/10874627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YpbAXRj0/s6/motorsport-com-graphics-2026-1-2.jpg",
-      "published_at": "2026-11-15T23:30:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner, ancien directeur de Red Bull, a déclaré que les jeunes pilotes étaient introduits trop tôt dans l'équipe, avant d'être prêts à suivre Max Verstappen.",
-      "summary_en": "Former Red Bull chief Christian Horner admitted that the team's young drivers were promoted too early, before they were ready to follow Max Verstappen."
-    },
-    {
-      "id": "f0992f8befca",
-      "title": "Topps reveals Gem Mint 10 Lando Norris card with Coca-Cola suit patch",
-      "title_fr": "Topps dévoile la carte Gem Mint 10 de Lando Norris avec patch Coca-Cola",
-      "title_en": "Topps unveils Lando Norris Gem Mint 10 card with Coca-Cola patch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/topps-reveals-gem-mint-10-lando-norris-card-with-coca-cola-suit-patch/10874731/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-6.motorsport.com/images/amp/6b8ZMdv2/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-15T22:47:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Topps a publié une carte Gem Mint 10 de Lando Norris, signée et portant un patch Coca-Cola issu de son maillot McLaren. La carte est issue de la série Single Driver Dual Relic",
-      "summary_en": "Topps released a Gem Mint 10 Lando Norris card, signed and featuring a Coca-Cola patch cut from his McLaren race suit. The card comes from the Single Driver Dual Relic series"
-    },
-    {
-      "id": "3343805d8ba8",
-      "title": "Kimi Antonelli names biggest threat to 2027 title defence as he warns Mercedes advantage may fade",
-      "title_fr": "Antonelli pointe Verstappen comme menace majeure pour 2027",
-      "title_en": "Antonelli names Verstappen biggest threat to 2027 title defence",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-names-biggest-threat-to-2027-title-defence-as-he-warns-mercedes-advantage-may-fade/10874729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/6O7zrGw6/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-15T22:26:14+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli, champion 2026, considère Max Verstappen, champion de Mercedes, comme le principal obstacle à sa défense de titre en 2027. Il avertit que l’avantage de Mercedes pourrait s’estomper.",
-      "summary_en": "Kimi Antonelli, 2026 champion, names Max Verstappen as the main threat to his 2027 title defence, warning that Mercedes' advantage could fade."
-    },
-    {
-      "id": "eaca9fda9b61",
-      "title": "Lewis Hamilton criticises ex-F1 drivers for \"talking smack\" about young stars",
-      "title_fr": "Hamilton dénonce les anciens pilotes",
-      "title_en": "Hamilton criticises ex‑drivers for talking smack",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-criticises-ex-f1-drivers-for-talking-smack-and-young-stars/10874726/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/01QNXVQ0/s6/motorsport-com-graphics-2026-1.jpg",
-      "published_at": "2026-11-15T22:11:44+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a dénoncé les anciens pilotes qui se moquent des jeunes talents, affirmant qu'il ne souhaite pas devenir ce type de pilote. Il a évoqué la réussite de Kimi Antonelli lors d'Interlagos.",
-      "summary_en": "Lewis Hamilton criticized former drivers for talking smack about young stars, saying he will not become that type of driver. He also reflected on Kimi Antonelli's title success at Interlagos."
-    },
-    {
-      "id": "95c376f5cefc",
-      "title": "Christian Horner explains why Max Verstappen’s “abnormal” driving style destroys his team-mates",
-      "title_fr": "Christian Horner explains why Max Verstappen’s “abnormal” driving style destroys his team-mates",
-      "title_en": "Christian Horner explains why Max Verstappen’s “abnormal” driving style destroys his team-mates",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/horner-explains-why-max-verstappens-abnormal-driving-style-destroys-his-teammates/10874636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6DGg5JJY/s6/motorsport-com-graphics-2026-1-3.jpg",
-      "published_at": "2026-11-15T19:00:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The narrative surrounding Red Bull Racing over the last half-decade has consistently featured a rotating cast of drivers struggling - and often failing - to survive alongside Max Verstappen.<br />Form",
-      "summary_en": "The narrative surrounding Red Bull Racing over the last half-decade has consistently featured a rotating cast of drivers struggling - and often failing - to survive alongside Max Verstappen.<br />Form"
     }
   ]
 }
