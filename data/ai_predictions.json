@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T05:00:14Z",
+  "generated_at": "2026-11-21T13:00:23Z",
   "model": "claude",
   "predictions": [
     {
@@ -188,14 +188,29 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance et une Mercedes très performante. À Las Vegas, les longues lignes droites et le froid de la nuit avantagent l'efficacité aérodynamique et la gestion des pneus, deux points forts de Mercedes. Verstappen, vainqueur ici en 2025, reste le principal rival. Russell, très solide sur ce circuit, complète le podium devant les Ferrari.",
-      "reasoning_en": "Antonelli leads the championship by 111 points in a very strong Mercedes. In Las Vegas, the long straights and cold night conditions reward aerodynamic efficiency and tyre management, both Mercedes strengths. Verstappen, the 2025 winner here, remains the main threat. Russell, consistently strong at this circuit, completes the podium ahead of the Ferraris.",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance, et Mercedes reste la référence. Las Vegas, avec ses longues lignes droites et ses nuits froides, récompense l'efficacité moteur et la gestion de la chauffe des pneus, un point fort de Mercedes (victoire de Russell en 2024). Verstappen, vainqueur ici en 2025, est le premier rival. Ferrari et McLaren restent des outsiders.",
+      "reasoning_en": "Antonelli has dominated 2026 with a 111-point lead, and Mercedes remains the benchmark. Las Vegas, with its long straights and cold nights, rewards power-unit efficiency and tyre warm-up management, both Mercedes strengths (Russell won here in 2024). Verstappen, the 2025 winner here, is the main threat. Ferrari and McLaren remain outsiders.",
       "confidence": "medium",
-      "key_factor_fr": "Vitesse de pointe et mise en température des pneus par temps froid",
+      "key_factor_fr": "Mise en température des pneus par nuit froide, efficacité Mercedes",
       "news_used_ids": [],
-      "generated_at": "2026-11-21T05:00:14Z"
+      "generated_at": "2026-11-21T13:00:14Z"
+    },
+    {
+      "event_id": "qatar_qualifying",
+      "race_id": "qatar",
+      "session_type": "qualifying",
+      "session_date": "2026-11-28T18:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Mercedes domine 2026 et Antonelli mène le championnat avec 111 points d'avance, signe d'une vitesse pure régulière sur un tour. Lusail, rapide et fluide, favorise une voiture stable dans les virages à haute vitesse. Russell y a déjà signé la pole en 2024 et reste très solide en qualif. Verstappen, bon deuxième au championnat, est la menace principale hors Mercedes.",
+      "reasoning_en": "Mercedes dominates 2026 and Antonelli leads the championship by 111 points, a sign of consistent one-lap pace. Lusail is fast and flowing, so it rewards a car that stays stable through high-speed corners. Russell took pole here in 2024 and remains very strong in qualifying. Verstappen, a strong second in the standings, is the main threat outside Mercedes.",
+      "confidence": "medium",
+      "key_factor_fr": "Vitesse de Mercedes dans les virages rapides de Lusail",
+      "news_used_ids": [],
+      "generated_at": "2026-11-21T13:00:23Z"
     }
   ]
 }
