@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-21T18:54:25Z",
+  "last_updated": "2026-11-21T21:56:24Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0c8fd38ba049",
+      "title": "Oscar Piastri questions \"strange\" pace deficit to other Mercedes-powered cars in Las Vegas",
+      "title_fr": "Piastri s'interroge sur l'écart de vitesse à Las Vegas",
+      "title_en": "Piastri questions pace deficit at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/piastri-questions-strange-pace-deficit-to-other-mercedes-powered-cars-in-las-vegas/10876516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNxkZ0/s6/oscar-piastri-mclaren.jpg",
+      "published_at": "2026-11-21T19:00:03+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Oscar Piastri a exprimé son étonnement face à l'écart de vitesse de la McLaren par rapport aux concurrents équipés du même moteur Mercedes à Las Vegas. Il a obtenu la septième meilleure vitesse en qualification finale.",
+      "summary_en": "Oscar Piastri expressed surprise at the McLaren's speed gap compared to rivals using the same Mercedes power unit in Las Vegas, acknowledging the unexpected margin. He recorded the seventh-fastest time in the final qualifying session."
+    },
     {
       "id": "7d604d45b5e8",
       "title": "Max Verstappen takes Las Vegas pole despite “weird issues” since Brazil",
@@ -77,6 +96,25 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a qualifié le circuit de Las Vegas de « chocant sur les lignes droites », après avoir terminé cinquième, à huit dixièmes de seconde du pole Kimi Antonelli. McLaren cherche à compenser son manque de vitesse.",
       "summary_en": "Lando Norris described Las Vegas as “shocking on the straights” after qualifying fifth, eight-tenths behind pole-sitter Kimi Antonelli. McLaren is working to offset its top‑speed shortfall."
+    },
+    {
+      "id": "de4ba6aea166",
+      "title": "Antonelli and Russell set for Mercedes talks over Las Vegas GP qualifying mix-up",
+      "title_fr": "Russell et Antonelli vont parler de la confusion de qualification à Las Vegas",
+      "title_en": "Russell and Antonelli set to discuss Las Vegas qualifying mix-up",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/kimi-antonelli-and-george-russell-set-for-mercedes-talks-over-las-vegas-gp-qualifying-woes/10876456/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAVQOY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-21T11:05:19+00:00",
+      "race_id": "lasvegas",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "George Russell et Kimi Antonelli se réuniront pour analyser les problèmes de qualification à Las Vegas, notamment les ordres d'équipe et la position sur la piste. La discussion vise à clarifier les décisions prises.",
+      "summary_en": "George Russell and Kimi Antonelli will meet to review the Las Vegas qualifying chaos, focusing on team orders and track position. The discussion aims to clarify the decisions made."
     },
     {
       "id": "6179a1172835",
@@ -155,6 +193,25 @@
       "summary_en": "Max Verstappen, starting from pole thanks to Kimi Antonelli's grid penalty, said Red Bull cannot fix a technical issue at Las Vegas. The driver remains uncertain about the car's performance."
     },
     {
+      "id": "ebcf73813f8f",
+      "title": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
+      "title_fr": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
+      "title_en": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/verstappen-reveals-mysterious-red-bull-f1-car-issue-that-cannot-be-fixed-in-las-vegas/10876404/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0LderEP0/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-21T08:52:06+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Thanks to Kimi Antonelli 's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutch driver to be satisfied.<br /",
+      "summary_en": "Thanks to Kimi Antonelli 's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutch driver to be satisfied.<br /"
+    },
+    {
       "id": "7d9ff7e1b75e",
       "title": "Lando Norris frustrated by McLaren's \"shocking\" top speed at Las Vegas GP qualifying",
       "title_fr": "Norris déçu par la vitesse de McLaren à Las Vegas",
@@ -191,6 +248,139 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.<br />Leclerc and team-mate Lewis Hamilton were fourth and eigh",
       "summary_en": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.<br />Leclerc and team-mate Lewis Hamilton were fourth and eigh"
+    },
+    {
+      "id": "89dfc4d30329",
+      "title": "Lando Norris brands McLaren “awful in the straight” despite third on Las Vegas GP grid",
+      "title_fr": "Norris critique la McLaren comme « horrible en ligne droite » à Las Vegas",
+      "title_en": "Norris slams McLaren as 'awful in the straight' at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10876306-b706-2.jpg",
+      "published_at": "2026-11-21T07:10:24+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris démarre troisième à Las Vegas après un Q3 de 1m34,99, mais a qualifié la MCL40 de « horrible en ligne droite ». Le pilote McLaren souligne les faiblesses de la voiture.",
+      "summary_en": "Lando Norris starts third at Las Vegas after a 1m34.99 Q3, but slammed the MCL40 as “awful in the straight”. The McLaren driver points out the car’s weaknesses."
+    },
+    {
+      "id": "7d6197dc32a7",
+      "title": "Verstappen responds to Russell after Las Vegas GP practice clash over 'gentleman's agreement'",
+      "title_fr": "Verstappen réagit à Russell après l'incident de pratique à Las Vegas",
+      "title_en": "Verstappen reacts to Russell after Las Vegas practice clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/verstappen-responds-to-russell-after-las-vegas-gp-practice-clash-over-gentlemans-agreement/10876337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8OJb6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-21T07:05:12+00:00",
+      "race_id": "netherlands",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a réagi à George Russell après un incident de pratique à Las Vegas. Le pilote a changé de direction plusieurs fois, provoquant un contact à l'intérieur du quart de monde champion.",
+      "summary_en": "Max Verstappen reacted to George Russell after a practice clash at Las Vegas. The Dutchman changed direction several times, causing contact inside the four-time world champion."
+    },
+    {
+      "id": "5635b7e820c2",
+      "title": "Max Verstappen dismisses George Russell Las Vegas clash with two-word response",
+      "title_fr": "Verstappen minimise le clash avec Russell à Las Vegas",
+      "title_en": "Verstappen dismisses clash with Russell at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-dismisses-george-russell-las-vegas-clash-with-two-word-response/10876339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing-a10876339-b707-2.jpg",
+      "published_at": "2026-11-21T06:58:08+00:00",
+      "race_id": "lasvegas",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a minimisé le contact avec George Russell lors de la séance d'essais libres, déclarant « rien ne s'est passé ». Les officiels ont averti le pilote Red Bull pour conduite erratique.",
+      "summary_en": "Max Verstappen brushed off the contact with George Russell during free practice, saying \"nothing happened.\" Stewards warned the Red Bull driver for erratic driving."
+    },
+    {
+      "id": "28b5fc45c086",
+      "title": "Max Verstappen responds to George Russell after Vegas clash",
+      "title_fr": "Verstappen et Russell se heurtent à Las Vegas",
+      "title_en": "Verstappen and Russell clash in Las Vegas practice",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-george-russell-after-vegas-clash-never-seen-such-an-agreement/10876331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0LderLv0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-21T06:56:38+00:00",
+      "race_id": "netherlands",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Lors de la séance de pratique finale du Grand Prix de Las Vegas, Max Verstappen a dépassé George Russell puis a freiné devant lui, provoquant un contact à l'intérieur du virage. Les officiels ont constaté plusieurs changements de direction.",
+      "summary_en": "During the final practice session for the Las Vegas Grand Prix, Max Verstappen overtook George Russell, then slowed in front of him, leading to a contact inside the turn. Stewards noted several direction changes."
+    },
+    {
+      "id": "9cda4732a655",
+      "title": "Lewis Hamilton reveals Ferrari F1 car damage after Las Vegas Q2 exit",
+      "title_fr": "Hamilton révèle les dégâts de la Ferrari après la sortie de Q2 à Las Vegas",
+      "title_en": "Hamilton reveals Ferrari damage after Las Vegas Q2 exit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/floor-damage-deployment-down-to-hamiltons-las-vegas-q2-exit/10876295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXR7JyY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-11-21T06:47:51+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton explique que la sortie de Q2 de la Ferrari à Las Vegas a été causée par un dégât du plan d’atterrissage et une mauvaise utilisation de l’énergie, malgré des problèmes d’adhérence des pneus.",
+      "summary_en": "Lewis Hamilton says the Ferrari’s Q2 exit at Las Vegas was due to floor damage and poor energy deployment, despite tyre grip issues."
+    },
+    {
+      "id": "f4847503314c",
+      "title": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
+      "title_fr": "Hamilton blâme le plancher et l’énergie pour son sort en Q2 à Las Vegas",
+      "title_en": "Hamilton blames floor damage and energy deployment for his Q2 exit at Las Vegas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EbowY/s6/lewis-hamilton-ferrari-2.jpg",
+      "published_at": "2026-11-21T06:33:00+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a attribué son sort en Q2 à Las Vegas à des dommages au plancher et à la gestion de l’énergie, après des difficultés de freinage et des excès de pneus avant.",
+      "summary_en": "Lewis Hamilton blamed floor damage and energy deployment for his Q2 exit at Las Vegas, citing braking issues and front‑tyre lock‑ups that forced multiple excursions."
+    },
+    {
+      "id": "c6cd544c6067",
+      "title": "Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’",
+      "title_fr": "Russell critique Verstappen après l'accident de pratique à Las Vegas",
+      "title_en": "Russell slams Verstappen after Las Vegas practice clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkLjY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-21T06:28:41+00:00",
+      "race_id": "netherlands",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "George Russell a réprimandé Max Verstappen après leur collision lors de la séance de pratique libre 3 du Grand Prix de Las Vegas. Le pilote Mercedes a poussé le Red Bull à l'écart, déclenchant une dispute.",
+      "summary_en": "George Russell slammed Max Verstappen after their collision in Free Practice 3 at the Las Vegas Grand Prix. The Mercedes driver pushed the Red Bull out of the way, sparking a heated exchange."
     },
     {
       "id": "5153891e727c",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.<br />Las Vegas Grand Prix 2026 sc",
       "summary_en": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.<br />Las Vegas Grand Prix 2026 sc"
-    },
-    {
-      "id": "2939a39c7b7b",
-      "title": "F1 Las Vegas GP 2026: UK times, schedule and how to watch",
-      "title_fr": "Las Vegas GP 2026 : horaires UK et programme complet",
-      "title_en": "Las Vegas GP 2026: UK times and full schedule",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-uk-times-schedule-how-to-watch/10874860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/2y7AZ9g6/s6/a-rainbow-above-the-welcome-to.jpg",
-      "published_at": "2026-11-16T14:50:05+00:00",
-      "race_id": "lasvegas",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Las Vegas 2026 débute à 4h du matin, heure du Royaume-Uni, le 22 novembre. Toutes les sessions se déroulent la nuit à Las Vegas et sont diffusées en direct sur Sky Sports F1.",
-      "summary_en": "The Las Vegas Grand Prix 2026 starts at 4 am UK time on Sunday 22 November. All sessions run overnight in Las Vegas and are broadcast live on Sky Sports F1."
-    },
-    {
-      "id": "ce0536a69e1d",
-      "title": "F1 driver manager Enrico Zanarini recounts his 50 years in motorsport",
-      "title_fr": "F1 driver manager Enrico Zanarini recounts his 50 years in motorsport",
-      "title_en": "F1 driver manager Enrico Zanarini recounts his 50 years in motorsport",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-driver-manager-enrico-zanarini-recounts-his-50-years-in-motorsport/10874697/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2y7Qrqp6/s6/enrico-zanarini.jpg",
-      "published_at": "2026-11-16T14:39:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Sometimes, a single incident – mere seconds – is enough to alter the course of a career. Enrico Zanarini recalls one such moment, which took place in the paddock at the 1993 Portuguese Grand Prix. Ema",
-      "summary_en": "Sometimes, a single incident – mere seconds – is enough to alter the course of a career. Enrico Zanarini recalls one such moment, which took place in the paddock at the 1993 Portuguese Grand Prix. Ema"
-    },
-    {
-      "id": "749102298ed7",
-      "title": "Christian Horner reveals how Max Verstappen’s management reshaped 2022 Red Bull development",
-      "title_fr": "Christian Horner reveals how Max Verstappen’s management reshaped 2022 Red Bull development",
-      "title_en": "Christian Horner reveals how Max Verstappen’s management reshaped 2022 Red Bull development",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/horner-reveals-verstappens-management-intervened-when-the-2022-red-bull-favored-perez/10874617/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6grQkBPY/s6/motorsport-com-graphics-1-2.jpg",
-      "published_at": "2026-11-16T12:44:55+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The narrative surrounding Sergio Perez's tenure at Red Bull Racing often centres on his inability to consistently extract the same raw pace as his team-mate Max Verstappen. But former Red Bull Racing ",
-      "summary_en": "The narrative surrounding Sergio Perez's tenure at Red Bull Racing often centres on his inability to consistently extract the same raw pace as his team-mate Max Verstappen. But former Red Bull Racing "
-    },
-    {
-      "id": "d8298400267b",
-      "title": "James Allison reveals message to Mercedes recruits during team's four-year F1 title drought",
-      "title_fr": "Allison motive les recrues Mercedes en promettant un titre",
-      "title_en": "Allison inspires Mercedes recruits with championship promise",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/james-allison-reveals-message-to-mercedes-recruits-during-teams-four-year-f1-title-drought/10874833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-3.motorsport.com/images/amp/6O7zE9w6/s6/motorsport-com-graphics.jpg",
-      "published_at": "2026-11-16T12:06:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique Mercedes, James Allison, a encouragé les nouveaux membres de l’équipe en leur promettant un futur championnat, rappelant que la victoire reviendrait à l'équipe de Brackley.",
-      "summary_en": "Mercedes technical director James Allison told new recruits that the team would one day win a championship, reminding them that the title would belong to Brackley."
-    },
-    {
-      "id": "10d332dca0fb",
-      "title": "Racing Bulls boss Permane “should talk up” need for cost cap changes – Vowles | Formula 1",
-      "title_fr": "Vowles réclame des révisions du plafond de dépenses pour Williams",
-      "title_en": "Vowles calls for cost-cap changes at Williams",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/16/racing-bulls-boss-permane-should-talk-up-need-for-cost-cap-changes-vowles/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-16-08-48-30-1-SI202509070602.jpg",
-      "published_at": "2026-11-16T10:05:49+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "James Vowles, directeur de Williams, estime que l’équipe de milieu de terrain dominante en 2026 doit pousser à revoir le plafond de dépenses de la Formule 1.",
-      "summary_en": "James Vowles, Williams team principal, says the leading midfield outfit of 2026 should push for changes to Formula 1's cost cap."
-    },
-    {
-      "id": "44b4df099261",
-      "title": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
-      "title_fr": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
-      "title_en": "Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/haas-sticks-with-rafael-camara-for-las-vegas-ryo-hirakawa-in-for-fp1/10874781/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg",
-      "published_at": "2026-11-16T09:52:30+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara will race again for Haas at Formula 1's upcoming Las Vegas Grand Prix, as Ryo Hirakawa takes Ollie Bearman's seat for the opening practice session.<br />Both Hirakawa and Camara have now",
-      "summary_en": "Rafael Camara will race again for Haas at Formula 1's upcoming Las Vegas Grand Prix, as Ryo Hirakawa takes Ollie Bearman's seat for the opening practice session.<br />Both Hirakawa and Camara have now"
-    },
-    {
-      "id": "f179fdc588c5",
-      "title": "Haas sticks with Rafael Camara for Las Vegas, Ryo Hirakawa in for FP1",
-      "title_fr": "Haas conserve Camara pour Las Vegas, Hirakawa remplace Bearman en FP1",
-      "title_en": "Haas keeps Camara for Las Vegas, Hirakawa replaces Bearman in FP1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/haas-sticks-with-camara-for-las-vegas-hirakawa-in-for-fp1/10874778/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/YWKAR5KY/s6/rafael-camara-haas-f1-team.jpg",
-      "published_at": "2026-11-16T09:51:16+00:00",
-      "race_id": "lasvegas",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara reste pilote de Haas pour le Grand Prix de Las Vegas, tandis que Ryo Hirakawa prend la place d'Ollie Bearman lors de la séance d'entraînement FP1. Les deux pilotes ont couru pour l'équipe après le retrait d'Esteban Ocon.",
-      "summary_en": "Rafael Camara will stay with Haas for the Las Vegas Grand Prix, while Ryo Hirakawa takes Ollie Bearman's seat for the FP1 session. Both drivers have already raced for the team after Esteban Ocon was stood down."
-    },
-    {
-      "id": "38065aca1d0c",
-      "title": "What is left to fight for in F1 2026?",
-      "title_fr": "Quelles batailles restent à livrer en F1 2026 ?",
-      "title_en": "What battles remain in F1 2026?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/YWKAgaVY/s6/charles-leclerc-ferrari-2.jpg",
-      "published_at": "2026-11-16T09:29:36+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté son premier titre mondial, devenant le plus jeune champion de Formule 1. Max Verstappen, en tête des points depuis huit manches, se trouve à la deuxième place, bataille pour la deuxième place plus serrée que jamais.",
-      "summary_en": "Kimi Antonelli captured his first world title, becoming Formula 1's youngest champion. Max Verstappen, leading the points over the last eight races, sits in second place, and the fight for second is tighter than ever."
-    },
-    {
-      "id": "ac82cebbadd0",
-      "title": "What is left to fight for in F1 2026?",
-      "title_fr": "Quelles batailles restent à livrer en 2026 ?",
-      "title_en": "What battles remain in 2026?",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YpbAX7g0/s6/lewis-hamilton-ferrari-max-ver-3.jpg",
-      "published_at": "2026-11-16T09:28:44+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a remporté son premier titre mondial, devenant le plus jeune champion de F1. Max Verstappen, deuxième du classement, poursuit la lutte pour la deuxième place, tandis que cinq pilotes se disputent la troisième position.",
-      "summary_en": "Kimi Antonelli clinched his first world title, becoming the youngest F1 champion. Max Verstappen, now second in the standings, is chasing the top spot while five drivers battle for third."
-    },
-    {
-      "id": "9f8c1a3e0d6e",
-      "title": "Camara to race again for Haas in Las Vegas",
-      "title_fr": "Camara revient chez Haas pour Las Vegas",
-      "title_en": "Camara returns to Haas for Las Vegas",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c804w7nxr61zo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9757/live/c21954a0-e196-11f1-9e84-492a244b27cc.jpg",
-      "published_at": "2026-11-16T08:35:56+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara reprendra la grille de Haas au Grand Prix de Las Vegas après le licenciement d'Esteban Ocon.",
-      "summary_en": "Rafael Camara will race again for Haas at the Las Vegas Grand Prix following Esteban Ocon's sacking."
     }
   ]
 }
