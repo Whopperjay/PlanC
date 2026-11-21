@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:00:30Z",
+  "generated_at": "2026-11-21T05:00:14Z",
   "model": "claude",
   "predictions": [
     {
@@ -188,14 +188,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-22T04:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 111 points d'avance et une Mercedes très performante. À Las Vegas, le froid nocturne et les longues lignes droites ont souvent souri à Mercedes (victoire de Russell en 2024), car la voiture y chauffe bien ses pneus. Russell connaît parfaitement ce circuit. Verstappen, vainqueur en 2025 et deuxième au championnat, reste la principale menace pour le podium.",
-      "reasoning_en": "Antonelli dominates 2026 with a 111-point lead and a very strong Mercedes. In Las Vegas, the cold night conditions and long straights have often favoured Mercedes (Russell won in 2024), as the car warms its tyres well there. Russell knows this circuit very well. Verstappen, the 2025 winner and second in the championship, remains the main threat for the podium.",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine le championnat avec 111 points d'avance et une Mercedes très performante. À Las Vegas, les longues lignes droites et le froid de la nuit avantagent l'efficacité aérodynamique et la gestion des pneus, deux points forts de Mercedes. Verstappen, vainqueur ici en 2025, reste le principal rival. Russell, très solide sur ce circuit, complète le podium devant les Ferrari.",
+      "reasoning_en": "Antonelli leads the championship by 111 points in a very strong Mercedes. In Las Vegas, the long straights and cold night conditions reward aerodynamic efficiency and tyre management, both Mercedes strengths. Verstappen, the 2025 winner here, remains the main threat. Russell, consistently strong at this circuit, completes the podium ahead of the Ferraris.",
       "confidence": "medium",
-      "key_factor_fr": "Mise en température des pneus par nuit froide",
+      "key_factor_fr": "Vitesse de pointe et mise en température des pneus par temps froid",
       "news_used_ids": [],
-      "generated_at": "2026-11-20T13:00:21Z"
+      "generated_at": "2026-11-21T05:00:14Z"
     }
   ]
 }
