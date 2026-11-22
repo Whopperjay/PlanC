@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:00:04Z",
+  "generated_at": "2026-11-22T13:00:21Z",
   "model": "claude",
   "predictions": [
     {
@@ -205,27 +205,27 @@
       "p1": "antonelli",
       "p2": "max_verstappen",
       "p3": "russell",
-      "reasoning_fr": "Antonelli a montré un rythme exceptionnel en qualification, décrochant la pole à Las Vegas avec 0,258 s d’avance sur Verstappen, et bénéficie d’un moteur Mercedes performant sur les longues lignes droites de Lusail. Verstappen, malgré quelques problèmes techniques, reste très rapide et a terminé deuxième à Las Vegas, confirmant sa capacité à exploiter le circuit. Russell, troisième à Las Vegas et ",
-      "reasoning_en": "Antonelli demonstrated outstanding one‑lap speed, taking pole in Las Vegas just 0.258 s ahead of Verstappen, and his Mercedes power unit excels on Lusail’s long straights. Verstappen, despite minor technical issues, remained very quick and was second in Las Vegas, confirming his ability to extract performance on this layout. Russell, who qualified third in Las Vegas and is in good form, also benef",
-      "confidence": "high",
-      "key_factor_fr": "Performance récente en qualification et puissance sur les lignes droites",
+      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance : la Mercedes est la référence en qualif. Lusail, rapide et fluide, récompense l'appui aérodynamique et la stabilité en virages rapides, un point fort de la W17. Verstappen reste le plus redoutable sur un tour et a gagné au Qatar. Russell, très régulier en qualif, complète un probable duel Mercedes.",
+      "reasoning_en": "Antonelli dominates 2026 with a 98-point lead, and Mercedes is the qualifying benchmark. Lusail is fast and flowing, so it rewards downforce and stability in high-speed corners, a strength of the W17. Verstappen remains the most dangerous over one lap and has won in Qatar before. Russell, very consistent in qualifying, rounds out a likely Mercedes battle.",
+      "confidence": "medium",
+      "key_factor_fr": "Domination Mercedes en virages rapides et forme d'Antonelli",
       "news_used_ids": [],
-      "generated_at": "2026-11-22T04:00:41Z"
+      "generated_at": "2026-11-22T13:00:21Z"
     },
     {
       "event_id": "qatar_grand_prix",
       "race_id": "qatar",
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "norris",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
       "p3": "russell",
-      "reasoning_fr": "Antonelli part en pole mais la gestion des pneus à Losail, où Pirelli impose des limites de durée, favorise les équipes expérimentées. Verstappen montre une constance de course exceptionnelle, a fini 2e à Rio et possède le meilleur pack moteur. Norris, vainqueur du Brésil, a prouvé son rythme de course malgré un déficit de vitesse en ligne droite, et part 4e en grille, ce qui le place bien pour le",
-      "reasoning_en": "Antonelli starts from pole but the tire‑duration limits at Losail favor experienced teams. Verstappen has shown race‑pace consistency, finished 2nd in Brazil and has the strongest power unit. Norris, the Brazilian winner, proved race speed despite straight‑line deficit and starts 4th, positioning him for a podium. Russell, qualified 3rd, benefits from Mercedes' tyre management and reliability, pla",
+      "reasoning_fr": "Antonelli domine le championnat avec 98 points d'avance et une Mercedes très performante en 2026. Lusail, avec ses virages rapides et fluides, récompense l'efficacité aérodynamique et la gestion des pneus. Verstappen, vainqueur ici en 2025, reste le plus grand danger. Russell complète le podium grâce à la constance de Mercedes, devant Ferrari et McLaren.",
+      "reasoning_en": "Antonelli leads the championship by 98 points with a very strong 2026 Mercedes. Lusail's fast, flowing corners reward aero efficiency and tyre management. Verstappen, who won here in 2025, remains the biggest threat. Russell completes the podium thanks to Mercedes' consistency, ahead of Ferrari and McLaren, which are closely matched in the standings.",
       "confidence": "medium",
-      "key_factor_fr": "Quali + gestion pneus à Losail",
+      "key_factor_fr": "Efficacité aéro de Mercedes dans les virages rapides de Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-22T04:00:28Z"
+      "generated_at": "2026-11-22T13:00:12Z"
     }
   ]
 }
