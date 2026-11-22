@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-22T04:00:19Z",
+  "last_updated": "2026-11-22T07:02:17Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2b3c37d9b1b0",
+      "title": "Leclerc’s collision with Hamilton was “completely unacceptable”, fumes Vasseur | Formula 1",
+      "title_fr": "Collision entre Leclerc et Hamilton à Las Vegas jugée inacceptable par Vasseur",
+      "title_en": "Vasseur deems Leclerc-Hamilton collision at Las Vegas 'completely unacceptable'",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/leclercs-collision-with-hamilton-was-completely-unacceptable-fumes-vasseur/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-01-52-10-1-261121_R21_LAS_VEGAS_DP_VA1_3528.jpg",
+      "published_at": "2026-11-22T06:50:28+00:00",
+      "race_id": "lasvegas",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": true,
+      "summary_fr": "Le directeur de Ferrari, Frédéric Vasseur, a qualifié de totalement inacceptable la collision entre Charles Leclerc et Lewis Hamilton lors du Grand Prix de Las Vegas. Il a exprimé son mécontentement et appelé à une enquête.",
+      "summary_en": "Ferrari team principal Frédéric Vasseur called the collision between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix 'completely unacceptable'. He expressed his frustration and urged an investigation."
+    },
+    {
+      "id": "b16abc06edd2",
+      "title": "George Russell: “I don’t regret it” after crashing out of second at Las Vegas GP",
+      "title_fr": "George Russell: “I don’t regret it” after crashing out of second at Las Vegas GP",
+      "title_en": "George Russell: “I don’t regret it” after crashing out of second at Las Vegas GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/russell-i-dont-regret-it-after-hitting-las-vegas-wall-in-late-lunge-for-second/10876720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876720-b705-2.jpg",
+      "published_at": "2026-11-22T06:46:08+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell could have played it safe and walked away from the 2026 Las Vegas Grand Prix with a podium. Instead, the Mercedes driver gambled on a late lunge for second - and watched both his shot a",
+      "summary_en": "George Russell could have played it safe and walked away from the 2026 Las Vegas Grand Prix with a podium. Instead, the Mercedes driver gambled on a late lunge for second - and watched both his shot a"
+    },
+    {
+      "id": "a631c1c8e546",
+      "title": "George Russell explains late-race crash in Las Vegas F1 victory bid",
+      "title_fr": "Russell explique son accident de fin de course à Las Vegas",
+      "title_en": "Russell explains late-race crash in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-explains-late-race-crash-in-las-vegas-f1-victory-bid/10876718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKA391Y/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-11-22T06:37:21+00:00",
+      "race_id": "lasvegas",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "George Russell a admis avoir pris un risque élevé qui l’a fait subir un accident à Las Vegas, trois tours avant la fin.",
+      "summary_en": "George Russell admitted making a high-risk move that caused him to crash with three laps to go in Las Vegas."
+    },
+    {
+      "id": "e7292d022689",
+      "title": "Stewards explains Leclerc’s penalty for hitting Hamilton | Formula 1",
+      "title_fr": "Les commissaires justifient la pénalité de Leclerc après collision avec Hamilton",
+      "title_en": "Stewards explain Leclerc's penalty after collision with Hamilton",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/stewards-explains-leclercs-penalty-for-hitting-hamilton/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-02-30-51-6-261121_R21_LAS_VEGAS_DP_AV5_5686.jpg",
+      "published_at": "2026-11-22T06:19:29+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Les commissaires ont détaillé la raison de la pénalité infligée à Charles Leclerc pour avoir percuté Lewis Hamilton. La décision repose sur une collision jugée fautive de Leclerc.",
+      "summary_en": "The stewards clarified why Charles Leclerc received a penalty after colliding with Lewis Hamilton. The decision was based on Leclerc's fault in the incident."
+    },
+    {
+      "id": "9a13abc32ac8",
+      "title": "Verstappen leads parade of position-swapping to win in Las Vegas | 2026 Las Vegas Grand Prix report",
+      "title_fr": "Verstappen leads parade of position-swapping to win in Las Vegas | 2026 Las Vegas Grand Prix report",
+      "title_en": "Verstappen leads parade of position-swapping to win in Las Vegas | 2026 Las Vegas Grand Prix report",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/verstappen-leads-parade-of-position-swapping-to-win-in-las-vegas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-05-52-17-4-SI202611220058.jpg",
+      "published_at": "2026-11-22T05:54:06+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen scored his third grand prix victory of the season in a Las Vegas Grand Prix which was dominated by 'yo-yo' position swaps.",
+      "summary_en": "Max Verstappen scored his third grand prix victory of the season in a Las Vegas Grand Prix which was dominated by 'yo-yo' position swaps."
+    },
+    {
+      "id": "470c2c895a35",
+      "title": "Five quick takeaways from Las Vegas GP",
+      "title_fr": "Las Vegas : la course de pack tant attendue",
+      "title_en": "Las Vegas delivers the pack race it craved",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vj146/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-22T05:47:45+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Las Vegas a offert la course de pack tant attendue, avec des dépassements électriques sur la ligne droite du Strip. Le spectacle a rappelé les débuts de la saison 2026.",
+      "summary_en": "Las Vegas delivered the long‑awaited pack race, with electric overtakes on the Strip’s mile‑long straight. The spectacle echoed the early 2026 season’s yo‑yo racing."
+    },
+    {
+      "id": "2ed8d5f4fc94",
+      "title": "F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on",
+      "title_fr": "Verstappen remporte le Grand Prix de Las Vegas",
+      "title_en": "Verstappen wins Las Vegas Grand Prix",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-3.jpg",
+      "published_at": "2026-11-22T05:45:47+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a remporté le Grand Prix de Las Vegas en gardant la tête sur les deux pilotes de Mercedes, après que la course ait retrouvé son rythme de 'yo-yo' sans qu'aucune Mercedes ne se retrouve sur le podium.",
+      "summary_en": "Max Verstappen took the win at the Las Vegas Grand Prix, holding off both Mercedes drivers as the race returned to its 'yo-yo' rhythm and no Silver Arrow made the podium."
+    },
+    {
+      "id": "284b7e11f968",
+      "title": "F1 Las Vegas GP: Max Verstappen wins thriller as Ferraris come to blows",
+      "title_fr": "Verstappen triomphe à Las Vegas, Ferrari sans podium",
+      "title_en": "Verstappen wins thrilling Las Vegas GP, Ferraris miss podium",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-report/10876675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YvKBePn6/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-22T05:44:11+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a remporté le Grand Prix de Las Vegas en gardant la tête face aux Mercedes, tandis que les Ferrari n'ont pas atteint le podium. Le pilote red Bull a conservé position de départ après pénalité de Kimi Antonelli",
+      "summary_en": "Max Verstappen won the Las Vegas Grand Prix, holding off the Mercedes while the Ferraris failed to reach the podium. The Red Bull driver kept pole after Kimi Antonelli's five‑place grid penalty"
+    },
+    {
+      "id": "a334f64f707b",
+      "title": "Vote for your 2026 Las Vegas Grand Prix Driver of the Weekend | Formula 1",
+      "title_fr": "Votez pour le pilote du week-end du Grand Prix de Las Vegas 2026",
+      "title_en": "Vote for the 2026 Las Vegas Grand Prix Driver of the Weekend",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/vote-for-your-2026-las-vegas-grand-prix-driver-of-the-weekend/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-20-04-25-6-2306293203-1.jpg",
+      "published_at": "2026-11-22T05:38:07+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le public est invité à choisir le pilote qui a brillé lors du Grand Prix de Las Vegas 2026. Comparez performances et votez pour votre favori.",
+      "summary_en": "Fans are invited to pick the driver who shone during the 2026 Las Vegas Grand Prix. Compare performances and vote for your favorite."
+    },
+    {
+      "id": "9702405f7137",
+      "title": "Lewis Hamilton questions stewards in unaired radio message after F1 Vegas penalty",
+      "title_fr": "Hamilton conteste la pénalité de 10 secondes à Las Vegas",
+      "title_en": "Hamilton questions 10-second penalty at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/hamilton-questions-stewards-consistency-over-unaired-las-vegas-radio-after-10-second-penalty/10876678/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10876678-b704-2.jpg",
+      "published_at": "2026-11-22T05:07:03+00:00",
+      "race_id": "lasvegas",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a contesté la décision de la FIA après avoir reçu une pénalité de 10 secondes à Las Vegas. Le pilote a exprimé son mécontentement via la radio de l’équipe Ferrari.",
+      "summary_en": "Lewis Hamilton challenged the FIA after receiving a 10-second penalty at Las Vegas. The driver voiced his frustration through the Ferrari team radio."
+    },
     {
       "id": "0c8fd38ba049",
       "title": "Oscar Piastri questions \"strange\" pace deficit to other Mercedes-powered cars in Las Vegas",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen has taken provisional pole position for the Las Vegas Grand Prix for Red Bull ahead of George Russell and Lando Norris.",
       "summary_en": "Max Verstappen has taken provisional pole position for the Las Vegas Grand Prix for Red Bull ahead of George Russell and Lando Norris."
-    },
-    {
-      "id": "d2e1f3d1c377",
-      "title": "Verstappen warned over Russell incident, cleared over Colapinto incident in practice | Formula 1",
-      "title_fr": "Verstappen averti après l'incident Russell",
-      "title_en": "Verstappen warned after Russell incident",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/21/verstappen-warned-over-russell-incident-cleared-over-colapinto-incident-in-practice/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-04-14-50-2-SI202611210037.jpg",
-      "published_at": "2026-11-21T04:17:29+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires ont émis un avertissement officiel à Max Verstappen pour son collision avec George Russell à l'angle 14 de la dernière séance d'essais libres. Il n'a pas été sanctionné pour l'incident avec Colapinto.",
-      "summary_en": "Stewards issued an official warning to Max Verstappen for his collision with George Russell at turn 14 during final practice. He was cleared of the incident with Colapinto."
-    },
-    {
-      "id": "f62a2016d94c",
-      "title": "Russell comfortably leads Mercedes one-two, Verstappen faces two investigations | Formula 1",
-      "title_fr": "Russell mène Mercedes en tête, Verstappen sous enquête",
-      "title_en": "Russell leads Mercedes, Verstappen under investigation",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/21/russell-comfortably-leads-mercedes-one-two-verstappen-faces-two-investigations/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-06-10-03-30-4-M581419_Australian_Grand_Prix__Friday__Rich_Pardon.jpg",
-      "published_at": "2026-11-21T02:08:06+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "George Russell a mené la Mercedes en tête du dernier test de pratique, tandis que Max Verstappen fait l'objet d'une enquête pour collision.",
-      "summary_en": "George Russell led Mercedes in the final practice session, while Max Verstappen is under investigation for a collision."
-    },
-    {
-      "id": "7499a72a4c9d",
-      "title": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
-      "title_fr": "Russell en tête après collision avec Verstappen à Las Vegas",
-      "title_en": "Russell fastest after collision with Verstappen at Las Vegas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzDpY/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-11-21T01:46:05+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "George Russell a franchi la barre la plus haute lors de la dernière séance de pratique à Las Vegas, après avoir heurté Max Verstappen. La collision a mis fin à la session, mais Russell reste en tête.",
-      "summary_en": "George Russell topped the timesheets in the final practice at Las Vegas after colliding with Max Verstappen. The incident ended the session, but Russell still leads."
-    },
-    {
-      "id": "f45da8b5284e",
-      "title": "On This Day: Hamilton takes vital Qatar win to cut Verstappen’s points lead | Brief",
-      "title_fr": "Hamilton remporte le Qatar, réduit l'avance de Verstappen",
-      "title_en": "Hamilton wins Qatar, cuts Verstappen's lead",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/21/on-this-day-qatar-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-hamilton-verstappen.jpg",
-      "published_at": "2026-11-21T00:01:00+00:00",
-      "race_id": "qatar",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a remporté la course de Qatar, réduisant l'avance de Max Verstappen au championnat. Le pilote Red Bull a rebondi après une pénalité, mais l'écart reste serré.",
-      "summary_en": "Lewis Hamilton won the Qatar Grand Prix, cutting Max Verstappen's championship lead. The Red Bull driver rebounded after a penalty, but the gap remains tight."
-    },
-    {
-      "id": "28b6d63c823a",
-      "title": "F1 set for V8 return from 2030",
-      "title_fr": "F1 se prépare à un retour V8 dès 2030",
-      "title_en": "F1 gears up for V8 return from 2030",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": "2026-11-20T19:02:00+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a annoncé un accord unanime pour réintroduire les moteurs V8 à partir de 2030, simplifiant la formule et réduisant les coûts. Le cycle réglementaire 2031 débutera avec des moteurs plus simples.",
-      "summary_en": "The FIA announced a unanimous agreement to bring V8 engines back from 2030, aiming to simplify the formula and cut costs. The 2031 regulation cycle will start with lighter, cheaper power units."
-    },
-    {
-      "id": "1d9d3e4035da",
-      "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
-      "title_fr": "Pirelli impose limite de stint au Qatar",
-      "title_en": "Pirelli reintroduces stint limit at Qatar",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/pirelli-reintroduces-stint-limit-for-f1-qatar-gp/10875958/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGqG9JY/s6/lando-norris-mclaren-oscar-pia-2.jpg",
-      "published_at": "2026-11-20T08:21:11+00:00",
-      "race_id": "qatar",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Pirelli a rétabli une limite de 27 tours par stint pour les voitures de Formule 1 au Qatar, forçant les équipes à privilégier une stratégie à deux arrêts sur le circuit de Lusail",
-      "summary_en": "Pirelli has reinstated a 27-lap stint limit for F1 cars at the Qatar GP, forcing teams to adopt a two-stop strategy on the Lusail circuit"
-    },
-    {
-      "id": "ee0023140625",
-      "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Verstappen's complaints",
-      "title_fr": "Red Bull cherche la cause des plaintes de Verstappen",
-      "title_en": "Red Bull seeks root cause of Verstappen's complaints",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-20T08:12:55+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Après les séances d'essais de jeudi à Las Vegas, Red Bull n'a trouvé aucune réponse claire. Max Verstappen a exprimé des frustrations, et l'équipe poursuit l'analyse des conditions.",
-      "summary_en": "After Thursday's practice in Las Vegas, Red Bull found no clear answers. Max Verstappen voiced frustrations, and the team is digging into the root cause."
-    },
-    {
-      "id": "2876bf63230d",
-      "title": "F1 Las Vegas GP: Russell fastest in damp FP2 from Gasly",
-      "title_fr": "Russell plus rapide en FP2 humide à Las Vegas",
-      "title_en": "Russell fastest in damp FP2 at Las Vegas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EbBMY/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-11-20T05:15:28+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "George Russell a battu Pierre Gasly pour le meilleur temps en FP2, 1m47,272, grâce à une fin de session glissante. Le pilote Mercedes a devancé Gasly de 0,071 seconde.",
-      "summary_en": "George Russell beat Pierre Gasly to set the fastest time in FP2, 1m47.272, thanks to a late slippery stint. The Mercedes driver edged Gasly by 0.071 seconds."
-    },
-    {
-      "id": "7b61874c0952",
-      "title": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push",
-      "title_fr": "Cadillac reporte son moteur V6 hybride à 2030",
-      "title_en": "Cadillac postpones V6 hybrid engine to 2030",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/cadillac-ditches-plan-to-produce-own-v6-hybrid-engine-ahead-of-f1s-v8-push/10875807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAkpP0/s6/valtteri-bottas-cadillac-2.jpg",
-      "published_at": "2026-11-20T04:01:54+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Cadillac reporte l’introduction de son moteur V6 hybride en Formule 1 d’un an, le déploiement prévu en 2029 étant repoussé à 2030. Le constructeur américain suspend son projet d’unité interne.",
-      "summary_en": "Cadillac has pushed back its in‑house V6 hybrid Formula 1 power unit by a year, moving the debut from 2029 to 2030. The American team has shelved its internal engine project."
-    },
-    {
-      "id": "061ede1c66b8",
-      "title": "F1 Las Vegas GP: Rain drowns out FP1",
-      "title_fr": "Pluie à Las Vegas : FP1 annulé",
-      "title_en": "Rain Drowns Out FP1 at Las Vegas GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-fp1-report/10875770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOo9Y/s6/george-russell-mercedes-2.jpg",
-      "published_at": "2026-11-20T01:43:05+00:00",
-      "race_id": "lasvegas",
-      "category": "météo",
-      "tags": [
-        "météo"
-      ],
-      "importance": 38,
-      "is_breaking": false,
-      "summary_fr": "Liam Lawson, pilote de Racing Bulls, a prédit des problèmes si la pluie s'abat sur le circuit de Las Vegas. Les pneus Pirelli sont difficiles à chauffer sur la rue de 6 km, plongeant le paddock dans l'inquiétude.",
-      "summary_en": "Racing Bulls driver Liam Lawson warned that rain on Las Vegas' street circuit could cause trouble. Pirelli tyres are hard to warm up on the 6‑km track, leaving the paddock uneasy."
     }
   ]
 }
