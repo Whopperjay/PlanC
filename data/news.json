@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-22T13:06:14Z",
+  "last_updated": "2026-11-22T16:08:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "15e0ff86971a",
+      "title": "2026 Las Vegas Grand Prix interactive data: lap charts, times and tyres | 2026 Las Vegas Grand Prix interactive data",
+      "title_fr": "Las Vegas 2026 : un Grand Prix à la yo-yo",
+      "title_en": "Las Vegas 2026: A Yo-Yo Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-interactive-data-lap-charts-times-and-tyres/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/2026-las-vegas.jpg",
+      "published_at": "2026-11-22T14:45:58+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix de Las Vegas 2026 a offert des conditions idéales pour la course yo-yo, avec les pilotes qui se dépassaient deux fois ou plus par tour.",
+      "summary_en": "The 2026 Las Vegas Grand Prix delivered perfect yo‑yo racing conditions, with drivers swapping places twice or more per lap."
+    },
+    {
+      "id": "ba71ef05e84b",
+      "title": "“Some overtakes weren’t overtakes”: Norris queries claim of ‘352 passes’ in Las Vegas | Formula 1",
+      "title_fr": "Norris remet en cause les 352 dépassements de Las Vegas",
+      "title_en": "Norris questions 352 overtakes claim at Las Vegas",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/some-overtakes-werent-overtakes-norris-queries-claim-of-352-passes-in-las-vegas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-20-23-21-2-2306297145.jpg",
+      "published_at": "2026-11-22T12:08:45+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Lando Norris a contesté le nombre de 352 dépassements annoncés par la Formule 1 lors du Grand Prix de Las Vegas, soulignant que la course semblait moins disputée que les chiffres ne le suggèrent.",
+      "summary_en": "Driver Lando Norris challenged Formula 1's claim of 352 overtakes at the Las Vegas Grand Prix, arguing the race felt less competitive than the numbers suggest."
+    },
     {
       "id": "f29dc5404cca",
       "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
@@ -77,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a qualifié la saison 2026 de George Russell de \"désastre complet\" après l’incident à Las Vegas. Le pilote Red Bull a exprimé son mécontentement face à Russell.",
       "summary_en": "Max Verstappen called George Russell’s 2026 season a “complete disaster” after the Las Vegas incident. The Red Bull driver voiced his frustration with Russell."
+    },
+    {
+      "id": "b9ef03a8470e",
+      "title": "Video: Pass for win and crash decides action-packed Macau Grand Prix | Brief",
+      "title_fr": "Crash décisif à Macau",
+      "title_en": "Crash decides Macau Grand Prix",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/video-pass-for-win-and-crash-decides-action-packed-macau-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/macau-gp-2026.jpg",
+      "published_at": "2026-11-22T09:56:11+00:00",
+      "race_id": null,
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Un crash lors d'une bataille pour le titre a mis fin à la course du Grand Prix de Macau, laissant les pilotes en suspens. L'accident a bouleversé la course et a changé le classement final.",
+      "summary_en": "A crash during a battle for the lead ended the Macau Grand Prix, reshaping the final standings. The incident disrupted the race and left drivers in suspense."
     },
     {
       "id": "8cd6dd0c0148",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell et Kimi Antonelli vont se rencontrer pour analyser les difficultés de qualification à Las Vegas, notamment le trafic et les ordres d’équipe.",
       "summary_en": "George Russell and Kimi Antonelli will meet to review Las Vegas qualifying issues, focusing on traffic and team orders."
-    },
-    {
-      "id": "56d3fab55bd9",
-      "title": "On This Day: McLaren hire Zak Brown to lead team after ousting Ron Dennis | Brief",
-      "title_fr": "Zak Brown prend les rênes de McLaren après le départ de Ron Dennis",
-      "title_en": "Zak Brown takes the helm at McLaren after Ron Dennis exits",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-19-10-50-08-1-23052662481.jpg",
-      "published_at": "2026-11-21T10:57:12+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Zak Brown a été nommé directeur général de McLaren, succédant à Ron Dennis. Le nouveau dirigeant décrit l’équipe comme un « endroit assez sombre » avant de prendre les commandes.",
-      "summary_en": "Zak Brown has been appointed McLaren's CEO, succeeding Ron Dennis. He described the team as a 'pretty grim place' before taking the reins."
-    },
-    {
-      "id": "c16df8d5730e",
-      "title": "Max Verstappen shares theory on Ferrari's lack of top speed in F1 2026",
-      "title_fr": "Verstappen pointe la faiblesse de Ferrari à Las Vegas",
-      "title_en": "Verstappen blames Ferrari's low top speed at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-shares-theory-on-ferraris-lack-of-top-speed-in-f1-2026/10876424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykW56/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-11-21T10:31:10+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a exprimé son mécontentement après la séance de qualification à Las Vegas, attribuant la faible vitesse de pointe de Ferrari à un problème mystérieux du RB22. La Scuderia a vu ses deux voitures éliminées en Q2.",
-      "summary_en": "Max Verstappen expressed frustration after Las Vegas qualifying, blaming Ferrari's low top speed on a mysterious RB22 issue. The Scuderia saw both cars eliminated in Q2."
-    },
-    {
-      "id": "7d83b7eac9ac",
-      "title": "Fernando Alonso: Honda lacks so much power that rivals take extra margin behind us",
-      "title_fr": "Alonso critique la puissance de Honda à Las Vegas",
-      "title_en": "Alonso blames Honda power deficit at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-honda-lacks-so-much-power-that-rivals-take-extra-margin-behind-us/10876414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7Q8pK6/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-21T09:43:39+00:00",
-      "race_id": "japan",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso dénonce le déficit de puissance de Honda, qui laisse les concurrents prendre un avantage supplémentaire autour des Aston Martin lors du Grand Prix de Las Vegas.",
-      "summary_en": "Fernando Alonso says Honda's power deficit is so severe that rivals are gaining extra margin around the Aston Martins at the Las Vegas Grand Prix."
     }
   ]
 }
