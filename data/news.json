@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T00:58:19Z",
+  "last_updated": "2026-11-22T04:00:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -212,6 +212,25 @@
       "summary_en": "Fernando Alonso says Honda's power deficit is so severe that rivals are gaining extra margin around the Aston Martins at the Las Vegas Grand Prix."
     },
     {
+      "id": "01230b4e3442",
+      "title": "Drivers expect Monza-style race at Las Vegas with “extreme” slipstream | Formula 1",
+      "title_fr": "Pilotes prévoient une course Monza à Las Vegas grâce à un train d'aspiration extrême",
+      "title_en": "Drivers anticipate Monza-style race at Las Vegas with extreme slipstream",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/drivers-expect-extreme-slipstream-to-create-monza-style-race-at-las-vegas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-20-20-14-50-1-15-friday-lasvegas-2026.jpg",
+      "published_at": "2026-11-21T09:23:36+00:00",
+      "race_id": "lasvegas",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Les pilotes de Formule 1 prévoient une course à l'image de Monza sur le circuit de Las Vegas, où l'effet de train d'aspiration sera décisif. Le train d'aspiration extrême devrait façonner la stratégie de la fin de semaine.",
+      "summary_en": "Drivers expect a Monza-style race at Las Vegas, with the powerful slipstream effect shaping the weekend's strategy."
+    },
+    {
       "id": "1946b64a45bf",
       "title": "Max Verstappen reveals mysterious Red Bull issue that cannot be fixed in Las Vegas",
       "title_fr": "Verstappen révèle un problème mystérieux de Red Bull à Las Vegas",
@@ -267,6 +286,25 @@
       "is_breaking": false,
       "summary_fr": "Lando Norris a exprimé sa frustration après avoir terminé quatrième en qualification à Las Vegas, 0,351 s derrière Kimi Antonelli, avec une perte de vitesse notable dans le dernier secteur.",
       "summary_en": "Lando Norris expressed frustration after finishing fourth in Las Vegas qualifying, 0.351 s behind Kimi Antonelli, with a noticeable loss of speed in the final sector."
+    },
+    {
+      "id": "c515f946e0cf",
+      "title": "Antonelli says he made the decision to run at the back of the field in qualifying | Formula 1",
+      "title_fr": "Antonelli opte pour la ligne arrière en qualification",
+      "title_en": "Antonelli opts for back of the grid in qualifying",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/antonelli-says-he-made-the-decision-to-run-at-the-back-of-the-field-in-qualifying/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-24-45-3-M655578_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-11-21T08:04:56+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a choisi de démarrer en arrière de la grille, une décision tactique qui lui a permis d'établir le meilleur tour en qualification.",
+      "summary_en": "Andrea Kimi Antonelli chose to start at the back of the grid, a tactical move that let him set the fastest lap in qualifying."
     },
     {
       "id": "5f218f1dadb4",
@@ -345,6 +383,25 @@
       "summary_en": "Max Verstappen brushed off the contact with George Russell during free practice, saying \"nothing happened.\" Stewards warned the Red Bull driver for erratic driving."
     },
     {
+      "id": "0b2b227a18e3",
+      "title": "Norris fears passing will be impossible due to “insane” straight-line speed deficit | Formula 1",
+      "title_fr": "Norris craint de ne pas pouvoir dépasser à Las Vegas",
+      "title_en": "Norris fears he cannot pass in Las Vegas",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/norris-fears-passing-will-be-impossible-due-to-insane-straight-line-speed-deficit/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-20-20-03-58-4-2306141629.jpg",
+      "published_at": "2026-11-21T06:56:50+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris doute de pouvoir prendre des places à Las Vegas en raison d'un déficit de vitesse en ligne droite.",
+      "summary_en": "Lando Norris doubts he can gain positions at Las Vegas due to a straight‑line speed deficit."
+    },
+    {
       "id": "28b5fc45c086",
       "title": "Max Verstappen responds to George Russell after Vegas clash",
       "title_fr": "Verstappen et Russell se heurtent à Las Vegas",
@@ -421,6 +478,44 @@
       "summary_en": "George Russell slammed Max Verstappen after their collision in Free Practice 3 at the Las Vegas Grand Prix. The Mercedes driver pushed the Red Bull out of the way, sparking a heated exchange."
     },
     {
+      "id": "7d5e1c7a7ca8",
+      "title": "“Somebody’s got to stand up to that guy” says Russell after latest Verstappen clash | Formula 1",
+      "title_fr": "“Somebody’s got to stand up to that guy” says Russell after latest Verstappen clash | Formula 1",
+      "title_en": "“Somebody’s got to stand up to that guy” says Russell after latest Verstappen clash | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/somebodys-got-to-stand-up-to-that-guy-says-russell-after-latest-verstappen-clash/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-04-56-1-M655445_F1_Grand_Prix_of_Las_Vegas_Qualifying.jpg",
+      "published_at": "2026-11-21T06:10:53+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell said Max Verstappen 'screws people over every weekend and everyone accepts it' after they tangled in practice.",
+      "summary_en": "George Russell said Max Verstappen 'screws people over every weekend and everyone accepts it' after they tangled in practice."
+    },
+    {
+      "id": "40ea05840f26",
+      "title": "Hamilton reveals car damage, Leclerc “very angry” as Ferrari pair fail to reach Q3 | Formula 1",
+      "title_fr": "Hamilton expose dégâts, Leclerc furieux, les deux Ferrari hors Q3",
+      "title_en": "Hamilton reveals damage, Leclerc furious as both Ferraris miss Q3",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/hamilton-reveals-car-damage-leclerc-very-angry-as-ferrari-pair-fail-to-reach-q3/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-02-27-02-5-261121_R21_LAS_VEGAS_DP_AV5_5415.jpg",
+      "published_at": "2026-11-21T05:48:56+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a signalé plusieurs problèmes sur sa Ferrari, tandis que Charles Leclerc, très en colère, a également échoué à atteindre le Q3. Les deux pilotes ont quitté la séance de qualification prématurément.",
+      "summary_en": "Lewis Hamilton reported multiple issues with his Ferrari, while Charles Leclerc, visibly angry, also failed to reach Q3. Both drivers left the qualifying session early."
+    },
+    {
       "id": "525c5723b5a7",
       "title": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
       "title_fr": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
@@ -440,6 +535,82 @@
       "summary_en": "Max Verstappen will start on pole at the Formula 1 Las Vegas Grand Prix despite Kimi Antonelli going fastest - while Charles Leclerc and Lewis Hamilton both failed to make Q3. <br />The 2026 world cha"
     },
     {
+      "id": "551a39d660c4",
+      "title": "Antonelli fastest but Verstappen takes pole for Las Vegas Grand Prix | 2026 Las Vegas GP qualifying report",
+      "title_fr": "Antonelli fastest but Verstappen takes pole for Las Vegas Grand Prix | 2026 Las Vegas GP qualifying report",
+      "title_en": "Antonelli fastest but Verstappen takes pole for Las Vegas Grand Prix | 2026 Las Vegas GP qualifying report",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/antonelli-fastest-but-verstappen-takes-pole-for-las-vegas-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-24-52-2-M655520_F1_Grand_Prix_of_Las_Vegas_Qualifying.jpg",
+      "published_at": "2026-11-21T05:19:52+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli was quickest in qualifying but Max Verstappen will start the Las Vegas Grand Prix from pole position.",
+      "summary_en": "Andrea Kimi Antonelli was quickest in qualifying but Max Verstappen will start the Las Vegas Grand Prix from pole position."
+    },
+    {
+      "id": "fb6788b1f78d",
+      "title": "2026 Las Vegas Grand Prix grid | Formula 1",
+      "title_fr": "2026 Las Vegas Grand Prix grid | Formula 1",
+      "title_en": "2026 Las Vegas Grand Prix grid | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/2026-las-vegas-grand-prix-grid/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-07-20-21-1-SI202611210068.jpg",
+      "published_at": "2026-11-21T05:12:03+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen has taken provisional pole position for the Las Vegas Grand Prix for Red Bull ahead of George Russell and Lando Norris.",
+      "summary_en": "Max Verstappen has taken provisional pole position for the Las Vegas Grand Prix for Red Bull ahead of George Russell and Lando Norris."
+    },
+    {
+      "id": "d2e1f3d1c377",
+      "title": "Verstappen warned over Russell incident, cleared over Colapinto incident in practice | Formula 1",
+      "title_fr": "Verstappen averti après l'incident Russell",
+      "title_en": "Verstappen warned after Russell incident",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/verstappen-warned-over-russell-incident-cleared-over-colapinto-incident-in-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-04-14-50-2-SI202611210037.jpg",
+      "published_at": "2026-11-21T04:17:29+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les commissaires ont émis un avertissement officiel à Max Verstappen pour son collision avec George Russell à l'angle 14 de la dernière séance d'essais libres. Il n'a pas été sanctionné pour l'incident avec Colapinto.",
+      "summary_en": "Stewards issued an official warning to Max Verstappen for his collision with George Russell at turn 14 during final practice. He was cleared of the incident with Colapinto."
+    },
+    {
+      "id": "f62a2016d94c",
+      "title": "Russell comfortably leads Mercedes one-two, Verstappen faces two investigations | Formula 1",
+      "title_fr": "Russell mène Mercedes en tête, Verstappen sous enquête",
+      "title_en": "Russell leads Mercedes, Verstappen under investigation",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/russell-comfortably-leads-mercedes-one-two-verstappen-faces-two-investigations/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-06-10-03-30-4-M581419_Australian_Grand_Prix__Friday__Rich_Pardon.jpg",
+      "published_at": "2026-11-21T02:08:06+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "George Russell a mené la Mercedes en tête du dernier test de pratique, tandis que Max Verstappen fait l'objet d'une enquête pour collision.",
+      "summary_en": "George Russell led Mercedes in the final practice session, while Max Verstappen is under investigation for a collision."
+    },
+    {
       "id": "7499a72a4c9d",
       "title": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
       "title_fr": "Russell en tête après collision avec Verstappen à Las Vegas",
@@ -457,6 +628,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell a franchi la barre la plus haute lors de la dernière séance de pratique à Las Vegas, après avoir heurté Max Verstappen. La collision a mis fin à la session, mais Russell reste en tête.",
       "summary_en": "George Russell topped the timesheets in the final practice at Las Vegas after colliding with Max Verstappen. The incident ended the session, but Russell still leads."
+    },
+    {
+      "id": "f45da8b5284e",
+      "title": "On This Day: Hamilton takes vital Qatar win to cut Verstappen’s points lead | Brief",
+      "title_fr": "Hamilton remporte le Qatar, réduit l'avance de Verstappen",
+      "title_en": "Hamilton wins Qatar, cuts Verstappen's lead",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/on-this-day-qatar-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-hamilton-verstappen.jpg",
+      "published_at": "2026-11-21T00:01:00+00:00",
+      "race_id": "qatar",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a remporté la course de Qatar, réduisant l'avance de Max Verstappen au championnat. Le pilote Red Bull a rebondi après une pénalité, mais l'écart reste serré.",
+      "summary_en": "Lewis Hamilton won the Qatar Grand Prix, cutting Max Verstappen's championship lead. The Red Bull driver rebounded after a penalty, but the gap remains tight."
     },
     {
       "id": "28b6d63c823a",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Liam Lawson, pilote de Racing Bulls, a prédit des problèmes si la pluie s'abat sur le circuit de Las Vegas. Les pneus Pirelli sont difficiles à chauffer sur la rue de 6 km, plongeant le paddock dans l'inquiétude.",
       "summary_en": "Racing Bulls driver Liam Lawson warned that rain on Las Vegas' street circuit could cause trouble. Pirelli tyres are hard to warm up on the 6‑km track, leaving the paddock uneasy."
-    },
-    {
-      "id": "5153891e727c",
-      "title": "Toto Wolff is not afraid of losing Kimi Antonelli to Ferrari",
-      "title_fr": "Wolff rassure sur la fidélité d'Antonelli",
-      "title_en": "Wolff says he's not worried about Antonelli moving to Ferrari",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-is-not-afraid-of-losing-kimi-antonelli-to-ferrari/10875044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lNjD72/s6/lewis-hamilton-ferrari-andrea-.jpg",
-      "published_at": "2026-11-17T11:45:10+00:00",
-      "race_id": "italy",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Mercedes, Toto Wolff, affirme ne pas craindre que Kimi Antonelli ne rejoigne Ferrari, soulignant la loyauté de l’italien et de sa famille.",
-      "summary_en": "Mercedes team principal Toto Wolff says he is not worried about Kimi Antonelli moving to Ferrari, citing the Italian's loyalty and his family."
-    },
-    {
-      "id": "36b7c1b587c0",
-      "title": "Spotlight: Alonso to enter Dakar in car Aston Martin designed for Call of Duty | Brief",
-      "title_fr": "Alonso revient au Dakar dans une Aston Martin inspirée de Call of Duty",
-      "title_en": "Alonso to return to Dakar in Call of Duty‑designed Aston Martin",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/17/spotlight-alonso-to-enter-dakar-in-car-aston-martin-designed-for-call-of-duty/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-17-09-46-38-1-Aston-Martin-Racing_Dakar-2027_02a.jpg",
-      "published_at": "2026-11-17T09:16:48+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso prévoit de revenir au Dakar, pilotant une Aston Martin spécialement conçue pour le jeu Call of Duty. Le pilote Aston Martin aurait reçu un véhicule unique, mais aucune confirmation officielle n’a encore été donnée.",
-      "summary_en": "Fernando Alonso is set to return to the Dakar Rally, driving an Aston Martin specially built for the Call of Duty game. The Aston Martin driver would receive a unique vehicle, but no official confirmation has yet been issued."
-    },
-    {
-      "id": "3f349efacf98",
-      "title": "An early season finale? Five talking points for the 2026 Las Vegas Grand Prix | Formula 1",
-      "title_fr": "Las Vegas : première étape d’une série de trois courses consécutives",
-      "title_en": "Las Vegas: First of Three Consecutive Race Weekends",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/17/an-early-season-finale-five-talking-points-for-the-2026-las-vegas-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-22-20-03-53-5-2248010436.jpg",
-      "published_at": "2026-11-17T09:07:11+00:00",
-      "race_id": "lasvegas",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 arrive à Las Vegas ce week-end, prévu comme la première d’une série de trois courses consécutives. Les équipes se préparent à un défi unique.",
-      "summary_en": "Formula 1 heads to Las Vegas this weekend, slated as the first of three consecutive race weekends. Teams are gearing up for a unique challenge."
-    },
-    {
-      "id": "8817ab3fc863",
-      "title": "Alonso, Loeb join Aston Martin for 2027 Dakar Rally",
-      "title_fr": "Alonso et Loeb rejoignent Aston Martin pour le Dakar 2027",
-      "title_en": "Alonso and Loeb join Aston Martin for Dakar 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/dakar/news/alonso-loeb-join-aston-martin-for-2027-dakar-rally/10875003/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin-3.jpg",
-      "published_at": "2026-11-17T09:01:58+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion de Formule 1 Fernando Alonso, accompagné de Sébastien Loeb et Lucas Moraes, sera le pilote phare de l’entrée officielle d’Aston Martin au Dakar 2027. Le rallye se tiendra au Portugal et au Maroc du 9 au 23 janvier.",
-      "summary_en": "Formula 1 champion Fernando Alonso will headline Aston Martin’s factory entry into the 2027 Dakar Rally, alongside Sébastien Loeb and Lucas Moraes. The 49th edition will run through Portugal and Morocco from January 9‑23, 2027."
-    },
-    {
-      "id": "bd72624d0aeb",
-      "title": "Fernando Alonso to return to Dakar Rally with Aston Martin in 2027",
-      "title_fr": "Alonso revient au Dakar 2027 avec Aston Martin",
-      "title_en": "Alonso returns to Dakar 2027 with Aston Martin",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/dakar/news/fernando-alonso-to-return-to-dakar-rally-with-aston-martin-in-2027/10874907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaLLb2/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": "2026-11-17T09:01:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Fernando Alonso participera au Dakar 2027 à bord d’une Aston Martin Dreadnought, après avoir rejoint Sebastien Loeb et Lucas Moraes dans la ligne de participants étoilée.",
-      "summary_en": "Fernando Alonso will race in the 2027 Dakar Rally aboard an Aston Martin Dreadnought, joining Sébastien Loeb and Lucas Moraes in the star‑filled lineup."
-    },
-    {
-      "id": "132d558a3fab",
-      "title": "Alonso to drive in Dakar Rally for Aston Martin",
-      "title_fr": "Alonso pilote l'Aston Martin au Dakar 2027",
-      "title_en": "Alonso to drive Aston Martin at Dakar 2027",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/motorsport/articles/crp3e1783xq3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd24/live/fd35f1b0-e209-11f1-b023-f7d19fda92c1.jpg",
-      "published_at": "2026-11-17T09:00:08+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso, champion du monde de Formule 1 à deux titres, prépare l'Aston Martin pour la course du Dakar 2027.",
-      "summary_en": "Two-time Formula 1 world champion Fernando Alonso is preparing Aston Martin for the 2027 Dakar Rally."
-    },
-    {
-      "id": "35008a2d52ce",
-      "title": "Is Bearman stuck in a Ferrari bottleneck? F1 Q&A",
-      "title_fr": "Bearman coincé dans le goulot d'étranglement Ferrari",
-      "title_en": "Bearman stuck in Ferrari bottleneck?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vg2l8240emo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8462/live/b7eea3c0-e1bb-11f1-b26a-85d0ea0c2ac8.jpg",
-      "published_at": "2026-11-17T07:45:02+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Andrew Benson, correspondant BBC F1, répond aux questions les plus fréquentes sur la présence de Bearman dans le goulot d'étranglement Ferrari avant le Grand Prix de Las Vegas.",
-      "summary_en": "BBC F1 correspondent Andrew Benson answers the most asked questions about Bearman's potential bottleneck with Ferrari before the Las Vegas Grand Prix."
-    },
-    {
-      "id": "c5cc50b7eb04",
-      "title": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
-      "title_fr": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
-      "title_en": "Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura \"replaces\" Honda",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-aston-martin-among-new-f1-liveries-for-las-vegas-gp-as-acura-replaces-honda/10874925/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKxKQY/s6/williams-las-vegas-livery.jpg",
-      "published_at": "2026-11-16T18:45:08+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Williams and Aston Martin are among the F1 teams to have revamped their car liveries for this weekend's Las Vegas Grand Prix.<br />F1 heads to Las Vegas for its third of three US races, with the enter",
-      "summary_en": "Williams and Aston Martin are among the F1 teams to have revamped their car liveries for this weekend's Las Vegas Grand Prix.<br />F1 heads to Las Vegas for its third of three US races, with the enter"
-    },
-    {
-      "id": "360fb8e2d699",
-      "title": "Lando Norris's LN4 Fusion signs former Red Bull junior Oliver Goethe as its first F2 driver",
-      "title_fr": "Norris lance LN4 Fusion avec Oliver Goethe en F2",
-      "title_en": "Norris launches LN4 Fusion with Oliver Goethe in F2",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norriss-ln4-fusion-signs-former-red-bull-junior-oliver-goethe-as-its-first-f2-driver/10874918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/0LdereN0/s6/motorsport-com-graphics.jpg",
-      "published_at": "2026-11-16T17:51:34+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a créé l'équipe junior LN4 Fusion qui a signé Oliver Goethe, ancien junior de Red Bull, comme premier pilote pour la saison 2027 de la Formule 2. Goethe, 22 ans, quitte MP Motorsport après deux podiums cette année.",
-      "summary_en": "Lando Norris has launched the junior team LN4 Fusion, signing former Red Bull junior Oliver Goethe as its first driver for the 2027 Formula 2 season. Goethe, 22, leaves MP Motorsport after two podiums this year."
-    },
-    {
-      "id": "b951ca1bb305",
-      "title": "Lando Norris: F1 needs better rain tyres as wet Las Vegas would be \"scary\"",
-      "title_fr": "Norris réclame de meilleurs pneus pluie pour Las Vegas",
-      "title_en": "Norris calls for better rain tyres for Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-f1-needs-better-rain-tyres-as-wet-las-vegas-would-be-scary/10874689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-2.motorsport.com/images/amp/27No3ae0/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-11-16T17:30:42+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le champion du monde Lando Norris demande à Pirelli de proposer des pneus pluie nettement améliorés pour 2027, estimant que les modèles actuels ne suffiraient pas sur un circuit à faible downforce comme Las Vegas.",
-      "summary_en": "World champion Lando Norris urges Pirelli to deliver significantly better rain tyres for 2027, saying the current range will not perform adequately on a low-downforce track like Las Vegas."
     }
   ]
 }
