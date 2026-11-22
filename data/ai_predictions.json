@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T13:00:23Z",
-  "model": "claude",
+  "generated_at": "2026-11-22T04:00:42Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -203,14 +203,29 @@
       "session_type": "qualifying",
       "session_date": "2026-11-28T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Mercedes domine 2026 et Antonelli mène le championnat avec 111 points d'avance, signe d'une vitesse pure régulière sur un tour. Lusail, rapide et fluide, favorise une voiture stable dans les virages à haute vitesse. Russell y a déjà signé la pole en 2024 et reste très solide en qualif. Verstappen, bon deuxième au championnat, est la menace principale hors Mercedes.",
-      "reasoning_en": "Mercedes dominates 2026 and Antonelli leads the championship by 111 points, a sign of consistent one-lap pace. Lusail is fast and flowing, so it rewards a car that stays stable through high-speed corners. Russell took pole here in 2024 and remains very strong in qualifying. Verstappen, a strong second in the standings, is the main threat outside Mercedes.",
-      "confidence": "medium",
-      "key_factor_fr": "Vitesse de Mercedes dans les virages rapides de Lusail",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli a montré un rythme exceptionnel en qualification, décrochant la pole à Las Vegas avec 0,258 s d’avance sur Verstappen, et bénéficie d’un moteur Mercedes performant sur les longues lignes droites de Lusail. Verstappen, malgré quelques problèmes techniques, reste très rapide et a terminé deuxième à Las Vegas, confirmant sa capacité à exploiter le circuit. Russell, troisième à Las Vegas et ",
+      "reasoning_en": "Antonelli demonstrated outstanding one‑lap speed, taking pole in Las Vegas just 0.258 s ahead of Verstappen, and his Mercedes power unit excels on Lusail’s long straights. Verstappen, despite minor technical issues, remained very quick and was second in Las Vegas, confirming his ability to extract performance on this layout. Russell, who qualified third in Las Vegas and is in good form, also benef",
+      "confidence": "high",
+      "key_factor_fr": "Performance récente en qualification et puissance sur les lignes droites",
       "news_used_ids": [],
-      "generated_at": "2026-11-21T13:00:23Z"
+      "generated_at": "2026-11-22T04:00:41Z"
+    },
+    {
+      "event_id": "qatar_grand_prix",
+      "race_id": "qatar",
+      "session_type": "grand_prix",
+      "session_date": "2026-11-29T16:00:00+00:00",
+      "p1": "max_verstappen",
+      "p2": "norris",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli part en pole mais la gestion des pneus à Losail, où Pirelli impose des limites de durée, favorise les équipes expérimentées. Verstappen montre une constance de course exceptionnelle, a fini 2e à Rio et possède le meilleur pack moteur. Norris, vainqueur du Brésil, a prouvé son rythme de course malgré un déficit de vitesse en ligne droite, et part 4e en grille, ce qui le place bien pour le",
+      "reasoning_en": "Antonelli starts from pole but the tire‑duration limits at Losail favor experienced teams. Verstappen has shown race‑pace consistency, finished 2nd in Brazil and has the strongest power unit. Norris, the Brazilian winner, proved race speed despite straight‑line deficit and starts 4th, positioning him for a podium. Russell, qualified 3rd, benefits from Mercedes' tyre management and reliability, pla",
+      "confidence": "medium",
+      "key_factor_fr": "Quali + gestion pneus à Losail",
+      "news_used_ids": [],
+      "generated_at": "2026-11-22T04:00:28Z"
     }
   ]
 }
