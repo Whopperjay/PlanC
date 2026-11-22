@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-22T16:08:11Z",
+  "last_updated": "2026-11-22T19:10:08Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ea6eaec9d2e1",
+      "title": "Camara to finish F1 season with Haas, ending F2 title bid",
+      "title_fr": "Camara termine la saison 2026 avec Haas",
+      "title_en": "Camara finishes 2026 season with Haas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg",
+      "published_at": "2026-11-22T18:32:32+00:00",
+      "race_id": "qatar",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le rookie de Haas, Rafael Camara, terminera la saison 2026 avec l'equipe, mettant fin a sa quete du titre F2. Sa place a ete confirmee en octobre comme remplaceant d'Esteban Ocon pour 2027.",
+      "summary_en": "Haas rookie Rafael Camara will finish the 2026 season with the team, ending his F2 title bid. He was confirmed in October as a full-time replacement for Esteban Ocon for 2027."
+    },
+    {
+      "id": "56107cf71f5c",
+      "title": "Haas keeps Rafael Camara in F1, ending his 2026 F2 title bid",
+      "title_fr": "Haas garde Rafael Camara, fin de son titre F2",
+      "title_en": "Haas keeps Rafael Camara, ends his F2 title bid",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YvKBe8e6/s6/rafael-camara-haas.jpg",
+      "published_at": "2026-11-22T18:28:04+00:00",
+      "race_id": "qatar",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara, espoir de Haas, terminera la saison 2026 en F1, mettant fin à sa quête du championnat F2. Le pilote restera en équipe jusqu'à Abu Dhabi.",
+      "summary_en": "Rafael Camara, Haas hopeful, will finish the 2026 season in F1, ending his F2 championship bid. The driver will stay with the team through Abu Dhabi."
+    },
+    {
+      "id": "a56693264405",
+      "title": "Camara confirmed at Haas for final two Formula 1 races of 2026 | Formula 1",
+      "title_fr": "Camara rejoint Haas pour les deux derniers Grands Prix 2026",
+      "title_en": "Camara joins Haas for final two 2026 races",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/camara-confirmed-at-haas-for-final-two-formula-1-races-of-2026/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-20-17-33-4-2306294850-174.jpg",
+      "published_at": "2026-11-22T18:05:03+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Rafael Camara sera le pilote de Haas pour les deux derniers Grands Prix de la saison 2026, comme l'a confirmé l'équipe.",
+      "summary_en": "Rafael Camara will drive for Haas in the final two races of the 2026 season, as confirmed by the team."
+    },
+    {
+      "id": "d2eded1f5649",
+      "title": "\"I actually liked it\" – McLaren boss defends Piastri's four-letter outburst in Las Vegas GP",
+      "title_fr": "Stella défend l'exclamation de Piastri à Las Vegas",
+      "title_en": "Stella defends Piastri’s ‘I actually liked it’ outburst at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/i-actually-liked-it-mclaren-boss-defends-piastris-four-letter-outburst-in-las-vegas-gp/10876928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXR7QEY/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": "2026-11-22T18:01:18+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Après la victoire de Max Verstappen, Norris et Piastri ont terminé quatrième et troisième à Las Vegas. Le directeur technique de McLaren, Andrea Stella, a défendu l'exclamation de Piastri, qualifiée de « J'ai vraiment aimé »",
+      "summary_en": "After Max Verstappen's win, Norris and Piastri finished fourth and third in Las Vegas. McLaren's technical director Andrea Stella defended Piastri's outburst, described as 'I actually liked it'"
+    },
     {
       "id": "15e0ff86971a",
       "title": "2026 Las Vegas Grand Prix interactive data: lap charts, times and tyres | 2026 Las Vegas Grand Prix interactive data",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar a admis qu'il a mal performé en qualification à Las Vegas, faute de comprendre la puissance du tow. Il était 0,67s plus lent que Verstappen en Q2 et 0,44s en Q3, terminant cinquième.",
       "summary_en": "Isack Hadjar admitted he performed poorly in Las Vegas qualifying, failing to grasp the tow's power. He was 0.67s slower than Verstappen in Q2 and 0.44s in Q3, finishing fifth."
-    },
-    {
-      "id": "6c9f1c926a78",
-      "title": "Pirelli’s F1 tyres still can’t cope with Losail: Maximum stint lengths imposed again | Formula 1",
-      "title_fr": "Pirelli impose de nouveau limites de durée à Losail",
-      "title_en": "Pirelli imposes new stint limits at Losail again",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/21/pirellis-f1-tyres-still-cant-cope-with-losail-maximum-stint-lengths-imposed-again/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-28-20-33-35-4-51-friday-lusail-2025.jpg",
-      "published_at": "2026-11-21T11:50:21+00:00",
-      "race_id": "qatar",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Pour la troisième fois en cinq ans, Pirelli impose des limites maximales de durée de course au Grand Prix du Qatar, craignant des défaillances de pneus.",
-      "summary_en": "For the third time in five years, Pirelli is setting maximum stint lengths at the Qatar Grand Prix amid concerns over tyre failures."
-    },
-    {
-      "id": "1d55aeff3b8b",
-      "title": "How McLaren tried to mitigate its Las Vegas F1 top speed deficit",
-      "title_fr": "McLaren lutte contre son déficit de vitesse à Las Vegas",
-      "title_en": "McLaren tackles Las Vegas top‑speed deficit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-mclaren-tried-to-mitigate-its-las-vegas-f1-top-speed-deficit/10876451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEGwP2/s6/oscar-piastri-mclaren-lando-no.jpg",
-      "published_at": "2026-11-21T11:41:02+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a qualifié le circuit de Las Vegas de « chocant sur les lignes droites », après avoir terminé cinquième, à huit dixièmes de seconde du pole Kimi Antonelli. McLaren cherche à compenser son manque de vitesse.",
-      "summary_en": "Lando Norris described Las Vegas as “shocking on the straights” after qualifying fifth, eight-tenths behind pole-sitter Kimi Antonelli. McLaren is working to offset its top‑speed shortfall."
-    },
-    {
-      "id": "de4ba6aea166",
-      "title": "Antonelli and Russell set for Mercedes talks over Las Vegas GP qualifying mix-up",
-      "title_fr": "Russell et Antonelli vont parler de la confusion de qualification à Las Vegas",
-      "title_en": "Russell and Antonelli set to discuss Las Vegas qualifying mix-up",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/kimi-antonelli-and-george-russell-set-for-mercedes-talks-over-las-vegas-gp-qualifying-woes/10876456/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAVQOY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-21T11:05:19+00:00",
-      "race_id": "lasvegas",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "George Russell et Kimi Antonelli se réuniront pour analyser les problèmes de qualification à Las Vegas, notamment les ordres d'équipe et la position sur la piste. La discussion vise à clarifier les décisions prises.",
-      "summary_en": "George Russell and Kimi Antonelli will meet to review the Las Vegas qualifying chaos, focusing on team orders and track position. The discussion aims to clarify the decisions made."
-    },
-    {
-      "id": "6179a1172835",
-      "title": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes",
-      "title_fr": "Russell et Antonelli prévoient de parler des problèmes de qualification à Las Vegas",
-      "title_en": "Russell and Antonelli to discuss Las Vegas qualifying woes",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-and-george-russell-to-discuss-traffic-woes-in-las-vegas-gp-qualifying/10876431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAVQOY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-21T11:02:55+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell et Kimi Antonelli vont se rencontrer pour analyser les difficultés de qualification à Las Vegas, notamment le trafic et les ordres d’équipe.",
-      "summary_en": "George Russell and Kimi Antonelli will meet to review Las Vegas qualifying issues, focusing on traffic and team orders."
     }
   ]
 }
