@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-22T10:04:14Z",
+  "last_updated": "2026-11-22T13:06:14Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f29dc5404cca",
+      "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
+      "title_fr": "Verstappen triomphe à Las Vegas, Red Bull impressionné",
+      "title_en": "Verstappen wins in Las Vegas, Red Bull impressed",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9ErKKY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-22T11:58:03+00:00",
+      "race_id": "netherlands",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a remporté son quatrième titre en six Grands Prix, en couronnant la victoire à Las Vegas, un circuit pauvre en énergie. Cette performance souligne les progrès de Red Bull dans ces conditions.",
+      "summary_en": "Max Verstappen secured his fourth win in six Grands Prix, taking the victory at Las Vegas, a low-energy circuit. The result highlights Red Bull's progress in such conditions."
+    },
+    {
+      "id": "f39d46ab7ecf",
+      "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
+      "title_fr": "Hamilton blâme Leclerc pour la collision à Las Vegas",
+      "title_en": "Hamilton blames Leclerc for the collision in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-22T11:26:45+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a insinué que l'état d'esprit de Charles Leclerc a coûté des points à l'équipe lors de la collision à Las Vegas. Le pilote Aston Martin a été touché par la décision du Monegasque.",
+      "summary_en": "Lewis Hamilton implied that Charles Leclerc’s mindset cost the team points after their collision in Las Vegas. The Aston Martin driver was affected by the Monegasque’s decision."
+    },
+    {
+      "id": "c300b8ea955b",
+      "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
+      "title_fr": "Les vainqueurs et perdants du Grand Prix de Las Vegas",
+      "title_en": "Winners and losers of the Las Vegas Grand Prix",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-22T10:34:15+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix de Las Vegas a vu 35 changements de tête, les trois premiers se livrant à une bataille acharnée jusqu'au dernier tour.",
+      "summary_en": "The Las Vegas Grand Prix featured 35 lead changes, with the top three battling fiercely until the final lap."
+    },
+    {
+      "id": "5db5f9aa8412",
+      "title": "Max Verstappen continues George Russell fallout, labels his 2026 F1 season a \"complete disaster\"",
+      "title_fr": "Verstappen dénonce Russell, qualifie sa saison 2026 de désastre",
+      "title_en": "Verstappen slams Russell, calls 2026 season a disaster",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-22T10:13:23+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a qualifié la saison 2026 de George Russell de \"désastre complet\" après l’incident à Las Vegas. Le pilote Red Bull a exprimé son mécontentement face à Russell.",
+      "summary_en": "Max Verstappen called George Russell’s 2026 season a “complete disaster” after the Las Vegas incident. The Red Bull driver voiced his frustration with Russell."
+    },
+    {
+      "id": "8cd6dd0c0148",
+      "title": "Hadjar penalised after backing up Russell in Las Vegas GP, Perez given grid drop for Qatar GP",
+      "title_fr": "Hadjar pénalisé après avoir ralenti Russell à Las Vegas",
+      "title_en": "Hadjar penalised after backing up Russell in Las Vegas GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8Zy8v2/s6/george-russell-mercedes-pierre-2.jpg",
+      "published_at": "2026-11-22T09:11:46+00:00",
+      "race_id": "lasvegas",
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a reçu une pénalité de 10 secondes pour avoir ralenti inutilement sous la voiture de sécurité à Las Vegas. Sergio Perez a également vu sa grille réduite pour le Qatar.",
+      "summary_en": "Isack Hadjar was handed a 10‑second penalty for driving unnecessarily slowly under the safety car at Las Vegas. Sergio Perez also received a grid drop for the Qatar GP."
+    },
     {
       "id": "1631e45c6d98",
       "title": "Isack Hadjar gets penalty after backing up George Russell in Las Vegas GP",
@@ -20,6 +115,25 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar a reçu une pénalité de 10 secondes pour avoir roulé trop lentement sous la voiture de sécurité à Las Vegas, après avoir ralenti George Russell. La décision a été prise après la collision de Perez et Camara.",
       "summary_en": "Isack Hadjar received a 10‑second penalty for driving too slowly under the safety car at the Las Vegas Grand Prix, after backing up George Russell. The decision followed the Perez‑Camara collision."
+    },
+    {
+      "id": "38212eeafa2d",
+      "title": "Vasseur furious with \"unprofessional\" Ferrari clash and demands fresh talks after Las Vegas GP",
+      "title_fr": "Vasseur furieux après l'affrontement à Las Vegas",
+      "title_en": "Vasseur furious after Las Vegas clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/vasseur-furious-with-unprofessional-ferrari-clash-and-demands-fresh-talks-after-las-vegas-gp/10876847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-22T08:40:17+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, dénonce l'interaction de Charles Leclerc avec Lewis Hamilton à Las Vegas comme inacceptable et exige de nouvelles discussions, trois semaines après la dispute au Mexique.",
+      "summary_en": "Ferrari boss Fred Vasseur calls Charles Leclerc's contact with Lewis Hamilton at Las Vegas \"unacceptable\" and demands fresh talks, three weeks after the Mexico spat."
     },
     {
       "id": "17e5e5755be4",
@@ -98,6 +212,25 @@
       "summary_en": "Max Verstappen won the Las Vegas Grand Prix, taking revenge on George Russell's comments. The Red Bull driver also delivered sharp remarks after the race."
     },
     {
+      "id": "a98f88c3e826",
+      "title": "Verstappen hits back after Russell criticism: “He’s so far below my level”",
+      "title_fr": "Verstappen riposte à Russell après la critique",
+      "title_en": "Verstappen fires back at Russell after criticism",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-karma-is-a-bitch/10876811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15yEz0/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-22T07:56:20+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a riposté à George Russell après la critique de ce dernier, en remportant le Grand Prix de Las Vegas et en livrant des remarques acerbes.",
+      "summary_en": "Max Verstappen fired back at George Russell after the criticism, winning the Las Vegas Grand Prix and delivering scathing remarks."
+    },
+    {
       "id": "3a091c7cab7a",
       "title": "Oscar Piastri rejects need for McLaren warning in Lando Norris fight: \"Don't need to be told\"",
       "title_fr": "Piastri rejette l’avertissement de McLaren sur la bataille avec Norris",
@@ -155,6 +288,25 @@
       "summary_en": "Charles Leclerc admitted embarrassment after a clash with Lewis Hamilton in Las Vegas, costing Ferrari seven points and two 10‑second penalties. The fight erupted on the Turns 7–8 chicane."
     },
     {
+      "id": "a1eae298cb68",
+      "title": "“My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle",
+      "title_fr": "Antonelli explique l'erreur qui l'a privé de la victoire à Las Vegas",
+      "title_en": "Antonelli explains mistake that cost him victory at Las Vegas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/my-mistake-was-to-lift-why-antonelli-lost-power-in-las-vegas-gp-victory-battle/10876786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxydY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-22T07:27:37+00:00",
+      "race_id": "lasvegas",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a détaillé la décision qui l'a fait perdre la victoire au Grand Prix de Las Vegas. Après un changement de moteur et un choix de pneus médiums, il a perdu deux places dès le départ.",
+      "summary_en": "Kimi Antonelli explained the decision that cost him the Las Vegas GP win. After an engine change penalty and choosing medium tires, he lost two positions from the start."
+    },
+    {
       "id": "59434008dbc9",
       "title": "Max Verstappen lashes out at George Russell: \"He's so far below my level\"",
       "title_fr": "Verstappen critique Russell : « Il est loin de mon niveau »",
@@ -191,6 +343,25 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a expliqué la décision qui l'a privé de la victoire à Las Vegas. Le pilote, plus rapide en qualification, a perdu deux places dès la première tour à cause d'un choix de pneus.",
       "summary_en": "Kimi Antonelli explained the decision that cost him the win at Las Vegas. The driver, fastest in qualifying, lost two positions on the first lap due to a tire choice."
+    },
+    {
+      "id": "6072f41630b4",
+      "title": "Kimi Antonelli explains mistake that left him “smoked by the two McLarens” in Vegas",
+      "title_fr": "Kimi Antonelli explains mistake that left him “smoked by the two McLarens” in Vegas",
+      "title_en": "Kimi Antonelli explains mistake that left him “smoked by the two McLarens” in Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/antonelli-explains-the-mistake-that-left-him-smoked-by-the-two-mclarens-in-las-vegas/10876732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZAOL2/s6/andrea-kimi-antonelli-mercedes-a10876732-b705-2.jpg",
+      "published_at": "2026-11-22T07:11:39+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli looked primed to cap a charge from sixth on the grid with a dramatic last-lap victory at the 2026 Las Vegas Grand Prix. Instead, one split-second pedal adjustment drained his battery dr",
+      "summary_en": "Kimi Antonelli looked primed to cap a charge from sixth on the grid with a dramatic last-lap victory at the 2026 Las Vegas Grand Prix. Instead, one split-second pedal adjustment drained his battery dr"
     },
     {
       "id": "2b3c37d9b1b0",
@@ -590,177 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Fernando Alonso dénonce le déficit de puissance de Honda, qui laisse les concurrents prendre un avantage supplémentaire autour des Aston Martin lors du Grand Prix de Las Vegas.",
       "summary_en": "Fernando Alonso says Honda's power deficit is so severe that rivals are gaining extra margin around the Aston Martins at the Las Vegas Grand Prix."
-    },
-    {
-      "id": "01230b4e3442",
-      "title": "Drivers expect Monza-style race at Las Vegas with “extreme” slipstream | Formula 1",
-      "title_fr": "Pilotes prévoient une course Monza à Las Vegas grâce à un train d'aspiration extrême",
-      "title_en": "Drivers anticipate Monza-style race at Las Vegas with extreme slipstream",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/21/drivers-expect-extreme-slipstream-to-create-monza-style-race-at-las-vegas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-20-20-14-50-1-15-friday-lasvegas-2026.jpg",
-      "published_at": "2026-11-21T09:23:36+00:00",
-      "race_id": "lasvegas",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Les pilotes de Formule 1 prévoient une course à l'image de Monza sur le circuit de Las Vegas, où l'effet de train d'aspiration sera décisif. Le train d'aspiration extrême devrait façonner la stratégie de la fin de semaine.",
-      "summary_en": "Drivers expect a Monza-style race at Las Vegas, with the powerful slipstream effect shaping the weekend's strategy."
-    },
-    {
-      "id": "1946b64a45bf",
-      "title": "Max Verstappen reveals mysterious Red Bull issue that cannot be fixed in Las Vegas",
-      "title_fr": "Verstappen révèle un problème mystérieux de Red Bull à Las Vegas",
-      "title_en": "Verstappen reveals mysterious Red Bull issue at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-mysterious-red-bull-issue-that-cannot-be-fixed-in-las-vegas/10876399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOAVY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-21T08:52:06+00:00",
-      "race_id": "netherlands",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen, en pole position grâce à la pénalité de Kimi Antonelli, a déclaré que Red Bull ne peut pas résoudre un problème technique à Las Vegas. Le pilote reste incertain quant à la performance.",
-      "summary_en": "Max Verstappen, starting from pole thanks to Kimi Antonelli's grid penalty, said Red Bull cannot fix a technical issue at Las Vegas. The driver remains uncertain about the car's performance."
-    },
-    {
-      "id": "ebcf73813f8f",
-      "title": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
-      "title_fr": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
-      "title_en": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/verstappen-reveals-mysterious-red-bull-f1-car-issue-that-cannot-be-fixed-in-las-vegas/10876404/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0LderEP0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-21T08:52:06+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Thanks to Kimi Antonelli 's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutch driver to be satisfied.<br /",
-      "summary_en": "Thanks to Kimi Antonelli 's grid penalty, Max Verstappen will start Formula 1's Las Vegas Grand Prix from pole position, but that is not necessarily a reason for the Dutch driver to be satisfied.<br /"
-    },
-    {
-      "id": "7d9ff7e1b75e",
-      "title": "Lando Norris frustrated by McLaren's \"shocking\" top speed at Las Vegas GP qualifying",
-      "title_fr": "Norris déçu par la vitesse de McLaren à Las Vegas",
-      "title_en": "Norris frustrated by McLaren's top speed at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-frustrated-by-mclarens-shocking-top-speed-at-las-vegas-gp-qualifying/10876362/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren.jpg",
-      "published_at": "2026-11-21T08:28:44+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a exprimé sa frustration après avoir terminé quatrième en qualification à Las Vegas, 0,351 s derrière Kimi Antonelli, avec une perte de vitesse notable dans le dernier secteur.",
-      "summary_en": "Lando Norris expressed frustration after finishing fourth in Las Vegas qualifying, 0.351 s behind Kimi Antonelli, with a noticeable loss of speed in the final sector."
-    },
-    {
-      "id": "c515f946e0cf",
-      "title": "Antonelli says he made the decision to run at the back of the field in qualifying | Formula 1",
-      "title_fr": "Antonelli opte pour la ligne arrière en qualification",
-      "title_en": "Antonelli opts for back of the grid in qualifying",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/21/antonelli-says-he-made-the-decision-to-run-at-the-back-of-the-field-in-qualifying/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-24-45-3-M655578_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-11-21T08:04:56+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a choisi de démarrer en arrière de la grille, une décision tactique qui lui a permis d'établir le meilleur tour en qualification.",
-      "summary_en": "Andrea Kimi Antonelli chose to start at the back of the grid, a tactical move that let him set the fastest lap in qualifying."
-    },
-    {
-      "id": "5f218f1dadb4",
-      "title": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
-      "title_fr": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
-      "title_en": "“We lost one second down the straight” – Charles Leclerc upset with Ferrari’s “crazy” Las Vegas deficiency",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/we-lost-one-second-down-the-straight-charles-leclerc-upset-with-ferraris-crazy-las-vegas-deficiency/10876355/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwBJD2/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-11-21T07:50:13+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.<br />Leclerc and team-mate Lewis Hamilton were fourth and eigh",
-      "summary_en": "Charles Leclerc is “very disappointed” with Ferrari’s performance at Formula 1’s Las Vegas Grand Prix as both cars were eliminated in Q2.<br />Leclerc and team-mate Lewis Hamilton were fourth and eigh"
-    },
-    {
-      "id": "89dfc4d30329",
-      "title": "Lando Norris brands McLaren “awful in the straight” despite third on Las Vegas GP grid",
-      "title_fr": "Norris critique la McLaren comme « horrible en ligne droite » à Las Vegas",
-      "title_en": "Norris slams McLaren as 'awful in the straight' at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-slams-mclaren-as-awful-in-the-straight-despite-third-on-las-vegas-gp-grid/10876306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10876306-b706-2.jpg",
-      "published_at": "2026-11-21T07:10:24+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris démarre troisième à Las Vegas après un Q3 de 1m34,99, mais a qualifié la MCL40 de « horrible en ligne droite ». Le pilote McLaren souligne les faiblesses de la voiture.",
-      "summary_en": "Lando Norris starts third at Las Vegas after a 1m34.99 Q3, but slammed the MCL40 as “awful in the straight”. The McLaren driver points out the car’s weaknesses."
-    },
-    {
-      "id": "7d6197dc32a7",
-      "title": "Verstappen responds to Russell after Las Vegas GP practice clash over 'gentleman's agreement'",
-      "title_fr": "Verstappen réagit à Russell après l'incident de pratique à Las Vegas",
-      "title_en": "Verstappen reacts to Russell after Las Vegas practice clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/verstappen-responds-to-russell-after-las-vegas-gp-practice-clash-over-gentlemans-agreement/10876337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8OJb6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-      "published_at": "2026-11-21T07:05:12+00:00",
-      "race_id": "netherlands",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a réagi à George Russell après un incident de pratique à Las Vegas. Le pilote a changé de direction plusieurs fois, provoquant un contact à l'intérieur du quart de monde champion.",
-      "summary_en": "Max Verstappen reacted to George Russell after a practice clash at Las Vegas. The Dutchman changed direction several times, causing contact inside the four-time world champion."
-    },
-    {
-      "id": "5635b7e820c2",
-      "title": "Max Verstappen dismisses George Russell Las Vegas clash with two-word response",
-      "title_fr": "Verstappen minimise le clash avec Russell à Las Vegas",
-      "title_en": "Verstappen dismisses clash with Russell at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-dismisses-george-russell-las-vegas-clash-with-two-word-response/10876339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing-a10876339-b707-2.jpg",
-      "published_at": "2026-11-21T06:58:08+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a minimisé le contact avec George Russell lors de la séance d'essais libres, déclarant « rien ne s'est passé ». Les officiels ont averti le pilote Red Bull pour conduite erratique.",
-      "summary_en": "Max Verstappen brushed off the contact with George Russell during free practice, saying \"nothing happened.\" Stewards warned the Red Bull driver for erratic driving."
     }
   ]
 }
