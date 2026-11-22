@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T21:56:24Z",
+  "last_updated": "2026-11-22T00:58:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -79,6 +79,25 @@
       "summary_en": "Isack Hadjar admitted he performed poorly in Las Vegas qualifying, failing to grasp the tow's power. He was 0.67s slower than Verstappen in Q2 and 0.44s in Q3, finishing fifth."
     },
     {
+      "id": "6c9f1c926a78",
+      "title": "Pirelli’s F1 tyres still can’t cope with Losail: Maximum stint lengths imposed again | Formula 1",
+      "title_fr": "Pirelli impose de nouveau limites de durée à Losail",
+      "title_en": "Pirelli imposes new stint limits at Losail again",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/pirellis-f1-tyres-still-cant-cope-with-losail-maximum-stint-lengths-imposed-again/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-28-20-33-35-4-51-friday-lusail-2025.jpg",
+      "published_at": "2026-11-21T11:50:21+00:00",
+      "race_id": "qatar",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Pour la troisième fois en cinq ans, Pirelli impose des limites maximales de durée de course au Grand Prix du Qatar, craignant des défaillances de pneus.",
+      "summary_en": "For the third time in five years, Pirelli is setting maximum stint lengths at the Qatar Grand Prix amid concerns over tyre failures."
+    },
+    {
       "id": "1d55aeff3b8b",
       "title": "How McLaren tried to mitigate its Las Vegas F1 top speed deficit",
       "title_fr": "McLaren lutte contre son déficit de vitesse à Las Vegas",
@@ -134,6 +153,25 @@
       "is_breaking": false,
       "summary_fr": "George Russell et Kimi Antonelli vont se rencontrer pour analyser les difficultés de qualification à Las Vegas, notamment le trafic et les ordres d’équipe.",
       "summary_en": "George Russell and Kimi Antonelli will meet to review Las Vegas qualifying issues, focusing on traffic and team orders."
+    },
+    {
+      "id": "56d3fab55bd9",
+      "title": "On This Day: McLaren hire Zak Brown to lead team after ousting Ron Dennis | Brief",
+      "title_fr": "Zak Brown prend les rênes de McLaren après le départ de Ron Dennis",
+      "title_en": "Zak Brown takes the helm at McLaren after Ron Dennis exits",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/21/on-this-day-zak-brown-takes-charge-at-struggling-mclaren/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-19-10-50-08-1-23052662481.jpg",
+      "published_at": "2026-11-21T10:57:12+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Zak Brown a été nommé directeur général de McLaren, succédant à Ron Dennis. Le nouveau dirigeant décrit l’équipe comme un « endroit assez sombre » avant de prendre les commandes.",
+      "summary_en": "Zak Brown has been appointed McLaren's CEO, succeeding Ron Dennis. He described the team as a 'pretty grim place' before taking the reins."
     },
     {
       "id": "c16df8d5730e",
@@ -383,6 +421,158 @@
       "summary_en": "George Russell slammed Max Verstappen after their collision in Free Practice 3 at the Las Vegas Grand Prix. The Mercedes driver pushed the Red Bull out of the way, sparking a heated exchange."
     },
     {
+      "id": "525c5723b5a7",
+      "title": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
+      "title_fr": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
+      "title_en": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-antonelli-tops-qualifying-but-verstappen-gets-pole/10876233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkgW0/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-21T05:20:37+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen will start on pole at the Formula 1 Las Vegas Grand Prix despite Kimi Antonelli going fastest - while Charles Leclerc and Lewis Hamilton both failed to make Q3. <br />The 2026 world cha",
+      "summary_en": "Max Verstappen will start on pole at the Formula 1 Las Vegas Grand Prix despite Kimi Antonelli going fastest - while Charles Leclerc and Lewis Hamilton both failed to make Q3. <br />The 2026 world cha"
+    },
+    {
+      "id": "7499a72a4c9d",
+      "title": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
+      "title_fr": "Russell en tête après collision avec Verstappen à Las Vegas",
+      "title_en": "Russell fastest after collision with Verstappen at Las Vegas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzDpY/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-11-21T01:46:05+00:00",
+      "race_id": "lasvegas",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "George Russell a franchi la barre la plus haute lors de la dernière séance de pratique à Las Vegas, après avoir heurté Max Verstappen. La collision a mis fin à la session, mais Russell reste en tête.",
+      "summary_en": "George Russell topped the timesheets in the final practice at Las Vegas after colliding with Max Verstappen. The incident ended the session, but Russell still leads."
+    },
+    {
+      "id": "28b6d63c823a",
+      "title": "F1 set for V8 return from 2030",
+      "title_fr": "F1 se prépare à un retour V8 dès 2030",
+      "title_en": "F1 gears up for V8 return from 2030",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-set-for-v8-return-from-2030/10875119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAgeVY/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "published_at": "2026-11-20T19:02:00+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a annoncé un accord unanime pour réintroduire les moteurs V8 à partir de 2030, simplifiant la formule et réduisant les coûts. Le cycle réglementaire 2031 débutera avec des moteurs plus simples.",
+      "summary_en": "The FIA announced a unanimous agreement to bring V8 engines back from 2030, aiming to simplify the formula and cut costs. The 2031 regulation cycle will start with lighter, cheaper power units."
+    },
+    {
+      "id": "1d9d3e4035da",
+      "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
+      "title_fr": "Pirelli impose limite de stint au Qatar",
+      "title_en": "Pirelli reintroduces stint limit at Qatar",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/pirelli-reintroduces-stint-limit-for-f1-qatar-gp/10875958/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGqG9JY/s6/lando-norris-mclaren-oscar-pia-2.jpg",
+      "published_at": "2026-11-20T08:21:11+00:00",
+      "race_id": "qatar",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Pirelli a rétabli une limite de 27 tours par stint pour les voitures de Formule 1 au Qatar, forçant les équipes à privilégier une stratégie à deux arrêts sur le circuit de Lusail",
+      "summary_en": "Pirelli has reinstated a 27-lap stint limit for F1 cars at the Qatar GP, forcing teams to adopt a two-stop strategy on the Lusail circuit"
+    },
+    {
+      "id": "ee0023140625",
+      "title": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Verstappen's complaints",
+      "title_fr": "Red Bull cherche la cause des plaintes de Verstappen",
+      "title_en": "Red Bull seeks root cause of Verstappen's complaints",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEG1p2/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-20T08:12:55+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Après les séances d'essais de jeudi à Las Vegas, Red Bull n'a trouvé aucune réponse claire. Max Verstappen a exprimé des frustrations, et l'équipe poursuit l'analyse des conditions.",
+      "summary_en": "After Thursday's practice in Las Vegas, Red Bull found no clear answers. Max Verstappen voiced frustrations, and the team is digging into the root cause."
+    },
+    {
+      "id": "2876bf63230d",
+      "title": "F1 Las Vegas GP: Russell fastest in damp FP2 from Gasly",
+      "title_fr": "Russell plus rapide en FP2 humide à Las Vegas",
+      "title_en": "Russell fastest in damp FP2 at Las Vegas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9EbBMY/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-11-20T05:15:28+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "George Russell a battu Pierre Gasly pour le meilleur temps en FP2, 1m47,272, grâce à une fin de session glissante. Le pilote Mercedes a devancé Gasly de 0,071 seconde.",
+      "summary_en": "George Russell beat Pierre Gasly to set the fastest time in FP2, 1m47.272, thanks to a late slippery stint. The Mercedes driver edged Gasly by 0.071 seconds."
+    },
+    {
+      "id": "7b61874c0952",
+      "title": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push",
+      "title_fr": "Cadillac reporte son moteur V6 hybride à 2030",
+      "title_en": "Cadillac postpones V6 hybrid engine to 2030",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/cadillac-ditches-plan-to-produce-own-v6-hybrid-engine-ahead-of-f1s-v8-push/10875807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAkpP0/s6/valtteri-bottas-cadillac-2.jpg",
+      "published_at": "2026-11-20T04:01:54+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Cadillac reporte l’introduction de son moteur V6 hybride en Formule 1 d’un an, le déploiement prévu en 2029 étant repoussé à 2030. Le constructeur américain suspend son projet d’unité interne.",
+      "summary_en": "Cadillac has pushed back its in‑house V6 hybrid Formula 1 power unit by a year, moving the debut from 2029 to 2030. The American team has shelved its internal engine project."
+    },
+    {
+      "id": "061ede1c66b8",
+      "title": "F1 Las Vegas GP: Rain drowns out FP1",
+      "title_fr": "Pluie à Las Vegas : FP1 annulé",
+      "title_en": "Rain Drowns Out FP1 at Las Vegas GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-fp1-report/10875770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOo9Y/s6/george-russell-mercedes-2.jpg",
+      "published_at": "2026-11-20T01:43:05+00:00",
+      "race_id": "lasvegas",
+      "category": "météo",
+      "tags": [
+        "météo"
+      ],
+      "importance": 38,
+      "is_breaking": false,
+      "summary_fr": "Liam Lawson, pilote de Racing Bulls, a prédit des problèmes si la pluie s'abat sur le circuit de Las Vegas. Les pneus Pirelli sont difficiles à chauffer sur la rue de 6 km, plongeant le paddock dans l'inquiétude.",
+      "summary_en": "Racing Bulls driver Liam Lawson warned that rain on Las Vegas' street circuit could cause trouble. Pirelli tyres are hard to warm up on the 6‑km track, leaving the paddock uneasy."
+    },
+    {
       "id": "5153891e727c",
       "title": "Toto Wolff is not afraid of losing Kimi Antonelli to Ferrari",
       "title_fr": "Wolff rassure sur la fidélité d'Antonelli",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le champion du monde Lando Norris demande à Pirelli de proposer des pneus pluie nettement améliorés pour 2027, estimant que les modèles actuels ne suffiraient pas sur un circuit à faible downforce comme Las Vegas.",
       "summary_en": "World champion Lando Norris urges Pirelli to deliver significantly better rain tyres for 2027, saying the current range will not perform adequately on a low-downforce track like Las Vegas."
-    },
-    {
-      "id": "0ffc1ed40ea0",
-      "title": "Norris: Las Vegas GP would be \"scary\" with current F1 wet tyres",
-      "title_fr": "Norris exige de meilleurs pneus pluie pour Las Vegas",
-      "title_en": "Norris demands better wet tyres for Las Vegas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/lando-norris-f1-needs-better-rain-tyres-as-wet-las-vegas-would-be-scary/10874886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/0o5AVObY/s6/lando-norris-mclaren-george-ru-2.jpg",
-      "published_at": "2026-11-16T17:30:03+00:00",
-      "race_id": "singapore",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris réclame des pneus pluie améliorés pour le Grand Prix de Las Vegas, estimant que la gamme actuelle ne suffira pas sur le circuit à faible downforce. Il cite les conditions humides du Grand Prix brésilien.",
-      "summary_en": "Lando Norris is calling for improved wet tyres for the Las Vegas GP, saying the current range will not cope on the low‑downforce circuit. He points to the rain‑affected qualifying at the Brazilian Grand Prix."
-    },
-    {
-      "id": "59a0af464702",
-      "title": "Hamilton tells F1 to spend £50 million in promoting under-represented talent | Formula 1",
-      "title_fr": "Hamilton réclame 50 millions de livres pour les talents sous-représentés",
-      "title_en": "Hamilton calls for £50 million to promote under‑represented talent",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/16/hamilton-tells-f1-to-spend-50-million-in-promoting-under-represented-talent/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-20-00-51-5-261025_R18_USA_DP_XB3_0609.jpg",
-      "published_at": "2026-11-16T17:10:16+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton, via son organisation Mission 44, a demandé à la Formule 1 d’investir 50 millions de livres sterling pour soutenir les talents sous‑représentés. Le pilote espère une meilleure visibilité pour ces pilotes.",
-      "summary_en": "Lewis Hamilton, through his Mission 44 organisation, has urged Formula 1 to invest £50 million to support under‑represented talent. The driver hopes for greater visibility for these drivers."
-    },
-    {
-      "id": "4b4552a11008",
-      "title": "Toto Wolff predicts Kimi Antonelli will become more popular in Italy than Michael Schumacher",
-      "title_fr": "Wolff : Antonelli plus populaire que Schumacher en Italie",
-      "title_en": "Wolff: Antonelli will outshine Schumacher in Italy",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-says-kimi-antonelli-is-more-loved-in-italy-than-michael-schumacher-was-at-ferrari/10874809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-8.motorsport.com/images/amp/2dEoloBY/s6/motorsport-com-graphics-5-2.jpg",
-      "published_at": "2026-11-16T16:17:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Mercedes, Toto Wolff, affirme que Kimi Antonelli deviendra plus populaire en Italie que Michael Schumacher après la victoire du jeune pilote au championnat du monde 2026.",
-      "summary_en": "Mercedes team principal Toto Wolff claims Kimi Antonelli will become more popular in Italy than Michael Schumacher after his 2026 world championship win."
-    },
-    {
-      "id": "ee8211edb9b2",
-      "title": "Spotlight: Aston Martin reveals one-off livery for Las Vegas Grand Prix | Spotlight",
-      "title_fr": "Spotlight: Aston Martin reveals one-off livery for Las Vegas Grand Prix | Spotlight",
-      "title_en": "Spotlight: Aston Martin reveals one-off livery for Las Vegas Grand Prix | Spotlight",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/16/spotlight-aston-martin-reveals-one-off-livery-for-las-vegas-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-16-16-09-48-2-53d7e603-9bac-4698-e00c-ba6a0a0f7d6e.jpg",
-      "published_at": "2026-11-16T16:10:54+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Aston Martin reveals special livery for Las Vegas Grand Prix",
-      "summary_en": "Aston Martin reveals special livery for Las Vegas Grand Prix"
-    },
-    {
-      "id": "7622ed877cb6",
-      "title": "Williams and Aston Martin reveal one-off liveries for Las Vegas Grand Prix | Formula 1",
-      "title_fr": "Williams et Aston Martin dévoilent des liveries uniques pour le Grand Prix de Las Vegas",
-      "title_en": "Williams and Aston Martin unveil unique liveries for Las Vegas Grand Prix",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/16/williams-and-aston-martin-reveal-one-off-liveries-for-las-vegas-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-16-17-11-53-1-Atlassian-and-Williams-F1-Team-light-the-way-forward-with-blue-chrome-Las-Vegas-livery.jpg",
-      "published_at": "2026-11-16T16:10:54+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Williams et Aston Martin ont présenté des carrosseries exclusives pour le Grand Prix de Las Vegas, marquant un changement visuel notable pour la saison.",
-      "summary_en": "Williams and Aston Martin unveiled exclusive liveries for the Las Vegas Grand Prix, marking a notable visual change for the season."
-    },
-    {
-      "id": "d27cf98fe7dc",
-      "title": "Cadillac, Williams and Aston Martin reveal one-off liveries for Las Vegas GP | Formula 1",
-      "title_fr": "Cadillac, Williams et Aston Martin présentent des liveries inédites pour Las Vegas",
-      "title_en": "Cadillac, Williams and Aston Martin unveil one‑off liveries for Las Vegas GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/16/cadillac-williams-and-aston-martin-reveal-one-off-liveries-for-las-vegas-gp/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/cadillac-vegas.jpg",
-      "published_at": "2026-11-16T16:10:54+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Cadillac, Williams et Aston Martin ont dévoilé des liveries uniques pour le Grand Prix de Las Vegas. Chaque équipe présente un design distinctif qui marquera la course.",
-      "summary_en": "Cadillac, Williams and Aston Martin have unveiled unique liveries for the Las Vegas Grand Prix. Each team showcases a distinct design that will set the race apart."
-    },
-    {
-      "id": "745bc07dc3dd",
-      "title": "Christian Horner’s private message to Toto Wolff revealed after Kimi Antonelli's 2026 F1 title",
-      "title_fr": "Horner félicite Wolff après la victoire d'Antonelli",
-      "title_en": "Horner sends message to Wolff after Antonelli's title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horners-private-message-to-toto-wolff-revealed-respect-for-you/10874823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/6O7zEzX6/s6/motorsport-com-graphics-4-2.jpg",
-      "published_at": "2026-11-16T16:02:29+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner a envoyé un message de félicitations à Toto Wolff après la victoire historique de Kimi Antonelli en 2026. Le directeur de Red Bull a salué la performance de Mercedes.",
-      "summary_en": "Christian Horner sent a congratulatory message to Toto Wolff after Kimi Antonelli's historic 2026 title win. The Red Bull chief praised Mercedes' performance."
-    },
-    {
-      "id": "e0daec267ee9",
-      "title": "Zak Brown recalls McLaren's \"very toxic environment\" after joining team in 2016",
-      "title_fr": "Zak Brown dénonce l'environnement toxique de McLaren",
-      "title_en": "Zak Brown calls McLaren environment toxic",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/zak-brown-recalls-mclarens-very-toxic-environment-after-joining-team-in-2016/10874891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-4.motorsport.com/images/amp/YXyKXKd6/s6/motorsport-com-graphics-3.jpg",
-      "published_at": "2026-11-16T15:54:25+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur général de McLaren, Zak Brown, décrit l'équipe qu'il a intégrée en 2016 comme très toxique, attribuant les résultats décevants à un roulement constant de dirigeants.",
-      "summary_en": "McLaren CEO Zak Brown calls the team he joined in 2016 a 'very toxic environment', blaming a revolving door of leaders for poor results on and off the track."
-    },
-    {
-      "id": "ed78846d0eed",
-      "title": "Lewis Hamilon reportedly house-hunting in LA amid Kim Kardashian relationship",
-      "title_fr": "Hamilton cherche une maison à Los Angeles",
-      "title_en": "Hamilton looks for a home in Los Angeles",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilon-reportedly-house-hunting-in-la-amid-kim-kardashian-relationship/10874877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-5.motorsport.com/images/amp/2jEAkAp0/s6/motorsport-com-graphics-2.jpg",
-      "published_at": "2026-11-16T15:08:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Lewis Hamilton, sept fois champion du monde, cherche une maison à Los Angeles pour passer plus de temps avec Kim Kardashian et ses enfants, selon le Daily Mail.",
-      "summary_en": "Lewis Hamilton, the seven-time world champion, is reportedly looking for a house in Los Angeles to spend more time with Kim Kardashian and her children, according to the Daily Mail."
-    },
-    {
-      "id": "690118f31ab2",
-      "title": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
-      "title_fr": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
-      "title_en": "F1 Las Vegas GP 2026: start time, schedule and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-2026-start-time-schedule-and-how-to-watch/10874866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-7.motorsport.com/images/amp/YBVorJzY/s6/the-welcome-to-las-vegas-sign.jpg",
-      "published_at": "2026-11-16T15:02:24+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.<br />Las Vegas Grand Prix 2026 sc",
-      "summary_en": "The Las Vegas Grand Prix starts at 8 pm PT on Saturday, November 21, which is 11 pm ET. The race runs at night along the Strip, and every session is live on Apple TV.<br />Las Vegas Grand Prix 2026 sc"
     }
   ]
 }
