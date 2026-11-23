@@ -1,7 +1,159 @@
 {
-  "last_updated": "2026-11-23T07:18:06Z",
+  "last_updated": "2026-11-23T10:20:06Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "10148756a062",
+      "title": "Herta pulls out of final Formula 2 races in Qatar and Abu Dhabi | Formula 2",
+      "title_fr": "Herta se retire des deux derniers rounds F2 au Moyen-Orient",
+      "title_en": "Herta pulls out of final Formula 2 races in Qatar and Abu Dhabi",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/23/herta-pulls-out-of-final-formula-2-races-in-qatar-and-abu-dhabi/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-11-00-24-13-1-CadillacF1Team_8132_HiRes.jpg",
+      "published_at": "2026-11-23T10:02:19+00:00",
+      "race_id": "qatar",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta ne participera pas aux deux derniers rounds de Formule 2 au Moyen-Orient après avoir raté l'opportunité d'obtenir un poste en Formule 1 chez Cadillac",
+      "summary_en": "Colton Herta will skip the final two Formula 2 rounds in Qatar and Abu Dhabi after missing his chance to secure a Formula 1 seat with Cadillac"
+    },
+    {
+      "id": "cf3b50ff9c6f",
+      "title": "Who slept worst last night: Charles Leclerc",
+      "title_fr": "Vasseur critique Leclerc et Hamilton après Las Vegas",
+      "title_en": "Vasseur slams Leclerc and Hamilton after Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-11-23T10:00:42+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de la Scuderia Ferrari, Frédéric Vasseur, a déclaré que Charles Leclerc et Lewis Hamilton avaient reçu le même traitement que celui de Mexico après le Grand Prix de Las Vegas.",
+      "summary_en": "Ferrari team boss Frédéric Vasseur said Charles Leclerc and Lewis Hamilton were treated the same way after the Las Vegas Grand Prix as after Mexico."
+    },
+    {
+      "id": "ca5a6b3ae3c3",
+      "title": "Herta replaced at Hitech to end F2 season early",
+      "title_fr": "Herta replaced at Hitech to end F2 season early",
+      "title_en": "Herta replaced at Hitech to end F2 season early",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg",
+      "published_at": "2026-11-23T09:42:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech.<br />The nine-time IndyCar race winner",
+      "summary_en": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech.<br />The nine-time IndyCar race winner"
+    },
+    {
+      "id": "1920fee5b16b",
+      "title": "Colton Herta replaced at Hitech to end poor F2 season early",
+      "title_fr": "Herta quitte Hitech pour mettre fin à sa saison F2",
+      "title_en": "Herta leaves Hitech to end poor F2 season",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg",
+      "published_at": "2026-11-23T09:38:18+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Colton Herta, champion IndyCar à neuf titres, quitte Hitech après une saison décevante en F2, afin de mettre fin à son parcours européen prématurément.",
+      "summary_en": "Colton Herta, a nine‑time IndyCar champion, leaves Hitech after a disappointing F2 season, ending his European campaign early."
+    },
+    {
+      "id": "39a5a5b3b9bf",
+      "title": "Red Bull told Verstappen to consider letting Antonelli pass him for the final lap | Formula 1",
+      "title_fr": "Red Bull conseille à Verstappen de laisser Antonelli passer",
+      "title_en": "Red Bull tells Verstappen to let Antonelli pass",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/23/red-bull-told-verstappen-to-consider-letting-antonelli-pass-him-for-the-final-lap/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/verstappen-lead-car.jpg",
+      "published_at": "2026-11-23T09:19:44+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Red Bull a conseillé à Max Verstappen de laisser passer Andrea Kimi Antonelli lors de la dernière course de Las Vegas. Le pilote de Red Bull aurait envisagé de céder la tête pour la dernière ligne.",
+      "summary_en": "Red Bull reportedly told Max Verstappen to consider letting Andrea Kimi Antonelli overtake him on the final lap of the Las Vegas race."
+    },
+    {
+      "id": "e7039d00036c",
+      "title": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
+      "title_fr": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
+      "title_en": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-bearmans-expected-2027-haas-f1-deal-remains-unsigned/10877066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvVJqY/s6/oliver-bearman-haas-f1-team-2.jpg",
+      "published_at": "2026-11-23T09:05:17+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention",
+      "summary_en": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention"
+    },
+    {
+      "id": "9d347490cd04",
+      "title": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
+      "title_fr": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
+      "title_en": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/salary-dispute-holding-up-oliver-bearmans-new-haas-f1-deal/10877064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas-2.jpg",
+      "published_at": "2026-11-23T09:02:57+00:00",
+      "race_id": "brazil",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ferrari protege Oliver Bearman remains the only driver on the Formula 1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his re",
+      "summary_en": "Ferrari protege Oliver Bearman remains the only driver on the Formula 1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his re"
+    },
+    {
+      "id": "bc79bc3e7321",
+      "title": "Verstappen expects F1’s ‘yo-yo racing’ won’t be fixed until 2030 engines arrive | Formula 1",
+      "title_fr": "Verstappen prédit que le yo‑yo persistera jusqu’aux moteurs 2030",
+      "title_en": "Verstappen says yo‑yo racing will persist until 2030 engines",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/23/verstappen-expects-f1s-yo-yo-racing-wont-be-fixed-until-2030-engines-arrive/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-22-28-47-1-SI202611210085.jpg",
+      "published_at": "2026-11-23T07:15:50+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen estime que la course yo‑yo observée cette saison restera un trait de F1 jusqu’à l’introduction des moteurs 2030. Le pilote redoute que les règles actuelles ne changent pas.",
+      "summary_en": "Max Verstappen says the yo‑yo racing seen this season will remain a feature of F1 until the 2030 engines arrive. He fears current power‑unit rules won’t change."
+    },
     {
       "id": "674e6f2831ca",
       "title": "F1 plans two-team engine supply limit under 2030 V8 rules",
@@ -609,158 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Sergio Perez partira du Qatar avec une pénalité de cinq places après la collision avec Camara. La pénalité affectera son positionnement sur la grille.",
       "summary_en": "Sergio Perez will start the Qatar GP with a five‑place grid penalty after colliding with Camara. The penalty will push him back on the starting grid."
-    },
-    {
-      "id": "457aa9be34cb",
-      "title": "Charles Leclerc “embarrassed for the team” after costly Las Vegas clash with Lewis Hamilton",
-      "title_fr": "Leclerc embarrassé après l'affrontement avec Hamilton à Las Vegas",
-      "title_en": "Leclerc embarrassed after clash with Hamilton in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-feeling-embarrassed-for-the-team-after-costly-las-vegas-clash-with-hamilton/10876758/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZX3Bv6/s6/charles-leclerc-ferrari-a10876758-b704-2.jpg",
-      "published_at": "2026-11-22T07:32:07+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a exprimé son embarras après le choc avec Lewis Hamilton à Las Vegas, qui a coûté à Ferrari sept points et deux pénalités de 10 secondes. Le duel a éclaté sur la chicane Turns 7–8.",
-      "summary_en": "Charles Leclerc admitted embarrassment after a clash with Lewis Hamilton in Las Vegas, costing Ferrari seven points and two 10‑second penalties. The fight erupted on the Turns 7–8 chicane."
-    },
-    {
-      "id": "a1eae298cb68",
-      "title": "“My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle",
-      "title_fr": "Antonelli explique l'erreur qui l'a privé de la victoire à Las Vegas",
-      "title_en": "Antonelli explains mistake that cost him victory at Las Vegas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/my-mistake-was-to-lift-why-antonelli-lost-power-in-las-vegas-gp-victory-battle/10876786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxydY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-22T07:27:37+00:00",
-      "race_id": "lasvegas",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a détaillé la décision qui l'a fait perdre la victoire au Grand Prix de Las Vegas. Après un changement de moteur et un choix de pneus médiums, il a perdu deux places dès le départ.",
-      "summary_en": "Kimi Antonelli explained the decision that cost him the Las Vegas GP win. After an engine change penalty and choosing medium tires, he lost two positions from the start."
-    },
-    {
-      "id": "18787046d958",
-      "title": "“Karma is a b****”: Russell’s mistake in Las Vegas GP delights Verstappen | Formula 1",
-      "title_fr": "Russell se fait piquer par Verstappen à Las Vegas",
-      "title_en": "Russell's mistake delights Verstappen at Las Vegas GP",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/karma-is-a-b-russells-mistake-in-las-vegas-gp-delights-verstappen/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-07-06-24-1-SI202611220052.jpg",
-      "published_at": "2026-11-22T07:25:24+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lors du Grand Prix de Las Vegas, George Russell a fait une erreur qui a ravivé la fierté de Max Verstappen, qui l'avait déjà critiqué. Le pilote Red Bull a profité de la situation pour souligner son supériorité.",
-      "summary_en": "During the Las Vegas Grand Prix, George Russell made a mistake that pleased Max Verstappen, who had already criticized him. The Red Bull driver used the moment to underline his superiority."
-    },
-    {
-      "id": "59434008dbc9",
-      "title": "Max Verstappen lashes out at George Russell: \"He's so far below my level\"",
-      "title_fr": "Verstappen critique Russell : « Il est loin de mon niveau »",
-      "title_en": "Verstappen slams Russell: 'He's far below my level'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-lashes-out-at-george-russell-hes-so-far-below-my-level/10876780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKA3mxY/s6/max-verstappen-red-bull-racing-a10876780-b707-2.jpg",
-      "published_at": "2026-11-22T07:24:02+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a critiqué George Russell après le Grand Prix de Las Vegas, le qualifiant de « loin de mon niveau ». Le pilote Mercedes a quitté la course après un accident.",
-      "summary_en": "Max Verstappen slammed George Russell after the Las Vegas Grand Prix, calling him 'far below my level'. The Mercedes driver retired after an accident."
-    },
-    {
-      "id": "583868c2d9d9",
-      "title": "“My mistake was to lift” – Why Kimi Antonelli lost power in Las Vegas F1 victory battle",
-      "title_fr": "Kimi Antonelli explique l'erreur qui l'a privé de la victoire à Las Vegas",
-      "title_en": "Kimi Antonelli explains the mistake that cost him victory at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/my-mistake-was-to-lift-why-kimi-antonelli-lost-power-in-las-vegas-f1-victory-battle/10876764/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxydY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-22T07:21:34+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli a expliqué la décision qui l'a privé de la victoire à Las Vegas. Le pilote, plus rapide en qualification, a perdu deux places dès la première tour à cause d'un choix de pneus.",
-      "summary_en": "Kimi Antonelli explained the decision that cost him the win at Las Vegas. The driver, fastest in qualifying, lost two positions on the first lap due to a tire choice."
-    },
-    {
-      "id": "6072f41630b4",
-      "title": "Kimi Antonelli explains mistake that left him “smoked by the two McLarens” in Vegas",
-      "title_fr": "Kimi Antonelli explains mistake that left him “smoked by the two McLarens” in Vegas",
-      "title_en": "Kimi Antonelli explains mistake that left him “smoked by the two McLarens” in Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/antonelli-explains-the-mistake-that-left-him-smoked-by-the-two-mclarens-in-las-vegas/10876732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZAOL2/s6/andrea-kimi-antonelli-mercedes-a10876732-b705-2.jpg",
-      "published_at": "2026-11-22T07:11:39+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Kimi Antonelli looked primed to cap a charge from sixth on the grid with a dramatic last-lap victory at the 2026 Las Vegas Grand Prix. Instead, one split-second pedal adjustment drained his battery dr",
-      "summary_en": "Kimi Antonelli looked primed to cap a charge from sixth on the grid with a dramatic last-lap victory at the 2026 Las Vegas Grand Prix. Instead, one split-second pedal adjustment drained his battery dr"
-    },
-    {
-      "id": "f5e4da213acc",
-      "title": "“I thought I was doing something right”: Why power loss ended Antonelli’s win hopes | Formula 1",
-      "title_fr": "Antonelli déclare : \"Je pensais bien faire\" après perte de puissance à Las Vegas",
-      "title_en": "Antonelli says \"I thought I was doing something right\" after power loss in Las Vegas",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/i-thought-i-was-doing-something-right-why-power-loss-ended-antonellis-win-hopes/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-20-20-03-24-4-22-friday-lasvegas-2026.jpg",
-      "published_at": "2026-11-22T07:06:44+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Andrea Kimi Antonelli a expliqué la perte de puissance soudaine qui a mis fin à ses chances de victoire lors du Grand Prix de Las Vegas.",
-      "summary_en": "Andrea Kimi Antonelli explained the sudden power loss that ended his chances of fighting for victory at the Las Vegas Grand Prix."
-    },
-    {
-      "id": "2b3c37d9b1b0",
-      "title": "Leclerc’s collision with Hamilton was “completely unacceptable”, fumes Vasseur | Formula 1",
-      "title_fr": "Collision entre Leclerc et Hamilton à Las Vegas jugée inacceptable par Vasseur",
-      "title_en": "Vasseur deems Leclerc-Hamilton collision at Las Vegas 'completely unacceptable'",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/leclercs-collision-with-hamilton-was-completely-unacceptable-fumes-vasseur/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-01-52-10-1-261121_R21_LAS_VEGAS_DP_VA1_3528.jpg",
-      "published_at": "2026-11-22T06:50:28+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": true,
-      "summary_fr": "Le directeur de Ferrari, Frédéric Vasseur, a qualifié de totalement inacceptable la collision entre Charles Leclerc et Lewis Hamilton lors du Grand Prix de Las Vegas. Il a exprimé son mécontentement et appelé à une enquête.",
-      "summary_en": "Ferrari team principal Frédéric Vasseur called the collision between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix 'completely unacceptable'. He expressed his frustration and urged an investigation."
     }
   ]
 }
