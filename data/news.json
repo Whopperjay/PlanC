@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-23T13:22:28Z",
+  "last_updated": "2026-11-23T16:24:59Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6138a1035706",
+      "title": "F1 2027 grid: Who will be racing and where?",
+      "title_fr": "Grille 2027 : qui sera sur la piste ?",
+      "title_en": "2027 F1 grid: who will race and where?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7ZeD4Y/s6/oscar-piastri-mclaren-2.jpg",
+      "published_at": "2026-11-23T16:09:34+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "La grille 2027 de la Formule 1 est désormais définie, à l’exception d’une place. Seule Haas change de pilote, tandis que les autres équipes ont confirmé leurs lignes.",
+      "summary_en": "The 2027 F1 grid is now set, except for one spot. Only Haas is changing drivers, while the rest of the teams have confirmed their line‑ups."
+    },
+    {
+      "id": "052ee6e9226d",
+      "title": "F1 Qatar GP 2026: start time, schedule and how to watch",
+      "title_fr": "Qatar GP 2026 : horaire, programme et diffusion",
+      "title_en": "Qatar GP 2026: start time, schedule and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-start-time-schedule-how-to-watch/10877085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AEWkpk6/s6/george-russell-mercedes-f1-w15-2.jpg",
+      "published_at": "2026-11-23T16:06:30+00:00",
+      "race_id": "qatar",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix du Qatar 2026 débute à 8h PT (11h ET) le dimanche 29 novembre. Toutes les sessions seront diffusées en direct sur Apple TV, avec un programme complet disponible en ligne.",
+      "summary_en": "The 2026 Qatar Grand Prix starts at 8 a.m. PT (11 a.m. ET) on Sunday, November 29. All sessions will be streamed live on Apple TV, with a full schedule posted online."
+    },
+    {
+      "id": "bfc13eb32f99",
+      "title": "F1 Qatar GP 2026: UK times, schedule and how to watch",
+      "title_fr": "Qatar GP 2026 : horaires UK et comment suivre",
+      "title_en": "Qatar GP 2026: UK times and how to watch",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-uk-times-schedule-how-to-watch/10877083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmdQDN0/s6/lando-norris-mclaren-2.jpg",
+      "published_at": "2026-11-23T16:00:27+00:00",
+      "race_id": "qatar",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix du Qatar 2026 débute à 16h00 GMT le dimanche 29 novembre. Toutes les sessions seront diffusées en direct sur Sky Sports F1, avec un calendrier complet disponible en ligne.",
+      "summary_en": "The 2026 Qatar Grand Prix starts at 4pm GMT on Sunday 29 November. All sessions will be streamed live on Sky Sports F1, with the full UK schedule posted online."
+    },
+    {
+      "id": "f0c9c1b14b1e",
+      "title": "F1 2027 grid: Who will be racing and where?",
+      "title_fr": "Grille 2027 : qui sera sur la piste ?",
+      "title_en": "2027 F1 grid: who will race and where?",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": "2026-11-23T15:46:47+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "La grille 2027 de la Formule 1 est presque définie, à l'exception d'un seul poste. Haas change de pilote, les autres équipes ont confirmé leurs choix.",
+      "summary_en": "The 2027 F1 grid is almost set, with only one seat still open. Haas is swapping drivers, while all other teams have confirmed their line‑ups."
+    },
+    {
+      "id": "7f3aae57ae13",
+      "title": "Lewis Hamilton: Ferrari’s top-speed deficit was “brutal” at F1 Las Vegas GP",
+      "title_fr": "Hamilton critique le déficit de vitesse de la Ferrari à Las Vegas",
+      "title_en": "Hamilton criticises Ferrari's speed deficit at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferraris-top-speed-deficit-was-brutal-at-f1-las-vegas-gp/10876908/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyK51VY/s6/lewis-hamilton-ferrari.jpg",
+      "published_at": "2026-11-23T14:03:33+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a dénoncé le déficit de vitesse brutal de la SF-26 sur les longues lignes de Las Vegas, après avoir été éliminé en Q2 et terminé septième, tandis que Charles Leclerc a terminé dixième après pénalité.",
+      "summary_en": "Lewis Hamilton slammed Ferrari's brutal speed deficit on Las Vegas' long straights after being eliminated in Q2 and finishing seventh, while Charles Leclerc ended tenth following a penalty."
+    },
+    {
+      "id": "8fae7aa529b4",
+      "title": "Was the Las Vegas GP best race of the year - or too fake?",
+      "title_fr": "Le Grand Prix de Las Vegas : la meilleure course de l'année ou trop artificielle ?",
+      "title_en": "Las Vegas GP: best race of the year or too fake?",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg",
+      "published_at": "2026-11-23T13:44:36+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le Grand Prix de Las Vegas a divisé les fans, certains louant les multiples dépassements, d'autres critiquant son aspect artificiel. Max Verstappen a dû repousser plusieurs pilotes, dont George Russell, Kimi Antonelli et Lando Norris.",
+      "summary_en": "The Las Vegas GP split fans, with some praising the many overtakes while others criticized its artificial feel. Max Verstappen had to fend off several drivers, including George Russell, Kimi Antonelli and Lando Norris."
+    },
     {
       "id": "f1271b80a70c",
       "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Arvid Lindblad, déçu, ne comprend pas comment il a perdu le contrôle pendant la période de voiture de sécurité du Grand Prix de Las Vegas. Le pilote a exprimé son étonnement sur la façon dont l'incident s'est produit.",
       "summary_en": "Arvid Lindblad, disappointed, says he cannot understand how he spun out during the Safety Car period at the Las Vegas Grand Prix. The driver expressed surprise at how the incident unfolded."
-    },
-    {
-      "id": "8cd6dd0c0148",
-      "title": "Hadjar penalised after backing up Russell in Las Vegas GP, Perez given grid drop for Qatar GP",
-      "title_fr": "Hadjar pénalisé après avoir ralenti Russell à Las Vegas",
-      "title_en": "Hadjar penalised after backing up Russell in Las Vegas GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8Zy8v2/s6/george-russell-mercedes-pierre-2.jpg",
-      "published_at": "2026-11-22T09:11:46+00:00",
-      "race_id": "lasvegas",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a reçu une pénalité de 10 secondes pour avoir ralenti inutilement sous la voiture de sécurité à Las Vegas. Sergio Perez a également vu sa grille réduite pour le Qatar.",
-      "summary_en": "Isack Hadjar was handed a 10‑second penalty for driving unnecessarily slowly under the safety car at Las Vegas. Sergio Perez also received a grid drop for the Qatar GP."
-    },
-    {
-      "id": "7cdcff40ed41",
-      "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-      "title_fr": "Collision Hamilton-Leclerc à Las Vegas jugée inacceptable par le directeur Ferrari",
-      "title_en": "Ferrari boss deems Hamilton-Leclerc collision in Las Vegas unacceptable",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd5/live/5dd75760-e64d-11f1-a563-e14cd8b02601.jpg",
-      "published_at": "2026-11-22T09:07:15+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Ferrari a qualifié la collision entre Lewis Hamilton et Charles Leclerc à Las Vegas d'inacceptable, soulignant la nécessité d'une conduite plus propre sur la piste.",
-      "summary_en": "Ferrari's chief called the Hamilton-Leclerc collision at Las Vegas unacceptable, stressing the need for cleaner racing on track."
-    },
-    {
-      "id": "1631e45c6d98",
-      "title": "Isack Hadjar gets penalty after backing up George Russell in Las Vegas GP",
-      "title_fr": "Hadjar pénalisé après avoir ralenti Russell à Las Vegas",
-      "title_en": "Hadjar penalised for backing up Russell in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-gets-penalty-after-backing-up-george-russell-in-las-vegas-gp/10876855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27No8MO0/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-11-22T08:59:53+00:00",
-      "race_id": "lasvegas",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a reçu une pénalité de 10 secondes pour avoir roulé trop lentement sous la voiture de sécurité à Las Vegas, après avoir ralenti George Russell. La décision a été prise après la collision de Perez et Camara.",
-      "summary_en": "Isack Hadjar received a 10‑second penalty for driving too slowly under the safety car at the Las Vegas Grand Prix, after backing up George Russell. The decision followed the Perez‑Camara collision."
-    },
-    {
-      "id": "38212eeafa2d",
-      "title": "Vasseur furious with \"unprofessional\" Ferrari clash and demands fresh talks after Las Vegas GP",
-      "title_fr": "Vasseur furieux après l'affrontement à Las Vegas",
-      "title_en": "Vasseur furious after Las Vegas clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/vasseur-furious-with-unprofessional-ferrari-clash-and-demands-fresh-talks-after-las-vegas-gp/10876847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-22T08:40:17+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Ferrari, Fred Vasseur, dénonce l'interaction de Charles Leclerc avec Lewis Hamilton à Las Vegas comme inacceptable et exige de nouvelles discussions, trois semaines après la dispute au Mexique.",
-      "summary_en": "Ferrari boss Fred Vasseur calls Charles Leclerc's contact with Lewis Hamilton at Las Vegas \"unacceptable\" and demands fresh talks, three weeks after the Mexico spat."
-    },
-    {
-      "id": "17e5e5755be4",
-      "title": "Fred Vasseur furious with latest \"unprofessional\" Ferrari clash: \"It's the same speech as Mexico\"",
-      "title_fr": "Vasseur en colère après l'incident de Las Vegas",
-      "title_en": "Vasseur furious after Las Vegas incident",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-furious-with-latest-unprofessional-ferrari-spat-its-the-same-speech-as-mexico/10876841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8Zy7v2/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-22T08:38:22+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fred Vasseur a qualifié le contact de Charles Leclerc avec Lewis Hamilton à Las Vegas d'« inacceptable » et a dénoncé un manque de respect envers l'équipe. Il prévoit de nouvelles discussions après la dispute mexicaine.",
-      "summary_en": "Fred Vasseur called Charles Leclerc's contact with Lewis Hamilton at Las Vegas 'unacceptable' and accused the team of disrespect. He plans further talks after the Mexico spat."
-    },
-    {
-      "id": "9b9df878cf56",
-      "title": "Lewis Hamilton: With No. 1 driver backing, we could have beaten Kimi Antonelli to F1 title",
-      "title_fr": "Hamilton: sans le soutien de Ferrari, j'aurais battu Antonelli",
-      "title_en": "Hamilton: Without Ferrari's backing, I could have beaten Antonelli",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-with-no-1-driver-backing-we-could-have-beaten-kimi-antonelli-to-f1-title/10876826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4yL0/s6/lewis-hamilton-ferrari-a10876826-b704-2.jpg",
-      "published_at": "2026-11-22T08:20:05+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le septuple champion Lewis Hamilton affirme qu'il aurait pu battre Kimi Antonelli en saison, s'il avait reçu plus de soutien de Ferrari. Il a évoqué son clash avec Charles Leclerc lors du Grand Prix de Las Vegas.",
-      "summary_en": "Seven-time champion Lewis Hamilton says he could have beaten Kimi Antonelli earlier in the season if he had received more support from Ferrari. He cited his clash with Charles Leclerc at the Las Vegas Grand Prix."
     }
   ]
 }
