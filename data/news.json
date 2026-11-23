@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-23T19:27:02Z",
+  "last_updated": "2026-11-23T22:29:01Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d1b3e6c9b1b4",
+      "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
+      "title_fr": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
+      "title_en": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877295-b707-2.jpg",
+      "published_at": "2026-11-23T20:00:03+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart.<br />The Red Bull driver converted pole position into his",
+      "summary_en": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart.<br />The Red Bull driver converted pole position into his"
+    },
+    {
+      "id": "44391c17d6db",
+      "title": "Laurent Mekies: Keeping his emotions in check is giving Isack Hadjar “lap time”",
+      "title_fr": "Mekies : garder ses émotions sous contrôle donne à Hadjar un temps de tour",
+      "title_en": "Mekies: Keeping his emotions in check gives Hadjar a lap time",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10877211-b707-2.jpg",
+      "published_at": "2026-11-23T19:30:02+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a quitté le Grand Prix de Las Vegas sans victoire après une défaillance de l’aile avant et une pénalité de 10 secondes. Laurent Mekies, pourtant, voit en lui un potentiel prometteur.",
+      "summary_en": "Isack Hadjar left the Las Vegas Grand Prix without a podium after a front‑wing failure and a 10‑second safety‑car penalty. Team principal Laurent Mekies, however, sees promising potential in the 22‑year‑old."
+    },
     {
       "id": "5e7120dccbbe",
       "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
@@ -134,6 +172,44 @@
       "is_breaking": false,
       "summary_fr": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.<br />The 2025 ch",
       "summary_en": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.<br />The 2025 ch"
+    },
+    {
+      "id": "3ae54cc13236",
+      "title": "Russell says he’d worked out how to beat Verstappen to the finishing line | Formula 1",
+      "title_fr": "Russell says he’d worked out how to beat Verstappen to the finishing line | Formula 1",
+      "title_en": "Russell says he’d worked out how to beat Verstappen to the finishing line | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/23/russell-says-hed-worked-out-how-to-beat-verstappen-to-the-finishing-line/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-13-16-02-2-M656852_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-11-23T17:02:40+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell says he'd found a better energy deployment strategy to beat Max Verstappen to the finishing than his team mate.",
+      "summary_en": "George Russell says he'd found a better energy deployment strategy to beat Max Verstappen to the finishing than his team mate."
+    },
+    {
+      "id": "f1ff452cf2e8",
+      "title": "Stewards right to blame Leclerc for collision with Hamilton, says Vasseur | Formula 1",
+      "title_fr": "Les commissaires blâment Leclerc pour collision avec Hamilton",
+      "title_en": "Stewards blame Leclerc for collision with Hamilton",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/23/stewards-right-to-blame-leclerc-for-collision-with-hamilton-says-vasseur/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-23-15-14-26-1-5-saturday-lasvegas-2026.jpg",
+      "published_at": "2026-11-23T16:20:11+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de Ferrari, Frédéric Vasseur, a déclaré que les commissaires avaient donné un message à Charles Leclerc cinq tours avant sa collision avec Lewis Hamilton.",
+      "summary_en": "Ferrari team principal Frédéric Vasseur said the stewards had sent a message to Charles Leclerc five corners before his collision with Lewis Hamilton."
     },
     {
       "id": "6138a1035706",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Les ingenieurs de Formule 1 utilisent les donnees des unites de puissance pour anticiper les depassements. A Las Vegas, cette technologie a permis de repere les moments cles où les pilotes ont franchi la ligne darrivee.",
       "summary_en": "F1 engineers use power unit data to anticipate overtakes. In Las Vegas, this tech helped spot the key moments when drivers passed."
-    },
-    {
-      "id": "15e0ff86971a",
-      "title": "2026 Las Vegas Grand Prix interactive data: lap charts, times and tyres | 2026 Las Vegas Grand Prix interactive data",
-      "title_fr": "Las Vegas 2026 : un Grand Prix à la yo-yo",
-      "title_en": "Las Vegas 2026: A Yo-Yo Grand Prix",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-interactive-data-lap-charts-times-and-tyres/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/2026-las-vegas.jpg",
-      "published_at": "2026-11-22T14:45:58+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Las Vegas 2026 a offert des conditions idéales pour la course yo-yo, avec les pilotes qui se dépassaient deux fois ou plus par tour.",
-      "summary_en": "The 2026 Las Vegas Grand Prix delivered perfect yo‑yo racing conditions, with drivers swapping places twice or more per lap."
-    },
-    {
-      "id": "ba71ef05e84b",
-      "title": "“Some overtakes weren’t overtakes”: Norris queries claim of ‘352 passes’ in Las Vegas | Formula 1",
-      "title_fr": "Norris remet en cause les 352 dépassements de Las Vegas",
-      "title_en": "Norris questions 352 overtakes claim at Las Vegas",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/some-overtakes-werent-overtakes-norris-queries-claim-of-352-passes-in-las-vegas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-20-23-21-2-2306297145.jpg",
-      "published_at": "2026-11-22T12:08:45+00:00",
-      "race_id": "lasvegas",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Lando Norris a contesté le nombre de 352 dépassements annoncés par la Formule 1 lors du Grand Prix de Las Vegas, soulignant que la course semblait moins disputée que les chiffres ne le suggèrent.",
-      "summary_en": "Driver Lando Norris challenged Formula 1's claim of 352 overtakes at the Las Vegas Grand Prix, arguing the race felt less competitive than the numbers suggest."
-    },
-    {
-      "id": "f29dc5404cca",
-      "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
-      "title_fr": "Verstappen triomphe à Las Vegas, Red Bull impressionné",
-      "title_en": "Verstappen wins in Las Vegas, Red Bull impressed",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YE9ErKKY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-22T11:58:03+00:00",
-      "race_id": "netherlands",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a remporté son quatrième titre en six Grands Prix, en couronnant la victoire à Las Vegas, un circuit pauvre en énergie. Cette performance souligne les progrès de Red Bull dans ces conditions.",
-      "summary_en": "Max Verstappen secured his fourth win in six Grands Prix, taking the victory at Las Vegas, a low-energy circuit. The result highlights Red Bull's progress in such conditions."
-    },
-    {
-      "id": "f39d46ab7ecf",
-      "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
-      "title_fr": "Hamilton blâme Leclerc pour la collision à Las Vegas",
-      "title_en": "Hamilton blames Leclerc for the collision in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-charles-leclercs-frame-of-mind-cost-us-a-lot-of-points-today/10876902/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-22T11:26:45+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a insinué que l'état d'esprit de Charles Leclerc a coûté des points à l'équipe lors de la collision à Las Vegas. Le pilote Aston Martin a été touché par la décision du Monegasque.",
-      "summary_en": "Lewis Hamilton implied that Charles Leclerc’s mindset cost the team points after their collision in Las Vegas. The Aston Martin driver was affected by the Monegasque’s decision."
     }
   ]
 }
