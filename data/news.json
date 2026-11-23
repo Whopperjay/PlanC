@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T01:14:05Z",
+  "last_updated": "2026-11-23T04:16:05Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -554,6 +554,25 @@
       "summary_en": "Kimi Antonelli explained the decision that cost him the Las Vegas GP win. After an engine change penalty and choosing medium tires, he lost two positions from the start."
     },
     {
+      "id": "18787046d958",
+      "title": "“Karma is a b****”: Russell’s mistake in Las Vegas GP delights Verstappen | Formula 1",
+      "title_fr": "Russell se fait piquer par Verstappen à Las Vegas",
+      "title_en": "Russell's mistake delights Verstappen at Las Vegas GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/karma-is-a-b-russells-mistake-in-las-vegas-gp-delights-verstappen/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-07-06-24-1-SI202611220052.jpg",
+      "published_at": "2026-11-22T07:25:24+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lors du Grand Prix de Las Vegas, George Russell a fait une erreur qui a ravivé la fierté de Max Verstappen, qui l'avait déjà critiqué. Le pilote Red Bull a profité de la situation pour souligner son supériorité.",
+      "summary_en": "During the Las Vegas Grand Prix, George Russell made a mistake that pleased Max Verstappen, who had already criticized him. The Red Bull driver used the moment to underline his superiority."
+    },
+    {
       "id": "59434008dbc9",
       "title": "Max Verstappen lashes out at George Russell: \"He's so far below my level\"",
       "title_fr": "Verstappen critique Russell : « Il est loin de mon niveau »",
@@ -611,6 +630,25 @@
       "summary_en": "Kimi Antonelli looked primed to cap a charge from sixth on the grid with a dramatic last-lap victory at the 2026 Las Vegas Grand Prix. Instead, one split-second pedal adjustment drained his battery dr"
     },
     {
+      "id": "f5e4da213acc",
+      "title": "“I thought I was doing something right”: Why power loss ended Antonelli’s win hopes | Formula 1",
+      "title_fr": "Antonelli déclare : \"Je pensais bien faire\" après perte de puissance à Las Vegas",
+      "title_en": "Antonelli says \"I thought I was doing something right\" after power loss in Las Vegas",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/i-thought-i-was-doing-something-right-why-power-loss-ended-antonellis-win-hopes/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-20-20-03-24-4-22-friday-lasvegas-2026.jpg",
+      "published_at": "2026-11-22T07:06:44+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a expliqué la perte de puissance soudaine qui a mis fin à ses chances de victoire lors du Grand Prix de Las Vegas.",
+      "summary_en": "Andrea Kimi Antonelli explained the sudden power loss that ended his chances of fighting for victory at the Las Vegas Grand Prix."
+    },
+    {
       "id": "2b3c37d9b1b0",
       "title": "Leclerc’s collision with Hamilton was “completely unacceptable”, fumes Vasseur | Formula 1",
       "title_fr": "Collision entre Leclerc et Hamilton à Las Vegas jugée inacceptable par Vasseur",
@@ -628,6 +666,25 @@
       "is_breaking": true,
       "summary_fr": "Le directeur de Ferrari, Frédéric Vasseur, a qualifié de totalement inacceptable la collision entre Charles Leclerc et Lewis Hamilton lors du Grand Prix de Las Vegas. Il a exprimé son mécontentement et appelé à une enquête.",
       "summary_en": "Ferrari team principal Frédéric Vasseur called the collision between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix 'completely unacceptable'. He expressed his frustration and urged an investigation."
+    },
+    {
+      "id": "30f598c95b45",
+      "title": "“This cannot continue”: Vasseur calls latest Leclerc-Hamilton incident “unacceptable” | Formula 1",
+      "title_fr": "Vasseur dénonce l'incident Leclerc-Hamilton à Las Vegas",
+      "title_en": "Vasseur calls Leclerc-Hamilton incident at Las Vegas 'unacceptable'",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/22/cannot-continue-vasseur-calls-latest-leclerc-hamilton-collision-unacceptable/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-20-06-01-2-5-saturday-lasvegas-2026.jpg",
+      "published_at": "2026-11-22T06:50:28+00:00",
+      "race_id": "lasvegas",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Le directeur technique de Ferrari, Frédéric Vasseur, a exprimé son mécontentement après la collision entre Charles Leclerc et Lewis Hamilton lors du Grand Prix de Las Vegas. Il qualifie l'incident d'inacceptable.",
+      "summary_en": "Ferrari team principal Frédéric Vasseur expressed his displeasure after the collision between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix, calling the incident unacceptable."
     },
     {
       "id": "b16abc06edd2",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen scored his third grand prix victory of the season in a Las Vegas Grand Prix which was dominated by 'yo-yo' position swaps.",
       "summary_en": "Max Verstappen scored his third grand prix victory of the season in a Las Vegas Grand Prix which was dominated by 'yo-yo' position swaps."
-    },
-    {
-      "id": "470c2c895a35",
-      "title": "Five quick takeaways from Las Vegas GP",
-      "title_fr": "Las Vegas : la course de pack tant attendue",
-      "title_en": "Las Vegas delivers the pack race it craved",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-las-vegas-gp/10876667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vj146/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-22T05:47:45+00:00",
-      "race_id": "lasvegas",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Las Vegas a offert la course de pack tant attendue, avec des dépassements électriques sur la ligne droite du Strip. Le spectacle a rappelé les débuts de la saison 2026.",
-      "summary_en": "Las Vegas delivered the long‑awaited pack race, with electric overtakes on the Strip’s mile‑long straight. The spectacle echoed the early 2026 season’s yo‑yo racing."
-    },
-    {
-      "id": "2ed8d5f4fc94",
-      "title": "F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on",
-      "title_fr": "Verstappen remporte le Grand Prix de Las Vegas",
-      "title_en": "Verstappen wins Las Vegas Grand Prix",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-3.jpg",
-      "published_at": "2026-11-22T05:45:47+00:00",
-      "race_id": "lasvegas",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a remporté le Grand Prix de Las Vegas en gardant la tête sur les deux pilotes de Mercedes, après que la course ait retrouvé son rythme de 'yo-yo' sans qu'aucune Mercedes ne se retrouve sur le podium.",
-      "summary_en": "Max Verstappen took the win at the Las Vegas Grand Prix, holding off both Mercedes drivers as the race returned to its 'yo-yo' rhythm and no Silver Arrow made the podium."
-    },
-    {
-      "id": "284b7e11f968",
-      "title": "F1 Las Vegas GP: Max Verstappen wins thriller as Ferraris come to blows",
-      "title_fr": "Verstappen triomphe à Las Vegas, Ferrari sans podium",
-      "title_en": "Verstappen wins thrilling Las Vegas GP, Ferraris miss podium",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-report/10876675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YvKBePn6/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-22T05:44:11+00:00",
-      "race_id": "lasvegas",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a remporté le Grand Prix de Las Vegas en gardant la tête face aux Mercedes, tandis que les Ferrari n'ont pas atteint le podium. Le pilote red Bull a conservé position de départ après pénalité de Kimi Antonelli",
-      "summary_en": "Max Verstappen won the Las Vegas Grand Prix, holding off the Mercedes while the Ferraris failed to reach the podium. The Red Bull driver kept pole after Kimi Antonelli's five‑place grid penalty"
     }
   ]
 }
