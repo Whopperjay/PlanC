@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-11-23T10:20:06Z",
+  "last_updated": "2026-11-23T13:22:28Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f1271b80a70c",
+      "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
+      "title_fr": "Steiner met en garde Russell : ne pas provoquer Verstappen",
+      "title_en": "Steiner warns Russell not to provoke Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-a10877209-b705-2.jpg",
+      "published_at": "2026-11-23T13:16:00+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Haas, Guenther Steiner, conseille à George Russell de ne pas provoquer Max Verstappen après leurs échanges à Las Vegas.",
+      "summary_en": "Haas chief Guenther Steiner urges Mercedes driver George Russell to avoid provoking Max Verstappen after their clash at the Las Vegas Grand Prix."
+    },
+    {
+      "id": "9196f9f7f539",
+      "title": "Max Verstappen \"would rather stay home\" but trusts F1's safety guarantees for Middle East races",
+      "title_fr": "Verstappen préfère rester chez lui mais fait confiance à la F1 pour le Moyen-Orient",
+      "title_en": "Verstappen prefers staying home but trusts F1 for Middle East races",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-would-rather-stay-home-but-trusts-f1s-safety-guarantees-for-middle-east-races/10876730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7Q8Pv6/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-23T12:47:24+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a déclaré qu'il préférerait rester chez lui, mais il fait confiance aux garanties de sécurité de la F1 pour les deux derniers Grands Prix au Moyen-Orient",
+      "summary_en": "Max Verstappen said he would rather stay home, but he trusts F1's safety guarantees for the final two Middle East Grands Prix"
+    },
+    {
+      "id": "8e1a7b1404df",
+      "title": "Hadjar asked Red Bull to tell Verstappen “stop defending” as they were losing time | Formula 1",
+      "title_fr": "Hadjar demande a Red Bull d'arreter de defendre",
+      "title_en": "Hadjar asks Red Bull to tell Verstappen to stop defending",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/23/hadjar-asked-red-bull-to-tell-verstappen-stop-defending-as-they-were-losing-time/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hadjar-work-as-ateam.jpg",
+      "published_at": "2026-11-23T12:32:39+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar a demandé a Red Bull de dire a Max Verstappen d'arreter de defendre, estimant que cela les faisait perdre du temps.",
+      "summary_en": "Isack Hadjar asked Red Bull to tell Max Verstappen to stop defending, saying it was costing them time."
+    },
+    {
+      "id": "44c173edde27",
+      "title": "Why Ferrari believes written rules won't help manage Charles Leclerc and Lewis Hamilton",
+      "title_fr": "Ferrari estime que les règles écrites ne suffisent pas pour gérer Leclerc et Hamilton",
+      "title_en": "Ferrari says written rules won’t manage Leclerc and Hamilton",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-ferrari-believes-written-rules-wont-help-manage-charles-leclerc-and-lewis-hamilton/10877145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari.jpg",
+      "published_at": "2026-11-23T12:15:49+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a déclaré que les règles écrites ne suffiraient pas pour contrôler Charles Leclerc et Lewis Hamilton, soulignant que les discussions post-course restent similaires à celles de Mexico.",
+      "summary_en": "Ferrari said written rules would not manage Charles Leclerc and Lewis Hamilton, noting that post‑race media talks mirror those in Mexico."
+    },
+    {
+      "id": "dff972520c4a",
+      "title": "Why Ferrari believes written rules won't help manage Leclerc and Hamilton",
+      "title_fr": "Why Ferrari believes written rules won't help manage Leclerc and Hamilton",
+      "title_en": "Why Ferrari believes written rules won't help manage Leclerc and Hamilton",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-ferrari-believes-written-rules-wont-help-manage-leclerc-and-hamilton/10877158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj7MWY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-23T12:15:05+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The post-race media session with Ferrari Formula 1 team boss Frederic Vasseur in Las Vegas was, in several respects, almost a carbon copy of the conversation in Mexico City.<br />On both occasions, th",
+      "summary_en": "The post-race media session with Ferrari Formula 1 team boss Frederic Vasseur in Las Vegas was, in several respects, almost a carbon copy of the conversation in Mexico City.<br />On both occasions, th"
+    },
+    {
+      "id": "c2d77015c2f4",
+      "title": "Who slept best last night: Max Verstappen",
+      "title_fr": "Verstappen reprend le devant à Las Vegas",
+      "title_en": "Verstappen Reclaims the Lead in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Pl0/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-23T11:23:51+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a repris la tête du pack à Las Vegas, avec 17 dépassements sur 35. La majorité de ces changements ont opposé le pilote néerlandais à George Russell.",
+      "summary_en": "Max Verstappen reclaimed the lead in Las Vegas, accounting for 17 of 35 overtakes. Most of the moves were against George Russell."
+    },
+    {
+      "id": "b81e2b0e33e3",
+      "title": "Russell offered to co-operate with Verstappen during Las Vegas Grand Prix | Formula 1",
+      "title_fr": "Russell propose coopération avec Verstappen à Las Vegas",
+      "title_en": "Russell offers cooperation with Verstappen at Las Vegas",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/23/russell-offered-to-co-operate-with-verstappen-during-las-vegas-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/russell-yo-yo.jpg",
+      "published_at": "2026-11-23T10:47:20+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a proposé de coopérer avec Max Verstappen lors du Grand Prix de Las Vegas, une offre inattendue entre concurrents.",
+      "summary_en": "George Russell offered to cooperate with Max Verstappen during the Las Vegas Grand Prix, an unexpected move between rivals."
+    },
     {
       "id": "10148756a062",
       "title": "Herta pulls out of final Formula 2 races in Qatar and Abu Dhabi | Formula 2",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le septuple champion Lewis Hamilton affirme qu'il aurait pu battre Kimi Antonelli en saison, s'il avait reçu plus de soutien de Ferrari. Il a évoqué son clash avec Charles Leclerc lors du Grand Prix de Las Vegas.",
       "summary_en": "Seven-time champion Lewis Hamilton says he could have beaten Kimi Antonelli earlier in the season if he had received more support from Ferrari. He cited his clash with Charles Leclerc at the Las Vegas Grand Prix."
-    },
-    {
-      "id": "f35c69757580",
-      "title": "Hadjar given 10-second penalty for holding up Safety Car queue behind Verstappen | Formula 1",
-      "title_fr": "Hadjar pénalisé de 10 secondes pour bloquer la file de la voiture de sécurité derrière Verstappen",
-      "title_en": "Hadjar given 10‑second penalty for holding up Safety Car queue behind Verstappen",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/hadjar-given-10-second-penalty-for-holding-up-safety-car-queue-behind-verstappen/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-07-20-08-2-SI202611210088.jpg",
-      "published_at": "2026-11-22T08:17:49+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires ont infligé à Isack Hadjar une pénalité de 10 secondes après qu’il ait ralenti d’environ 100 km/h pour bloquer la file de la voiture de sécurité derrière Max Verstappen",
-      "summary_en": "Stewards handed Isack Hadjar a 10‑second penalty after he slowed to about 100 km/h to block the Safety Car queue behind Max Verstappen"
-    },
-    {
-      "id": "5fda1004d5c8",
-      "title": "Isack Hadjar says freak Las Vegas front wing failure is “ruining my fun” after podium run collapses",
-      "title_fr": "Hadjar déçoit à Las Vegas après panne de l’avion arrière",
-      "title_en": "Hadjar disappointed in Las Vegas after front wing failure",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-says-freak-las-vegas-front-wing-failure-is-ruining-my-fun-after-podium-run-collapses/10876797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7ByJA2/s6/isack-hadjar-red-bull-racing-a10876797-b707-2.jpg",
-      "published_at": "2026-11-22T07:57:30+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar, 22 ans, a mené une bataille serrée contre les leaders avant que la panne de l’avion arrière ne l’éloigne du podium. Il déplore que cette défaillance gâche son plaisir.",
-      "summary_en": "Isack Hadjar, 22, fought closely with the front-runners before a front wing failure dropped him off the podium. He says the mishap is ruining his fun."
-    },
-    {
-      "id": "47a3ef037f98",
-      "title": "Max Verstappen’s revenge on George Russell: “Karma is a bitch”",
-      "title_fr": "Verstappen remporte le Grand Prix de Las Vegas en reponse a Russell",
-      "title_en": "Verstappen wins Las Vegas GP in revenge on Russell",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-hes-so-far-below-my-level/10876804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQV1nY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-22T07:57:17+00:00",
-      "race_id": "lasvegas",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a remporte le Grand Prix de Las Vegas, reponse aux commentaires de George Russell. Le pilote red Bull a egalement lance des remarques acerbes apres la course.",
-      "summary_en": "Max Verstappen won the Las Vegas Grand Prix, taking revenge on George Russell's comments. The Red Bull driver also delivered sharp remarks after the race."
-    },
-    {
-      "id": "a98f88c3e826",
-      "title": "Verstappen hits back after Russell criticism: “He’s so far below my level”",
-      "title_fr": "Verstappen riposte à Russell après la critique",
-      "title_en": "Verstappen fires back at Russell after criticism",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-karma-is-a-bitch/10876811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15yEz0/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-22T07:56:20+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a riposté à George Russell après la critique de ce dernier, en remportant le Grand Prix de Las Vegas et en livrant des remarques acerbes.",
-      "summary_en": "Max Verstappen fired back at George Russell after the criticism, winning the Las Vegas Grand Prix and delivering scathing remarks."
-    },
-    {
-      "id": "3a091c7cab7a",
-      "title": "Oscar Piastri rejects need for McLaren warning in Lando Norris fight: \"Don't need to be told\"",
-      "title_fr": "Piastri rejette l’avertissement de McLaren sur la bataille avec Norris",
-      "title_en": "Piastri rejects McLaren warning over Norris clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oscar-piastri-rejects-need-for-mclaren-warning-in-lando-norris-fight-dont-need-to-be-told/10876812/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDBgj0/s6/oscar-piastri-mclaren-lando-no-a10876812-b706-2.jpg",
-      "published_at": "2026-11-22T07:52:55+00:00",
-      "race_id": "australia",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Oscar Piastri, pilote McLaren, a refusé l’avertissement de l’équipe concernant sa confrontation avec Lando Norris lors du Grand Prix de Las Vegas. Il a déclaré qu’il n’avait pas besoin d’être prévenu pour gérer la course.",
-      "summary_en": "McLaren driver Oscar Piastri rejected the team's warning about his clash with Lando Norris at the Las Vegas Grand Prix, insisting he didn't need to be told how to race each other."
-    },
-    {
-      "id": "adfa515706dc",
-      "title": "Charles Leclerc: Ferrari must find fix to 'unacceptable' feud after Lewis Hamilton clash",
-      "title_fr": "Charles Leclerc: Ferrari must find fix to 'unacceptable' feud after Lewis Hamilton clash",
-      "title_en": "Charles Leclerc: Ferrari must find fix to 'unacceptable' feud after Lewis Hamilton clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-ferrari-must-find-fix-to-unacceptable-feud-after-lewis-hamilton-clash/10876782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaDqb2/s6/lewis-hamilton-ferrari-charles-2.jpg",
-      "published_at": "2026-11-22T07:42:01+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc ended the Las Vegas with a 10-second penalty for an avoidable collision with Ferrari team-mate Lewis Hamilton – and a telling-off from team boss Frederic Vasseur ringing in his ears.<b",
-      "summary_en": "Charles Leclerc ended the Las Vegas with a 10-second penalty for an avoidable collision with Ferrari team-mate Lewis Hamilton – and a telling-off from team boss Frederic Vasseur ringing in his ears.<b"
-    },
-    {
-      "id": "0dfaeb07fe84",
-      "title": "Perez handed five-place grid penalty for Qatar Grand Prix for Camara collision | Formula 1",
-      "title_fr": "Perez pénalisé de cinq places pour collision avec Camara",
-      "title_en": "Perez handed five-place grid penalty for collision with Camara",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/perez-handed-five-place-grid-penalty-for-qatar-grand-prix-for-camara-collision/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-07-33-31-2-CadillacF1Team_20771_HiRes.jpg",
-      "published_at": "2026-11-22T07:37:13+00:00",
-      "race_id": "qatar",
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Sergio Perez partira du Qatar avec une pénalité de cinq places après la collision avec Camara. La pénalité affectera son positionnement sur la grille.",
-      "summary_en": "Sergio Perez will start the Qatar GP with a five‑place grid penalty after colliding with Camara. The penalty will push him back on the starting grid."
     }
   ]
 }
