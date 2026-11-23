@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-11-23T16:24:59Z",
+  "last_updated": "2026-11-23T19:27:02Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5e7120dccbbe",
+      "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
+      "title_fr": "Steiner prédit réaction de Ferrari après l'affrontement Hamilton-Leclerc",
+      "title_en": "Steiner predicts Ferrari reaction after Hamilton-Leclerc clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877259-b704-2.jpg",
+      "published_at": "2026-11-23T19:00:03+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Guenther Steiner, ancien directeur de Haas, estime que le conseil d'administration de Ferrari réagira après l'affrontement entre Lewis Hamilton et Charles Leclerc à Las Vegas. Le pilote Leclerc a été pénalisé et terminé dixième.",
+      "summary_en": "Former Haas chief Guenther Steiner says Ferrari will react after Lewis Hamilton and Charles Leclerc clashed again in Las Vegas. Leclerc was penalised and finished tenth."
+    },
+    {
+      "id": "93401f17920d",
+      "title": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
+      "title_fr": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
+      "title_en": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEdzP2/s6/toto-wolff-mercedes-a10877232-b705-2.jpg",
+      "published_at": "2026-11-23T18:10:17+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Even after watching both Mercedes drivers slip off the podium in the final three laps, team principal Toto Wolff left the 2026 Las Vegas Grand Prix thrilled by the spectacle.<br />While critics questi",
+      "summary_en": "Even after watching both Mercedes drivers slip off the podium in the final three laps, team principal Toto Wolff left the 2026 Las Vegas Grand Prix thrilled by the spectacle.<br />While critics questi"
+    },
+    {
+      "id": "27262bdc1314",
+      "title": "Max Verstappen’s deadpan reaction to winning F1’s Overtake of the Month award",
+      "title_fr": "Verstappen reste impassible après l’attribution de la Manœuvre du mois",
+      "title_en": "Verstappen stays stoic after winning Overtake of the Month",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappens-deadpan-reaction-to-winning-f1s-overtake-of-the-month-award/10877217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877217-b707-2.jpg",
+      "published_at": "2026-11-23T17:51:43+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Max Verstappen a reçu la Manœuvre du mois lors du Grand Prix de Las Vegas, mais a réagi avec une impassibilité typique, refusant de faire la fête sur scène",
+      "summary_en": "Max Verstappen received the Overtake of the Month award at the Las Vegas Grand Prix, but stayed stoic on stage, refusing to celebrate in the usual flamboyant fashion"
+    },
+    {
+      "id": "5771767c4023",
+      "title": "Max Verstappen considering 2027 Daytona 24 Hours entry",
+      "title_fr": "Max Verstappen considering 2027 Daytona 24 Hours entry",
+      "title_en": "Max Verstappen considering 2027 Daytona 24 Hours entry",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/max-verstappen-reveals-he-is-considering-2027-daytona-24-hours-entry/10877159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxMwY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-23T17:43:13+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Ahead of the Formula 1 Las Vegas Grand Prix, Max Verstappen first paid a visit to Daytona.<br />The Dutchman said he was primarily there to film content with Red Bull, but the visit also raises the qu",
+      "summary_en": "Ahead of the Formula 1 Las Vegas Grand Prix, Max Verstappen first paid a visit to Daytona.<br />The Dutchman said he was primarily there to film content with Red Bull, but the visit also raises the qu"
+    },
+    {
+      "id": "17c9094c89ff",
+      "title": "Max Verstappen reveals he is considering 2027 Daytona 24 Hours entry",
+      "title_fr": "Verstappen envisage la Daytona 24 Heures 2027",
+      "title_en": "Verstappen eyes 2027 Daytona 24 Hours",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-he-is-considering-2027-daytona-24-hours-entry/10877155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxMwY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-23T17:42:25+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le pilote de Red Bull, Max Verstappen, a déclaré qu'il envisage de participer aux 24 Heures de Daytona 2027 après une visite à Daytona avant le Grand Prix de Las Vegas. Il a filmé du contenu pour la marque.",
+      "summary_en": "Red Bull driver Max Verstappen said he is considering a 2027 entry to the Daytona 24 Hours after visiting Daytona before the Las Vegas Grand Prix. He filmed content for the team."
+    },
+    {
+      "id": "1d5a95fa4558",
+      "title": "Andrea Stella warns against knee-jerk reaction as Las Vegas reshapes 2030 debate",
+      "title_fr": "Stella met en garde contre les réactions précipitées après Las Vegas",
+      "title_en": "Stella warns against knee-jerk reactions after Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BZwO2/s6/andrea-stella-mclaren-a10877202-b706-2.jpg",
+      "published_at": "2026-11-23T17:38:42+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Après la course de Las Vegas, Andrea Stella appelle à la prudence face aux jugements hâtifs sur la réforme des moteurs 2030. Il souligne que la décision de la FIA, adoptée en un jour, mérite une analyse approfondie.",
+      "summary_en": "After Las Vegas, Andrea Stella urges caution against hasty judgments on the 2030 engine overhaul. He stresses that the FIA’s one‑day decision deserves a thorough analysis."
+    },
+    {
+      "id": "01ec5ad80247",
+      "title": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
+      "title_fr": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
+      "title_en": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15z410/s6/lando-norris-mclaren-a10877274-b706-2.jpg",
+      "published_at": "2026-11-23T17:04:03+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.<br />The 2025 ch",
+      "summary_en": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.<br />The 2025 ch"
+    },
     {
       "id": "6138a1035706",
       "title": "F1 2027 grid: Who will be racing and where?",
@@ -628,139 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton a insinué que l'état d'esprit de Charles Leclerc a coûté des points à l'équipe lors de la collision à Las Vegas. Le pilote Aston Martin a été touché par la décision du Monegasque.",
       "summary_en": "Lewis Hamilton implied that Charles Leclerc’s mindset cost the team points after their collision in Las Vegas. The Aston Martin driver was affected by the Monegasque’s decision."
-    },
-    {
-      "id": "b1e1513d09d3",
-      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
-      "title_fr": "Verstappen critique Russell : « il est loin de mon niveau »",
-      "title_en": "Verstappen slams Russell, saying he's far below his level",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
-      "published_at": "2026-11-22T11:07:32+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a déclaré que George Russell est bien en dessous de son niveau, soulignant son mécontentement lors du Grand Prix de Las Vegas",
-      "summary_en": "Max Verstappen said George Russell is far below his level, expressing frustration during the Las Vegas Grand Prix"
-    },
-    {
-      "id": "c300b8ea955b",
-      "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
-      "title_fr": "Les vainqueurs et perdants du Grand Prix de Las Vegas",
-      "title_en": "Winners and losers of the Las Vegas Grand Prix",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-chaotically-extraordinary-las-vegas/10876889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBeKY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-22T10:34:15+00:00",
-      "race_id": "lasvegas",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Las Vegas a vu 35 changements de tête, les trois premiers se livrant à une bataille acharnée jusqu'au dernier tour.",
-      "summary_en": "The Las Vegas Grand Prix featured 35 lead changes, with the top three battling fiercely until the final lap."
-    },
-    {
-      "id": "1e2be6aa68b1",
-      "title": "F1: Chequered Flag",
-      "title_fr": "F1: Chequered Flag",
-      "title_en": "F1: Chequered Flag",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sounds/play/m003506s?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
-      "published_at": "2026-11-22T10:23:00+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "An extraordinary race, Verstappen’s response to Russell, plus another Ferrari collision.",
-      "summary_en": "An extraordinary race, Verstappen’s response to Russell, plus another Ferrari collision."
-    },
-    {
-      "id": "5db5f9aa8412",
-      "title": "Max Verstappen continues George Russell fallout, labels his 2026 F1 season a \"complete disaster\"",
-      "title_fr": "Verstappen dénonce Russell, qualifie sa saison 2026 de désastre",
-      "title_en": "Verstappen slams Russell, calls 2026 season a disaster",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-calls-george-russells-2026-f1-season-a-complete-disaster-after-vegas-clash/10876885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQkWGY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-22T10:13:23+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a qualifié la saison 2026 de George Russell de \"désastre complet\" après l’incident à Las Vegas. Le pilote Red Bull a exprimé son mécontentement face à Russell.",
-      "summary_en": "Max Verstappen called George Russell’s 2026 season a “complete disaster” after the Las Vegas incident. The Red Bull driver voiced his frustration with Russell."
-    },
-    {
-      "id": "b9ef03a8470e",
-      "title": "Video: Pass for win and crash decides action-packed Macau Grand Prix | Brief",
-      "title_fr": "Crash décisif à Macau",
-      "title_en": "Crash decides Macau Grand Prix",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/video-pass-for-win-and-crash-decides-action-packed-macau-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/macau-gp-2026.jpg",
-      "published_at": "2026-11-22T09:56:11+00:00",
-      "race_id": null,
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Un crash lors d'une bataille pour le titre a mis fin à la course du Grand Prix de Macau, laissant les pilotes en suspens. L'accident a bouleversé la course et a changé le classement final.",
-      "summary_en": "A crash during a battle for the lead ended the Macau Grand Prix, reshaping the final standings. The incident disrupted the race and left drivers in suspense."
-    },
-    {
-      "id": "6f8bb56af39d",
-      "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
-      "title_fr": "Verstappen brille, Russell fait erreur - notes des pilotes",
-      "title_en": "Verstappen shines, Russell errs – driver ratings",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e6/live/ced7c200-e64e-11f1-99a1-253766e7ad8b.png",
-      "published_at": "2026-11-22T09:35:05+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Harry Benjamin a évalué les performances de Verstappen et Russell lors du Grand Prix de Las Vegas. Verstappen a démontré une maîtrise exceptionnelle, tandis que Russell a commis une erreur coûteuse.",
-      "summary_en": "Harry Benjamin rated Verstappen and Russell during the Las Vegas Grand Prix weekend. Verstappen showcased superb racecraft, while Russell made a costly mistake."
-    },
-    {
-      "id": "703852ea45db",
-      "title": "Lindblad “still struggling to understand” how he spun out behind Safety Car | Formula 1",
-      "title_fr": "Lindblad perplexe après sa sortie de la voiture de sécurité",
-      "title_en": "Lindblad perplexed after spinning out behind Safety Car",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/lindblad-still-struggling-to-understand-how-he-spun-out-behind-safety-car/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-09-04-07-4-SI202611220129.jpg",
-      "published_at": "2026-11-22T09:13:41+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Arvid Lindblad, déçu, ne comprend pas comment il a perdu le contrôle pendant la période de voiture de sécurité du Grand Prix de Las Vegas. Le pilote a exprimé son étonnement sur la façon dont l'incident s'est produit.",
-      "summary_en": "Arvid Lindblad, disappointed, says he cannot understand how he spun out during the Safety Car period at the Las Vegas Grand Prix. The driver expressed surprise at how the incident unfolded."
     }
   ]
 }
