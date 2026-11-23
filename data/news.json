@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T04:16:05Z",
+  "last_updated": "2026-11-23T07:18:06Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
     {
@@ -39,6 +39,25 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 prévoit de limiter les fournisseurs de moteurs à deux par constructeur en 2030, ce qui remet en cause les trois équipes clientes de Mercedes. La FIA a approuvé la nouvelle réglementation.",
       "summary_en": "F1 plans to limit power‑unit suppliers to two per manufacturer in 2030, putting Mercedes’ three customer teams in doubt. The FIA has approved the new regulations."
+    },
+    {
+      "id": "c76b4acc8e54",
+      "title": "Camara to continue with Haas for final two races",
+      "title_fr": "Camara reste chez Haas pour les deux derniers Grands Prix",
+      "title_en": "Camara stays with Haas for final two races",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwe9k29y7z44o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95c/live/39cf8220-e6ac-11f1-b45e-bf1e220bd648.jpg",
+      "published_at": "2026-11-22T19:51:49+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le pilote brésilien Rafael Camara prolongera son contrat avec Haas pour les deux derniers Grands Prix de la saison de Formule 1.",
+      "summary_en": "Brazilian driver Rafael Camara will extend his contract with Haas for the final two Formula 1 Grands Prix of the season."
     },
     {
       "id": "ea6eaec9d2e1",
@@ -212,6 +231,25 @@
       "summary_en": "Lewis Hamilton implied that Charles Leclerc’s mindset cost the team points after their collision in Las Vegas. The Aston Martin driver was affected by the Monegasque’s decision."
     },
     {
+      "id": "b1e1513d09d3",
+      "title": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
+      "title_fr": "Verstappen critique Russell : « il est loin de mon niveau »",
+      "title_en": "Verstappen slams Russell, saying he's far below his level",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3n0l5p5x5x5o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9777/live/1f62a250-e661-11f1-8ebd-1d2173202734.jpg",
+      "published_at": "2026-11-22T11:07:32+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen a déclaré que George Russell est bien en dessous de son niveau, soulignant son mécontentement lors du Grand Prix de Las Vegas",
+      "summary_en": "Max Verstappen said George Russell is far below his level, expressing frustration during the Las Vegas Grand Prix"
+    },
+    {
       "id": "c300b8ea955b",
       "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
       "title_fr": "Les vainqueurs et perdants du Grand Prix de Las Vegas",
@@ -229,6 +267,25 @@
       "is_breaking": false,
       "summary_fr": "Le Grand Prix de Las Vegas a vu 35 changements de tête, les trois premiers se livrant à une bataille acharnée jusqu'au dernier tour.",
       "summary_en": "The Las Vegas Grand Prix featured 35 lead changes, with the top three battling fiercely until the final lap."
+    },
+    {
+      "id": "1e2be6aa68b1",
+      "title": "F1: Chequered Flag",
+      "title_fr": "F1: Chequered Flag",
+      "title_en": "F1: Chequered Flag",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sounds/play/m003506s?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0n5q1dv.jpg",
+      "published_at": "2026-11-22T10:23:00+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "An extraordinary race, Verstappen’s response to Russell, plus another Ferrari collision.",
+      "summary_en": "An extraordinary race, Verstappen’s response to Russell, plus another Ferrari collision."
     },
     {
       "id": "5db5f9aa8412",
@@ -269,6 +326,25 @@
       "summary_en": "A crash during a battle for the lead ended the Macau Grand Prix, reshaping the final standings. The incident disrupted the race and left drivers in suspense."
     },
     {
+      "id": "6f8bb56af39d",
+      "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
+      "title_fr": "Verstappen brille, Russell fait erreur - notes des pilotes",
+      "title_en": "Verstappen shines, Russell errs – driver ratings",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e6/live/ced7c200-e64e-11f1-99a1-253766e7ad8b.png",
+      "published_at": "2026-11-22T09:35:05+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Harry Benjamin a évalué les performances de Verstappen et Russell lors du Grand Prix de Las Vegas. Verstappen a démontré une maîtrise exceptionnelle, tandis que Russell a commis une erreur coûteuse.",
+      "summary_en": "Harry Benjamin rated Verstappen and Russell during the Las Vegas Grand Prix weekend. Verstappen showcased superb racecraft, while Russell made a costly mistake."
+    },
+    {
       "id": "703852ea45db",
       "title": "Lindblad “still struggling to understand” how he spun out behind Safety Car | Formula 1",
       "title_fr": "Lindblad perplexe après sa sortie de la voiture de sécurité",
@@ -305,6 +381,25 @@
       "is_breaking": false,
       "summary_fr": "Isack Hadjar a reçu une pénalité de 10 secondes pour avoir ralenti inutilement sous la voiture de sécurité à Las Vegas. Sergio Perez a également vu sa grille réduite pour le Qatar.",
       "summary_en": "Isack Hadjar was handed a 10‑second penalty for driving unnecessarily slowly under the safety car at Las Vegas. Sergio Perez also received a grid drop for the Qatar GP."
+    },
+    {
+      "id": "7cdcff40ed41",
+      "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+      "title_fr": "Collision Hamilton-Leclerc à Las Vegas jugée inacceptable par le directeur Ferrari",
+      "title_en": "Ferrari boss deems Hamilton-Leclerc collision in Las Vegas unacceptable",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd5/live/5dd75760-e64d-11f1-a563-e14cd8b02601.jpg",
+      "published_at": "2026-11-22T09:07:15+00:00",
+      "race_id": "lasvegas",
+      "category": "accident",
+      "tags": [
+        "accident"
+      ],
+      "importance": 90,
+      "is_breaking": false,
+      "summary_fr": "Le directeur de Ferrari a qualifié la collision entre Lewis Hamilton et Charles Leclerc à Las Vegas d'inacceptable, soulignant la nécessité d'une conduite plus propre sur la piste.",
+      "summary_en": "Ferrari's chief called the Hamilton-Leclerc collision at Las Vegas unacceptable, stressing the need for cleaner racing on track."
     },
     {
       "id": "1631e45c6d98",
@@ -666,101 +761,6 @@
       "is_breaking": true,
       "summary_fr": "Le directeur de Ferrari, Frédéric Vasseur, a qualifié de totalement inacceptable la collision entre Charles Leclerc et Lewis Hamilton lors du Grand Prix de Las Vegas. Il a exprimé son mécontentement et appelé à une enquête.",
       "summary_en": "Ferrari team principal Frédéric Vasseur called the collision between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix 'completely unacceptable'. He expressed his frustration and urged an investigation."
-    },
-    {
-      "id": "30f598c95b45",
-      "title": "“This cannot continue”: Vasseur calls latest Leclerc-Hamilton incident “unacceptable” | Formula 1",
-      "title_fr": "Vasseur dénonce l'incident Leclerc-Hamilton à Las Vegas",
-      "title_en": "Vasseur calls Leclerc-Hamilton incident at Las Vegas 'unacceptable'",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/cannot-continue-vasseur-calls-latest-leclerc-hamilton-collision-unacceptable/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-20-06-01-2-5-saturday-lasvegas-2026.jpg",
-      "published_at": "2026-11-22T06:50:28+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique de Ferrari, Frédéric Vasseur, a exprimé son mécontentement après la collision entre Charles Leclerc et Lewis Hamilton lors du Grand Prix de Las Vegas. Il qualifie l'incident d'inacceptable.",
-      "summary_en": "Ferrari team principal Frédéric Vasseur expressed his displeasure after the collision between Charles Leclerc and Lewis Hamilton at the Las Vegas Grand Prix, calling the incident unacceptable."
-    },
-    {
-      "id": "b16abc06edd2",
-      "title": "George Russell: “I don’t regret it” after crashing out of second at Las Vegas GP",
-      "title_fr": "George Russell: “I don’t regret it” after crashing out of second at Las Vegas GP",
-      "title_en": "George Russell: “I don’t regret it” after crashing out of second at Las Vegas GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/russell-i-dont-regret-it-after-hitting-las-vegas-wall-in-late-lunge-for-second/10876720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10876720-b705-2.jpg",
-      "published_at": "2026-11-22T06:46:08+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell could have played it safe and walked away from the 2026 Las Vegas Grand Prix with a podium. Instead, the Mercedes driver gambled on a late lunge for second - and watched both his shot a",
-      "summary_en": "George Russell could have played it safe and walked away from the 2026 Las Vegas Grand Prix with a podium. Instead, the Mercedes driver gambled on a late lunge for second - and watched both his shot a"
-    },
-    {
-      "id": "a631c1c8e546",
-      "title": "George Russell explains late-race crash in Las Vegas F1 victory bid",
-      "title_fr": "Russell explique son accident de fin de course à Las Vegas",
-      "title_en": "Russell explains late-race crash in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-explains-late-race-crash-in-las-vegas-f1-victory-bid/10876718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKA391Y/s6/george-russell-mercedes.jpg",
-      "published_at": "2026-11-22T06:37:21+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "George Russell a admis avoir pris un risque élevé qui l’a fait subir un accident à Las Vegas, trois tours avant la fin.",
-      "summary_en": "George Russell admitted making a high-risk move that caused him to crash with three laps to go in Las Vegas."
-    },
-    {
-      "id": "e7292d022689",
-      "title": "Stewards explains Leclerc’s penalty for hitting Hamilton | Formula 1",
-      "title_fr": "Les commissaires justifient la pénalité de Leclerc après collision avec Hamilton",
-      "title_en": "Stewards explain Leclerc's penalty after collision with Hamilton",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/stewards-explains-leclercs-penalty-for-hitting-hamilton/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-02-30-51-6-261121_R21_LAS_VEGAS_DP_AV5_5686.jpg",
-      "published_at": "2026-11-22T06:19:29+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires ont détaillé la raison de la pénalité infligée à Charles Leclerc pour avoir percuté Lewis Hamilton. La décision repose sur une collision jugée fautive de Leclerc.",
-      "summary_en": "The stewards clarified why Charles Leclerc received a penalty after colliding with Lewis Hamilton. The decision was based on Leclerc's fault in the incident."
-    },
-    {
-      "id": "9a13abc32ac8",
-      "title": "Verstappen leads parade of position-swapping to win in Las Vegas | 2026 Las Vegas Grand Prix report",
-      "title_fr": "Verstappen leads parade of position-swapping to win in Las Vegas | 2026 Las Vegas Grand Prix report",
-      "title_en": "Verstappen leads parade of position-swapping to win in Las Vegas | 2026 Las Vegas Grand Prix report",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/verstappen-leads-parade-of-position-swapping-to-win-in-las-vegas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-05-52-17-4-SI202611220058.jpg",
-      "published_at": "2026-11-22T05:54:06+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen scored his third grand prix victory of the season in a Las Vegas Grand Prix which was dominated by 'yo-yo' position swaps.",
-      "summary_en": "Max Verstappen scored his third grand prix victory of the season in a Las Vegas Grand Prix which was dominated by 'yo-yo' position swaps."
     }
   ]
 }
