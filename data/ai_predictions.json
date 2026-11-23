@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T05:00:04Z",
+  "generated_at": "2026-11-23T13:00:40Z",
   "model": "claude",
   "predictions": [
     {
@@ -203,29 +203,29 @@
       "session_type": "qualifying",
       "session_date": "2026-11-28T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli a montré le meilleur rythme sur un tour à Las Vegas, décrochant la pole, et bénéficie d’une Mercedes très performante sur le circuit à haute vitesse de Lusail. Verstappen conserve son excellente performance en qualification, comme le prouve sa deuxième place à Vegas, et la puissance du Red Bull est adaptée aux longues lignes droites. Russell, troisième à Vegas, possède également une Merc",
-      "reasoning_en": "Antonelli posted the fastest lap in Las Vegas qualifying, taking pole, and his Mercedes delivers strong straight‑line speed that suits Lusail’s long straights. Verstappen remains a qualifying specialist, finishing second in Vegas and the Red Bull power unit is well‑matched to the circuit’s high‑speed sections. Russell, who was third in Vegas, also benefits from a fast and reliable Mercedes, puttin",
-      "confidence": "high",
-      "key_factor_fr": "Rythme sur un tour et forme récente en qualification",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine le championnat avec 98 points d'avance, signe que la Mercedes est la référence en 2026. Lusail est un circuit rapide fait de longues courbes, où l'appui aérodynamique et le rendement du moteur comptent beaucoup, ce qui favorise Mercedes. Russell, excellent en qualif, peut créer la surprise. Verstappen reste le principal outsider grâce à son talent sur un tour lancé.",
+      "reasoning_en": "Antonelli leads the championship by 98 points, a sign that Mercedes is the benchmark car in 2026. Lusail is a fast track of long sweeping corners, where aero grip and engine efficiency matter a lot, which suits Mercedes. Russell, a strong qualifier, could upset him. Verstappen remains the main outsider thanks to his raw one-lap pace.",
+      "confidence": "medium",
+      "key_factor_fr": "Domination Mercedes sur les courbes rapides de Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-23T01:14:57Z"
+      "generated_at": "2026-11-23T13:00:40Z"
     },
     {
       "event_id": "qatar_grand_prix",
       "race_id": "qatar",
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "norris",
-      "p3": "antonelli",
-      "reasoning_fr": "Sur le circuit de Lusail, la difficulté à dépasser rend la grille décisive. Antonelli a montré un rythme de qualification exceptionnel (pole à Las Vegas) et bénéficie d’une Mercedes fiable. Verstappen, champion en titre, a remporté Las Vegas et possède la meilleure performance en course, surtout avec la stratégie Red Bull. Norris a confirmé sa forme en terminant deuxième à Las Vegas et possède une",
-      "reasoning_en": "Lusail’s layout makes the starting grid crucial. Antonelli displayed an outstanding qualifying pace (pole in Las Vegas) and enjoys a reliable Mercedes. Verstappen, the reigning champion, won in Las Vegas and has the strongest race performance, especially with Red Bull’s strategy. Norris proved his form by finishing second in Las Vegas and drives a competitive McLaren. Therefore Verstappen is likel",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance et une Mercedes très performante. Lusail est rapide et fluide, avec de longues courbes rapides qui exigent une bonne charge aérodynamique, ce qui favorise Mercedes. Verstappen, vainqueur au Qatar en 2025 et très à l'aise ici, reste le principal rival. Russell complète un podium logique devant Hamilton et Norris, qui sont à égalité de points avec lui.",
+      "reasoning_en": "Antonelli dominates 2026 with a 98-point lead and a very strong Mercedes. Lusail is fast and flowing, with long high-speed corners that need good downforce, which suits Mercedes. Verstappen won Qatar in 2025, is very comfortable here and remains the main rival. Russell completes a logical podium ahead of Hamilton and Norris, who are level with him on points.",
       "confidence": "medium",
-      "key_factor_fr": "Grille de départ cruciale sur Lusail",
+      "key_factor_fr": "Performance Mercedes dans les courbes rapides de Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-23T01:14:43Z"
+      "generated_at": "2026-11-23T13:00:20Z"
     }
   ]
 }
