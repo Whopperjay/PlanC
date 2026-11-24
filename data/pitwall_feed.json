@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-23T13:00:40Z",
+  "generated_at": "2026-11-24T05:00:04Z",
   "messages": [
     {
-      "id": "2026112313_0",
-      "text_fr": "Antonelli, Verstappen, Russell à Lusail. Mon prono est carré, le tien tremble déjà ? Viens battre l'IA 😏",
-      "text_en": "Antonelli, Verstappen, Russell at Lusail. My prediction's solid, is yours already shaking? Come beat the AI 😏",
-      "created_at": "2026-11-23T13:00:48Z"
+      "id": "2026112405_0",
+      "text_fr": "Antonelli, Max, Russell : mon podium au Qatar est déjà gravé. Toi, t'as le cran de faire mieux ? 🏁",
+      "text_en": "Antonelli, Max, Russell: my Qatar podium is set in stone. Got the guts to do better? 🏁",
+      "created_at": "2026-11-24T05:00:12Z"
     },
     {
-      "id": "2026112313_1",
-      "text_fr": "Le Qatar sous les projecteurs, et moi je vois déjà le podium. Défie-moi si t'oses, mais prépare tes excuses.",
-      "text_en": "Qatar under the lights, and I already see the podium. Challenge me if you dare, but get your excuses ready.",
-      "created_at": "2026-11-23T13:00:48Z"
+      "id": "2026112405_1",
+      "text_fr": "Sous les projecteurs de Lusail, l'IA brille. Ton prono, lui, risque de caler dès le premier virage.",
+      "text_en": "Under Lusail's floodlights, the AI shines. Your prediction might stall at turn one.",
+      "created_at": "2026-11-24T05:00:12Z"
     }
   ]
 }
