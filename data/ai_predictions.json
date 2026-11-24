@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:00:04Z",
+  "generated_at": "2026-11-24T13:00:25Z",
   "model": "claude",
   "predictions": [
     {
@@ -203,14 +203,14 @@
       "session_type": "qualifying",
       "session_date": "2026-11-28T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli a dominé la dernière qualification à Las Vegas et mène le championnat, ce qui le place en tête sur un circuit où la grille est décisive. Verstappen, malgré une course difficile, conserve un rythme de pointe exceptionnel et a été deuxième à Las Vegas, garantissant une place sur le podium. Russell, troisième à Las Vegas et pilote Mercedes, bénéficie d’une bonne évolution de la piste et d’u",
-      "reasoning_en": "Antonelli topped the latest qualifying in Las Vegas and leads the championship, putting him first on a track where the starting grid is crucial. Verstappen, despite a tough race, still shows top‑speed pace and was second in Las Vegas, ensuring a podium spot. Russell, third in Las Vegas and a Mercedes driver, benefits from track evolution and reliable performance, placing him third.",
-      "confidence": "high",
-      "key_factor_fr": "Qualif récente + grille départ + performance Mercedes",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance : Mercedes semble avoir la référence du nouveau règlement. Lusail, rapide et fluide, récompense l'appui aérodynamique et la stabilité dans les longues courbes, deux points forts de la W17. Russell est très solide sur un tour et a déjà été en pole ici en 2024. Verstappen reste redoutable au Qatar, qu'il connaît parfaitement.",
+      "reasoning_en": "Antonelli has dominated 2026 with a 98-point lead, and Mercedes looks like the benchmark under the new rules. Lusail is fast and flowing, so it rewards downforce and stability through long corners, both strengths of the W17. Russell is very strong over one lap and was on pole here in 2024. Verstappen remains a serious threat in Qatar, a track he knows perfectly.",
+      "confidence": "medium",
+      "key_factor_fr": "Mercedes référence en virages rapides, Antonelli en confiance",
       "news_used_ids": [],
-      "generated_at": "2026-11-24T01:31:47Z"
+      "generated_at": "2026-11-24T13:00:25Z"
     },
     {
       "event_id": "qatar_grand_prix",
@@ -220,12 +220,12 @@
       "p1": "antonelli",
       "p2": "max_verstappen",
       "p3": "russell",
-      "reasoning_fr": "Antonelli part en pole après avoir dominé les qualifications à Las Vegas, montrant une excellente adhérence sur le revêtement du Lusail. Verstappen, deuxième en qualification, possède la meilleure gestion des pneus et la capacité à récupérer même après un départ difficile, ce qui est crucial sur les longues lignes droites du circuit. Russell, troisième en qualif, combine une Mercedes fiable et un ",
-      "reasoning_en": "Antonelli starts from pole after a dominant Las Vegas qualifying, indicating strong grip on Lusail's surface. Verstappen, second on the grid, excels at tyre management and can recover from a sub‑optimal start, vital on the circuit’s long straights. Russell, third in qualifying, pairs a reliable Mercedes with solid race pace, enabling him to stay on the podium despite moderate tyre wear.",
-      "confidence": "high",
-      "key_factor_fr": "Position de grille et rythme de qualification",
+      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance et une Mercedes très efficace dans les virages rapides. Verstappen a gagné à Lusail en 2023, 2024 et 2025 et reste le plus grand danger. Russell profite de la même Mercedes ; il est à égalité avec Norris mais le devance grâce à la régularité de la voiture. Ferrari et McLaren sont moins constantes sur ce tracé exigeant pour les pneus.",
+      "reasoning_en": "Antonelli dominates 2026 with a 98-point lead and a Mercedes that is very strong in fast corners. Verstappen won at Lusail in 2023, 2024 and 2025 and remains the biggest threat. Russell has the same Mercedes; he is level on points with Norris but gets the nod because the car is more consistent. Ferrari and McLaren are less consistent on this tyre-demanding track.",
+      "confidence": "medium",
+      "key_factor_fr": "Mercedes rapide en courbes, Verstappen triple vainqueur à Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-24T01:31:35Z"
+      "generated_at": "2026-11-24T13:00:15Z"
     }
   ]
 }
