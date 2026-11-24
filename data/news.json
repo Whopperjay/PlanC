@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-24T13:37:31Z",
+  "last_updated": "2026-11-24T16:39:23Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "85ee9bcd109c",
+      "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
+      "title_fr": "Gasly perd un podium à Las Vegas à cause d'un problème de refroidissement",
+      "title_en": "Gasly loses podium at Las Vegas GP due to cooling issue",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAOXb0/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-24T15:38:33+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Pierre Gasly aurait pu gagner à Las Vegas si son Alpine n’avait pas subi un problème de refroidissement en fin de course. Il a terminé cinquième après avoir perdu cinq places.",
+      "summary_en": "Pierre Gasly could have won the Las Vegas GP if his Alpine had not suffered a cooling problem in the closing laps. He finished fifth after dropping five places."
+    },
     {
       "id": "f9a42d2436c4",
       "title": "F1 pundit calls for real consequences at Ferrari: \"I'd chuck Ollie Bearman in for a race\"",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention",
       "summary_en": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention"
-    },
-    {
-      "id": "9d347490cd04",
-      "title": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
-      "title_fr": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
-      "title_en": "Salary dispute holding up Ollie Bearman’s new Haas F1 deal",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/salary-dispute-holding-up-oliver-bearmans-new-haas-f1-deal/10877064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas-2.jpg",
-      "published_at": "2026-11-23T09:02:57+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari protege Oliver Bearman remains the only driver on the Formula 1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his re",
-      "summary_en": "Ferrari protege Oliver Bearman remains the only driver on the Formula 1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his re"
     }
   ]
 }
