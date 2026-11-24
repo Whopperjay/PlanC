@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-24T07:34:46Z",
+  "last_updated": "2026-11-24T10:36:09Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "4b1738f3912e",
+      "title": "Isack Hadjar frustrated – What really happened on Red Bull's team radio in Las Vegas",
+      "title_fr": "Hadjar frustré après l’appel radio de Red Bull à Las Vegas",
+      "title_en": "Hadjar frustrated after Red Bull's team radio call in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0qgKkjkY/s6/isack-hadjar-red-bull-racing.jpg",
+      "published_at": "2026-11-24T10:04:17+00:00",
+      "race_id": "lasvegas",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar, arrivé quatrième, se retrouve à la deuxième place dès le quatrième tour, mais la radio de Red Bull l’incite à rester derrière Max Verstappen, ce qui le frustre profondément.",
+      "summary_en": "Isack Hadjar, starting fourth, was running second by lap four but was told by Red Bull's team radio to stay behind Max Verstappen, a decision that left him frustrated."
+    },
+    {
+      "id": "e17275fe0c07",
+      "title": "Featured Comment: Herta deserves credit for trying to make the switch from IndyCar | Brief",
+      "title_fr": "Herta mérite le crédit pour son passage de l'IndyCar à la F1",
+      "title_en": "Herta deserves credit for her IndyCar to F1 switch",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/24/featured-comment-herta-deserves-credit-for-trying-to-make-the-switch-from-indycar/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-29-21-56-11-3-CadillacF1Team_12268_HiRes.jpg",
+      "published_at": "2026-11-24T09:25:55+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Herta a pris un risque audacieux en passant de l'IndyCar à la F1, un choix qui s'est avéré judicieux",
+      "summary_en": "Herta took a bold gamble moving from IndyCar to F1, a decision that proved worthwhile"
+    },
+    {
+      "id": "e5a90e1bcc70",
+      "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
+      "title_fr": "Hamilton et Leclerc : la pérennité de leur partenariat Ferrari",
+      "title_en": "Hamilton and Leclerc: Is Their Ferrari Partnership Sustainable?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34c/live/e0b9a770-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
+      "published_at": "2026-11-24T08:10:15+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Après le Grand Prix de Las Vegas, Andrew Benson, correspondant BBC F1, répond aux questions sur la durabilité du partenariat entre Lewis Hamilton et Charles Leclerc chez Ferrari. Le champion de Formule 1 discutent de leurs ambitions communes.",
+      "summary_en": "After the Las Vegas Grand Prix, BBC F1 correspondent Andrew Benson answers questions about the sustainability of Lewis Hamilton and Charles Leclerc's partnership at Ferrari. The Mercedes driver and Formula 1 champion discuss their shared ambitions."
+    },
     {
       "id": "e3b674f9910c",
       "title": "Was Hadjar helping himself or Verstappen when he collected a penalty in the pits? | Formula 1",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote brésilien Rafael Camara prolongera son contrat avec Haas pour les deux derniers Grands Prix de la saison de Formule 1.",
       "summary_en": "Brazilian driver Rafael Camara will extend his contract with Haas for the final two Formula 1 Grands Prix of the season."
-    },
-    {
-      "id": "ea6eaec9d2e1",
-      "title": "Camara to finish F1 season with Haas, ending F2 title bid",
-      "title_fr": "Camara termine la saison 2026 avec Haas",
-      "title_en": "Camara finishes 2026 season with Haas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg",
-      "published_at": "2026-11-22T18:32:32+00:00",
-      "race_id": "qatar",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le rookie de Haas, Rafael Camara, terminera la saison 2026 avec l'equipe, mettant fin a sa quete du titre F2. Sa place a ete confirmee en octobre comme remplaceant d'Esteban Ocon pour 2027.",
-      "summary_en": "Haas rookie Rafael Camara will finish the 2026 season with the team, ending his F2 title bid. He was confirmed in October as a full-time replacement for Esteban Ocon for 2027."
-    },
-    {
-      "id": "56107cf71f5c",
-      "title": "Haas keeps Rafael Camara in F1, ending his 2026 F2 title bid",
-      "title_fr": "Haas garde Rafael Camara, fin de son titre F2",
-      "title_en": "Haas keeps Rafael Camara, ends his F2 title bid",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YvKBe8e6/s6/rafael-camara-haas.jpg",
-      "published_at": "2026-11-22T18:28:04+00:00",
-      "race_id": "qatar",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara, espoir de Haas, terminera la saison 2026 en F1, mettant fin à sa quête du championnat F2. Le pilote restera en équipe jusqu'à Abu Dhabi.",
-      "summary_en": "Rafael Camara, Haas hopeful, will finish the 2026 season in F1, ending his F2 championship bid. The driver will stay with the team through Abu Dhabi."
-    },
-    {
-      "id": "a56693264405",
-      "title": "Camara confirmed at Haas for final two Formula 1 races of 2026 | Formula 1",
-      "title_fr": "Camara rejoint Haas pour les deux derniers Grands Prix 2026",
-      "title_en": "Camara joins Haas for final two 2026 races",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/camara-confirmed-at-haas-for-final-two-formula-1-races-of-2026/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-20-17-33-4-2306294850-174.jpg",
-      "published_at": "2026-11-22T18:05:03+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Rafael Camara sera le pilote de Haas pour les deux derniers Grands Prix de la saison 2026, comme l'a confirmé l'équipe.",
-      "summary_en": "Rafael Camara will drive for Haas in the final two races of the 2026 season, as confirmed by the team."
     }
   ]
 }
