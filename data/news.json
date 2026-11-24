@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-23T22:29:01Z",
+  "last_updated": "2026-11-24T01:30:58Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "269e09b04078",
+      "title": "On This Day: McLaren appoint rookie Hamilton as Alonso’s team mate for 2007 | Brief",
+      "title_fr": "McLaren nomme Hamilton, nouveau coéquipier d'Alonso en 2007",
+      "title_en": "McLaren names Hamilton as Alonso’s 2007 teammate",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/24/on-this-day-hamilton-joins-mclaren/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2019/03/racefansdotnet-20060910-094754-2.jpg",
+      "published_at": "2026-11-24T00:01:00+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "McLaren a annoncé que Lewis Hamilton, rookie, rejoindrait l’équipe en 2007 pour courir aux côtés de Fernando Alonso. Le pilote britannique débutera sa carrière en Formule 1 avec l’Escuderia McLaren.",
+      "summary_en": "McLaren announced that rookie Lewis Hamilton would join the team in 2007 to race alongside Fernando Alonso. The British driver will make his Formula 1 debut with the McLaren outfit."
+    },
     {
       "id": "d1b3e6c9b1b4",
       "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Après la victoire de Max Verstappen, Norris et Piastri ont terminé quatrième et troisième à Las Vegas. Le directeur technique de McLaren, Andrea Stella, a défendu l'exclamation de Piastri, qualifiée de « J'ai vraiment aimé »",
       "summary_en": "After Max Verstappen's win, Norris and Piastri finished fourth and third in Las Vegas. McLaren's technical director Andrea Stella defended Piastri's outburst, described as 'I actually liked it'"
-    },
-    {
-      "id": "ec3158693b12",
-      "title": "Featured Comment: How F1’s power units dictated when drivers overtook in Las Vegas | Brief",
-      "title_fr": "Les unites de puissance F1 prevoient les depassements a Las Vegas",
-      "title_en": "F1 power units predict overtakes in Las Vegas",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/22/featured-comment-how-f1s-power-units-dictated-when-drivers-overtook-in-las-vegas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-13-16-02-3-M656880_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-11-22T16:24:32+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Les ingenieurs de Formule 1 utilisent les donnees des unites de puissance pour anticiper les depassements. A Las Vegas, cette technologie a permis de repere les moments cles où les pilotes ont franchi la ligne darrivee.",
-      "summary_en": "F1 engineers use power unit data to anticipate overtakes. In Las Vegas, this tech helped spot the key moments when drivers passed."
     }
   ]
 }
