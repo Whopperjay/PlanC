@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-24T16:39:23Z",
+  "last_updated": "2026-11-24T19:40:24Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "60c7171c6d34",
+      "title": "What's next for Herta after F1 2027 snub?",
+      "title_fr": "Herta exclue de la F1 2027, Cadillac conserve Bottas",
+      "title_en": "Herta left out of F1 2027, Cadillac keeps Bottas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/whats-next-for-herta-after-f1-2027-snub/10877533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arKWNy2/s6/colton-herta-hitech-gp-2.jpg",
+      "published_at": "2026-11-24T17:59:55+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Cadillac a choisi de rester avec Valtteri Bottas pour accompagner Sergio Pérez, laissant Colton Herta sans place en 2027. Le propriétaire majoritaire TWG souhaite un pilote américain, mais la décision soulève des interrogations.",
+      "summary_en": "Cadillac has opted to keep Valtteri Bottas alongside Sergio Pérez, leaving Colton Herta without a seat for 2027. The majority owner TWG is keen on an American driver, but the move raises questions."
+    },
+    {
+      "id": "a441f3a8347c",
+      "title": "Decision time looms for Colton Herta after 2027 Cadillac F1 snub",
+      "title_fr": "Cadillac refuse Herta pour 2027",
+      "title_en": "Cadillac snubs Herta for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
+      "published_at": "2026-11-24T17:57:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Cadillac a choisi de rester avec Valtteri Bottas et Sergio Pérez pour 2027, laissant Colton Herta sans place. Le constructeur questionne son avenir en Formule 1.",
+      "summary_en": "Cadillac has opted to keep Valtteri Bottas and Sergio Pérez for 2027, leaving Colton Herta without a seat. The team is now questioning his future in Formula 1."
+    },
     {
       "id": "85ee9bcd109c",
       "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Colton Herta, champion IndyCar à neuf titres, quitte Hitech après une saison décevante en F2, afin de mettre fin à son parcours européen prématurément.",
       "summary_en": "Colton Herta, a nine‑time IndyCar champion, leaves Hitech after a disappointing F2 season, ending his European campaign early."
-    },
-    {
-      "id": "39a5a5b3b9bf",
-      "title": "Red Bull told Verstappen to consider letting Antonelli pass him for the final lap | Formula 1",
-      "title_fr": "Red Bull conseille à Verstappen de laisser Antonelli passer",
-      "title_en": "Red Bull tells Verstappen to let Antonelli pass",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/23/red-bull-told-verstappen-to-consider-letting-antonelli-pass-him-for-the-final-lap/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/verstappen-lead-car.jpg",
-      "published_at": "2026-11-23T09:19:44+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a conseillé à Max Verstappen de laisser passer Andrea Kimi Antonelli lors de la dernière course de Las Vegas. Le pilote de Red Bull aurait envisagé de céder la tête pour la dernière ligne.",
-      "summary_en": "Red Bull reportedly told Max Verstappen to consider letting Andrea Kimi Antonelli overtake him on the final lap of the Las Vegas race."
-    },
-    {
-      "id": "e7039d00036c",
-      "title": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
-      "title_fr": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
-      "title_en": "Why Bearman’s expected 2027 Haas F1 deal remains unsigned",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-bearmans-expected-2027-haas-f1-deal-remains-unsigned/10877066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvVJqY/s6/oliver-bearman-haas-f1-team-2.jpg",
-      "published_at": "2026-11-23T09:05:17+00:00",
-      "race_id": "brazil",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention",
-      "summary_en": "Ferrari protege Oliver Bearman remains the only driver on the F1 grid without a contract for 2027. It is a situation that would have been hard to imagine just a few weeks ago, given that his retention"
     }
   ]
 }
