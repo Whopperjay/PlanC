@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-24T19:40:24Z",
+  "last_updated": "2026-11-24T22:41:22Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "f8a854806689",
+      "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
+      "title_fr": "Red Bull aurait envisagé de céder la tête à Verstappen à Las Vegas",
+      "title_en": "Red Bull reportedly considered ceding Verstappen's lead at Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5Ak91Y/s6/max-verstappen-red-bull-racing-a10877450-b707-4.jpg",
+      "published_at": "2026-11-24T21:08:35+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Des messages radio de Red Bull ont révélé que l'équipe aurait envisagé de céder la tête à Max Verstappen à Las Vegas, avant de revenir sur la décision.",
+      "summary_en": "Red Bull radio logs show the team considered ceding Max Verstappen's lead at the Las Vegas GP, but ultimately decided against it."
+    },
+    {
+      "id": "ac6f4bdeacb0",
+      "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
+      "title_fr": "Palmer loue la bataille de Verstappen contre Russell à Las Vegas",
+      "title_en": "Palmer praises Verstappen's duel with Russell in Las Vegas",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXkEK6/s6/max-verstappen-red-bull-racing-a10877407-b707-2.jpg",
+      "published_at": "2026-11-24T20:05:06+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Jolyon Palmer a salué la lutte acharnée de Max Verstappen contre George Russell lors du Grand Prix de Las Vegas, qualifiant le duel de spectacle inégalé sur le grid actuel.",
+      "summary_en": "Former F1 driver Jolyon Palmer praised Max Verstappen's fierce duel with George Russell at the Las Vegas Grand Prix, calling it an unmatched display of wheel-to-wheel skill on the current grid."
+    },
     {
       "id": "60c7171c6d34",
       "title": "What's next for Herta after F1 2027 snub?",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur de la Scuderia Ferrari, Frédéric Vasseur, a déclaré que Charles Leclerc et Lewis Hamilton avaient reçu le même traitement que celui de Mexico après le Grand Prix de Las Vegas.",
       "summary_en": "Ferrari team boss Frédéric Vasseur said Charles Leclerc and Lewis Hamilton were treated the same way after the Las Vegas Grand Prix as after Mexico."
-    },
-    {
-      "id": "ca5a6b3ae3c3",
-      "title": "Herta replaced at Hitech to end F2 season early",
-      "title_fr": "Herta replaced at Hitech to end F2 season early",
-      "title_en": "Herta replaced at Hitech to end F2 season early",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/formula2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877140/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg",
-      "published_at": "2026-11-23T09:42:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech.<br />The nine-time IndyCar race winner",
-      "summary_en": "Colton Herta will end his torrid time in Formula 2 early by not returning for the final two rounds of the 2026 season following a “mutual agreement” with Hitech.<br />The nine-time IndyCar race winner"
-    },
-    {
-      "id": "1920fee5b16b",
-      "title": "Colton Herta replaced at Hitech to end poor F2 season early",
-      "title_fr": "Herta quitte Hitech pour mettre fin à sa saison F2",
-      "title_en": "Herta leaves Hitech to end poor F2 season",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/fia-f2/news/colton-herta-replaced-at-hitech-to-end-poor-f2-season-early/10877134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QPOK6/s6/colton-herta-hitech.jpg",
-      "published_at": "2026-11-23T09:38:18+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta, champion IndyCar à neuf titres, quitte Hitech après une saison décevante en F2, afin de mettre fin à son parcours européen prématurément.",
-      "summary_en": "Colton Herta, a nine‑time IndyCar champion, leaves Hitech after a disappointing F2 season, ending his European campaign early."
     }
   ]
 }
