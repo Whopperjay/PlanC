@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-25T19:46:07Z",
+  "last_updated": "2026-11-25T22:46:47Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8908e970488c",
+      "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
+      "title_fr": "Verstappen préfère rester chez lui avant Qatar et Abu Dhabi",
+      "title_en": "Verstappen says he'd rather stay home before Qatar and Abu Dhabi",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEDRG2/s6/max-verstappen-red-bull-racing-a10877645-b707-2.jpg",
+      "published_at": "2026-11-25T21:25:17+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Max Verstappen a déclaré qu’il préférerait rester chez lui plutôt que de se rendre à Doha, Qatar et Abu Dhabi, citant les tensions régionales.",
+      "summary_en": "Max Verstappen said he would rather stay home than travel to Doha, Qatar and Abu Dhabi, citing regional tensions."
+    },
+    {
+      "id": "4398bfb26609",
+      "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win",
+      "title_fr": "Red Bull dévoile l'update aérodynamique derrière la victoire de Verstappen à Las Vegas",
+      "title_en": "Red Bull reveals the aero update behind Verstappen's Las Vegas win",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-filings-reveal-the-lone-rb22-aero-update-behind-max-verstappens-las-vegas-gp-win/10877619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10877619-b707-3.jpg",
+      "published_at": "2026-11-25T20:31:23+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Les dossiers FIA montrent que la victoire de Max Verstappen à Las Vegas repose sur une mise à jour aérodynamique subtile de Red Bull, notamment un ajustement des extrémités de l'aileron avant et un travail sur les sidepods",
+      "summary_en": "FIA filings show that Max Verstappen's Las Vegas win was underpinned by a subtle aero update from Red Bull, including a front-wing endplate tweak and sidepod rework"
+    },
+    {
+      "id": "6edcbb7b6fff",
+      "title": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
+      "title_fr": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
+      "title_en": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari-a10877422-b704-2.jpg",
+      "published_at": "2026-11-25T19:57:56+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari.<br />On Lap 38, Charles Leclerc dived d",
+      "summary_en": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari.<br />On Lap 38, Charles Leclerc dived d"
+    },
     {
       "id": "7902c1b244c8",
       "title": "Williams exceeded F1 cost cap by £627,000",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le directeur technique de Ferrari, Frédéric Vasseur, a déclaré que les commissaires avaient donné un message à Charles Leclerc cinq tours avant sa collision avec Lewis Hamilton.",
       "summary_en": "Ferrari team principal Frédéric Vasseur said the stewards had sent a message to Charles Leclerc five corners before his collision with Lewis Hamilton."
-    },
-    {
-      "id": "6138a1035706",
-      "title": "F1 2027 grid: Who will be racing and where?",
-      "title_fr": "Grille 2027 : qui sera sur la piste ?",
-      "title_en": "2027 F1 grid: who will race and where?",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7ZeD4Y/s6/oscar-piastri-mclaren-2.jpg",
-      "published_at": "2026-11-23T16:09:34+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "La grille 2027 de la Formule 1 est désormais définie, à l’exception d’une place. Seule Haas change de pilote, tandis que les autres équipes ont confirmé leurs lignes.",
-      "summary_en": "The 2027 F1 grid is now set, except for one spot. Only Haas is changing drivers, while the rest of the teams have confirmed their line‑ups."
-    },
-    {
-      "id": "052ee6e9226d",
-      "title": "F1 Qatar GP 2026: start time, schedule and how to watch",
-      "title_fr": "Qatar GP 2026 : horaire, programme et diffusion",
-      "title_en": "Qatar GP 2026: start time, schedule and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-start-time-schedule-how-to-watch/10877085/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AEWkpk6/s6/george-russell-mercedes-f1-w15-2.jpg",
-      "published_at": "2026-11-23T16:06:30+00:00",
-      "race_id": "qatar",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix du Qatar 2026 débute à 8h PT (11h ET) le dimanche 29 novembre. Toutes les sessions seront diffusées en direct sur Apple TV, avec un programme complet disponible en ligne.",
-      "summary_en": "The 2026 Qatar Grand Prix starts at 8 a.m. PT (11 a.m. ET) on Sunday, November 29. All sessions will be streamed live on Apple TV, with a full schedule posted online."
-    },
-    {
-      "id": "bfc13eb32f99",
-      "title": "F1 Qatar GP 2026: UK times, schedule and how to watch",
-      "title_fr": "Qatar GP 2026 : horaires UK et comment suivre",
-      "title_en": "Qatar GP 2026: UK times and how to watch",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-2026-uk-times-schedule-how-to-watch/10877083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6lmdQDN0/s6/lando-norris-mclaren-2.jpg",
-      "published_at": "2026-11-23T16:00:27+00:00",
-      "race_id": "qatar",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix du Qatar 2026 débute à 16h00 GMT le dimanche 29 novembre. Toutes les sessions seront diffusées en direct sur Sky Sports F1, avec un calendrier complet disponible en ligne.",
-      "summary_en": "The 2026 Qatar Grand Prix starts at 4pm GMT on Sunday 29 November. All sessions will be streamed live on Sky Sports F1, with the full UK schedule posted online."
     }
   ]
 }
