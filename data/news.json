@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-25T13:45:04Z",
+  "last_updated": "2026-11-25T16:45:31Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "35c45bd9c178",
+      "title": "Williams, Alpine fall foul of F1's 2025 cost cap",
+      "title_fr": "Williams et Alpine sanctionnés pour dépassement du plafond de dépenses 2025",
+      "title_en": "Williams and Alpine penalised for 2025 cost-cap breach",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBZj6/s6/alexander-albon-williams.jpg",
+      "published_at": "2026-11-25T16:38:50+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les équipes Williams et Alpine ont dépassé le plafond de dépenses de la Formule 1 pour 2025, entraînant une pénalité sportive pour Williams et une amende pour Alpine",
+      "summary_en": "Williams and Alpine exceeded the 2025 Formula 1 cost cap, resulting in a sporting penalty for Williams and a fine for Alpine"
+    },
+    {
+      "id": "8e7b7d4caea8",
+      "title": "Williams given aero test reduction and fine for cost cap breach, Alpine also fined | Formula 1",
+      "title_fr": "Williams et Alpine sanctionnés pour dépassement de plafond",
+      "title_en": "Williams and Alpine fined for cost cap breach",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-19-20-14-30-2-14-thursday-lasvegas-2026.jpg",
+      "published_at": "2026-11-25T16:11:25+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a infligé à Williams une réduction de son test aérodynamique et une amende pour non-respect du plafond de coûts, tandis qu'Alpine a également reçu une sanction financière.",
+      "summary_en": "The FIA fined Williams and cut its aerodynamic testing, and also penalised Alpine for breaching the cost cap."
+    },
     {
       "id": "e651c41760e7",
       "title": "Zak Brown rules out McLaren engine programme for F1 2030",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le Grand Prix de Las Vegas a divisé les fans, certains louant les multiples dépassements, d'autres critiquant son aspect artificiel. Max Verstappen a dû repousser plusieurs pilotes, dont George Russell, Kimi Antonelli et Lando Norris.",
       "summary_en": "The Las Vegas GP split fans, with some praising the many overtakes while others criticized its artificial feel. Max Verstappen had to fend off several drivers, including George Russell, Kimi Antonelli and Lando Norris."
-    },
-    {
-      "id": "f1271b80a70c",
-      "title": "Guenther Steiner warns George Russell: Do not \"poke the bear\" Max Verstappen",
-      "title_fr": "Steiner met en garde Russell : ne pas provoquer Verstappen",
-      "title_en": "Steiner warns Russell not to provoke Verstappen",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-warns-george-russell-do-not-poke-the-bear-max-verstappen/10877209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-a10877209-b705-2.jpg",
-      "published_at": "2026-11-23T13:16:00+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de Haas, Guenther Steiner, conseille à George Russell de ne pas provoquer Max Verstappen après leurs échanges à Las Vegas.",
-      "summary_en": "Haas chief Guenther Steiner urges Mercedes driver George Russell to avoid provoking Max Verstappen after their clash at the Las Vegas Grand Prix."
-    },
-    {
-      "id": "9196f9f7f539",
-      "title": "Max Verstappen \"would rather stay home\" but trusts F1's safety guarantees for Middle East races",
-      "title_fr": "Verstappen préfère rester chez lui mais fait confiance à la F1 pour le Moyen-Orient",
-      "title_en": "Verstappen prefers staying home but trusts F1 for Middle East races",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-would-rather-stay-home-but-trusts-f1s-safety-guarantees-for-middle-east-races/10876730/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7Q8Pv6/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-23T12:47:24+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a déclaré qu'il préférerait rester chez lui, mais il fait confiance aux garanties de sécurité de la F1 pour les deux derniers Grands Prix au Moyen-Orient",
-      "summary_en": "Max Verstappen said he would rather stay home, but he trusts F1's safety guarantees for the final two Middle East Grands Prix"
     }
   ]
 }
