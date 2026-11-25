@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-25T16:45:31Z",
+  "last_updated": "2026-11-25T19:46:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "7902c1b244c8",
+      "title": "Williams exceeded F1 cost cap by £627,000",
+      "title_fr": "Williams dépasse le plafond de dépenses de 627 000 £",
+      "title_en": "Williams exceeds cost cap by £627,000",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/00ebc900-e8f5-11f1-8808-1d4222955d7e.jpg",
+      "published_at": "2026-11-25T17:37:34+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Williams a dépassé le plafond de dépenses de la Formule 1 de 627 000 £ lors de la saison 2025, selon la FIA. La sanction est en cours d’évaluation.",
+      "summary_en": "Williams exceeded Formula 1's cost cap by £627,000 during the 2025 season, the FIA has found. The penalty is under review."
+    },
+    {
+      "id": "393daba88792",
+      "title": "Five things to look out for at F1’s Qatar GP",
+      "title_fr": "Cinq points à surveiller lors du GP du Qatar",
+      "title_en": "Five things to watch at Qatar GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YMX3X1v2/s6/lusail-city-qatar-november-29--2.jpg",
+      "published_at": "2026-11-25T17:13:20+00:00",
+      "race_id": "qatar",
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "La saison 2026 approche de sa fin, le Grand Prix du Qatar se tient ce week-end avant la finale à Abu Dhabi. Bien que les titres soient déjà remportés par Kimi Antonelli et Mercedes, cinq points clés restent à surveiller.",
+      "summary_en": "The 2026 season is nearing its end, with the Qatar GP this weekend before Abu Dhabi. Although Kimi Antonelli and Mercedes have already secured the titles, five key points remain to watch."
+    },
+    {
+      "id": "d92ec4c379fa",
+      "title": "Williams breaches F1 2025 cost cap, Alpine guilty of procedural violation",
+      "title_fr": "Williams dépasse le plafond de dépenses 2025, Alpine sanctionnée",
+      "title_en": "Williams breaches 2025 cost cap, Alpine fined",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lLL572/s6/pierre-gasly-alpine-carlos-sai-3.jpg",
+      "published_at": "2026-11-25T16:42:17+00:00",
+      "race_id": null,
+      "category": "pénalité",
+      "tags": [
+        "pénalité"
+      ],
+      "importance": 72,
+      "is_breaking": false,
+      "summary_fr": "Williams a dépassé le plafond de dépenses de 2025 de 627 000 £, entraînant une pénalité sportive. Alpine a reçu une amende pour violation procédurale.",
+      "summary_en": "Williams exceeded the 2025 cost cap by £627,000, incurring a sporting penalty. Alpine was fined for a procedural violation."
+    },
     {
       "id": "35c45bd9c178",
       "title": "Williams, Alpine fall foul of F1's 2025 cost cap",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le Grand Prix du Qatar 2026 débute à 16h00 GMT le dimanche 29 novembre. Toutes les sessions seront diffusées en direct sur Sky Sports F1, avec un calendrier complet disponible en ligne.",
       "summary_en": "The 2026 Qatar Grand Prix starts at 4pm GMT on Sunday 29 November. All sessions will be streamed live on Sky Sports F1, with the full UK schedule posted online."
-    },
-    {
-      "id": "f0c9c1b14b1e",
-      "title": "F1 2027 grid: Who will be racing and where?",
-      "title_fr": "Grille 2027 : qui sera sur la piste ?",
-      "title_en": "2027 F1 grid: who will race and where?",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": "2026-11-23T15:46:47+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "La grille 2027 de la Formule 1 est presque définie, à l'exception d'un seul poste. Haas change de pilote, les autres équipes ont confirmé leurs choix.",
-      "summary_en": "The 2027 F1 grid is almost set, with only one seat still open. Haas is swapping drivers, while all other teams have confirmed their line‑ups."
-    },
-    {
-      "id": "7f3aae57ae13",
-      "title": "Lewis Hamilton: Ferrari’s top-speed deficit was “brutal” at F1 Las Vegas GP",
-      "title_fr": "Hamilton critique le déficit de vitesse de la Ferrari à Las Vegas",
-      "title_en": "Hamilton criticises Ferrari's speed deficit at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-ferraris-top-speed-deficit-was-brutal-at-f1-las-vegas-gp/10876908/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyK51VY/s6/lewis-hamilton-ferrari.jpg",
-      "published_at": "2026-11-23T14:03:33+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a dénoncé le déficit de vitesse brutal de la SF-26 sur les longues lignes de Las Vegas, après avoir été éliminé en Q2 et terminé septième, tandis que Charles Leclerc a terminé dixième après pénalité.",
-      "summary_en": "Lewis Hamilton slammed Ferrari's brutal speed deficit on Las Vegas' long straights after being eliminated in Q2 and finishing seventh, while Charles Leclerc ended tenth following a penalty."
-    },
-    {
-      "id": "8fae7aa529b4",
-      "title": "Was the Las Vegas GP best race of the year - or too fake?",
-      "title_fr": "Le Grand Prix de Las Vegas : la meilleure course de l'année ou trop artificielle ?",
-      "title_en": "Las Vegas GP: best race of the year or too fake?",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/was-the-las-vegas-gp-best-race-of-the-year-or-too-fake/10877213/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNEJe0/s6/lando-norris-mclaren-andrea-ki.jpg",
-      "published_at": "2026-11-23T13:44:36+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le Grand Prix de Las Vegas a divisé les fans, certains louant les multiples dépassements, d'autres critiquant son aspect artificiel. Max Verstappen a dû repousser plusieurs pilotes, dont George Russell, Kimi Antonelli et Lando Norris.",
-      "summary_en": "The Las Vegas GP split fans, with some praising the many overtakes while others criticized its artificial feel. Max Verstappen had to fend off several drivers, including George Russell, Kimi Antonelli and Lando Norris."
     }
   ]
 }
