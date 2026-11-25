@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T13:00:25Z",
-  "model": "claude",
+  "generated_at": "2026-11-25T01:43:17Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -203,29 +203,29 @@
       "session_type": "qualifying",
       "session_date": "2026-11-28T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance : Mercedes semble avoir la référence du nouveau règlement. Lusail, rapide et fluide, récompense l'appui aérodynamique et la stabilité dans les longues courbes, deux points forts de la W17. Russell est très solide sur un tour et a déjà été en pole ici en 2024. Verstappen reste redoutable au Qatar, qu'il connaît parfaitement.",
-      "reasoning_en": "Antonelli has dominated 2026 with a 98-point lead, and Mercedes looks like the benchmark under the new rules. Lusail is fast and flowing, so it rewards downforce and stability through long corners, both strengths of the W17. Russell is very strong over one lap and was on pole here in 2024. Verstappen remains a serious threat in Qatar, a track he knows perfectly.",
-      "confidence": "medium",
-      "key_factor_fr": "Mercedes référence en virages rapides, Antonelli en confiance",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli arrive en pole position du championnat et a démontré un rythme exceptionnel en qualification à Las Vegas, où il a devancé Verstappen et Russell. Le circuit de Lusail, très rapide et sensible à l’évolution de la piste, favorise les voitures à forte vitesse de pointe, domaine où Mercedes excelle. Verstappen conserve son niveau de performance et a montré une excellente adaptation aux circui",
+      "reasoning_en": "Antonelli leads the championship and posted the fastest lap in Las Vegas qualifying, beating Verstappen and Russell. Lusail’s high‑speed layout and strong tyre‑track evolution reward cars with top‑end speed, a strength of the Mercedes package. Verstappen remains in peak form and adapts well to fast circuits, while Russell also showed strong single‑lap pace in Las Vegas, securing a place on the pod",
+      "confidence": "high",
+      "key_factor_fr": "Quali récente + évolution piste",
       "news_used_ids": [],
-      "generated_at": "2026-11-24T13:00:25Z"
+      "generated_at": "2026-11-25T01:43:16Z"
     },
     {
       "event_id": "qatar_grand_prix",
       "race_id": "qatar",
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance et une Mercedes très efficace dans les virages rapides. Verstappen a gagné à Lusail en 2023, 2024 et 2025 et reste le plus grand danger. Russell profite de la même Mercedes ; il est à égalité avec Norris mais le devance grâce à la régularité de la voiture. Ferrari et McLaren sont moins constantes sur ce tracé exigeant pour les pneus.",
-      "reasoning_en": "Antonelli dominates 2026 with a 98-point lead and a Mercedes that is very strong in fast corners. Verstappen won at Lusail in 2023, 2024 and 2025 and remains the biggest threat. Russell has the same Mercedes; he is level on points with Norris but gets the nod because the car is more consistent. Ferrari and McLaren are less consistent on this tyre-demanding track.",
+      "p1": "max_verstappen",
+      "p2": "antonelli",
+      "p3": "norris",
+      "reasoning_fr": "Max Verstappen arrive en tête grâce à son rythme de course exceptionnel et à la supériorité du package Red Bull sur les longues lignes droites de Lusail. Antonelli, poleman à Las Vegas, bénéficie d’un départ favorable et d’un Mercedes très rapide, ce qui lui permet de tenir la deuxième place malgré la dégradation des pneus. Lando Norris, solide en course et deuxième au Las Vegas, exploite les oppo",
+      "reasoning_en": "Max Verstappen is the clear favourite thanks to his dominant race pace and Red Bull’s strong straight‑line speed at Lusail. Antonelli, who topped qualifying in Las Vegas, starts from the front and benefits from a very quick Mercedes, allowing him to hold second despite tyre wear. Lando Norris, who proved his race craft with a second place in Las Vegas, will use the overtaking zones of the circuit ",
       "confidence": "medium",
-      "key_factor_fr": "Mercedes rapide en courbes, Verstappen triple vainqueur à Lusail",
+      "key_factor_fr": "Qualifying position et vitesse du package Mercedes",
       "news_used_ids": [],
-      "generated_at": "2026-11-24T13:00:15Z"
+      "generated_at": "2026-11-25T01:43:03Z"
     }
   ]
 }
