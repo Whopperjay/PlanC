@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-24T22:41:22Z",
+  "last_updated": "2026-11-25T01:42:23Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "01e24735ab61",
+      "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
+      "title_fr": "Norris prédit que la F1 de 2030 surpassera le spectacle de Las Vegas",
+      "title_en": "Norris predicts 2030 F1 will outshine Las Vegas GP",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10877443-b706-2.jpg",
+      "published_at": "2026-11-24T23:30:01+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a déclaré que la F1 de 2030 surpassera le spectacle de Las Vegas, malgré les 352 dépassements et 35 changements de tête enregistrés. Il estime que les courses futures seront encore plus palpitantes.",
+      "summary_en": "Lando Norris said 2030 F1 will outshine Las Vegas, even after 352 overtakes and 35 lead changes. He believes future races will be even more thrilling."
+    },
     {
       "id": "f8a854806689",
       "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Colton Herta ne participera pas aux deux derniers rounds de Formule 2 au Moyen-Orient après avoir raté l'opportunité d'obtenir un poste en Formule 1 chez Cadillac",
       "summary_en": "Colton Herta will skip the final two Formula 2 rounds in Qatar and Abu Dhabi after missing his chance to secure a Formula 1 seat with Cadillac"
-    },
-    {
-      "id": "cf3b50ff9c6f",
-      "title": "Who slept worst last night: Charles Leclerc",
-      "title_fr": "Vasseur critique Leclerc et Hamilton après Las Vegas",
-      "title_en": "Vasseur slams Leclerc and Hamilton after Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-charles-leclerc-10877136/10877136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKxOEY/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-11-23T10:00:42+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le directeur de la Scuderia Ferrari, Frédéric Vasseur, a déclaré que Charles Leclerc et Lewis Hamilton avaient reçu le même traitement que celui de Mexico après le Grand Prix de Las Vegas.",
-      "summary_en": "Ferrari team boss Frédéric Vasseur said Charles Leclerc and Lewis Hamilton were treated the same way after the Las Vegas Grand Prix as after Mexico."
     }
   ]
 }
