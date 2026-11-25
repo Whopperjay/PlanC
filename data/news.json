@@ -1,7 +1,45 @@
 {
-  "last_updated": "2026-11-25T10:44:37Z",
+  "last_updated": "2026-11-25T13:45:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "e651c41760e7",
+      "title": "Zak Brown rules out McLaren engine programme for F1 2030",
+      "title_fr": "Zak Brown rules out McLaren engine programme for F1 2030",
+      "title_en": "Zak Brown rules out McLaren engine programme for F1 2030",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQp5lY/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-25T13:15:47+00:00",
+      "race_id": "uk",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Zak Brown has ruled out a factory engine programme for the 2030 Formula 1 campaign as McLaren is “very happy” with its Mercedes partnership.<br />The British marque has been a Mercedes customer since ",
+      "summary_en": "Zak Brown has ruled out a factory engine programme for the 2030 Formula 1 campaign as McLaren is “very happy” with its Mercedes partnership.<br />The British marque has been a Mercedes customer since "
+    },
+    {
+      "id": "2c207b70ec22",
+      "title": "F1 returns to the track its tyres can’t cope with: Seven Qatar GP talking points | Formula 1",
+      "title_fr": "F1 revient sur piste que ses pneus ne supportent pas : 7 points clés du Qatar",
+      "title_en": "F1 returns to track its tyres can’t cope with: 7 Qatar GP talking points",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/25/f1-returns-to-the-track-its-tyres-cant-cope-with-seven-qatar-gp-talking-points/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-22-12-2249020900.jpg",
+      "published_at": "2026-11-25T12:08:32+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 s'apprête à rouler à Doha malgré les inquiétudes liées à la stabilité régionale. Voici les sept points essentiels à surveiller pour le Grand Prix du Qatar.",
+      "summary_en": "Formula 1 heads to Doha this weekend amid regional instability concerns. Here are the seven key talking points for the Qatar Grand Prix."
+    },
     {
       "id": "bcf600446b3c",
       "title": "Alonso: “We can't be competitive with the power unit we have”",
@@ -723,44 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen a déclaré qu'il préférerait rester chez lui, mais il fait confiance aux garanties de sécurité de la F1 pour les deux derniers Grands Prix au Moyen-Orient",
       "summary_en": "Max Verstappen said he would rather stay home, but he trusts F1's safety guarantees for the final two Middle East Grands Prix"
-    },
-    {
-      "id": "8e1a7b1404df",
-      "title": "Hadjar asked Red Bull to tell Verstappen “stop defending” as they were losing time | Formula 1",
-      "title_fr": "Hadjar demande a Red Bull d'arreter de defendre",
-      "title_en": "Hadjar asks Red Bull to tell Verstappen to stop defending",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/23/hadjar-asked-red-bull-to-tell-verstappen-stop-defending-as-they-were-losing-time/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/hadjar-work-as-ateam.jpg",
-      "published_at": "2026-11-23T12:32:39+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a demandé a Red Bull de dire a Max Verstappen d'arreter de defendre, estimant que cela les faisait perdre du temps.",
-      "summary_en": "Isack Hadjar asked Red Bull to tell Max Verstappen to stop defending, saying it was costing them time."
-    },
-    {
-      "id": "44c173edde27",
-      "title": "Why Ferrari believes written rules won't help manage Charles Leclerc and Lewis Hamilton",
-      "title_fr": "Ferrari estime que les règles écrites ne suffisent pas pour gérer Leclerc et Hamilton",
-      "title_en": "Ferrari says written rules won’t manage Leclerc and Hamilton",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-ferrari-believes-written-rules-wont-help-manage-charles-leclerc-and-lewis-hamilton/10877145/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari.jpg",
-      "published_at": "2026-11-23T12:15:49+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Ferrari a déclaré que les règles écrites ne suffiraient pas pour contrôler Charles Leclerc et Lewis Hamilton, soulignant que les discussions post-course restent similaires à celles de Mexico.",
-      "summary_en": "Ferrari said written rules would not manage Charles Leclerc and Lewis Hamilton, noting that post‑race media talks mirror those in Mexico."
     }
   ]
 }
