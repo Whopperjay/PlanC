@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-25T04:43:12Z",
+  "last_updated": "2026-11-25T07:44:01Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "8cf076c8979c",
+      "title": "How to watch the 2026 Qatar Grand Prix live this weekend | TV Times",
+      "title_fr": "Suivez le Grand Prix du Qatar 2026 en direct",
+      "title_en": "How to watch the 2026 Qatar Grand Prix live this weekend",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/25/how-to-watch-the-2026-qatar-grand-prix-live-this-weekend/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-43-2-2249035418.jpg",
+      "published_at": "2026-11-25T07:15:55+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 s'apprête à prendre le Circuit International de Losail pour le Grand Prix du Qatar 2026. Voici les diffusions disponibles ce week-end.",
+      "summary_en": "Formula 1 heads to Losail International Circuit for the 2026 Qatar Grand Prix. Here’s how to watch the race live this weekend."
+    },
     {
       "id": "01e24735ab61",
       "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell a proposé de coopérer avec Max Verstappen lors du Grand Prix de Las Vegas, une offre inattendue entre concurrents.",
       "summary_en": "George Russell offered to cooperate with Max Verstappen during the Las Vegas Grand Prix, an unexpected move between rivals."
-    },
-    {
-      "id": "10148756a062",
-      "title": "Herta pulls out of final Formula 2 races in Qatar and Abu Dhabi | Formula 2",
-      "title_fr": "Herta se retire des deux derniers rounds F2 au Moyen-Orient",
-      "title_en": "Herta pulls out of final Formula 2 races in Qatar and Abu Dhabi",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/23/herta-pulls-out-of-final-formula-2-races-in-qatar-and-abu-dhabi/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/06/racefansdotnet-24-06-11-00-24-13-1-CadillacF1Team_8132_HiRes.jpg",
-      "published_at": "2026-11-23T10:02:19+00:00",
-      "race_id": "qatar",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Colton Herta ne participera pas aux deux derniers rounds de Formule 2 au Moyen-Orient après avoir raté l'opportunité d'obtenir un poste en Formule 1 chez Cadillac",
-      "summary_en": "Colton Herta will skip the final two Formula 2 rounds in Qatar and Abu Dhabi after missing his chance to secure a Formula 1 seat with Cadillac"
     }
   ]
 }
