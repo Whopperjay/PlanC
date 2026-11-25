@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-25T07:44:01Z",
+  "last_updated": "2026-11-25T10:44:37Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "bcf600446b3c",
+      "title": "Alonso: “We can't be competitive with the power unit we have”",
+      "title_fr": "Alonso critique la puissance de Honda",
+      "title_en": "Alonso criticises Honda's power unit",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwBRQ2/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": "2026-11-25T09:16:47+00:00",
+      "race_id": "japan",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso dénonce la faiblesse de la puissance et de la fiabilité du moteur Honda, affirmant que l'Aston Martin ne peut pas être compétitive. Il espère toutefois des améliorations futures.",
+      "summary_en": "Fernando Alonso criticises Honda's power unit for lacking power and reliability, saying Aston Martin cannot be competitive. He remains hopeful of future improvements."
+    },
+    {
+      "id": "9fd39d67eef0",
+      "title": "Fernando Alonso: “We can't be competitive with the power unit we have”",
+      "title_fr": "Alonso dénonce l'unité Honda : \"Pas compétitif\"",
+      "title_en": "Alonso Criticizes Honda Power Unit: 'Not Competitive'",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOvVY/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-25T09:12:51+00:00",
+      "race_id": "japan",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a déclaré que Honda est très en retard par rapport aux concurrents, rendant l'Aston Martin incapable de rivaliser. Il reste toutefois optimiste quant à l'avenir de la puissance japonaise.",
+      "summary_en": "Fernando Alonso said Honda is far behind rivals, making Aston Martin uncompetitive. He remains hopeful about the future of the Japanese power unit."
+    },
+    {
+      "id": "7428913b49d3",
+      "title": "Stats: Mercedes have disappeared from the podium since their championship win | 2026 Las Vegas Grand Prix stats and facts",
+      "title_fr": "Mercedes disparaît du podium depuis le titre des constructeurs",
+      "title_en": "Mercedes Vanishes from Podium Since Winning Constructors' Championship",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/25/stats-mercedes-have-disappeared-from-the-podium-since-their-championship-win/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-24-45-3-M655578_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-11-25T07:45:53+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Mercedes a dominé le podium à chaque Grand Prix cette saison jusqu'à la victoire du championnat des constructeurs, mais n'a plus touché le podium depuis. Les chiffres du Grand Prix de Las Vegas illustrent cette inversion.",
+      "summary_en": "Mercedes dominated the podium at every Grand Prix this season until winning the constructors' championship, but has not reached the podium since. The Las Vegas Grand Prix stats highlight this reversal."
+    },
     {
       "id": "8cf076c8979c",
       "title": "How to watch the 2026 Qatar Grand Prix live this weekend | TV Times",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ferrari a déclaré que les règles écrites ne suffiraient pas pour contrôler Charles Leclerc et Lewis Hamilton, soulignant que les discussions post-course restent similaires à celles de Mexico.",
       "summary_en": "Ferrari said written rules would not manage Charles Leclerc and Lewis Hamilton, noting that post‑race media talks mirror those in Mexico."
-    },
-    {
-      "id": "dff972520c4a",
-      "title": "Why Ferrari believes written rules won't help manage Leclerc and Hamilton",
-      "title_fr": "Why Ferrari believes written rules won't help manage Leclerc and Hamilton",
-      "title_en": "Why Ferrari believes written rules won't help manage Leclerc and Hamilton",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-ferrari-believes-written-rules-wont-help-manage-leclerc-and-hamilton/10877158/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj7MWY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-23T12:15:05+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The post-race media session with Ferrari Formula 1 team boss Frederic Vasseur in Las Vegas was, in several respects, almost a carbon copy of the conversation in Mexico City.<br />On both occasions, th",
-      "summary_en": "The post-race media session with Ferrari Formula 1 team boss Frederic Vasseur in Las Vegas was, in several respects, almost a carbon copy of the conversation in Mexico City.<br />On both occasions, th"
-    },
-    {
-      "id": "c2d77015c2f4",
-      "title": "Who slept best last night: Max Verstappen",
-      "title_fr": "Verstappen reprend le devant à Las Vegas",
-      "title_en": "Verstappen Reclaims the Lead in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10877167/10877167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Pl0/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-23T11:23:51+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen a repris la tête du pack à Las Vegas, avec 17 dépassements sur 35. La majorité de ces changements ont opposé le pilote néerlandais à George Russell.",
-      "summary_en": "Max Verstappen reclaimed the lead in Las Vegas, accounting for 17 of 35 overtakes. Most of the moves were against George Russell."
-    },
-    {
-      "id": "b81e2b0e33e3",
-      "title": "Russell offered to co-operate with Verstappen during Las Vegas Grand Prix | Formula 1",
-      "title_fr": "Russell propose coopération avec Verstappen à Las Vegas",
-      "title_en": "Russell offers cooperation with Verstappen at Las Vegas",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/23/russell-offered-to-co-operate-with-verstappen-during-las-vegas-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/russell-yo-yo.jpg",
-      "published_at": "2026-11-23T10:47:20+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell a proposé de coopérer avec Max Verstappen lors du Grand Prix de Las Vegas, une offre inattendue entre concurrents.",
-      "summary_en": "George Russell offered to cooperate with Max Verstappen during the Las Vegas Grand Prix, an unexpected move between rivals."
     }
   ]
 }
