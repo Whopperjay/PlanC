@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-26T07:47:44Z",
+  "last_updated": "2026-11-26T10:49:38Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "a54ed7fb1602",
+      "title": "Alonso to not let his age determine F1 retirement",
+      "title_fr": "Alonso refuse de laisser son âge dicter sa retraite",
+      "title_en": "Alonso says age won't dictate his F1 retirement",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg",
+      "published_at": "2026-11-26T10:42:24+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso déclare qu'il quittera la Formule 1 lorsqu'il sentira qu'il est trop lent, sans que son âge soit un facteur. Le pilote, champion à deux titres, a parcouru 23 saisons sans victoire depuis 245 courses.",
+      "summary_en": "Fernando Alonso says he will leave Formula 1 when he feels too slow, not because of his age. The two-time champion has raced 23 seasons without a win in 245 races."
+    },
+    {
+      "id": "44f3f752e49a",
+      "title": "Fernando Alonso: ‘I will quit F1 when I feel slow, not at a specific age’",
+      "title_fr": "Alonso déclare quitter la F1 quand il sent la lenteur",
+      "title_en": "Alonso says he'll quit F1 when he feels slow",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDBWk0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-26T10:39:33+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso, champion à deux titres, annonce qu'il quittera la Formule 1 lorsqu'il sentira qu'il est trop lent, sans se fixer d'âge précis.",
+      "summary_en": "Fernando Alonso, two-time champion, says he will leave Formula 1 when he feels too slow, without setting a specific age."
+    },
+    {
+      "id": "c1f9caa1a9bc",
+      "title": "How to follow Qatar Grand Prix on the BBC",
+      "title_fr": "Suivez le Qatar Grand Prix sur la BBC",
+      "title_en": "Follow the Qatar Grand Prix on BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a8/live/3ee78b10-e650-11f1-a563-e14cd8b02601.jpg",
+      "published_at": "2026-11-26T10:15:25+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La BBC propose une couverture complète du Grand Prix du Qatar du 27 au 29 novembre. Retrouvez les diffusions en direct, les commentaires experts et les analyses sur les chaînes et plateformes numériques.",
+      "summary_en": "BBC offers comprehensive coverage of the Qatar Grand Prix from 27 to 29 November. Watch live broadcasts, expert commentary, and analysis across TV channels and digital platforms."
+    },
+    {
+      "id": "117a908f16ae",
+      "title": "McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule",
+      "title_fr": "McLaren avertit de la nouvelle limite de 27 tours",
+      "title_en": "McLaren warns of new 27‑lap limit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK131jw0/s6/lando-norris-mclaren-oscar-pia-a10877828-b706-3.jpg",
+      "published_at": "2026-11-26T10:03:32+00:00",
+      "race_id": "qatar",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "McLaren a mis en garde les équipes contre la nouvelle règle imposant un maximum de 27 tours par set de pneus, une hausse par rapport aux 25 tours de 2025.",
+      "summary_en": "McLaren has warned teams about the new 27‑lap stint limit, up from 25 laps in 2025, imposed by Pirelli and the FIA for the Qatar Grand Prix."
+    },
+    {
+      "id": "d506bfb0030b",
+      "title": "Bearman to continue with Haas in 2027",
+      "title_fr": "Bearman reste chez Haas en 2027",
+      "title_en": "Bearman stays with Haas for 2027",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea6/live/eec7eb70-e979-11f1-acd8-af22a7ebb474.jpg",
+      "published_at": "2026-11-26T09:30:22+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Oliver Bearman, pilote britannique, prolongera son contrat avec Haas pour la saison 2027.",
+      "summary_en": "Britain's Oliver Bearman will continue racing for Haas in Formula 1 in 2027."
+    },
+    {
+      "id": "38d03f8061a2",
+      "title": "Haas finally confirms Bearman’s new contract for 2027 | Formula 1",
+      "title_fr": "Haas prolonge le contrat d'Oliver Bearman pour 2027",
+      "title_en": "Haas confirms Oliver Bearman's contract for 2027",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-18-17-41-55-6-2305798002-579.jpg",
+      "published_at": "2026-11-26T09:19:12+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Haas a confirmé que le pilote junior Ferrari Oliver Bearman restera dans l'équipe en 2027, aux côtés de Rafael Camara.",
+      "summary_en": "Haas has confirmed that Ferrari junior driver Oliver Bearman will stay with the team in 2027, alongside Rafael Camara."
+    },
+    {
+      "id": "5596f3eeb6c6",
+      "title": "Haas finally announces Bearman for F1 2027",
+      "title_fr": "Bearman reste à Haas pour 2027",
+      "title_en": "Bearman stays with Haas for 2027",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/haas-announce-bearman-f1-2027/10877815/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwB882/s6/oliver-bearman-haas-f1-team-2.jpg",
+      "published_at": "2026-11-26T09:04:37+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Oliver Bearman, 21 ans, a signé un nouveau contrat avec Haas pour la saison 2027, s’associant à Rafael Camara. Le tableau 2027 est désormais complet.",
+      "summary_en": "Oliver Bearman, 21, has signed a new deal with Haas for the 2027 season, partnering rookie Rafael Camara. The 2027 grid is now complete."
+    },
+    {
+      "id": "2361f1bbf7b6",
+      "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
+      "title_fr": "Oliver Bearman reste à Haas pour 2027",
+      "title_en": "Oliver Bearman stays at Haas for 2027",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas.jpg",
+      "published_at": "2026-11-26T09:00:41+00:00",
+      "race_id": "brazil",
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "Le pilote britannique Oliver Bearman a signé un nouveau contrat avec Haas, assurant sa présence pour la saison 2027 aux côtés de Rafael Camara. Le grid 2027 est désormais complet.",
+      "summary_en": "British driver Oliver Bearman has signed a new contract with Haas, securing his place for the 2027 season alongside Rafael Camara. The 2027 grid is now complete."
+    },
+    {
+      "id": "09c99a48d69c",
+      "title": "Spotlight: F1 has ‘more people who look like the fans’ due to diversity push – Hamilton | Brief",
+      "title_fr": "Hamilton affirme que la F1 ressemble davantage aux fans",
+      "title_en": "Hamilton says F1 now looks more like its fans",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/26/spotlight-f1-has-more-people-who-look-like-the-fans-due-to-diversity-push-hamilton/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/07/racefansdotnet-24-07-05-15-28-38-1-260705_R09_GRANBRETAGNA_DP__M1_3563_1.jpg",
+      "published_at": "2026-11-26T08:59:27+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton déclare que la Formule 1 compte désormais davantage de pilotes qui ressemblent aux fans, grâce à la poussée de diversité. Il souligne que cette évolution reflète mieux la base de supporters.",
+      "summary_en": "Lewis Hamilton says Formula 1 now has more drivers who look like its fans thanks to a diversity push. He notes the change better reflects the fan base."
+    },
+    {
+      "id": "b23f34a37496",
+      "title": "Andrew Benson Q&A: Send us your questions",
+      "title_fr": "Andrew Benson lance sa série hebdomadaire de questions-réponses",
+      "title_en": "Andrew Benson launches weekly Q&A series",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
+      "published_at": "2026-11-26T08:21:52+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Andrew Benson, correspondant F1, propose une séance de questions-réponses hebdomadaire. Le public est invité à soumettre ses questions dès maintenant.",
+      "summary_en": "Andrew Benson, F1 correspondent, is hosting a weekly Q&A. Fans are encouraged to submit their questions now."
+    },
     {
       "id": "86be771d795f",
       "title": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Après le Grand Prix de Las Vegas, Andrew Benson, correspondant BBC F1, répond aux questions sur la durabilité du partenariat entre Lewis Hamilton et Charles Leclerc chez Ferrari. Le champion de Formule 1 discutent de leurs ambitions communes.",
       "summary_en": "After the Las Vegas Grand Prix, BBC F1 correspondent Andrew Benson answers questions about the sustainability of Lewis Hamilton and Charles Leclerc's partnership at Ferrari. The Mercedes driver and Formula 1 champion discuss their shared ambitions."
-    },
-    {
-      "id": "e3b674f9910c",
-      "title": "Was Hadjar helping himself or Verstappen when he collected a penalty in the pits? | Formula 1",
-      "title_fr": "Hadjar pénalisé pour conduite lente derrière la voiture de sécurité",
-      "title_en": "Hadjar penalised for slow driving behind Safety Car",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/24/was-hadjar-helping-himself-or-verstappen-when-he-collected-a-penalty-in-the-pits/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-05-52-38-1-SI202611220044.jpg",
-      "published_at": "2026-11-24T07:15:03+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Les commissaires ont sanctionné Isack Hadjar pour avoir roulé lentement derrière la voiture de sécurité, une décision visant à limiter la stratégie de Red Bull. Le pilote a reçu une pénalité de 10 secondes.",
-      "summary_en": "Stewards penalised Isack Hadjar for driving slowly behind the Safety Car, a move aimed at limiting Red Bull's strategy. The driver received a 10‑second penalty."
-    },
-    {
-      "id": "269e09b04078",
-      "title": "On This Day: McLaren appoint rookie Hamilton as Alonso’s team mate for 2007 | Brief",
-      "title_fr": "McLaren nomme Hamilton, nouveau coéquipier d'Alonso en 2007",
-      "title_en": "McLaren names Hamilton as Alonso’s 2007 teammate",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/24/on-this-day-hamilton-joins-mclaren/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2019/03/racefansdotnet-20060910-094754-2.jpg",
-      "published_at": "2026-11-24T00:01:00+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "McLaren a annoncé que Lewis Hamilton, rookie, rejoindrait l’équipe en 2007 pour courir aux côtés de Fernando Alonso. Le pilote britannique débutera sa carrière en Formule 1 avec l’Escuderia McLaren.",
-      "summary_en": "McLaren announced that rookie Lewis Hamilton would join the team in 2007 to race alongside Fernando Alonso. The British driver will make his Formula 1 debut with the McLaren outfit."
-    },
-    {
-      "id": "d1b3e6c9b1b4",
-      "title": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
-      "title_fr": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
-      "title_en": "Max Verstappen jokes last time he won a race like F1 Las Vegas GP it was \"Mario Kart\"",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-the-last-time-i-won-a-race-like-las-vegas-was-on-mario-kart/10877295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877295-b707-2.jpg",
-      "published_at": "2026-11-23T20:00:03+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart.<br />The Red Bull driver converted pole position into his",
-      "summary_en": "Four-time Formula 1 champion Max Verstappen says the last time he won a race like the Las Vegas Grand Prix was when he was playing Mario Kart.<br />The Red Bull driver converted pole position into his"
-    },
-    {
-      "id": "44391c17d6db",
-      "title": "Laurent Mekies: Keeping his emotions in check is giving Isack Hadjar “lap time”",
-      "title_fr": "Mekies : garder ses émotions sous contrôle donne à Hadjar un temps de tour",
-      "title_en": "Mekies: Keeping his emotions in check gives Hadjar a lap time",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/laurent-mekies-keeping-his-emotions-in-check-is-giving-isack-hadjar-lap-time/10877211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzrKY/s6/isack-hadjar-red-bull-racing-a10877211-b707-2.jpg",
-      "published_at": "2026-11-23T19:30:02+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar a quitté le Grand Prix de Las Vegas sans victoire après une défaillance de l’aile avant et une pénalité de 10 secondes. Laurent Mekies, pourtant, voit en lui un potentiel prometteur.",
-      "summary_en": "Isack Hadjar left the Las Vegas Grand Prix without a podium after a front‑wing failure and a 10‑second safety‑car penalty. Team principal Laurent Mekies, however, sees promising potential in the 22‑year‑old."
-    },
-    {
-      "id": "5e7120dccbbe",
-      "title": "Guenther Steiner expects Ferrari board to react after Lewis Hamilton-Charles Leclerc clash",
-      "title_fr": "Steiner prédit réaction de Ferrari après l'affrontement Hamilton-Leclerc",
-      "title_en": "Steiner predicts Ferrari reaction after Hamilton-Leclerc clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877259-b704-2.jpg",
-      "published_at": "2026-11-23T19:00:03+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Guenther Steiner, ancien directeur de Haas, estime que le conseil d'administration de Ferrari réagira après l'affrontement entre Lewis Hamilton et Charles Leclerc à Las Vegas. Le pilote Leclerc a été pénalisé et terminé dixième.",
-      "summary_en": "Former Haas chief Guenther Steiner says Ferrari will react after Lewis Hamilton and Charles Leclerc clashed again in Las Vegas. Leclerc was penalised and finished tenth."
-    },
-    {
-      "id": "93401f17920d",
-      "title": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
-      "title_fr": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
-      "title_en": "Toto Wolff: Las Vegas was “Indy 500, NASCAR and Formula 1 mixed”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEdzP2/s6/toto-wolff-mercedes-a10877232-b705-2.jpg",
-      "published_at": "2026-11-23T18:10:17+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Even after watching both Mercedes drivers slip off the podium in the final three laps, team principal Toto Wolff left the 2026 Las Vegas Grand Prix thrilled by the spectacle.<br />While critics questi",
-      "summary_en": "Even after watching both Mercedes drivers slip off the podium in the final three laps, team principal Toto Wolff left the 2026 Las Vegas Grand Prix thrilled by the spectacle.<br />While critics questi"
-    },
-    {
-      "id": "27262bdc1314",
-      "title": "Max Verstappen’s deadpan reaction to winning F1’s Overtake of the Month award",
-      "title_fr": "Verstappen reste impassible après l’attribution de la Manœuvre du mois",
-      "title_en": "Verstappen stays stoic after winning Overtake of the Month",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappens-deadpan-reaction-to-winning-f1s-overtake-of-the-month-award/10877217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXykV56/s6/max-verstappen-red-bull-racing-a10877217-b707-2.jpg",
-      "published_at": "2026-11-23T17:51:43+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen a reçu la Manœuvre du mois lors du Grand Prix de Las Vegas, mais a réagi avec une impassibilité typique, refusant de faire la fête sur scène",
-      "summary_en": "Max Verstappen received the Overtake of the Month award at the Las Vegas Grand Prix, but stayed stoic on stage, refusing to celebrate in the usual flamboyant fashion"
-    },
-    {
-      "id": "5771767c4023",
-      "title": "Max Verstappen considering 2027 Daytona 24 Hours entry",
-      "title_fr": "Max Verstappen considering 2027 Daytona 24 Hours entry",
-      "title_en": "Max Verstappen considering 2027 Daytona 24 Hours entry",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-reveals-he-is-considering-2027-daytona-24-hours-entry/10877159/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxMwY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-23T17:43:13+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Ahead of the Formula 1 Las Vegas Grand Prix, Max Verstappen first paid a visit to Daytona.<br />The Dutchman said he was primarily there to film content with Red Bull, but the visit also raises the qu",
-      "summary_en": "Ahead of the Formula 1 Las Vegas Grand Prix, Max Verstappen first paid a visit to Daytona.<br />The Dutchman said he was primarily there to film content with Red Bull, but the visit also raises the qu"
-    },
-    {
-      "id": "17c9094c89ff",
-      "title": "Max Verstappen reveals he is considering 2027 Daytona 24 Hours entry",
-      "title_fr": "Verstappen envisage la Daytona 24 Heures 2027",
-      "title_en": "Verstappen eyes 2027 Daytona 24 Hours",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-he-is-considering-2027-daytona-24-hours-entry/10877155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6VyKxMwY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-23T17:42:25+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le pilote de Red Bull, Max Verstappen, a déclaré qu'il envisage de participer aux 24 Heures de Daytona 2027 après une visite à Daytona avant le Grand Prix de Las Vegas. Il a filmé du contenu pour la marque.",
-      "summary_en": "Red Bull driver Max Verstappen said he is considering a 2027 entry to the Daytona 24 Hours after visiting Daytona before the Las Vegas Grand Prix. He filmed content for the team."
-    },
-    {
-      "id": "1d5a95fa4558",
-      "title": "Andrea Stella warns against knee-jerk reaction as Las Vegas reshapes 2030 debate",
-      "title_fr": "Stella met en garde contre les réactions précipitées après Las Vegas",
-      "title_en": "Stella warns against knee-jerk reactions after Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/andrea-stella-warns-f1-against-polarised-verdicts-after-record-352-overtake-las-vegas-spectacle/10877202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BZwO2/s6/andrea-stella-mclaren-a10877202-b706-2.jpg",
-      "published_at": "2026-11-23T17:38:42+00:00",
-      "race_id": "lasvegas",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Après la course de Las Vegas, Andrea Stella appelle à la prudence face aux jugements hâtifs sur la réforme des moteurs 2030. Il souligne que la décision de la FIA, adoptée en un jour, mérite une analyse approfondie.",
-      "summary_en": "After Las Vegas, Andrea Stella urges caution against hasty judgments on the 2030 engine overhaul. He stresses that the FIA’s one‑day decision deserves a thorough analysis."
     }
   ]
 }
