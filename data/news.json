@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-25T22:46:47Z",
+  "last_updated": "2026-11-26T01:47:24Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "86be771d795f",
+      "title": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
+      "title_fr": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
+      "title_en": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari-a10877483-b704-2.jpg",
+      "published_at": "2026-11-26T01:30:02+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Pr",
+      "summary_en": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Pr"
+    },
+    {
+      "id": "d6ceb87352ac",
+      "title": "Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”",
+      "title_fr": "Rosberg déclare Russell hors du combat 2027",
+      "title_en": "Rosberg declares Russell out of 2027 title fight",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QRGg6/s6/george-russell-mercedes-a10877719-b705-2.jpg",
+      "published_at": "2026-11-26T00:30:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Nico Rosberg, ancien champion, affirme que George Russell ne sera pas un prétendant au titre en 2027, le qualifiant d'enfer mental.",
+      "summary_en": "Former champion Nico Rosberg says George Russell will not be a title contender in 2027, calling him a 'mental hole'."
+    },
+    {
+      "id": "8513be8f4a3a",
+      "title": "Ralf Schumacher sees echoes of Lewis Hamilton's Nico Rosberg \"mind games\" after Las Vegas",
+      "title_fr": "Schumacher pointe les jeux d’esprit de Hamilton à Maranello",
+      "title_en": "Schumacher points to Hamilton's mind games at Maranello",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-says-lewis-hamilton-wants-ferraris-no-1-power-by-any-means-necessary-after-leclerc-/10877712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10877712-b704-4.jpg",
+      "published_at": "2026-11-25T23:30:05+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ralf Schumacher affirme que la véritable bataille de pouvoir à Maranello vient de l’autre côté du garage. Il accuse Lewis Hamilton de vouloir imposer la domination de Ferrari à tout prix.",
+      "summary_en": "Ralf Schumacher claims the real power play at Maranello comes from the other side of the garage, accusing Lewis Hamilton of seeking to impose Ferrari's dominance at any cost."
+    },
     {
       "id": "8908e970488c",
       "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Après la course de Las Vegas, Andrea Stella appelle à la prudence face aux jugements hâtifs sur la réforme des moteurs 2030. Il souligne que la décision de la FIA, adoptée en un jour, mérite une analyse approfondie.",
       "summary_en": "After Las Vegas, Andrea Stella urges caution against hasty judgments on the 2030 engine overhaul. He stresses that the FIA’s one‑day decision deserves a thorough analysis."
-    },
-    {
-      "id": "01ec5ad80247",
-      "title": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
-      "title_fr": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
-      "title_en": "Lando Norris: \"Looking at the battery more than where I'm going\" in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-looking-at-the-battery-more-than-where-im-going-in-las-vegas/10877274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15z410/s6/lando-norris-mclaren-a10877274-b706-2.jpg",
-      "published_at": "2026-11-23T17:04:03+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.<br />The 2025 ch",
-      "summary_en": "McLaren Formula 1 driver Lando Norris says he spent more of the Las Vegas Grand Prix watching his battery than the road ahead, as he recovered from outside the points to second place.<br />The 2025 ch"
-    },
-    {
-      "id": "3ae54cc13236",
-      "title": "Russell says he’d worked out how to beat Verstappen to the finishing line | Formula 1",
-      "title_fr": "Russell says he’d worked out how to beat Verstappen to the finishing line | Formula 1",
-      "title_en": "Russell says he’d worked out how to beat Verstappen to the finishing line | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/23/russell-says-hed-worked-out-how-to-beat-verstappen-to-the-finishing-line/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-13-16-02-2-M656852_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-11-23T17:02:40+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell says he'd found a better energy deployment strategy to beat Max Verstappen to the finishing than his team mate.",
-      "summary_en": "George Russell says he'd found a better energy deployment strategy to beat Max Verstappen to the finishing than his team mate."
-    },
-    {
-      "id": "f1ff452cf2e8",
-      "title": "Stewards right to blame Leclerc for collision with Hamilton, says Vasseur | Formula 1",
-      "title_fr": "Les commissaires blâment Leclerc pour collision avec Hamilton",
-      "title_en": "Stewards blame Leclerc for collision with Hamilton",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/23/stewards-right-to-blame-leclerc-for-collision-with-hamilton-says-vasseur/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-23-15-14-26-1-5-saturday-lasvegas-2026.jpg",
-      "published_at": "2026-11-23T16:20:11+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le directeur technique de Ferrari, Frédéric Vasseur, a déclaré que les commissaires avaient donné un message à Charles Leclerc cinq tours avant sa collision avec Lewis Hamilton.",
-      "summary_en": "Ferrari team principal Frédéric Vasseur said the stewards had sent a message to Charles Leclerc five corners before his collision with Lewis Hamilton."
     }
   ]
 }
