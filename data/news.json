@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-26T19:54:07Z",
+  "last_updated": "2026-11-26T22:56:03Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "73ad3dc65d57",
+      "title": "Max Verstappen details his ideal 2030 F1 Formula",
+      "title_fr": "Verstappen expose sa vision de la F1 2030",
+      "title_en": "Verstappen outlines his vision for 2030 F1",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10878035-b707-2.jpg",
+      "published_at": "2026-11-26T22:13:25+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Après sa victoire à Las Vegas, Max Verstappen décrit la formule idéale de la F1 pour 2030, prônant des voitures plus légères, des moteurs simplifiés et une meilleure dynamique de dépassement.",
+      "summary_en": "After his chaotic Las Vegas win, Max Verstappen outlines his ideal 2030 F1, calling for lighter cars, simpler engines and a push‑to‑pass system."
+    },
+    {
+      "id": "2fd18e3a46b5",
+      "title": "Leclerc denies claim he has a ‘number one’ clause in his Ferrari contract | Formula 1",
+      "title_fr": "Leclerc nie clause numéro un dans son contrat Ferrari",
+      "title_en": "Leclerc denies ‘number one’ clause in Ferrari contract",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-19-18-59-1-261025_R18_USA_AC_CAT2670.jpg",
+      "published_at": "2026-11-26T21:14:39+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a rejeté les rumeurs selon lesquelles son contrat Ferrari inclurait une clause le désignant comme pilote numéro un. Le pilote a déclaré que cette information était fausse.",
+      "summary_en": "Charles Leclerc denied reports that his Ferrari contract contains a clause that would make him the team’s number one driver. He said the claim was false."
+    },
+    {
+      "id": "93492701ac76",
+      "title": "Kimi Antonelli teases Nordschleife race with Max Verstappen, but there is one condition",
+      "title_fr": "Antonelli rêve d'une course Nordschleife avec Verstappen, sous condition",
+      "title_en": "Antonelli eyes Nordschleife race with Verstappen, but one condition",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDNx70/s6/kimi-antonelli-mercedes-max-ve-a10878047-b708-2.jpg",
+      "published_at": "2026-11-26T20:56:51+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion 2026 Kimi Antonelli exprime son envie de courir avec Max Verstappen sur la Nordschleife, mais il précise qu'il doit d'abord obtenir l'accord de Toto Wolff, le directeur de Mercedes.",
+      "summary_en": "2026 Formula 1 champion Kimi Antonelli says he'd love to race alongside Max Verstappen at the Nordschleife, but he admits he first needs the support of Mercedes team principal Toto Wolff."
+    },
+    {
+      "id": "34b9b6f021b2",
+      "title": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
+      "title_fr": "Verstappen passe à Tom Hart pour le Qatar GP",
+      "title_en": "Verstappen switches to Tom Hart for Qatar GP",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74Zm42/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-26T20:02:57+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen ne sera pas accompagné de Gianpiero Lambiase ce week-end à Lusail. Red Bull a mis en place un système de rotation afin que Tom Hart s’installe avant son poste permanent.",
+      "summary_en": "Max Verstappen will not be accompanied by Gianpiero Lambiase this weekend at Lusail. Red Bull has implemented a rotation system so Tom Hart can settle in before his permanent role."
+    },
+    {
+      "id": "7d1bad34fb21",
+      "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+      "title_fr": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+      "title_en": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj7QzY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-26T19:55:34+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of t",
+      "summary_en": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of t"
+    },
     {
       "id": "2acbe01ff385",
       "title": "Why Max Verstappen has ruled out Indy 500 entry",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Ralf Schumacher affirme que la véritable bataille de pouvoir à Maranello vient de l’autre côté du garage. Il accuse Lewis Hamilton de vouloir imposer la domination de Ferrari à tout prix.",
       "summary_en": "Ralf Schumacher claims the real power play at Maranello comes from the other side of the garage, accusing Lewis Hamilton of seeking to impose Ferrari's dominance at any cost."
-    },
-    {
-      "id": "8908e970488c",
-      "title": "Max Verstappen admits he would “rather stay at home” ahead of Qatar and Abu Dhabi",
-      "title_fr": "Verstappen préfère rester chez lui avant Qatar et Abu Dhabi",
-      "title_en": "Verstappen says he'd rather stay home before Qatar and Abu Dhabi",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/verstappen-admits-he-would-rather-stay-at-home-ahead-of-qatar-and-abu-dhabi-despite-f1-safety-guara/10877645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arEDRG2/s6/max-verstappen-red-bull-racing-a10877645-b707-2.jpg",
-      "published_at": "2026-11-25T21:25:17+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen a déclaré qu’il préférerait rester chez lui plutôt que de se rendre à Doha, Qatar et Abu Dhabi, citant les tensions régionales.",
-      "summary_en": "Max Verstappen said he would rather stay home than travel to Doha, Qatar and Abu Dhabi, citing regional tensions."
-    },
-    {
-      "id": "4398bfb26609",
-      "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen’s Las Vegas GP win",
-      "title_fr": "Red Bull dévoile l'update aérodynamique derrière la victoire de Verstappen à Las Vegas",
-      "title_en": "Red Bull reveals the aero update behind Verstappen's Las Vegas win",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fia-filings-reveal-the-lone-rb22-aero-update-behind-max-verstappens-las-vegas-gp-win/10877619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10877619-b707-3.jpg",
-      "published_at": "2026-11-25T20:31:23+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Les dossiers FIA montrent que la victoire de Max Verstappen à Las Vegas repose sur une mise à jour aérodynamique subtile de Red Bull, notamment un ajustement des extrémités de l'aileron avant et un travail sur les sidepods",
-      "summary_en": "FIA filings show that Max Verstappen's Las Vegas win was underpinned by a subtle aero update from Red Bull, including a front-wing endplate tweak and sidepod rework"
-    },
-    {
-      "id": "6edcbb7b6fff",
-      "title": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
-      "title_fr": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
-      "title_en": "Fred Vasseur is running out of answers at Ferrari, says Jolyon Palmer",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/worn-out-fred-vasseur-is-running-out-of-answers-at-ferrari-says-jolyon-palmer-/10877422/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBdV6/s6/frederic-vasseur-ferrari-a10877422-b704-2.jpg",
-      "published_at": "2026-11-25T19:57:56+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari.<br />On Lap 38, Charles Leclerc dived d",
-      "summary_en": "In a 2026 Las Vegas Grand Prix where 22 drivers traded a record 352 overtakes largely cleanly, Formula 1’s fiercest intra-team blowup still belonged to Ferrari.<br />On Lap 38, Charles Leclerc dived d"
-    },
-    {
-      "id": "7902c1b244c8",
-      "title": "Williams exceeded F1 cost cap by £627,000",
-      "title_fr": "Williams dépasse le plafond de dépenses de 627 000 £",
-      "title_en": "Williams exceeds cost cap by £627,000",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/00ebc900-e8f5-11f1-8808-1d4222955d7e.jpg",
-      "published_at": "2026-11-25T17:37:34+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Williams a dépassé le plafond de dépenses de la Formule 1 de 627 000 £ lors de la saison 2025, selon la FIA. La sanction est en cours d’évaluation.",
-      "summary_en": "Williams exceeded Formula 1's cost cap by £627,000 during the 2025 season, the FIA has found. The penalty is under review."
-    },
-    {
-      "id": "393daba88792",
-      "title": "Five things to look out for at F1’s Qatar GP",
-      "title_fr": "Cinq points à surveiller lors du GP du Qatar",
-      "title_en": "Five things to watch at Qatar GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YMX3X1v2/s6/lusail-city-qatar-november-29--2.jpg",
-      "published_at": "2026-11-25T17:13:20+00:00",
-      "race_id": "qatar",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "La saison 2026 approche de sa fin, le Grand Prix du Qatar se tient ce week-end avant la finale à Abu Dhabi. Bien que les titres soient déjà remportés par Kimi Antonelli et Mercedes, cinq points clés restent à surveiller.",
-      "summary_en": "The 2026 season is nearing its end, with the Qatar GP this weekend before Abu Dhabi. Although Kimi Antonelli and Mercedes have already secured the titles, five key points remain to watch."
     }
   ]
 }
