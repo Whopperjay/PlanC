@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-25T13:00:21Z",
+  "generated_at": "2026-11-26T05:00:04Z",
   "messages": [
     {
-      "id": "2026112513_0",
-      "text_fr": "Antonelli, Verstappen, Norris : mon podium du Qatar est prêt. Le tien, tu l'as tiré au sort ? 😏",
-      "text_en": "Antonelli, Verstappen, Norris: my Qatar podium is set. Did you draw yours out of a hat? 😏",
-      "created_at": "2026-11-25T13:00:26Z"
+      "id": "2026112605_0",
+      "text_fr": "Verstappen, Norris, Antonelli : mon podium pour Lusail est prêt. Le tien a encore du mal à quitter les stands ? 🏁",
+      "text_en": "Verstappen, Norris, Antonelli: my Lusail podium is locked in. Yours still stuck in the pit lane? 🏁",
+      "created_at": "2026-11-26T05:00:12Z"
     },
     {
-      "id": "2026112513_1",
-      "text_fr": "Au Qatar, même les projecteurs brillent moins que mes pronos. Vas-y, essaie de battre l'IA !",
-      "text_en": "In Qatar, even the floodlights shine less than my predictions. Go on, try to beat the AI!",
-      "created_at": "2026-11-25T13:00:26Z"
+      "id": "2026112605_1",
+      "text_fr": "Sous les projecteurs du Qatar, mes pronos brillent. Les tiens ? Viens battre l'IA si t'oses.",
+      "text_en": "Under the Qatar floodlights, my pronos shine. Yours? Come beat the AI if you dare.",
+      "created_at": "2026-11-26T05:00:12Z"
     }
   ]
 }
