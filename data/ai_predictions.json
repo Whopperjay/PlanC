@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T05:00:04Z",
+  "generated_at": "2026-11-26T13:00:24Z",
   "model": "claude",
   "predictions": [
     {
@@ -203,14 +203,14 @@
       "session_type": "qualifying",
       "session_date": "2026-11-28T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli a dominé la dernière qualification à Las Vegas (P1) et montre une excellente adaptation aux circuits neufs, crucial sur Lusail où l'évolution de la piste est rapide. Verstappen, champion et bénéficiaire d'une mise à jour aérodynamique, reste le plus rapide en course et en qualification, confirmé par sa victoire à Las Vegas. Russell, constant en qualification (P3 à Las Vegas) et solide en",
-      "reasoning_en": "Antonelli topped the recent Las Vegas qualifying and demonstrates strong one‑lap performance on brand‑new tracks, vital for Lusail where the track evolves quickly. Verstappen, the champion with a subtle aerodynamic upgrade, remains the fastest in both race and qualifying, proven by his Las Vegas win. Russell, consistently quick in qualifying (P3 in Las Vegas) and reliable in races, rounds out the ",
-      "confidence": "high",
-      "key_factor_fr": "Performance sur un tour et évolution rapide du circuit",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Mercedes domine 2026 : Antonelli mène le championnat avec 98 points d'avance et sa W17 excelle dans les courbes rapides et fluides de Lusail. Russell, très fort sur un tour, devrait compléter le doublé. Verstappen, souvent brillant au Qatar, reste la menace principale si Red Bull trouve le bon équilibre aéro. Ferrari et McLaren semblent un cran derrière.",
+      "reasoning_en": "Mercedes dominates 2026: Antonelli leads the championship by 98 points, and his W17 excels in Lusail's fast, flowing corners. Russell, very strong over one lap, should complete the front row. Verstappen, often brilliant in Qatar, remains the main threat if Red Bull nails the aero balance. Ferrari and McLaren look a step behind.",
+      "confidence": "medium",
+      "key_factor_fr": "Efficacité aéro Mercedes dans les virages rapides de Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-26T01:48:14Z"
+      "generated_at": "2026-11-26T13:00:24Z"
     },
     {
       "event_id": "qatar_grand_prix",
