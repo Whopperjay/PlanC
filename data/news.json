@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-26T10:49:38Z",
+  "last_updated": "2026-11-26T13:50:15Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "6138a1035706",
+      "title": "F1 2027 grid: Who will be racing and where?",
+      "title_fr": "Grille 2027 : Haas conserve Bearman, Mercedes avec Antonelli et Russell",
+      "title_en": "2027 grid: Haas keeps Bearman, Mercedes fields Antonelli and Russell",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBmOY/s6/rafael-camara-haas-f1-team-lan-3.jpg",
+      "published_at": "2026-11-26T12:13:37+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "La grille 2027 est désormais complète. Haas a retenu le jeune Oliver Bearman, tandis que la seule équipe à modifier son duo est Haas. Mercedes compte Kimi Antonelli et George Russell.",
+      "summary_en": "The 2027 grid is now complete. Haas has retained young Oliver Bearman, while the only team changing its driver pairing is Haas. Mercedes fields Kimi Antonelli and George Russell."
+    },
+    {
+      "id": "f0c9c1b14b1e",
+      "title": "F1 2027 grid: Who will be racing and where? The full line-up",
+      "title_fr": "Grille 2027 complète : Haas garde Oliver Bearman",
+      "title_en": "2027 grid complete: Haas keeps Oliver Bearman",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": "2026-11-26T12:04:37+00:00",
+      "race_id": null,
+      "category": "transfert",
+      "tags": [
+        "transfert"
+      ],
+      "importance": 68,
+      "is_breaking": false,
+      "summary_fr": "La grille de la saison 2027 est désormais complète après l'annonce de Haas de conserver Oliver Bearman. L'équipe américaine est la seule à modifier son duo de pilotes pour la prochaine saison.",
+      "summary_en": "The 2027 grid is now complete after Haas announced it will keep Oliver Bearman. The American team is the only one changing its driver pairing for the next season."
+    },
+    {
+      "id": "b46ccdb9f31b",
+      "title": "Fernando Alonso to miss Qatar F1 media day with viral illness",
+      "title_fr": "Fernando Alonso to miss Qatar F1 media day with viral illness",
+      "title_en": "Fernando Alonso to miss Qatar F1 media day with viral illness",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-26T10:57:58+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\".<br />The two-time champion will miss the traditional media obligations ",
+      "summary_en": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\".<br />The two-time champion will miss the traditional media obligations "
+    },
     {
       "id": "a54ed7fb1602",
       "title": "Alonso to not let his age determine F1 retirement",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Pierre Gasly a perdu son calme suite aux problèmes de surchauffe d'Alpine, après des dizaines de messages radio l'invitant à gérer la montée des températures du moteur.",
       "summary_en": "Pierre Gasly lost his composure after Alpine's overheating issues, following dozens of radio messages telling him to manage rising power unit temperatures."
-    },
-    {
-      "id": "4b1738f3912e",
-      "title": "Isack Hadjar frustrated – What really happened on Red Bull's team radio in Las Vegas",
-      "title_fr": "Hadjar frustré après l’appel radio de Red Bull à Las Vegas",
-      "title_en": "Hadjar frustrated after Red Bull's team radio call in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/isack-hadjar-frustrated-what-really-happened-on-red-bulls-team-radio-in-las-vegas/10877375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0qgKkjkY/s6/isack-hadjar-red-bull-racing.jpg",
-      "published_at": "2026-11-24T10:04:17+00:00",
-      "race_id": "lasvegas",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar, arrivé quatrième, se retrouve à la deuxième place dès le quatrième tour, mais la radio de Red Bull l’incite à rester derrière Max Verstappen, ce qui le frustre profondément.",
-      "summary_en": "Isack Hadjar, starting fourth, was running second by lap four but was told by Red Bull's team radio to stay behind Max Verstappen, a decision that left him frustrated."
-    },
-    {
-      "id": "e17275fe0c07",
-      "title": "Featured Comment: Herta deserves credit for trying to make the switch from IndyCar | Brief",
-      "title_fr": "Herta mérite le crédit pour son passage de l'IndyCar à la F1",
-      "title_en": "Herta deserves credit for her IndyCar to F1 switch",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/24/featured-comment-herta-deserves-credit-for-trying-to-make-the-switch-from-indycar/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-29-21-56-11-3-CadillacF1Team_12268_HiRes.jpg",
-      "published_at": "2026-11-24T09:25:55+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Herta a pris un risque audacieux en passant de l'IndyCar à la F1, un choix qui s'est avéré judicieux",
-      "summary_en": "Herta took a bold gamble moving from IndyCar to F1, a decision that proved worthwhile"
-    },
-    {
-      "id": "e5a90e1bcc70",
-      "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
-      "title_fr": "Hamilton et Leclerc : la pérennité de leur partenariat Ferrari",
-      "title_en": "Hamilton and Leclerc: Is Their Ferrari Partnership Sustainable?",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c34c/live/e0b9a770-e7e0-11f1-82bb-6b3be4dcbf70.jpg",
-      "published_at": "2026-11-24T08:10:15+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Après le Grand Prix de Las Vegas, Andrew Benson, correspondant BBC F1, répond aux questions sur la durabilité du partenariat entre Lewis Hamilton et Charles Leclerc chez Ferrari. Le champion de Formule 1 discutent de leurs ambitions communes.",
-      "summary_en": "After the Las Vegas Grand Prix, BBC F1 correspondent Andrew Benson answers questions about the sustainability of Lewis Hamilton and Charles Leclerc's partnership at Ferrari. The Mercedes driver and Formula 1 champion discuss their shared ambitions."
     }
   ]
 }
