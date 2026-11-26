@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-11-26T13:50:15Z",
+  "last_updated": "2026-11-26T16:52:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "5afe233383aa",
+      "title": "Leclerc furious with integrity being questioned after Hamilton clashes",
+      "title_fr": "Leclerc furious with integrity being questioned after Hamilton clashes",
+      "title_en": "Leclerc furious with integrity being questioned after Hamilton clashes",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaDqb2/s6/lewis-hamilton-ferrari-charles-2.jpg",
+      "published_at": "2026-11-26T16:26:29+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”.<br />The",
+      "summary_en": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”.<br />The"
+    },
+    {
+      "id": "53a6fccda264",
+      "title": "Charles Leclerc refuses to reveal Ferrari's \"rules of engagement\" after Lewis Hamilton crash",
+      "title_fr": "Leclerc refuse de dévoiler les règles de Ferrari après l'accident de Hamilton",
+      "title_en": "Leclerc refuses to reveal Ferrari's rules after Hamilton crash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-ferraris-on-track-clashes-are-unacceptable-as-he-and-hamilton-seek-private-s/10877945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg",
+      "published_at": "2026-11-26T16:23:20+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Leclerc a refusé de dévoiler les règles de Ferrari suite à l'accident de Lewis Hamilton à Las Vegas, malgré les critiques de Fred Vasseur.",
+      "summary_en": "Leclerc declined to reveal Ferrari's rules after Lewis Hamilton's crash at Las Vegas, despite criticism from team principal Fred Vasseur."
+    },
+    {
+      "id": "ef615dce05cf",
+      "title": "“We need to find another solution” to Ferrari driver clashes, admits Leclerc | Formula 1",
+      "title_fr": "Leclerc confie l’échec de Ferrari face à Hamilton",
+      "title_en": "Leclerc admits Ferrari's failure to avoid clashes with Hamilton",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/26/we-need-to-find-another-solution-to-ferrari-driver-clashes-admits-leclerc/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-23-15-14-26-1-5-saturday-lasvegas-2026.jpg",
+      "published_at": "2026-11-26T16:22:48+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a reconnu que les efforts de Ferrari pour éviter les collisions avec Lewis Hamilton à Las Vegas ont échoué. Le pilote a déclaré que la société doit chercher une autre solution.",
+      "summary_en": "Charles Leclerc admitted that Ferrari's attempts to avoid clashes with Lewis Hamilton in Las Vegas failed. The driver said the team must find another solution."
+    },
+    {
+      "id": "064362cd3d76",
+      "title": "Charles Leclerc urges \"solution\" after several clashes with Lewis Hamilton",
+      "title_fr": "Leclerc exige une solution après plusieurs affrontements avec Hamilton",
+      "title_en": "Leclerc calls for a solution after multiple clashes with Hamilton",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-urges-to-find-solution-after-several-clashes-with-lewis-hamilton/10877951/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari.jpg",
+      "published_at": "2026-11-26T16:22:36+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a exprimé sa colère après plusieurs affrontements avec Lewis Hamilton, demandant une solution pour calmer les tensions au sein de Ferrari",
+      "summary_en": "Charles Leclerc voiced his frustration after several clashes with Lewis Hamilton, urging a solution to ease tensions within Ferrari"
+    },
+    {
+      "id": "ffa58eabebff",
+      "title": "David Croft: Max Verstappen has Fernando Alonso's race intelligence but is faster",
+      "title_fr": "David Croft: Max Verstappen has Fernando Alonso's race intelligence but is faster",
+      "title_en": "David Croft: Max Verstappen has Fernando Alonso's race intelligence but is faster",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/david-croft-max-verstappen-has-fernando-alonsos-race-intelligence-but-is-faster/10877947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyz7z6/s6/fernando-alonso-aston-martin-r-a10877947-b707-2.jpg",
+      "published_at": "2026-11-26T16:13:05+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Sky Sports Formula 1 lead commentator David Croft sees Fernando Alonso's smart racing in Max Verstappen, but adds that the four-time champion has more speed.<br />Speaking on Sky Sports' F1 Show podca",
+      "summary_en": "Sky Sports Formula 1 lead commentator David Croft sees Fernando Alonso's smart racing in Max Verstappen, but adds that the four-time champion has more speed.<br />Speaking on Sky Sports' F1 Show podca"
+    },
+    {
+      "id": "d9fd947041b3",
+      "title": "Hadjar says unfortunate timing caused his front wing to “explode” in Las Vegas | Formula 1",
+      "title_fr": "Hadjar explique l'explosion de son aile avant à Las Vegas",
+      "title_en": "Hadjar blames timing for front wing failure in Las Vegas",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/26/hadjar-says-unfortunate-timing-caused-his-front-wing-to-explode-in-las-vegas/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-07-20-08-2-SI202611210088.jpg",
+      "published_at": "2026-11-26T16:03:51+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Isack Hadjar déclare que le timing a provoqué l'explosion de son aile avant à Las Vegas. Red Bull renforcera la conception de l'aile après l'incident.",
+      "summary_en": "Isack Hadjar says the timing caused his front wing to explode in Las Vegas. Red Bull will reinforce the wing design after the incident."
+    },
+    {
+      "id": "8a2b517dbd22",
+      "title": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
+      "title_fr": "Russell défend ses propos sur Verstappen après l'incident de Las Vegas",
+      "title_en": "Russell stands by his remarks on Verstappen after Las Vegas incident",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AMMjY/s6/george-russell-mercedes-4.jpg",
+      "published_at": "2026-11-26T15:56:53+00:00",
+      "race_id": "netherlands",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "George Russell a réaffirmé ses critiques envers Max Verstappen après que ce dernier l'ait dépassé dans la dernière courbe de la séance de qualification à Las Vegas. Le pilote Mercedes a dénoncé le non-respect d'une règle non écrite.",
+      "summary_en": "George Russell reaffirmed his criticism of Max Verstappen after the Dutchman overtook him in the final corner during free practice in Las Vegas. The Mercedes driver accused Verstappen of breaking an unwritten rule."
+    },
+    {
+      "id": "e169b19d1e3d",
+      "title": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
+      "title_fr": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
+      "title_en": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-max-verstappen-comments-amusing-but-i-stand-by-what-i-said/10877931/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-2.jpg",
+      "published_at": "2026-11-26T15:50:05+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with",
+      "summary_en": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with"
+    },
+    {
+      "id": "1c22ee148379",
+      "title": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
+      "title_fr": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
+      "title_en": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7blXl0/s6/max-verstappen-red-bull-racing-a10877899-b705-4.jpg",
+      "published_at": "2026-11-26T15:33:00+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what sta",
+      "summary_en": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what sta"
+    },
+    {
+      "id": "5fa1b71df3b0",
+      "title": "Lando Norris on George Russell and Max Verstappen rivalry: \"Helps when you back it up on track\"",
+      "title_fr": "Norris défend la rivalité Verstappen-Russell",
+      "title_en": "Norris backs Verstappen‑Russell rivalry",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-on-george-russell-and-max-verstappen-rivalry-helps-when-you-back-it-up-on-track/10877909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAlWDY/s6/lando-norris-mclaren-a10877909-b706-2.jpg",
+      "published_at": "2026-11-26T15:09:13+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris a déclaré que la rivalité entre Max Verstappen et George Russell ne doit pas forcément être amicale, soulignant que les résultats sur la piste sont primordiaux. Il estime que les compétiteurs se confrontent naturellement.",
+      "summary_en": "Lando Norris said the Verstappen‑Russell rivalry need not be friendly, stressing that track results matter most. He believes competitors naturally clash."
+    },
     {
       "id": "6138a1035706",
       "title": "F1 2027 grid: Who will be racing and where?",
@@ -571,196 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La Formule 1 s'apprête à prendre le Circuit International de Losail pour le Grand Prix du Qatar 2026. Voici les diffusions disponibles ce week-end.",
       "summary_en": "Formula 1 heads to Losail International Circuit for the 2026 Qatar Grand Prix. Here’s how to watch the race live this weekend."
-    },
-    {
-      "id": "01e24735ab61",
-      "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
-      "title_fr": "Norris prédit que la F1 de 2030 surpassera le spectacle de Las Vegas",
-      "title_en": "Norris predicts 2030 F1 will outshine Las Vegas GP",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10877443-b706-2.jpg",
-      "published_at": "2026-11-24T23:30:01+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a déclaré que la F1 de 2030 surpassera le spectacle de Las Vegas, malgré les 352 dépassements et 35 changements de tête enregistrés. Il estime que les courses futures seront encore plus palpitantes.",
-      "summary_en": "Lando Norris said 2030 F1 will outshine Las Vegas, even after 352 overtakes and 35 lead changes. He believes future races will be even more thrilling."
-    },
-    {
-      "id": "f8a854806689",
-      "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
-      "title_fr": "Red Bull aurait envisagé de céder la tête à Verstappen à Las Vegas",
-      "title_en": "Red Bull reportedly considered ceding Verstappen's lead at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5Ak91Y/s6/max-verstappen-red-bull-racing-a10877450-b707-4.jpg",
-      "published_at": "2026-11-24T21:08:35+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Des messages radio de Red Bull ont révélé que l'équipe aurait envisagé de céder la tête à Max Verstappen à Las Vegas, avant de revenir sur la décision.",
-      "summary_en": "Red Bull radio logs show the team considered ceding Max Verstappen's lead at the Las Vegas GP, but ultimately decided against it."
-    },
-    {
-      "id": "ac6f4bdeacb0",
-      "title": "Jolyon Palmer: No rival could match Max Verstappen's fight against George Russell in Las Vegas",
-      "title_fr": "Palmer loue la bataille de Verstappen contre Russell à Las Vegas",
-      "title_en": "Palmer praises Verstappen's duel with Russell in Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZXkEK6/s6/max-verstappen-red-bull-racing-a10877407-b707-2.jpg",
-      "published_at": "2026-11-24T20:05:06+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Jolyon Palmer a salué la lutte acharnée de Max Verstappen contre George Russell lors du Grand Prix de Las Vegas, qualifiant le duel de spectacle inégalé sur le grid actuel.",
-      "summary_en": "Former F1 driver Jolyon Palmer praised Max Verstappen's fierce duel with George Russell at the Las Vegas Grand Prix, calling it an unmatched display of wheel-to-wheel skill on the current grid."
-    },
-    {
-      "id": "60c7171c6d34",
-      "title": "What's next for Herta after F1 2027 snub?",
-      "title_fr": "Herta exclue de la F1 2027, Cadillac conserve Bottas",
-      "title_en": "Herta left out of F1 2027, Cadillac keeps Bottas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/whats-next-for-herta-after-f1-2027-snub/10877533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0arKWNy2/s6/colton-herta-hitech-gp-2.jpg",
-      "published_at": "2026-11-24T17:59:55+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Cadillac a choisi de rester avec Valtteri Bottas pour accompagner Sergio Pérez, laissant Colton Herta sans place en 2027. Le propriétaire majoritaire TWG souhaite un pilote américain, mais la décision soulève des interrogations.",
-      "summary_en": "Cadillac has opted to keep Valtteri Bottas alongside Sergio Pérez, leaving Colton Herta without a seat for 2027. The majority owner TWG is keen on an American driver, but the move raises questions."
-    },
-    {
-      "id": "a441f3a8347c",
-      "title": "Decision time looms for Colton Herta after 2027 Cadillac F1 snub",
-      "title_fr": "Cadillac refuse Herta pour 2027",
-      "title_en": "Cadillac snubs Herta for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/decision-time-looms-for-colton-herta-after-2027-cadillac-f1-snub/10877531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/01QNpEx0/s6/colton-herta-cadillac-f1-team.jpg",
-      "published_at": "2026-11-24T17:57:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Cadillac a choisi de rester avec Valtteri Bottas et Sergio Pérez pour 2027, laissant Colton Herta sans place. Le constructeur questionne son avenir en Formule 1.",
-      "summary_en": "Cadillac has opted to keep Valtteri Bottas and Sergio Pérez for 2027, leaving Colton Herta without a seat. The team is now questioning his future in Formula 1."
-    },
-    {
-      "id": "85ee9bcd109c",
-      "title": "The issue that cost Pierre Gasly a potential \"win\" at F1's Las Vegas GP",
-      "title_fr": "Gasly perd un podium à Las Vegas à cause d'un problème de refroidissement",
-      "title_en": "Gasly loses podium at Las Vegas GP due to cooling issue",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/the-issue-that-cost-pierre-gasly-a-potential-podium-at-f1s-las-vegas-gp/10877501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2jEAOXb0/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-24T15:38:33+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Pierre Gasly aurait pu gagner à Las Vegas si son Alpine n’avait pas subi un problème de refroidissement en fin de course. Il a terminé cinquième après avoir perdu cinq places.",
-      "summary_en": "Pierre Gasly could have won the Las Vegas GP if his Alpine had not suffered a cooling problem in the closing laps. He finished fifth after dropping five places."
-    },
-    {
-      "id": "f9a42d2436c4",
-      "title": "F1 pundit calls for real consequences at Ferrari: \"I'd chuck Ollie Bearman in for a race\"",
-      "title_fr": "Hinckcliffe exige des sanctions à Ferrari après collision à Las Vegas",
-      "title_en": "Hinchcliffe demands sanctions for Ferrari after Las Vegas collision",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/chuck-bearman-in-for-a-race-james-hinchcliffe-calls-for-real-consequences-after-ferraris-latest-mel/10877438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877438-b704-2.jpg",
-      "published_at": "2026-11-24T13:00:03+00:00",
-      "race_id": "lasvegas",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Le commentateur James Hinckcliffe a appelé à des sanctions contre Ferrari après la collision entre Charles Leclerc et Lewis Hamilton à Las Vegas. Il suggère que le directeur Fred Vasseur doit prendre des mesures.",
-      "summary_en": "Commentator James Hinckcliffe called for sanctions against Ferrari after the collision between Charles Leclerc and Lewis Hamilton at Las Vegas. He suggested that team principal Fred Vasseur should take action."
-    },
-    {
-      "id": "9b3b4354b730",
-      "title": "Juan Pablo Montoya explains how Red Bull outsmarted Mercedes at F1 Las Vegas GP",
-      "title_fr": "Red Bull remporte le Grand Prix de Las Vegas, Mercedes déjouée",
-      "title_en": "Red Bull wins Las Vegas Grand Prix, Mercedes outmaneuvered",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-explains-how-red-bulls-deployment-trap-outsmarted-mercedes-in-las-vegas/10877399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2dEolPnY/s6/max-verstappen-red-bull-racing-a10877399-b707-2.jpg",
-      "published_at": "2026-11-24T12:28:59+00:00",
-      "race_id": "lasvegas",
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Red Bull a remporté le Grand Prix de Las Vegas après 50 tours et 35 changements de tête, tandis que Mercedes, malgré un package rapide, n'a pas réussi à suivre. Montoya explique comment l'équipe a déjoué la stratégie de Mercedes.",
-      "summary_en": "Red Bull won the Las Vegas Grand Prix after 50 laps and 35 lead changes, while Mercedes, despite a fast package, failed to keep up. Montoya explains how the team outsmarted Mercedes' strategy."
-    },
-    {
-      "id": "ee7b1e1b84f2",
-      "title": "‘Maybe I’m delusional but I genuinely feel like a podium was possible’ – Lindblad | Formula 1",
-      "title_fr": "Lindblad déclare qu'un podium était possible malgré le spin à Las Vegas",
-      "title_en": "Lindblad says a podium was possible despite Las Vegas spin",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/24/maybe-im-delusional-but-i-genuinely-feel-like-a-podium-was-possible-lindblad/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-09-03-59-5-SI202611220131.jpg",
-      "published_at": "2026-11-24T11:10:46+00:00",
-      "race_id": "lasvegas",
-      "category": "accident",
-      "tags": [
-        "accident"
-      ],
-      "importance": 90,
-      "is_breaking": false,
-      "summary_fr": "Arvid Lindblad, pilote de Racing Bulls, explique que la cause du spin à Las Vegas reste mystérieuse et que, malgré l'incident, il estime qu'un podium était envisageable.",
-      "summary_en": "Arvid Lindblad, Racing Bulls driver, says the cause of the Las Vegas spin remains unclear, yet he believes a podium was still within reach."
-    },
-    {
-      "id": "649ab06bdc49",
-      "title": "‘I’d rather blow up the f***ing engine’: Gasly’s fury over cooling problems | Formula 1",
-      "title_fr": "Gasly en colère après problèmes de surchauffe",
-      "title_en": "Gasly furious after cooling issues",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/24/video-id-rather-blow-up-the-fing-engine-gaslys-fury-over-cooling-problems/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-24-10-06-12-1-15-saturday-lasvegas-2026.jpg",
-      "published_at": "2026-11-24T10:13:49+00:00",
-      "race_id": null,
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Pierre Gasly a perdu son calme suite aux problèmes de surchauffe d'Alpine, après des dizaines de messages radio l'invitant à gérer la montée des températures du moteur.",
-      "summary_en": "Pierre Gasly lost his composure after Alpine's overheating issues, following dozens of radio messages telling him to manage rising power unit temperatures."
     }
   ]
 }
