@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T13:00:21Z",
-  "model": "claude",
+  "generated_at": "2026-11-26T01:48:15Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -205,27 +205,27 @@
       "p1": "antonelli",
       "p2": "max_verstappen",
       "p3": "russell",
-      "reasoning_fr": "Antonelli domine le championnat avec 402 points, 98 de plus que Verstappen, signe d'une Mercedes et d'un pilote très réguliers. Lusail, rapide et riche en virages moyens à rapides, récompense l'appui et l'efficacité aérodynamique. Verstappen, deuxième, reste redoutable sur un tour. Russell complète le trio avec la même Mercedes, devant Norris, à égalité de points. Sans actualité récente, l'incerti",
-      "reasoning_en": "Antonelli leads the championship with 402 points, 98 clear of Verstappen, reflecting a consistently strong driver and Mercedes package. Lusail's medium and high-speed corners reward downforce and aerodynamic efficiency. Verstappen, second overall, remains formidable over one lap. Russell completes the trio in the same Mercedes, ahead of Norris, who is level on points. With no recent news available",
-      "confidence": "medium",
-      "key_factor_fr": "Domination d'Antonelli et de Mercedes cette saison, circuit rapide",
+      "reasoning_fr": "Antonelli a dominé la dernière qualification à Las Vegas (P1) et montre une excellente adaptation aux circuits neufs, crucial sur Lusail où l'évolution de la piste est rapide. Verstappen, champion et bénéficiaire d'une mise à jour aérodynamique, reste le plus rapide en course et en qualification, confirmé par sa victoire à Las Vegas. Russell, constant en qualification (P3 à Las Vegas) et solide en",
+      "reasoning_en": "Antonelli topped the recent Las Vegas qualifying and demonstrates strong one‑lap performance on brand‑new tracks, vital for Lusail where the track evolves quickly. Verstappen, the champion with a subtle aerodynamic upgrade, remains the fastest in both race and qualifying, proven by his Las Vegas win. Russell, consistently quick in qualifying (P3 in Las Vegas) and reliable in races, rounds out the ",
+      "confidence": "high",
+      "key_factor_fr": "Performance sur un tour et évolution rapide du circuit",
       "news_used_ids": [],
-      "generated_at": "2026-11-25T13:00:21Z"
+      "generated_at": "2026-11-26T01:48:14Z"
     },
     {
       "event_id": "qatar_grand_prix",
       "race_id": "qatar",
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
-      "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "norris",
-      "reasoning_fr": "Antonelli domine la saison avec 402 points, 98 de plus que Verstappen, et part favori avec Mercedes. Verstappen, deuxième du championnat, a gagné à Lusail en 2023, 2024 et 2025. Norris complète le podium : les virages rapides du circuit conviennent généralement à McLaren. Russell et Hamilton restent des menaces sérieuses. Sans données d'essais ni de qualifications, l'incertitude demeure importante",
-      "reasoning_en": "Antonelli dominates the season with 402 points, 98 ahead of Verstappen, and starts as favourite with Mercedes. Verstappen, second in the championship, won at Lusail in 2023, 2024 and 2025. Norris completes the podium: the circuit's fast corners generally suit McLaren. Russell and Hamilton remain serious threats. Without practice or qualifying data, considerable uncertainty remains.",
+      "p1": "max_verstappen",
+      "p2": "norris",
+      "p3": "antonelli",
+      "reasoning_fr": "Antonelli partira en pole grâce à sa performance en qualification à Las Vegas, mais le Red Bull de Verstappen bénéficie d’une mise à jour aérodynamique qui lui assure une vitesse de pointe supérieure. Norris, solide en course et bien placé sur la grille, exploite la dégradation modérée des pneus à Lusail. Le trio combine départ rapide, gestion des pneus et fiabilité, garantissant leurs podiums pot",
+      "reasoning_en": "Antonelli will start from pole after his strong Las Vegas qualifying, yet Verstappen’s Red Bull carries a subtle aero upgrade that gives him higher straight‑line speed. Norris, consistently strong in race conditions and well‑placed on the grid, can manage Lusail’s moderate tyre wear. The trio blends a fast start, tyre management and reliability, making them the most likely podium finishers.",
       "confidence": "medium",
-      "key_factor_fr": "Domination d'Antonelli face à Verstappen, triple vainqueur à Lusail",
+      "key_factor_fr": "Pole + mise à jour aérodynamique Red Bull",
       "news_used_ids": [],
-      "generated_at": "2026-11-25T13:00:14Z"
+      "generated_at": "2026-11-26T01:48:02Z"
     }
   ]
 }
