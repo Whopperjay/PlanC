@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T13:00:24Z",
-  "model": "claude",
+  "generated_at": "2026-11-26T13:50:55Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -218,14 +218,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
       "p1": "max_verstappen",
-      "p2": "norris",
-      "p3": "antonelli",
-      "reasoning_fr": "Antonelli partira en pole grâce à sa performance en qualification à Las Vegas, mais le Red Bull de Verstappen bénéficie d’une mise à jour aérodynamique qui lui assure une vitesse de pointe supérieure. Norris, solide en course et bien placé sur la grille, exploite la dégradation modérée des pneus à Lusail. Le trio combine départ rapide, gestion des pneus et fiabilité, garantissant leurs podiums pot",
-      "reasoning_en": "Antonelli will start from pole after his strong Las Vegas qualifying, yet Verstappen’s Red Bull carries a subtle aero upgrade that gives him higher straight‑line speed. Norris, consistently strong in race conditions and well‑placed on the grid, can manage Lusail’s moderate tyre wear. The trio blends a fast start, tyre management and reliability, making them the most likely podium finishers.",
-      "confidence": "medium",
-      "key_factor_fr": "Pole + mise à jour aérodynamique Red Bull",
+      "p2": "antonelli",
+      "p3": "russell",
+      "reasoning_fr": "Le circuit de Lusail est un street avec peu de dépassements, la grille compte donc très lourdement. Antonelli a montré un excellent rythme en qualification (pole à Las Vegas) et Mercedes gère bien la dégradation. Verstappen, champion et vainqueur de la dernière course, possède la meilleure vitesse en course et la stratégie Red Bull. Russell, constant et fiable, complète le podium grâce à la solidi",
+      "reasoning_en": "Lusail’s street layout limits overtaking, making the starting grid crucial. Antonelli displayed top‑one qualifying pace in Las Vegas and Mercedes handles tyre wear well. Verstappen, the reigning champion and last‑race winner, has superior race speed and Red Bull’s strategy. Russell’s consistency and Mercedes reliability, combined with his recent strong form, secure him a podium place.",
+      "confidence": "high",
+      "key_factor_fr": "Grille de départ sur circuit à faible dépassement",
       "news_used_ids": [],
-      "generated_at": "2026-11-26T01:48:02Z"
+      "generated_at": "2026-11-26T13:50:54Z"
     }
   ]
 }
