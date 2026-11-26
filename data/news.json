@@ -1,7 +1,140 @@
 {
-  "last_updated": "2026-11-26T16:52:19Z",
+  "last_updated": "2026-11-26T19:54:07Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "2acbe01ff385",
+      "title": "Why Max Verstappen has ruled out Indy 500 entry",
+      "title_fr": "Verstappen décline l'Indy 500",
+      "title_en": "Verstappen rules out Indy 500",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwB9x2/s6/max-verstappen-red-bull-racing-a10878029-b707-2.jpg",
+      "published_at": "2026-11-26T19:05:20+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Le champion Max Verstappen a refusé de participer à l'Indy 500, invoquant les séquelles de l'accident de Nelson Piquet à l'Indianapolis Speedway.",
+      "summary_en": "Max Verstappen has ruled out racing in the Indy 500, citing the lasting effects of Nelson Piquet's crash at the Indianapolis Speedway."
+    },
+    {
+      "id": "73b7b72253f0",
+      "title": "Lewis Hamilton confirms \"positive\" talks with Charles Leclerc after Las Vegas clash",
+      "title_fr": "Hamilton confirme des discussions positives avec Leclerc après l'affrontement de Las Vegas",
+      "title_en": "Hamilton confirms positive talks with Leclerc after Las Vegas clash",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-confirms-positive-talks-with-charles-leclerc-after-las-vegas-clash/10878021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxxk6/s6/lewis-hamilton-ferrari-a10878021-b704-2.jpg",
+      "published_at": "2026-11-26T18:42:43+00:00",
+      "race_id": "mexico",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton affirme que les échanges avec Charles Leclerc depuis le Grand Prix de Las Vegas sont positifs, et que les deux pilotes peuvent avancer ensemble après leur affrontement récent.",
+      "summary_en": "Lewis Hamilton says talks with Charles Leclerc since Las Vegas have been positive, and that the two drivers can move forward together after their recent clash."
+    },
+    {
+      "id": "c8c6b11c5e92",
+      "title": "Christian Horner and Geri Halliwell reportedly snap up \"Pride and Prejudice\" mansion",
+      "title_fr": "Horner et Halliwell acquièrent la maison de Pride and Prejudice",
+      "title_en": "Horner and Halliwell snap up Pride and Prejudice mansion",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s6/geri-horner-and-christian-horn-a10878015-b708-2.jpg",
+      "published_at": "2026-11-26T18:20:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Christian Horner, directeur de Red Bull Racing, et sa femme Geri Halliwell ont acheté Edgcote House, l'ancienne demeure de la série BBC, après avoir surpassé un concurrent offrant 52 millions de livres.",
+      "summary_en": "Christian Horner, former Red Bull Racing chief, and his wife Geri Halliwell reportedly bought Edgcote House, the historic estate that featured in BBC's Pride and Prejudice, after outbidding a rival at 52 million pounds."
+    },
+    {
+      "id": "3e04cfc6a60b",
+      "title": "Ferrari facing 'very challenging times' - Hamilton",
+      "title_fr": "Hamilton critique la Ferrari après les incidents avec Leclerc",
+      "title_en": "Hamilton slams Ferrari after incidents with Leclerc",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab7/live/09442e30-e9bd-11f1-8d2a-f5d2aabc11cb.jpg",
+      "published_at": "2026-11-26T17:30:01+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré que la Ferrari traverse des moments très difficiles suite aux incidents sur la piste avec son coéquipier Charles Leclerc.",
+      "summary_en": "Lewis Hamilton said Ferrari are facing very challenging times after on-track incidents with teammate Charles Leclerc."
+    },
+    {
+      "id": "0cac13eec997",
+      "title": "Hamilton convinced Ferrari will \"figure it out\" following Leclerc skirmish",
+      "title_fr": "Hamilton rassure Ferrari après l'affrontement de Leclerc",
+      "title_en": "Hamilton reassures Ferrari after Leclerc clash",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzmeY/s6/charles-leclerc-ferrari-lewis--2.jpg",
+      "published_at": "2026-11-26T17:07:17+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton a déclaré que Ferrari trouvera une solution après le conflit sur la piste avec Charles Leclerc lors du Grand Prix de Las Vegas. Le pilote est confiant quant à la résolution de la situation.",
+      "summary_en": "Lewis Hamilton said Ferrari will find a solution after the on-track clash with Charles Leclerc at the Las Vegas Grand Prix. The driver is confident the issue will be resolved."
+    },
+    {
+      "id": "858c03c62461",
+      "title": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
+      "title_fr": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
+      "title_en": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-gets-under-max-verstappens-skin-more-than-any-other-driver-says-f1-pundit/10877980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRmkBY/s6/max-verstappen-red-bull-racing-a10877980-b707-2.jpg",
+      "published_at": "2026-11-26T17:06:54+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this",
+      "summary_en": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this"
+    },
+    {
+      "id": "0d070ec94fe6",
+      "title": "Lewis Hamilton on latest Charles Leclerc flashpoint: \"We're free to race\"",
+      "title_fr": "Hamilton rassure après l'affrontement avec Leclerc",
+      "title_en": "Hamilton reassures after clash with Leclerc",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-on-latest-charles-leclerc-flashpoint-were-going-to-figure-it-out/10877972/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg",
+      "published_at": "2026-11-26T17:02:09+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Lewis Hamilton affirme que lui et Charles Leclerc vont résoudre le problème après leur altercation à Las Vegas, déclarant qu'ils sont libres de courir.",
+      "summary_en": "Lewis Hamilton says he and Charles Leclerc will \"figure it out\" after their clash at Las Vegas, insisting they are free to race."
+    },
     {
       "id": "5afe233383aa",
       "title": "Leclerc furious with integrity being questioned after Hamilton clashes",
@@ -98,6 +231,25 @@
       "summary_en": "Sky Sports Formula 1 lead commentator David Croft sees Fernando Alonso's smart racing in Max Verstappen, but adds that the four-time champion has more speed.<br />Speaking on Sky Sports' F1 Show podca"
     },
     {
+      "id": "2ede5f9d2198",
+      "title": "Russell says Verstappen's criticism 'quite amusing'",
+      "title_fr": "Russell trouve les critiques de Verstappen \"amusantes\"",
+      "title_en": "Russell finds Verstappen's criticism \"quite amusing\"",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/ae2c5130-e9ad-11f1-859a-37130cd3a1d7.jpg",
+      "published_at": "2026-11-26T16:10:58+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a déclaré que Max Verstappen peut dire ce qu'il veut et a trouvé les critiques du pilote de Red Bull après le Grand Prix de Las Vegas \"amusantes\".",
+      "summary_en": "George Russell said Max Verstappen can say what he wants and found the Red Bull driver's criticisms after the Las Vegas Grand Prix \"quite amusing\"."
+    },
+    {
       "id": "d9fd947041b3",
       "title": "Hadjar says unfortunate timing caused his front wing to “explode” in Las Vegas | Formula 1",
       "title_fr": "Hadjar explique l'explosion de son aile avant à Las Vegas",
@@ -153,6 +305,25 @@
       "is_breaking": false,
       "summary_fr": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with",
       "summary_en": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with"
+    },
+    {
+      "id": "d85e9f25786e",
+      "title": "Russell “amused” by Verstappen’s comments in Las Vegas: “I stand by what I said” | Formula 1",
+      "title_fr": "Russell se moque de la remarque de Verstappen à Las Vegas",
+      "title_en": "Russell amused by Verstappen's comment in Las Vegas",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/26/russell-amused-by-verstappens-comments-in-las-vegas-i-stand-by-what-i-said/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-24-52-2-M655520_F1_Grand_Prix_of_Las_Vegas_Qualifying.jpg",
+      "published_at": "2026-11-26T15:47:03+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a trouvé amusante la remarque de Max Verstappen, qui a déclaré être bien en dessous de son niveau après leur clash à Las Vegas.",
+      "summary_en": "George Russell found Max Verstappen's remark amusing, as the Dutchman said he was well below his level after their clash at the Las Vegas Grand Prix."
     },
     {
       "id": "1c22ee148379",
@@ -590,177 +761,6 @@
       "is_breaking": false,
       "summary_fr": "La saison 2026 approche de sa fin, le Grand Prix du Qatar se tient ce week-end avant la finale à Abu Dhabi. Bien que les titres soient déjà remportés par Kimi Antonelli et Mercedes, cinq points clés restent à surveiller.",
       "summary_en": "The 2026 season is nearing its end, with the Qatar GP this weekend before Abu Dhabi. Although Kimi Antonelli and Mercedes have already secured the titles, five key points remain to watch."
-    },
-    {
-      "id": "d92ec4c379fa",
-      "title": "Williams breaches F1 2025 cost cap, Alpine guilty of procedural violation",
-      "title_fr": "Williams dépasse le plafond de dépenses 2025, Alpine sanctionnée",
-      "title_en": "Williams breaches 2025 cost cap, Alpine fined",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/Y9lLL572/s6/pierre-gasly-alpine-carlos-sai-3.jpg",
-      "published_at": "2026-11-25T16:42:17+00:00",
-      "race_id": null,
-      "category": "pénalité",
-      "tags": [
-        "pénalité"
-      ],
-      "importance": 72,
-      "is_breaking": false,
-      "summary_fr": "Williams a dépassé le plafond de dépenses de 2025 de 627 000 £, entraînant une pénalité sportive. Alpine a reçu une amende pour violation procédurale.",
-      "summary_en": "Williams exceeded the 2025 cost cap by £627,000, incurring a sporting penalty. Alpine was fined for a procedural violation."
-    },
-    {
-      "id": "35c45bd9c178",
-      "title": "Williams, Alpine fall foul of F1's 2025 cost cap",
-      "title_fr": "Williams et Alpine sanctionnés pour dépassement du plafond de dépenses 2025",
-      "title_en": "Williams and Alpine penalised for 2025 cost-cap breach",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/williams-breaches-2025-f1-cost-cap-reveals-penalty/10877740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBZj6/s6/alexander-albon-williams.jpg",
-      "published_at": "2026-11-25T16:38:50+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les équipes Williams et Alpine ont dépassé le plafond de dépenses de la Formule 1 pour 2025, entraînant une pénalité sportive pour Williams et une amende pour Alpine",
-      "summary_en": "Williams and Alpine exceeded the 2025 Formula 1 cost cap, resulting in a sporting penalty for Williams and a fine for Alpine"
-    },
-    {
-      "id": "8e7b7d4caea8",
-      "title": "Williams given aero test reduction and fine for cost cap breach, Alpine also fined | Formula 1",
-      "title_fr": "Williams et Alpine sanctionnés pour dépassement de plafond",
-      "title_en": "Williams and Alpine fined for cost cap breach",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/25/williams-given-aero-test-reduction-and-fine-for-cost-cap-breach-alpine-also-fined/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-19-20-14-30-2-14-thursday-lasvegas-2026.jpg",
-      "published_at": "2026-11-25T16:11:25+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "La FIA a infligé à Williams une réduction de son test aérodynamique et une amende pour non-respect du plafond de coûts, tandis qu'Alpine a également reçu une sanction financière.",
-      "summary_en": "The FIA fined Williams and cut its aerodynamic testing, and also penalised Alpine for breaching the cost cap."
-    },
-    {
-      "id": "e651c41760e7",
-      "title": "Zak Brown rules out McLaren engine programme for F1 2030",
-      "title_fr": "Zak Brown rules out McLaren engine programme for F1 2030",
-      "title_en": "Zak Brown rules out McLaren engine programme for F1 2030",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/zak-brown-rules-out-mclaren-engine-programme-for-f1-2030/10877436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQp5lY/s6/andrea-kimi-antonelli-mercedes.jpg",
-      "published_at": "2026-11-25T13:15:47+00:00",
-      "race_id": "uk",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Zak Brown has ruled out a factory engine programme for the 2030 Formula 1 campaign as McLaren is “very happy” with its Mercedes partnership.<br />The British marque has been a Mercedes customer since ",
-      "summary_en": "Zak Brown has ruled out a factory engine programme for the 2030 Formula 1 campaign as McLaren is “very happy” with its Mercedes partnership.<br />The British marque has been a Mercedes customer since "
-    },
-    {
-      "id": "2c207b70ec22",
-      "title": "F1 returns to the track its tyres can’t cope with: Seven Qatar GP talking points | Formula 1",
-      "title_fr": "F1 revient sur piste que ses pneus ne supportent pas : 7 points clés du Qatar",
-      "title_en": "F1 returns to track its tyres can’t cope with: 7 Qatar GP talking points",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/25/f1-returns-to-the-track-its-tyres-cant-cope-with-seven-qatar-gp-talking-points/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-22-12-2249020900.jpg",
-      "published_at": "2026-11-25T12:08:32+00:00",
-      "race_id": "qatar",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 s'apprête à rouler à Doha malgré les inquiétudes liées à la stabilité régionale. Voici les sept points essentiels à surveiller pour le Grand Prix du Qatar.",
-      "summary_en": "Formula 1 heads to Doha this weekend amid regional instability concerns. Here are the seven key talking points for the Qatar Grand Prix."
-    },
-    {
-      "id": "bcf600446b3c",
-      "title": "Alonso: “We can't be competitive with the power unit we have”",
-      "title_fr": "Alonso critique la puissance de Honda",
-      "title_en": "Alonso criticises Honda's power unit",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwBRQ2/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": "2026-11-25T09:16:47+00:00",
-      "race_id": "japan",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso dénonce la faiblesse de la puissance et de la fiabilité du moteur Honda, affirmant que l'Aston Martin ne peut pas être compétitive. Il espère toutefois des améliorations futures.",
-      "summary_en": "Fernando Alonso criticises Honda's power unit for lacking power and reliability, saying Aston Martin cannot be competitive. He remains hopeful of future improvements."
-    },
-    {
-      "id": "9fd39d67eef0",
-      "title": "Fernando Alonso: “We can't be competitive with the power unit we have”",
-      "title_fr": "Alonso dénonce l'unité Honda : \"Pas compétitif\"",
-      "title_en": "Alonso Criticizes Honda Power Unit: 'Not Competitive'",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-we-cant-be-competitive-with-the-power-unit-we-have/10877596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGgOvVY/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-25T09:12:51+00:00",
-      "race_id": "japan",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso a déclaré que Honda est très en retard par rapport aux concurrents, rendant l'Aston Martin incapable de rivaliser. Il reste toutefois optimiste quant à l'avenir de la puissance japonaise.",
-      "summary_en": "Fernando Alonso said Honda is far behind rivals, making Aston Martin uncompetitive. He remains hopeful about the future of the Japanese power unit."
-    },
-    {
-      "id": "7428913b49d3",
-      "title": "Stats: Mercedes have disappeared from the podium since their championship win | 2026 Las Vegas Grand Prix stats and facts",
-      "title_fr": "Mercedes disparaît du podium depuis le titre des constructeurs",
-      "title_en": "Mercedes Vanishes from Podium Since Winning Constructors' Championship",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/25/stats-mercedes-have-disappeared-from-the-podium-since-their-championship-win/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-24-45-3-M655578_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
-      "published_at": "2026-11-25T07:45:53+00:00",
-      "race_id": "lasvegas",
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Mercedes a dominé le podium à chaque Grand Prix cette saison jusqu'à la victoire du championnat des constructeurs, mais n'a plus touché le podium depuis. Les chiffres du Grand Prix de Las Vegas illustrent cette inversion.",
-      "summary_en": "Mercedes dominated the podium at every Grand Prix this season until winning the constructors' championship, but has not reached the podium since. The Las Vegas Grand Prix stats highlight this reversal."
-    },
-    {
-      "id": "8cf076c8979c",
-      "title": "How to watch the 2026 Qatar Grand Prix live this weekend | TV Times",
-      "title_fr": "Suivez le Grand Prix du Qatar 2026 en direct",
-      "title_en": "How to watch the 2026 Qatar Grand Prix live this weekend",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/25/how-to-watch-the-2026-qatar-grand-prix-live-this-weekend/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/11/racefansdotnet-24-11-29-17-03-43-2-2249035418.jpg",
-      "published_at": "2026-11-25T07:15:55+00:00",
-      "race_id": "qatar",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La Formule 1 s'apprête à prendre le Circuit International de Losail pour le Grand Prix du Qatar 2026. Voici les diffusions disponibles ce week-end.",
-      "summary_en": "Formula 1 heads to Losail International Circuit for the 2026 Qatar Grand Prix. Here’s how to watch the race live this weekend."
     }
   ]
 }
