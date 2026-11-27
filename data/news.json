@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-27T04:59:18Z",
+  "last_updated": "2026-11-27T08:00:30Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0a166955c2c5",
+      "title": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
+      "title_fr": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
+      "title_en": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/russell-says-hes-learned-some-in-media-will-be-cheeky-with-his-quotes/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-50-01-1-M649485_S_o_Paulo_Grand_Prix__Thursday.jpg",
+      "published_at": "2026-11-27T07:15:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "George Russell claimed two F1 television reporters had been \"a little bit cheeky\" in representing their discussions with him.",
+      "summary_en": "George Russell claimed two F1 television reporters had been \"a little bit cheeky\" in representing their discussions with him."
+    },
     {
       "id": "ea1a9c6579eb",
       "title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton déclare que la Formule 1 compte désormais davantage de pilotes qui ressemblent aux fans, grâce à la poussée de diversité. Il souligne que cette évolution reflète mieux la base de supporters.",
       "summary_en": "Lewis Hamilton says Formula 1 now has more drivers who look like its fans thanks to a diversity push. He notes the change better reflects the fan base."
-    },
-    {
-      "id": "b23f34a37496",
-      "title": "Andrew Benson Q&A: Send us your questions",
-      "title_fr": "Andrew Benson lance sa série hebdomadaire de questions-réponses",
-      "title_en": "Andrew Benson launches weekly Q&A series",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg3y15zje8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0892/live/e16baa60-f8ea-11ef-9e61-71ee71f26eb1.png",
-      "published_at": "2026-11-26T08:21:52+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Andrew Benson, correspondant F1, propose une séance de questions-réponses hebdomadaire. Le public est invité à soumettre ses questions dès maintenant.",
-      "summary_en": "Andrew Benson, F1 correspondent, is hosting a weekly Q&A. Fans are encouraged to submit their questions now."
     }
   ]
 }
