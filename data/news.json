@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-26T22:56:03Z",
+  "last_updated": "2026-11-27T01:57:58Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "ea1a9c6579eb",
+      "title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
+      "title_fr": "Toto Wolff explique pourquoi les équipes rivales ne veulent pas l'embaucher",
+      "title_en": "Toto Wolff explains why rival teams don't want to hire him",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZX99D6/s6/toto-wolff-mercedes-a10874986-b705-2.jpg",
+      "published_at": "2026-11-27T00:30:04+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff, directeur de Mercedes, révèle que son succès historique et son influence dans la F1 dissuadent les concurrents de le recruter. Il souligne que son rôle central dans l'équipe rend son départ difficile.",
+      "summary_en": "Toto Wolff, Mercedes team principal, says his historic success and influence in F1 make rival teams reluctant to hire him. He notes that his central role in the team makes a departure difficult."
+    },
+    {
+      "id": "a919755f7455",
+      "title": "On This Day: Hamilton’s tactical slowdown can’t stop Rosberg taking the title | Brief",
+      "title_fr": "Hamilton échoue à stopper Rosberg malgré son ralentissement",
+      "title_en": "Hamilton fails to stop Rosberg despite tactical slowdown",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2025/12/racefansdotnet-24-12-05-21-43-21-1-M52226.jpg",
+      "published_at": "2026-11-27T00:01:00+00:00",
+      "race_id": null,
+      "category": "stratégie",
+      "tags": [
+        "stratégie"
+      ],
+      "importance": 45,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Hamilton a tenté de freiner Rosberg en fin de course, mais l'Allemand a conservé la tête et a remporté le championnat. La stratégie de Hamilton n'a pas suffi.",
+      "summary_en": "Hamilton tried to slow Rosberg down, but the German kept the lead and secured the title. The strategy failed to stop him."
+    },
+    {
+      "id": "37c64570bd8a",
+      "title": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success",
+      "title_fr": "Wolff répond aux questions sur le salaire d'Antonelli après le titre",
+      "title_en": "Wolff addresses Antonelli salary questions after championship",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGg4yGY/s6/andrea-kimi-antonelli-mercedes-a10874830-b705-2.jpg",
+      "published_at": "2026-11-26T23:00:02+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Toto Wolff a répondu aux interrogations sur le salaire de Kimi Antonelli, champion du monde, après sa victoire en Formule 1. Le pilote Mercedes a souligné que les termes initiaux de son contrat sont désormais dépassés.",
+      "summary_en": "Toto Wolff answered questions about Kimi Antonelli's salary after the Formula 1 world championship. The Mercedes driver said the original contract terms are now outdated."
+    },
     {
       "id": "73ad3dc65d57",
       "title": "Max Verstappen details his ideal 2030 F1 Formula",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Andrew Benson, correspondant F1, propose une séance de questions-réponses hebdomadaire. Le public est invité à soumettre ses questions dès maintenant.",
       "summary_en": "Andrew Benson, F1 correspondent, is hosting a weekly Q&A. Fans are encouraged to submit their questions now."
-    },
-    {
-      "id": "86be771d795f",
-      "title": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
-      "title_fr": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
-      "title_en": "Fred Vasseur backs FIA ruling after Charles Leclerc's Las Vegas clash with Lewis Hamilton",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fred-vasseur-refuses-to-shield-leclerc-over-hamilton-collision-the-decision-of-the-fia-was-quite-cl/10877483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari-a10877483-b704-2.jpg",
-      "published_at": "2026-11-26T01:30:02+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Pr",
-      "summary_en": "Formula 1 team bosses usually rush to soften the blow when stewards penalise one of their drivers. After Charles Leclerc clipped Lewis Hamilton into a spin at Turn 7 during the 2026 Las Vegas Grand Pr"
-    },
-    {
-      "id": "d6ceb87352ac",
-      "title": "Nico Rosberg rules George Russell out of 2027 F1 title fight: “Dug himself into a mental hole”",
-      "title_fr": "Rosberg déclare Russell hors du combat 2027",
-      "title_en": "Rosberg declares Russell out of 2027 title fight",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/nico-rosberg-rules-george-russell-out-of-2027-f1-title-fight-he-dug-himself-into-a-mental-hole/10877719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QRGg6/s6/george-russell-mercedes-a10877719-b705-2.jpg",
-      "published_at": "2026-11-26T00:30:03+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Nico Rosberg, ancien champion, affirme que George Russell ne sera pas un prétendant au titre en 2027, le qualifiant d'enfer mental.",
-      "summary_en": "Former champion Nico Rosberg says George Russell will not be a title contender in 2027, calling him a 'mental hole'."
-    },
-    {
-      "id": "8513be8f4a3a",
-      "title": "Ralf Schumacher sees echoes of Lewis Hamilton's Nico Rosberg \"mind games\" after Las Vegas",
-      "title_fr": "Schumacher pointe les jeux d’esprit de Hamilton à Maranello",
-      "title_en": "Schumacher points to Hamilton's mind games at Maranello",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/ralf-schumacher-says-lewis-hamilton-wants-ferraris-no-1-power-by-any-means-necessary-after-leclerc-/10877712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0rVPkN70/s6/lewis-hamilton-ferrari-a10877712-b704-4.jpg",
-      "published_at": "2026-11-25T23:30:05+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Ralf Schumacher affirme que la véritable bataille de pouvoir à Maranello vient de l’autre côté du garage. Il accuse Lewis Hamilton de vouloir imposer la domination de Ferrari à tout prix.",
-      "summary_en": "Ralf Schumacher claims the real power play at Maranello comes from the other side of the garage, accusing Lewis Hamilton of seeking to impose Ferrari's dominance at any cost."
     }
   ]
 }
