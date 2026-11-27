@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-27T08:00:30Z",
+  "last_updated": "2026-11-27T11:02:05Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "dac5709e26c8",
+      "title": "F1 drivers go through quizzical exercise in stewarding debate",
+      "title_fr": "Pilotes F1 testent la régulation via quiz Kahoot!",
+      "title_en": "F1 drivers test regulation with Kahoot quiz",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-drivers-go-through-quizzical-exercise-in-stewarding-debate/10878073/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaD4b2/s6/gettyimages-2306409943.jpg",
+      "published_at": "2026-11-27T10:30:13+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les pilotes de Formule 1 ont participé à un quiz Kahoot! lors du sommet annuel de la FIA pour exprimer leurs avis sur la cohérence des décisions de régulation. L’exercice a révélé des divergences d’opinion.",
+      "summary_en": "F1 drivers took part in a Kahoot! quiz at the FIA’s annual summit to share their views on the consistency of stewarding decisions, highlighting differing opinions."
+    },
+    {
+      "id": "ed176a56eaaa",
+      "title": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
+      "title_fr": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
+      "title_en": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/how-nico-rosberg-beat-lewis-hamilton-and-his-demon-to-clinch-f1-world-title/10878126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxz46/s6/nico-rosberg-mercedes.jpg",
+      "published_at": "2026-11-27T09:35:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "“My superpower was preparation.”<br />This may not make for a fascinating storyline but perfectly encapsulates how Nico Rosberg surpassed Lewis Hamilton on his way the 2016 Formula 1 world title.<br /",
+      "summary_en": "“My superpower was preparation.”<br />This may not make for a fascinating storyline but perfectly encapsulates how Nico Rosberg surpassed Lewis Hamilton on his way the 2016 Formula 1 world title.<br /"
+    },
+    {
+      "id": "8c96dd347e4c",
+      "title": "How Nico Rosberg beat Lewis Hamilton – and his demons – to clinch F1 world title",
+      "title_fr": "Rosberg dépasse Hamilton pour le titre mondial 2016",
+      "title_en": "Rosberg beats Hamilton to win 2016 F1 title",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/how-nico-rosberg-beat-lewis-hamilton-and-his-demon-to-clinch-f1-world-title/10877499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxz46/s6/nico-rosberg-mercedes.jpg",
+      "published_at": "2026-11-27T09:34:17+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Nico Rosberg a remporté le championnat du monde de Formule 1 2016 en surpassant Lewis Hamilton grâce à une préparation méticuleuse. Sa stratégie et sa discipline ont fait la différence.",
+      "summary_en": "Nico Rosberg clinched the 2016 F1 World Championship by outpacing Lewis Hamilton, thanks to meticulous preparation. His disciplined strategy and focus made the difference."
+    },
     {
       "id": "0a166955c2c5",
       "title": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Haas a confirmé que le pilote junior Ferrari Oliver Bearman restera dans l'équipe en 2027, aux côtés de Rafael Camara.",
       "summary_en": "Haas has confirmed that Ferrari junior driver Oliver Bearman will stay with the team in 2027, alongside Rafael Camara."
-    },
-    {
-      "id": "5596f3eeb6c6",
-      "title": "Haas finally announces Bearman for F1 2027",
-      "title_fr": "Bearman reste à Haas pour 2027",
-      "title_en": "Bearman stays with Haas for 2027",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/haas-announce-bearman-f1-2027/10877815/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwB882/s6/oliver-bearman-haas-f1-team-2.jpg",
-      "published_at": "2026-11-26T09:04:37+00:00",
-      "race_id": "brazil",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Oliver Bearman, 21 ans, a signé un nouveau contrat avec Haas pour la saison 2027, s’associant à Rafael Camara. Le tableau 2027 est désormais complet.",
-      "summary_en": "Oliver Bearman, 21, has signed a new deal with Haas for the 2027 season, partnering rookie Rafael Camara. The 2027 grid is now complete."
-    },
-    {
-      "id": "2361f1bbf7b6",
-      "title": "Oliver Bearman locks in Haas F1 seat as 2027 grid officially set",
-      "title_fr": "Oliver Bearman reste à Haas pour 2027",
-      "title_en": "Oliver Bearman stays at Haas for 2027",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/oliver-bearman-locks-in-haas-f1-seat-as-2027-grid-officially-set/10877802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YXyKMzx6/s6/oliver-bearman-haas.jpg",
-      "published_at": "2026-11-26T09:00:41+00:00",
-      "race_id": "brazil",
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Le pilote britannique Oliver Bearman a signé un nouveau contrat avec Haas, assurant sa présence pour la saison 2027 aux côtés de Rafael Camara. Le grid 2027 est désormais complet.",
-      "summary_en": "British driver Oliver Bearman has signed a new contract with Haas, securing his place for the 2027 season alongside Rafael Camara. The 2027 grid is now complete."
-    },
-    {
-      "id": "09c99a48d69c",
-      "title": "Spotlight: F1 has ‘more people who look like the fans’ due to diversity push – Hamilton | Brief",
-      "title_fr": "Hamilton affirme que la F1 ressemble davantage aux fans",
-      "title_en": "Hamilton says F1 now looks more like its fans",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/26/spotlight-f1-has-more-people-who-look-like-the-fans-due-to-diversity-push-hamilton/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/07/racefansdotnet-24-07-05-15-28-38-1-260705_R09_GRANBRETAGNA_DP__M1_3563_1.jpg",
-      "published_at": "2026-11-26T08:59:27+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton déclare que la Formule 1 compte désormais davantage de pilotes qui ressemblent aux fans, grâce à la poussée de diversité. Il souligne que cette évolution reflète mieux la base de supporters.",
-      "summary_en": "Lewis Hamilton says Formula 1 now has more drivers who look like its fans thanks to a diversity push. He notes the change better reflects the fan base."
     }
   ]
 }
