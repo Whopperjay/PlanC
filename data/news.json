@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-27T20:06:23Z",
+  "last_updated": "2026-11-27T23:08:17Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "0fc5f8f9dddb",
+      "title": "F1 Qatar GP practice analysis: Kimi Antonelli nearly a second clear of Max Verstappen on long runs",
+      "title_fr": "Antonelli domine la pratique du Qatar, dépasse Verstappen d'une seconde",
+      "title_en": "Antonelli dominates Qatar practice, beats Verstappen by a second",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LeR4Y/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-27T22:10:24+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli, favori du Qatar, a mené la séance de pratique du vendredi, affichant une avance moyenne de 0,83 seconde sur Max Verstappen lors des longs tours. Le champion du monde a consolidé son avantage.",
+      "summary_en": "Kimi Antonelli, the Qatar practice favourite, led Friday's session, averaging 0.83 seconds per lap ahead of Max Verstappen on long runs. The reigning world champion cemented his advantage."
+    },
+    {
+      "id": "2838a619807a",
+      "title": "Vowles explains why Williams exceeded F1’s cost cap by £627,000 | Formula 1",
+      "title_fr": "Vowles explique le dépassement de la limite de dépenses de Williams",
+      "title_en": "Vowles explains Williams' cost cap breach",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/vowles-explains-why-williams-exceeded-f1s-cost-cap-by-627000/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-10-09-17-41-55-1-2299355189.jpg",
+      "published_at": "2026-11-27T21:02:37+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "James Vowles, directeur de Williams, a déclaré que la violation du plafond de dépenses de 627 000 livres montre que l’équipe est en position de faiblesse.",
+      "summary_en": "James Vowles, Williams' team principal, said the 627,000 pounds cost‑cap breach shows the team is on the back foot."
+    },
+    {
+      "id": "a6bf43acee89",
+      "title": "Charles Leclerc explains Qatar GP practice spin after painfully \"slow\" day for Ferrari",
+      "title_fr": "Leclerc explique son virage à Doha après une journée lente",
+      "title_en": "Leclerc explains Qatar spin after slow day",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/charles-leclerc-explains-qatar-spin-after-painfully-slow-day-for-ferrari/10878445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8m7b6/s6/charles-leclerc-ferrari-2.jpg",
+      "published_at": "2026-11-27T20:52:17+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Charles Leclerc a qualifié la séance de FP2 à Doha de « très difficile » après une journée lente, attribuant son virage à un manque d'adhérence sur la SF‑26.",
+      "summary_en": "Charles Leclerc described the FP2 session in Doha as “very, very difficult” after a slow day, blaming his spin on a lack of grip in the SF‑26."
+    },
+    {
+      "id": "f7a34b4acd4d",
+      "title": "F1’s ‘NASCAR-style’ racing at Las Vegas won’t disappear in 2027, say teams | Formula 1",
+      "title_fr": "Course à la NASCAR à Las Vegas persiste en 2027, déclarent les équipes",
+      "title_en": "NASCAR-style racing at Las Vegas will stay in 2027, say teams",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/f1s-nascar-style-racing-at-las-vegas-wont-disappear-in-2027-say-teams/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-22-13-16-02-3-M656880_F1_LAS_VEGAS_GRAND_PRIX_2026.jpg",
+      "published_at": "2026-11-27T20:46:32+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Les équipes confirment que la course à la façon de NASCAR à Las Vegas restera sur certains circuits malgré les changements de règlement de 2027.",
+      "summary_en": "Team principals say the extreme 'yo‑yo' racing seen in Las Vegas will remain on some tracks despite the 2027 rule changes."
+    },
+    {
+      "id": "9266bb4cc68a",
+      "title": "Max Verstappen feels a “disconnect” as Red Bull looks to solve “massive limitation” in Qatar GP practice",
+      "title_fr": "Verstappen ressent un décalage à Lusail",
+      "title_en": "Verstappen feels a disconnect at Lusail",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-feels-a-disconnect-as-red-bull-looks-to-solve-massive-limitation-in-qatar-gp-practice/10878436/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2dEoRawY/s6/max-verstappen-red-bull-racing.jpg",
+      "published_at": "2026-11-27T20:13:38+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Après sa victoire à Las Vegas, Max Verstappen signale un décalage sur le circuit de Lusail, où Red Bull cherche à corriger une limitation massive identifiée lors des séances d’essai.",
+      "summary_en": "After winning in Las Vegas, Max Verstappen reports a disconnect on Lusail’s circuit, prompting Red Bull to tackle a massive limitation spotted during practice sessions."
+    },
+    {
+      "id": "ffdbe60ac5b2",
+      "title": "Lando Norris: Mercedes “at a different level” in Qatar",
+      "title_fr": "Antonelli et Russell dominent les essais de Qatar",
+      "title_en": "Antonelli and Russell dominate Qatar practice",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-mercedes-at-a-different-level-in-qatar/10878432/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0qgKmZkY/s6/george-russell-mercedes.jpg",
+      "published_at": "2026-11-27T20:04:37+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le nouveau champion Kimi Antonelli et George Russell ont mené les deux séances d’essai du Grand Prix de Qatar, affichant un rythme inégalé sur le circuit à haute vitesse.",
+      "summary_en": "New world champion Kimi Antonelli and George Russell topped both practice sessions at the Qatar Grand Prix, setting blistering lap times on the high‑speed circuit."
+    },
     {
       "id": "d907ff28c8f8",
       "title": "“Not worth thinking about” being able to beat Mercedes even with new floor – Norris | Formula 1",
@@ -647,120 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Christian Horner, directeur de Red Bull Racing, et sa femme Geri Halliwell ont acheté Edgcote House, l'ancienne demeure de la série BBC, après avoir surpassé un concurrent offrant 52 millions de livres.",
       "summary_en": "Christian Horner, former Red Bull Racing chief, and his wife Geri Halliwell reportedly bought Edgcote House, the historic estate that featured in BBC's Pride and Prejudice, after outbidding a rival at 52 million pounds."
-    },
-    {
-      "id": "3e04cfc6a60b",
-      "title": "Ferrari facing 'very challenging times' - Hamilton",
-      "title_fr": "Hamilton critique la Ferrari après les incidents avec Leclerc",
-      "title_en": "Hamilton slams Ferrari after incidents with Leclerc",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab7/live/09442e30-e9bd-11f1-8d2a-f5d2aabc11cb.jpg",
-      "published_at": "2026-11-26T17:30:01+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que la Ferrari traverse des moments très difficiles suite aux incidents sur la piste avec son coéquipier Charles Leclerc.",
-      "summary_en": "Lewis Hamilton said Ferrari are facing very challenging times after on-track incidents with teammate Charles Leclerc."
-    },
-    {
-      "id": "0cac13eec997",
-      "title": "Hamilton convinced Ferrari will \"figure it out\" following Leclerc skirmish",
-      "title_fr": "Hamilton rassure Ferrari après l'affrontement de Leclerc",
-      "title_en": "Hamilton reassures Ferrari after Leclerc clash",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/hamilton-convinced-ferrari-will-figure-it-out/10877979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2wlKzmeY/s6/charles-leclerc-ferrari-lewis--2.jpg",
-      "published_at": "2026-11-26T17:07:17+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton a déclaré que Ferrari trouvera une solution après le conflit sur la piste avec Charles Leclerc lors du Grand Prix de Las Vegas. Le pilote est confiant quant à la résolution de la situation.",
-      "summary_en": "Lewis Hamilton said Ferrari will find a solution after the on-track clash with Charles Leclerc at the Las Vegas Grand Prix. The driver is confident the issue will be resolved."
-    },
-    {
-      "id": "0d070ec94fe6",
-      "title": "Lewis Hamilton on latest Charles Leclerc flashpoint: \"We're free to race\"",
-      "title_fr": "Hamilton rassure après l'affrontement avec Leclerc",
-      "title_en": "Hamilton reassures after clash with Leclerc",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-on-latest-charles-leclerc-flashpoint-were-going-to-figure-it-out/10877972/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/27NojvR0/s6/charles-leclerc-ferrari-lewis-.jpg",
-      "published_at": "2026-11-26T17:02:09+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton affirme que lui et Charles Leclerc vont résoudre le problème après leur altercation à Las Vegas, déclarant qu'ils sont libres de courir.",
-      "summary_en": "Lewis Hamilton says he and Charles Leclerc will \"figure it out\" after their clash at Las Vegas, insisting they are free to race."
-    },
-    {
-      "id": "5afe233383aa",
-      "title": "Leclerc furious with integrity being questioned after Hamilton clashes",
-      "title_fr": "Leclerc furieux après les affrontements avec Hamilton",
-      "title_en": "Leclerc furious after clashes with Hamilton",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaDqb2/s6/lewis-hamilton-ferrari-charles-2.jpg",
-      "published_at": "2026-11-26T16:26:29+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a exprimé sa colère après que ses rivalités avec Lewis Hamilton aient remis en cause son intégrité et son amour pour Ferrari. Les deux pilotes se sont affrontés à Monza, Zandvoort, Mexico et Las Vegas.",
-      "summary_en": "Charles Leclerc expressed anger after his clashes with Lewis Hamilton questioned his integrity and love for Ferrari. The two drivers fought at Monza, Zandvoort, Mexico and Las Vegas."
-    },
-    {
-      "id": "53a6fccda264",
-      "title": "Charles Leclerc refuses to reveal Ferrari's \"rules of engagement\" after Lewis Hamilton crash",
-      "title_fr": "Leclerc refuse de dévoiler les règles de Ferrari après l'accident de Hamilton",
-      "title_en": "Leclerc refuses to reveal Ferrari's rules after Hamilton crash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-ferraris-on-track-clashes-are-unacceptable-as-he-and-hamilton-seek-private-s/10877945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari-a10877945-b704-2.jpg",
-      "published_at": "2026-11-26T16:23:20+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Leclerc a refusé de dévoiler les règles de Ferrari suite à l'accident de Lewis Hamilton à Las Vegas, malgré les critiques de Fred Vasseur.",
-      "summary_en": "Leclerc declined to reveal Ferrari's rules after Lewis Hamilton's crash at Las Vegas, despite criticism from team principal Fred Vasseur."
-    },
-    {
-      "id": "ef615dce05cf",
-      "title": "“We need to find another solution” to Ferrari driver clashes, admits Leclerc | Formula 1",
-      "title_fr": "Leclerc confie l’échec de Ferrari face à Hamilton",
-      "title_en": "Leclerc admits Ferrari's failure to avoid clashes with Hamilton",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/26/we-need-to-find-another-solution-to-ferrari-driver-clashes-admits-leclerc/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-23-15-14-26-1-5-saturday-lasvegas-2026.jpg",
-      "published_at": "2026-11-26T16:22:48+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a reconnu que les efforts de Ferrari pour éviter les collisions avec Lewis Hamilton à Las Vegas ont échoué. Le pilote a déclaré que la société doit chercher une autre solution.",
-      "summary_en": "Charles Leclerc admitted that Ferrari's attempts to avoid clashes with Lewis Hamilton in Las Vegas failed. The driver said the team must find another solution."
     }
   ]
 }
