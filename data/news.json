@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-27T20:03:11Z",
+  "last_updated": "2026-11-27T20:06:23Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d907ff28c8f8",
+      "title": "“Not worth thinking about” being able to beat Mercedes even with new floor – Norris | Formula 1",
+      "title_fr": "Norris : \"Pas la peine de viser Mercedes malgré le nouveau plancher\"",
+      "title_en": "Norris: 'Not Worth Thinking About' Beating Mercedes with New Floor",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/not-worth-thinking-about-being-able-to-beat-mercedes-even-with-new-floor-norris/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-27-17-24-30-5-2307130336.jpg",
+      "published_at": "2026-11-27T19:36:06+00:00",
+      "race_id": null,
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Lando Norris estime que Mercedes est trop en avance pour que McLaren les rattrape, même après le passage à leur nouveau plancher demain.",
+      "summary_en": "Lando Norris says Mercedes are too far ahead for McLaren to catch, even after switching to their new floor tomorrow."
+    },
     {
       "id": "d7a029922212",
       "title": "F1 Qatar GP: Antonelli remains on top in FP2 stalled by two red flags",
@@ -39,6 +58,25 @@
       "is_breaking": false,
       "summary_fr": "Kimi Antonelli a mené la séance FP2 du Qatar GP, après deux drapeaux rouges, avec des températures plus fraîches, offrant un aperçu favorable avant la qualification.",
       "summary_en": "Kimi Antonelli topped the Qatar GP FP2 after two red flags, with cooler track temperatures, giving a favorable preview before qualifying."
+    },
+    {
+      "id": "718fdbdb3a7c",
+      "title": "Antonelli leads another Mercedes one-two despite red flag interruptions | Formula 1",
+      "title_fr": "Antonelli mène le duo Mercedes malgré les interruptions",
+      "title_en": "Antonelli leads Mercedes one-two despite red-flag interruptions",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/antonelli-leads-another-mercedes-one-two-despite-red-flag-interruptions/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-27-20-12-58-6-17-friday-lusail-2026.jpg",
+      "published_at": "2026-11-27T18:15:44+00:00",
+      "race_id": null,
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a franchi la barre des temps les plus rapides lors de la deuxième séance de formation consécutive, malgré les interruptions de drapeau rouge. Le pilote Mercedes a établi son meilleur tour sur les pneus médiums.",
+      "summary_en": "Andrea Kimi Antonelli topped the times in the second consecutive practice session, setting his best lap on the medium compound tyres despite red-flag interruptions. The Mercedes driver secured the fastest lap."
     },
     {
       "id": "56bb83183c93",
@@ -115,6 +153,25 @@
       "is_breaking": false,
       "summary_fr": "La FIA a annoncé que les constructeurs ne pourront plus travailler sur les unités de puissance actuelles à partir de mi-2028, et a imposé des restrictions de tests pour éviter qu'ils ne gèrent deux projets simultanément.",
       "summary_en": "The FIA announced that manufacturers will no longer be able to work on current power units from mid‑2028, and has imposed testing restrictions to prevent them from juggling two projects at once."
+    },
+    {
+      "id": "bda1bdf6b238",
+      "title": "Court of Appeal rejects Audi’s call for Tsunoda penalty in Italian Grand Prix | Formula 1",
+      "title_fr": "Cour d'appel rejette la demande d'Audi pour pénalité de Tsunoda",
+      "title_en": "Court of Appeal rejects Audi's call for Tsunoda penalty",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/court-of-appeal-rejects-audis-call-for-tsunoda-penalty-in-italian-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-06-15-50-43-2-SI202609060786_hires_jpeg_24bit_rgb.jpg",
+      "published_at": "2026-11-27T17:09:21+00:00",
+      "race_id": "italy",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Cour d'appel internationale a rejeté la demande d'Audi visant à infliger une pénalité à Yuki Tsunoda lors du Grand Prix d'Italie.",
+      "summary_en": "The International Court of Appeal rejected Audi's attempt to impose a penalty on Yuki Tsunoda in the Italian Grand Prix."
     },
     {
       "id": "fcd75f29dfa7",
@@ -362,6 +419,25 @@
       "is_breaking": false,
       "summary_fr": "Nico Rosberg a remporté le championnat du monde de Formule 1 2016 en surpassant Lewis Hamilton grâce à une préparation méticuleuse. Sa stratégie et sa discipline ont fait la différence.",
       "summary_en": "Nico Rosberg clinched the 2016 F1 World Championship by outpacing Lewis Hamilton, thanks to meticulous preparation. His disciplined strategy and focus made the difference."
+    },
+    {
+      "id": "0a166955c2c5",
+      "title": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
+      "title_fr": "Russell dénonce la représentation \"coquette\" des journalistes",
+      "title_en": "Russell calls out \"cheeky\" media representation",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/russell-says-hes-learned-some-in-media-will-be-cheeky-with-his-quotes/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-50-01-1-M649485_S_o_Paulo_Grand_Prix__Thursday.jpg",
+      "published_at": "2026-11-27T07:15:07+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a accusé deux journalistes télévisés de F1 d'avoir été \"un peu coquet\" dans la façon dont ils ont présenté ses propos. Le pilote souligne qu'il a appris que les médias peuvent parfois exagérer.",
+      "summary_en": "George Russell accused two F1 TV reporters of being \"a little cheeky\" in how they portrayed his comments. The driver says he has learned that media can sometimes exaggerate."
     },
     {
       "id": "ea1a9c6579eb",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Charles Leclerc a reconnu que les efforts de Ferrari pour éviter les collisions avec Lewis Hamilton à Las Vegas ont échoué. Le pilote a déclaré que la société doit chercher une autre solution.",
       "summary_en": "Charles Leclerc admitted that Ferrari's attempts to avoid clashes with Lewis Hamilton in Las Vegas failed. The driver said the team must find another solution."
-    },
-    {
-      "id": "064362cd3d76",
-      "title": "Charles Leclerc urges \"solution\" after several clashes with Lewis Hamilton",
-      "title_fr": "Leclerc exige une solution après plusieurs affrontements avec Hamilton",
-      "title_en": "Leclerc calls for a solution after multiple clashes with Hamilton",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/charles-leclerc-urges-to-find-solution-after-several-clashes-with-lewis-hamilton/10877951/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7b33g0/s6/charles-leclerc-ferrari.jpg",
-      "published_at": "2026-11-26T16:22:36+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a exprimé sa colère après plusieurs affrontements avec Lewis Hamilton, demandant une solution pour calmer les tensions au sein de Ferrari",
-      "summary_en": "Charles Leclerc voiced his frustration after several clashes with Lewis Hamilton, urging a solution to ease tensions within Ferrari"
-    },
-    {
-      "id": "2ede5f9d2198",
-      "title": "Russell says Verstappen's criticism 'quite amusing'",
-      "title_fr": "Russell trouve les critiques de Verstappen \"amusantes\"",
-      "title_en": "Russell finds Verstappen's criticism \"quite amusing\"",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/ae2c5130-e9ad-11f1-859a-37130cd3a1d7.jpg",
-      "published_at": "2026-11-26T16:10:58+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell a déclaré que Max Verstappen peut dire ce qu'il veut et a trouvé les critiques du pilote de Red Bull après le Grand Prix de Las Vegas \"amusantes\".",
-      "summary_en": "George Russell said Max Verstappen can say what he wants and found the Red Bull driver's criticisms after the Las Vegas Grand Prix \"quite amusing\"."
-    },
-    {
-      "id": "d9fd947041b3",
-      "title": "Hadjar says unfortunate timing caused his front wing to “explode” in Las Vegas | Formula 1",
-      "title_fr": "Hadjar explique l'explosion de son aile avant à Las Vegas",
-      "title_en": "Hadjar blames timing for front wing failure in Las Vegas",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/26/hadjar-says-unfortunate-timing-caused-his-front-wing-to-explode-in-las-vegas/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-07-20-08-2-SI202611210088.jpg",
-      "published_at": "2026-11-26T16:03:51+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Isack Hadjar déclare que le timing a provoqué l'explosion de son aile avant à Las Vegas. Red Bull renforcera la conception de l'aile après l'incident.",
-      "summary_en": "Isack Hadjar says the timing caused his front wing to explode in Las Vegas. Red Bull will reinforce the wing design after the incident."
-    },
-    {
-      "id": "8a2b517dbd22",
-      "title": "Russell stands by Verstappen comments at Las Vegas GP - despite \"amusing\" reaction",
-      "title_fr": "Russell défend ses propos sur Verstappen après l'incident de Las Vegas",
-      "title_en": "Russell stands by his remarks on Verstappen after Las Vegas incident",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/russell-defends-las-vegas-f1-comments/10877940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0o5AMMjY/s6/george-russell-mercedes-4.jpg",
-      "published_at": "2026-11-26T15:56:53+00:00",
-      "race_id": "netherlands",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "George Russell a réaffirmé ses critiques envers Max Verstappen après que ce dernier l'ait dépassé dans la dernière courbe de la séance de qualification à Las Vegas. Le pilote Mercedes a dénoncé le non-respect d'une règle non écrite.",
-      "summary_en": "George Russell reaffirmed his criticism of Max Verstappen after the Dutchman overtook him in the final corner during free practice in Las Vegas. The Mercedes driver accused Verstappen of breaking an unwritten rule."
     }
   ]
 }
