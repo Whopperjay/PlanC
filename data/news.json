@@ -1,7 +1,121 @@
 {
-  "last_updated": "2026-11-27T17:06:00Z",
+  "last_updated": "2026-11-27T20:03:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "d7a029922212",
+      "title": "F1 Qatar GP: Antonelli remains on top in FP2 stalled by two red flags",
+      "title_fr": "Antonelli domine la FP2 du Qatar malgré deux feux rouges",
+      "title_en": "Antonelli dominates Qatar FP2 despite two red flags",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-qatar-gp-fp2-report/10878347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LeR4Y/s6/andrea-kimi-antonelli-mercedes-3.jpg",
+      "published_at": "2026-11-27T18:20:55+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a mené la séance de FP2 du Grand Prix du Qatar, malgré deux feux rouges qui ont interrompu la course. La session s'est déroulée dans des conditions plus fraîches que la FP1.",
+      "summary_en": "Kimi Antonelli topped Qatar's FP2, despite two red flags that halted the session. The practice ran in cooler conditions than FP1."
+    },
+    {
+      "id": "43497d6b875c",
+      "title": "F1 Qatar GP: Kimi Antonelli leads Mercedes charge in twice red-flagged FP2",
+      "title_fr": "Antonelli mène la FP2 du Qatar GP après deux drapeaux rouges",
+      "title_en": "Antonelli leads Qatar GP FP2 after two red flags",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-fp2-report/10878345/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6x7Lek4Y/s6/pierre-gasly-alpine-2.jpg",
+      "published_at": "2026-11-27T18:20:21+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a mené la séance FP2 du Qatar GP, après deux drapeaux rouges, avec des températures plus fraîches, offrant un aperçu favorable avant la qualification.",
+      "summary_en": "Kimi Antonelli topped the Qatar GP FP2 after two red flags, with cooler track temperatures, giving a favorable preview before qualifying."
+    },
+    {
+      "id": "56bb83183c93",
+      "title": "Audi appeal against Yuki Tsunoda dismissed – here’s why",
+      "title_fr": "Audi rejette l'appel de Tsunoda après Monza",
+      "title_en": "Audi dismisses Tsunoda appeal after Monza",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvL9EY/s6/yuki-tsunoda-racing-bulls.jpg",
+      "published_at": "2026-11-27T17:59:03+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Après la course de Monza, Audi a vu son appel contre Yuki Tsunoda rejeté, estimant qu'il ne méritait pas de pénalité pour un éventuel non-respect du redémarrage.",
+      "summary_en": "After Monza, Audi's appeal against Yuki Tsunoda was dismissed, arguing he did not deserve a penalty for a potential restart infringement."
+    },
+    {
+      "id": "90ea86ec2042",
+      "title": "Audi loses F1 appeal over Tsunoda’s Italian GP restart – here’s why",
+      "title_fr": "Audi rejette l'appel de Tsunoda sur le redémarrage de Monza",
+      "title_en": "Audi loses appeal over Tsunoda restart at Monza",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/audi-appeal-against-yuki-tsunoda-dismissed-heres-why/10878359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvL9EY/s6/yuki-tsunoda-racing-bulls.jpg",
+      "published_at": "2026-11-27T17:58:05+00:00",
+      "race_id": "italy",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Audi a son appel contre Yuki Tsunoda, accusé d'infraction au redémarrage, rejeté. Le résultat du Grand Prix d'Italie à Monza est confirmé.",
+      "summary_en": "Audi's appeal against Yuki Tsunoda for a restart infringement was dismissed, confirming the Italian Grand Prix result at Monza."
+    },
+    {
+      "id": "35ef634df5b4",
+      "title": "FIA confirms F1 engine freeze and imposes testing restrictions ahead of V8 return",
+      "title_fr": "FIA impose gel des moteurs F1 avant le retour du V8",
+      "title_en": "FIA imposes F1 engine freeze ahead of V8 return",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-confirms-f1-engine-freeze-and-imposes-testing-restrictions-ahead-of-v8-return/10878333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0arED5G2/s6/arvid-lindblad-racing-bulls-an.jpg",
+      "published_at": "2026-11-27T17:15:13+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a annoncé que les constructeurs ne pourront plus travailler sur les unités de puissance actuelles à partir de mi-2028. Cette mesure vise à éviter qu'ils gèrent deux projets simultanément.",
+      "summary_en": "The FIA has confirmed that manufacturers will no longer be able to work on current power units from mid‑2028. The rule aims to prevent teams from juggling two projects at once."
+    },
+    {
+      "id": "01b1a0775f89",
+      "title": "FIA details F1 engine freeze and imposes testing restrictions ahead of V8 return",
+      "title_fr": "FIA impose gel des moteurs et limite les tests avant le retour du V8",
+      "title_en": "FIA freezes engine development and limits testing ahead of V8 return",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fia-details-f1-engine-freeze-and-imposes-testing-restrictions-ahead-of-v8-return/10878336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXbRdK2/s6/arvid-lindblad-racing-bulls-la-2.jpg",
+      "published_at": "2026-11-27T17:14:37+00:00",
+      "race_id": "lasvegas",
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA a annoncé que les constructeurs ne pourront plus travailler sur les unités de puissance actuelles à partir de mi-2028, et a imposé des restrictions de tests pour éviter qu'ils ne gèrent deux projets simultanément.",
+      "summary_en": "The FIA announced that manufacturers will no longer be able to work on current power units from mid‑2028, and has imposed testing restrictions to prevent them from juggling two projects at once."
+    },
     {
       "id": "fcd75f29dfa7",
       "title": "Spotlight: Some F1 broadcasters choose not to attend Qatar Grand Prix | Brief",
@@ -176,21 +290,21 @@
     {
       "id": "801e5b1dff7b",
       "title": "Why Fernando Alonso reported a \"broken engine\" in Las Vegas – but Honda can’t find an issue",
-      "title_fr": "Why Fernando Alonso reported a \"broken engine\" in Las Vegas – but Honda can’t find an issue",
-      "title_en": "Why Fernando Alonso reported a \"broken engine\" in Las Vegas – but Honda can’t find an issue",
+      "title_fr": "Alonso signale moteur cassé à Las Vegas",
+      "title_en": "Alonso reports broken engine at Las Vegas",
       "source": "motorsport.com",
       "url": "https://www.motorsport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YK15zBk0/s6/fernando-alonso-aston-martin-r.jpg",
       "published_at": "2026-11-27T11:03:25+00:00",
       "race_id": "lasvegas",
-      "category": "rumeur",
+      "category": "technique",
       "tags": [
-        "rumeur"
+        "technique"
       ],
-      "importance": 30,
+      "importance": 48,
       "is_breaking": false,
-      "summary_fr": "On his final lap of the Formula 1 Las Vegas Grand Prix, Fernando Alonso called it a day. The two-time world champion locked up at the end of the long straight before telling the team over the radio: “",
-      "summary_en": "On his final lap of the Formula 1 Las Vegas Grand Prix, Fernando Alonso called it a day. The two-time world champion locked up at the end of the long straight before telling the team over the radio: “"
+      "summary_fr": "Fernando Alonso a déclaré que son moteur était cassé lors de la dernière ligne du Grand Prix de Las Vegas, mais Honda n’a trouvé aucune anomalie.",
+      "summary_en": "Fernando Alonso said his engine was broken on the final lap of the Las Vegas Grand Prix, but Honda found no fault."
     },
     {
       "id": "dac5709e26c8",
@@ -214,21 +328,21 @@
     {
       "id": "ed176a56eaaa",
       "title": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
-      "title_fr": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
-      "title_en": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
+      "title_fr": "Rosberg triomphe sur Hamilton pour le titre mondial 2016",
+      "title_en": "Rosberg beats Hamilton to win 2016 F1 title",
       "source": "autosport.com",
       "url": "https://www.autosport.com/f1/news/how-nico-rosberg-beat-lewis-hamilton-and-his-demon-to-clinch-f1-world-title/10878126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxz46/s6/nico-rosberg-mercedes.jpg",
       "published_at": "2026-11-27T09:35:50+00:00",
       "race_id": null,
-      "category": "rumeur",
+      "category": "résultat",
       "tags": [
-        "rumeur"
+        "résultat"
       ],
-      "importance": 30,
+      "importance": 60,
       "is_breaking": false,
-      "summary_fr": "“My superpower was preparation.”<br />This may not make for a fascinating storyline but perfectly encapsulates how Nico Rosberg surpassed Lewis Hamilton on his way the 2016 Formula 1 world title.<br /",
-      "summary_en": "“My superpower was preparation.”<br />This may not make for a fascinating storyline but perfectly encapsulates how Nico Rosberg surpassed Lewis Hamilton on his way the 2016 Formula 1 world title.<br /"
+      "summary_fr": "Nico Rosberg a surpassé Lewis Hamilton grâce à une préparation méticuleuse, remportant le championnat du monde de Formule 1 en 2016. Le pilote Mercedes a ainsi mis fin à la domination de Hamilton.",
+      "summary_en": "Nico Rosberg outperformed Lewis Hamilton through meticulous preparation, clinching the 2016 Formula 1 World Championship. The Mercedes driver ended Hamilton's dominant run."
     },
     {
       "id": "8c96dd347e4c",
@@ -248,25 +362,6 @@
       "is_breaking": false,
       "summary_fr": "Nico Rosberg a remporté le championnat du monde de Formule 1 2016 en surpassant Lewis Hamilton grâce à une préparation méticuleuse. Sa stratégie et sa discipline ont fait la différence.",
       "summary_en": "Nico Rosberg clinched the 2016 F1 World Championship by outpacing Lewis Hamilton, thanks to meticulous preparation. His disciplined strategy and focus made the difference."
-    },
-    {
-      "id": "0a166955c2c5",
-      "title": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
-      "title_fr": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
-      "title_en": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/27/russell-says-hes-learned-some-in-media-will-be-cheeky-with-his-quotes/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-50-01-1-M649485_S_o_Paulo_Grand_Prix__Thursday.jpg",
-      "published_at": "2026-11-27T07:15:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell claimed two F1 television reporters had been \"a little bit cheeky\" in representing their discussions with him.",
-      "summary_en": "George Russell claimed two F1 television reporters had been \"a little bit cheeky\" in representing their discussions with him."
     },
     {
       "id": "ea1a9c6579eb",
@@ -404,8 +499,8 @@
     {
       "id": "7d1bad34fb21",
       "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
-      "title_fr": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
-      "title_en": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
+      "title_fr": "Verstappen sans Lambiase à Qatar, Tom Hart prend le relais",
+      "title_en": "Verstappen Without Lambiase at Qatar, Tom Hart Steps In",
       "source": "motorsport.com",
       "url": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj7QzY/s6/max-verstappen-red-bull-racing.jpg",
@@ -415,10 +510,10 @@
       "tags": [
         "rumeur"
       ],
-      "importance": 30,
+      "importance": 42,
       "is_breaking": false,
-      "summary_fr": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of t",
-      "summary_en": "Max Verstappen will be without his regular right-hand man Gianpiero Lambiase this weekend at the Lusail International Circuit. Red Bull had already opted for a rotation system for the latter part of t"
+      "summary_fr": "Max Verstappen ne sera pas accompagné de son habitué Gianpiero Lambiase lors du Grand Prix du Qatar. Tom Hart, déjà en rotation, assume le rôle pour la fin de saison.",
+      "summary_en": "Max Verstappen will miss his regular right‑hand man Gianpiero Lambiase at the Qatar GP. Tom Hart, already in a rotation role, will step in for the remainder of the season."
     },
     {
       "id": "2acbe01ff385",
@@ -516,25 +611,6 @@
       "summary_en": "Lewis Hamilton said Ferrari will find a solution after the on-track clash with Charles Leclerc at the Las Vegas Grand Prix. The driver is confident the issue will be resolved."
     },
     {
-      "id": "858c03c62461",
-      "title": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
-      "title_fr": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
-      "title_en": "Max Verstappen and George Russell rivalry \"really cool for the sport\", says F1 pundit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-gets-under-max-verstappens-skin-more-than-any-other-driver-says-f1-pundit/10877980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0JXRmkBY/s6/max-verstappen-red-bull-racing-a10877980-b707-2.jpg",
-      "published_at": "2026-11-26T17:06:54+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this",
-      "summary_en": "The Las Vegas Grand Prix weekend reignited the long-running tension between Red Bull and Mercedes drivers, Max Verstappen and George Russell, and it was the talking point of Sky's F1 Show podcast this"
-    },
-    {
       "id": "0d070ec94fe6",
       "title": "Lewis Hamilton on latest Charles Leclerc flashpoint: \"We're free to race\"",
       "title_fr": "Hamilton rassure après l'affrontement avec Leclerc",
@@ -556,8 +632,8 @@
     {
       "id": "5afe233383aa",
       "title": "Leclerc furious with integrity being questioned after Hamilton clashes",
-      "title_fr": "Leclerc furious with integrity being questioned after Hamilton clashes",
-      "title_en": "Leclerc furious with integrity being questioned after Hamilton clashes",
+      "title_fr": "Leclerc furieux après les affrontements avec Hamilton",
+      "title_en": "Leclerc furious after clashes with Hamilton",
       "source": "autosport.com",
       "url": "https://www.autosport.com/f1/news/leclerc-furious-with-integrity-being-questioned-after-hamilton-clashes/10877960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "image_url": "https://cdn-1.motorsport.com/images/amp/63QaDqb2/s6/lewis-hamilton-ferrari-charles-2.jpg",
@@ -567,10 +643,10 @@
       "tags": [
         "rumeur"
       ],
-      "importance": 30,
+      "importance": 42,
       "is_breaking": false,
-      "summary_fr": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”.<br />The",
-      "summary_en": "Charles Leclerc was left furious by those ‘questioning his integrity and love for Ferrari’ after yet another clash with Formula 1 team-mate Lewis Hamilton - having urged to find a “solution”.<br />The"
+      "summary_fr": "Charles Leclerc a exprimé sa colère après que ses rivalités avec Lewis Hamilton aient remis en cause son intégrité et son amour pour Ferrari. Les deux pilotes se sont affrontés à Monza, Zandvoort, Mexico et Las Vegas.",
+      "summary_en": "Charles Leclerc expressed anger after his clashes with Lewis Hamilton questioned his integrity and love for Ferrari. The two drivers fought at Monza, Zandvoort, Mexico and Las Vegas."
     },
     {
       "id": "53a6fccda264",
@@ -630,25 +706,6 @@
       "summary_en": "Charles Leclerc voiced his frustration after several clashes with Lewis Hamilton, urging a solution to ease tensions within Ferrari"
     },
     {
-      "id": "ffa58eabebff",
-      "title": "David Croft: Max Verstappen has Fernando Alonso's race intelligence but is faster",
-      "title_fr": "David Croft: Max Verstappen has Fernando Alonso's race intelligence but is faster",
-      "title_en": "David Croft: Max Verstappen has Fernando Alonso's race intelligence but is faster",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/david-croft-max-verstappen-has-fernando-alonsos-race-intelligence-but-is-faster/10877947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyz7z6/s6/fernando-alonso-aston-martin-r-a10877947-b707-2.jpg",
-      "published_at": "2026-11-26T16:13:05+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Sky Sports Formula 1 lead commentator David Croft sees Fernando Alonso's smart racing in Max Verstappen, but adds that the four-time champion has more speed.<br />Speaking on Sky Sports' F1 Show podca",
-      "summary_en": "Sky Sports Formula 1 lead commentator David Croft sees Fernando Alonso's smart racing in Max Verstappen, but adds that the four-time champion has more speed.<br />Speaking on Sky Sports' F1 Show podca"
-    },
-    {
       "id": "2ede5f9d2198",
       "title": "Russell says Verstappen's criticism 'quite amusing'",
       "title_fr": "Russell trouve les critiques de Verstappen \"amusantes\"",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell a réaffirmé ses critiques envers Max Verstappen après que ce dernier l'ait dépassé dans la dernière courbe de la séance de qualification à Las Vegas. Le pilote Mercedes a dénoncé le non-respect d'une règle non écrite.",
       "summary_en": "George Russell reaffirmed his criticism of Max Verstappen after the Dutchman overtook him in the final corner during free practice in Las Vegas. The Mercedes driver accused Verstappen of breaking an unwritten rule."
-    },
-    {
-      "id": "e169b19d1e3d",
-      "title": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
-      "title_fr": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
-      "title_en": "George Russell: Max Verstappen comments \"amusing\", but I stand by what I said",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-max-verstappen-comments-amusing-but-i-stand-by-what-i-said/10877931/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6AlvydGY/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-26T15:50:05+00:00",
-      "race_id": "netherlands",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with",
-      "summary_en": "Two years after their last major spat around this time of the year, Russell and Verstappen clashed again last week in Vegas after an impeding incident in free practice that infuriated the Briton, with"
-    },
-    {
-      "id": "d85e9f25786e",
-      "title": "Russell “amused” by Verstappen’s comments in Las Vegas: “I stand by what I said” | Formula 1",
-      "title_fr": "Russell se moque de la remarque de Verstappen à Las Vegas",
-      "title_en": "Russell amused by Verstappen's comment in Las Vegas",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/26/russell-amused-by-verstappens-comments-in-las-vegas-i-stand-by-what-i-said/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-21-06-24-52-2-M655520_F1_Grand_Prix_of_Las_Vegas_Qualifying.jpg",
-      "published_at": "2026-11-26T15:47:03+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell a trouvé amusante la remarque de Max Verstappen, qui a déclaré être bien en dessous de son niveau après leur clash à Las Vegas.",
-      "summary_en": "George Russell found Max Verstappen's remark amusing, as the Dutchman said he was well below his level after their clash at the Las Vegas Grand Prix."
-    },
-    {
-      "id": "1c22ee148379",
-      "title": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
-      "title_fr": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
-      "title_en": "George Russell shrugs off Max Verstappen’s Las Vegas remarks: “Certain things really made me laugh”",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-verstappens-las-vegas-barbs-ahead-of-qatar-gp-certain-things-really-made-/10877899/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6n7blXl0/s6/max-verstappen-red-bull-racing-a10877899-b705-4.jpg",
-      "published_at": "2026-11-26T15:33:00+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what sta",
-      "summary_en": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what sta"
     }
   ]
 }
