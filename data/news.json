@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-27T11:02:05Z",
+  "last_updated": "2026-11-27T14:04:04Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "41ea937d2cff",
+      "title": "Spotlight: Why the best thing about Las Vegas for Antonelli is its F1 track | Brief",
+      "title_fr": "Antonelli trouve son bonheur sur le circuit de Las Vegas",
+      "title_en": "Antonelli finds his joy on Las Vegas track",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/spotlight-why-the-best-thing-about-las-vegas-for-antonelli-is-its-f1-track/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-27-11-59-39-3-M655505_F1_Grand_Prix_of_Las_Vegas_Qualifying.jpg",
+      "published_at": "2026-11-27T12:09:47+00:00",
+      "race_id": "lasvegas",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Le pilote Antonelli affirme que le circuit de Las Vegas est la meilleure chose de la ville. Il déclare qu'il n'est pas assez vieux pour faire autre chose que conduire.",
+      "summary_en": "Antonelli says Las Vegas' track is the best thing about the city. He says he's not old enough to do anything else but drive."
+    },
+    {
+      "id": "d5fc9e33a1b8",
+      "title": "Sainz proposes intriguing DRS solution for F1 2030",
+      "title_fr": "Sainz propose une solution DRS intrigante pour la F1 2030",
+      "title_en": "Sainz proposes intriguing DRS solution for F1 2030",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878170/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YN7vBrV6/s6/carlos-sainz-williams-2.jpg",
+      "published_at": "2026-11-27T11:48:18+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz détaille une proposition de système DRS visant à optimiser la performance des moteurs V8 turbo de 2030. Le pilote évoque un dispositif plus simple et plus léger pour la prochaine génération.",
+      "summary_en": "Carlos Sainz outlines an intriguing DRS concept aimed at enhancing the upcoming V8 turbo engines of 2030. He highlights a simpler, lighter system to boost performance for the next generation."
+    },
+    {
+      "id": "e22cf7d2964d",
+      "title": "Carlos Sainz explains his intriguing DRS proposal for F1 2030",
+      "title_fr": "Sainz dévoile son projet DRS pour la F1 2030",
+      "title_en": "Sainz unveils his DRS proposal for F1 2030",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXb8zv2/s6/carlos-sainz-williams.jpg",
+      "published_at": "2026-11-27T11:47:59+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Carlos Sainz détaille une proposition de DRS visant à optimiser la performance des moteurs V8 turbo de 2030, dans le cadre de la transition vers des unités plus légères et plus propres.",
+      "summary_en": "Carlos Sainz outlines a DRS proposal aimed at boosting the performance of the 2030 V8 turbo engines, as part of the shift toward lighter, cleaner power units."
+    },
+    {
+      "id": "765429be0d79",
+      "title": "Honda can't find an issue after Fernando Alonso's intriguing \"broken engine\" radio message",
+      "title_fr": "Alonso signale moteur cassé à Las Vegas",
+      "title_en": "Alonso reports broken engine at Las Vegas",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878121/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15zBk0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-27T11:03:47+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Fernando Alonso a déclaré que son moteur était cassé lors de la dernière ligne du Grand Prix de Las Vegas. Honda n'a trouvé aucune anomalie, laissant le doute sur la fiabilité de l'unité de puissance.",
+      "summary_en": "Fernando Alonso reported a broken engine on the final lap of the Las Vegas Grand Prix. Honda found no fault, leaving questions about the power unit's reliability."
+    },
+    {
+      "id": "801e5b1dff7b",
+      "title": "Why Fernando Alonso reported a \"broken engine\" in Las Vegas – but Honda can’t find an issue",
+      "title_fr": "Why Fernando Alonso reported a \"broken engine\" in Las Vegas – but Honda can’t find an issue",
+      "title_en": "Why Fernando Alonso reported a \"broken engine\" in Las Vegas – but Honda can’t find an issue",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15zBk0/s6/fernando-alonso-aston-martin-r.jpg",
+      "published_at": "2026-11-27T11:03:25+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 30,
+      "is_breaking": false,
+      "summary_fr": "On his final lap of the Formula 1 Las Vegas Grand Prix, Fernando Alonso called it a day. The two-time world champion locked up at the end of the long straight before telling the team over the radio: “",
+      "summary_en": "On his final lap of the Formula 1 Las Vegas Grand Prix, Fernando Alonso called it a day. The two-time world champion locked up at the end of the long straight before telling the team over the radio: “"
+    },
     {
       "id": "dac5709e26c8",
       "title": "F1 drivers go through quizzical exercise in stewarding debate",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Fernando Alonso déclare qu'il quittera la Formule 1 lorsqu'il sentira qu'il est trop lent, sans que son âge soit un facteur. Le pilote, champion à deux titres, a parcouru 23 saisons sans victoire depuis 245 courses.",
       "summary_en": "Fernando Alonso says he will leave Formula 1 when he feels too slow, not because of his age. The two-time champion has raced 23 seasons without a win in 245 races."
-    },
-    {
-      "id": "44f3f752e49a",
-      "title": "Fernando Alonso: ‘I will quit F1 when I feel slow, not at a specific age’",
-      "title_fr": "Alonso déclare quitter la F1 quand il sent la lenteur",
-      "title_en": "Alonso says he'll quit F1 when he feels slow",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-i-will-quit-f1-when-i-feel-slow-not-at-a-specific-age/10877599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDBWk0/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-26T10:39:33+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso, champion à deux titres, annonce qu'il quittera la Formule 1 lorsqu'il sentira qu'il est trop lent, sans se fixer d'âge précis.",
-      "summary_en": "Fernando Alonso, two-time champion, says he will leave Formula 1 when he feels too slow, without setting a specific age."
-    },
-    {
-      "id": "c1f9caa1a9bc",
-      "title": "How to follow Qatar Grand Prix on the BBC",
-      "title_fr": "Suivez le Qatar Grand Prix sur la BBC",
-      "title_en": "Follow the Qatar Grand Prix on BBC",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a8/live/3ee78b10-e650-11f1-a563-e14cd8b02601.jpg",
-      "published_at": "2026-11-26T10:15:25+00:00",
-      "race_id": "qatar",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "La BBC propose une couverture complète du Grand Prix du Qatar du 27 au 29 novembre. Retrouvez les diffusions en direct, les commentaires experts et les analyses sur les chaînes et plateformes numériques.",
-      "summary_en": "BBC offers comprehensive coverage of the Qatar Grand Prix from 27 to 29 November. Watch live broadcasts, expert commentary, and analysis across TV channels and digital platforms."
-    },
-    {
-      "id": "117a908f16ae",
-      "title": "McLaren flags the crucial early-stop trap inside Qatar’s raised 27-lap rule",
-      "title_fr": "McLaren avertit de la nouvelle limite de 27 tours",
-      "title_en": "McLaren warns of new 27‑lap limit",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mclaren-flags-the-crucial-early-stop-trap-inside-qatars-raised-27-lap-tire-rule/10877828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK131jw0/s6/lando-norris-mclaren-oscar-pia-a10877828-b706-3.jpg",
-      "published_at": "2026-11-26T10:03:32+00:00",
-      "race_id": "qatar",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "McLaren a mis en garde les équipes contre la nouvelle règle imposant un maximum de 27 tours par set de pneus, une hausse par rapport aux 25 tours de 2025.",
-      "summary_en": "McLaren has warned teams about the new 27‑lap stint limit, up from 25 laps in 2025, imposed by Pirelli and the FIA for the Qatar Grand Prix."
-    },
-    {
-      "id": "d506bfb0030b",
-      "title": "Bearman to continue with Haas in 2027",
-      "title_fr": "Bearman reste chez Haas en 2027",
-      "title_en": "Bearman stays with Haas for 2027",
-      "source": "BBC Sport",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2wxyk7343o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea6/live/eec7eb70-e979-11f1-acd8-af22a7ebb474.jpg",
-      "published_at": "2026-11-26T09:30:22+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Oliver Bearman, pilote britannique, prolongera son contrat avec Haas pour la saison 2027.",
-      "summary_en": "Britain's Oliver Bearman will continue racing for Haas in Formula 1 in 2027."
-    },
-    {
-      "id": "38d03f8061a2",
-      "title": "Haas finally confirms Bearman’s new contract for 2027 | Formula 1",
-      "title_fr": "Haas prolonge le contrat d'Oliver Bearman pour 2027",
-      "title_en": "Haas confirms Oliver Bearman's contract for 2027",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-18-17-41-55-6-2305798002-579.jpg",
-      "published_at": "2026-11-26T09:19:12+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "Haas a confirmé que le pilote junior Ferrari Oliver Bearman restera dans l'équipe en 2027, aux côtés de Rafael Camara.",
-      "summary_en": "Haas has confirmed that Ferrari junior driver Oliver Bearman will stay with the team in 2027, alongside Rafael Camara."
     }
   ]
 }
