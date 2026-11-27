@@ -2,7 +2,7 @@
   "MRData": {
     "xmlns": "",
     "series": "f1",
-    "url": "https://api.jolpi.ca/ergast/f1/current/sprint/",
+    "url": "https://api.jolpi.ca/ergast/f1/2026/sprint/",
     "limit": "100",
     "offset": "0",
     "total": "132",
