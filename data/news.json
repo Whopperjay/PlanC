@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-27T14:04:04Z",
+  "last_updated": "2026-11-27T17:06:00Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "fcd75f29dfa7",
+      "title": "Spotlight: Some F1 broadcasters choose not to attend Qatar Grand Prix | Brief",
+      "title_fr": "Certaines chaînes F1 ne suivent pas le Qatar GP",
+      "title_en": "Some F1 broadcasters skip Qatar GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/spotlight-some-f1-broadcasters-choose-not-to-attend-qatar-grand-prix/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-27-16-53-35-1-2307123932.jpg",
+      "published_at": "2026-11-27T15:27:27+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Des diffuseurs de Formule 1 ont choisi de ne pas envoyer de délégation au Grand Prix du Qatar, laissant les équipes sans couverture locale.",
+      "summary_en": "Some Formula 1 broadcasters opted not to send a delegation to the Qatar Grand Prix, leaving teams without local coverage."
+    },
+    {
+      "id": "fd1ba035825b",
+      "title": "Antonelli leads Russell in Qatar first practice",
+      "title_fr": "Antonelli mène Russell en première séance de Qatar",
+      "title_en": "Antonelli leads Russell in Qatar first practice",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqpv903y40jko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128a/live/573b1260-ea6d-11f1-a828-d384c0290f6b.jpg",
+      "published_at": "2026-11-27T14:42:31+00:00",
+      "race_id": "qatar",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le champion du monde Kimi Antonelli a pris l’avantage sur son coéquipier George Russell lors de la première séance de pratique à Doha, la deuxième à l’épreuve de fin de saison.",
+      "summary_en": "World champion Kimi Antonelli topped George Russell in the first practice session at the penultimate Qatar race."
+    },
+    {
+      "id": "89eb00edd935",
+      "title": "F1 Qatar GP: Kimi Antonelli leads Mercedes 1-2 in tricky FP1",
+      "title_fr": "Antonelli mène la Mercedes 1-2 en FP1 à Lusail",
+      "title_en": "Antonelli leads Mercedes 1-2 in FP1 at Lusail",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-fp1-report-10878251/10878251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8mM46/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "published_at": "2026-11-27T14:40:58+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le champion du monde 2026, Kimi Antonelli, a dominé la première séance d'essais libres du Grand Prix du Qatar, dépassant George Russell sur le circuit difficile de Lusail.",
+      "summary_en": "2026 world champion Kimi Antonelli topped the first free practice at the Qatar Grand Prix, beating teammate George Russell on the tricky Lusail circuit."
+    },
+    {
+      "id": "e3e2e69745af",
+      "title": "Antonelli quickest by half a second on medium tyre compound in first practice | Formula 1",
+      "title_fr": "Antonelli en tête du premier test du Qatar",
+      "title_en": "Antonelli fastest in first practice of Qatar GP",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/27/antonelli-quickest-by-half-a-second-on-medium-tyre-compound-in-first-practice/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-27-16-53-27-1-4-friday-lusail-2026.jpg",
+      "published_at": "2026-11-27T14:40:22+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli a été le plus rapide lors de la première séance d’essai du Grand Prix du Qatar, dépassant ses rivaux d'une demi-seconde grâce à la bande de pneus intermédiaires.",
+      "summary_en": "Andrea Kimi Antonelli was the fastest in the opening practice for the Qatar Grand Prix, beating rivals by half a second on the medium tyre compound."
+    },
+    {
+      "id": "46a85a81b5d2",
+      "title": "F1 Qatar GP: Antonelli leads Russell in opening practice",
+      "title_fr": "Antonelli mène Russell en première séance d’essai",
+      "title_en": "Antonelli leads Russell in opening practice",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-qatar-gp-fp1-report-10878259/10878259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74Vj82/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-27T14:39:27+00:00",
+      "race_id": "lasvegas",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Le champion Kimi Antonelli a dominé la première séance d’essai du Grand Prix du Qatar, surpassant son coéquipier George Russell sur le circuit de Lusail.",
+      "summary_en": "World champion Kimi Antonelli topped the first practice session at the Qatar Grand Prix, holding off teammate George Russell on the Lusail circuit."
+    },
     {
       "id": "41ea937d2cff",
       "title": "Spotlight: Why the best thing about Las Vegas for Antonelli is its F1 track | Brief",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what sta",
       "summary_en": "George Russell arrived at the Losail International Circuit on Thursday refusing to pour fresh fuel on Formula 1’s loudest driver feud - though he made it clear he was not retracting a word of what sta"
-    },
-    {
-      "id": "5fa1b71df3b0",
-      "title": "Lando Norris on George Russell and Max Verstappen rivalry: \"Helps when you back it up on track\"",
-      "title_fr": "Norris défend la rivalité Verstappen-Russell",
-      "title_en": "Norris backs Verstappen‑Russell rivalry",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lando-norris-on-george-russell-and-max-verstappen-rivalry-helps-when-you-back-it-up-on-track/10877909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YWKAlWDY/s6/lando-norris-mclaren-a10877909-b706-2.jpg",
-      "published_at": "2026-11-26T15:09:13+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lando Norris a déclaré que la rivalité entre Max Verstappen et George Russell ne doit pas forcément être amicale, soulignant que les résultats sur la piste sont primordiaux. Il estime que les compétiteurs se confrontent naturellement.",
-      "summary_en": "Lando Norris said the Verstappen‑Russell rivalry need not be friendly, stressing that track results matter most. He believes competitors naturally clash."
-    },
-    {
-      "id": "6138a1035706",
-      "title": "F1 2027 grid: Who will be racing and where?",
-      "title_fr": "Grille 2027 : Haas conserve Bearman, Mercedes avec Antonelli et Russell",
-      "title_en": "2027 grid: Haas keeps Bearman, Mercedes fields Antonelli and Russell",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-2027-grid-who-will-be-racing-and-where/10847600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBmOY/s6/rafael-camara-haas-f1-team-lan-3.jpg",
-      "published_at": "2026-11-26T12:13:37+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "La grille 2027 est désormais complète. Haas a retenu le jeune Oliver Bearman, tandis que la seule équipe à modifier son duo est Haas. Mercedes compte Kimi Antonelli et George Russell.",
-      "summary_en": "The 2027 grid is now complete. Haas has retained young Oliver Bearman, while the only team changing its driver pairing is Haas. Mercedes fields Kimi Antonelli and George Russell."
-    },
-    {
-      "id": "f0c9c1b14b1e",
-      "title": "F1 2027 grid: Who will be racing and where? The full line-up",
-      "title_fr": "Grille 2027 complète : Haas garde Oliver Bearman",
-      "title_en": "2027 grid complete: Haas keeps Oliver Bearman",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/f1-2027-grid-how-many-spots-are-confirmed/10847586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXbMRL2/s6/andrea-kimi-antonelli-mercedes-3.jpg",
-      "published_at": "2026-11-26T12:04:37+00:00",
-      "race_id": null,
-      "category": "transfert",
-      "tags": [
-        "transfert"
-      ],
-      "importance": 68,
-      "is_breaking": false,
-      "summary_fr": "La grille de la saison 2027 est désormais complète après l'annonce de Haas de conserver Oliver Bearman. L'équipe américaine est la seule à modifier son duo de pilotes pour la prochaine saison.",
-      "summary_en": "The 2027 grid is now complete after Haas announced it will keep Oliver Bearman. The American team is the only one changing its driver pairing for the next season."
-    },
-    {
-      "id": "b46ccdb9f31b",
-      "title": "Fernando Alonso to miss Qatar F1 media day with viral illness",
-      "title_fr": "Fernando Alonso to miss Qatar F1 media day with viral illness",
-      "title_en": "Fernando Alonso to miss Qatar F1 media day with viral illness",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/fernando-alonso-to-miss-qatar-f1-media-day-with-viral-illness/10877849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoD4Ma0/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-26T10:57:58+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 30,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\".<br />The two-time champion will miss the traditional media obligations ",
-      "summary_en": "Fernando Alonso will be absent from Formula 1's media day ahead of the Qatar Grand Prix as he recovers from a \"viral infection\".<br />The two-time champion will miss the traditional media obligations "
-    },
-    {
-      "id": "a54ed7fb1602",
-      "title": "Alonso to not let his age determine F1 retirement",
-      "title_fr": "Alonso refuse de laisser son âge dicter sa retraite",
-      "title_en": "Alonso says age won't dictate his F1 retirement",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg",
-      "published_at": "2026-11-26T10:42:24+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso déclare qu'il quittera la Formule 1 lorsqu'il sentira qu'il est trop lent, sans que son âge soit un facteur. Le pilote, champion à deux titres, a parcouru 23 saisons sans victoire depuis 245 courses.",
-      "summary_en": "Fernando Alonso says he will leave Formula 1 when he feels too slow, not because of his age. The two-time champion has raced 23 seasons without a win in 245 races."
     }
   ]
 }
