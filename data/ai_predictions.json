@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:50:55Z",
+  "generated_at": "2026-11-27T01:58:51Z",
   "model": "openai/gpt-oss-120b",
   "predictions": [
     {
@@ -203,29 +203,29 @@
       "session_type": "qualifying",
       "session_date": "2026-11-28T18:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Mercedes domine 2026 : Antonelli mène le championnat avec 98 points d'avance et sa W17 excelle dans les courbes rapides et fluides de Lusail. Russell, très fort sur un tour, devrait compléter le doublé. Verstappen, souvent brillant au Qatar, reste la menace principale si Red Bull trouve le bon équilibre aéro. Ferrari et McLaren semblent un cran derrière.",
-      "reasoning_en": "Mercedes dominates 2026: Antonelli leads the championship by 98 points, and his W17 excels in Lusail's fast, flowing corners. Russell, very strong over one lap, should complete the front row. Verstappen, often brilliant in Qatar, remains the main threat if Red Bull nails the aero balance. Ferrari and McLaren look a step behind.",
-      "confidence": "medium",
-      "key_factor_fr": "Efficacité aéro Mercedes dans les virages rapides de Lusail",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli arrive en tête grâce à son rythme exceptionnel en qualification, confirmé par sa pole à Las Vegas et son titre de champion 2026. Verstappen, malgré l'absence de son ingénieur habituel, conserve une vitesse de pointe élevée et a terminé deuxième à Las Vegas, ce qui le place naturellement en deuxième position. Russell a montré une excellente constance en qualification (3e à Las Vegas) et b",
+      "reasoning_en": "Antonelli takes pole thanks to his outstanding one‑lap pace, proven by his Las Vegas pole and his 2026 world title. Verstappen, although missing his regular race engineer, still delivers top‑speed and finished second in Las Vegas qualifying, keeping him firmly in second place. Russell displayed strong consistency, qualifying third in Las Vegas and benefits from the well‑balanced Mercedes chassis, ",
+      "confidence": "high",
+      "key_factor_fr": "Rythme sur un tour et évolution rapide de la piste",
       "news_used_ids": [],
-      "generated_at": "2026-11-26T13:00:24Z"
+      "generated_at": "2026-11-27T01:58:50Z"
     },
     {
       "event_id": "qatar_grand_prix",
       "race_id": "qatar",
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
-      "p1": "max_verstappen",
-      "p2": "antonelli",
+      "p1": "antonelli",
+      "p2": "max_verstappen",
       "p3": "russell",
-      "reasoning_fr": "Le circuit de Lusail est un street avec peu de dépassements, la grille compte donc très lourdement. Antonelli a montré un excellent rythme en qualification (pole à Las Vegas) et Mercedes gère bien la dégradation. Verstappen, champion et vainqueur de la dernière course, possède la meilleure vitesse en course et la stratégie Red Bull. Russell, constant et fiable, complète le podium grâce à la solidi",
-      "reasoning_en": "Lusail’s street layout limits overtaking, making the starting grid crucial. Antonelli displayed top‑one qualifying pace in Las Vegas and Mercedes handles tyre wear well. Verstappen, the reigning champion and last‑race winner, has superior race speed and Red Bull’s strategy. Russell’s consistency and Mercedes reliability, combined with his recent strong form, secure him a podium place.",
-      "confidence": "high",
-      "key_factor_fr": "Grille de départ sur circuit à faible dépassement",
+      "reasoning_fr": "Antonelli part en pole grâce à son rythme exceptionnel en qualification et à la supériorité de la Mercedes sur le circuit à haute vitesse de Lusail. Verstappen, malgré un changement d’ingénieur, conserve une excellente performance en course et bénéficie d’une stratégie de pneus efficace. Russell, deuxième Mercedes, profite de la même gestion des pneus et de la vitesse en ligne droite pour assurer ",
+      "reasoning_en": "Antonelli starts from pole thanks to his outstanding qualifying pace and Mercedes’ advantage on Lusail’s high‑speed layout. Verstappen, even with a new race engineer, retains strong race performance and benefits from an optimal tyre strategy. Russell, the second Mercedes, leverages the same tyre management and straight‑line speed to secure third place.",
+      "confidence": "medium",
+      "key_factor_fr": "Quali pole + gestion pneus à Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-26T13:50:54Z"
+      "generated_at": "2026-11-27T01:58:37Z"
     }
   ]
 }
