@@ -1,7 +1,26 @@
 {
-  "last_updated": "2026-11-28T02:10:51Z",
+  "last_updated": "2026-11-28T05:13:16Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "cbd9000cf845",
+      "title": "George Russell drops cryptic hint over where Toto Wolff “stands off the record” on Max Verstappen",
+      "title_fr": "Russell laisse entendre que Wolff parle différemment hors micro",
+      "title_en": "Russell hints Wolff speaks differently off the record",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyyPY/s6/george-russell-mercedes-a10878290-b705-2.jpg",
+      "published_at": "2026-11-28T02:38:16+00:00",
+      "race_id": "qatar",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a laissé entendre que Toto Wolff adopte un ton différent lorsqu'il n'est pas enregistré, soulignant une possible divergence d'opinion sur Max Verstappen.",
+      "summary_en": "George Russell hinted that Toto Wolff adopts a different tone when not on record, suggesting a possible divergence of opinion on Max Verstappen."
+    },
     {
       "id": "0fc5f8f9dddb",
       "title": "F1 Qatar GP practice analysis: Kimi Antonelli nearly a second clear of Max Verstappen on long runs",
@@ -742,25 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Lewis Hamilton affirme que les échanges avec Charles Leclerc depuis le Grand Prix de Las Vegas sont positifs, et que les deux pilotes peuvent avancer ensemble après leur affrontement récent.",
       "summary_en": "Lewis Hamilton says talks with Charles Leclerc since Las Vegas have been positive, and that the two drivers can move forward together after their recent clash."
-    },
-    {
-      "id": "c8c6b11c5e92",
-      "title": "Christian Horner and Geri Halliwell reportedly snap up \"Pride and Prejudice\" mansion",
-      "title_fr": "Horner et Halliwell acquièrent la maison de Pride and Prejudice",
-      "title_en": "Horner and Halliwell snap up Pride and Prejudice mansion",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/christian-horner-and-geri-halliwell-reportedly-snap-up-pride-and-prejudice-mansion/10878015/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/2d1k3zDY/s6/geri-horner-and-christian-horn-a10878015-b708-2.jpg",
-      "published_at": "2026-11-26T18:20:23+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Christian Horner, directeur de Red Bull Racing, et sa femme Geri Halliwell ont acheté Edgcote House, l'ancienne demeure de la série BBC, après avoir surpassé un concurrent offrant 52 millions de livres.",
-      "summary_en": "Christian Horner, former Red Bull Racing chief, and his wife Geri Halliwell reportedly bought Edgcote House, the historic estate that featured in BBC's Pride and Prejudice, after outbidding a rival at 52 million pounds."
     }
   ]
 }
