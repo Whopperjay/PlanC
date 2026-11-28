@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-28T14:20:11Z",
+  "last_updated": "2026-11-28T17:22:18Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "403b7c7d5382",
+      "title": "Spotlight: Formula 1 could reintroduce DRS along with V8 turbo hybrids in 2030 | Brief",
+      "title_fr": "FIA envisage de réintroduire le DRS en 2030",
+      "title_en": "FIA considers reintroducing DRS in 2030",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/28/spotlight-formula-1-could-reintroduce-drs-along-with-v8-turbo-hybrids-in-2030/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2024/03/racefansdotnet-24-03-08-13-56-40-7-GP2402_135640_67A8086.jpg",
+      "published_at": "2026-11-28T15:56:50+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "La FIA étudie la réintroduction du DRS et des moteurs V8 turbo-hybrides pour la saison 2030, une évolution majeure du règlement.",
+      "summary_en": "The FIA is studying a return of DRS and V8 turbo‑hybrid engines for the 2030 season, a major regulatory shift."
+    },
+    {
+      "id": "28baf9f7b85c",
+      "title": "Antonelli and Mercedes complete clean sweep of practice sessions in Losail | Formula 1",
+      "title_fr": "Mercedes domine les séances de test à Losail",
+      "title_en": "Mercedes sweeps all practice sessions in Losail",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/28/antonelli-and-mercedes-complete-clean-sweep-of-practice-sessions-in-losail/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-28-15-22-49-2-M658551.jpg",
+      "published_at": "2026-11-28T15:41:14+00:00",
+      "race_id": "qatar",
+      "category": "résultat",
+      "tags": [
+        "résultat"
+      ],
+      "importance": 60,
+      "is_breaking": false,
+      "summary_fr": "Andrea Kimi Antonelli et George Russell ont mené les trois séances de pratique du Grand Prix du Qatar, assurant une victoire totale pour Mercedes à Losail.",
+      "summary_en": "Andrea Kimi Antonelli and George Russell topped all three practice sessions for the Qatar Grand Prix, giving Mercedes a clean sweep at Losail."
+    },
+    {
+      "id": "37d4d55d7d34",
+      "title": "F1 Qatar GP: Kimi Antonelli completes practice clean sweep as Mercedes dominates",
+      "title_fr": "Antonelli domine les séances de pratique au Qatar",
+      "title_en": "Antonelli dominates Qatar practice sessions",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/f1-qatar-gp-fp3-report/10878644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKBMrY/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-28T15:39:28+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a mené les trois séances de pratique du Qatar GP, laissant Mercedes en tête avant la qualification. Le pilote a affiché des temps record sur le circuit à haute portance de Lusail.",
+      "summary_en": "Kimi Antonelli dominated all three practice sessions at the Qatar GP, giving Mercedes a clear advantage heading into qualifying. The driver posted record lap times on Lusail's high-downforce circuit."
+    },
+    {
+      "id": "f116b1d65301",
+      "title": "F1 Qatar GP: Antonelli takes clean sweep of top spot in practice",
+      "title_fr": "Antonelli domine les séances de formation du Qatar GP",
+      "title_en": "Antonelli dominates Qatar GP practice sessions",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/f1-qatar-gp-fp3-report/10878646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0Zq8mQ86/s6/andrea-kimi-antonelli-mercedes-2.jpg",
+      "published_at": "2026-11-28T15:36:53+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Kimi Antonelli a donné à Mercedes un contrôle complet des séances de formation du Grand Prix du Qatar, assurant la première place et un avantage considérable pour la qualification.",
+      "summary_en": "Kimi Antonelli gave Mercedes a clean sweep of Qatar GP practice sessions, securing the top spot and a substantial advantage heading into qualifying."
+    },
     {
       "id": "38d2b97e085d",
       "title": "Featured Comment: Ferrari drivers must know more incidents will lead to repercussion | Brief",
@@ -383,6 +459,25 @@
       "summary_en": "Lando Norris says Mercedes are too far ahead for McLaren to catch, even after switching to their new floor tomorrow."
     },
     {
+      "id": "c1f9caa1a9bc",
+      "title": "How to follow Qatar Grand Prix on the BBC",
+      "title_fr": "Suivez le Grand Prix du Qatar sur la BBC",
+      "title_en": "How to follow the Qatar Grand Prix on the BBC",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cjzx912pyekdo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17e7/live/e3d9fed0-ea94-11f1-8d0e-57e68ad3d9a9.jpg",
+      "published_at": "2026-11-27T19:05:27+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "La BBC propose une couverture complète du Grand Prix du Qatar, du 27 au 29 novembre. Retrouvez les diffusions en direct, les analyses et les commentaires sur la chaîne et son site web.",
+      "summary_en": "The BBC offers comprehensive coverage of the Qatar Grand Prix from 27 to 29 November. Watch live broadcasts, analyses, and commentary on the channel and its website."
+    },
+    {
       "id": "d7a029922212",
       "title": "F1 Qatar GP: Antonelli remains on top in FP2 stalled by two red flags",
       "title_fr": "Antonelli domine la FP2 du Qatar malgré deux feux rouges",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Carlos Sainz détaille une proposition de système DRS visant à optimiser la performance des moteurs V8 turbo de 2030. Le pilote évoque un dispositif plus simple et plus léger pour la prochaine génération.",
       "summary_en": "Carlos Sainz outlines an intriguing DRS concept aimed at enhancing the upcoming V8 turbo engines of 2030. He highlights a simpler, lighter system to boost performance for the next generation."
-    },
-    {
-      "id": "e22cf7d2964d",
-      "title": "Carlos Sainz explains his intriguing DRS proposal for F1 2030",
-      "title_fr": "Sainz dévoile son projet DRS pour la F1 2030",
-      "title_en": "Sainz unveils his DRS proposal for F1 2030",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YMXb8zv2/s6/carlos-sainz-williams.jpg",
-      "published_at": "2026-11-27T11:47:59+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Carlos Sainz détaille une proposition de DRS visant à optimiser la performance des moteurs V8 turbo de 2030, dans le cadre de la transition vers des unités plus légères et plus propres.",
-      "summary_en": "Carlos Sainz outlines a DRS proposal aimed at boosting the performance of the 2030 V8 turbo engines, as part of the shift toward lighter, cleaner power units."
-    },
-    {
-      "id": "765429be0d79",
-      "title": "Honda can't find an issue after Fernando Alonso's intriguing \"broken engine\" radio message",
-      "title_fr": "Alonso signale moteur cassé à Las Vegas",
-      "title_en": "Alonso reports broken engine at Las Vegas",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878121/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15zBk0/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-27T11:03:47+00:00",
-      "race_id": "lasvegas",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso a déclaré que son moteur était cassé lors de la dernière ligne du Grand Prix de Las Vegas. Honda n'a trouvé aucune anomalie, laissant le doute sur la fiabilité de l'unité de puissance.",
-      "summary_en": "Fernando Alonso reported a broken engine on the final lap of the Las Vegas Grand Prix. Honda found no fault, leaving questions about the power unit's reliability."
-    },
-    {
-      "id": "801e5b1dff7b",
-      "title": "Why Fernando Alonso reported a \"broken engine\" in Las Vegas – but Honda can’t find an issue",
-      "title_fr": "Alonso signale moteur cassé à Las Vegas",
-      "title_en": "Alonso reports broken engine at Las Vegas",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-fernando-alonso-reported-a-broken-engine-in-las-vegas-but-honda-cant-find-an-issue/10878119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YK15zBk0/s6/fernando-alonso-aston-martin-r.jpg",
-      "published_at": "2026-11-27T11:03:25+00:00",
-      "race_id": "lasvegas",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Fernando Alonso a déclaré que son moteur était cassé lors de la dernière ligne du Grand Prix de Las Vegas, mais Honda n’a trouvé aucune anomalie.",
-      "summary_en": "Fernando Alonso said his engine was broken on the final lap of the Las Vegas Grand Prix, but Honda found no fault."
-    },
-    {
-      "id": "dac5709e26c8",
-      "title": "F1 drivers go through quizzical exercise in stewarding debate",
-      "title_fr": "Pilotes F1 testent la régulation via quiz Kahoot!",
-      "title_en": "F1 drivers test regulation with Kahoot quiz",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/f1-drivers-go-through-quizzical-exercise-in-stewarding-debate/10878073/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/63QaD4b2/s6/gettyimages-2306409943.jpg",
-      "published_at": "2026-11-27T10:30:13+00:00",
-      "race_id": null,
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Les pilotes de Formule 1 ont participé à un quiz Kahoot! lors du sommet annuel de la FIA pour exprimer leurs avis sur la cohérence des décisions de régulation. L’exercice a révélé des divergences d’opinion.",
-      "summary_en": "F1 drivers took part in a Kahoot! quiz at the FIA’s annual summit to share their views on the consistency of stewarding decisions, highlighting differing opinions."
-    },
-    {
-      "id": "ed176a56eaaa",
-      "title": "How Rosberg beat Hamilton – and his demons – to clinch F1 world title",
-      "title_fr": "Rosberg triomphe sur Hamilton pour le titre mondial 2016",
-      "title_en": "Rosberg beats Hamilton to win 2016 F1 title",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/how-nico-rosberg-beat-lewis-hamilton-and-his-demon-to-clinch-f1-world-title/10878126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxz46/s6/nico-rosberg-mercedes.jpg",
-      "published_at": "2026-11-27T09:35:50+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Nico Rosberg a surpassé Lewis Hamilton grâce à une préparation méticuleuse, remportant le championnat du monde de Formule 1 en 2016. Le pilote Mercedes a ainsi mis fin à la domination de Hamilton.",
-      "summary_en": "Nico Rosberg outperformed Lewis Hamilton through meticulous preparation, clinching the 2016 Formula 1 World Championship. The Mercedes driver ended Hamilton's dominant run."
     }
   ]
 }
