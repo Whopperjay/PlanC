@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T13:00:24Z",
-  "model": "claude",
+  "generated_at": "2026-11-28T02:11:13Z",
+  "model": "openai/gpt-oss-120b",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -205,12 +205,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance : la Mercedes est clairement la référence de ce nouveau règlement. Lusail, circuit rapide aux longues courbes, récompense l'appui aérodynamique et l'efficacité de la gestion d'énergie, deux points forts de Mercedes. Russell, solide en qualif, devrait suivre. Verstappen reste le danger principal sur un tour lancé, malgré une Red Bull moins constante.",
-      "reasoning_en": "Antonelli dominates 2026 with a 98-point lead, and Mercedes is clearly the benchmark under the new rules. Lusail is a fast circuit with long corners that rewards downforce and efficient energy management, both Mercedes strengths. Russell, strong in qualifying, should follow. Verstappen remains the main one-lap threat despite a less consistent Red Bull.",
-      "confidence": "medium",
-      "key_factor_fr": "Mercedes référence 2026, Lusail favorise l'appui en courbes rapides",
+      "reasoning_fr": "Antonelli domine les essais à Lusail, avec une avance d'environ 0,8 s sur Verstappen, et il a déjà été pole à Las Vegas. Sa maîtrise du circuit et la progression rapide de la piste le placent en tête. Russell a montré un rythme très proche, se classant 3ᵉ à Las Vegas et étant l'un des deux pilotes les plus rapides en pratique, ce qui le rend crédible pour la deuxième place. Verstappen, malgré sa v",
+      "reasoning_en": "Antonelli has been the clear pace‑setter in Lusail’s practice, posting roughly 0.8 s faster than Verstappen and already taking pole at the previous venue in Las Vegas. His strong single‑lap rhythm and the rapid track evolution give him the best chance to top qualifying. Russell was also among the fastest, finishing third in Las Vegas qualifying and matching Antonelli’s pace in the sessions, making",
+      "confidence": "high",
+      "key_factor_fr": "Rythme en pratique et qualification récente",
       "news_used_ids": [],
-      "generated_at": "2026-11-27T13:00:24Z"
+      "generated_at": "2026-11-28T02:11:12Z"
     },
     {
       "event_id": "qatar_grand_prix",
@@ -218,14 +218,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
       "p1": "antonelli",
-      "p2": "max_verstappen",
-      "p3": "russell",
-      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance et une Mercedes de référence. Verstappen reste le plus régulier des poursuivants et a souvent brillé à Lusail, circuit rapide aux longues courbes. Russell profite de la même Mercedes, mais Hamilton, Norris et Leclerc sont au contact. Sans actualités récentes, la confiance reste moyenne.",
-      "reasoning_en": "Antonelli dominates 2026 with a 98-point lead and the benchmark Mercedes. Verstappen is the most consistent challenger and has often shone at Lusail, a fast track with long sweeping corners. Russell has the same Mercedes, but Hamilton, Norris and Leclerc are close behind. With no recent news to go on, confidence stays medium.",
+      "p2": "russell",
+      "p3": "norris",
+      "reasoning_fr": "Antonelli a montré une supériorité claire en pratique (+0,8 s sur Verstappen) et domine la qualification, assurant la première place. Russell a également été rapide en essais, garantissant une bonne position sur la grille. Norris, bien que reconnaissant l'avance de Mercedes, conserve un rythme solide et une bonne gestion des pneus, le plaçant naturellement sur le podium. Max Verstappen montre un d",
+      "reasoning_en": "Antonelli displayed clear superiority in practice (0.8s ahead of Verstappen) and dominates qualifying, securing pole. Russell was equally fast in the tests, ensuring a strong grid position. Norris, despite acknowledging Mercedes' advantage, maintains solid pace and tyre management, naturally placing him on the podium. Verstappen reports a gap at Lusail, reducing his top‑3 chances.",
       "confidence": "medium",
-      "key_factor_fr": "Avance de Mercedes dans les courbes rapides de Lusail",
+      "key_factor_fr": "Grille de départ dominée par Antonelli et Russell",
       "news_used_ids": [],
-      "generated_at": "2026-11-27T13:00:14Z"
+      "generated_at": "2026-11-28T02:10:59Z"
     }
   ]
 }
