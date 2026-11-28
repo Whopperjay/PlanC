@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T02:11:13Z",
-  "model": "openai/gpt-oss-120b",
+  "generated_at": "2026-11-28T05:00:13Z",
+  "model": "claude",
   "predictions": [
     {
       "event_id": "barcelona_grand_prix",
@@ -226,6 +226,21 @@
       "key_factor_fr": "Grille de départ dominée par Antonelli et Russell",
       "news_used_ids": [],
       "generated_at": "2026-11-28T02:10:59Z"
+    },
+    {
+      "event_id": "abu_dhabi_qualifying",
+      "race_id": "abu_dhabi",
+      "session_type": "qualifying",
+      "session_date": "2026-12-05T14:00:00+00:00",
+      "p1": "antonelli",
+      "p2": "russell",
+      "p3": "max_verstappen",
+      "reasoning_fr": "Antonelli est champion avec 98 points d'avance et la Mercedes domine la fin de saison : il a écrasé les essais au Qatar, avec une seconde d'avance sur Verstappen. Yas Marina, avec ses longues lignes droites et ses virages lents, devrait convenir à la W17. Russell est le coéquipier le plus solide pour la P2. Verstappen reste le seul à pouvoir intercaler sa Red Bull.",
+      "reasoning_en": "Antonelli is champion with a 98-point lead and Mercedes is dominating the end of the season: he crushed Qatar practice, a second clear of Verstappen. Yas Marina, with its long straights and slow corners, should suit the W17. Russell is the strongest teammate pick for P2. Verstappen remains the only driver able to split them with his Red Bull.",
+      "confidence": "medium",
+      "key_factor_fr": "Avance de la Mercedes et forme d'Antonelli en fin de saison",
+      "news_used_ids": [],
+      "generated_at": "2026-11-28T05:00:13Z"
     }
   ]
 }
