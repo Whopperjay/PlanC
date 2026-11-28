@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T05:00:13Z",
+  "generated_at": "2026-11-28T13:00:36Z",
   "model": "claude",
   "predictions": [
     {
@@ -205,12 +205,12 @@
       "p1": "antonelli",
       "p2": "russell",
       "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli domine les essais à Lusail, avec une avance d'environ 0,8 s sur Verstappen, et il a déjà été pole à Las Vegas. Sa maîtrise du circuit et la progression rapide de la piste le placent en tête. Russell a montré un rythme très proche, se classant 3ᵉ à Las Vegas et étant l'un des deux pilotes les plus rapides en pratique, ce qui le rend crédible pour la deuxième place. Verstappen, malgré sa v",
-      "reasoning_en": "Antonelli has been the clear pace‑setter in Lusail’s practice, posting roughly 0.8 s faster than Verstappen and already taking pole at the previous venue in Las Vegas. His strong single‑lap rhythm and the rapid track evolution give him the best chance to top qualifying. Russell was also among the fastest, finishing third in Las Vegas qualifying and matching Antonelli’s pace in the sessions, making",
-      "confidence": "high",
-      "key_factor_fr": "Rythme en pratique et qualification récente",
+      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance : la Mercedes est la référence sur un tour. Lusail est faite de longues courbes rapides qui exigent beaucoup d'appui aérodynamique, un terrain qui sourit à la Mercedes. Russell, régulier en qualif, devrait suivre. Verstappen, très à l'aise à Lusail, reste la principale menace avec la Red Bull. Le pneu, à la limite de sa résistance, fera la différence a",
+      "reasoning_en": "Antonelli leads 2026 by 98 points: the Mercedes is the benchmark over one lap. Lusail is a track of long, fast corners that demand high aerodynamic grip, which suits the Mercedes. Russell, consistent in qualifying, should follow. Verstappen, very comfortable at Lusail, remains the main threat in the Red Bull. Tyres at the limit of their durability will decide the final push lap.",
+      "confidence": "medium",
+      "key_factor_fr": "Appui Mercedes dans les courbes rapides de Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-28T02:11:12Z"
+      "generated_at": "2026-11-28T13:00:27Z"
     },
     {
       "event_id": "qatar_grand_prix",
@@ -218,14 +218,14 @@
       "session_type": "grand_prix",
       "session_date": "2026-11-29T16:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "norris",
-      "reasoning_fr": "Antonelli a montré une supériorité claire en pratique (+0,8 s sur Verstappen) et domine la qualification, assurant la première place. Russell a également été rapide en essais, garantissant une bonne position sur la grille. Norris, bien que reconnaissant l'avance de Mercedes, conserve un rythme solide et une bonne gestion des pneus, le plaçant naturellement sur le podium. Max Verstappen montre un d",
-      "reasoning_en": "Antonelli displayed clear superiority in practice (0.8s ahead of Verstappen) and dominates qualifying, securing pole. Russell was equally fast in the tests, ensuring a strong grid position. Norris, despite acknowledging Mercedes' advantage, maintains solid pace and tyre management, naturally placing him on the podium. Verstappen reports a gap at Lusail, reducing his top‑3 chances.",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine la saison avec 98 points d'avance et une Mercedes très efficace dans les virages rapides. Verstappen reste redoutable à Lusail, où il a souvent gagné, et Red Bull gère bien la dégradation. Russell profite du rythme de la Mercedes. L'usure extrême des Pirelli imposera plusieurs arrêts : la stratégie et la gestion des pneus feront la différence.",
+      "reasoning_en": "Antonelli dominates the season with a 98-point lead and a Mercedes that is very strong in fast corners. Verstappen remains formidable at Lusail, where he has often won, and Red Bull manages degradation well. Russell benefits from Mercedes' pace. Extreme Pirelli wear will force multiple stops, so strategy and tyre management will decide the race.",
       "confidence": "medium",
-      "key_factor_fr": "Grille de départ dominée par Antonelli et Russell",
+      "key_factor_fr": "Gestion de l'usure extrême des pneus Pirelli à Lusail",
       "news_used_ids": [],
-      "generated_at": "2026-11-28T02:10:59Z"
+      "generated_at": "2026-11-28T13:00:14Z"
     },
     {
       "event_id": "abu_dhabi_qualifying",
@@ -233,14 +233,14 @@
       "session_type": "qualifying",
       "session_date": "2026-12-05T14:00:00+00:00",
       "p1": "antonelli",
-      "p2": "russell",
-      "p3": "max_verstappen",
-      "reasoning_fr": "Antonelli est champion avec 98 points d'avance et la Mercedes domine la fin de saison : il a écrasé les essais au Qatar, avec une seconde d'avance sur Verstappen. Yas Marina, avec ses longues lignes droites et ses virages lents, devrait convenir à la W17. Russell est le coéquipier le plus solide pour la P2. Verstappen reste le seul à pouvoir intercaler sa Red Bull.",
-      "reasoning_en": "Antonelli is champion with a 98-point lead and Mercedes is dominating the end of the season: he crushed Qatar practice, a second clear of Verstappen. Yas Marina, with its long straights and slow corners, should suit the W17. Russell is the strongest teammate pick for P2. Verstappen remains the only driver able to split them with his Red Bull.",
+      "p2": "max_verstappen",
+      "p3": "russell",
+      "reasoning_fr": "Antonelli domine 2026 avec 98 points d'avance : la Mercedes semble être la référence sur un tour. Yas Marina récompense la motricité et le freinage tardif dans le dernier secteur, ce qui sert bien la W17. Verstappen a souvent pris la pole ici et sort tout de la Red Bull. Russell, très fort en qualif, complète le podium.",
+      "reasoning_en": "Antonelli dominates 2026 with a 98-point lead, and Mercedes looks like the benchmark over one lap. Yas Marina rewards traction and late braking in the final sector, which suits the W17. Verstappen has often taken pole here and gets everything out of the Red Bull. Russell, a strong qualifier, completes the top three.",
       "confidence": "medium",
-      "key_factor_fr": "Avance de la Mercedes et forme d'Antonelli en fin de saison",
+      "key_factor_fr": "Vitesse Mercedes sur un tour et forme d'Antonelli",
       "news_used_ids": [],
-      "generated_at": "2026-11-28T05:00:13Z"
+      "generated_at": "2026-11-28T13:00:36Z"
     }
   ]
 }
