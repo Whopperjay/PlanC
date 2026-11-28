@@ -1,7 +1,64 @@
 {
-  "last_updated": "2026-11-28T05:13:16Z",
+  "last_updated": "2026-11-28T08:15:46Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "4b2bee4000c7",
+      "title": "Hankook tipped to enter race for F1 tyre supply contract",
+      "title_fr": "Hankook vise le contrat de pneus F1",
+      "title_en": "Hankook eyes F1 tyre supply contract",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/hankook-tipped-to-enter-race-for-f1-tyre-supply-contract/10878383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyxNY/s6/gettyimages-2257247174.jpg",
+      "published_at": "2026-11-28T08:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Hankook, nouveau prétendant, pourrait rejoindre la course pour le contrat exclusif de pneus de la Formule 1.",
+      "summary_en": "Hankook, a new contender, could join the race for Formula 1's exclusive tyre supply contract, potentially replacing Pirelli."
+    },
+    {
+      "id": "093046ef1e70",
+      "title": "Hankook poised to enter race for F1 tyre supply contract",
+      "title_fr": "Hankook vise le contrat de pneus F1",
+      "title_en": "Hankook eyes F1 tyre supply contract",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/hankook-poised-to-enter-race-for-f1-tyre-supply-contract/10878399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyxNY/s6/gettyimages-2257247174.jpg",
+      "published_at": "2026-11-28T08:00:03+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Hankook se prépare à concurrencer Pirelli pour le contrat exclusif de pneus de la Formule 1, marquant une nouvelle rivalité dans le secteur.",
+      "summary_en": "Hankook is positioning itself to challenge Pirelli for Formula 1's exclusive tyre supply contract, signalling a fresh rivalry in the industry."
+    },
+    {
+      "id": "bb6cd1cb6895",
+      "title": "Formula 1 planning new engine development freeze before 2030 rules change | Formula 1",
+      "title_fr": "F1 suspend le développement moteur avant 2030",
+      "title_en": "F1 freezes engine development before 2030 rules",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/28/formula-1-planning-new-engine-development-freeze-before-2030-rules-change/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-07-10-25-35-8-SI202603070257.jpg",
+      "published_at": "2026-11-28T07:15:08+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La Formule 1 décide de suspendre le développement des unités de puissance avant l’entrée en vigueur des nouvelles règles 2030, afin de stabiliser la compétition.",
+      "summary_en": "Formula 1 has decided to freeze power‑unit development before the 2030 regulations take effect, aiming to stabilize competition."
+    },
     {
       "id": "cbd9000cf845",
       "title": "George Russell drops cryptic hint over where Toto Wolff “stands off the record” on Max Verstappen",
@@ -704,63 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Max Verstappen ne sera pas accompagné de Gianpiero Lambiase ce week-end à Lusail. Red Bull a mis en place un système de rotation afin que Tom Hart s’installe avant son poste permanent.",
       "summary_en": "Max Verstappen will not be accompanied by Gianpiero Lambiase this weekend at Lusail. Red Bull has implemented a rotation system so Tom Hart can settle in before his permanent role."
-    },
-    {
-      "id": "7d1bad34fb21",
-      "title": "Max Verstappen without Gianpiero Lambiase at Qatar GP as Tom Hart steps in",
-      "title_fr": "Verstappen sans Lambiase à Qatar, Tom Hart prend le relais",
-      "title_en": "Verstappen Without Lambiase at Qatar, Tom Hart Steps In",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/max-verstappen-without-gianpiero-lambiase-at-qatar-gp-as-tom-hart-steps-in/10878042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YBVj7QzY/s6/max-verstappen-red-bull-racing.jpg",
-      "published_at": "2026-11-26T19:55:34+00:00",
-      "race_id": "qatar",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen ne sera pas accompagné de son habitué Gianpiero Lambiase lors du Grand Prix du Qatar. Tom Hart, déjà en rotation, assume le rôle pour la fin de saison.",
-      "summary_en": "Max Verstappen will miss his regular right‑hand man Gianpiero Lambiase at the Qatar GP. Tom Hart, already in a rotation role, will step in for the remainder of the season."
-    },
-    {
-      "id": "2acbe01ff385",
-      "title": "Why Max Verstappen has ruled out Indy 500 entry",
-      "title_fr": "Verstappen décline l'Indy 500",
-      "title_en": "Verstappen rules out Indy 500",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/why-max-verstappen-has-ruled-out-indy-500-entry/10878029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/68VwB9x2/s6/max-verstappen-red-bull-racing-a10878029-b707-2.jpg",
-      "published_at": "2026-11-26T19:05:20+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion Max Verstappen a refusé de participer à l'Indy 500, invoquant les séquelles de l'accident de Nelson Piquet à l'Indianapolis Speedway.",
-      "summary_en": "Max Verstappen has ruled out racing in the Indy 500, citing the lasting effects of Nelson Piquet's crash at the Indianapolis Speedway."
-    },
-    {
-      "id": "73b7b72253f0",
-      "title": "Lewis Hamilton confirms \"positive\" talks with Charles Leclerc after Las Vegas clash",
-      "title_fr": "Hamilton confirme des discussions positives avec Leclerc après l'affrontement de Las Vegas",
-      "title_en": "Hamilton confirms positive talks with Leclerc after Las Vegas clash",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-confirms-positive-talks-with-charles-leclerc-after-las-vegas-clash/10878021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxxk6/s6/lewis-hamilton-ferrari-a10878021-b704-2.jpg",
-      "published_at": "2026-11-26T18:42:43+00:00",
-      "race_id": "mexico",
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Lewis Hamilton affirme que les échanges avec Charles Leclerc depuis le Grand Prix de Las Vegas sont positifs, et que les deux pilotes peuvent avancer ensemble après leur affrontement récent.",
-      "summary_en": "Lewis Hamilton says talks with Charles Leclerc since Las Vegas have been positive, and that the two drivers can move forward together after their recent clash."
     }
   ]
 }
