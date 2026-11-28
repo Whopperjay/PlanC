@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-28T11:18:19Z",
+  "last_updated": "2026-11-28T14:20:11Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "38d2b97e085d",
+      "title": "Featured Comment: Ferrari drivers must know more incidents will lead to repercussion | Brief",
+      "title_fr": "Ferrari exige plus de fermeté de Hamilton et Leclerc",
+      "title_en": "Ferrari demands more firmness from Hamilton and Leclerc",
+      "source": "racefans.net",
+      "url": "https://www.racefans.net/2026/11/28/featured-comment-ferrari-drivers-must-know-more-incidents-will-lead-to-repercussion/",
+      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-14-03-24-2-2-sunday-mexico-2026.jpg",
+      "published_at": "2026-11-28T12:05:23+00:00",
+      "race_id": null,
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "Ferrari a déclaré que les pilotes doivent faire preuve de plus de fermeté envers Hamilton et Leclerc pour éviter de futures répercussions.",
+      "summary_en": "Ferrari said its drivers must show more firmness towards Hamilton and Leclerc to avoid future repercussions."
+    },
+    {
+      "id": "8f13d1759e7b",
+      "title": "FIA explores DRS return alongside push-to-pass system for F1’s V8 engines",
+      "title_fr": "FIA envisage le retour du DRS et du système pousser‑à‑passer pour les moteurs V8",
+      "title_en": "FIA considers DRS return and push‑to‑pass for V8 engines",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/fia-considering-return-of-drs-alongside-push-to-pass-for-f1-in-2030/10878475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VWnDB2/s6/nikolas-tombazis-fia.jpg",
+      "published_at": "2026-11-28T12:04:46+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA étudie l’introduction du DRS et d’un système pousser‑à‑passer pour les moteurs V8 afin d’améliorer les dépassements en 2026. Les détails restent à préciser.",
+      "summary_en": "The FIA is studying the reintroduction of DRS and a push‑to‑pass system for V8 engines to boost overtaking in 2026, with details still to be ironed out."
+    },
+    {
+      "id": "eaf20ba06a9a",
+      "title": "FIA explores DRS return alongside push-to-pass system for F1’s V8 engines",
+      "title_fr": "FIA envisage le retour du DRS et un système push-to-pass pour les moteurs V8",
+      "title_en": "FIA explores DRS return and push-to-pass system for V8 engines",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/fia-explores-drs-return-alongside-push-to-pass-system-for-f1s-v8-engines/10878582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/68VWnDB2/s6/nikolas-tombazis-fia.jpg",
+      "published_at": "2026-11-28T12:04:31+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "La FIA étudie le retour du DRS et l’introduction d’un système push-to-pass pour les moteurs V8 de 2026, afin de favoriser les dépassements tout en réduisant la charge électrique.",
+      "summary_en": "The FIA is studying a DRS return and a push-to-pass system for 2026 V8 engines to boost overtaking while cutting electrical load."
+    },
+    {
+      "id": "5448c7b07e4c",
+      "title": "George Russell softens stance on Max Verstappen’s infamous 2024 “in the wall” threat",
+      "title_fr": "Russell adoucit son avis sur la menace de Verstappen",
+      "title_en": "Russell softens stance on Verstappen threat",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/two-years-later-george-russell-softens-stance-on-max-verstappens-infamous-2024-in-the-wall-threat/10878305/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6b8ZArn2/s6/george-russell-mercedes-a10878305-b705-2.jpg",
+      "published_at": "2026-11-28T11:55:02+00:00",
+      "race_id": "netherlands",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell, après deux ans de tension à Losail, a adouci son positionnement sur la menace de Max Verstappen, déclarant qu'il ne se sent plus menacé.",
+      "summary_en": "After two years of tension at Losail, George Russell has softened his stance on Max Verstappen's threat, saying he no longer feels threatened."
+    },
     {
       "id": "9c05e6bd2017",
       "title": "Why Williams breached the 2025 F1 cost cap",
@@ -685,82 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Nico Rosberg a surpassé Lewis Hamilton grâce à une préparation méticuleuse, remportant le championnat du monde de Formule 1 en 2016. Le pilote Mercedes a ainsi mis fin à la domination de Hamilton.",
       "summary_en": "Nico Rosberg outperformed Lewis Hamilton through meticulous preparation, clinching the 2016 Formula 1 World Championship. The Mercedes driver ended Hamilton's dominant run."
-    },
-    {
-      "id": "8c96dd347e4c",
-      "title": "How Nico Rosberg beat Lewis Hamilton – and his demons – to clinch F1 world title",
-      "title_fr": "Rosberg dépasse Hamilton pour le titre mondial 2016",
-      "title_en": "Rosberg beats Hamilton to win 2016 F1 title",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/how-nico-rosberg-beat-lewis-hamilton-and-his-demon-to-clinch-f1-world-title/10877499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0mXyxz46/s6/nico-rosberg-mercedes.jpg",
-      "published_at": "2026-11-27T09:34:17+00:00",
-      "race_id": null,
-      "category": "résultat",
-      "tags": [
-        "résultat"
-      ],
-      "importance": 60,
-      "is_breaking": false,
-      "summary_fr": "Nico Rosberg a remporté le championnat du monde de Formule 1 2016 en surpassant Lewis Hamilton grâce à une préparation méticuleuse. Sa stratégie et sa discipline ont fait la différence.",
-      "summary_en": "Nico Rosberg clinched the 2016 F1 World Championship by outpacing Lewis Hamilton, thanks to meticulous preparation. His disciplined strategy and focus made the difference."
-    },
-    {
-      "id": "0a166955c2c5",
-      "title": "Russell says he’s learned some in media will be “cheeky” with his quotes | Formula 1",
-      "title_fr": "Russell dénonce la représentation \"coquette\" des journalistes",
-      "title_en": "Russell calls out \"cheeky\" media representation",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/27/russell-says-hes-learned-some-in-media-will-be-cheeky-with-his-quotes/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-06-09-50-01-1-M649485_S_o_Paulo_Grand_Prix__Thursday.jpg",
-      "published_at": "2026-11-27T07:15:07+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "George Russell a accusé deux journalistes télévisés de F1 d'avoir été \"un peu coquet\" dans la façon dont ils ont présenté ses propos. Le pilote souligne qu'il a appris que les médias peuvent parfois exagérer.",
-      "summary_en": "George Russell accused two F1 TV reporters of being \"a little cheeky\" in how they portrayed his comments. The driver says he has learned that media can sometimes exaggerate."
-    },
-    {
-      "id": "ea1a9c6579eb",
-      "title": "Mercedes boss Toto Wolff reveals why rival F1 teams never try to hire him",
-      "title_fr": "Toto Wolff explique pourquoi les équipes rivales ne veulent pas l'embaucher",
-      "title_en": "Toto Wolff explains why rival teams don't want to hire him",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/mercedes-boss-toto-wolff-reveals-why-rival-f1-teams-never-try-to-hire-him/10874986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/0kZX99D6/s6/toto-wolff-mercedes-a10874986-b705-2.jpg",
-      "published_at": "2026-11-27T00:30:04+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff, directeur de Mercedes, révèle que son succès historique et son influence dans la F1 dissuadent les concurrents de le recruter. Il souligne que son rôle central dans l'équipe rend son départ difficile.",
-      "summary_en": "Toto Wolff, Mercedes team principal, says his historic success and influence in F1 make rival teams reluctant to hire him. He notes that his central role in the team makes a departure difficult."
-    },
-    {
-      "id": "a919755f7455",
-      "title": "On This Day: Hamilton’s tactical slowdown can’t stop Rosberg taking the title | Brief",
-      "title_fr": "Hamilton échoue à stopper Rosberg malgré son ralentissement",
-      "title_en": "Hamilton fails to stop Rosberg despite tactical slowdown",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/27/on-this-day-abu-dhabi-grand-prix/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2025/12/racefansdotnet-24-12-05-21-43-21-1-M52226.jpg",
-      "published_at": "2026-11-27T00:01:00+00:00",
-      "race_id": null,
-      "category": "stratégie",
-      "tags": [
-        "stratégie"
-      ],
-      "importance": 45,
-      "is_breaking": false,
-      "summary_fr": "Le pilote Hamilton a tenté de freiner Rosberg en fin de course, mais l'Allemand a conservé la tête et a remporté le championnat. La stratégie de Hamilton n'a pas suffi.",
-      "summary_en": "Hamilton tried to slow Rosberg down, but the German kept the lead and secured the title. The strategy failed to stop him."
     }
   ]
 }
