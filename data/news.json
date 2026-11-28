@@ -1,7 +1,102 @@
 {
-  "last_updated": "2026-11-28T08:15:46Z",
+  "last_updated": "2026-11-28T11:18:19Z",
   "model": "openai/gpt-oss-20b",
   "articles": [
+    {
+      "id": "9c05e6bd2017",
+      "title": "Why Williams breached the 2025 F1 cost cap",
+      "title_fr": "Williams enfreint le plafond de dépenses 2025",
+      "title_en": "Williams breaches 2025 cost cap",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/why-williams-breached-the-2025-f1-cost-cap/10878549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QeqOXY/s6/alexander-albon-williams-2.jpg",
+      "published_at": "2026-11-28T10:41:51+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Williams a violé le plafond de dépenses 2025 en raison d’une divergence d’interprétation entre son équipe financière et les arbitres de la FIA, suite à la réorganisation de l’équipe. La violation s’élevait à 627 000 livres sterling.",
+      "summary_en": "Williams breached the 2025 cost cap due to a disagreement between its finance team and FIA adjudicators over the team's restructuring into a new limited liability partnership. The breach amounted to £627,000."
+    },
+    {
+      "id": "94a35abee4e6",
+      "title": "Why Williams breached the 2025 F1 cost cap",
+      "title_fr": "Williams enfreint le plafond de dépenses 2025",
+      "title_en": "Williams breaches 2025 cost cap",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/why-williams-breached-the-2025-f1-cost-cap/10878544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/24QeqOXY/s6/alexander-albon-williams-2.jpg",
+      "published_at": "2026-11-28T10:40:10+00:00",
+      "race_id": null,
+      "category": "réglementation",
+      "tags": [
+        "réglementation"
+      ],
+      "importance": 50,
+      "is_breaking": false,
+      "summary_fr": "Williams a dépassé le plafond de dépenses de 627 000 £ en 2025, faute d'interprétation différente entre son équipe financière et les arbitres de la FIA, suite à la réorganisation de l'équipe.",
+      "summary_en": "Williams exceeded the 2025 cost cap by £627,000 due to a differing interpretation between its finance team and FIA adjudicators following a team reorganisation."
+    },
+    {
+      "id": "3c7785af4117",
+      "title": "George Russell says Lewis Hamilton offers a different example from Max Verstappen",
+      "title_fr": "Russell compare Hamilton à Verstappen",
+      "title_en": "Russell compares Hamilton to Verstappen",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/george-russell-draws-pointed-contrast-between-hamiltons-grace-and-dignity-and-verstappens-style/10878293/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/0LdemoV0/s6/george-russell-mercedes-a10878293-b705-3.jpg",
+      "published_at": "2026-11-28T09:42:58+00:00",
+      "race_id": "lasvegas",
+      "category": "rumeur",
+      "tags": [
+        "rumeur"
+      ],
+      "importance": 42,
+      "is_breaking": false,
+      "summary_fr": "George Russell a déclaré que Lewis Hamilton représente un exemple différent de Max Verstappen, soulignant la différence de style entre les deux pilotes. Le commentaire intervient alors que la rivalité à Las Vegas se ravive.",
+      "summary_en": "George Russell said Lewis Hamilton offers a different example from Max Verstappen, highlighting the contrast in their styles. The comment comes as the Las Vegas rivalry heats up."
+    },
+    {
+      "id": "481a06732c22",
+      "title": "100% wear in 15 laps – F1’s tyre challenges in Qatar far more extreme than Pirelli expected",
+      "title_fr": "Pirelli subit une usure totale en 15 tours à Lusail",
+      "title_en": "Pirelli faces total tyre wear in 15 laps at Lusail",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/100-wear-in-15-laps-f1s-tyre-challenges-in-qatar-far-more-extreme-than-pirelli-expected/10878519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7z5j56/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-11-28T09:11:29+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Les pneus Pirelli ont subi une usure totale en seulement 15 tours sur le circuit de Lusail, bien au-delà des simulations prévues. Le fournisseur doit revoir ses prévisions pour la prochaine saison.",
+      "summary_en": "Pirelli's tyres suffered total wear in just 15 laps on Lusail's circuit, far exceeding pre-event simulations. The supplier must adjust its predictions for the upcoming season."
+    },
+    {
+      "id": "b077f48247a3",
+      "title": "100% wear in 15 laps – F1’s tyre challenges in Qatar far more extreme than Pirelli expected",
+      "title_fr": "Pirelli subit un essai de pneus extrême à Lusail",
+      "title_en": "Pirelli faces extreme tyre wear at Lusail",
+      "source": "motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/100-wear-in-15-laps-f1s-tyre-challenges-in-qatar-more-extreme-than-pirelli-expected/10878479/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "image_url": "https://cdn-1.motorsport.com/images/amp/6O7z5j56/s6/pierre-gasly-alpine.jpg",
+      "published_at": "2026-11-28T08:45:03+00:00",
+      "race_id": "qatar",
+      "category": "technique",
+      "tags": [
+        "technique"
+      ],
+      "importance": 48,
+      "is_breaking": false,
+      "summary_fr": "Les pneus Pirelli ont subi une usure de 100% en 15 tours à Lusail, bien au-delà des simulations. Le circuit de Qatar impose une limite de 27 tours par set, mais la réalité dépasse les prévisions.",
+      "summary_en": "Pirelli's tyres suffered 100% wear in 15 laps at Lusail, far exceeding simulations. The Qatar circuit imposes a 27-lap limit per set, but reality outstrips expectations."
+    },
     {
       "id": "4b2bee4000c7",
       "title": "Hankook tipped to enter race for F1 tyre supply contract",
@@ -666,101 +761,6 @@
       "is_breaking": false,
       "summary_fr": "Le pilote Hamilton a tenté de freiner Rosberg en fin de course, mais l'Allemand a conservé la tête et a remporté le championnat. La stratégie de Hamilton n'a pas suffi.",
       "summary_en": "Hamilton tried to slow Rosberg down, but the German kept the lead and secured the title. The strategy failed to stop him."
-    },
-    {
-      "id": "37c64570bd8a",
-      "title": "Toto Wolff responds to Kimi Antonelli salary questions after F1 title success",
-      "title_fr": "Wolff répond aux questions sur le salaire d'Antonelli après le titre",
-      "title_en": "Wolff addresses Antonelli salary questions after championship",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/toto-wolff-says-the-world-champion-should-be-rewarded-after-bild-puts-antonellis-pay-at-about-46-mi/10874830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6DGg4yGY/s6/andrea-kimi-antonelli-mercedes-a10874830-b705-2.jpg",
-      "published_at": "2026-11-26T23:00:02+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Toto Wolff a répondu aux interrogations sur le salaire de Kimi Antonelli, champion du monde, après sa victoire en Formule 1. Le pilote Mercedes a souligné que les termes initiaux de son contrat sont désormais dépassés.",
-      "summary_en": "Toto Wolff answered questions about Kimi Antonelli's salary after the Formula 1 world championship. The Mercedes driver said the original contract terms are now outdated."
-    },
-    {
-      "id": "73ad3dc65d57",
-      "title": "Max Verstappen details his ideal 2030 F1 Formula",
-      "title_fr": "Verstappen expose sa vision de la F1 2030",
-      "title_en": "Verstappen outlines his vision for 2030 F1",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10878035-b707-2.jpg",
-      "published_at": "2026-11-26T22:13:25+00:00",
-      "race_id": "lasvegas",
-      "category": "réglementation",
-      "tags": [
-        "réglementation"
-      ],
-      "importance": 50,
-      "is_breaking": false,
-      "summary_fr": "Après sa victoire à Las Vegas, Max Verstappen décrit la formule idéale de la F1 pour 2030, prônant des voitures plus légères, des moteurs simplifiés et une meilleure dynamique de dépassement.",
-      "summary_en": "After his chaotic Las Vegas win, Max Verstappen outlines his ideal 2030 F1, calling for lighter cars, simpler engines and a push‑to‑pass system."
-    },
-    {
-      "id": "2fd18e3a46b5",
-      "title": "Leclerc denies claim he has a ‘number one’ clause in his Ferrari contract | Formula 1",
-      "title_fr": "Leclerc nie clause numéro un dans son contrat Ferrari",
-      "title_en": "Leclerc denies ‘number one’ clause in Ferrari contract",
-      "source": "racefans.net",
-      "url": "https://www.racefans.net/2026/11/26/leclerc-denies-claim-he-has-a-number-one-clause-in-his-ferrari-contract/",
-      "image_url": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-25-19-18-59-1-261025_R18_USA_AC_CAT2670.jpg",
-      "published_at": "2026-11-26T21:14:39+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Charles Leclerc a rejeté les rumeurs selon lesquelles son contrat Ferrari inclurait une clause le désignant comme pilote numéro un. Le pilote a déclaré que cette information était fausse.",
-      "summary_en": "Charles Leclerc denied reports that his Ferrari contract contains a clause that would make him the team’s number one driver. He said the claim was false."
-    },
-    {
-      "id": "93492701ac76",
-      "title": "Kimi Antonelli teases Nordschleife race with Max Verstappen, but there is one condition",
-      "title_fr": "Antonelli rêve d'une course Nordschleife avec Verstappen, sous condition",
-      "title_en": "Antonelli eyes Nordschleife race with Verstappen, but one condition",
-      "source": "motorsport.com",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-teases-nordschleife-race-with-max-verstappen-but-there-is-one-condition/10878047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/6zoDNx70/s6/kimi-antonelli-mercedes-max-ve-a10878047-b708-2.jpg",
-      "published_at": "2026-11-26T20:56:51+00:00",
-      "race_id": null,
-      "category": "rumeur",
-      "tags": [
-        "rumeur"
-      ],
-      "importance": 42,
-      "is_breaking": false,
-      "summary_fr": "Le champion 2026 Kimi Antonelli exprime son envie de courir avec Max Verstappen sur la Nordschleife, mais il précise qu'il doit d'abord obtenir l'accord de Toto Wolff, le directeur de Mercedes.",
-      "summary_en": "2026 Formula 1 champion Kimi Antonelli says he'd love to race alongside Max Verstappen at the Nordschleife, but he admits he first needs the support of Mercedes team principal Toto Wolff."
-    },
-    {
-      "id": "34b9b6f021b2",
-      "title": "Verstappen to work with new race engineer Tom Hart again at Qatar GP",
-      "title_fr": "Verstappen passe à Tom Hart pour le Qatar GP",
-      "title_en": "Verstappen switches to Tom Hart for Qatar GP",
-      "source": "autosport.com",
-      "url": "https://www.autosport.com/f1/news/verstappen-to-work-with-new-race-engineer-tom-hart-again-at-qatar-gp/10878044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "image_url": "https://cdn-1.motorsport.com/images/amp/YP74Zm42/s6/max-verstappen-red-bull-racing-2.jpg",
-      "published_at": "2026-11-26T20:02:57+00:00",
-      "race_id": "qatar",
-      "category": "technique",
-      "tags": [
-        "technique"
-      ],
-      "importance": 48,
-      "is_breaking": false,
-      "summary_fr": "Max Verstappen ne sera pas accompagné de Gianpiero Lambiase ce week-end à Lusail. Red Bull a mis en place un système de rotation afin que Tom Hart s’installe avant son poste permanent.",
-      "summary_en": "Max Verstappen will not be accompanied by Gianpiero Lambiase this weekend at Lusail. Red Bull has implemented a rotation system so Tom Hart can settle in before his permanent role."
     }
   ]
 }
